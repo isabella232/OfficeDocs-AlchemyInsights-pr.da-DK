@@ -1,0 +1,29 @@
+---
+title: 616 Deling af kalendere
+ms.author: pdigia
+author: pdigia
+manager: jackiesm
+ms.date: 3/23/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
+ms.openlocfilehash: d8cefa95ccccb4a3b7c3560bb939e268c60ed9de
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: da-DK
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28282296"
+---
+# <a name="calendar-sharing"></a><span data-ttu-id="f11e0-102">Deling af kalendere</span><span class="sxs-lookup"><span data-stu-id="f11e0-102">Calendar sharing</span></span>
+
+- <span data-ttu-id="f11e0-103">Hvis du ikke kan se kalenderen ledig/optaget-oplysninger i andre kalendere, eller hvis andre ikke kan se ledig/optaget-oplysninger i kalenderen, kan du bruge [Microsoft Support og genoprettelse Assistant til Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="f11e0-103">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+    
+- [<span data-ttu-id="f11e0-104">Dele en Outlook-kalender med andre</span><span class="sxs-lookup"><span data-stu-id="f11e0-104">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+    
+- [<span data-ttu-id="f11e0-105">Dele din kalender i Outlook på internettet til virksomheder</span><span class="sxs-lookup"><span data-stu-id="f11e0-105">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+    
+

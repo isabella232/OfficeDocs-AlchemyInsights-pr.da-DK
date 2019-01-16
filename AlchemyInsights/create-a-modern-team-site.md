@@ -1,0 +1,31 @@
+---
+title: Opret et teamwebsted, moderne
+ms.author: clake
+author: spowriter
+ms.date: 11/9/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
+ms.openlocfilehash: 34d4392c241ce66f9a7d0465d4172c59ba6ac3b4
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: da-DK
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28282955"
+---
+# <a name="create-an-office-365-group-connected-team-site"></a><span data-ttu-id="0b8bb-102">Opret et websted med Office 365 gruppe forbundet team</span><span class="sxs-lookup"><span data-stu-id="0b8bb-102">Create an Office 365 group-connected team site</span></span>
+
+1. <span data-ttu-id="0b8bb-p101">Klik på ikonet til åbning af app i øverste venstre hjørne, og vælg **SharePoint**. Hvis du ikke kan se SharePoint-flisen, skal du klikke på **alle programmer**.</span><span class="sxs-lookup"><span data-stu-id="0b8bb-p101">Click the app launcher in the upper-left corner and select **SharePoint**. If you don't see the SharePoint tile, click **All apps**.</span></span>
+    
+2. <span data-ttu-id="0b8bb-105">Øverst på siden SharePoint, skal du klikke på **Opret websted** og vælge indstillingen **websted for Team** .</span><span class="sxs-lookup"><span data-stu-id="0b8bb-105">At the top of the SharePoint home page, click **Create site** and choose the **Team site** option.</span></span> 
+    
+    > [!NOTE]
+    > <span data-ttu-id="0b8bb-p102">Hvis du ikke kan se kommandoen Opret websted, oprettelse af websted muligvis ikke aktiveret i din organisation. For at aktivere den, skal du se [Administrer websteder](https://go.microsoft.com/fwlink/?linkid=2009644).</span><span class="sxs-lookup"><span data-stu-id="0b8bb-p102">If you don't see the Create site command, site creation may not be enabled in your organization. To enable it, see [Manage site creation](https://go.microsoft.com/fwlink/?linkid=2009644).</span></span> 
+  
+3. <span data-ttu-id="0b8bb-p103">Følg vejledningen på skærmen for at navngive webstedet og oprette en e-mail-adresse på Office 365-gruppen, og klik derefter på **Næste**. Du kan også tilføje andre ejere af grupper og medlemmer. Klik på **Udfør**.</span><span class="sxs-lookup"><span data-stu-id="0b8bb-p103">Follow the steps on the screen to name the site and create an email address for the Office 365 group, and then click **Next**. You can also add other group owners and members. Click **Finish**.</span></span>
+  
+ <span data-ttu-id="0b8bb-p104">**Bemærk:** For at oprette et websted for Team uden en gruppe, der er oprettet forbindelse, skal du følge trinene ovenfor, men i stedet for at vælge teamwebsted i trin 2. Vælg andre indstillinger. Dette fører dig gennem oprettelsen af et websted for Team uden en gruppe.</span><span class="sxs-lookup"><span data-stu-id="0b8bb-p104">**Note:** To create a Team Site without a group connected, follow the steps above, but instead of selecting Team Site in Step 2. select Other options. This will guide you through creating a Team Site without a group.</span></span> 
+    
+
