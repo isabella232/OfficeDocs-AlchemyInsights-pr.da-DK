@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: da-DK
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383213"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11/1/2019 | [Sletning af brugere](/AlchemyInsights/deleting-users) | ændret |
 | 11/1/2019 | [Implementere problemfri Single Sign-On](/AlchemyInsights/deploy-seamless-single-sign-on) | ændret |
 | 11/1/2019 | [Deaktivere adgang til Yammer](/AlchemyInsights/disable-access-to-yammer) | ændret |
+
+
+## <a name="week-of-january-14-2019"></a>Uge af januar 14 2019
+
+
+| Udgivet på |Emnetitel | Skift |
+|------|------------|--------|
+| 14/1/2019 | Pladsholder til alchemy | fjernet |
+| 14/1/2019 | Tilføj domæne alchemy | fjernet |
+| 14/1/2019 | [Alchemy viden hjem](/AlchemyInsights/index) | ændret |
+| 17-1/2019 | [samme som filnavn er bedst [regel #-beskrivelse]](/AlchemyInsights/1-alchemy-insight-template) | tilføjet |
