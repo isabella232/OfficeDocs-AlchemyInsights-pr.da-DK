@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28282560"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29464631"
 ---
 Har du problemer med **Data tab forebyggelse (DLP)** ikke arbejder for indhold, der indeholder et **Kreditkortnummer** , når du bruger typen DLP følsomme oplysninger i O365? I så fald sikre, at indholdet indeholder de nødvendige oplysninger til at udløse den DLP-politik, når det evalueres. For eksempel for en **politik for kreditkort** , der er konfigureret med et konfidensniveau på 85%, følgende evalueres, og skal registreres for reglen, der udløser: 
   

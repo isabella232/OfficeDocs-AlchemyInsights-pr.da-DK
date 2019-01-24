@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
 ms.openlocfilehash: 716d1030d93ce006c36d7925fb132e974ae8feb4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283456"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29464198"
 ---
 Du har problemer med **Data tab forebyggelse (DLP)** ikke arbejder for indhold, der indeholder en **US / UK pasnummer** ved brug af typen DLP følsomme oplysninger i O365? Hvis det er tilfældet, skal du sørge for dit indhold indeholder de nødvendige oplysninger for det DLP-Gruppepolitik er søger efter, når det evalueres. 
   

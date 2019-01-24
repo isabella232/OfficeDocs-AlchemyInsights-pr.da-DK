@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: 6eae9146d33f5fc307085dbf931d57bdbb28b82e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283516"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29463770"
 ---
 Har du problemer med **Data tab forebyggelse (DLP)** ikke arbejder for indhold, der indeholder et **Amerikansk bankkontonummer** , når du bruger typen DLP følsomme oplysninger i O365? Hvis det er tilfældet, skal du sørge for dit indhold indeholder de nødvendige oplysninger for det DLP-Gruppepolitik er søger efter, når det evalueres. 
   

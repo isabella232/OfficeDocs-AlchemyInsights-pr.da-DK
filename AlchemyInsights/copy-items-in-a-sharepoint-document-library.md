@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283376"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29464653"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Kopier elementer i et SharePoint-dokumentbibliotek
 
@@ -35,6 +35,6 @@ ms.locfileid: "28283376"
 3. Klik på **Kopier hertil**.
     
 > [!NOTE]
->  Du kan kopiere op til 500 MB af filer og mapper på én gang. > Når du bruger **Kopier til** med dokumenter, der har versionshistorik, kopieres kun den nyeste version. 
+>  Du kan kopiere op til 500 MB af filer og mapper på én gang. >, når du bruger **Kopier til** med dokumenter, der har versionshistorik, den nyeste version er kopieret. 
   
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: bbaa91c8beadb5508176fb8e2c225a0aaa0e0613
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28283209"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29464594"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Sådan tilføjes eller reducere antallet af licenser
 
@@ -39,7 +39,7 @@ Her er hvordan du fjerner eller købe flere licenser.
   
  **Ressourcer**
   
-- [Fjerne licenser fra dit abonnement på Office 365 til virksomheder](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
+- Fjerne licenser fra dit abonnement på Office 365 til virksomheder
     
 - [Købe licenser til din Office 365 for business-abonnement](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
     
