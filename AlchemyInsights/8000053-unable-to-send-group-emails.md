@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
 ms.openlocfilehash: d5ffe2695c7a81380126e6ee58eae8fcbcb72832
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28282815"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29464010"
 ---
 # <a name="unable-to-send-group-emails"></a>Kan ikke sende e-mails til gruppen
 
@@ -26,7 +26,7 @@ Hvis du er i stand til at sende en e-mail til lister over kontaktpersoner eller 
     
 2. Hvis du stadig har problemer med at skrive en e-mail til din gruppe, gå til [personer](https://outlook.live.com/people/), vælge kontaktliste eller gruppen, og vælg derefter **Send e-mail**.
     
- **Bemærk:**
+ Bemærk:
   
 1. Kontroller, at du ikke har en pop op-vinduer blokeret: sende en e-mail fra siden med listen over kontaktpersoner åbnes et nyt vindue.
     

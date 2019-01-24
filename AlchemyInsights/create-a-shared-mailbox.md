@@ -1,5 +1,5 @@
 ---
-title: Opret en delt postkasse
+title: Oprette en delt postkasse
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 44c07b78c7cf52ab10b11cb3b94ae2eae76ad887
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28282239"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29464633"
 ---
-# <a name="create-a-shared-mailbox"></a>Opret en delt postkasse
+# <a name="create-a-shared-mailbox"></a>Oprette en delt postkasse
 
 En delt postkasse kan mere end én person sende og modtage e-mail til et alias, som **sales@contoso.com**, uden at tildele en anden licens.
   
