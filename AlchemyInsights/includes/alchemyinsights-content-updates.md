@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383213"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454424"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383213"
 ## <a name="week-of-january-07-2019"></a>Uge af januar 07 2019
 
 
-| Udgivet på |Emnetitel | Skift |
+| Udgivet på |Emnetitel | Rediger. |
 |------|------------|--------|
 | 7-1/2019 | [Ændre din adgangskode](/AlchemyInsights/change-your-password-in-outlook.com) | tilføjet |
 | 7-1/2019 | [Ændring af tilladelser til en postkasse](/AlchemyInsights/changing-permissions-on-a-mailbox) | tilføjet |
@@ -302,7 +302,7 @@ ms.locfileid: "29383213"
 | 10-1/2019 | [Oprette et kommunikationswebsted til](/AlchemyInsights/create-a-communication-site) | tilføjet |
 | 10-1/2019 | [Oprette et flow](/AlchemyInsights/create-a-flow) | tilføjet |
 | 10-1/2019 | [Opret et teamwebsted, moderne](/AlchemyInsights/create-a-modern-team-site) | tilføjet |
-| 10-1/2019 | [Opret en delt postkasse](/AlchemyInsights/create-a-shared-mailbox) | tilføjet |
+| 10-1/2019 | Oprette en delt postkasse | tilføjet |
 | 10-1/2019 | [Oprette et SharePoint-websted](/AlchemyInsights/create-a-sharepoint-site) | tilføjet |
 | 10-1/2019 | [Oprette et websted i SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | tilføjet |
 | 10-1/2019 | [Oprette og bruge en delt postkasse](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | tilføjet |
@@ -599,7 +599,7 @@ ms.locfileid: "29383213"
 | 11/1/2019 | [Oprette et kommunikationswebsted til](/AlchemyInsights/create-a-communication-site) | ændret |
 | 11/1/2019 | [Oprette et flow](/AlchemyInsights/create-a-flow) | ændret |
 | 11/1/2019 | [Opret et teamwebsted, moderne](/AlchemyInsights/create-a-modern-team-site) | ændret |
-| 11/1/2019 | [Opret en delt postkasse](/AlchemyInsights/create-a-shared-mailbox) | ændret |
+| 11/1/2019 | Oprette en delt postkasse | ændret |
 | 11/1/2019 | [Oprette et SharePoint-websted](/AlchemyInsights/create-a-sharepoint-site) | ændret |
 | 11/1/2019 | [Oprette et websted i SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | ændret |
 | 11/1/2019 | [Oprette og bruge en delt postkasse](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | ændret |
@@ -637,7 +637,7 @@ ms.locfileid: "29383213"
 ## <a name="week-of-january-14-2019"></a>Uge af januar 14 2019
 
 
-| Udgivet på |Emnetitel | Skift |
+| Udgivet på |Emnetitel | Rediger. |
 |------|------------|--------|
 | 14/1/2019 | Pladsholder til alchemy | fjernet |
 | 14/1/2019 | Tilføj domæne alchemy | fjernet |
