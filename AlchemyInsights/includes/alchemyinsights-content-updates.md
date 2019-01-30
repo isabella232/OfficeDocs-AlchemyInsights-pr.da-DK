@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454424"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454424"
 ## <a name="week-of-january-07-2019"></a>Uge af januar 07 2019
 
 
-| Udgivet på |Emnetitel | Rediger. |
+| Udgivet på |Emnetitel | Skift |
 |------|------------|--------|
 | 7-1/2019 | [Ændre din adgangskode](/AlchemyInsights/change-your-password-in-outlook.com) | tilføjet |
 | 7-1/2019 | [Ændring af tilladelser til en postkasse](/AlchemyInsights/changing-permissions-on-a-mailbox) | tilføjet |
@@ -302,7 +294,7 @@ ms.locfileid: "29454424"
 | 10-1/2019 | [Oprette et kommunikationswebsted til](/AlchemyInsights/create-a-communication-site) | tilføjet |
 | 10-1/2019 | [Oprette et flow](/AlchemyInsights/create-a-flow) | tilføjet |
 | 10-1/2019 | [Opret et teamwebsted, moderne](/AlchemyInsights/create-a-modern-team-site) | tilføjet |
-| 10-1/2019 | Oprette en delt postkasse | tilføjet |
+| 10-1/2019 | [Opret en delt postkasse](/AlchemyInsights/create-a-shared-mailbox) | tilføjet |
 | 10-1/2019 | [Oprette et SharePoint-websted](/AlchemyInsights/create-a-sharepoint-site) | tilføjet |
 | 10-1/2019 | [Oprette et websted i SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | tilføjet |
 | 10-1/2019 | [Oprette og bruge en delt postkasse](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | tilføjet |
@@ -599,7 +591,7 @@ ms.locfileid: "29454424"
 | 11/1/2019 | [Oprette et kommunikationswebsted til](/AlchemyInsights/create-a-communication-site) | ændret |
 | 11/1/2019 | [Oprette et flow](/AlchemyInsights/create-a-flow) | ændret |
 | 11/1/2019 | [Opret et teamwebsted, moderne](/AlchemyInsights/create-a-modern-team-site) | ændret |
-| 11/1/2019 | Oprette en delt postkasse | ændret |
+| 11/1/2019 | [Opret en delt postkasse](/AlchemyInsights/create-a-shared-mailbox) | ændret |
 | 11/1/2019 | [Oprette et SharePoint-websted](/AlchemyInsights/create-a-sharepoint-site) | ændret |
 | 11/1/2019 | [Oprette et websted i SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | ændret |
 | 11/1/2019 | [Oprette og bruge en delt postkasse](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | ændret |
@@ -637,9 +629,25 @@ ms.locfileid: "29454424"
 ## <a name="week-of-january-14-2019"></a>Uge af januar 14 2019
 
 
-| Udgivet på |Emnetitel | Rediger. |
+| Udgivet på |Emnetitel | Skift |
 |------|------------|--------|
 | 14/1/2019 | Pladsholder til alchemy | fjernet |
 | 14/1/2019 | Tilføj domæne alchemy | fjernet |
 | 14/1/2019 | [Alchemy viden hjem](/AlchemyInsights/index) | ændret |
 | 17-1/2019 | [samme som filnavn er bedst [regel #-beskrivelse]](/AlchemyInsights/1-alchemy-insight-template) | tilføjet |
+
+
+## <a name="week-of-january-21-2019"></a>Uge af januar 21 2019
+
+
+| Udgivet på |Emnetitel | Skift |
+|------|------------|--------|
+| 22-1/2019 | [1047 antiSpam 550 5.7.708 tjenesten er ikke tilgængelig. Nægtet adgang, ikke accepteret fra dette IP-trafik](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | ændret |
+| 22-1/2019 | [1049 antiSpam 4.5.3 for mange modtagere (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | ændret |
+| 22-1/2019 | [1050 antispam 4.7.500 serveren er optaget. Prøv igen senere fra [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | ændret |
+| 22-1/2019 | [1051 antispam 4.7.500 nægtet adgang, prøv igen senere](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | ændret |
+| 22-1/2019 | [Videresendelse af e-mail via Office 365](/AlchemyInsights/relay-email-through-office-365) | ændret |
+| 24-1/2019 | [Oprettelse af kontrolelement af grupper](/AlchemyInsights/control-creation-of-groups) | ændret |
+| 24-1/2019 | [Problemer i Outlook med Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | tilføjet |
+| 24-1/2019 | [Gendanne en Office 365-gruppe, der bruger Exchange admin center](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | omdøbt |
+| 24-1/2019 | [Fejlfinding af problemer med Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | omdøbt |
