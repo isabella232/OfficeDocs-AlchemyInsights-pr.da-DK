@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: Fokusere på mere end 500 ord for en artikel.
-ms.openlocfilehash: 001833aeec5e8f6783aaa68c45406d43aba752fb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ba06121faec69ab80805be9f1507a1dd5e9649d8
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498152"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662177"
 ---
-<span data-ttu-id="df3d6-103">Fokusere på mere end 500 ord for en artikel.</span><span class="sxs-lookup"><span data-stu-id="df3d6-103">Target no more than 500 words for an article.</span></span>
+<span data-ttu-id="17d33-103">Fokusere på mere end 500 ord for en artikel.</span><span class="sxs-lookup"><span data-stu-id="17d33-103">Target no more than 500 words for an article.</span></span>
   
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a><span data-ttu-id="df3d6-104">Har en medarbejder forlader og har brug for at blokere adgangen til data og e-mail?</span><span class="sxs-lookup"><span data-stu-id="df3d6-104">Have an employee leaving and need to block access to data and email?</span></span>
+# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a><span data-ttu-id="17d33-104">Har en medarbejder forlader og har brug for at blokere adgangen til data og e-mail?</span><span class="sxs-lookup"><span data-stu-id="17d33-104">Have an employee leaving and need to block access to data and email?</span></span>
 
-<span data-ttu-id="df3d6-105">Sådan gør du:</span><span class="sxs-lookup"><span data-stu-id="df3d6-105">To do this:</span></span>
+<span data-ttu-id="17d33-105">Sådan gør du:</span><span class="sxs-lookup"><span data-stu-id="17d33-105">To do this:</span></span>
   
-1. <span data-ttu-id="df3d6-106">Gå til [aktive brugere](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users).</span><span class="sxs-lookup"><span data-stu-id="df3d6-106">Go to [Active Users](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users).</span></span>
+1. <span data-ttu-id="17d33-106">Gå til [aktive brugere](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users).</span><span class="sxs-lookup"><span data-stu-id="17d33-106">Go to [Active Users](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users).</span></span>
     
-2. <span data-ttu-id="df3d6-107">Vælg den bruger, du vil blokere.</span><span class="sxs-lookup"><span data-stu-id="df3d6-107">Select the user you want to block.</span></span> 
+2. <span data-ttu-id="17d33-107">Vælg den bruger, du vil blokere.</span><span class="sxs-lookup"><span data-stu-id="17d33-107">Select the user you want to block.</span></span> 
     
-3. <span data-ttu-id="df3d6-108">Ved siden af logon status ved at vælge **Rediger**.</span><span class="sxs-lookup"><span data-stu-id="df3d6-108">Next to Sign-in status, choose **Edit**.</span></span> 
+3. <span data-ttu-id="17d33-108">Ved siden af logon status ved at vælge **Rediger**.</span><span class="sxs-lookup"><span data-stu-id="17d33-108">Next to Sign-in status, choose **Edit**.</span></span> 
     
-4. <span data-ttu-id="df3d6-109">Vælg **forhindre brugeren i at logge på** \> **Gem**.</span><span class="sxs-lookup"><span data-stu-id="df3d6-109">Choose **Block the user from signing in** \> **Save**.</span></span> 
+4. <span data-ttu-id="17d33-109">Vælg **forhindre brugeren i at logge på** \> **Gem**.</span><span class="sxs-lookup"><span data-stu-id="17d33-109">Choose **Block the user from signing in** \> **Save**.</span></span> 
     
- <span data-ttu-id="df3d6-p101">**Bemærk**: hvor for nogle programmer ikke muligvis straks. Følge op på flere handlinger i denne artikel: [fjerne en tidligere medarbejder fra Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span><span class="sxs-lookup"><span data-stu-id="df3d6-p101">**Note**: Sign-out for some apps might not be immediate. Follow up with more actions in this article: [Remove a former employee from Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span></span>
+ <span data-ttu-id="17d33-p101">**Bemærk**: hvor for nogle programmer ikke muligvis straks. Følge op på flere handlinger i denne artikel: [fjerne en tidligere medarbejder fra Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span><span class="sxs-lookup"><span data-stu-id="17d33-p101">**Note**: Sign-out for some apps might not be immediate. Follow up with more actions in this article: [Remove a former employee from Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span></span>
   
 
