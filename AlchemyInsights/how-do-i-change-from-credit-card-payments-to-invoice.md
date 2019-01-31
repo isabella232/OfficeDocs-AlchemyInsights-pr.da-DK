@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464638"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661205"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hvordan ændrer jeg fra betalinger med kreditkort til at fakturere?
 
@@ -28,12 +28,9 @@ ms.locfileid: "29464638"
 2. Vælg det abonnement, du vil ændre. Vælg **Rediger betalingsoplysninger**i afsnittet **betalingsmetode** .
     
 3. Vælg **Rediger betalingsmetoden**i ruden **Rediger betalingsoplysninger** .
-    
-    > [!TIP]
-    > Hvis linket **Skift din betalingsmetode** ikke vises, betyder det, at skifte fra kreditkort eller bankkonto til at fakturere er ikke tilgængelig for abonnementet da abonnementet ikke opfylder det mindste kostbeløb for fakturering af faktura. Det mindste kostbeløb, der skal faktureres efter faktura varierer efter geografisk placering. 
+<br>*Bemærk: Hvis linket **Skift din betalingsmetode** ikke vises, betyder det, at skifte fra kreditkort eller bankkonto til at fakturere er ikke tilgængelig for abonnementet da abonnementet ikke opfylder det mindste kostbeløb for fakturering af faktura. Det mindste kostbeløb, der skal faktureres efter faktura varierer efter geografisk placering.*
   
 4. I den ** ændre betalingsmetoden ** dialogboks skal du vælge **Fortsæt**.
     
 5. Vælg **OK** for at vende tilbage til centeret administration. 
-    
-
+   

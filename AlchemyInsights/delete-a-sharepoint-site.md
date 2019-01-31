@@ -2,51 +2,30 @@
 title: Slette et SharePoint-websted
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464545"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660010"
 ---
 # <a name="delete-a-sharepoint-site"></a>Slette et SharePoint-websted
-
- **Slette websteder, der hører til en Office 365-gruppe:**
+ **Fjerne websteder fra det nye SharePoint admin center**
   
-Når brugerne opretter et nyt websted for team SharePoint hjemmefra (eller du opretter et nyt websted for team fra den nye SharePoint admin center eksempel), oprettes der automatisk en tilsvarende Office 365-gruppe. Office 365 gruppe forbundet gruppewebsteder oprettes også, når du opretter en Office 365-gruppe eller et team i Microsoft Teams. Hvis du vil slette et SharePoint-websted, der tilhører en gruppe af Office 365, skal du slette selve Office 365-gruppen. 
+Hvis du vil slette et aktivt websted, gå til aktuelle SharePoint Administration center, klik på "Prøv det nu" i øverste højre hjørne. Vælg **aktive websteder**, Vælg lokation, og vælg derefter **Slet**. Til at [få vist og gendanne slettet websteder i det nye SharePoint Administration center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), markere **slettet websteder**. Du kan finde flere oplysninger, skal [Administrer websteder i det nye SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Gå til den [side af grupper af Office 365 admin center](https://portal.office.com/adminportal/home#/groups).
+**Vigtigt:** Hvis webstedet er en del af en opbevaringspolitik, kan du muligvis ikke slette den, indtil webstedet er fjernet fra den [sikkerhed &amp; Admin Overholdelsescenter](https://protection.office.com/?rfr=AdminCenter#/homepage). Yderligere oplysninger finder du under [Oversigt over opbevaringspolitikker](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Marker afkrydsningsfeltet ud for gruppen.
-  
-3. Vælg **Slet**. 
-  
-Bemærk: Når du sletter en gruppe, der kan være en forsinkelse, før webstedet er fjernet fra SharePoint.
-  
- **Slet kommunikation og klassiske steder:**
-  
-1. Gå til webstedet.
-  
-2. Klik på den ** indstillinger ** (gear hjul ikon) i øverste højre hjørne. 
-  
-3. Klik på **Indstillinger for websted**. Klik på **Slet webstedet**under **Oplysninger på webstedet** eller **Webstedshandlinger**, og klik derefter på **Slet**. 
-  
- **Slet SharePoint-websteder:**
-  
-Sådan slettes en klassisk gruppe af websteder:
-  
-1. Marker **afkrydsningsfeltet** ud for den gruppe af websteder i den klassiske SharePoint admin center, på siden samlinger. 
-  
-2. Vælg fanen websteder **slettes.**
-  
- **Slettes et websted ved et uheld?**
-  
-Se [gendanne en slettet gruppe af websteder](https://go.microsoft.com/fwlink/?linkid=867660).
+Tip:
+- Globale administratorer og administratorer af SharePoint kan du nu slette websteder, der tilhører en **Gruppe af Office 365**. Dette vil slette gruppen og alle dens ressourcer, herunder Outlook-postkasse og kalender og alle grupper kanaler. Se [slette et SharePoint-websted](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) for at få yderligere oplysninger
+- Du kan gendanne slettede websteder i 93 dage. Bemærk, at der skal gendannes slettede grupper inden for 30 dage. For flere oplysninger se [visning og gendanne slettet websteder](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Hvis du vil fjerne et websted med Powershell fuldstændigt, se eksemplet med [Fjern-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) -cmdlet. 
   
 

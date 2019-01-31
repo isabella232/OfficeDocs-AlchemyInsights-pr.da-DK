@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 2331b2a599da3bb05d6ae89dd80ef09739d5525a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 46f868dba0f5e99ed1d2df7cf9bed7e5ebb350c9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464582"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660125"
 ---
-- Hvis du vil anvende en retssag hold hold eller en lokal til en postkasse, der kræves en [licens til Exchange Online Plan 2](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Hvis du har en anden Plan, kan du tildele en separat licens til [Exchange Online arkivering](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) til kontoen. 
+- Hvis du vil anvende en retssag hold hold eller en lokal til en postkasse, der kræves en [licens til Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Hvis du har en anden Plan, kan du tildele en separat licens til [Exchange Online arkivering](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) til kontoen. 
     
-- **At aktivere en retssag hold** for en enkelt bruger, skal du følge fremgangsmåden [her](https://docs.microsoft.com/en-us/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Når tvister hold er aktiveret, placeres alle indholdet i postkassen på hold.
+- **At aktivere en retssag hold** for en enkelt bruger, skal du følge fremgangsmåden [her](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Når tvister hold er aktiveret, placeres alle indholdet i postkassen på hold.
     
-- Hvis du vil anvende en **lokal hold på enkeltbrugere** eller et hold til **alle postkasser i hele organisationen**, kan du bruge opbevaringspolitikker i Office 365 sikkerhed og kompatibilitet center ved at følge den fremgangsmåde beskrevet [her](https://docs.microsoft.com/en-us/Office365/securitycompliance/retention-policies ).
+- Hvis du vil anvende en **lokal hold på enkeltbrugere** eller et hold til **alle postkasser i hele organisationen**, kan du bruge opbevaringspolitikker i Office 365 sikkerhed og kompatibilitet center ved at følge den fremgangsmåde beskrevet [her](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
     > For Org hele opbevaringspolitikker føjes nye brugere automatisk til ventepositionen. 
   
-- For at se eller finde det indhold, som postkasse, der er sat i venteposition, skal du bruge **eDiscovery søgning og eksport**. Oplysninger om brug af **eksport og eDiscovery søgning**, skal du følge den fremgangsmåde beskrevet [her](https://docs.microsoft.com/en-us/office365/securitycompliance/export-search-results).
+- For at se eller finde det indhold, som postkasse, der er sat i venteposition, skal du bruge **eDiscovery søgning og eksport**. Oplysninger om brug af **eksport og eDiscovery søgning**, skal du følge den fremgangsmåde beskrevet [her](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

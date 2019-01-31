@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
-ms.openlocfilehash: 13e840e5ed413359ba32498fd6e7a2f6312c1e85
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 03c8a26d66eef67009ab0230ab4ede25fa0a3817
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464111"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659873"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Fejlfinding i forbindelse med tilmeldingsmuligheder Microsoft Intune
 
 Gennemse ressourcerne nedenfor til at løse dit problem nu. 
   
-- [Gennemse Intune TechNet for at finde svar og løsninger på almindelige problemer](https://social.technet.microsoft.com/Forums/en-US/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Gennemse Intune TechNet for at finde svar og løsninger på almindelige problemer](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Bruge [Intune fejlfinding Portal](https://aka.ms/intunetroubleshooting) til at diagnosticere og løse almindelige fejl i registreringen. Gennemse [dette dokument](https://docs.microsoft.com/en-us/intune/help-desk-operators) for at få yderligere oplysninger. 
+- Bruge [Intune fejlfinding Portal](https://aka.ms/intunetroubleshooting) til at diagnosticere og løse almindelige fejl i registreringen. Gennemse [dette dokument](https://docs.microsoft.com/intune/help-desk-operators) for at få yderligere oplysninger. 
     
-- Gennemse [dette dokument](https://docs.microsoft.com/en-us/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver. 
+- Gennemse [dette dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver. 
     
-- [Få mere at vide om indstillingerne for certifikatregistreringspolitik i Microsoft Intune](https://docs.microsoft.com/en-us/intune/enrollment-options).
+- [Få mere at vide om indstillingerne for certifikatregistreringspolitik i Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

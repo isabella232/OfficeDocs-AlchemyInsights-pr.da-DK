@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: dd7166257f2bc17c9b483a95a97a45abd5e99874
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f3e333c752e00e0e8c37d76a3aede09ea47f36e9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464345"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660773"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Overføre data til offentlig mappe til Office 365
 
@@ -22,7 +22,7 @@ Hvis du ikke har en masse offentlige mapper til at hente til Office 365, er den 
   
 For større organisationer, der flytter offentlige mapper i Office 365, har vi flere hjælpelinjer, der er tilgængelige:
   
-- [Overførsel ældre offentlige mapper](https://technet.microsoft.com/en-us/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 og tidligere) 
+- [Overførsel ældre offentlige mapper](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 og tidligere) 
     
 - [Overflytte Exchange 2013 offentlige mapper](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     

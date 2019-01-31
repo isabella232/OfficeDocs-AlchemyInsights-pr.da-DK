@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
-ms.openlocfilehash: 43a12ea8c5007d77cc82b0a4f8678a1533f74a55
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c278f9f41b904a96812411842b925aa9ba6afd96
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464614"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661853"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Fejlfinding i forbindelse med registreringen af macOS enheder i Microsoft Intune
 
 Gennemse ressourcerne nedenfor til at løse dit problem nu. 
   
-1. Bruge [Intune fejlfinding Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige fejl i registreringen. Gennemse [dette dokument](https://docs.microsoft.com/en-us/intune/help-desk-operators) for at få yderligere oplysninger. 
+1. Bruge [Intune fejlfinding Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige fejl i registreringen. Gennemse [dette dokument](https://docs.microsoft.com/intune/help-desk-operators) for at få yderligere oplysninger. 
     
-2. Gennemse [dette dokument](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) for en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver. 
+2. Gennemse [dette dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) for en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver. 
     
-3. [Lær at tilmelde macOS enheder i Microsoft Intune](https://docs.microsoft.com/en-us/intune/macos-enroll).
+3. [Lær at tilmelde macOS enheder i Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
     
-[Tjek slutbrugeren guide til at tilmelde macOS enhed i Microsoft Intune](https://docs.microsoft.com/en-us/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Tjek slutbrugeren guide til at tilmelde macOS enhed i Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
 

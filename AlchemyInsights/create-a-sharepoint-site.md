@@ -2,29 +2,25 @@
 title: Oprette et SharePoint-websted
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464126"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657497"
 ---
 # <a name="create-a-sharepoint-site"></a>Oprette et SharePoint-websted
 
-For at administrere websteder i det nye SharePoint Administration center, gå til administrationssiden aktuelle SharePoint, skal du klikke på "Prøv det nu" i øverste højre hjørne og derefter vælge aktive websteder. Oplysninger om den nye SharePoint-admin center finder du [komme i gang med den nye SharePoint-administrationssiden.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)
+Indstillinger for oprettelse af websteder finder du under [Administrer websteder i det nye SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation ) . Vælg for at oprette et [websted for team](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (hvilket opretter en Office 365-gruppe) eller et [kommunikationswebsted](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Hvis du vil oprette et [Klassisk websted](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)eller et nyt websted for team, der ikke omfatter en gruppe af Office 365, skal du klikke på **andre indstillinger**. 
   
-1. Klik på **Opret**. 
-    
-2. Vælg for at oprette et gruppewebsted (der opretter en Office 365-gruppe) eller et kommunikationswebsted. Hvis du vil oprette et klassisk websted eller et nyt websted for team, der ikke omfatter en gruppe af Office 365, skal du klikke på **andre indstillinger**. Se [Opret et websted for team i SharePoint Online](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) og [Opret en kommunikationswebsted i SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)for at få oplysninger om de nye webstedsskabeloner.
-  
- **Bemærk:** Du kan ikke oprette et nyt websted med samme URL-adresse på et eksisterende websted. Hvis du har slettet et websted og der ønsker at genbruge URL-adressen, det er muligt med den URL-adresse, du er interesseret i at bruge webstedet findes stadig i **slettet websteder.** Klik på **websteder, slettes**, fremhæve webstedet for at slette og klik på knappen **Slet** . 
-  
- **Bemærk:** Hvis du vil administrere, hvem der kan oprette websteder, se [Administrer websteder i SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).
-    
-
+Tip:
+- *Du kan ikke oprette et websted med samme URL-adresse på et eksisterende websted. Hvis du har slettet et websted og der ønsker at genbruge URL-adressen, kan webstedet slettede stadig findes under **websteder slettes**. Slettet steder se, [slette et websted](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)til at administrere. Hvis du vil fjerne et websted med Powershell fuldstændigt, se eksemplet med [Fjern-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) -cmdlet.*
+- *Nogle brugere muligvis ikke at oprette et websted. Se [Administrer websteder i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
+- *Det er muligt, at webstedet vises fastlåste ved **oprettelse af** længere tid end forventet. Hvis der er gået mere end 24 timer, da du så først problemet, skal du logge en støtte billet. I mange tilfælde kan arbejder vi allerede på en løsning. Giv os, mindst 24 timer at gennemføre en løsning.*

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464390"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646377"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Slette websteder, der hører til en Office 365-gruppe:
 
@@ -30,7 +30,7 @@ Når brugerne opretter et nyt websted for team SharePoint hjemmefra (eller du op
     
 Bemærk: Når du sletter en gruppe, der kan være en forsinkelse, før webstedet er fjernet fra SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Slet kommunikation og klassiske steder:
+**Slet kommunikation og klassiske steder:**
 
 1. Gå til webstedet.
   
@@ -38,7 +38,7 @@ Bemærk: Når du sletter en gruppe, der kan være en forsinkelse, før webstedet
   
 3. Klik på **Indstillinger for websted**. Klik på **Slet webstedet**under **Oplysninger på webstedet** eller **Webstedshandlinger**, og klik derefter på **Slet**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>Slet SharePoint-websteder:
+**Slet SharePoint-websteder:**
 
 Sådan slettes en klassisk gruppe af websteder:
   
@@ -46,7 +46,7 @@ Sådan slettes en klassisk gruppe af websteder:
     
 2. Vælg fanen websteder **slettes.**
     
-## <a name="deleted-a-site-by-accident"></a>Slettes et websted ved et uheld?
+**Slettes et websted ved et uheld?**
 
 Se [gendanne en slettet gruppe af websteder](https://go.microsoft.com/fwlink/?linkid=867660).
   

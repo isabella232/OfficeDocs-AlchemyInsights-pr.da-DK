@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3b50bc96a879017b62e42e1849f72e68408a0d9d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464486"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662321"
 ---
 # <a name="conditional-access-with-intune"></a>Adgangsstyring med Intune
 
@@ -25,10 +25,10 @@ Ved hjælp af **Adgangsstyring** med Intune kræver 3 trin:
     
 - At sikre både **Overholdelse politikker** og **Betinget adgang politikker** er målrettet til de ønskede grupper af brugere. Dette kan kræve oprettelse af bestemte grupper af brugere i Active Directory i Azure. 
     
-Læs mere
+Læs mere:
   
-- [Bedste fremgangsmåder for betinget adgang](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
+- [Bedste fremgangsmåder for betinget adgang](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Introduktion til betinget adgang](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Introduktion til betinget adgang](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 
