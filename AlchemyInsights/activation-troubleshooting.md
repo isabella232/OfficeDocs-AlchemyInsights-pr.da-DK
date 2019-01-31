@@ -2,44 +2,28 @@
 title: Aktivering af fejlfinding
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Start din artikel med en meget kort introduktion (1 punktum). Sætte dig selv i læserens sted - Hvorfor er de her? Hvad gør de?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498260"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646953"
 ---
-Start din artikel med en meget kort introduktion (1 punktum). Sætte dig selv i læserens sted - Hvorfor er de her? Hvad gør de? 
-  
-1. Gå direkte til en hurtig oversigt over trin for at udføre opgaven.
-    
-    Hvis du har brug at forklare et begreb, eller de har at gøre forhånd nødvendige trin, kan du tilføje en hurtig oversigt under det trin, hvor de har brug for det og [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) til begrebet eller trin. 
-    
-2. Holde procedurer kort - helst 5 eller færre trin, mere end 8.
-    
-3. Brug **format til brugergrænsefladen** for elementer på brugergrænsefladen eller for tekst, brugerne skal angive. 
-    
-4. Brug verberne vælge, vælger, eller Angiv som aktioner og formatere menuer som **i menuen** \> **kommando**.
-    
-5. Tilføj eventuelt et skærmbillede for kontekst (hvis Brugergrænsefladen er svært at finde, eller der er behov at fuldføre opgaven).
-    
-    Største bredde: 520 pixel. Brug en standard tema, ikke vise personlige oplysninger, og Beskær for at vise kun, hvad der er relevant. 
-    
-    ![Pladsholder - største bredde for SOC artikel art er 520 pixel](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Hvis du vil tilføje en video eller et skærmbillede, bruge et gitter med to kolonner og have trinnene i venstre og video eller skærmbillede til højre - se [Eksempel på video gitter og trin](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Fokusere på mere end 500 ord for en artikel.
-  
-# <a name="example-article"></a>Eksempel-artikel
+# <a name="activation-troubleshooting"></a>Aktivering af fejlfinding
 
-[Ændre mit foto](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+I **Kontrolpanel** \> **programmer og funktioner**, søge efter Office. Du bør se Microsoft Office 365 ProPlus eller Microsoft Office 365-Business. Hvis der vises mere end én version af Office, der er angivet, kan du fjerne den version, du ikke bruger. 
   
-
+Hvis du ikke kan fjerne ved hjælp af Kontrolpanel, kan du bruge [Support og genoprettelse-assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) til at fjerne den version, du ikke bruger. 
+  
+Hvis Office er stadig uden licens, gå tilbage til **Kontrolpanel** \> **programmer og funktioner**. Højreklik på den resterende Office-installation, Vælg **Rediger** (eller Skift), og vælg derefter **Online reparation**. Online reparationen kan tage et stykke tid. Derefter genstarte Office og logge på med dit arbejde eller skole konto, hvis du bliver bedt om.
+  
+Hvis Office er stadig uden licens, kan du hente og derefter køre til [aktivering af fejlfinding](https://aka.ms/SARA-OfficeActivation-Alchemy) på computeren til at løse aktiveringsproblemer med. 
+  
+Yderligere oplysninger finder du: [ikke-licenserede produkt og af aktiveringsfejl i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
