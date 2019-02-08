@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464529"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770647"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Om stedfortrædere i Outlook og Outlook på internettet
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Fejlfinding i forbindelse med delegation i Outlook og Outlook på internettet
 
-Yderligere oplysninger finder du i følgende emner:
-  
-- **Outlook**: [tillade andre at administrere din e-mail og kalender](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook på internettet**: [delegation i kalenderen i Outlook på internettet til virksomheder](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Fejlfinding i forbindelse med værktøjet Pia:**
 
+1. Hent og Installer værktøjet Pia herfra
+1. Vælg Outlook, og klik derefter "Jeg har problemer med min kalender"
+1. Siger Ja til maskine
+1. Føj e-mail-adressen på den pågældende bruger
+1. Vælg "Jeg har problemer med adgangstilladelser som stedfortræder"
+1. Den næste prompt, hvis du er den person, der giver tilladelser, Indtast e-mail-adressen på din stedfortræder. Hvis du har modtaget tilladelse, og du er stedfortræder, kan du angive e-mail-adressen på den person, der har givet dig tilladelse.
+1. Vælg den indstilling, der passer til din situation på den næste menu. 
+1. Vælg tilladelsesniveauet på den næste menu.
+1. På dette stadium Pia værktøj udfører automatiserede kontrol, og det giver dig mulig løsning, eller også vil give en diagnosticeringslogfilen, der kan bruges til yderligere fejlfinding.
+1. Du kan finde i logfilerne i mappen Pia resultater findes på C:\Users\Username\AppData\Local\SaraResults
