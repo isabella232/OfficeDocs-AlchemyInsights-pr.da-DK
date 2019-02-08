@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464529"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770647"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="50c98-102">Om stedfortrædere i Outlook og Outlook på internettet</span><span class="sxs-lookup"><span data-stu-id="50c98-102">About delegates in Outlook and Outlook on the web</span></span>
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="f6235-102">Fejlfinding i forbindelse med delegation i Outlook og Outlook på internettet</span><span class="sxs-lookup"><span data-stu-id="f6235-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
 
-<span data-ttu-id="50c98-103">Yderligere oplysninger finder du i følgende emner:</span><span class="sxs-lookup"><span data-stu-id="50c98-103">For more information, see these topics:</span></span>
-  
-- <span data-ttu-id="50c98-104">**Outlook**: [tillade andre at administrere din e-mail og kalender](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span><span class="sxs-lookup"><span data-stu-id="50c98-104">**Outlook**: [Allow someone else to manage your mail and calendar](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span></span>
-    
-- <span data-ttu-id="50c98-105">**Outlook på internettet**: [delegation i kalenderen i Outlook på internettet til virksomheder](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span><span class="sxs-lookup"><span data-stu-id="50c98-105">**Outlook on the web**: [Calendar delegation in Outlook on the web for business](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span></span>
-    
+<span data-ttu-id="f6235-103">**Fejlfinding i forbindelse med værktøjet Pia:**</span><span class="sxs-lookup"><span data-stu-id="f6235-103">**Troubleshooting with the SaRA tool:**</span></span>
 
+1. <span data-ttu-id="f6235-104">Hent og Installer værktøjet Pia herfra</span><span class="sxs-lookup"><span data-stu-id="f6235-104">Download and install SaRA tool from here</span></span>
+1. <span data-ttu-id="f6235-105">Vælg Outlook, og klik derefter "Jeg har problemer med min kalender"</span><span class="sxs-lookup"><span data-stu-id="f6235-105">Select Outlook, then "I\`m having issues with my calendar"</span></span>
+1. <span data-ttu-id="f6235-106">Siger Ja til maskine</span><span class="sxs-lookup"><span data-stu-id="f6235-106">Say Yes for affected machine</span></span>
+1. <span data-ttu-id="f6235-107">Føj e-mail-adressen på den pågældende bruger</span><span class="sxs-lookup"><span data-stu-id="f6235-107">Add the e-mail address of the affected user</span></span>
+1. <span data-ttu-id="f6235-108">Vælg "Jeg har problemer med adgangstilladelser som stedfortræder"</span><span class="sxs-lookup"><span data-stu-id="f6235-108">Select "I\`m having problems with delegate permissions"</span></span>
+1. <span data-ttu-id="f6235-p101">Den næste prompt, hvis du er den person, der giver tilladelser, Indtast e-mail-adressen på din stedfortræder. Hvis du har modtaget tilladelse, og du er stedfortræder, kan du angive e-mail-adressen på den person, der har givet dig tilladelse.</span><span class="sxs-lookup"><span data-stu-id="f6235-p101">At the next prompt, if you are the person giving permissions, enter the e-mail address of your delegate. If you received permissions and you are the delegate, enter the e-mail address of the person that gave you permissions.</span></span>
+1. <span data-ttu-id="f6235-111">Vælg den indstilling, der passer til din situation på den næste menu.</span><span class="sxs-lookup"><span data-stu-id="f6235-111">At the next menu, select the option that fits your scenario.</span></span> 
+1. <span data-ttu-id="f6235-112">Vælg tilladelsesniveauet på den næste menu.</span><span class="sxs-lookup"><span data-stu-id="f6235-112">At the next menu, select the permission level.</span></span>
+1. <span data-ttu-id="f6235-113">På dette stadium Pia værktøj udfører automatiserede kontrol, og det giver dig mulig løsning, eller også vil give en diagnosticeringslogfilen, der kan bruges til yderligere fejlfinding.</span><span class="sxs-lookup"><span data-stu-id="f6235-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
+1. <span data-ttu-id="f6235-114">Du kan finde i logfilerne i mappen Pia resultater findes på C:\Users\Username\AppData\Local\SaraResults</span><span class="sxs-lookup"><span data-stu-id="f6235-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults</span></span>
