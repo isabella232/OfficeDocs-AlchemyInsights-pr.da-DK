@@ -6,19 +6,19 @@ ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: 77bf1d550c53a750129fb87ecd795c5ea3a463b5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2d284dd4b53fcd1c2b0d094cd16662d3686c6912
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500492"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29899778"
 ---
-# <a name="data-location"></a><span data-ttu-id="c9516-102">Placering af</span><span class="sxs-lookup"><span data-stu-id="c9516-102">Data location</span></span>
+# <a name="data-location"></a><span data-ttu-id="a58c0-102">Placering af</span><span class="sxs-lookup"><span data-stu-id="a58c0-102">Data location</span></span>
 
-<span data-ttu-id="c9516-p101">Vi fastholder flere kopier af dine data på tværs af datacentre for redundans. [Se, hvor dataene er placeret](https://office.com/datamaps). Hvis vi udvider placeringen af dine data i et nyt land eller område, får du en måned varsel.</span><span class="sxs-lookup"><span data-stu-id="c9516-p101">We maintain multiple copies of your data across datacenters for redundancy. [See where your data is located](https://office.com/datamaps). If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
+<span data-ttu-id="a58c0-p101">Vi fastholder flere kopier af dine data på tværs af datacentre for redundans. [Se, hvor dataene er placeret](https://office.com/datamaps). Hvis vi udvider placeringen af dine data i et nyt land eller område, får du en måned varsel.</span><span class="sxs-lookup"><span data-stu-id="a58c0-p101">We maintain multiple copies of your data across datacenters for redundancy. [See where your data is located](https://office.com/datamaps). If we expand the location of your data into a new country or region, we'll give you one month advance notice.</span></span>
   
-<span data-ttu-id="c9516-106">Du kan finde flere oplysninger om sikkerhed, beskyttelse af personlige oplysninger og kompatibilitet i Office 365, skal [Office 365 har tillid til Center](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="c9516-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span> 
+<span data-ttu-id="a58c0-106">Du kan finde flere oplysninger om sikkerhed, beskyttelse af personlige oplysninger og kompatibilitet i Office 365, skal [Office 365 har tillid til Center](https://products.office.com/business/office-365-trust-center-welcome).</span><span class="sxs-lookup"><span data-stu-id="a58c0-106">For more info about Office 365 security, privacy, and compliance, see the [Office 365 Trust Center](https://products.office.com/business/office-365-trust-center-welcome).</span></span> 
   
 
