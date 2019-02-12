@@ -7,31 +7,31 @@ ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 17ae8882b5a9d84d16dbe64c245d64ea7738cbd4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d03ca96b0f9b0f49ee742e08c8a57683c805a0e8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464574"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29903221"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="a03e7-102">Tilføj sæder til et forudbetalt abonnement</span><span class="sxs-lookup"><span data-stu-id="a03e7-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="1c638-102">Tilføj sæder til et forudbetalt abonnement</span><span class="sxs-lookup"><span data-stu-id="1c638-102">Add seats to a prepaid subscription</span></span>
 
-1. <span data-ttu-id="a03e7-103">Gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller Vælg **Fakturering** i centeret administration \> **abonnementer**.</span><span class="sxs-lookup"><span data-stu-id="a03e7-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="1c638-103">Gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller Vælg **Fakturering** i centeret administration \> **abonnementer**.</span><span class="sxs-lookup"><span data-stu-id="1c638-103">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="a03e7-104">Vælg den forudbetalt abonnement, du vil tilføje brugere.</span><span class="sxs-lookup"><span data-stu-id="a03e7-104">Choose the prepaid subscription you would like to add users.</span></span>
+2. <span data-ttu-id="1c638-104">Vælg den forudbetalt abonnement, du vil tilføje brugere.</span><span class="sxs-lookup"><span data-stu-id="1c638-104">Choose the prepaid subscription you would like to add users.</span></span>
     
-3. <span data-ttu-id="a03e7-105">Vælg i menuen **flere handlinger** **forny eller Tilføj licens med token**.</span><span class="sxs-lookup"><span data-stu-id="a03e7-105">In the **More actions** menu, choose **Renew or add license with token**.</span></span>
+3. <span data-ttu-id="1c638-105">Vælg i menuen **flere handlinger** **forny eller Tilføj licens med token**.</span><span class="sxs-lookup"><span data-stu-id="1c638-105">In the **More actions** menu, choose **Renew or add license with token**.</span></span>
     
-4. <span data-ttu-id="a03e7-p101">Vælg indstillingen **nye og ubrugte produktnøgle** . (Hvis dette abonnement er oprettet med en produktnøgle, der er købt hos en detail, kan du have mulighed for at tilføje brugere med andre betalingsmetoder).</span><span class="sxs-lookup"><span data-stu-id="a03e7-p101">Select the **new and unused product key** option. (If this subscription was created with a product key purchased at a retail location, you might have the option to add users with other payment methods.)</span></span> 
+4. <span data-ttu-id="1c638-p101">Vælg indstillingen **nye og ubrugte produktnøgle** . (Hvis dette abonnement er oprettet med en produktnøgle, der er købt hos en detail, kan du have mulighed for at tilføje brugere med andre betalingsmetoder).</span><span class="sxs-lookup"><span data-stu-id="1c638-p101">Select the **new and unused product key** option. (If this subscription was created with a product key purchased at a retail location, you might have the option to add users with other payment methods.)</span></span> 
     
-5. <span data-ttu-id="a03e7-108">Vælg **Næste**.</span><span class="sxs-lookup"><span data-stu-id="a03e7-108">Choose **Next**.</span></span>
+5. <span data-ttu-id="1c638-108">Vælg **Næste**.</span><span class="sxs-lookup"><span data-stu-id="1c638-108">Choose **Next**.</span></span>
     
-6. <span data-ttu-id="a03e7-109">Angive produktnøglen og derefter vælge **Næste**.</span><span class="sxs-lookup"><span data-stu-id="a03e7-109">Enter the product key, then choose **Next**.</span></span>
+6. <span data-ttu-id="1c638-109">Angive produktnøglen og derefter vælge **Næste**.</span><span class="sxs-lookup"><span data-stu-id="1c638-109">Enter the product key, then choose **Next**.</span></span>
     
-7. <span data-ttu-id="a03e7-110">Vælg indstillingen for at tilføje flere brugere, Vælg **Næste**, og derefter vælge **Indløs**.</span><span class="sxs-lookup"><span data-stu-id="a03e7-110">Choose the option to add more users, choose **Next**, then choose **Redeem**.</span></span>
+7. <span data-ttu-id="1c638-110">Vælg indstillingen for at tilføje flere brugere, Vælg **Næste**, og derefter vælge **Indløs**.</span><span class="sxs-lookup"><span data-stu-id="1c638-110">Choose the option to add more users, choose **Next**, then choose **Redeem**.</span></span>
     
 
