@@ -7,19 +7,19 @@ ms.date: 2/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
-ms.openlocfilehash: cd2a25375b80a7effa3860814ab4383e4b367bc3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b736faee9ab5bee48b920946823f57aedcb2ba26
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464505"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29934266"
 ---
-# <a name="calendar-permissions"></a><span data-ttu-id="fe46f-102">Kalendertilladelser</span><span class="sxs-lookup"><span data-stu-id="fe46f-102">Calendar permissions</span></span>
+# <a name="calendar-permissions"></a><span data-ttu-id="a78d3-102">Kalendertilladelser</span><span class="sxs-lookup"><span data-stu-id="a78d3-102">Calendar permissions</span></span>
 
-<span data-ttu-id="fe46f-103">Hvis du har problemer med at få adgang til din kalender eller andre kalendere, kan du bruge [Microsoft Support og genoprettelse Assistant til Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="fe46f-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="a78d3-103">Hvis du har problemer med at få adgang til din kalender eller andre kalendere, kan du bruge [Microsoft Support og genoprettelse Assistant til Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="a78d3-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
   
-<span data-ttu-id="fe46f-104">Hvis du vil vide mere om at dele din kalender, se [en Outlook-kalender med andre dele](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span><span class="sxs-lookup"><span data-stu-id="fe46f-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
+<span data-ttu-id="a78d3-104">Hvis du vil vide mere om at dele din kalender, se [en Outlook-kalender med andre dele](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span><span class="sxs-lookup"><span data-stu-id="a78d3-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
   
 
