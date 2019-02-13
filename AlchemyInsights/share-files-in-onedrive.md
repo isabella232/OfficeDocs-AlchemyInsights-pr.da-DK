@@ -7,16 +7,16 @@ ms.date: 5/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: 90b295e5cff3b98b18e6f34d42de3c55b376c6c0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ac5dd3476c49a930763cc29478b61072d79616a3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29464162"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29913494"
 ---
 # <a name="how-to-share-in-onedrive"></a>Sådan deles i OneDrive
 
@@ -39,6 +39,6 @@ ms.locfileid: "29464162"
     
 5. Skriv navnene på de personer, du vil dele med, og klik derefter på **Send**.
     
-Læs mere
+[Læs mere](https://go.microsoft.com/fwlink/?linkid=871861)
   
 
