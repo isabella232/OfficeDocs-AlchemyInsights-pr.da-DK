@@ -838,3 +838,57 @@
 | 30-1/2019 | [123, få en konto deaktiveret fejl i Outlook Web Access?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | ændret |
 | 1-2/2019 | [samme som filnavn er bedst [regel #-beskrivelse]](/AlchemyInsights/1-alchemy-insight-template) | ændret |
 | 1-2/2019 | [Ændring af tilladelser til en postkasse](/AlchemyInsights/changing-permissions-on-a-mailbox) | ændret |
+
+
+## <a name="week-of-february-04-2019"></a>Uge i februar 04 2019
+
+
+| Udgivet på |Emnetitel | Skift |
+|------|------------|--------|
+| 4-2/2019 | [Føje brugere til Office 365](/AlchemyInsights/add-users-to-office-365) | ændret |
+| 6-2/2019 | [Medarbejder forlader](/AlchemyInsights/employee-leaving) | ændret |
+| 6-2/2019 | [Overtagelse af Admin](/AlchemyInsights/admin-takeover) | ændret |
+| 6-2/2019 | [127, få en TenantAccessBlockedException-fejl ved adgang til e-mail?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | ændret |
+| 6-2/2019 | [959 ændres visningsnavn](/AlchemyInsights/959-change-display-name) | ændret |
+| 6-2/2019 | [Tilføje eller fjerne en e-mail-alias for en bruger](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | ændret |
+| 6-2/2019 | Tilføj sæder til et forudbetalt abonnement | fjernet |
+| 6-2/2019 | [Føje brugere til Office 365](/AlchemyInsights/add-users-to-office-365) | ændret |
+| 6-2/2019 | [Tilføje eksterne brugere til en distributionsgruppe?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | ændret |
+| 6-2/2019 | Admin - globale Office 365 opsætning og administration | fjernet |
+| 6-2/2019 | Admin - Administrer mine brugere, grupper og ressourcer | fjernet |
+| 6-2/2019 | Admin - installationsprogrammet domæne og DNS-indstillingerne | fjernet |
+| 6-2/2019 | Admin - logonnavn og adgangskodeproblemer | fjernet |
+| 6-2/2019 | [Opsigelse af abonnement på Office 365](/AlchemyInsights/cancel-office-365-subscription) | ændret |
+| 6-2/2019 | [Ændre en brugers navn og e-mail-adresse](/AlchemyInsights/change-a-user-s-name-and-email-address) | ændret |
+| 6-2/2019 | Commerce - administrere fakturaer, betalinger, abonnementer og licenser | fjernet |
+| 6-2/2019 | [Få en TenantAccessBlockedException-fejl ved adgang til e-mail?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | ændret |
+| 6-2/2019 | [Har du problemer med e-mail-levering?](/AlchemyInsights/having-email-delivery-issues-0) | ændret |
+| 6-2/2019 | [Har du problemer med e-mail-levering?](/AlchemyInsights/having-email-delivery-issues) | ændret |
+| 6-2/2019 | [Problemer, der får Outlook til at oprette forbindelse?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | ændret |
+| 6-2/2019 | [Problemer, der får Outlook til at oprette forbindelse?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | ændret |
+| 6-2/2019 | Intune - hente, konfigurere og bruge Intune | fjernet |
+| 6-2/2019 | [Problem med Skype for Business?](/AlchemyInsights/issue-with-skype-for-business) | ændret |
+| 6-2/2019 | ODSP | fjernet |
+| 6-2/2019 | Office-klient - Excel | fjernet |
+| 6-2/2019 | [Gendanne slettede bruger](/AlchemyInsights/restore-deleted-user) | ændret |
+| 6-2/2019 | [Servicehændelse i gang](/AlchemyInsights/service-incident-in-progress-0) | ændret |
+| 6-2/2019 | [Servicehændelse i gang](/AlchemyInsights/service-incident-in-progress-1) | ændret |
+| 6-2/2019 | [Servicehændelse i gang](/AlchemyInsights/service-incident-in-progress-2) | ændret |
+| 6-2/2019 | [Servicehændelse i gang](/AlchemyInsights/service-incident-in-progress-3) | ændret |
+| 6-2/2019 | [Servicehændelse i gang](/AlchemyInsights/service-incident-in-progress-4) | ændret |
+| 6-2/2019 | [Servicehændelse i gang](/AlchemyInsights/service-incident-in-progress-5) | ændret |
+| 6-2/2019 | [Servicehændelse i gang](/AlchemyInsights/service-incident-in-progress) | ændret |
+| 6-2/2019 | [Opsætning af projekt](/AlchemyInsights/setting-up-project) | ændret |
+| 6-2/2019 | Opsætning af overholdelse af funktioner som arkiv, opbevaring, tvister, eDiscovery og MDM | fjernet |
+| 6-2/2019 | Ved hjælp af Offline installationsprogrammet til Office | fjernet |
+| 6-2/2019 | Yammer - opsætning og brug Yammer tjenester | fjernet |
+| 7/2/2019 | [Excel Crash?](/AlchemyInsights/excel-crashing) | ændret |
+| 7/2/2019 | [Hvordan du kan tilføje eller redigere en VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | ændret |
+| 7/2/2019 | [Minecraft Edition med Office 365 uddannelse for ledige](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | ændret |
+| 7/2/2019 | [606 oplysninger om opgavedelegering](/AlchemyInsights/606-information-on-delegation) | ændret |
+| 7/2/2019 | [Din gruppe vises ikke på listen grupper](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | ændret |
+| 8-2/2019 | [DLP politik tip virker ikke](/AlchemyInsights/dlp-policy-tips-not-working) | ændret |
+| 8-2/2019 | [DLP-regel for US / UK pasnummer virker ikke](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | ændret |
+| 8-2/2019 | [Office 365 uddannelse for ledige](/AlchemyInsights/office-365-education-for-free) | ændret |
+| 8-2/2019 | [Påkrævede licenser for Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | ændret |
+| 8-2/2019 | [Opbevaringspolitikker i Exchange Admin Center virker ikke](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | ændret |
