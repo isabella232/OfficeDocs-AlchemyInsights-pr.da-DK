@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: c4b0dfdf1b5cc52bd08dc6f7273efb67f6bec117
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913388"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209695"
 ---
 # <a name="check-aad-identity-sync-status"></a>Undersøge synkroniseringsstatus AAD identitet
 
 Det er nemt at kontrollere status for synkronisering: 
   
-- Log på Office 365 admin center, og vælg ** DirSync Status ** på hjemmesiden. 
+- Log på Microsoft 365 admin center, og vælg ** DirSync Status ** på hjemmesiden. 
     
 - Alternativt kan du gå til brugere \> aktive brugere, og Vælg flere på siden aktive brugere \> Directory-synkronisering.
     

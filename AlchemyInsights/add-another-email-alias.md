@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 831d5a97b9d6006b63ae5540b8d4505bc5a98fee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918570"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208003"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Oprette eller tilføje en e-mail-alias for en bruger
 
 Brug for at oprette et e-mail-alias for en bruger, eller Tilføj en ekstra e-mail-adresse? Følg disse trin!
   
-1. Gå til siden [brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) på Office 365 admin center, eller Vælg **brugere** \> **Aktive brugere**.
+1. Gå til siden [brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) i Microsoft 365 admin center, eller Vælg **brugere** \> **Aktive brugere**.
     
 2. Vælg navnet på den person, du vil redigere, på siden **Aktive brugere** . 
     

@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 66858a36cbd1cea17d94549c17bbfe618d43f33f
-ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
+ms.openlocfilehash: 345dd37cd12324ceb35953c8a28c3274e3302726
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30088071"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209227"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrering af e-mail fra IMAP e-mail-system til Office 365
 
-Hvis du vil overføre e-mail fra en IMAP-e-mail-system, skal du følge denne proces: [IMAP-overflytning i Office 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
+Hvis du vil overføre e-mail fra en IMAP-e-mail-system, skal du følge denne proces: [IMAP-overførsel i Microsoft 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
   
 Mange store virksomheder skal planlægge det omhyggeligt, at administrere brugerens forventninger. [Hvad du skal vide om overflytning af dine IMAP-postkasser til Office 365](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) -artikel hjælper dig med at håndtere ændringen. 
 

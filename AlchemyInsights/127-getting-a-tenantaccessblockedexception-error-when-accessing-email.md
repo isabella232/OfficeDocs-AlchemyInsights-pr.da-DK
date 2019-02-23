@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5f36f6a793cc0290ead1bf555d2d6e681104f745
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 66d78ded76e0534369758ec66def655fb3d5c910
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900354"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209083"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Få en TenantAccessBlockedException-fejl ved adgang til e-mail?
 
 Der er et par forskellige grunde, hvorfor du kan få vist denne fejl. For eksempel:
   
-- Kontroller, at dit abonnement er gyldigt i **faktura** \> side af **abonnementer** i Office 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
+- Kontroller, at dit abonnement er gyldigt i **faktura** \> **abonnementer** side i Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
     
-- Kontrol for alle forfaldne beskeder i **Fakturering** \> **regninger** side i Office 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
+- Kontrol for alle forfaldne beskeder i **Fakturering** \> **regninger** side i Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
     
 - Hvis fakturering og abonnementer til din konto er blevet opdateret for nylig, kan det tage tid, før ændringerne kan overføres. Prøv igen om nogle minutter, og hvis problemet fortsætter, skal du kontakte os.
     

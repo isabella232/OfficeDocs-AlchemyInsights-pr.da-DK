@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 4abb2f5b1644b651c8a137feb01aace69257d2bb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920010"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207967"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Hvordan du køber licenser til dit Office 365-business-abonnement
 
 Ved tildeling af licenser til Office 365 til dine brugere, kan du finde behøver at købe ekstra licenser. Sådan gør du:
   
-- Gå til siden [abonnementer]( https://go.microsoft.com/fwlink/p/?linkid=842054) i Office 365 admin center, eller Vælg **Fakturering** \> **abonnementer**.
+- Gå til siden [abonnementer]( https://go.microsoft.com/fwlink/p/?linkid=842054) på Microsoft 365 admin center, eller Vælg **Fakturering** \> **abonnementer**.
     
 - Vælg det abonnement, du vil føje licenser til og derefter vælge **Tilføj/fjern licenser**på siden **abonnementer** .
     

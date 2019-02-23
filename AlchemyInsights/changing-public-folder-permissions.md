@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
-ms.openlocfilehash: c735ecafc98d13d8ec38e87064a471f8da7c7be7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a46af76b0063536b83a94ec96ea73185c5f77f29
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926022"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207823"
 ---
 # <a name="changing-public-folder-permissions"></a>Ændring af tilladelser til offentlige mapper
 
 Du og dine brugere kan ændre tilladelser til offentlige mapper i Outlook. Se [angive eller ændre tilladelser for en offentlig mappe](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005). Administratorer kan også ændre tilladelser i Exchange admin center:
   
-- I Office 365 admin center, gå til **Admin centers** \> **Exchange**.
+- Gå til **Admin ressourcer** i Microsoft 365 admin center, \> **Exchange**.
     
 - Vælg **offentlige mapper**.
     
