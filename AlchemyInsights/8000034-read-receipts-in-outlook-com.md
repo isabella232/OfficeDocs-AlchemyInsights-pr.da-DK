@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898518"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243963"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Kvitteringer for læsning i Outlook.com
 
 Du kan ikke anmode om en kvittering for læsning i Outlook.com, men du kan anmode om læsekvitteringer for Outlook.com-meddelelser sendes ved hjælp af Outlook til Windows. For at lære, hvordan se [Tilføj, og Anmod om læse kvitteringer og meddelelser om levering](https://go.microsoft.com/fwlink/p/?linkid=874355).
   
-Hvis du vil vælge, hvordan Outlook.com reagerer for at læse anmodninger om kvittering, gå til **Indstillinger**for![indstillinger for](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Indstillinger** \> **Mail** \> **automatisk behandling** \> **kvitteringer for læsning**. 
+Hvis du vil vælge, hvordan Outlook.com reagerer for at læse anmodninger om kvittering, gå til **Indstillinger** for\> **Indstillinger** \> **Mail** \> **automatisk behandling** \> **kvitteringer for læsning**. 
   
-Vælg **Indstillinger**i betaversionen af Outlook.com![indstillinger for](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) , og Søg efter **kvitteringer for læsning**. 
+I betaversionen af Outlook.com, skal du vælge **Indstillinger** , og Søg efter **kvitteringer for læsning**. 
   
 

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88906b68e22bc21549e92c074ebb053be9b8660b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929117"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244467"
 ---
 # <a name="delete-a-contact"></a>Slette en kontaktperson
 
-1. Øverst på siden Vælg ikonet app til åbning af ![knap til åbning af den App. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) og derefter vælge **personer**. 
+1. Vælg ikonet til åbning af app øverst på siden, og vælg derefter **personer**. 
     
-2. Marker den kontakt, du vil slette, og vælg **Slet**![slette](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).
+2. Marker den kontakt, du vil slette, og vælg **Slet**.
     
     Hvis du ikke kan vælge at **slette**, måske kontakten fra forbundet sociale netværkskonto eller Skype. For at slette kontaktpersonen, gå til Skype eller kontoen, hvor kontaktpersonen er placeret.
     
