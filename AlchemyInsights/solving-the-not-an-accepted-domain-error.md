@@ -8,15 +8,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: 4a0dc41c198a38b60b7c256e9e78648ebf3d5b55
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c202527610f349bef1129b1307f7cb10c13f2165
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900678"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404489"
 ---
-"Ikke et accepteret domæne" fejl
-
 # <a name="got-a-parameter-cannot-be-found-error"></a>Har du en 'Parameter blev ikke fundet' fejl?
 
 Hvis du får fejlmeddelelsen **"blev ikke fundet en parameter, der svarer til parameternavnet ' EmailAddresses"**, betyder det, at det tager lidt længere tid til Office 365 at afslutte opsætningen af din lejer eller dit brugerdefinerede domæne, hvis du for nylig har tilføjet en. 
