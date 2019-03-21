@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: cdac247b0a60af9d74481dfffba9b06c07c837e3
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 566a12c192e117401a9d49486b468b0f4af93d5c
+ms.sourcegitcommit: 53ac59b8afb80cac084eeeec9d2f65591ebcb232
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347545"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30701493"
 ---
-# <a name="action-confirmations"></a><span data-ttu-id="6e7a7-102">Handling bekræftelser</span><span class="sxs-lookup"><span data-stu-id="6e7a7-102">Action confirmations</span></span>
+# <a name="action-confirmations"></a><span data-ttu-id="7f277-102">Handling bekræftelser</span><span class="sxs-lookup"><span data-stu-id="7f277-102">Action confirmations</span></span>
 
-<span data-ttu-id="6e7a7-p101">Funktionen handling bekræftelse i Outlook.com, kan du fortryde en flytte- eller sletning, du lige har ved en fejltagelse. Fortryd dialogboksen vises nederst på skærmen i ca. 5 sekunder, og omvendt vil flytte- eller slettehandlingen.</span><span class="sxs-lookup"><span data-stu-id="6e7a7-p101">The Action Confirmation feature in Outlook.com allows you to undo a move or message deletion that you just did by mistake. The Undo dialog appears at the bottom of the screen for about 5 seconds, and will reverse the move or message delete action.</span></span>
+<span data-ttu-id="7f277-103">Funktionen handling bekræftelser i Outlook.com, kan du fortryde en flytte- eller sletning, du lige har ved en fejltagelse.</span><span class="sxs-lookup"><span data-stu-id="7f277-103">The action confirmations feature in Outlook.com allows you to undo a move or message deletion that you just did by mistake.</span></span> <span data-ttu-id="7f277-104">Fortryd-dialogboksen vil vises nederst på skærmen i ca. 5 sekunder, og fortryde flytningen eller slettehandling.</span><span class="sxs-lookup"><span data-stu-id="7f277-104">The Undo dialog appears at the bottom of the screen for about 5 seconds, and will reverse the move or delete action.</span></span>
 
-<span data-ttu-id="6e7a7-105">Du kan slå det fra under **Indstillinger for** > **generelle** > **beskeder** > **[Handling bekræftelser](https://outlook.live.com/mail/options/general/notifications)**.</span><span class="sxs-lookup"><span data-stu-id="6e7a7-105">You can switch this off under under **Settings** > **General** > **Notifications** > **[Action Confirmations](https://outlook.live.com/mail/options/general/notifications)**.</span></span>
+<span data-ttu-id="7f277-105">Du kan slå det fra i [handling bekræftelser](https://outlook.live.com/mail/options/general/notifications) (**Indstillinger** > **få vist alle Outlook-indstillinger** > **generelle** > **meddelelser**).</span><span class="sxs-lookup"><span data-stu-id="7f277-105">You can switch this off in [Action confirmations](https://outlook.live.com/mail/options/general/notifications) (**Settings** > **View all Outlook settings** > **General** > **Notifications**).</span></span>
 
-<span data-ttu-id="6e7a7-p102">Bemærk: Kan du ikke fortryde afsendelse af meddelelse. Læs, [jeg vil gerne tilbagekalde en meddelelse i Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a) for yderligere oplysninger.</span><span class="sxs-lookup"><span data-stu-id="6e7a7-p102">Note: You can't undo message sending. Read [I want to recall a message in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a) for more information.</span></span>
+<span data-ttu-id="7f277-106">Bemærk: Kan du ikke fortryde afsendelse af meddelelse.</span><span class="sxs-lookup"><span data-stu-id="7f277-106">Note: You can't undo message sending.</span></span> <span data-ttu-id="7f277-107">Yderligere oplysninger finder du under [jeg vil tilbagekalde en meddelelse i Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).</span><span class="sxs-lookup"><span data-stu-id="7f277-107">For more information, see [I want to recall a message in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).</span></span>
