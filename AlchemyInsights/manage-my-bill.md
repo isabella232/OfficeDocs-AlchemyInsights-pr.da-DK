@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f844501a-e575-48b8-9c1b-9f800c7b89f8
-ms.openlocfilehash: 39b7f2a566ce3f6b759c4a23cb1f602be909205e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: eff17074de4c198ec475573081a01f4288dd3ecb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906017"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759828"
 ---
-# <a name="manage-my-bill-and-payments"></a><span data-ttu-id="bd142-102">Administrer mine faktureres og betalinger</span><span class="sxs-lookup"><span data-stu-id="bd142-102">Manage my bill and payments</span></span>
+# <a name="manage-my-bill-and-payments"></a><span data-ttu-id="95ba8-102">Administrer mine faktureres og betalinger</span><span class="sxs-lookup"><span data-stu-id="95ba8-102">Manage my bill and payments</span></span>
 
-<span data-ttu-id="bd142-103">Som en administrator har du adgang til fakturering og betaling muligheder i admin center.</span><span class="sxs-lookup"><span data-stu-id="bd142-103">As an admin, you have access to all your billing and payments options in the admin center.</span></span>
+<span data-ttu-id="95ba8-103">Som en administrator har du adgang til fakturering og betaling muligheder i admin center.</span><span class="sxs-lookup"><span data-stu-id="95ba8-103">As an admin, you have access to all your billing and payments options in the admin center.</span></span>
   
-- <span data-ttu-id="bd142-104">Få vist en stykliste eller en faktura.</span><span class="sxs-lookup"><span data-stu-id="bd142-104">View your bill or invoice.</span></span>
+- <span data-ttu-id="95ba8-104">Få vist en stykliste eller en faktura.</span><span class="sxs-lookup"><span data-stu-id="95ba8-104">View your bill or invoice.</span></span>
     
-- <span data-ttu-id="bd142-105">Tilføje, opdatere eller fjerne din betalingsmetode.</span><span class="sxs-lookup"><span data-stu-id="bd142-105">Add, update, or remove your payment option.</span></span>
+- <span data-ttu-id="95ba8-105">Tilføje, opdatere eller fjerne din betalingsmetode.</span><span class="sxs-lookup"><span data-stu-id="95ba8-105">Add, update, or remove your payment option.</span></span>
     
-- <span data-ttu-id="bd142-106">Skifte til et andet Office 365.</span><span class="sxs-lookup"><span data-stu-id="bd142-106">Switch to a different Office 365.</span></span>
+- <span data-ttu-id="95ba8-106">Skifte til et andet Office 365.</span><span class="sxs-lookup"><span data-stu-id="95ba8-106">Switch to a different Office 365.</span></span>
     
-- <span data-ttu-id="bd142-107">Forny dit abonnement.</span><span class="sxs-lookup"><span data-stu-id="bd142-107">Renew your subscription.</span></span>
+- <span data-ttu-id="95ba8-107">Forny dit abonnement.</span><span class="sxs-lookup"><span data-stu-id="95ba8-107">Renew your subscription.</span></span>
     
-- <span data-ttu-id="bd142-108">Køb et andet abonnement.</span><span class="sxs-lookup"><span data-stu-id="bd142-108">Buy another subscription.</span></span>
+- <span data-ttu-id="95ba8-108">Køb et andet abonnement.</span><span class="sxs-lookup"><span data-stu-id="95ba8-108">Buy another subscription.</span></span>
     
-- <span data-ttu-id="bd142-109">Forlænge prøvetiden.</span><span class="sxs-lookup"><span data-stu-id="bd142-109">Extend your trial.</span></span>
+- <span data-ttu-id="95ba8-109">Forlænge prøvetiden.</span><span class="sxs-lookup"><span data-stu-id="95ba8-109">Extend your trial.</span></span>
     
-- <span data-ttu-id="bd142-110">Annullere abonnementet.</span><span class="sxs-lookup"><span data-stu-id="bd142-110">Cancel your subscription.</span></span>
+- <span data-ttu-id="95ba8-110">Annullere abonnementet.</span><span class="sxs-lookup"><span data-stu-id="95ba8-110">Cancel your subscription.</span></span>
     
 
