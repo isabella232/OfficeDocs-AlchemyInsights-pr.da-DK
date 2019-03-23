@@ -1,39 +1,37 @@
 ---
-title: App adgangskoder
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app adgangskoder
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938226"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762526"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="4c1a2-102">App adgangskoder</span><span class="sxs-lookup"><span data-stu-id="4c1a2-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="d0b82-102">App adgangskoder</span><span class="sxs-lookup"><span data-stu-id="d0b82-102">App passwords</span></span>
 
-<span data-ttu-id="4c1a2-p101">En app adgangskode er en kode, der giver en app eller enheden adgangstilladelse til din Office 365-konto. Hvis administratoren har aktiveret godkendelse i flere niveauer i organisationen, og du bruger programmer, der opretter forbindelse til din Office 365-konto, skal du oprette en adgangskode til app, så programmet kan oprette forbindelse til Office 365. Eksempelvis hvis du bruger Outlook 2016 eller tidligere med Office 365, skal du oprette en app adgangskode.</span><span class="sxs-lookup"><span data-stu-id="4c1a2-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
+<span data-ttu-id="d0b82-103">En app adgangskode er en kode, der giver en app eller enhed tilladelse til at få adgang til dine Office 365-arbejdet eller skolen konto.</span><span class="sxs-lookup"><span data-stu-id="d0b82-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="d0b82-104">Hvis din konto kræver godkendelse i flere niveauer (MFA), og programmet opretter forbindelse til din konto, skal du oprette en adgangskode til app, så programmet kan oprette forbindelse til Office 365.</span><span class="sxs-lookup"><span data-stu-id="d0b82-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="d0b82-105">Outlook 2016 og tidligere versioner Outlook af kræve en adgangskode for app.</span><span class="sxs-lookup"><span data-stu-id="d0b82-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
   
-1. <span data-ttu-id="4c1a2-p102">Kontroller, om dine Office 365 admin har aktiveret godkendelse af flere faktorer for din konto. Hvis de ikke har, når du forsøger at udføre følgende trin kan du ikke se indstillingerne i Office 365.</span><span class="sxs-lookup"><span data-stu-id="4c1a2-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
+ <span data-ttu-id="d0b82-106">**Bemærk**: før du kan prøve følgende trin, Kontroller med din Office 365 admin, MFA er påkrævet for din konto.</span><span class="sxs-lookup"><span data-stu-id="d0b82-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="d0b82-107">Hvis ikke, er de indstillinger, der er beskrevet i trin ikke tilgængelige for dig.</span><span class="sxs-lookup"><span data-stu-id="d0b82-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+  
+1. <span data-ttu-id="d0b82-108">Log på Office 365 med dit arbejde eller skole-konto og din adgangskode.</span><span class="sxs-lookup"><span data-stu-id="d0b82-108">Sign in to Office 365 with your work or school account and your password.</span></span>
     
-2. <span data-ttu-id="4c1a2-p103">Log på Office 365 med dit arbejde eller en skoleopgave konto med din adgangskode som du plejer. Når du vælger at **logge på**, kan du se en side med dit brugernavn og et par indstillinger</span><span class="sxs-lookup"><span data-stu-id="4c1a2-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
+2. <span data-ttu-id="d0b82-109">Du kan vælge at **konfigurere den nu**.</span><span class="sxs-lookup"><span data-stu-id="d0b82-109">Choose **Set it up now**.</span></span>
     
-3. <span data-ttu-id="4c1a2-110">Du kan vælge at **konfigurere den nu**.</span><span class="sxs-lookup"><span data-stu-id="4c1a2-110">Choose **Set it up now**.</span></span> 
+3. <span data-ttu-id="d0b82-110">Vælg godkendelsesmetoden, og følg vejledningen.</span><span class="sxs-lookup"><span data-stu-id="d0b82-110">Select your authentication method and follow the prompts.</span></span>
     
-4. <span data-ttu-id="4c1a2-111">Vælg godkendelsesmetoden, og følg derefter vejledningen på siden.</span><span class="sxs-lookup"><span data-stu-id="4c1a2-111">Select your authentication method and then follow the prompts on the page.</span></span>
+4. <span data-ttu-id="d0b82-111">Vælg **Næste**, når du har kontrolleret dine alternative kontaktmetode.</span><span class="sxs-lookup"><span data-stu-id="d0b82-111">After you verify your alternate contact method, choose **Next**.</span></span>
     
-5. <span data-ttu-id="4c1a2-112">Vælg **Næste**, når du har kontrolleret dine alternative kontaktmetode.</span><span class="sxs-lookup"><span data-stu-id="4c1a2-112">After you verify your alternate contact method, choose **Next**.</span></span> 
-    
-6. <span data-ttu-id="4c1a2-p104">Du får en app adgangskode, som du kan bruge sammen med Outlook, Apple Mail osv. Vælg ikonet kopi kopiere adgangskoden til din Udklipsholder. Du behøver ikke at huske adgangskoden.</span><span class="sxs-lookup"><span data-stu-id="4c1a2-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
-    
-7. <span data-ttu-id="4c1a2-115">Når du føjer din Office 365-e-mail-konto til Outlook (eller et andet program), og du bliver bedt om en adgangskode, forbi denne app adgangskode i boksen adgangskode uden at skulle skrive adgangskoden til kontoen.</span><span class="sxs-lookup"><span data-stu-id="4c1a2-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
+5. <span data-ttu-id="d0b82-112">Du får en app adgangskode, som du kan bruge sammen med Outlook, Apple Mail og andre programmer, der kræver den.</span><span class="sxs-lookup"><span data-stu-id="d0b82-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="d0b82-113">Vælg **Kopier** kopiere adgangskoden, så du kan indsætte den et andet sted (du ikke behøver at huske det).</span><span class="sxs-lookup"><span data-stu-id="d0b82-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
     
 
