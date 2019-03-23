@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 5b98e72644e1fd0fd71095a9a664bb93af110537
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 51e010dd19419f21c67d589b9833821b1e5075c0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902514"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764398"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan ikke installeres eller køre eDiscovery Eksportværktøj?
 
@@ -30,7 +30,7 @@ Hvis du ikke kan installere eller køre Office 365 eDiscovery Eksportværktøj t
     
   - En understøttet browser:
     
-  - Microsoft Edge
+  - Microsoft kant
     
     Eller
     

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917850"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754428"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Dele filer i OneDrive med personer uden for organisationen
 
@@ -31,7 +31,7 @@ ms.locfileid: "29917850"
   - **Bestemte personer** giver adgang kun til personerne, du angiver, selvom andre brugere har muligvis allerede adgang. Hvis personer videresender invitationen til deling, vil kun de personer, der allerede har adgang til elementet kunne bruge linket. 
     
     > [!NOTE]
-    > Hvis en af disse indstillinger er ikke tilgængelig, eller hvis du ønsker en anden bindingstype skal vises som standard, kan du ændre dine indstillinger for hele organisationen ved at gå til administrationssiden for OneDrive og klikke på **Deling** i venstre rude. [Få mere at vide](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Hvis en af disse indstillinger er ikke tilgængelig, eller hvis du ønsker en anden bindingstype skal vises som standard, kan du ændre dine indstillinger for hele organisationen ved at gå til administrationssiden for OneDrive og klikke på **Deling** i venstre rude. [Lær mere](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Som standard er **Tillad redigering** aktiveret. Personer kan kun få vist dine filer skal du fjerne markeringen i afkrydsningsfeltet. 
     
@@ -39,6 +39,6 @@ ms.locfileid: "29917850"
     
 6. Når du er klar til at sende et hyperlink, skal du klikke på **Send**. 
     
-[Læs mere](https://go.microsoft.com/fwlink/?linkid=871861)
+[Lær mere](https://go.microsoft.com/fwlink/?linkid=871861)
   
 
