@@ -1,39 +1,37 @@
 ---
-title: App adgangskoder
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app adgangskoder
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938226"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762526"
 ---
 # <a name="app-passwords"></a>App adgangskoder
 
-En app adgangskode er en kode, der giver en app eller enheden adgangstilladelse til din Office 365-konto. Hvis administratoren har aktiveret godkendelse i flere niveauer i organisationen, og du bruger programmer, der opretter forbindelse til din Office 365-konto, skal du oprette en adgangskode til app, så programmet kan oprette forbindelse til Office 365. Eksempelvis hvis du bruger Outlook 2016 eller tidligere med Office 365, skal du oprette en app adgangskode.
+En app adgangskode er en kode, der giver en app eller enhed tilladelse til at få adgang til dine Office 365-arbejdet eller skolen konto. Hvis din konto kræver godkendelse i flere niveauer (MFA), og programmet opretter forbindelse til din konto, skal du oprette en adgangskode til app, så programmet kan oprette forbindelse til Office 365. Outlook 2016 og tidligere versioner Outlook af kræve en adgangskode for app.
   
-1. Kontroller, om dine Office 365 admin har aktiveret godkendelse af flere faktorer for din konto. Hvis de ikke har, når du forsøger at udføre følgende trin kan du ikke se indstillingerne i Office 365.
+ **Bemærk**: før du kan prøve følgende trin, Kontroller med din Office 365 admin, MFA er påkrævet for din konto. Hvis ikke, er de indstillinger, der er beskrevet i trin ikke tilgængelige for dig.
+  
+1. Log på Office 365 med dit arbejde eller skole-konto og din adgangskode.
     
-2. Log på Office 365 med dit arbejde eller en skoleopgave konto med din adgangskode som du plejer. Når du vælger at **logge på**, kan du se en side med dit brugernavn og et par indstillinger 
+2. Du kan vælge at **konfigurere den nu**.
     
-3. Du kan vælge at **konfigurere den nu**. 
+3. Vælg godkendelsesmetoden, og følg vejledningen.
     
-4. Vælg godkendelsesmetoden, og følg derefter vejledningen på siden.
+4. Vælg **Næste**, når du har kontrolleret dine alternative kontaktmetode.
     
-5. Vælg **Næste**, når du har kontrolleret dine alternative kontaktmetode. 
-    
-6. Du får en app adgangskode, som du kan bruge sammen med Outlook, Apple Mail osv. Vælg ikonet kopi kopiere adgangskoden til din Udklipsholder. Du behøver ikke at huske adgangskoden. 
-    
-7. Når du føjer din Office 365-e-mail-konto til Outlook (eller et andet program), og du bliver bedt om en adgangskode, forbi denne app adgangskode i boksen adgangskode uden at skulle skrive adgangskoden til kontoen. 
+5. Du får en app adgangskode, som du kan bruge sammen med Outlook, Apple Mail og andre programmer, der kræver den. Vælg **Kopier** kopiere adgangskoden, så du kan indsætte den et andet sted (du ikke behøver at huske det). 
     
 
