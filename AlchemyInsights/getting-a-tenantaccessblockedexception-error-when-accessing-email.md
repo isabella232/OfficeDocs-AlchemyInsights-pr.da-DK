@@ -1,28 +1,33 @@
 ---
-title: Få en TenantAccessBlockedException-fejl ved adgang til e-mail?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127, få en TenantAccessBlockedException-fejl ved adgang til e-mail?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912018"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754248"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="efbd2-102">Få en TenantAccessBlockedException-fejl ved adgang til e-mail?</span><span class="sxs-lookup"><span data-stu-id="efbd2-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="1a356-102">Få en TenantAccessBlockedException-fejl ved adgang til e-mail?</span><span class="sxs-lookup"><span data-stu-id="1a356-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="efbd2-p101">Der er et par forskellige grunde, hvorfor du muligvis vist en fejlmeddelelse, der siger, at adgang til din lejer er blokeret. Du kan løse problemet, kan du prøve følgende trin:</span><span class="sxs-lookup"><span data-stu-id="efbd2-p101">There are a few different reasons why you may get an error saying that access to your tenant is blocked. To fix the problem, you can try the following steps:</span></span>
+<span data-ttu-id="1a356-103">Der er et par forskellige grunde, hvorfor du kan få vist denne fejl.</span><span class="sxs-lookup"><span data-stu-id="1a356-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="1a356-104">For eksempel:</span><span class="sxs-lookup"><span data-stu-id="1a356-104">For example:</span></span>
   
-- <span data-ttu-id="efbd2-105">Kontroller, at dit abonnement er gyldigt på siden [abonnementer](https://admin.microsoft.com/adminportal/home#/subscriptions) .</span><span class="sxs-lookup"><span data-stu-id="efbd2-105">Check that your subscription is valid on the [Subscriptions](https://admin.microsoft.com/adminportal/home#/subscriptions) page.</span></span> 
+- <span data-ttu-id="1a356-105">Kontroller, at dit abonnement er gyldigt i **faktura** \> **abonnementer** side i Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="1a356-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
     
-- <span data-ttu-id="efbd2-106">Kontroller siden [Fakturering](https://admin.microsoft.com/adminportal/home#/billoverview) for nogen tidligere gebyrer på din konto.</span><span class="sxs-lookup"><span data-stu-id="efbd2-106">Check the [Billing](https://admin.microsoft.com/adminportal/home#/billoverview) page for any past dues on your account.</span></span> 
+- <span data-ttu-id="1a356-106">Kontrol for alle forfaldne beskeder i **Fakturering** \> **regninger** side i Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="1a356-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
     
-- <span data-ttu-id="efbd2-p102">Hvis din konto er i orden nu, men er blevet ændret for nylig, kan det tage lidt tid, før ændringerne kan overføres til alle servere. Prøv en gang i et par minutter, og hvis problemet fortsætter, skal du kontakte os.</span><span class="sxs-lookup"><span data-stu-id="efbd2-p102">If your account is in order now, but has been changed recently, it might take some time for the changes to propagate to all servers. Give it another try in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="1a356-107">Hvis fakturering og abonnementer til din konto er blevet opdateret for nylig, kan det tage tid, før ændringerne kan overføres.</span><span class="sxs-lookup"><span data-stu-id="1a356-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="1a356-108">Prøv igen om nogle minutter, og hvis problemet fortsætter, skal du kontakte os.</span><span class="sxs-lookup"><span data-stu-id="1a356-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
     
 

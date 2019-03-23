@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5213e00e-c856-4155-8364-d7f97e3cb094
-ms.openlocfilehash: fcf30b2d7a53b7e2f01aa4ad60d3056783a562c8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e10a7cefa28c437fb7d041fda8cbcb164940b0f9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912162"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755112"
 ---
-# <a name="delete-a-sharepoint-team-site"></a><span data-ttu-id="4220e-102">Slet SharePoint team-websted</span><span class="sxs-lookup"><span data-stu-id="4220e-102">Delete a SharePoint team site</span></span>
+# <a name="delete-a-sharepoint-team-site"></a><span data-ttu-id="cbd6d-102">Slet SharePoint team-websted</span><span class="sxs-lookup"><span data-stu-id="cbd6d-102">Delete a SharePoint team site</span></span>
 
-1. <span data-ttu-id="4220e-103">Gå til webstedet.</span><span class="sxs-lookup"><span data-stu-id="4220e-103">Go to the site.</span></span>
+1. <span data-ttu-id="cbd6d-103">Gå til webstedet.</span><span class="sxs-lookup"><span data-stu-id="cbd6d-103">Go to the site.</span></span>
     
-2. <span data-ttu-id="4220e-104">Klik på ikonet **Indstillinger** i øverste højre hjørne.</span><span class="sxs-lookup"><span data-stu-id="4220e-104">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="cbd6d-104">Klik på ikonet **Indstillinger** i øverste højre hjørne.</span><span class="sxs-lookup"><span data-stu-id="cbd6d-104">Click the **Settings** icon in the upper right.</span></span> 
     
-3. <span data-ttu-id="4220e-p101">Klik på Indstillinger for **websted** . Klik på **Slet webstedet**under **Oplysninger på webstedet** eller **Webstedshandlinger**, og klik derefter på **Slet**.</span><span class="sxs-lookup"><span data-stu-id="4220e-p101">Click **Site** settings. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="cbd6d-105">Klik på Indstillinger for **websted** .</span><span class="sxs-lookup"><span data-stu-id="cbd6d-105">Click **Site** settings.</span></span> <span data-ttu-id="cbd6d-106">Klik på **Slet webstedet**under **Oplysninger på webstedet** eller **Webstedshandlinger**, og klik derefter på **Slet**.</span><span class="sxs-lookup"><span data-stu-id="cbd6d-106">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
     
 
