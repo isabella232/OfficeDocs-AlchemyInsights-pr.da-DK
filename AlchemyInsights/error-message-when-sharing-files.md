@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: da7d2ccfa2f5e74c76c530893fd4457e21a32280
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0ca85a43f21935708f8a9c689306ed3560627dea
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941250"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747376"
 ---
 # <a name="error-messages-when-sharing"></a>Fejlmeddelelser, når du deler
 
 Hvis du modtager en fejlmeddelelse, når du forsøger at dele med en ekstern bruger, sandsynligvis eksterne deling er ikke aktiveret eller Deling er indstillet til ikke at tillade niveauet for Deling af brugeren forsøger.
   
-I de * klassiske * SharePoint Administration center, klik på **Deling** i venstre rude. Vælg niveauet for deling, du vil tillade. Kontroller, at eksterne deling er aktiveret for webstedet. 
+Det nye SharePoint Administration center, klik på **Deling** i venstre rude. Vælg niveauet for deling, du vil tillade. Kontroller, at eksterne deling er aktiveret for webstedet. 
   
 Hvis brugeren forsøger at logge på modtager en fejlmeddelelse, skal du prøve følgende trin:
   

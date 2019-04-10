@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 81f966e1c759003765a6a6a82988a5fbb456e3c0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759756"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747916"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Administrer dine SharePoint Online lagerplads
 
 I de fleste organisationer administreres SharePoint-lageret automatisk, så du ikke behøver at angive grænser pr. gruppe af websteder. At kontrollere, hvor meget du har SharePoint-lageret:
   
-- Se til din rådighed og samlede opbevaring i den klassiske SharePoint admin center, øverst til højre på siden websted samlinger.
+- Se i det nye center på SharePoint-admin i øverste højre hjørne af siden websteder til din rådighed og samlede opbevaring.
     
 Du kan finde oplysninger om, hvordan din grænse beregnes [SharePoint Online grænser](https://go.microsoft.com/fwlink/p/?LinkID=856113). Hvis du vil købe ekstra lagerplads, se [ændre lagerplads til dit abonnement](https://go.microsoft.com/fwlink/?linkid=866428).
   
