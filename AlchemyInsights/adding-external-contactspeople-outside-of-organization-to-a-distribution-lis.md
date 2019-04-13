@@ -11,17 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 718
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: f6354a3f4fb21c6afdf8eeacfef04b35221c0b6c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 02777d2c576ac79983d6df13a0f78a1b86dec038
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773836"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859494"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>Tilføje eksterne e-mail-adresser til en distributionsgruppe
 
 Først skal du oprette en kontaktperson i organisationen til den eksterne e-mail-adresse. Du kan derefter føje kontaktpersonen til distributionsgruppen. Yderligere oplysninger finder du [at tilføje eksterne brugere til en distributionsgruppe?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
-  
-Hvis du vil eksterne brugere skal kunne sende meddelelser til distributionsgruppen, skal du kontrollere gruppen er konfigureret til at modtage e-mail fra eksterne afsendere. Yderligere oplysninger finder du under [Administration af levering](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).
-  
 
+Hvis du vil eksterne brugere skal kunne sende meddelelser til distributionsgruppen, skal du kontrollere gruppen er konfigureret til at modtage e-mail fra eksterne afsendere. Yderligere oplysninger finder du under [Administration af levering](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).

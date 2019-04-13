@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 3c5d18b805375c25f7e46e50c3d3cb428265ec4f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: d2d92a15a1863f0c4625fd363096fbfd0582a467
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777546"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859458"
 ---
 # <a name="access-denied-banned-sender"></a>Forbudt adgang nægtet, afsender
 
- **Fejl**: SMTP fejl fra en fjernserver til RCPT kommando, skal du være vært: *xxxx* -com.mail.protection.outlook.com ( *xxx.xxx.xxx.xxx* ) årsag: 550 5.7.511 adgang nægtet, forbudte afsender [ *xx.xxx.x.xxx* ]. 
-  
-Hvis fejlen opstår, når du sender e-mail til en modtager i Office 365, kan du fjerne den berørte konto fra listen over blokerede afsendere på [https://sender.office.com](https://sender.office.com).
-  
+ **Fejl**: SMTP fejl fra en fjernserver til RCPT kommando, skal du være vært: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) årsag: 550 5.7.511 adgang nægtet, forbudte afsender [*xx.xxx.x.xxx*]. 
 
+Hvis du modtager denne fejlmeddelelse, når du sender e-mail til en modtager i Office 365, kan du fjerne den berørte konto fra listen over blokerede afsendere på [https://sender.office.com](https://sender.office.com).
