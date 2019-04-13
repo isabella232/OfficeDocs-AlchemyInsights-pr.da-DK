@@ -8,18 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
-ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
+ms.openlocfilehash: af84ef9cb3c9ed425b35d884ffaf4dcb94bff565
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31397000"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858918"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="0fafc-102">550 5.7.705 adgang nægtet, lejer har overskredet grænsen</span><span class="sxs-lookup"><span data-stu-id="0fafc-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="05d16-102">550 5.7.705 adgang nægtet, lejer har overskredet grænsen</span><span class="sxs-lookup"><span data-stu-id="05d16-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="0fafc-103">Denne meddelelse vises, når for meget spam eller masse-mail er blevet sendt af din organisation, og vi stiller en blok til udgående post.</span><span class="sxs-lookup"><span data-stu-id="0fafc-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="0fafc-104">Almindelige årsager er kompromitteret på lokale servere eller skadet administrative konti, der er brugt til at oprette forbindelser.</span><span class="sxs-lookup"><span data-stu-id="0fafc-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="0fafc-105">Begge betingelser kan give uønskede, til at passere gennem organisationen.</span><span class="sxs-lookup"><span data-stu-id="0fafc-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="05d16-103">Denne meddelelse vises, når for meget spam eller masse-mail er blevet sendt af din organisation, og vi stiller en blok til udgående post.</span><span class="sxs-lookup"><span data-stu-id="05d16-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="05d16-104">Almindelige årsager er kompromitteret på lokale servere eller skadet administrative konti, der er brugt til at oprette forbindelser.</span><span class="sxs-lookup"><span data-stu-id="05d16-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="05d16-105">Begge betingelser kan give uønskede, til at passere gennem organisationen.</span><span class="sxs-lookup"><span data-stu-id="05d16-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="0fafc-106">Hvis du vil fjerne denne blok, skal du forstå og forklare årsagen til en supportmedarbejder, samt løse det underliggende problem.</span><span class="sxs-lookup"><span data-stu-id="0fafc-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="0fafc-107">Klik på **Kontakt os** nedenfor, når du er klar.</span><span class="sxs-lookup"><span data-stu-id="0fafc-107">Click **Contact us** below once you're ready.</span></span>
-
+<span data-ttu-id="05d16-106">Hvis du vil fjerne denne blok, skal du forstå og forklare årsagen til en supportmedarbejder, samt løse det underliggende problem.</span><span class="sxs-lookup"><span data-stu-id="05d16-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="05d16-107">Klik på **Kontakt os** nedenfor, når du er klar.</span><span class="sxs-lookup"><span data-stu-id="05d16-107">Click **Contact us** below once you're ready.</span></span>
