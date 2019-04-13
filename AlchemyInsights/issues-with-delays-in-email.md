@@ -10,15 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 323
 ms.assetid: a825b451-9746-4ab5-bc31-7679b3a48d5e
-ms.openlocfilehash: 117414aef1ab68563a90751eb29fa6a6c147cd64
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: f02de241d779383fe580110737eb3e544e909cc1
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777511"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857910"
 ---
 # <a name="delays-in-email-message-delivery"></a>Forsinkelser i levering af e-mail-meddelelser
 
-Det ser ud til du har et problem med e-mail-flow. Vi har diagnosticering, der hjælper med at identificere mange almindelige problemer e-mail-flow. Klik på **Kør diagnosticering** nedenfor. 
-  
-
+Det ser ud til du har et problem med e-mail-flow. Vi har diagnosticering, der hjælper med at identificere mange almindelige problemer e-mail-flow. Klik på **Kør diagnosticering** nedenfor.
