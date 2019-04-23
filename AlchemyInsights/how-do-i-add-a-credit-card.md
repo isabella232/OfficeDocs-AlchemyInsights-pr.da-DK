@@ -1,5 +1,5 @@
 ---
-title: Hvordan føjer jeg et kreditkort?
+title: Hvordan tilføjer jeg et kreditkort?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404597"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762850"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>Hvordan føjer jeg et kreditkort?
+# <a name="how-do-i-add-a-credit-card"></a>Hvordan tilføjer jeg et kreditkort?
 
-1. Gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller Vælg **Fakturering** i centeret administration \> **abonnementer**.
+1. I Administration skal du gå til siden [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller vælge **Fakturering** \> **Abonnementer**.
     
-2. Vælg det abonnement, du vil betale for med den nye kreditkort eller bankkonto, og derefter vælge **Detaljer om betaling**.
+2. Vælg det abonnement, du vil betale for med det nye kreditkort eller den nye bankkonto, og vælg derefter **Opdater betalingsoplysninger**.
     
-3. Vælg pilen under **Tilføj eller Vælg en betalingsmetode**og derefter vælge **nyt kreditkort** eller **ny bankkonto**.
+3. Vælg rullelistepilen under **Tilføj eller vælg en betalingsmetode**, og vælg derefter **Nyt kreditkort** eller **Ny bankkonto**.
     
-4. Angiv oplysningerne for den nye kreditkort eller bankkonto, og derefter vælge Send.
+4. Angiv oplysningerne for det nye kreditkort eller den nye bankkonto, og vælg derefter Send.
     
 

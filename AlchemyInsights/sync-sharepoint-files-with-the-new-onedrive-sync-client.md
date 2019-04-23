@@ -1,5 +1,5 @@
 ---
-title: Synkronisere SharePoint-filer med den nye OneDrive synkronisering klient
+title: Synkroniser SharePoint-filer ved hjælp af den nye OneDrive-synkroniseringsklient
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469017"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747340"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synkronisere SharePoint-filer med den nye OneDrive synkronisering klient
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synkroniser SharePoint-filer ved hjælp af den nye OneDrive-synkroniseringsklient
 
-1. Vælg **Indstillinger**i den klassiske SharePoint admin center.
+1. I det nye SharePoint Administration skal du vælge **Indstillinger**.
     
-2. Kontroller, at "OneDrive Sync knap" er indstillet til "Vis knappen Synk."
+2. Sørg for, at "OneDrive-synkroniseringsknappen" er indstillet til "Vis synkroniseringsknappen".
     
-3. Vælg **Start den nye klient**til "Synkronisering klient for SharePoint,".
+3. For at få "Synkroniseringsklient til SharePoint" skal du vælge **Start den nye klient**.
     
     > [!NOTE]
-    > Hvis denne indstilling ikke vises, er din organisation allerede konfigureret til at bruge den nye OneDrive synkronisering klient til at synkronisere SharePoint-filer. 
+    > Hvis denne indstilling ikke vises, er organisationen allerede konfigureret til at bruge den nye OneDrive-synkroniseringsklient til at synkronisere SharePoint-filer. 
   
 4. Klik på **OK**.
     
-Yderligere oplysninger finder du [brugerne mulighed for at synkronisere SharePoint-filer med den nye OneDrive sync-klient](https://go.microsoft.com/fwlink/?linkid=866433). Du kan finde instruktioner til at give brugerne [synkronisere SharePoint-filer med den nye OneDrive synkronisering klient](https://go.microsoft.com/fwlink/?linkid=866427).
+Se [Gør det muligt for brugere at synkronisere SharePoint-filer ved hjælp af den nye OneDrive-synkroniseringsklient](https://go.microsoft.com/fwlink/?linkid=866433) for at få flere oplysninger. Du kan finde en vejledning til dine brugere under [Synkroniser SharePoint-filer med den nye OneDrive-synkroniseringsklient](https://go.microsoft.com/fwlink/?linkid=866427).
   
 

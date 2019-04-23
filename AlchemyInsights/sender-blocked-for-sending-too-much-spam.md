@@ -1,5 +1,5 @@
 ---
-title: Til at sende for meget spam blokeret afsender
+title: Afsenderen er blevet blokeret grundet afsendelse for meget spam
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405281"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767494"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Kontoen er spærret for afsendelse af for meget spam
+# <a name="account-is-blocked-for-sending-too-much-spam"></a>Kontoen er blevet blokeret grundet afsendelse af for meget spam
 
 Den afsendende konto kan være kompromitteret. Du skal:
   
-1. [Ud af, om kontoen er skadet](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Om angrebet, skal du følge trinene for [Responding til en kompromitteret Email-konto i Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+1. [Afgøre om kontoen er kompromitteret](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Hvis den er kompromitteret, skal du følge trinnene for [reaktion på en kompromitteret mailkonto i Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
     
-2. Gå til brugere med begrænset adgang til **[spærringen](https://protection.office.com/?hash=/restrictedusers)** i sikkerhedsopdatering &amp; Overholdelsescenter. Når færdig, skal du muligvis fortsætte med at sende meddelelser *i 1 time* . 
+2. Gå til Brugere med begrænset adgang for at **[fjerne blokeringen af kontoen](https://protection.office.com/?hash=/restrictedusers)** i Security &amp; Compliance Center. Når du har gjort dette, bør der *inden for en time* igen kunne afsendes mails fra kontoen. 
     
-3. For at forhindre fremtidige konto kompromiser, Følg anbefalingerne i [bedste sikkerhedsfremgangsmåder for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+3. For at forhindre at konti kompromitteres på et senere tidspunkt, skal du følge anbefalingerne i [Bedste fremgangsmåder for sikkerhed i Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
   
 
