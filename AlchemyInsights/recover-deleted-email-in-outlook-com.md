@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773731"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980624"
 ---
 # <a name="recover-deleted-email"></a>Genoprette slettede e-mails
 
@@ -26,7 +26,7 @@ ms.locfileid: "30773731"
   
  **Bemærk**: Du kan kun vælge alle, hvis alle meddelelser, der er synlige. Dette er for at forhindre utilsigtet handlinger på meddelelser, du ikke kan se. **CTRL + klik** vælger individuelle meddelelser, **Skift + klik** markerer alt mellem to klik. 
     
-3. Hvis meddelelsen ikke er i slettet post, kan du vælge at **gendanne slettede elementer** i toppen af vinduet. 
+3. Hvis meddelelsen ikke er i slettet post, kan du vælge at **gendanne elementer, der er slettet fra denne mappe** øverst i vinduet. 
     
  **Vigtige oplysninger om slettede elementer:**
   
