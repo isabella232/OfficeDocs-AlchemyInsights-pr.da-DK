@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761591"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396753"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Køb et abonnement på Office 365 fra din gratis prøveversion
 
@@ -24,7 +24,7 @@ Har du prøvet Office 365, og du er nu klar til at købe. Du har to muligheder, 
   
  **Du kan købe den samme plan som din prøveversion**
   
-1. Gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller Vælg **Fakturering** i centeret administration \> **abonnementer**.
+1. I Administration skal du gå til siden [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller vælge **Fakturering** \> **Abonnementer**.
     
 2. Vælg **Køb nu** til prøveabonnementet, du vil, og følge trinene for at tjekke ud. 
     

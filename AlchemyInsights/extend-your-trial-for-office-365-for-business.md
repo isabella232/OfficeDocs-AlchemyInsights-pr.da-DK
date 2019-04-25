@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754320"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401975"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Udvide din prøveversion til Office 365 til virksomheder
 
 Hvis dit prøveabonnement inden 15 dage efter udløber og forsøget endnu ikke er blevet forlænget før, kan du udvide din prøveversion til en anden 30 dage. Du kan kun gøre dette én gang.
   
-1. Gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller Vælg **Fakturering** i centeret administration \> **abonnementer**.
+1. I Administration skal du gå til siden [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller vælge **Fakturering** \> **Abonnementer**.
     
 2. Vælg det gratis prøveabonnement, du vil udvide.
     

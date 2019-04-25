@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: 616
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
 ms.openlocfilehash: 57fd34d76ec2955e7a79fe4e1cedd9935f99cbff
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772226"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396284"
 ---
 # <a name="calendar-sharing"></a>Deling af kalendere
 
-- Hvis du ikke kan se kalenderen ledig/optaget-oplysninger i andre kalendere, eller hvis andre ikke kan se ledig/optaget-oplysninger i kalenderen, kan du bruge [Microsoft Support og genoprettelse Assistant til Office 365](https://diagnostics.office.com/).
+- Hvis du ikke kan se oplysninger om ledig/optaget i andre kalendere, eller hvis andre ikke kan se oplysninger i din kalender om, hvornår du er ledig/optaget, kan du bruge [Microsoft Support- og genoprettelsesassistent til Office 365](https://diagnostics.office.com/).
     
-- [Dele en Outlook-kalender med andre](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [Del en Outlook-kalender med andre personer](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
     
 - [Dele din kalender i Outlook på internettet til virksomheder](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
     
