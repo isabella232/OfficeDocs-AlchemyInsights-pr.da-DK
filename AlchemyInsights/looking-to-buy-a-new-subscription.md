@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
 ms.openlocfilehash: 68912255fb1c76e417c59bf131dae08d8551fd3c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757308"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409468"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a><span data-ttu-id="adb28-102">Ønsker for at købe et nyt abonnement?</span><span class="sxs-lookup"><span data-stu-id="adb28-102">Looking to buy a new subscription?</span></span>
+# <a name="looking-to-buy-a-new-subscription"></a><span data-ttu-id="a11ad-102">Ønsker for at købe et nyt abonnement?</span><span class="sxs-lookup"><span data-stu-id="a11ad-102">Looking to buy a new subscription?</span></span>
 
-<span data-ttu-id="adb28-103">Hvis du allerede har en Office 365 for business-abonnement, og du vil købe et andet abonnement for organisationen, gå til siden [Køb Services](https://go.microsoft.com/fwlink/p/?linkid=868433) , eller Vælg **Fakturering** \> **Køb Services** til at få vist en oversigt over abonnementer tilgængelige for din organisation.</span><span class="sxs-lookup"><span data-stu-id="adb28-103">If you already have an Office 365 for business subscription and you want to buy another subscription for your organization, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services** to see a list of subscriptions available to your organization.</span></span> 
+<span data-ttu-id="a11ad-103">Hvis du allerede har en Office 365 for business-abonnement, og du vil købe et andet abonnement for organisationen, gå til siden [Køb Services](https://go.microsoft.com/fwlink/p/?linkid=868433) , eller Vælg **Fakturering** \> **Køb Services** til at få vist en oversigt over abonnementer tilgængelige for din organisation.</span><span class="sxs-lookup"><span data-stu-id="a11ad-103">If you already have an Office 365 for business subscription and you want to buy another subscription for your organization, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services** to see a list of subscriptions available to your organization.</span></span> 
   
-1. <span data-ttu-id="adb28-104">Markøren abonnement side om side, og klik på **Køb nu**.</span><span class="sxs-lookup"><span data-stu-id="adb28-104">Mouse over the subscription tile and click **Buy Now**.</span></span>
+1. <span data-ttu-id="a11ad-104">Markøren abonnement side om side, og klik på **Køb nu**.</span><span class="sxs-lookup"><span data-stu-id="a11ad-104">Mouse over the subscription tile and click **Buy Now**.</span></span>
     
-2. <span data-ttu-id="adb28-105">Vælg, hvordan du vil betale, og antallet af brugerlicenser, der skal bruges.</span><span class="sxs-lookup"><span data-stu-id="adb28-105">Choose how you would like to pay, and the number of user licenses needed.</span></span>
+2. <span data-ttu-id="a11ad-105">Vælg, hvordan du vil betale, og antallet af brugerlicenser, der skal bruges.</span><span class="sxs-lookup"><span data-stu-id="a11ad-105">Choose how you would like to pay, and the number of user licenses needed.</span></span>
     
-3. <span data-ttu-id="adb28-106">Du kan vælge at **tjekke ud**. På næste side kan du gennemgå ordren og gennemføre købet.</span><span class="sxs-lookup"><span data-stu-id="adb28-106">Choose **Check Out**. On the next page, you can review the order and complete the purchase.</span></span>
+3. <span data-ttu-id="a11ad-106">Du kan vælge at **tjekke ud**. På næste side kan du gennemgå ordren og gennemføre købet.</span><span class="sxs-lookup"><span data-stu-id="a11ad-106">Choose **Check Out**. On the next page, you can review the order and complete the purchase.</span></span>
     
-4. <span data-ttu-id="adb28-107">Hvis du ikke har gjort, shopping, vælge **Føj til indkøbsvogn** \> **Fortsætte Shopping** til at gå tilbage til kataloget og købe et andet abonnement.</span><span class="sxs-lookup"><span data-stu-id="adb28-107">If you're not done shopping, choose **Add to Cart** \> **Continue Shopping** to go back to the Catalog and purchase another subscription.</span></span> 
+4. <span data-ttu-id="a11ad-107">Hvis du ikke har gjort, shopping, vælge **Føj til indkøbsvogn** \> **Fortsætte Shopping** til at gå tilbage til kataloget og købe et andet abonnement.</span><span class="sxs-lookup"><span data-stu-id="a11ad-107">If you're not done shopping, choose **Add to Cart** \> **Continue Shopping** to go back to the Catalog and purchase another subscription.</span></span> 
     
-5. <span data-ttu-id="adb28-108">Når købet er gennemført, kan du muligvis tildele licenser eller annullere et abonnement.</span><span class="sxs-lookup"><span data-stu-id="adb28-108">When your purchase is complete, you may need to reassign licenses or cancel a subscription.</span></span> <span data-ttu-id="adb28-109">Se afsnittet Yderligere ressourcer nedenfor for at få hjælp med dette.</span><span class="sxs-lookup"><span data-stu-id="adb28-109">For help with this, please see the Additional Resources section below.</span></span>
+5. <span data-ttu-id="a11ad-108">Når købet er gennemført, kan du muligvis tildele licenser eller annullere et abonnement.</span><span class="sxs-lookup"><span data-stu-id="a11ad-108">When your purchase is complete, you may need to reassign licenses or cancel a subscription.</span></span> <span data-ttu-id="a11ad-109">Se afsnittet Yderligere ressourcer nedenfor for at få hjælp med dette.</span><span class="sxs-lookup"><span data-stu-id="a11ad-109">For help with this, please see the Additional Resources section below.</span></span>
     
- <span data-ttu-id="adb28-110">**Yderligere ressourcer:**</span><span class="sxs-lookup"><span data-stu-id="adb28-110">**Additional resources:**</span></span>
+ <span data-ttu-id="a11ad-110">**Yderligere ressourcer:**</span><span class="sxs-lookup"><span data-stu-id="a11ad-110">**Additional resources:**</span></span>
   
-- [<span data-ttu-id="adb28-111">Tildele licenser til brugere i Office 365 til virksomheder</span><span class="sxs-lookup"><span data-stu-id="adb28-111">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [<span data-ttu-id="a11ad-111">Tildele licenser til brugere i Office 365 til virksomheder</span><span class="sxs-lookup"><span data-stu-id="a11ad-111">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [<span data-ttu-id="adb28-112">Annuller Office 365 til virksomheder</span><span class="sxs-lookup"><span data-stu-id="adb28-112">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [<span data-ttu-id="a11ad-112">Annuller Office 365 til virksomheder</span><span class="sxs-lookup"><span data-stu-id="a11ad-112">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
-- <span data-ttu-id="adb28-113">Hvis du er interesseret i at skifte abonnementer, kan du se [skifte til et andet Office 365 til forretningsplan.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span><span class="sxs-lookup"><span data-stu-id="adb28-113">If you are interested in switching subscriptions, see [Switch to a different Office 365 for business plan.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span></span>
+- <span data-ttu-id="a11ad-113">Hvis du er interesseret i at skifte abonnementer, kan du se [skifte til et andet Office 365 til forretningsplan.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span><span class="sxs-lookup"><span data-stu-id="a11ad-113">If you are interested in switching subscriptions, see [Switch to a different Office 365 for business plan.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span></span>
     
 
