@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918968"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410116"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installationen af Office på en Terminal Server
 
@@ -25,9 +25,9 @@ Til implementering af Office 365 ProPlus på en Windows-Server ved hjælp af Rem
     
 Hvis du vil installere Office 365 ProPlus på RDS fra Office 365-portalen, ** *som bruger standardindstillingerne for installation* **, skal du følge disse trin: 
   
-1. Kontrollere, hvilke Office 365-plan, du har. [Vide hvordan](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Kontrollere, hvilke Office 365-plan, du har. [Lær, hvordan](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Hvis nødvendigt, Skift til en anden Office 365-planer. [Vide hvordan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Hvis nødvendigt, Skift til en anden Office 365-planer. [Lær, hvordan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Hvis Office er allerede installeret på RDS-serveren ved hjælp af andre Office 365-planer, kan du fjerne den. For eksempel ved at gå til Kontrolpanel \> afinstallerer et program. Fjern ved hjælp af [Microsoft Support og genoprettelse-assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) , hvis du kører i problemer. 
     

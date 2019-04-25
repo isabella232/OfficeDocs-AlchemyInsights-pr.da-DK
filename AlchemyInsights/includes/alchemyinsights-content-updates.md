@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Uge af marts 11 2019
-
-
-| Udgivet på |Emnetitel | Skift |
-|------|------------|--------|
-| 12/3/2019 | 8000054 Outlook.com Indbakke ikke er indlæst | tilføjet |
-| 12/3/2019 | [8000078 Outlook.com Indbakke ikke er indlæst](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | omdøbt |
-| 12/3/2019 | [8000078 Outlook.com Indbakke ikke er indlæst](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | ændret |
-| 13/3/2019 | [Videresend mails via Office 365](/AlchemyInsights/relay-email-through-office-365) | ændret |
-| 14/3/2019 | [samme som filnavn er bedst [regel #-beskrivelse]](/AlchemyInsights/1-alchemy-insight-template) | ændret |
-| 14/3/2019 | [Forøg størrelsen på postkassen](/AlchemyInsights/increase-mailbox-size) | ændret |
-| 15/3/2019 | [Outlook stationære tilbagekaldelse eller erstatte en e-mail-meddelelse](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | tilføjet |
-
-
 ## <a name="week-of-march-18-2019"></a>Uge af marts 18 2019
 
 
@@ -530,3 +516,47 @@
 | 12/4/2019 | [932 opgradering af AADConnect](/AlchemyInsights/upgrading-aadconnect) | ændret |
 | 12/4/2019 | [725 ved hjælp af e-mail-aliaset på den mobile enhed](/AlchemyInsights/using-email-alias-on-mobile-device) | ændret |
 | 12/4/2019 | [1554 Winsock-fejl 10061](/AlchemyInsights/winsock-error-10061) | ændret |
+
+
+## <a name="week-of-april-15-2019"></a>Uge i April 15 2019
+
+
+| Udgivet på |Emnetitel | Skift |
+|------|------------|--------|
+| 15/4/2019 | [Alchemy - diagnosticering og løsning af forbindelsesproblemer i Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | ændret |
+| 15/4/2019 | [Alchemy - Genopret dit Outlook-profil](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | ændret |
+| 15/4/2019 | [DLP muligvis en brugerdefineret type](/AlchemyInsights/dlp-might-need-custom-type) | tilføjet |
+| 15/4/2019 | [DLP fungerer ikke som forventet](/AlchemyInsights/dlp-not-working-as-expected) | ændret |
+| 15/4/2019 | [DLP politik tip virker ikke](/AlchemyInsights/dlp-policy-tips-not-working) | ændret |
+| 15/4/2019 | [Outlook.com fejl 550](/AlchemyInsights/outlook-com-error-550) | tilføjet |
+| 15/4/2019 | [Outlook.com over kvote](/AlchemyInsights/outlook-com-over-quota) | tilføjet |
+| 15/4/2019 | [Fjern Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | tilføjet |
+| 15/4/2019 | [Fjern Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | tilføjet |
+| 15/4/2019 | [182 Kør Pia til at diagnosticere &amp; løse godkendelsesproblemer i Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | ændret |
+| 16/4/2019 | [9000233 Outlook.com pinkode](/AlchemyInsights/outlook-com-pin) | ændret |
+| 16/4/2019 | [Fjern Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | ændret |
+| 16/4/2019 | [8000088 Gem e-mail i Outlook.com](/AlchemyInsights/outlook-com-save-emails) | ændret |
+| 16/4/2019 | [8000052 Vedhæft filer i Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | ændret |
+| 16/4/2019 | [8000015 blokere eller fjerne blokering af afsendere](/AlchemyInsights/block-or-unblock-senders) | ændret |
+| 16/4/2019 | [8000014 hvordan du ændrer sproget i Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | ændret |
+| 16/4/2019 | [8000059 hvordan du kan ændre layoutet](/AlchemyInsights/how-to-change-your-layout) | ændret |
+| 16/4/2019 | [8000033 hvordan at besvare eller videresende meddelelser i Outlook.com-beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | ændret |
+| 16/4/2019 | [8000055 hvordan du kan logge på eller uden for Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | ændret |
+| 16/4/2019 | [Flytte en mappe i Outlook.com 8000062](/AlchemyInsights/moving-a-folder-in-outlook-com) | ændret |
+| 16/4/2019 | [Anvende følsomheden](/AlchemyInsights/auto-apply-sensitivity-labels) | tilføjet |
+| 16/4/2019 | [Følsomheden ikke vises](/AlchemyInsights/sensitivity-labels-not-appearing) | tilføjet |
+| 16/4/2019 | [Nye tilbageholdelse etiketter, der er oprettet automatisk](/AlchemyInsights/new-retention-labels-created-automatically) | tilføjet |
+| 16/4/2019 | [SharePoint og OneDrive overvågningslogge](/AlchemyInsights/classic-sharepoint-audit-log-reports) | tilføjet |
+| 16/4/2019 | [Identificere Slet meddelelse hændelser i overvågningslogge](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | tilføjet |
+| 16/4/2019 | [Identificere eksterne e-mail-videresendelse på postkasser i overvågningslogge](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | tilføjet |
+| 16/4/2019 | [Identificere Indbakke regel aktivitet i overvågningslogge](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | tilføjet |
+| 16/4/2019 | [Identificere IP-adresse og klienten i overvågningslogge](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | tilføjet |
+| 16/4/2019 | [Reparation .pst-filen, før du importerer](/AlchemyInsights/repair-pst-before-importing) | tilføjet |
+| 16/4/2019 | [Klassiske SharePoint overvågningslograpporter](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | tilføjet |
+| 16/4/2019 | [Klassiske SharePoint overvågningslograpporter](/AlchemyInsights/classic-sharepoint-audit-log-reports) | ændret |
+| 16/4/2019 | [Identificere eksterne e-mail-videresendelse på postkasser i overvågningslogge](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | ændret |
+| 16/4/2019 | [Identificere Indbakke regel aktivitet i overvågningslogge](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | ændret |
+| 16/4/2019 | [Klassiske SharePoint overvågningslograpporter](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | ændret |
+| 17/4/2019 | [Løse problemer med e-mail-levering til postaktiverede offentlige mapper](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | tilføjet |
+| 17/4/2019 | [Team, skiftehold](/AlchemyInsights/teams-shifts) | ændret |
+| 18/4/2019 | [8000011 gendanne slettede e-mails i Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | ændret |

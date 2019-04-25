@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
 ms.openlocfilehash: 7419c95c10808dac0bf203df307be1124a52fcb7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763606"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417595"
 ---
 # <a name="how-to-purchase-education-offer"></a>Hvordan du køber tilbud om uddannelse
 
 Du er godkendt til Office 365-uddannelse. At købe:
   
-1. Gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller Vælg **Fakturering** i centeret administration \> **abonnementer**.
+1. I Administration skal du gå til siden [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller vælge **Fakturering** \> **Abonnementer**.
     
 2. Vælg prøveversionen til **studerende eller fagområde**.
     
