@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
 ms.openlocfilehash: b2fa6d538d4c1e85aa3005c3eacd6821890ac3c5
-ms.sourcegitcommit: 37ca388b299a015d719406b3fa083f108fd528f0
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30736059"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32366397"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemer med uønsket e-mail, der hævder at være fra LinkedIn
 
