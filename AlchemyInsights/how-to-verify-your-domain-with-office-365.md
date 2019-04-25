@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
 ms.openlocfilehash: 0978e89aee912dbc4166008b87866f6ad1dfffec
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208903"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416962"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="b4413-102">Sådan kontrolleres dit domæne hos Office 365</span><span class="sxs-lookup"><span data-stu-id="b4413-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="82bd3-102">Sådan kontrolleres dit domæne hos Office 365</span><span class="sxs-lookup"><span data-stu-id="82bd3-102">How to verify your domain with Office 365</span></span>
 
-<span data-ttu-id="b4413-p101">Du skal føje en TXT-post til din domæneregistrator for at kontrollere, at du ejer domænet. Følg [guiden tilføje domæne](https://portal.office.com/adminportal/home#/Domains) ved at klikke på **Indstillinger** først \> **domæne**og derefter **Tilføje domæne**.</span><span class="sxs-lookup"><span data-stu-id="b4413-p101">You will need to add a TXT record to your domain registrar to verify that you own your domain. First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
+<span data-ttu-id="82bd3-103">Du skal føje en TXT-post til din domæneregistrator for at kontrollere, at du ejer domænet.</span><span class="sxs-lookup"><span data-stu-id="82bd3-103">You will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="82bd3-104">Følg [guiden tilføje domæne](https://portal.office.com/adminportal/home#/Domains) ved at klikke på **Indstillinger** først \> **domæne**og derefter **Tilføje domæne**.</span><span class="sxs-lookup"><span data-stu-id="82bd3-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
   
-<span data-ttu-id="b4413-105">Følg vejledningen i [oprette DNS-poster på en DNS-udbyder af videoværtstjenester til Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for at tilføje en TXT-post for at bekræfte dit domæne.</span><span class="sxs-lookup"><span data-stu-id="b4413-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span> 
+<span data-ttu-id="82bd3-105">Følg vejledningen i [oprette DNS-poster på en DNS-udbyder af videoværtstjenester til Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for at tilføje en TXT-post for at bekræfte dit domæne.</span><span class="sxs-lookup"><span data-stu-id="82bd3-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span> 
   
 
