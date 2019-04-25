@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: 8000039
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
 ms.openlocfilehash: 950a020eebccb1b95e0b7fd9e52be588c8824831
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786086"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419384"
 ---
-# <a name="outlookcom-account-hacked"></a><span data-ttu-id="bb9f8-102">Outlook.com-konto hacket</span><span class="sxs-lookup"><span data-stu-id="bb9f8-102">Outlook.com account hacked</span></span>
+# <a name="outlookcom-account-hacked"></a><span data-ttu-id="c4224-102">Outlook.com-konto hacket</span><span class="sxs-lookup"><span data-stu-id="c4224-102">Outlook.com account hacked</span></span>
 
-<span data-ttu-id="bb9f8-103">Hvis din konto er blevet hacket, Følg vejledningen i [Min Outlook.com-konto er blevet hacket](https://go.microsoft.com/fwlink/p/?linkid=874366) til at genoprette din konto.</span><span class="sxs-lookup"><span data-stu-id="bb9f8-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://go.microsoft.com/fwlink/p/?linkid=874366) to recover your account.</span></span> 
+<span data-ttu-id="c4224-103">Hvis din konto er blevet hacket, Følg vejledningen i [Min Outlook.com-konto er blevet hacket](https://go.microsoft.com/fwlink/p/?linkid=874366) til at genoprette din konto.</span><span class="sxs-lookup"><span data-stu-id="c4224-103">If your account has been hacked, follow the instructions in [My Outlook.com account has been hacked](https://go.microsoft.com/fwlink/p/?linkid=874366) to recover your account.</span></span> 
   
-<span data-ttu-id="bb9f8-104">Lær mere om [Avancerede Outlook.com sikkerhedsopdatering til Office 365-abonnenter](https://go.microsoft.com/fwlink/p/?linkid=874368).</span><span class="sxs-lookup"><span data-stu-id="bb9f8-104">Learn more about [Advanced Outlook.com security for Office 365 subscribers](https://go.microsoft.com/fwlink/p/?linkid=874368).</span></span>
+<span data-ttu-id="c4224-104">Lær mere om [Avancerede Outlook.com sikkerhedsopdatering til Office 365-abonnenter](https://go.microsoft.com/fwlink/p/?linkid=874368).</span><span class="sxs-lookup"><span data-stu-id="c4224-104">Learn more about [Advanced Outlook.com security for Office 365 subscribers](https://go.microsoft.com/fwlink/p/?linkid=874368).</span></span>
   
 
