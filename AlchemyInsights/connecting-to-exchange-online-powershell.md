@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom: 760
 ms.assetid: 0f9e4dc5-1e06-4941-860b-4474a6f63247
 ms.openlocfilehash: 23a8e81367a8f94b5f2d72bde917264f53b9d3be
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857802"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393499"
 ---
-# <a name="connect-to-exchange-online-powershell"></a><span data-ttu-id="f1a9d-102">Oprette forbindelse til Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="f1a9d-102">Connect to Exchange Online PowerShell</span></span>
+# <a name="connect-to-exchange-online-powershell"></a><span data-ttu-id="c51b2-102">Oprette forbindelse til Exchange Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="c51b2-102">Connect to Exchange Online PowerShell</span></span>
 
-<span data-ttu-id="f1a9d-103">Brug af PowerShell i Exchange Online finder du under [oprette forbindelse til Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="f1a9d-103">To use PowerShell in Exchange Online, see [Connect to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span></span>
+<span data-ttu-id="c51b2-103">Brug af PowerShell i Exchange Online finder du under [oprette forbindelse til Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="c51b2-103">To use PowerShell in Exchange Online, see [Connect to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).</span></span>
