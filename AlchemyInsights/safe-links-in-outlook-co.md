@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: 8000057
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
 ms.openlocfilehash: bbdaba2b9b3749836b588cb323edc188d3f5ae22
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772751"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370500"
 ---
-# <a name="advanced-outlookcom-security-for-office-365-subscribers"></a><span data-ttu-id="b0f96-102">Avanceret Outlook.com sikkerhed til Office 365-abonnenter</span><span class="sxs-lookup"><span data-stu-id="b0f96-102">Advanced Outlook.com security for Office 365 subscribers</span></span>
+# <a name="advanced-outlookcom-security-for-office-365-subscribers"></a><span data-ttu-id="28a4d-102">Avanceret Outlook.com sikkerhed til Office 365-abonnenter</span><span class="sxs-lookup"><span data-stu-id="28a4d-102">Advanced Outlook.com security for Office 365 subscribers</span></span>
 
-<span data-ttu-id="b0f96-103">Alle Outlook.com-brugere drage fordel af spam og malware filtrering.</span><span class="sxs-lookup"><span data-stu-id="b0f96-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="b0f96-104">For Home Office 365 og Office 365 private abonnenter udfører Outlook.com ekstra screening af vedhæftede filer og hyperlinks i meddelelser, du modtager.</span><span class="sxs-lookup"><span data-stu-id="b0f96-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of the attachments and links in messages you receive.</span></span>
+<span data-ttu-id="28a4d-103">Alle Outlook.com-brugere drage fordel af spam og malware filtrering.</span><span class="sxs-lookup"><span data-stu-id="28a4d-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="28a4d-104">For Home Office 365 og Office 365 private abonnenter udfører Outlook.com ekstra screening af vedhæftede filer og hyperlinks i meddelelser, du modtager.</span><span class="sxs-lookup"><span data-stu-id="28a4d-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of the attachments and links in messages you receive.</span></span>
   
-<span data-ttu-id="b0f96-105">Når du modtager meddelelser med links til websider, kontrollerer Outlook.com, om hyperlinkene er relateret til phishing-bedrageri eller kan forventes at hente virus eller malware på din computer.</span><span class="sxs-lookup"><span data-stu-id="b0f96-105">When you receive messages with links to web pages, Outlook.com checks whether the links are related to phishing scams or are likely to download viruses or malware onto your computer.</span></span>
+<span data-ttu-id="28a4d-105">Når du modtager meddelelser med links til websider, kontrollerer Outlook.com, om hyperlinkene er relateret til phishing-bedrageri eller kan forventes at hente virus eller malware på din computer.</span><span class="sxs-lookup"><span data-stu-id="28a4d-105">When you receive messages with links to web pages, Outlook.com checks whether the links are related to phishing scams or are likely to download viruses or malware onto your computer.</span></span>
   
-<span data-ttu-id="b0f96-106">Læs mere om [Avanceret Outlook.com sikkerhed til Office 365-abonnenter](https://go.microsoft.com/fwlink/p/?linkid=2006140), herunder hvordan du fjerner sikkert Links fra dine meddelelser.</span><span class="sxs-lookup"><span data-stu-id="b0f96-106">Read more about [Advanced Outlook.com security for Office 365 subscribers](https://go.microsoft.com/fwlink/p/?linkid=2006140), including how to remove Safe Links from your messages.</span></span>
+<span data-ttu-id="28a4d-106">Læs mere om [Avanceret Outlook.com sikkerhed til Office 365-abonnenter](https://go.microsoft.com/fwlink/p/?linkid=2006140), herunder hvordan du fjerner sikkert Links fra dine meddelelser.</span><span class="sxs-lookup"><span data-stu-id="28a4d-106">Read more about [Advanced Outlook.com security for Office 365 subscribers](https://go.microsoft.com/fwlink/p/?linkid=2006140), including how to remove Safe Links from your messages.</span></span>
   
-<span data-ttu-id="b0f96-107">Bemærk: Premium kunder og abonnenter på Office 365 kan aktivere eller deaktivere sikkert hyperlinks i deres [Præmie sikkerhedsindstillinger](https://outlook.live.com/mail/options/premium/security).</span><span class="sxs-lookup"><span data-stu-id="b0f96-107">Note: Premium customers and Office 365 subscribers can turn on or turn off Safe Links in their [Premium Security Settings](https://outlook.live.com/mail/options/premium/security).</span></span>
+<span data-ttu-id="28a4d-107">Bemærk: Premium kunder og abonnenter på Office 365 kan aktivere eller deaktivere sikkert hyperlinks i deres [Præmie sikkerhedsindstillinger](https://outlook.live.com/mail/options/premium/security).</span><span class="sxs-lookup"><span data-stu-id="28a4d-107">Note: Premium customers and Office 365 subscribers can turn on or turn off Safe Links in their [Premium Security Settings](https://outlook.live.com/mail/options/premium/security).</span></span>

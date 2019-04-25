@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
 description: Hvis du har problemer med at logge på Skype for Business, kan du foretage fejlfinding af med Support og genoprettelse assistenten (Pia). Dette værktøj hjælper dig med at diagnosticere og løse en række kendte problemer i forbindelse med enkeltlogon til Skype for Business automatisk.
 ms.openlocfilehash: a081cc87071e678eb70531249da84c1fc0443717
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905358"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372662"
 ---
-<span data-ttu-id="64421-p102">Hvis du har problemer med at logge på Skype for Business, kan du foretage fejlfinding af med Support og genoprettelse assistenten (Pia). Dette værktøj hjælper dig med at diagnosticere og løse en række kendte problemer i forbindelse med enkeltlogon til Skype for Business automatisk.</span><span class="sxs-lookup"><span data-stu-id="64421-p102">If you're having trouble signing in to Skype for Business, you can troubleshoot with Support and Recovery Assistant (SaRA). This tool helps you automatically diagnose and fix a range of known issues involving sign-on for Skype for Business.</span></span>
+<span data-ttu-id="091af-104">Hvis du har problemer med at logge på Skype for Business, kan du foretage fejlfinding af med Support og genoprettelse assistenten (Pia).</span><span class="sxs-lookup"><span data-stu-id="091af-104">If you're having trouble signing in to Skype for Business, you can troubleshoot with Support and Recovery Assistant (SaRA).</span></span> <span data-ttu-id="091af-105">Dette værktøj hjælper dig med at diagnosticere og løse en række kendte problemer i forbindelse med enkeltlogon til Skype for Business automatisk.</span><span class="sxs-lookup"><span data-stu-id="091af-105">This tool helps you automatically diagnose and fix a range of known issues involving sign-on for Skype for Business.</span></span>
   
-<span data-ttu-id="64421-106">[Du kan lære mere på dette link](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span><span class="sxs-lookup"><span data-stu-id="64421-106">[You can learn more at this link](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span></span>
+<span data-ttu-id="091af-106">[Du kan lære mere på dette link](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span><span class="sxs-lookup"><span data-stu-id="091af-106">[You can learn more at this link](https://support.microsoft.com/help/4087361/troubleshooting-office-365-issues-signing-in-to-skype-for-business).</span></span>
   
 
