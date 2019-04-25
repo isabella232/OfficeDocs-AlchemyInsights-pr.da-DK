@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
 ms.openlocfilehash: 540fe0e8f9edd6949229e90e256aa2626584dd3b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767211"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388757"
 ---
 # <a name="get-office-365-free-for-your-entire-school"></a>Hent Office 365 gratis til hele skolen
 
