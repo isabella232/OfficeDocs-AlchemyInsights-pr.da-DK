@@ -1,5 +1,5 @@
 ---
-title: Forsøget på at bekræfte dit domæne?
+title: Forsøger du at bekræfte dit domæne?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
 ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935130"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420118"
 ---
-# <a name="trying-to-verify-your-domain"></a>Forsøget på at bekræfte dit domæne?
+# <a name="trying-to-verify-your-domain"></a>Forsøger du at bekræfte dit domæne?
 
-Du skal føje en TXT-post til din domæneregistrator for at kontrollere, at du ejer domænet. Følg guiden tilføje domæne ved at klikke på **Indstillinger for** \> **domæne**og derefter **Tilføje domæne**. 
+Du skal tilføje en TXT-post hos din domæneregistrator for at bekræfte, at du ejer domænet. Følg guiden Tilføj domæne ved at klikke på **Indstillinger** \> **Domæne**, og derefter **Tilføj domæne**. 
   
-Følg vejledningen i artiklen nedenfor til at tilføje en TXT-post for at bekræfte dit domæne. Vælg din domæneregistrator for at få specifikke instruktioner for dit domæne.
+Følg instruktionerne i nedenstående artikel, hvis du vil tilføje en TXT-post for at bekræfte dit domæne. Vælg din domæneregistrator for at se specifikke instruktioner til dit domæne.
   
 [Oprette DNS-poster til Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
