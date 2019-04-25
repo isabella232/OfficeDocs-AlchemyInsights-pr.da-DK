@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935595"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405618"
 ---
 # <a name="delete-a-sharepoint-site"></a>Slette et SharePoint-websted
 **Slette websteder fra det nye SharePoint admin center** Ved hjælp af det nye SharePoint Administration center, kan du slette både klassiske og moderne websteder. Vælg **aktive websteder**, Vælg lokation, og vælg derefter **Slet**. Til at [få vist og gendanne slettet websteder i det nye SharePoint Administration center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), markere **slettet websteder**. Se [slette et websted i det nye SharePoint admin center](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)for at få yderligere oplysninger.

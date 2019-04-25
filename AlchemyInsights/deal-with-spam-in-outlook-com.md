@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 6b5f15ba-ced9-4215-8c23-3ec1962a283a
 ms.openlocfilehash: fc6e01c94d885a9cec56080864756047a76e5ac3
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30778036"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406342"
 ---
 # <a name="reduce-junk-email-in-your-inbox"></a>Reducere uønsket e-mail i din Indbakke
 
-Hvis du ser en stigning i spam, kan du læse hvordan du [holder spam og uønsket mail ud af indbakken](https://go.microsoft.com/fwlink/p/?linkid=873140).
+Hvis du oplever en stigning i spam, kan du læse om, hvordan du [beskytter din indbakke mod spam og uønsket mail](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
 Hvis du får en e-mail, der ser ud som spam, kan du rapportere det ved at højreklikke på meddelelsen og vælge **markeret som uønsket e-mail**. 
   
-Filtre for uønsket e-mail i Outlook.com forbedres, når du markerer en meddelelse som uønsket e-mail. Du kan også blokere e-mail-adresser og domæner, som du ikke vil modtage meddelelser fra.
+Filtrene til uønsket mail i Outlook.com bliver bedre, når du markerer en meddelelse som uønsket mail. Du kan også blokere e-mail-adresser og domæner, som du ikke vil modtage meddelelser fra.
   
-Blokere e-mail-adresser, skal du gå til **Indstillinger** for \> **Indstillinger** \> **blokerede afsendere**. Vælg **sikre afsendere**for at tilføje adresser eller domæner på listen Afsendere. 
+For at blokere mailadresser skal du gå til **Indstillinger** \> **Indstillinger** \> **Blokerede afsendere**. For at tilføje mailadresser eller domæner til listen over afsendere, der er tillid til, skal du vælge **Afsendere, der er tillid til**. 
   
 

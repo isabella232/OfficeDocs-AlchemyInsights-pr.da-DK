@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904674"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417675"
 ---
 # <a name="network-migration"></a>Overflytning af netværk
 
@@ -29,8 +29,8 @@ Din O365 lejer er muligvis knyttet til flere Yammer-netværk i en 1 lejer: mange
     
 Bemærk:
   
-- **En netværks-overførsel overfører kun aktivt og afventende brugere.** Brugernes oplysninger som navn og profil billede overføres også sammen med de aktive brugere. Netværk indhold, herunder grupper, overflyttes ikke. 
+- **En netværk-overførsel overfører kun aktivt og afventende brugere.** Brugernes oplysninger som navn og profil billede overføres også sammen med de aktive brugere. Netværk indhold, herunder grupper, overflyttes ikke. 
     
-- **Netværk overflytningen kan ikke fortrydes.** Du vil ikke kunne få adgang til netværket datterselskaber og dens indhold efter overflytningen. Så før du overvejer en overførsel, vil du planlægge det omhyggeligt. 
+- **Overflytning af netværket kan ikke fortrydes.** Du vil ikke kunne få adgang til netværket datterselskaber og dens indhold efter overflytningen. Så før du overvejer en overførsel, vil du planlægge det omhyggeligt. 
     
 
