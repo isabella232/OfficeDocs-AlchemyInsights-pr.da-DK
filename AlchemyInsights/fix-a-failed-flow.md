@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: 28e3d83ee2b16c003f50a3b8815c034a97f5d55b
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762814"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32401286"
 ---
-# <a name="fix-a-flow-that-failed"></a><span data-ttu-id="c8866-102">Løse et flow, der mislykkedes</span><span class="sxs-lookup"><span data-stu-id="c8866-102">Fix a flow that failed</span></span>
+# <a name="fix-a-flow-that-failed"></a><span data-ttu-id="454cc-102">Løse et flow, der mislykkedes</span><span class="sxs-lookup"><span data-stu-id="454cc-102">Fix a flow that failed</span></span>
 
-1. <span data-ttu-id="c8866-103">Gå til [Microsoft-Flow](https://flow.microsoft.com/), og klik på ikonet notifikationer i øverste højre hjørne.</span><span class="sxs-lookup"><span data-stu-id="c8866-103">Go to [Microsoft Flow](https://flow.microsoft.com/), and click the Notifications icon in the upper right.</span></span> <span data-ttu-id="c8866-104">(Eller Vælg fanen aktivitet i mobil-app'en). Vælg det flow, der ikke kunne se detaljerne.</span><span class="sxs-lookup"><span data-stu-id="c8866-104">(Or in the mobile app, select the Activity tab.) Select the flow that failed to look at the details.</span></span>
+1. <span data-ttu-id="454cc-103">Gå til [Microsoft-Flow](https://flow.microsoft.com/), og klik på ikonet notifikationer i øverste højre hjørne.</span><span class="sxs-lookup"><span data-stu-id="454cc-103">Go to [Microsoft Flow](https://flow.microsoft.com/), and click the Notifications icon in the upper right.</span></span> <span data-ttu-id="454cc-104">(Eller Vælg fanen aktivitet i mobil-app'en). Vælg det flow, der ikke kunne se detaljerne.</span><span class="sxs-lookup"><span data-stu-id="454cc-104">(Or in the mobile app, select the Activity tab.) Select the flow that failed to look at the details.</span></span>
     
-2. <span data-ttu-id="c8866-105">Find trin med rødt udråbstegn ikonet for at få vist fejlmeddelelsen for strømmen.</span><span class="sxs-lookup"><span data-stu-id="c8866-105">Find the step with the red exclamation icon to see the error message for the flow.</span></span>
+2. <span data-ttu-id="454cc-105">Find trin med rødt udråbstegn ikonet for at få vist fejlmeddelelsen for strømmen.</span><span class="sxs-lookup"><span data-stu-id="454cc-105">Find the step with the red exclamation icon to see the error message for the flow.</span></span>
     
-3. <span data-ttu-id="c8866-106">Afhængigt af fejlmeddelelsen, skal du kunne redigere forløbet og løse problemet.</span><span class="sxs-lookup"><span data-stu-id="c8866-106">Depending on the error message, you should be able to edit the flow and fix it.</span></span> 
+3. <span data-ttu-id="454cc-106">Afhængigt af fejlmeddelelsen, skal du kunne redigere forløbet og løse problemet.</span><span class="sxs-lookup"><span data-stu-id="454cc-106">Depending on the error message, you should be able to edit the flow and fix it.</span></span> 
     
-[<span data-ttu-id="c8866-107">Fælles flow-fejl</span><span class="sxs-lookup"><span data-stu-id="c8866-107">Common flow failures</span></span>](https://go.microsoft.com/fwlink/?linkid=872110)
+[<span data-ttu-id="454cc-107">Fælles flow-fejl</span><span class="sxs-lookup"><span data-stu-id="454cc-107">Common flow failures</span></span>](https://go.microsoft.com/fwlink/?linkid=872110)
   
 
