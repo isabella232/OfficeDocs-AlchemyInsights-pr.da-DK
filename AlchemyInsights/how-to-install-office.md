@@ -1,5 +1,5 @@
 ---
-title: Sådan installeres Office
+title: Sådan installerer du Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.openlocfilehash: 05e1f1e27d77ebf621fda557346692a75befd284
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405101"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417348"
 ---
-# <a name="how-to-install-office"></a><span data-ttu-id="b17e8-102">Sådan installeres Office</span><span class="sxs-lookup"><span data-stu-id="b17e8-102">How to install Office</span></span>
+# <a name="how-to-install-office"></a><span data-ttu-id="69ec3-102">Sådan installerer du Office</span><span class="sxs-lookup"><span data-stu-id="69ec3-102">How to install Office</span></span>
 
 
-<span data-ttu-id="b17e8-103">Hvis du vil installere Office-klient apps, sikre du har et business-abonnement, som Office 365 Business Premium, Office 365 Business eller Office 365-uddannelse.</span><span class="sxs-lookup"><span data-stu-id="b17e8-103">To install the Office client apps, ensure you have a business subscription such as Office 365 Business Premium, Office 365 Business, or Office 365 Education.</span></span>
+<span data-ttu-id="69ec3-103">Hvis du vil installere Office-klientappsene, skal du sikre, at du har et virksomhedsabonnement, som f.eks. Office 365 Business Premium, Office 365 Business eller Office 365 Education.</span><span class="sxs-lookup"><span data-stu-id="69ec3-103">To install the Office client apps, ensure you have a business subscription such as Office 365 Business Premium, Office 365 Business, or Office 365 Education.</span></span>
   
-<span data-ttu-id="b17e8-104">*Bemærk: [Office til hjemmet og Business 2016](https://products.office.com/home-and-business) er et produkt af [Office til hjemmet](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) og ikke en del af en business-abonnement. Yderligere oplysninger om Visio eller Project, se [Installere Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) eller [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*</span><span class="sxs-lookup"><span data-stu-id="b17e8-104">*NOTE: [Office Home and Business 2016](https://products.office.com/home-and-business) is an [Office for home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) product and not part of a business subscription. For specific instructions on Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*</span></span>
+<span data-ttu-id="69ec3-104">*BEMÆRK![Office Home & Business 2016](https://products.office.com/home-and-business) er et [Office til privatpersoner](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt og er ikke en del af et virksomhedsabonnement. For at få specifik vejledning om Visio eller Project skal du se [Installér Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) eller [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*</span><span class="sxs-lookup"><span data-stu-id="69ec3-104">*NOTE: [Office Home and Business 2016](https://products.office.com/home-and-business) is an [Office for home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) product and not part of a business subscription. For specific instructions on Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*</span></span>
 
-<span data-ttu-id="b17e8-p101">Oprette brugerkonti og tilføje dit domæne. Kontroller, at brugeren har en [tildelt licens](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="b17e8-p101">Create the user accounts and add your domain. Make sure the user has an [assigned license](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="69ec3-105">Opret brugerkontiene, og tilføj dit domæne.</span><span class="sxs-lookup"><span data-stu-id="69ec3-105">Create the user accounts and add your domain.</span></span> <span data-ttu-id="69ec3-106">Sørg for, at brugeren har en [tildelt licens](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="69ec3-106">Make sure the user has an [assigned license](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).</span></span>
     
-<span data-ttu-id="b17e8-107">Har hver bruger:</span><span class="sxs-lookup"><span data-stu-id="b17e8-107">Have each user:</span></span>
-1. <span data-ttu-id="b17e8-108">Gå til portalsiden: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="b17e8-108">Go to the portal page: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
-2. <span data-ttu-id="b17e8-109">Log på med deres arbejde eller en skoleopgave konto, hvis du ikke allerede er logget på.</span><span class="sxs-lookup"><span data-stu-id="b17e8-109">Sign in with their work or school account if not already signed in.</span></span>
-3. <span data-ttu-id="b17e8-p102">Vælg sproget i Office-afsnittet. Vælg **Avanceret** til at vælge 32-bit version eller 64-bit-version.</span><span class="sxs-lookup"><span data-stu-id="b17e8-p102">Under the Office section, select the language. Select **Advanced** to choose the 32-bit version or 64-bit version.</span></span> 
-4. <span data-ttu-id="b17e8-112">Du kan vælge at **installere**.</span><span class="sxs-lookup"><span data-stu-id="b17e8-112">Select **Install**.</span></span>
+<span data-ttu-id="69ec3-107">Få hver bruger til at:</span><span class="sxs-lookup"><span data-stu-id="69ec3-107">Have each user:</span></span>
+1. <span data-ttu-id="69ec3-108">Gå til portalsiden: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="69ec3-108">Go to the portal page: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+2. <span data-ttu-id="69ec3-109">Logge på med sin arbejds- eller skolekonto, hvis vedkommende ikke allerede er logget på.</span><span class="sxs-lookup"><span data-stu-id="69ec3-109">Sign in with their work or school account if not already signed in.</span></span>
+3. <span data-ttu-id="69ec3-110">Vælge sproget under sektionen Office.</span><span class="sxs-lookup"><span data-stu-id="69ec3-110">Under the Office section, select the language.</span></span> <span data-ttu-id="69ec3-111">Vælge **Avanceret** for at vælge 32-bit- eller 64-bit-versionen.</span><span class="sxs-lookup"><span data-stu-id="69ec3-111">Select **Advanced** to choose the 32-bit version or 64-bit version.</span></span> 
+4. <span data-ttu-id="69ec3-112">Vælge **Installér**.</span><span class="sxs-lookup"><span data-stu-id="69ec3-112">Select **Install**.</span></span>
     
-<span data-ttu-id="b17e8-113">Detaljerede instruktioner og fejlfinding løsninger, når du installerer Office finder du: [hente og installere eller geninstallere Office på en PC eller Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="b17e8-113">For detailed steps and troubleshooting solutions when installing Office, see: [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="69ec3-113">Se [Download og installér eller geninstaller Office på en pc eller Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) for at få detaljerede trin og fejlfindingsløsninger, når du installerer Office.</span><span class="sxs-lookup"><span data-stu-id="69ec3-113">For detailed steps and troubleshooting solutions when installing Office, see: [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
     
