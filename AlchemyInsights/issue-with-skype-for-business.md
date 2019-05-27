@@ -21,9 +21,9 @@ Vi har opdaget, at de(t) følgende domæne(r) har problemer, der kan forhindre S
   
 {HealthCheckString}
   
-Indstillingerne for NS-, CNAME- eller SRV-posterne for domænet (DNS) er ikke konfigureret korrekt til Skype for Business. Du kan se [Opdatering af DNS-poster i Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for at få flere oplysninger. 
+Indstillingerne for NS-, CNAME- eller SRV-posterne for domænet (DNS) er ikke konfigureret korrekt til Skype for Business. Du kan finde flere oplysninger under [Opdatering af DNS-poster i Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-For at rette problemet skal du gå til siden [Domæner](https://admin.microsoft.com/adminportal/home#/Domains) i Microsoft 365 Administration, og så hjælper vi dig med det. 
+For at løse problemet skal du gå til siden [Domæner](https://admin.microsoft.com/adminportal/home#/Domains) i Microsoft 365 Administration, så hjælper vi dig med det. 
   
 Hvis du har problemer med at kommunikere med brugere, der er uden for organisationen, kan du se [Konfigurer Skype for Business Online til ekstern kommunikation](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) for at få detaljerede oplysninger. 
   

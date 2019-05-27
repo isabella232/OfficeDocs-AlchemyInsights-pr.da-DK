@@ -19,14 +19,14 @@ ms.locfileid: "32399128"
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Er der legitime meddelelser, der markeres som spam?
 
 
-Prøv den ovenstående diagnosticering, eller prøv denne [trinvise vejledning for at foretage fejlfinding af legitime meddelelser, der markeres som spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Prøv ovenstående diagnosticering, eller prøv denne [trinvise vejledning for at foretage fejlfinding af legitime meddelelser, der markeres som spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
-Den bedste måde at rapportere disse typer af problemer på er at:
+Den bedste måde at rapportere disse typer af problemer på er ved at gøre følgende:
   
-1. [Aktivere tilføjelsesprogrammet til rapportering](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for brugeren. 
+1. [Aktivér tilføjelsesprogrammet til rapportering](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for brugeren. 
     
 2. Få brugeren til at [markere meddelelsen som Ikke uønsket](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
     
-Hvis du ønsker at åbne en supportbillet, skal du vedhæfte mailoverskrifterne fra mindst **én komplet meddelelse** nedenfor. 
+Hvis du gerne vil åbne en supportanmodning, skal du vedhæfte de fulde mailoverskrifter fra mindst **én komplet original meddelelse** nedenfor. 
   
 

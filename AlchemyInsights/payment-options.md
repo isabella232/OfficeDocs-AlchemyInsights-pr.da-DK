@@ -1,5 +1,5 @@
 ---
-title: Betalingsindstillinger
+title: Betalingsmuligheder
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -17,11 +17,11 @@ ms.contentlocale: da-DK
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "32372626"
 ---
-# <a name="payment-options"></a>Betalingsindstillinger
+# <a name="payment-options"></a>Betalingsmuligheder
 
- **Betalingsindstillinger**
+ **Betalingsmuligheder**
   
-Kreditkort, bankkonto (direkte debetkort) og faktura (betal med check eller via elektronisk pengeoverførsel)
+Kreditkort, bankkonto (direkte debet) og faktura (betal med check eller via elektronisk pengeoverførsel)
   
  **Betal med kreditkort og via bankkonto**
   
@@ -31,9 +31,9 @@ Hvis dit kreditkort er blevet afvist, eller du har en udestående betaling, kan 
   
  **Betal via faktura (check eller elektronisk pengeoverførsel)**
   
-Hvis dit abonnement koster mere end et bestemt beløb (dette beløb varierer efter tjenesteplacering), har du mulighed for at betale via faktura pr. elektronisk overførsel eller check. En kreditkontrol kan være påkrævet ved større fakturabetalinger. Hvis en kreditkontrol er påkrævet, får du besked, når du køber dit abonnement. Hvis du accepterer at blive kontaktet, modtager du desuden en mail, der indeholder flere oplysninger om at ansøge om kreditgodkendelse. Kreditkontroller gennemføres normalt inden for to arbejdsdage.
+Hvis dit abonnement koster mere end et bestemt beløb (dette beløb varierer afhængigt af tjenesteplacering), har du mulighed for at betale via faktura ved hjælp af elektronisk overførsel eller check. En kreditkontrol kan være påkrævet ved større fakturabetalinger. Hvis en kreditkontrol er påkrævet, får du besked, når du køber dit abonnement. Hvis du accepterer at blive kontaktet, modtager du desuden en mail, der indeholder flere oplysninger om at ansøge om kreditgodkendelse. Kreditkontroller gennemføres normalt inden for to arbejdsdage.
   
-Hvis du betaler via faktura for dit abonnement, får du tilsendt en mail, der angiver, at din faktureringsopgørelse er klar til at blive vist. Denne mail indeholder ikke en kopi af din faktureringsopgørelse. Du kan dog også vælge at [Modtage en kopi af din faktureringsopgørelse via mail](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Din faktureringsopgørelse indeholder detaljer om dine betalingsmuligheder. Hvis du angiver et indkøbsordrenummer (IO), når du køber et abonnement, vises nummeret på din faktureringsopgørelse. Se [Få vist din regning eller faktura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide) for at få flere oplysninger om at få adgang til faktureringsopgørelser.
+Hvis du betaler for dit abonnement via faktura, får du tilsendt en mail, der angiver, at din faktureringsopgørelse er klar til at blive vist. Denne mail indeholder ikke en kopi af din faktureringsopgørelse. Du kan dog også vælge at [Modtage en kopi af din faktureringsopgørelse via mail](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Din faktureringsopgørelse indeholder detaljer om dine betalingsmuligheder. Hvis du angiver et indkøbsordrenummer, når du køber et abonnement, vises nummeret på din faktureringsopgørelse. Se [Få vist din regning eller faktura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide) for at få flere oplysninger om at få adgang til faktureringsopgørelser.
   
  **Skift den måde, du betaler på**
   

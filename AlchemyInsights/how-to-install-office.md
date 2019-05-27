@@ -22,7 +22,7 @@ ms.locfileid: "32417348"
 
 Hvis du vil installere Office-klientappsene, skal du sikre, at du har et virksomhedsabonnement, som f.eks. Office 365 Business Premium, Office 365 Business eller Office 365 Education.
   
-*BEMÆRK![Office Home & Business 2016](https://products.office.com/home-and-business) er et [Office til privatpersoner](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt og er ikke en del af et virksomhedsabonnement. For at få specifik vejledning om Visio eller Project skal du se [Installér Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) eller [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
+*BEMÆRK! [Office Home & Business 2016](https://products.office.com/home-and-business) er et produkt af typen [Office til privat brug](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) og er ikke en del af et virksomhedsabonnement. For at få specifik vejledning om Visio eller Project skal du se [Installér Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) eller [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
 
 Opret brugerkontiene, og tilføj dit domæne. Sørg for, at brugeren har en [tildelt licens](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
     

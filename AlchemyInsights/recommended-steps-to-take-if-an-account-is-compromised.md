@@ -19,16 +19,16 @@ ms.locfileid: "32388969"
 
 [VIDEO: Rettelse af en kompromitteret Office 365-konto](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [Nulstil brugerens adgangskode](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) med det samme. Skriv ikke den nye adgangskode til slutbrugeren via mail. 
+1. [Nulstil brugerens adgangskode](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) med det samme. Send ikke den nye adgangskode til slutbrugeren via mail. 
     
-2. Fjern alle mistænkelige [videresendelsesmailadresser](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74), der er angivet på postkasseniveauet. 
+2. Fjern alle mistænkelige [videresendelsesadresser](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74), der er angivet på postkasseniveauet. 
     
 3. Fjern alle mistænkelige [indbakkeregler](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED), der er angivet i postkassen. 
     
-4. Hvis brugeren er blevet blokeret og ikke kan sende mails, skal du [gå til Brugere med begrænset adgang for at fjerne blokeringen af kontoen](https://protection.office.com/?hash=/restrictedusers). Når du har gjort dette, bør der inden for én time igen kunne afsendes mails fra kontoen.
+4. Hvis brugeren er blevet blokeret og ikke kan sende mails, skal du [gå til Brugere med begrænset adgang for at fjerne blokeringen af kontoen](https://protection.office.com/?hash=/restrictedusers). Når du har gjort dette, bør brugeren kunne afsende mails fra kontoen igen inden for én time.
     
-5. Fjern brugerkontoen fra alle [administratorrollegrupper](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504), indtil du er sikker på, at kontoen ikke længere er kompromitteret. 
+5. Fjern brugerkontoen fra alle [grupper for administrationsroller](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504), indtil du er sikker på, at kontoen ikke længere er kompromitteret. 
     
-For at minimere sandsynligheden for et databrud eller en kompromitteret konto i fremtiden, anbefaler vi, at du læser vores [Office 365 Security-artikel om bedste fremgangsmåder](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).
+For at minimere sandsynligheden for et databrud eller en kompromitteret konto i fremtiden, anbefaler vi, at du læser vores [artikel om bedste praksis for Office 365 Security](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).
   
 
