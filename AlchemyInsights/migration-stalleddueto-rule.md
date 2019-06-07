@@ -2,7 +2,7 @@
 title: 973 regel for overførsel StalledDueTo *
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 973
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: c866ec261e96552f04c4a71cbd34c9b200f7a895
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a3cce9e2e9abf8999d065c8e5d4de64c63183146
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418499"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755922"
 ---
-# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="32329-102">StalledDueTo fejl under overflytningen</span><span class="sxs-lookup"><span data-stu-id="32329-102">StalledDueTo errors during migration</span></span>
+# <a name="stalleddueto-errors-during-migration"></a><span data-ttu-id="196df-102">StalledDueTo fejl under overflytningen</span><span class="sxs-lookup"><span data-stu-id="196df-102">StalledDueTo errors during migration</span></span>
 
-<span data-ttu-id="32329-103">Du kan se en række fejl, der begynder med "StalledDueTo..." under overførslen til Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="32329-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="32329-104">Mange af disse fejl er helt normal.</span><span class="sxs-lookup"><span data-stu-id="32329-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="32329-105">Yderligere oplysninger finder du under [ressource baseret båndbreddebegrænsning og prioritering i Exchange Online-overførsler](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span><span class="sxs-lookup"><span data-stu-id="32329-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span></span>
+<span data-ttu-id="196df-103">Du kan se en række fejl, der begynder med "StalledDueTo..." under overførslen til Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="196df-103">You might see a variety of errors that begin with "StalledDueTo…" during your migration to Exchange Online.</span></span> <span data-ttu-id="196df-104">Mange af disse fejl er helt normal.</span><span class="sxs-lookup"><span data-stu-id="196df-104">Many of these errors are perfectly normal.</span></span> <span data-ttu-id="196df-105">Yderligere oplysninger finder du under [ressource baseret båndbreddebegrænsning og prioritering i Exchange Online-overførsler](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span><span class="sxs-lookup"><span data-stu-id="196df-105">For more information, see [Resource Based Throttling and Prioritization in Exchange Online Migrations](https://blogs.technet.microsoft.com/exchange/2018/06/25/resource-based-throttling-and-prioritization-in-exchange-online-migrations/).</span></span>
