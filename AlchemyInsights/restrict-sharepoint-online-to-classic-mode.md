@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422169"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761753"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Begrænse SharePoint Online til tilstanden Klassisk
 
-Nogle organisationer kræver stadig klassisk tilstand oplevelse. Der er ingen planer om at fjerne klassiske tilstand på et detaljeret niveau, Start April 1,2019, vil det ikke længere være muligt at begrænse en hel organisation (lejer) til klassisk tilstand for lister og biblioteker.
+Nogle organisationer kræver stadig klassisk tilstand oplevelse. Der er ingen planer om at fjerne klassiske tilstand på et detaljeret niveau, der ikke længere muligt at begrænse en hel organisation (lejer) til klassisk tilstand for lister og biblioteker.
 
 Administratoren har følgende indstillinger til at administrere individuelle lister og biblioteker i classic-tilstand ved hjælp af detaljeret fravalg af parametre, som vi giver på følgende niveauer:
 
@@ -28,6 +28,6 @@ Administratoren har følgende indstillinger til at administrere individuelle lis
 
 Derudover bliver lister, som du kan bruger visse funktioner og tilpasninger, der ikke understøttes af moderne stadig automatisk ændres til klassisk tilstand.
 
-Efter 1. April, vil lister og biblioteker, der er i klassisk tilstand som følge af fravalg af lejer automatisk blive håndteret på webstedsniveau og niveau.
+Begyndende April 1, 2019, proces for at deaktivere niveauet lejer framelde moderne liste og biblioteker starter og fortsætte gennem 31 maj 2019.  Lister og biblioteker, der er i klassisk tilstand som følge af fravalg af lejer vil automatisk flyttes til moderne.
 
-Hvis du har brug for klassisk tilstand du finder yderligere oplysninger her, og PnP Powershell instruktion her, der beskriver indstillinger og værktøjer, du kan bruge i dag til at forberede til fjernelse af de lejer niveau fravælge d. 1.
+Hvis du har brug for klassisk tilstand finder du yderligere oplysninger [her](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) , og PnP Powershell instruktion [her](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) , der beskriver indstillinger og værktøjer, du kan bruge i dag til at bruge tilstanden Klassisk-oplevelse.
