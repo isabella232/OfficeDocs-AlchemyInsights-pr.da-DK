@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: c2960093bb1cfb649c26528c9f671e6d720ff237
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 5319c2f1edc3e61074301f039736d2aa96bda47b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736047"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758760"
 ---
 # <a name="search-in-sharepoint-online"></a>Søg i SharePoint Online
 
 Indholdet skal gennemsøges og tilføjet i søgeindekset for brugerne at finde det, de søger efter, i SharePoint Online. Indhold gennemsøges automatisk baseret på en foruddefineret gennemsøgning tidsplan (gennemsøgning tidsplanen ikke kan ændres). Crawleren henter indhold, der er blevet ændret siden den seneste gennemsøgning og opdaterer indekset. Følg nedenstående trin for at sikre indhold gennemsøges og indekset bliver opdateret.
 
-Kontroller, at indholdet kan findes ved at gøre webstedets indhold kan søges. Yderligere oplysninger finder du i [aktivere indhold på et websted, der skal søges](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable).
+Kontroller, at indholdet kan findes ved at gøre webstedets indhold kan søges. Yderligere oplysninger finder du i [aktivere indhold på et websted, der skal søges](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
 Når du har ændret en administreret egenskab, eller når du har ændret tilknytning af gennemsøgt og administrerede skal egenskaber for webstedet være gennemsøgt igen, før ændringerne afspejles i søgeindekset. 
 
 Indeksere webstedet igen, da ændringerne foretages i search-skema, og ikke på webstedet faktiske crawleren ikke automatisk. 
 
-Flere oplysninger, skal du [manuelt anmode om gennemsøgning og indeksering igen af et websted, et bibliotek eller en liste](https://docs.microsoft.com/en-us/sharepoint/crawl-site-conten).
+Flere oplysninger, skal du [manuelt anmode om gennemsøgning og indeksering igen af et websted, et bibliotek eller en liste](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
  Vent mindst 24 timer efter manuelt anmode om en gennemsøgning og fuld gendanne indekset for at se, hvis du stadig har et problem. 
 
