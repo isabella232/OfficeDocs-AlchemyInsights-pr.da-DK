@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630010"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770241"
 ---
 # <a name="how-to-import-nk2-files"></a>Sådan importeres .nk2-filer 
 
@@ -37,4 +37,4 @@ Når du importerer .nk2-filen, er indholdet af filen flettes med eksisterende ka
 
 **Bemærk**: .nk2-filen omdøbes med filtypenavnet .old næste gang du starter Outlook 2013, Outlook 2016, 2019 til Outlook eller Outlook til Office 365. Hvis vil genimportere .nk2-filen, skal du først fjerne filtypenavnet .old.
 
-Yderligere oplysninger finder du under [importere eller kopiere den automatisk fuldførelse af liste til en anden computer](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Yderligere oplysninger finder du under [importere eller kopiere den automatisk fuldførelse af liste til en anden computer](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

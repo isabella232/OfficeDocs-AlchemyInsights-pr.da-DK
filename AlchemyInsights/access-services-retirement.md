@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 395dac6abf1562aa0da0b1d87eddd943affefc3f
-ms.sourcegitcommit: b2c9202b94fa1ce73dbeb3e43b219ba07e46e7e3
+ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33973908"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769431"
 ---
 # <a name="access-services-retirement"></a>Access services-pension
 
 Da vi oprindeligt blev offentliggjort i MC97576, i marts 2017 og fortsatte med at kommunikere over det seneste år er Access Services bliver afbrudt fra Office 365. Den næste fase i denne proces vil være fjernelse af Web Access-databaser, der bruger SharePoint-lister som deres underliggende datalager.
 
-## <a name="how-does-this-affect-me"></a>Hvordan påvirker det mig?
+**Hvordan påvirker det mig?**
 
 Start juni 2019, vi stopper oprettelsen af nye Access-databaser i SharePoint Online og lukke tjenesten og eventuelle resterende apps ved April 2020.
 
-## <a name="what-do-i-need-to-do-to-prepare-for-this-change"></a>Hvad skal jeg gøre for at forberede denne ændring?
+**Hvad skal jeg gøre for at forberede denne ændring?**
 
-Vi opfordrer dig til at oprette en plan for overgangen til organisationens Access web-databaser. Administratorer kan bruge [SharePoint adgang app scanner](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FSharePoint%2FPnP-Tools%2Ftree%2Fmaster%2FSolutions%2FSharePoint.AccessApp.Scanner&data=02%7C01%7Csalarson%40microsoft.com%7C0f8afc9cd02f45ac32d708d6d26c5b40%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636927760189423652&sdata=xH%2FPQdPyyGEUBiXfMwUAhBE4UmsuBa4JhFDZUbjUkZU%3D&reserved=0) til at få en oversigt over Access-programmer, websteder bruger. 
+Vi opfordrer dig til at oprette en plan for overgangen til organisationens Access web-databaser. Administratorer kan bruge [SharePoint adgang app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) til at få en oversigt over Access-programmer, websteder bruger. 
 
 Der er flere måder at overføre data fra Access web databaser:
 
