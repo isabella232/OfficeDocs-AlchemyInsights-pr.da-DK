@@ -11,23 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 2eb86e0c2e4741ea42c1476c4b76f5d2d318126f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6c9ea9c33097b65cf577106d1781023f0e9738c0
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389724"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883693"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a><span data-ttu-id="4ea2b-102">Løse problemer med SharePoint-biblioteker, der er tilknyttet netværksdrev</span><span class="sxs-lookup"><span data-stu-id="4ea2b-102">Fix problems with SharePoint libraries mapped to network drives</span></span>
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a><span data-ttu-id="19408-102">Løse problemer med SharePoint-biblioteker, der er tilknyttet netværksdrev</span><span class="sxs-lookup"><span data-stu-id="19408-102">Fix problems with SharePoint libraries mapped to network drives</span></span>
 
-<span data-ttu-id="4ea2b-103">Når du navigerer til et tilknyttet netværksdrev, vises der muligvis en af følgende meddelelser:</span><span class="sxs-lookup"><span data-stu-id="4ea2b-103">When you browse to a mapped network drive, you may see one of the following messages:</span></span>
+<span data-ttu-id="19408-103">Når du navigerer til et tilknyttet netværksdrev, vises der muligvis en af følgende meddelelser:</span><span class="sxs-lookup"><span data-stu-id="19408-103">When you browse to a mapped network drive, you may see one of the following messages:</span></span>
   
-- <span data-ttu-id="4ea2b-104">**\\Stien er ikke tilgængelig. Du har muligvis ikke tilladelse til at bruge denne netværksressource. Kontakt administratoren af denne server for at finde af, om du har adgangstilladelser.**</span><span class="sxs-lookup"><span data-stu-id="4ea2b-104">**\\Path is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.**</span></span>
-    
-- <span data-ttu-id="4ea2b-105">**Adgang blev nægtet. Før du åbner filer på denne placering, skal du først føje webstedet til listen over websteder, du har tillid til, gå til webstedet og vælge indstillingen til automatisk logon.**</span><span class="sxs-lookup"><span data-stu-id="4ea2b-105">**Access Denied. Before opening files in this location, you must first add the web site to your trusted site list, browse to the web site, and select the option to login automatically.**</span></span>
-    
-<span data-ttu-id="4ea2b-106">[Få hjælp til fejlfinding af tilknyttede netværksdrev](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span><span class="sxs-lookup"><span data-stu-id="4ea2b-106">[Get help troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
-  
-<span data-ttu-id="4ea2b-107">Tilknytning af et bibliotek som et netværksdrev, er midlertidige og understøttes kun i Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="4ea2b-107">Mapping a library as a network drive is temporary and supported only in Internet Explorer.</span></span> <span data-ttu-id="4ea2b-108">I stedet [synkronisere SharePoint-filer med den nye OneDrive synkronisering klient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) som indeholder [Filer efter behov](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span><span class="sxs-lookup"><span data-stu-id="4ea2b-108">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="4ea2b-109">Få adgang til alle dine filer i OneDrive uden at bruge lokale lagerplads.</span><span class="sxs-lookup"><span data-stu-id="4ea2b-109">Access all your files in OneDrive without using local storage space.</span></span>
-  
+- <span data-ttu-id="19408-104">**\\Stien er ikke tilgængelig. Du har muligvis ikke tilladelse til at bruge denne netværksressource. Kontakt administratoren af denne server for at finde af, om du har adgangstilladelser.**</span><span class="sxs-lookup"><span data-stu-id="19408-104">**\\Path is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.**</span></span>
 
+- <span data-ttu-id="19408-105">**Adgang blev nægtet. Før du åbner filer på denne placering, skal du først føje webstedet til listen over websteder, du har tillid til, gå til webstedet og vælge indstillingen til automatisk logon.**</span><span class="sxs-lookup"><span data-stu-id="19408-105">**Access Denied. Before opening files in this location, you must first add the web site to your trusted site list, browse to the web site, and select the option to login automatically.**</span></span>
+
+<span data-ttu-id="19408-106">[Få hjælp til fejlfinding af tilknyttede netværksdrev](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span><span class="sxs-lookup"><span data-stu-id="19408-106">[Get help troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
+  
+<span data-ttu-id="19408-107">Tilknytning af et bibliotek som et netværksdrev, er midlertidige og understøttes kun i Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="19408-107">Mapping a library as a network drive is temporary and supported only in Internet Explorer.</span></span> <span data-ttu-id="19408-108">I stedet [synkronisere SharePoint-filer med den nye OneDrive synkronisering klient](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) som indeholder [Filer efter behov](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span><span class="sxs-lookup"><span data-stu-id="19408-108">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="19408-109">Få adgang til alle dine filer i OneDrive uden at bruge lokale lagerplads.</span><span class="sxs-lookup"><span data-stu-id="19408-109">Access all your files in OneDrive without using local storage space.</span></span>
+  
