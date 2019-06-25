@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 4cd7db1d9a6a1c86e64cee040d9dc3c1d180832f
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 0a30faed3991c1e49d25df51db09636660884bf4
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132647"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199339"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware angreb i SharePoint eller OneDrive
 
@@ -35,5 +35,6 @@ Yderligere oplysninger:
 
 [Viruspåvisning i Simuleret](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
 [Datakryptering i ODB og Simuleret](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
-[beskyttelse af dine data i SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data) ][Ransomware Threat Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
+[beskyttelse af dine data i SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data)
+[Ransomware Threat Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
 [Ransomware registrerings- og genoprette efter filer](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

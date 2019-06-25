@@ -1,35 +1,33 @@
 ---
-title: 8000035 hvordan du gør det nye Outlook.com udseende som den gamle
+title: Sådan får du den nye Outlook.com til at ligne den gamle liste
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409396"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117607"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Sådan får du den nye Outlook.com til at ligne den gamle version
 
-Her er nogle indstillinger og visninger, som du kan ændre for at gøre den nye Outlook.com til at ligne den gamle version.
+Her er nogle indstillinger, du kan ændre for at gøre den nye Outlook.com til at ligne den gamle version:
 
-1. Vælg Redskaber-ikonet øverst på siden for at åbne indstillinger.
-2. Vælg din foretrukne **tema**.
-3. Du kan ændre **visningen** til **nyeste meddelelser øverst**.
-4. Ændre **læseruden** til at **skjule**.
-5. Skift **Focused Indbakke** til **Off**.
-6. Skift **Billede af afsenderen** til **Off**. 
-7. Du kan skifte **gruppemeddelelser efter dato** til **Off**. 
-8. **Fremvisning af vedhæftede filer** kan du skifte til **Off**. 
-9. Skifte **Vis meddelelsestekst** til **på**.
+1. Gå til [Indstillinger for sidelayout](https://outlook.live.com/mail/options/mail/layout).
+1. Vælg **ikke sortere mine meddelelser**under **Focused Indbakke**.
+1. Vælg **nyeste meddelelser øverst**under **meddelelse organisation**.
+1. Vælg **Vis ikke afsender billeder**under **Billede af afsenderen**.
+1. Vælg **Skjul læseruden**under **Læserude**.
+1. Vælg **Vis udskrift tekst**under **Vis meddelelsestekst**.
+1. Vælg **Vis ikke vedhæftede filer i meddelelseslisten**under **indbyggede eksempler**.
 
-Bemærk: Dette er bare nogle anbefalede indstillinger, hvilket kan give det bedst mulige layout til den klassiske version af Outlook.com. Det vil stadig afhænge af de ønskede indstillinger.
-
-Hvis du vil ændre indstillingerne for E-mail, så din Indbakke ser ud og fungerer, som det skal se [tilpasse oplevelsen Mail i Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+For at ændre indstillingerne for E-mail, så din Indbakke ser ud og fungerer, som det skal du [ændre udseendet af din postkasse i Outlook.com og den nye Outlook på internettet](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
