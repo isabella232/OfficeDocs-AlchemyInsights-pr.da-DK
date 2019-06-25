@@ -1,35 +1,33 @@
 ---
-title: 8000035 hvordan du gør det nye Outlook.com udseende som den gamle
+title: Sådan får du den nye Outlook.com til at ligne den gamle liste
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409396"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117607"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="b435c-102">Sådan får du den nye Outlook.com til at ligne den gamle version</span><span class="sxs-lookup"><span data-stu-id="b435c-102">How to make the new Outlook.com look like the old version</span></span>
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="6995e-102">Sådan får du den nye Outlook.com til at ligne den gamle version</span><span class="sxs-lookup"><span data-stu-id="6995e-102">How to make the new Outlook.com look like the old version</span></span>
 
-<span data-ttu-id="b435c-103">Her er nogle indstillinger og visninger, som du kan ændre for at gøre den nye Outlook.com til at ligne den gamle version.</span><span class="sxs-lookup"><span data-stu-id="b435c-103">Here are some settings and views you can change to make the new Outlook.com look like the old version.</span></span>
+<span data-ttu-id="6995e-103">Her er nogle indstillinger, du kan ændre for at gøre den nye Outlook.com til at ligne den gamle version:</span><span class="sxs-lookup"><span data-stu-id="6995e-103">Here are some settings you can change to make the new Outlook.com look like the old version:</span></span>
 
-1. <span data-ttu-id="b435c-104">Vælg Redskaber-ikonet øverst på siden for at åbne indstillinger.</span><span class="sxs-lookup"><span data-stu-id="b435c-104">Select the gear icon at the top of the page to open Settings.</span></span>
-2. <span data-ttu-id="b435c-105">Vælg din foretrukne **tema**.</span><span class="sxs-lookup"><span data-stu-id="b435c-105">Select your preferred **Theme**.</span></span>
-3. <span data-ttu-id="b435c-106">Du kan ændre **visningen** til **nyeste meddelelser øverst**.</span><span class="sxs-lookup"><span data-stu-id="b435c-106">Change **Conversation view** to **Newest messages on top**.</span></span>
-4. <span data-ttu-id="b435c-107">Ændre **læseruden** til at **skjule**.</span><span class="sxs-lookup"><span data-stu-id="b435c-107">Change **Reading pane** to **Hide**.</span></span>
-5. <span data-ttu-id="b435c-108">Skift **Focused Indbakke** til **Off**.</span><span class="sxs-lookup"><span data-stu-id="b435c-108">Switch **Focused inbox** to **Off**.</span></span>
-6. <span data-ttu-id="b435c-109">Skift **Billede af afsenderen** til **Off**.</span><span class="sxs-lookup"><span data-stu-id="b435c-109">Switch **Sender image** to **Off**.</span></span> 
-7. <span data-ttu-id="b435c-110">Du kan skifte **gruppemeddelelser efter dato** til **Off**.</span><span class="sxs-lookup"><span data-stu-id="b435c-110">Switch **Group messages by date** to **Off**.</span></span> 
-8. <span data-ttu-id="b435c-111">**Fremvisning af vedhæftede filer** kan du skifte til **Off**.</span><span class="sxs-lookup"><span data-stu-id="b435c-111">Switch **Attachment preview** to **Off**.</span></span> 
-9. <span data-ttu-id="b435c-112">Skifte **Vis meddelelsestekst** til **på**.</span><span class="sxs-lookup"><span data-stu-id="b435c-112">Switch **Message preview text** to **On**.</span></span>
+1. <span data-ttu-id="6995e-104">Gå til [Indstillinger for sidelayout](https://outlook.live.com/mail/options/mail/layout).</span><span class="sxs-lookup"><span data-stu-id="6995e-104">Go to [Layout settings](https://outlook.live.com/mail/options/mail/layout).</span></span>
+1. <span data-ttu-id="6995e-105">Vælg **ikke sortere mine meddelelser**under **Focused Indbakke**.</span><span class="sxs-lookup"><span data-stu-id="6995e-105">Under **Focused inbox**, select **Don't sort my messages**.</span></span>
+1. <span data-ttu-id="6995e-106">Vælg **nyeste meddelelser øverst**under **meddelelse organisation**.</span><span class="sxs-lookup"><span data-stu-id="6995e-106">Under **Message organization**, select **Newest messages on top**.</span></span>
+1. <span data-ttu-id="6995e-107">Vælg **Vis ikke afsender billeder**under **Billede af afsenderen**.</span><span class="sxs-lookup"><span data-stu-id="6995e-107">Under **Sender image**, select **Don't show sender images**.</span></span>
+1. <span data-ttu-id="6995e-108">Vælg **Skjul læseruden**under **Læserude**.</span><span class="sxs-lookup"><span data-stu-id="6995e-108">Under **Reading pane**, select **Hide reading pane**.</span></span>
+1. <span data-ttu-id="6995e-109">Vælg **Vis udskrift tekst**under **Vis meddelelsestekst**.</span><span class="sxs-lookup"><span data-stu-id="6995e-109">Under **Message preview text**, select **Show preview text**.</span></span>
+1. <span data-ttu-id="6995e-110">Vælg **Vis ikke vedhæftede filer i meddelelseslisten**under **indbyggede eksempler**.</span><span class="sxs-lookup"><span data-stu-id="6995e-110">Under **Inline previews**, select **Don't show attachments in message list**.</span></span>
 
-<span data-ttu-id="b435c-113">Bemærk: Dette er bare nogle anbefalede indstillinger, hvilket kan give det bedst mulige layout til den klassiske version af Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="b435c-113">Note: These are just some recommended settings which can provide the closest possible layout to the classic version of Outlook.com.</span></span> <span data-ttu-id="b435c-114">Det vil stadig afhænge af de ønskede indstillinger.</span><span class="sxs-lookup"><span data-stu-id="b435c-114">It will still depend on your desired settings.</span></span>
-
-<span data-ttu-id="b435c-115">Hvis du vil ændre indstillingerne for E-mail, så din Indbakke ser ud og fungerer, som det skal se [tilpasse oplevelsen Mail i Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span><span class="sxs-lookup"><span data-stu-id="b435c-115">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Personalize your new Mail experience in Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
+<span data-ttu-id="6995e-111">For at ændre indstillingerne for E-mail, så din Indbakke ser ud og fungerer, som det skal du [ændre udseendet af din postkasse i Outlook.com og den nye Outlook på internettet](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="6995e-111">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Change the look of your mailbox in Outlook.com and the new Outlook on the web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
