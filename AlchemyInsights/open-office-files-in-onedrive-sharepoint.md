@@ -1,5 +1,5 @@
 ---
-title: Åbn et SharePoint-bibliotek i Stifinder
+title: Problemer med at åbne filer fra Sharepoint- eller OneDrive
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 0f72136d788167472be3b77e83034f5147bbc92c
-ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
+ms.openlocfilehash: 58ee71bfc802bdd6fe1f1d892399dff4f71641fe
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35079307"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223670"
 ---
-# <a name="open-office-files-and-documents-from-sharepoint-and-onedrive"></a>Åbne Office-filer og dokumenter fra SharePoint- og OneDrive
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Problemer med at åbne filer fra Sharepoint- eller OneDrive 
 
 
 Hvis du har problemer med at åbne Office-filer og dokumenter fra dokumentbiblioteker i SharePoint- eller OneDrive, er her nogle forslag til at løse dem.
