@@ -1,5 +1,5 @@
 ---
-title: Synkroniser SharePoint-filer ved hjælp af den nye OneDrive-synkroniseringsklient
+title: Foretag fejlfinding af "Åbn med Stifinder" i SharePoint Online
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 74b79efeb7e46d03dc55f46252d152cd13e66c84
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fcaca189741bd68878b1dcfab879e6e0f64e6794
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757801"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223634"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synkroniser SharePoint-filer ved hjælp af den nye OneDrive-synkroniseringsklient
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Foretag fejlfinding af "Åbn med Stifinder" i SharePoint Online
 
 Kommandoen Åbn med Stifinder åbner en lokal forekomst af Windows Stifinder, der viser mappestrukturen på den server, hvor SharePoint-webstedet er hostet. Vi anbefaler dog, at du [synkroniserer SharePoint-filer med den nye OneDrive-synkroniseringsklient](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, der giver mulighed for [Filer efter behov](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), fordi det giver lokal adgang til dine filer og den bedste ydeevne.
 
