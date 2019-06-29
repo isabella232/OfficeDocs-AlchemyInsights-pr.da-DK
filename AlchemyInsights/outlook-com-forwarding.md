@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000239
-ms.openlocfilehash: 5be7ed823d4a7ce0456ca30914f877f4b5e22d6e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1824"
+- "9000239"
+ms.openlocfilehash: c5bbaf6068c7a3f54982ee5de556888a2f2377ae
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419050"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374739"
 ---
-# <a name="forwarding-email-in-outlookcom"></a><span data-ttu-id="e7898-102">Videresendelse af e-mail i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e7898-102">Forwarding email in Outlook.com</span></span>
+# <a name="forwarding-email-in-outlookcom"></a><span data-ttu-id="abb8e-102">Videresendelse af e-mail i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="abb8e-102">Forwarding email in Outlook.com</span></span>
 
-<span data-ttu-id="e7898-103">Til at fremsende én meddelelse ad gangen:</span><span class="sxs-lookup"><span data-stu-id="e7898-103">To forward one message at a time:</span></span>
+<span data-ttu-id="abb8e-103">Til at fremsende én meddelelse ad gangen:</span><span class="sxs-lookup"><span data-stu-id="abb8e-103">To forward one message at a time:</span></span>
 
-1. <span data-ttu-id="e7898-104">På meddelelseslisten, Vælg den meddelelse, du vil videresende.</span><span class="sxs-lookup"><span data-stu-id="e7898-104">In your message list, choose the message that you want to forward.</span></span>
-2. <span data-ttu-id="e7898-105">Vælg pilen **Fremad** i øverste hjørne i meddelelsesruden.</span><span class="sxs-lookup"><span data-stu-id="e7898-105">At the top corner of the message pane, select the **Forward** arrow.</span></span>
-3. <span data-ttu-id="e7898-106">Skriv meddelelsen, og vælg derefter **Send**.</span><span class="sxs-lookup"><span data-stu-id="e7898-106">Type your message and then select **Send**.</span></span>
+1. <span data-ttu-id="abb8e-104">På meddelelseslisten, Vælg den meddelelse, du vil videresende.</span><span class="sxs-lookup"><span data-stu-id="abb8e-104">In your message list, choose the message that you want to forward.</span></span>
+2. <span data-ttu-id="abb8e-105">Vælg pilen **Fremad** i øverste hjørne i meddelelsesruden.</span><span class="sxs-lookup"><span data-stu-id="abb8e-105">At the top corner of the message pane, select the **Forward** arrow.</span></span>
+3. <span data-ttu-id="abb8e-106">Skriv meddelelsen, og vælg derefter **Send**.</span><span class="sxs-lookup"><span data-stu-id="abb8e-106">Type your message and then select **Send**.</span></span>
 
-<span data-ttu-id="e7898-107">Til automatisk at videresende alle meddelelser:</span><span class="sxs-lookup"><span data-stu-id="e7898-107">To automatically forward all messages:</span></span>
+<span data-ttu-id="abb8e-107">Til automatisk at videresende alle meddelelser:</span><span class="sxs-lookup"><span data-stu-id="abb8e-107">To automatically forward all messages:</span></span>
 
-1. <span data-ttu-id="e7898-108">Åbn din [videresendelse indstillinger](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).</span><span class="sxs-lookup"><span data-stu-id="e7898-108">Open your [Forwarding settings](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).</span></span>
-2. <span data-ttu-id="e7898-109">Vælg **Aktiver videresendelse**, skal du angive videresendelse e-mail-adresse, og vælg **Gem**.</span><span class="sxs-lookup"><span data-stu-id="e7898-109">Select **Enable forwarding**, enter the forwarding email address, and select **Save**.</span></span>
+1. <span data-ttu-id="abb8e-108">Åbn din [videresendelse indstillinger](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).</span><span class="sxs-lookup"><span data-stu-id="abb8e-108">Open your [Forwarding settings](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).</span></span>
+2. <span data-ttu-id="abb8e-109">Vælg **Aktiver videresendelse**, skal du angive videresendelse e-mail-adresse, og vælg **Gem**.</span><span class="sxs-lookup"><span data-stu-id="abb8e-109">Select **Enable forwarding**, enter the forwarding email address, and select **Save**.</span></span>
 
-<span data-ttu-id="e7898-110">Yderligere oplysninger om [automatisk videresendelse i Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad).</span><span class="sxs-lookup"><span data-stu-id="e7898-110">Learn more about [automatic forwarding in Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad).</span></span>
+<span data-ttu-id="abb8e-110">Yderligere oplysninger om [automatisk videresendelse i Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad).</span><span class="sxs-lookup"><span data-stu-id="abb8e-110">Learn more about [automatic forwarding in Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad).</span></span>
