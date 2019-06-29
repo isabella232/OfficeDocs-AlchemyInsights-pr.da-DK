@@ -9,26 +9,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800005
+ms.custom:
+- "644"
+- "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 06cb5d8377f423682419316916a87dabc47051f8
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: f29d2b256f7cf0dbb39283724532194ecd1edb77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769395"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387411"
 ---
-# <a name="troubleshoot-search-issues"></a><span data-ttu-id="f925a-102">Foretage fejlfinding af problemer med søgning</span><span class="sxs-lookup"><span data-stu-id="f925a-102">Troubleshoot search issues</span></span>
+# <a name="troubleshoot-search-issues"></a><span data-ttu-id="f71b2-102">Foretage fejlfinding af problemer med søgning</span><span class="sxs-lookup"><span data-stu-id="f71b2-102">Troubleshoot search issues</span></span>
 
-<span data-ttu-id="f925a-103">Hvis du har problemer med søgning, se nedenstående links for fejlfinding i Hjælp.</span><span class="sxs-lookup"><span data-stu-id="f925a-103">If you're having problems with search, please see the links below for help troubleshooting.</span></span>
+<span data-ttu-id="f71b2-103">Hvis du har problemer med søgning, se nedenstående links for fejlfinding i Hjælp.</span><span class="sxs-lookup"><span data-stu-id="f71b2-103">If you're having problems with search, please see the links below for help troubleshooting.</span></span>
 
-<span data-ttu-id="f925a-104">Disse er de mest almindelige problemer, og er et godt sted at starte:</span><span class="sxs-lookup"><span data-stu-id="f925a-104">These are the most common issues, and are a good place to start:</span></span>
-- [<span data-ttu-id="f925a-105">Outlook-søgningen ikke returnerer nogen resultater</span><span class="sxs-lookup"><span data-stu-id="f925a-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [<span data-ttu-id="f925a-106">Outlook søgning returnerer ufuldstændige resultater</span><span class="sxs-lookup"><span data-stu-id="f925a-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [<span data-ttu-id="f925a-107">Outlook søgning kan ikke finde ældre emails</span><span class="sxs-lookup"><span data-stu-id="f925a-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+<span data-ttu-id="f71b2-104">Disse er de mest almindelige problemer, og er et godt sted at starte:</span><span class="sxs-lookup"><span data-stu-id="f71b2-104">These are the most common issues, and are a good place to start:</span></span>
 
-<span data-ttu-id="f925a-108">Mulige løsninger for mindre almindelige problemer kan ses her:</span><span class="sxs-lookup"><span data-stu-id="f925a-108">Possible solutions for less common problems can be found here:</span></span>
-- [<span data-ttu-id="f925a-109">Kun Outlook-2016: fanen Søg er nedtonet</span><span class="sxs-lookup"><span data-stu-id="f925a-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [<span data-ttu-id="f925a-110">Delt postkasse: Problemer med søgeresultater</span><span class="sxs-lookup"><span data-stu-id="f925a-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [<span data-ttu-id="f925a-111">Fejl: Søgninger vil blive påvirket på grund af et problem med, hvordan Outlook er konfigureret</span><span class="sxs-lookup"><span data-stu-id="f925a-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [<span data-ttu-id="f925a-112">Søgemapper viser uventet PersonMetadata elementer med intet emne</span><span class="sxs-lookup"><span data-stu-id="f925a-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [<span data-ttu-id="f71b2-105">Outlook-søgningen ikke returnerer nogen resultater</span><span class="sxs-lookup"><span data-stu-id="f71b2-105">Outlook search returns no results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [<span data-ttu-id="f71b2-106">Outlook søgning returnerer ufuldstændige resultater</span><span class="sxs-lookup"><span data-stu-id="f71b2-106">Outlook search returns incomplete results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [<span data-ttu-id="f71b2-107">Outlook søgning kan ikke finde ældre emails</span><span class="sxs-lookup"><span data-stu-id="f71b2-107">Outlook search can't find older emails</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+<span data-ttu-id="f71b2-108">Mulige løsninger for mindre almindelige problemer kan ses her:</span><span class="sxs-lookup"><span data-stu-id="f71b2-108">Possible solutions for less common problems can be found here:</span></span>
+
+- [<span data-ttu-id="f71b2-109">Kun Outlook-2016: fanen Søg er nedtonet</span><span class="sxs-lookup"><span data-stu-id="f71b2-109">Outlook 2016 only: Search tab is grayed out</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [<span data-ttu-id="f71b2-110">Delt postkasse: Problemer med søgeresultater</span><span class="sxs-lookup"><span data-stu-id="f71b2-110">Shared Mailbox: Problems with search results</span></span>](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [<span data-ttu-id="f71b2-111">Fejl: Søgninger vil blive påvirket på grund af et problem med, hvordan Outlook er konfigureret</span><span class="sxs-lookup"><span data-stu-id="f71b2-111">Error: Search performance will be impacted because of a problem with how Outlook is configured</span></span>](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [<span data-ttu-id="f71b2-112">Søgemapper viser uventet PersonMetadata elementer med intet emne</span><span class="sxs-lookup"><span data-stu-id="f71b2-112">Search folders show unexpected PersonMetadata items with no subject</span></span>](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

@@ -1,32 +1,27 @@
 ---
-title: 8000048 hyperlinks i Outlook.com fungerer ikke i Firefox
+title: Kæderne i Outlook.com virker ikke i Firefox
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/4/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000048
+ms.custom:
+- "813"
+- "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: 83499418b35bbd25b623ba5ef4608f2f8dd09397
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d729927235b12560efeb88294cbae2604ea497e8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409504"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380859"
 ---
-# <a name="links-in-outlookcom-dont-work-in-firefox"></a><span data-ttu-id="7d89e-102">Kæderne i Outlook.com virker ikke i Firefox</span><span class="sxs-lookup"><span data-stu-id="7d89e-102">Links in Outlook.com don't work in Firefox</span></span>
+# <a name="links-in-outlookcom-dont-work-in-firefox"></a><span data-ttu-id="4110c-102">Kæderne i Outlook.com virker ikke i Firefox</span><span class="sxs-lookup"><span data-stu-id="4110c-102">Links in Outlook.com don't work in Firefox</span></span>
 
-<span data-ttu-id="7d89e-103">Links i e-mail-meddelelser med Outlook.com fungerer ikke, når de er åbnet i Firefox browsere.</span><span class="sxs-lookup"><span data-stu-id="7d89e-103">Links in Outlook.com email messages don't work when they're viewed in Firefox browsers.</span></span>
+<span data-ttu-id="4110c-103">Links i e-mail-meddelelser med Outlook.com fungerer ikke, når de er åbnet i Firefox browsere.</span><span class="sxs-lookup"><span data-stu-id="4110c-103">Links in Outlook.com email messages don't work when they're viewed in Firefox browsers.</span></span> <span data-ttu-id="4110c-104">Mozilla er [arbejder på en løsning](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) til Firefox, men indtil da:</span><span class="sxs-lookup"><span data-stu-id="4110c-104">Mozilla is [working on a fix](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) for Firefox, but until then:</span></span>
   
-<span data-ttu-id="7d89e-104">Mozilla er [arbejder på en løsning](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) til Firefox, men indtil da:</span><span class="sxs-lookup"><span data-stu-id="7d89e-104">Mozilla is [working on a fix](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) for Firefox, but until then:</span></span> 
-  
-- <span data-ttu-id="7d89e-105">Brug [Microsoft kant](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) eller en anden webbrowser.</span><span class="sxs-lookup"><span data-stu-id="7d89e-105">Please use [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) or another web browser.</span></span> 
-    
-- <span data-ttu-id="7d89e-106">Bruge Outlook.com beta.</span><span class="sxs-lookup"><span data-stu-id="7d89e-106">Use the Outlook.com beta.</span></span> [<span data-ttu-id="7d89e-107">Få mere at vide om betaversionen af Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="7d89e-107">Learn about the Outlook.com beta.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=874356&amp;clcid=0x409)
-    
-- <span data-ttu-id="7d89e-108">Få vist e-mail i læseruden.</span><span class="sxs-lookup"><span data-stu-id="7d89e-108">View email in the reading pane.</span></span> <span data-ttu-id="7d89e-109">Yderligere oplysninger, hvordan du kan [ændre udseendet af din postkasse på Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="7d89e-109">For more information, read how to [change the look of your Outlook.com mailbox](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span></span>
-    
-
+- <span data-ttu-id="4110c-105">Brug [Microsoft kant](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) eller en anden webbrowser.</span><span class="sxs-lookup"><span data-stu-id="4110c-105">Please use [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) or another web browser.</span></span>
+- <span data-ttu-id="4110c-106">Få vist e-mail i læseruden.</span><span class="sxs-lookup"><span data-stu-id="4110c-106">View email in the reading pane.</span></span> <span data-ttu-id="4110c-107">Yderligere oplysninger, hvordan du kan [ændre udseendet af din postkasse på Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="4110c-107">For more information, read how to [change the look of your Outlook.com mailbox](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span></span>
