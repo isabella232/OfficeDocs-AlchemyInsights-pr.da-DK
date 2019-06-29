@@ -8,17 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000059
+ms.custom:
+- "992"
+- "8000059"
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: fdfe600c07949e4d9b8c68a4211c10440aa6cc96
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fab69aa463903b902830086c820a9bdbcb359524
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399837"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385342"
 ---
 # <a name="how-to-change-your-theme"></a>Sådan ændres temaet
 
-For at ændre dit tema i Outlook.com eller Outlook på World Wide web, skal du gå til **Indstillinger** og vælge et tema under **tema**. Hvis du vil se alle tilgængelige temaer, ved at vælge **Vis alle** under **tema**. 
+For at ændre dit tema i Outlook.com eller Outlook på World Wide web, skal du gå til **Indstillinger** og vælge et tema under **tema**. Hvis du vil se alle tilgængelige temaer, ved at vælge **Vis alle** under **tema**.
   
-

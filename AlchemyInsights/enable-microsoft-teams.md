@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "737"
+- "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 8a8b91e8ddf93ea30a4d1818944e6215c5580fd2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f808750f5a993c128dbe8d32dd3f4c2f3d2a492b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403705"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388491"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>Aktiverer og bruger Microsoft-Team
-
 
 Hvis du overhovedet ikke har adgang til Microsoft-Teams, se [hvordan får jeg adgang til Microsoft-Team](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
 
 Hvis du allerede har Microsoft Teams og vil vide, hvordan du kan konfigurere og administrere det, se [administratorindstillingerne i Microsoft-Team](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
-

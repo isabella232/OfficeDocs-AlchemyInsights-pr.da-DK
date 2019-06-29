@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "478"
+- "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: cfe62608a50d634616fc9f57461eda1b401110f1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e10c92bc87f5aa8c48682a0586b8f20a65d46f8e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420010"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378627"
 ---
 # <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 til velgørende planer og prissætning
 
-Kvalificerede nonprofits kan modtage Office 365 almennyttige formål som en donation eller opgradere til avancerede funktioner på en væsentlig rabat. For at opnå en almennyttig til Office 365 plan, skal du holde [anerkendt velgørende status](https://go.microsoft.com/fwlink/p/?LinkID=330253) i dit land og logge Microsofts politik for ikke-forskelsbehandling. Microsoft forbeholder sig ret til at efterprøve retten til enhver tid og adgang til tjenesten for udelukket organisationer. 
+Kvalificerede nonprofits kan modtage Office 365 almennyttige formål som en donation eller opgradere til avancerede funktioner på en væsentlig rabat. For at opnå en almennyttig til Office 365 plan, skal du holde [anerkendt velgørende status](https://go.microsoft.com/fwlink/p/?LinkID=330253) i dit land og logge Microsofts politik for ikke-forskelsbehandling. Microsoft forbeholder sig ret til at efterprøve retten til enhver tid og adgang til tjenesten for udelukket organisationer.
   
-Se [ofte stillede spørgsmål](https://products.office.com/nonprofit/office-365-nonprofit) for yderligere spørgsmål om dette tilbud. 
+Se [ofte stillede spørgsmål](https://products.office.com/nonprofit/office-365-nonprofit) for yderligere spørgsmål om dette tilbud.
   
 - [Gennemse de velgørende planer](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
-    
-- [Sammenlign alle Office 365-planer](https://products.office.com/business/compare-more-office-365-for-business-plans)
-    
 
+- [Sammenlign alle Office 365-planer](https://products.office.com/business/compare-more-office-365-for-business-plans)
