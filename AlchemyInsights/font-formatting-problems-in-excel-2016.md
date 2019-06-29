@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "232"
+- "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 16fa7c045d4323f2f65d6ae219583affa9e27d37
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e1c773901cf367f40256597e1559da4d5da861c8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401070"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387195"
 ---
-# <a name="font-formatting-problems-in-excel"></a><span data-ttu-id="0e257-102">Formatering skrifttypeproblemer i Excel</span><span class="sxs-lookup"><span data-stu-id="0e257-102">Font formatting problems in Excel</span></span>
+# <a name="font-formatting-problems-in-excel"></a><span data-ttu-id="2aa36-102">Formatering skrifttypeproblemer i Excel</span><span class="sxs-lookup"><span data-stu-id="2aa36-102">Font formatting problems in Excel</span></span>
 
-<span data-ttu-id="0e257-103">I Excel 2016 skrifttypeformatering vises muligvis ikke korrekt i en celle.</span><span class="sxs-lookup"><span data-stu-id="0e257-103">In Excel 2016, font formatting may not appear properly in a cell.</span></span> <span data-ttu-id="0e257-104">Dette kan ske, hvis en celle indeholder mere end én slags skrifttypeformatering.</span><span class="sxs-lookup"><span data-stu-id="0e257-104">This can happen if a cell contains more than one kind of font formatting.</span></span> <span data-ttu-id="0e257-105">For eksempel, hvis nogle tegn er fed skrift, og andre er ikke fed skrift, kan du ikke se formatet fed vises.</span><span class="sxs-lookup"><span data-stu-id="0e257-105">For example if some characters are bolded, and others are not bolded, you may not see the bold format appear.</span></span> <span data-ttu-id="0e257-106">Eller hvis du har forskellige farvede tegn i samme celle, kan du ikke se farverne, der vises korrekt.</span><span class="sxs-lookup"><span data-stu-id="0e257-106">Or if you have different colored characters in the same cell, you may not see the colors appear correctly.</span></span> <span data-ttu-id="0e257-107">Vores engineering-teamet er opmærksom på problemet og arbejder i øjeblikket på en løsning.</span><span class="sxs-lookup"><span data-stu-id="0e257-107">Our engineering team is aware of this problem and is currently working on a fix.</span></span> <span data-ttu-id="0e257-108">I mellemtiden, skal du prøve at bruge en anden skrifttype.</span><span class="sxs-lookup"><span data-stu-id="0e257-108">In the meantime, try using a different font.</span></span> <span data-ttu-id="0e257-109">Eller prøv at undgå at bruge flere typer formatering i samme celle, indtil problemet er løst.</span><span class="sxs-lookup"><span data-stu-id="0e257-109">Or, try to avoid using multiple kinds of formatting within the same cell until this problem is fixed.</span></span> 
+<span data-ttu-id="2aa36-103">I Excel 2016 skrifttypeformatering vises muligvis ikke korrekt i en celle.</span><span class="sxs-lookup"><span data-stu-id="2aa36-103">In Excel 2016, font formatting may not appear properly in a cell.</span></span> <span data-ttu-id="2aa36-104">Dette kan ske, hvis en celle indeholder mere end én slags skrifttypeformatering.</span><span class="sxs-lookup"><span data-stu-id="2aa36-104">This can happen if a cell contains more than one kind of font formatting.</span></span> <span data-ttu-id="2aa36-105">For eksempel, hvis nogle tegn er fed skrift, og andre er ikke fed skrift, kan du ikke se formatet fed vises.</span><span class="sxs-lookup"><span data-stu-id="2aa36-105">For example if some characters are bolded, and others are not bolded, you may not see the bold format appear.</span></span> <span data-ttu-id="2aa36-106">Eller hvis du har forskellige farvede tegn i samme celle, kan du ikke se farverne, der vises korrekt.</span><span class="sxs-lookup"><span data-stu-id="2aa36-106">Or if you have different colored characters in the same cell, you may not see the colors appear correctly.</span></span> <span data-ttu-id="2aa36-107">Vores engineering-teamet er opmærksom på problemet og arbejder i øjeblikket på en løsning.</span><span class="sxs-lookup"><span data-stu-id="2aa36-107">Our engineering team is aware of this problem and is currently working on a fix.</span></span> <span data-ttu-id="2aa36-108">I mellemtiden, skal du prøve at bruge en anden skrifttype.</span><span class="sxs-lookup"><span data-stu-id="2aa36-108">In the meantime, try using a different font.</span></span> <span data-ttu-id="2aa36-109">Eller prøv at undgå at bruge flere typer formatering i samme celle, indtil problemet er løst.</span><span class="sxs-lookup"><span data-stu-id="2aa36-109">Or, try to avoid using multiple kinds of formatting within the same cell until this problem is fixed.</span></span>
   
-

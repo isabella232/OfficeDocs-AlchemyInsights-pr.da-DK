@@ -8,21 +8,23 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 922
+ms.custom:
+- "922"
+- "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: ae53dc524620e1c281e7435fa8feabae5619b4e7
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 8514592bb3252738537d3e5118a030b802a857d0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751875"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382587"
 ---
-# <a name="inbox-rules"></a><span data-ttu-id="ca875-102">Regler for Indbakke</span><span class="sxs-lookup"><span data-stu-id="ca875-102">Inbox rules</span></span>
+# <a name="inbox-rules"></a><span data-ttu-id="907c7-102">Regler for Indbakke</span><span class="sxs-lookup"><span data-stu-id="907c7-102">Inbox rules</span></span>
 
-<span data-ttu-id="ca875-103">Du kan finde flere oplysninger om brug af regler for indbakken i din egen postkasse:</span><span class="sxs-lookup"><span data-stu-id="ca875-103">For more information about using Inbox rules in your own mailbox, see:</span></span>
+<span data-ttu-id="907c7-103">Du kan finde flere oplysninger om brug af regler for indbakken i din egen postkasse:</span><span class="sxs-lookup"><span data-stu-id="907c7-103">For more information about using Inbox rules in your own mailbox, see:</span></span>
 
-- [<span data-ttu-id="ca875-104">Administrere e-mail-meddelelser ved hjælp af regler i Outlook til PC</span><span class="sxs-lookup"><span data-stu-id="ca875-104">Manage email messages by using rules in Outlook for PC</span></span>](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
+- [<span data-ttu-id="907c7-104">Administrere e-mail-meddelelser ved hjælp af regler i Outlook til PC</span><span class="sxs-lookup"><span data-stu-id="907c7-104">Manage email messages by using rules in Outlook for PC</span></span>](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
 
-- [<span data-ttu-id="ca875-105">Administrere dine meddelelser ved hjælp af regler for indbakken i Outlook på internettet</span><span class="sxs-lookup"><span data-stu-id="ca875-105">Manage your messages by using inbox rules in Outlook on the web</span></span>](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
+- [<span data-ttu-id="907c7-105">Administrere dine meddelelser ved hjælp af regler for indbakken i Outlook på internettet</span><span class="sxs-lookup"><span data-stu-id="907c7-105">Manage your messages by using inbox rules in Outlook on the web</span></span>](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-<span data-ttu-id="ca875-106">Du kan også administrere indbakkeregler i Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="ca875-106">You can also manage Inbox rules in Exchange Online PowerShell.</span></span> <span data-ttu-id="ca875-107">Yderligere oplysninger finder du under [Få InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (visning), [Ny InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Opret), [Fjern InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (slette), [Sæt-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (ændre eksisterende), [Deaktiver InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Deaktiver eksisterende) og [Aktiver InboxRule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(mulighed for eksisterende).</span><span class="sxs-lookup"><span data-stu-id="ca875-107">For more information, see [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing), and [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).</span></span>
+<span data-ttu-id="907c7-106">Du kan også administrere indbakkeregler i Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="907c7-106">You can also manage Inbox rules in Exchange Online PowerShell.</span></span> <span data-ttu-id="907c7-107">Yderligere oplysninger finder du under [Få InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (visning), [Ny InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Opret), [Fjern InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (slette), [Sæt-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (ændre eksisterende), [Deaktiver InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Deaktiver eksisterende) og [Aktiver InboxRule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(mulighed for eksisterende).</span><span class="sxs-lookup"><span data-stu-id="907c7-107">For more information, see [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing), and [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).</span></span>
