@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1336
+ms.custom:
+- "1336"
+- "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: cfcc69c1b3a59c73037d9a493af4ece86b7b7208
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 05e7b47a2200c3b0500e7d786166966ea301179a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762074"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370381"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Mappen genoprettelige elementer er fuld
 
@@ -31,7 +33,7 @@ Når mappen genoprettelige elementer når lagergrænsen, kan postkassen funktion
 
 - For postkasser, der har en postkasse Overvåg logføring er aktiveret, kan ingen postkasse overvågningsposter log gemmes i audit-undermappe i mappen genoprettelige elementer.
 
-Administratorer kan bruge til postkasser, der ikke er på hold, den `Search-Mailbox -SearchDumpsterOnly -DeleteContent` i Exchange Online PowerShell til at slette elementer i mappen genoprettelige elementer. Yderligere oplysninger finder du i følgende emner: 
+Administratorer kan bruge til postkasser, der ikke er på hold, den `Search-Mailbox -SearchDumpsterOnly -DeleteContent` i Exchange Online PowerShell til at slette elementer i mappen genoprettelige elementer. Yderligere oplysninger finder du i følgende emner:
 
 - [Søge efter og slette meddelelser](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 

@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1385
+ms.custom:
+- "1385"
+- "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 428d5b943737f78c683aa50578b0c0a1fb0034c8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 96ae13b62109337de9c41dd3a9bcc42196fe623b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389557"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359399"
 ---
 # <a name="office-365-alert-policies"></a>Giv politikker for Office 365
 
@@ -26,7 +28,7 @@ _AMP_ sikkerhed i Office 365 Overholdelsescenter tilbyder [beskeder standardpoli
 - Tildele tilladelser til postkassen.
 - Deling eller sletning af et stort antal filer i SharePoint-fildeling.
 - Oprette eDiscovery søgninger og eksportere søgeresultaterne.
- 
+
 At gennemgå og behandle en påmindelse:
 
 1. Gå til [sikkerhed & Overholdelsescenter](https://protection.office.com) og logge på.

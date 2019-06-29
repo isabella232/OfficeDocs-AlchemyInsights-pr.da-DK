@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392362"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372543"
 ---
 # <a name="replying-in-outlookcom"></a>Besvarelse af Outlook.com
 
 Sådan besvares én meddelelse ad gangen:
 
-1. På meddelelseslisten, Vælg den meddelelse, du vil videresende.
+1. På meddelelseslisten, Vælg den meddelelse, du vil besvare.
 2. Øverst til højre i meddelelsesruden, Vælg pilen **svar** eller **svar til alle** pile.
 3. Skriv meddelelsen, og vælg derefter **Send**.
 
 Sådan besvares automatisk alle meddelelser:
 
-1. Åbn [Indstillinger for Automatiske svar](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Gå til **Indstillinger for** > **få vist alle Outlook-indstillinger** > **Mail** > **Automatiske svar** for at åbne [Indstillinger for Automatiske svar](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Vælg indstilling for **Slå Automatiske svar** .
 3. Hvis du markerer afkrydsningsfeltet **Send svar kun i en periode** , kan du:
     - Send kun svar, når du vælger. Hvis du ikke angiver en tidsperiode, forbliver din automatisk svar på, indtil du slår den fra.

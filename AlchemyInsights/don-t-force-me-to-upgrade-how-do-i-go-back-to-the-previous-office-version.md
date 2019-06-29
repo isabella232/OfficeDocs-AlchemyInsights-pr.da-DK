@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "265"
+- "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: b14b6c953a7520d248a7df5b4cbbd7e58e1c7817
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 566408a0c38057ee3090acbf155288d579e64b17
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404207"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389067"
 ---
 # <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ikke tvinge mig til at opgradere. Hvordan kommer jeg tilbage til den tidligere version af Office?
 
-Når du åbner en Office-fil, kan åbne prøveversion af et Office-program i stedet for en anden version. Dette sker, hvis du har prøveversionen af Office 365. 
+Når du åbner en Office-fil, kan åbne prøveversion af et Office-program i stedet for en anden version. Dette sker, hvis du har prøveversionen af Office 365.
   
-Når du har installeret prøveversionen af Office 365, 2016 prøveversionen af programmer er installeret. Disse prøveversioner bruges som standard til at åbne Word, Excel og PowerPoint-filer. For eksempel hvis du har installeret Excel 2013 og du også har installeret prøveversionen af Office 365 og derefter projektmapperne åbnes i prøveversionen af Microsoft Excel-2016. 
+Når du har installeret prøveversionen af Office 365, 2016 prøveversionen af programmer er installeret. Disse prøveversioner bruges som standard til at åbne Word, Excel og PowerPoint-filer. For eksempel hvis du har installeret Excel 2013 og du også har installeret prøveversionen af Office 365 og derefter projektmapperne åbnes i prøveversionen af Microsoft Excel-2016.
   
-Hvis du har dette problem, du kan [fjerne](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016-apps og brug af ældre versioner af programmer, du allerede har installeret. Eller du kan [fjerne](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) ældre versioner af programmer og opgradere til de nyere versioner, der er inkluderet i Office 365. 
-  
-
+Hvis du har dette problem, du kan [fjerne](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016-apps og brug af ældre versioner af programmer, du allerede har installeret. Eller du kan [fjerne](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) ældre versioner af programmer og opgradere til de nyere versioner, der er inkluderet i Office 365.

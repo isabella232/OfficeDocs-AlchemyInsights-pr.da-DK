@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 606
+ms.custom:
+- "606"
+- "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 633fd9111cac64a8cb85db18d03968089bf2a128
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dddff0f6ab0fec8d2f8cac41ca3440d181f1dc67
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410772"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382443"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Fejlfinding i forbindelse med delegation i Outlook og Outlook på internettet
 
@@ -28,7 +30,7 @@ ms.locfileid: "32410772"
 1. Føj e-mail-adressen på den pågældende bruger
 1. Vælg "Jeg har problemer med adgangstilladelser som stedfortræder"
 1. Den næste prompt, hvis du er den person, der giver tilladelser, Indtast e-mail-adressen på din stedfortræder. Hvis du har modtaget tilladelse, og du er stedfortræder, kan du angive e-mail-adressen på den person, der har givet dig tilladelse.
-1. Vælg den indstilling, der passer til din situation på den næste menu. 
+1. Vælg den indstilling, der passer til din situation på den næste menu.
 1. Vælg tilladelsesniveauet på den næste menu.
 1. På dette stadium Pia værktøj udfører automatiserede kontrol, og det giver dig mulig løsning, eller også vil give en diagnosticeringslogfilen, der kan bruges til yderligere fejlfinding.
 1. Du kan finde i logfilerne i mappen Pia resultater findes på C:\Users\Username\AppData\Local\SaraResults
