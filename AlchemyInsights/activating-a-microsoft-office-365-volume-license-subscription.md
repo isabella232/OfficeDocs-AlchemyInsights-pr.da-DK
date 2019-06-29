@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "481"
+- "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 25a501f6c07bfee15c18b0cce4f27dd2e6ec3e47
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389919"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358823"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktiverer et abonnement licens til Microsoft Office 365-diskenhed
 
 1. Log på din [portal Volume Licensing Service Center (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
-    
-2. Gå til Office 365-abonnement, og vælg **Aktiver**.
-    
-3. Der sendes en e-mail til kontaktpersonen Online Services (OLS).
-    
-4. Aktivering af e-mailen giver dig to muligheder: **Tilmeld dig**eller **logge på**. Hvis du tidligere har oprettet en prøveversion, kan du vælge at **logge på**. Hvis du endnu ikke har en lejer til Office 365, kan du vælge at **tilmelde dig**.
-    
-5. Log på Office 365 ([https://portal.office.com](https://portal.office.com)) ved hjælp af din eksisterende legitimationsoplysninger med Office 365-administratoren. Når du har logget på, vil du modtage en anden e-mail med bekræftelse af købet.
-    
-6. Når du har logget på, kan du gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller Vælg **Fakturering**  - \> til at kontrollere, at dine købte Office 365-abonnementer er aktiveret i din lejer **abonnementer** . (Du kan også vælge fanen **abonnement** i VLSC til at få vist detaljer for at kontrollere, at dit abonnement er blevet deponeret). 
-    
 
+2. Gå til Office 365-abonnement, og vælg **Aktiver**.
+
+3. Der sendes en e-mail til kontaktpersonen Online Services (OLS).
+
+4. Aktivering af e-mailen giver dig to muligheder: **Tilmeld dig**eller **logge på**. Hvis du tidligere har oprettet en prøveversion, kan du vælge at **logge på**. Hvis du endnu ikke har en lejer til Office 365, kan du vælge at **tilmelde dig**.
+
+5. Log på Office 365 ([https://portal.office.com](https://portal.office.com)) ved hjælp af din eksisterende legitimationsoplysninger med Office 365-administratoren. Når du har logget på, vil du modtage en anden e-mail med bekræftelse af købet.
+
+6. Når du har logget på, kan du gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller Vælg **Fakturering**  - \> til at kontrollere, at dine købte Office 365-abonnementer er aktiveret i din lejer **abonnementer** . (Du kan også vælge fanen **abonnement** i VLSC til at få vist detaljer for at kontrollere, at dit abonnement er blevet deponeret). 

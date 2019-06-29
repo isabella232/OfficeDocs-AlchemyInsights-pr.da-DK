@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373310"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371427"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Hvordan du udfører søgninger indhold og eDiscovery søgninger
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373310"
 2. Klik på **Søg & undersøgelse > indhold søgning**.
 3. Klik på **Ny søgning** for at oprette en ny søgning.
 4. Angiv de krævede søgebetingelser, herunder nøgleord og placeringer med indhold.  
-5. Klik på **Gem & Kør** for at navngive søgningen, starte den og derefter få vist resultaterne. 
- 
+5. Klik på **Gem & Kør** for at navngive søgningen, starte den og derefter få vist resultaterne.
+
 Du kan finde detaljerede instruktioner om at oprette søgninger og eksportere resultaterne [i denne artikel](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **eDiscovery søgninger**

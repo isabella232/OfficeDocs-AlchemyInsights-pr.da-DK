@@ -8,13 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "308"
+- "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 56c2bea5e205358d0ef29fa937e36a88ffc46a1e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761576"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369659"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Opbevaringspolitikker i Exchange Admin Center
 
@@ -24,7 +27,7 @@ ms.locfileid: "34761576"
   
 - Dette kan skyldes, at den **Styrede mappe assistenten** ikke er behandlet i brugerens postkasse. Den administrerede mappe assistenten prøver at behandle hver postkasse i din skybaserede organisation en gang hver syvende dag. Hvis du ændrer et mærke til opbevaring eller anvende en anden opbevaringspolitik på en postkasse, kan du vente, indtil den administrerede mappe bistå behandler postkassen, eller du kan køre cmdlet Start-ManagedFolderAssistant for at starte en administreret Mappeassistent for at behandle en bestemt postkasse. Køre denne cmdlet er nyttigt til test eller fejlfinding en opbevaringspolitik eller tilbageholdelse mærke indstillinger. Yderligere oplysninger finder du på [Kør en administreret Mappeassistent](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Løsning:** Kør følgende kommando for at starte en administreret Mappeassistent for en bestemt postkasse: 
+  - **Løsning:** Kør følgende kommando for at starte en administreret Mappeassistent for en bestemt postkasse:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
@@ -40,7 +43,7 @@ ms.locfileid: "34761576"
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Kør følgende kommando for at **deaktivere** RetentionHold for en bestemt postkasse: 
+  - Kør følgende kommando for at **deaktivere** RetentionHold for en bestemt postkasse:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
@@ -52,6 +55,5 @@ ms.locfileid: "34761576"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Bemærk:** Hvis en postkasse er mindre end 10 MB, behandler en administreret Mappeassistent ikke automatisk postkassen. 
+ **Bemærk:** Hvis en postkasse er mindre end 10 MB, behandler en administreret Mappeassistent ikke automatisk postkassen.
   
-

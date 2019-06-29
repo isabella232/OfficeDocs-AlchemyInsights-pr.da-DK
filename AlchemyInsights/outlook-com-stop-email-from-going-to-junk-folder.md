@@ -1,26 +1,34 @@
 ---
-title: Outlook.com stop-meddelelser i at gå til mappen Uønsket
+title: Stop meddelelser i at gå til mappen Uønsket E-mail i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373238"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371787"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Stop meddelelser til mappen Uønsket E-mail
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Stop meddelelser i at gå til mappen Uønsket E-mail
 
-Hvis du opdager, at en e-mail-meddelelse i mappen Uønsket E-mail ikke er spam eller uønsket:
+Hvis du opdager, at en e-mail-meddelelse i mappen Uønsket E-mail ikke uønsket:
 
-1. Åbn [mappen Uønsket E-mail](https://outlook.live.com/mail/junkemail) , og vælg meddelelsen. (Elementer i mappen Uønsket E-mail slettet efter 30 dage).
+1. Åbn [mappen Uønsket E-mail](https://outlook.live.com/mail/junkemail).
+1. Marker meddelelsen. (*Bemærk:* elementer i mappen Uønsket E-mail, slettes efter 30 dage.)
 1. Over meddelelseslisten, Vælg **ikke uønsket** > **ikke uønskede**.
+
+Hvis du vil forhindre, at gå til mappen Uønsket e-mail-meddelelser fra en afsender, skal du føje afsenderen til listen over sikre afsendere:
+
 1. Åbn [Indstillinger for uønsket e-mail](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Angiv den e-mail-adresse eller det domæne, du vil tilføje, og vælg **Tilføj**under **afsendere**. E-mail-adresser eller domæner på listen ikke får flyttet til mappen Uønsket e-mail-afsendere.
+1. Vælg **Tilføj**under **afsendere og domæner**, Angiv den e-mail-adresse eller det domæne, du vil tilføje, og vælg **Gem**.
+
+Hvis du vil vide mere, Læs [markere e-mails som uønsket eller blokere afsendere på Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

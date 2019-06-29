@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632074"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373659"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>E-mail og oplagring kvota i Outlook.com
 
@@ -24,4 +26,6 @@ For at reducere spam, har Outlook.com en daglig grænse for at sende e-mail. Hvi
 
 **Lagerbegrænsninger**
 
-Hvis din Indbakke er fuld, du kan ikke sende eller modtage meddelelser, og personer, der sender e-mail til du får en fejlmeddelelse om, at din Indbakke er fuld. Du kan [se, hvor meget lagerplads du har brugt](https://go.microsoft.com/fwlink/?linkid=2052089), eller du kan [lære at gøre plads i din postkasse](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+Hvis din Indbakke er fuld, du kan ikke sende eller modtage meddelelser, og personer, der sender e-mail til du får en fejlmeddelelse om, at din Indbakke er fuld. Du kan se, hvor meget storage du har ved at gå til [ **Indstillinger** > **få vist alle Outlook-indstillinger** > **generelle**> Storage](https://outlook.live.com/mail/options/general/storage), eller du kan [lære at gøre plads i din postkasse](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+
+Hvis du har en Premium konto, kan du få vist din storage ved at gå til [ **Indstillinger** > **få vist alle Outlook-indstillinger** > **Premium**> funktioner](https://outlook.live.com/mail/options/premium/features).
