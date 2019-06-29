@@ -1,44 +1,24 @@
 ---
-title: 8000056 sådan adgang til Outlook.com på rejser
+title: Adgang til Outlook.com på rejser
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/6/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000056
+ms.custom:
+- "921"
+- "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 06ffae55cb9683eec2b0df2a87bf6ed4616c306e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56a0df203b091d2e8addd01a9fcd297fe726ac84
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400125"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385899"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>Adgang til Outlook.com på rejser
 
-Kontroller, at sikkerhedsoplysninger din Microsoft-konto - en alternativ e-mail-adresse eller telefon nummer hvor du kan få sikkerhed koder - er opdateret for at få adgang til Outlook.com på rejser.
-  
-1. Gå til siden [grundlæggende sikkerhed](https://go.microsoft.com/fwlink/p/?linkid=842325) , og log på med din Microsoft-konto. 
-    
-2. Vælg **opdatering** \> **Tilføj sikkerhedsoplysninger**. 
-    
-3. Følg anvisningerne for at indtaste din e-mail eller telefon nummer. Microsoft sender en sikkerhedskode til denne nye e-mail-adresse eller telefon nummer.
-    
-4. Angiv sikkerhedskoden, og tryk på **Næste**. Din nye sikkerhedsoplysninger, vises på listen. 
-    
-Hvis du skal på ferie og kan ikke modtage sikkerhed koder, at enheden til en enhed, der er tillid til. Det betyder, at ikke Microsoft vil sende godkendelseskoder når du logger på Outlook.com på enheden.
-  
-1. På enheden, du vil gøre en enhed, der er tillid til, gå til siden [Indstillinger for sikkerhed](https://go.microsoft.com/fwlink/p/?linkid=2002000&amp;clcid=0x409) og logge på din Microsoft-konto. 
-    
-2. Vælg, om du vil modtage en sikkerhedskode via e-mail, tekst eller godkenderen app. Når du har koden, skal du angive den i tekstboksen.
-    
-3. Marker afkrydsningsfeltet for **jeg logger på ofte på denne enhed. Spørg ikke om en kode.**
-    
-4. Vælg **Send**. 
-    
-Brug autosvar til at fortælle andre, du ikke svare på deres meddelelser straks. Lær, hvordan du kan [sende Automatiske svar i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002100&amp;clcid=0x409).
-  
-
+Kontroller, at sikkerhedsoplysninger din Microsoft-konto - en alternativ e-mail-adresse eller telefon nummer hvor du kan få sikkerhed koder - er opdateret for at få adgang til Outlook.com på rejser. Hvis du vil vide mere, se, [hvordan adgang til Outlook.com, når du rejser](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e).
