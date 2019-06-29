@@ -9,25 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "93"
+- "1200022"
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: c47086e8324bfa4c92c109fc3e602af93a47634a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9db93586639d12fb1a749e2eb8f756320ddc8c90
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398668"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358211"
 ---
-# <a name="add-a-user-to-office-365"></a><span data-ttu-id="82f3c-102">Tilføj en bruger i Office 365</span><span class="sxs-lookup"><span data-stu-id="82f3c-102">Add a user to Office 365</span></span>
+# <a name="add-a-user-to-office-365"></a><span data-ttu-id="f710d-102">Tilføj en bruger i Office 365</span><span class="sxs-lookup"><span data-stu-id="f710d-102">Add a user to Office 365</span></span>
 
-<span data-ttu-id="82f3c-103">Følg disse trin for at tilføje en bruger i Office 365:</span><span class="sxs-lookup"><span data-stu-id="82f3c-103">Use these steps to add a user to Office 365:</span></span>
+<span data-ttu-id="f710d-103">Følg disse trin for at tilføje en bruger i Office 365:</span><span class="sxs-lookup"><span data-stu-id="f710d-103">Use these steps to add a user to Office 365:</span></span>
   
-1. <span data-ttu-id="82f3c-104">Gå til [Aktive brugere](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (eller vælg **Brugere** \> **Aktive brugere i venstre side**).</span><span class="sxs-lookup"><span data-stu-id="82f3c-104">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (Or, on the left nav choose **Users** \> **Active users**).</span></span>
-    
-2. <span data-ttu-id="82f3c-105">Klik på **Tilføj bruger**.</span><span class="sxs-lookup"><span data-stu-id="82f3c-105">Click **Add a user**.</span></span>
-    
-3. <span data-ttu-id="82f3c-106">Udfyld oplysningerne for brugeren.</span><span class="sxs-lookup"><span data-stu-id="82f3c-106">Fill in the information for the user.</span></span> <span data-ttu-id="82f3c-107">Vælg **Tilføj**, når du er færdig.</span><span class="sxs-lookup"><span data-stu-id="82f3c-107">Choose **Add** when you are done.</span></span> 
-    
-[<span data-ttu-id="82f3c-108">Læs mere...</span><span class="sxs-lookup"><span data-stu-id="82f3c-108">Read more...</span></span>](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
-  
+1. <span data-ttu-id="f710d-104">Gå til [Aktive brugere](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (eller vælg **Brugere** \> **Aktive brugere i venstre side**).</span><span class="sxs-lookup"><span data-stu-id="f710d-104">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (Or, on the left nav choose **Users** \> **Active users**).</span></span>
 
+2. <span data-ttu-id="f710d-105">Klik på **Tilføj bruger**.</span><span class="sxs-lookup"><span data-stu-id="f710d-105">Click **Add a user**.</span></span>
+
+3. <span data-ttu-id="f710d-106">Udfyld oplysningerne for brugeren.</span><span class="sxs-lookup"><span data-stu-id="f710d-106">Fill in the information for the user.</span></span> <span data-ttu-id="f710d-107">Vælg **Tilføj**, når du er færdig.</span><span class="sxs-lookup"><span data-stu-id="f710d-107">Choose **Add** when you are done.</span></span>
+
+[<span data-ttu-id="f710d-108">Læs mere...</span><span class="sxs-lookup"><span data-stu-id="f710d-108">Read more...</span></span>](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+  
