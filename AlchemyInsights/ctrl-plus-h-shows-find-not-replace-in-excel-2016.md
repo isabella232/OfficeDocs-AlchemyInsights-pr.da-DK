@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "235"
+- "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3437582885556104ad4eea14845acb0fd1c431fb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406460"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362893"
 ---
 # <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H viser Søg, Erstat ikke i Excel
 
 I Excel 2016, trykke på CTRL + H åbner dialogboksen Søg og Erstat og viser fanen Søg, klikke på Erstat under fanen Startside har samme funktion i stedet for fanen Erstat. Dette problem blev løst i version 1708 (8431.2094). For at løse dette problem ved at opdatere til den nyeste version af Office. Vælg **filen** \> **konto** \> **opdatere indstillinger** \> **opdatere nu**.
   
-

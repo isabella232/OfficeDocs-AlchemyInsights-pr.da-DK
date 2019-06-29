@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883155"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358895"
 ---
 # <a name="activate-visio"></a>Aktiver Visio
 
@@ -27,8 +27,8 @@ Før en bruger kan installere og aktivere den stationære pc Visio-app inkludere
 
 At aktivere Visio:
 
-1. [Installerer Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) , hvis det ikke allerede er installeret.
-2. Når installationen er fuldført, kan du åbne Visio. I mange tilfælde aktiverer programmet automatisk, og du kan begynde at bruge Visio med det samme. Hvis du bliver bedt om at logge på, skal du logge på med det samme arbejde eller skole-konto, der er tildelt en licens til Visio. 
+1. Hvis det ikke allerede er installeret, skal du installere Visio fra din [Min konto-portal](https://portal.office.com/account#installs) . Du [Installerer Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)for at få hjælp.
+2. Når installationen er fuldført, kan du åbne Visio-app. Visio sandsynligvis vil aktivere automatisk, og du kan begynde at bruge den med det samme. Hvis det ikke er tilfældet, kan du bedt om at logge på. Sørg for at logge på med det samme arbejde eller skole-konto, der er tildelt en licens til Visio. Følg prompterne for at fortsætte med aktivering. 
 
 Køre [aktivering fejlfinding](https://aka.ms/SARA-OfficeActivation-Alchemy) for aktiveringsproblemer med på den pågældende computer.
 
