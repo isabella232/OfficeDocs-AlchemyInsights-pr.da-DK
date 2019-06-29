@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "340"
+- "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: d1207f4fa2917f5d3dde3dea850fdd7ee0f05e50
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 21e5ff7bc5d4a8d88c1d99a52e89998867c20374
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417135"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383739"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="49cf8-102">Hvordan du køber Office 365 for ikke-overskud</span><span class="sxs-lookup"><span data-stu-id="49cf8-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="e077d-102">Hvordan du køber Office 365 for ikke-overskud</span><span class="sxs-lookup"><span data-stu-id="e077d-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="49cf8-103">Din status som en kvalificeret velgørende organisation til Microsoft er blevet godkendt.</span><span class="sxs-lookup"><span data-stu-id="49cf8-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="49cf8-104">At købe:</span><span class="sxs-lookup"><span data-stu-id="49cf8-104">To purchase:</span></span>
+<span data-ttu-id="e077d-103">Din status som en kvalificeret velgørende organisation til Microsoft er blevet godkendt.</span><span class="sxs-lookup"><span data-stu-id="e077d-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="e077d-104">At købe:</span><span class="sxs-lookup"><span data-stu-id="e077d-104">To purchase:</span></span>
   
-1. <span data-ttu-id="49cf8-105">Gå til siden [Køb Services](https://go.microsoft.com/fwlink/p/?linkid=868433) , eller Vælg **Fakturering** i Admin center, \> **Købstjenester**.</span><span class="sxs-lookup"><span data-stu-id="49cf8-105">In the Admin center, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
-    
-2. <span data-ttu-id="49cf8-106">Vælg på listen under **Ikke-overskud planer**.</span><span class="sxs-lookup"><span data-stu-id="49cf8-106">Choose from the list under **Non-Profits Plans**.</span></span>
-    
-3. <span data-ttu-id="49cf8-107">Placer musemarkøren over det abonnement, du vil købe, og vælg **Køb nu**.</span><span class="sxs-lookup"><span data-stu-id="49cf8-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
-    
+1. <span data-ttu-id="e077d-105">Gå til siden [Køb Services](https://go.microsoft.com/fwlink/p/?linkid=868433) , eller Vælg **Fakturering** i Admin center, \> **Købstjenester**.</span><span class="sxs-lookup"><span data-stu-id="e077d-105">In the Admin center, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
 
+2. <span data-ttu-id="e077d-106">Vælg på listen under **Ikke-overskud planer**.</span><span class="sxs-lookup"><span data-stu-id="e077d-106">Choose from the list under **Non-Profits Plans**.</span></span>
+
+3. <span data-ttu-id="e077d-107">Placer musemarkøren over det abonnement, du vil købe, og vælg **Køb nu**.</span><span class="sxs-lookup"><span data-stu-id="e077d-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
