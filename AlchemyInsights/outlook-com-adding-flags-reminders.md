@@ -6,26 +6,30 @@ manager: joallard
 ms.date: 3/21/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000304
+ms.custom:
+- "1921"
+- "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 62dda911dac38220df7a413f9cf3e042c643a2bf
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417883"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35377403"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Tilføjelse af flag og påmindelser i Outlook.com
 
-Angive eller redigere en påmindelse for en fødselsdag-hændelse:
+Angive eller redigere en påmindelse for en hændelse:
 
 1. Gå til [kalender](https://outlook.live.com/calendar/).
-1. Kontroller, at **fødselsdage** -kalenderen er valgt i venstre rude under **kalendere**.
-1. Vælg du ønsker at blive påmindet om fødselsdagen, og vælg på pilene i øverste højre hjørne for at udvide den.
+1. Vælg den hændelse, du vil påmindes om og derefter på pilene i øverste højre hjørne for at udvide den.
 1. Vælg et tidspunkt for påmindelse **Påmind mig**.Outlook.com gemmer automatisk dine ændringer.
 
 For at minde dig selv for at følge op på en meddelelse, kan du tilføje et opfølgningsflag:
 
+1. Gå til [E-mail](https://outlook.live.com/mail/)
 1. Placer markøren over meddelelsen for at se indstillingen flag på meddelelseslisten.
-1. Vælg flagikonet til at markere meddelelsen. Hvis du vil se alle dine markerede meddelelser, Vælg markeret i nederste venstre hjørne af siden.
+1. Vælg flagikonet til at markere meddelelsen. Marker afkrydsningsfeltet nederst til venstre på siden for at gå til opgaver for at se alle dine markerede meddelelser.
+ 
+For at få mere for at vide ved at læse [Flag eller PIN-kode en meddelelse i Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a).

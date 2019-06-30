@@ -1,34 +1,29 @@
 ---
-title: Outlook.com spam og uønsket
+title: Håndtering af spam og uønsket i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373526"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372003"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Spam og uønsket e-mail i Outlook.com
+# <a name="mark-email-messages-as-junk"></a>Marker e-mail-meddelelser som uønsket
 
-Sådan markeres en e-mail som uønsket eller uønsket e-mail:
+Hvis du vil markere en meddelelse som uønsket eller uønsket, markere meddelelsen på meddelelseslisten, og vælg **uønsket** > **uønsket**.
 
-1. Marker den meddelelse eller meddelelser på meddelelseslisten.
-1. Over meddelelseslisten, Vælg **uønsket** > **uønsket**.
+Hvis du vil blokere alle meddelelser fra en bestemt e-mail-adresse, vælge meddelelsen eller meddelelserne i meddelelseslisten, og vælg derefter **uønsket** > **blok**.
 
-**Bemærk:** Hvis du opdager, at en e-mail ikke er spam, markere meddelelsen igen (det vil være i mappen Uønsket E-mail), og vælg **ikke uønsket** > **ikke uønskede**. Elementer i mappen Uønsket E-mail, slettes efter 30 dage.  [Yderligere oplysninger om, hvordan du kan holde spam og uønsket mail ud af indbakken Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
+Hvis du kommer til at markere en meddelelse som uønsket, markere meddelelsen i [mappen Uønsket E-mail](https://outlook.live.com/mail/junkemail) , og vælg **ikke uønsket** > **ikke uønskede**. (*Bemærk:* elementer i mappen Uønsket E-mail, slettes efter 30 dage.)
 
-Blokere alle meddelelser fra bestemte e-mail-adresser eller domæner:
-
-1. Marker den meddelelse eller meddelelser på meddelelseslisten, og vælg derefter **uønsket** > **blok** > **OK**. (Hvis e-mailen er allerede åbne i et nyt vindue, **blok** vises som en indstilling i toppen af vinduet).
-1. Åbn [uønsket e-mail-indstillinger](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), Angiv den e-mail-adresse eller det domæne, du vil blokere, og vælg **Tilføj** > **Gem**.
-1. I dine [filtre for uønsket e-mail](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), kan du vælge kun tillid til e-mail fra adresser i min afsendere og liste over domæner og sikker mail-lister.
-
-[Yderligere oplysninger om, hvordan du blokere eller fjerne blokering af afsendere i Outlook.com.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+Hvis du vil vide mere, Læs [markere e-mails som uønsket eller blokere afsendere på Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
