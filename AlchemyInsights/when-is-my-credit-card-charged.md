@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "446"
+- "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: adad4b8d16185db033a5405b2b09dc8f72fb221b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56415e03dedfa607e956a28e8781315aae567f7c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422841"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365070"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="a1259-102">Hvornår faktureres mit kreditkort?</span><span class="sxs-lookup"><span data-stu-id="a1259-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="768e8-102">Hvornår faktureres mit kreditkort?</span><span class="sxs-lookup"><span data-stu-id="768e8-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="a1259-103">Det kan tage op til to dage for tillægget skal finde sted med en første køb.</span><span class="sxs-lookup"><span data-stu-id="a1259-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="768e8-103">Det kan tage op til to dage for tillægget skal finde sted med en første køb.</span><span class="sxs-lookup"><span data-stu-id="768e8-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="a1259-104">Tilbagevendende gebyrer ske inden for én dag i den faktura, der oprettes.</span><span class="sxs-lookup"><span data-stu-id="a1259-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="768e8-104">Tilbagevendende gebyrer ske inden for én dag i den faktura, der oprettes.</span><span class="sxs-lookup"><span data-stu-id="768e8-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="a1259-105">Hvis tillægget mislykkes, vil systemet fortsat forsøge at udligne saldoen i løbet af de næste par uger.</span><span class="sxs-lookup"><span data-stu-id="a1259-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="a1259-106">Du kan foretage opdateringer til dine betalingsoplysninger for at sikre den næste gratis forsøg er gennemført.</span><span class="sxs-lookup"><span data-stu-id="a1259-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="a1259-107">Yderligere oplysninger finder du under [tilføje, opdatere eller fjerne et kreditkort eller bankkonto i Office 365 til virksomheder](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="a1259-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
-  
-
+<span data-ttu-id="768e8-105">Hvis tillægget mislykkes, vil systemet fortsat forsøge at udligne saldoen i løbet af de næste par uger.</span><span class="sxs-lookup"><span data-stu-id="768e8-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="768e8-106">Du kan foretage opdateringer til dine betalingsoplysninger for at sikre den næste gratis forsøg er gennemført.</span><span class="sxs-lookup"><span data-stu-id="768e8-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="768e8-107">Yderligere oplysninger finder du under [tilføje, opdatere eller fjerne et kreditkort eller bankkonto i Office 365 til virksomheder](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="768e8-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>

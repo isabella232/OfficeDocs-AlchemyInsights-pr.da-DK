@@ -1,26 +1,26 @@
 ---
-title: 8000049 Outlook.com status vises altid som tilgængelige
+title: Outlook.com status vises altid som tilgængelige
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000049
+ms.custom:
+- "817"
+- "1767"
+- "1768"
+- "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 4f19d74c0181e987691c7da0b3408f0511e3c164
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5ade09e56eeb283d61bcb7b4b49fa65103b5e26e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373615"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371859"
 ---
-# <a name="my-outlookcom-status-always-shows-as-available"></a><span data-ttu-id="64f4b-102">Min Outlook.com status vises altid som tilgængelige</span><span class="sxs-lookup"><span data-stu-id="64f4b-102">My Outlook.com status always shows as Available</span></span>
+# <a name="my-status-always-shows-as-available"></a><span data-ttu-id="ebdd1-102">Min status vises altid som tilgængelige</span><span class="sxs-lookup"><span data-stu-id="ebdd1-102">My status always shows as Available</span></span>
 
-<span data-ttu-id="64f4b-103">Status for din konto vises ud for dit billede til brugerkontoen og lader din Outlook.com og Skype-kontaktpersoner, hvis du er tilgængelig for chat eller har et Skype-opkald.</span><span class="sxs-lookup"><span data-stu-id="64f4b-103">Your account status appears next to your account picture and lets your Outlook.com and Skype contacts know if you're available to chat or have a Skype call.</span></span> <span data-ttu-id="64f4b-104">Du kan ændre status for din konto på Outlook.com eller Skype, men hver gang du logger på Outlook.com, status for din konto vil blive nulstillet til tilgængelig.</span><span class="sxs-lookup"><span data-stu-id="64f4b-104">you can change your account status in Outlook.com or Skype, but each time you sign in to Outlook.com, your account status will be reset to Available.</span></span>
-  
-<span data-ttu-id="64f4b-105">Du kan forhindre, at status for din ændring ved hjælp af betaversionen af Outlook.com, eller ikke logge af Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="64f4b-105">You can prevent your status from changing by using the Outlook.com beta, or by not signing out of Outlook.com.</span></span> <span data-ttu-id="64f4b-106">Bemærk, at du lukker din browser er ikke det samme som at logge og har ingen indflydelse på din status.</span><span class="sxs-lookup"><span data-stu-id="64f4b-106">Note that closing your browser is not the same as signing out and has no effect on your status.</span></span> <span data-ttu-id="64f4b-107">For at være logget på, når du lukker browseren, kan du markere afkrydsningsfeltet **Log mig** på tegnet i prompten.</span><span class="sxs-lookup"><span data-stu-id="64f4b-107">To stay signed in when closing your browser, select the **Keep me signed in** box at the sign in prompt.</span></span> 
-  
-
+<span data-ttu-id="ebdd1-103">Hver gang du logger på Outlook.com, nulstilles status for din konto til tilgængelig.</span><span class="sxs-lookup"><span data-stu-id="ebdd1-103">Each time you sign in to Outlook.com, your account status will be reset to Available.</span></span> <span data-ttu-id="ebdd1-104">Du kan forhindre, at din status ændres ved ikke logge af Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="ebdd1-104">You can prevent your status from changing by not signing out of Outlook.com.</span></span> <span data-ttu-id="ebdd1-105">For at være logget på, når du lukker browseren, ved at markere afkrydsningsfeltet **Log mig** på siden Outlook.com-logon.</span><span class="sxs-lookup"><span data-stu-id="ebdd1-105">To stay signed in when closing your browser, select the **Keep me signed in** box on the Outlook.com sign-in page.</span></span>

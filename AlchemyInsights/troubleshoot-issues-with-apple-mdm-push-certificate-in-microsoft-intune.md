@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
-ms.openlocfilehash: b11feec336371a19c09217d1ee88dc1cef01f9d8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "782"
+- "6200002"
+ms.openlocfilehash: 211069337b8fb671d2da6d1bf364bd4b8a02cf36
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420334"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353783"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a><span data-ttu-id="8d47f-102">Foretage fejlfinding af problemer med Apple MDM Skub certifikat i Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="8d47f-102">Troubleshoot issues with Apple MDM Push Certificate in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a><span data-ttu-id="c11aa-102">Foretage fejlfinding af problemer med Apple MDM Skub certifikat i Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="c11aa-102">Troubleshoot issues with Apple MDM Push Certificate in Microsoft Intune</span></span>
 
-<span data-ttu-id="8d47f-103">Gennemse ressourcerne nedenfor til at løse dit problem nu.</span><span class="sxs-lookup"><span data-stu-id="8d47f-103">Review the resources listed below to resolve your issue now.</span></span> 
+<span data-ttu-id="c11aa-103">Gennemse ressourcerne nedenfor til at løse dit problem nu.</span><span class="sxs-lookup"><span data-stu-id="c11aa-103">Review the resources listed below to resolve your issue now.</span></span>
   
-1. <span data-ttu-id="8d47f-104">Gennemse [dette dokument](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) for at konfigurere eller forny Apple MDM push certifikat.</span><span class="sxs-lookup"><span data-stu-id="8d47f-104">Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) to configure or renew Apple MDM push certificate.</span></span> 
-    
-2. <span data-ttu-id="8d47f-105">Bruge [Intune fejlfinding Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige fejl i registreringen.</span><span class="sxs-lookup"><span data-stu-id="8d47f-105">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="8d47f-106">Gennemse [dette dokument](https://docs.microsoft.com/intune/help-desk-operators) for at få yderligere oplysninger.</span><span class="sxs-lookup"><span data-stu-id="8d47f-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
-    
-3. <span data-ttu-id="8d47f-107">Gennemgå disse dokumenter for en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver enkelt: [vejledning til fejlfinding](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) og [fejlfinding doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span><span class="sxs-lookup"><span data-stu-id="8d47f-107">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>
-    
+1. <span data-ttu-id="c11aa-104">Gennemse [dette dokument](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) for at konfigurere eller forny Apple MDM push certifikat.</span><span class="sxs-lookup"><span data-stu-id="c11aa-104">Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) to configure or renew Apple MDM push certificate.</span></span>
 
+2. <span data-ttu-id="c11aa-105">Bruge [Intune fejlfinding Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige fejl i registreringen.</span><span class="sxs-lookup"><span data-stu-id="c11aa-105">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="c11aa-106">Gennemse [dette dokument](https://docs.microsoft.com/intune/help-desk-operators) for at få yderligere oplysninger.</span><span class="sxs-lookup"><span data-stu-id="c11aa-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+
+3. <span data-ttu-id="c11aa-107">Gennemgå disse dokumenter for en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver enkelt: [vejledning til fejlfinding](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) og [fejlfinding doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span><span class="sxs-lookup"><span data-stu-id="c11aa-107">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>

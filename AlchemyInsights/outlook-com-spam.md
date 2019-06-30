@@ -1,34 +1,29 @@
 ---
-title: Outlook.com spam og uønsket
+title: Håndtering af spam og uønsket i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373526"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372003"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a><span data-ttu-id="ee851-102">Spam og uønsket e-mail i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ee851-102">Spam and junk email in Outlook.com</span></span>
+# <a name="mark-email-messages-as-junk"></a><span data-ttu-id="88fe7-102">Marker e-mail-meddelelser som uønsket</span><span class="sxs-lookup"><span data-stu-id="88fe7-102">Mark email messages as junk</span></span>
 
-<span data-ttu-id="ee851-103">Sådan markeres en e-mail som uønsket eller uønsket e-mail:</span><span class="sxs-lookup"><span data-stu-id="ee851-103">To mark an email as junk or spam:</span></span>
+<span data-ttu-id="88fe7-103">Hvis du vil markere en meddelelse som uønsket eller uønsket, markere meddelelsen på meddelelseslisten, og vælg **uønsket** > **uønsket**.</span><span class="sxs-lookup"><span data-stu-id="88fe7-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
 
-1. <span data-ttu-id="ee851-104">Marker den meddelelse eller meddelelser på meddelelseslisten.</span><span class="sxs-lookup"><span data-stu-id="ee851-104">Select the message or messages in your message list.</span></span>
-1. <span data-ttu-id="ee851-105">Over meddelelseslisten, Vælg **uønsket** > **uønsket**.</span><span class="sxs-lookup"><span data-stu-id="ee851-105">Above the message list, select **Junk** > **Junk**.</span></span>
+<span data-ttu-id="88fe7-104">Hvis du vil blokere alle meddelelser fra en bestemt e-mail-adresse, vælge meddelelsen eller meddelelserne i meddelelseslisten, og vælg derefter **uønsket** > **blok**.</span><span class="sxs-lookup"><span data-stu-id="88fe7-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
 
-<span data-ttu-id="ee851-106">**Bemærk:** Hvis du opdager, at en e-mail ikke er spam, markere meddelelsen igen (det vil være i mappen Uønsket E-mail), og vælg **ikke uønsket** > **ikke uønskede**.</span><span class="sxs-lookup"><span data-stu-id="ee851-106">**Note:** If you discover that an email message was not spam, select the message again (it will be in your Junk Email folder) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="ee851-107">Elementer i mappen Uønsket E-mail, slettes efter 30 dage.  [Yderligere oplysninger om, hvordan du kan holde spam og uønsket mail ud af indbakken Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)</span><span class="sxs-lookup"><span data-stu-id="ee851-107">Items in your Junk Email folder are deleted after 30 days. [Learn more about how to Help keep spam and junk email out of your Outlook.com inbox.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)</span></span>
+<span data-ttu-id="88fe7-105">Hvis du kommer til at markere en meddelelse som uønsket, markere meddelelsen i [mappen Uønsket E-mail](https://outlook.live.com/mail/junkemail) , og vælg **ikke uønsket** > **ikke uønskede**.</span><span class="sxs-lookup"><span data-stu-id="88fe7-105">If you accidentally mark a message as junk, select the message in your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="88fe7-106">(*Bemærk:* elementer i mappen Uønsket E-mail, slettes efter 30 dage.)</span><span class="sxs-lookup"><span data-stu-id="88fe7-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
 
-<span data-ttu-id="ee851-108">Blokere alle meddelelser fra bestemte e-mail-adresser eller domæner:</span><span class="sxs-lookup"><span data-stu-id="ee851-108">To block all messages from specific email addresses or domains:</span></span>
-
-1. <span data-ttu-id="ee851-109">Marker den meddelelse eller meddelelser på meddelelseslisten, og vælg derefter **uønsket** > **blok** > **OK**.</span><span class="sxs-lookup"><span data-stu-id="ee851-109">Select the message or messages in your message list and then select **Junk** > **Block** > **OK**.</span></span> <span data-ttu-id="ee851-110">(Hvis e-mailen er allerede åbne i et nyt vindue, **blok** vises som en indstilling i toppen af vinduet).</span><span class="sxs-lookup"><span data-stu-id="ee851-110">(If the email message is already open in a new window, **Block** appears as an option at the top of the window.)</span></span>
-1. <span data-ttu-id="ee851-111">Åbn [uønsket e-mail-indstillinger](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), Angiv den e-mail-adresse eller det domæne, du vil blokere, og vælg **Tilføj** > **Gem**.</span><span class="sxs-lookup"><span data-stu-id="ee851-111">Open your [Junk email settings](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), enter the email address or domain you want to block, and select **Add** > **Save**.</span></span>
-1. <span data-ttu-id="ee851-112">I dine [filtre for uønsket e-mail](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), kan du vælge kun tillid til e-mail fra adresser i min afsendere og liste over domæner og sikker mail-lister.</span><span class="sxs-lookup"><span data-stu-id="ee851-112">In your [Junk email filters](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), you can select to only trust email from addresses in my Safe senders and domains list and Safe mailing lists.</span></span>
-
-[<span data-ttu-id="ee851-113">Yderligere oplysninger om, hvordan du blokere eller fjerne blokering af afsendere i Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="ee851-113">Learn more about how to block or unblock senders in Outlook.com.</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+<span data-ttu-id="88fe7-107">Hvis du vil vide mere, Læs [markere e-mails som uønsket eller blokere afsendere på Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span><span class="sxs-lookup"><span data-stu-id="88fe7-107">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>
