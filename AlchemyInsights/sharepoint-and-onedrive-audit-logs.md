@@ -12,17 +12,35 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2f575c71f23aff781f3126ccac2ba066cfd87a5e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 80625a2d3a10c1316dc369db344bb077aeb548b0
+ms.sourcegitcommit: 23f4af808f08643cc7d356dd4abc1d079c28e6dc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368903"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35411842"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="a9424-102">Overvågningslogge for SharePoint og OneDrive</span><span class="sxs-lookup"><span data-stu-id="a9424-102">SharePoint and OneDrive audit logs</span></span>
+# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="add71-102">Overvågningslogge for SharePoint og OneDrive</span><span class="sxs-lookup"><span data-stu-id="add71-102">SharePoint and OneDrive audit logs</span></span>
 
-- <span data-ttu-id="a9424-103">Der kræves ingen yderligere konfiguration i SharePoint eller OneDrive for at aktivere logføring af overvågning.</span><span class="sxs-lookup"><span data-stu-id="a9424-103">No additional configuration is required within SharePoint or OneDrive to enable audit logging.</span></span>
+<span data-ttu-id="add71-103">**SharePoint- og OneDrive moderne Unified overvågning logs fra overholdelse**</span><span class="sxs-lookup"><span data-stu-id="add71-103">**SharePoint and OneDrive Modern Unified Audit logs from compliance**</span></span>
 
-- <span data-ttu-id="a9424-104">SharePoint- og OneDrive understøtter følgende overvågede aktiviteter: [fil- og aktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities), [mappe aktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities), [anmode om aktiviteter, deling og adgang](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities), [synkronisering af aktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)og [Webstedsadministration aktiviteter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities).</span><span class="sxs-lookup"><span data-stu-id="a9424-104">SharePoint and OneDrive support the following audited activities: [File and page activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities), [Folder activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities), [Sharing and access request activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities), [Synchronization activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities), and [Site administration activities](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities).</span></span>
+- [<span data-ttu-id="add71-104">Slå til/fra Unified overvågningslog</span><span class="sxs-lookup"><span data-stu-id="add71-104">Turn on/off Unified Audit Logging</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-- <span data-ttu-id="a9424-105">Yderligere oplysninger om, hvordan du kan hente disse hændelser, se [søge overvågningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="a9424-105">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+<span data-ttu-id="add71-105">Der kræves ingen yderligere konfiguration i SharePoint eller OneDrive.</span><span class="sxs-lookup"><span data-stu-id="add71-105">No additional configuration is required within SharePoint or OneDrive.</span></span>
+
+- <span data-ttu-id="add71-106">Du kan bruge funktionen Søg logføring af overvågning til at kontrollere aktiviteten af fil(er), eller mapper, eller brugere, tilladelser:</span><span class="sxs-lookup"><span data-stu-id="add71-106">Use audit logging search to check activity of the file(s), folder(s), user(s), permissions:</span></span>
+
+    - [<span data-ttu-id="add71-107">Fil- og aktiviteter</span><span class="sxs-lookup"><span data-stu-id="add71-107">File and page activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [<span data-ttu-id="add71-108">Mappen aktiviteter</span><span class="sxs-lookup"><span data-stu-id="add71-108">Folder activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [<span data-ttu-id="add71-109">Deling og adgang til anmodning om aktiviteter</span><span class="sxs-lookup"><span data-stu-id="add71-109">Sharing and access request activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [<span data-ttu-id="add71-110">Af synkroniseringsaktiviteter</span><span class="sxs-lookup"><span data-stu-id="add71-110">Synchronization activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [<span data-ttu-id="add71-111">Aktiviteter til administration af websted</span><span class="sxs-lookup"><span data-stu-id="add71-111">Site administration activities</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- <span data-ttu-id="add71-112">Yderligere oplysninger om, hvordan du kan hente disse hændelser, se [søge overvågningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="add71-112">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+
+<span data-ttu-id="add71-113">**SharePoint klassiske Overvågningshændelsen logfører**</span><span class="sxs-lookup"><span data-stu-id="add71-113">**SharePoint classic Audit logs**</span></span>
+
+- [<span data-ttu-id="add71-114">Få vist og aktivere klassiske SharePoint overvågningslogge</span><span class="sxs-lookup"><span data-stu-id="add71-114">View and enable classic SharePoint Audit logs</span></span>](https://support.office.com/en-us/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+
+<span data-ttu-id="add71-115">Overvågning skal aktiveres pr. hver gruppe af websteder.</span><span class="sxs-lookup"><span data-stu-id="add71-115">Auditing need to be enabled per each site collection.</span></span> 
+
+<span data-ttu-id="add71-116">**Bemærk**: det anbefales at bruge moderne Unified overvåge logfilerne for af bedre og avancerede overvågningsindstillinger end disse klassiske overvågningslogge.</span><span class="sxs-lookup"><span data-stu-id="add71-116">**Note**: We recommend using Modern Unified Audit logs for better and advanced audit options than these classic audit logs.</span></span>
+
