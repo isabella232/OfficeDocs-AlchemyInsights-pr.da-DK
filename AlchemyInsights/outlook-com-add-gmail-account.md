@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377619"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614164"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Tilføje din Gmail-konto på Outlook.com
 
@@ -30,4 +30,4 @@ Det er kun envejs at synkronisere fra en konto, der er forbundet til din konto p
 
 Du kan sende e-mail i Outlook.com fra din Gmail-konto, der er tilsluttet. Når du skriver en e-mail, **Vælg** , og vælg din Gmail-adresse eller [opdatere din standard fra-adresse](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Yderligere oplysninger finder du under [Tilføj dine andre e-mail-konti til Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Yderligere oplysninger finder du under [Tilføj dine andre e-mail-konti til Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

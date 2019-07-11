@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377763"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614128"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Tilføje din e-mail-konti til Outlook.com
 
@@ -32,6 +32,6 @@ Sådan tilføjes en tilsluttet konto:
 
 Du kan sende e-mail fra en konto, du har oprettet forbindelse til din konto på Outlook.com. Når du skriver en e-mail, **Vælg** og vælge, hvilke e-mail-adresse, du vil bruge, eller [opdatere din standard fra-adresse](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Yderligere oplysninger finder du læse [Tilføj dine andre e-mail-konti til Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Yderligere oplysninger finder du læse [Tilføj dine andre e-mail-konti til Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Hvis du vil oprette en ny e-mail-adresse, der bruger den samme Outlook.com-konto, skal du læse [tilføje eller fjerne en e-mail-alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).
+Hvis du vil oprette en ny e-mail-adresse, der bruger den samme Outlook.com-konto, skal du læse [tilføje eller fjerne en e-mail-alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
