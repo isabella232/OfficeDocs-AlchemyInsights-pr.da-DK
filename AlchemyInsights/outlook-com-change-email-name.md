@@ -12,12 +12,12 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: af9f343caaeba65c0f86606a048af3b39f3b1e00
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35062056"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701425"
 ---
 # <a name="change-your-email-name"></a>Ændre din e-mail-adresse
 
@@ -35,4 +35,4 @@ Hvis du har mere end én e-mail-alias eller adresse, der er forbundet med din ko
 1. Vælg **Vis fra** at se linjen fra.
 1. Vælg **fra** over linjen, og Vælg hvilken e-mail-adresse, du vil bruge.
 
-Yderligere oplysninger finder du under [sende en e-mail fra en anden adresse i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).
+Yderligere oplysninger finder du under [sende en e-mail fra en anden adresse i Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 5816d85596560dfa016fc2ed622192f68ec4e818
-ms.sourcegitcommit: 187bd764267e502224fa30ea8b04d071aaae73a4
+ms.openlocfilehash: 4a68140db3117f0ad33bf2ebee94601397376c26
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33546240"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701389"
 ---
 # <a name="encrypt-messages-using-smime"></a>Kryptere meddelelser ved hjælp af S/MIME
 
@@ -28,4 +28,4 @@ Sådan ændrer du dine S/MIME-indstillinger i Outlook på internettet:
 1. Gå til **Indstillinger for** > **få vist alle Outlook-indstillinger**.
 2. Vælg **Mail** > **S/MIME**.
 
-Læs [kryptere meddelelser ved hjælp af S/MIME-i Outlook på internettet](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480) for at få yderligere oplysninger.
+Læs [kryptere meddelelser ved hjælp af S/MIME i Outlook på internettet] (https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480 ? wt.mc_id=Office_Outlook_com_Alchemy) for yderligere oplysninger.

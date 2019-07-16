@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360983"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701317"
 ---
 # <a name="see-your-own-email-address"></a>Se din egen e-mail-adresse
 
@@ -28,4 +28,4 @@ Hvis du har tilsluttet en anden e-mail-konto til din konto på Outlook.com, kan 
 1. Marker de tre prikker nederst i meddelelsesvinduet, og vælg **Vis** at se linjen fra.
 2. Over linjen, kan du vælge **fra** og vælge, hvilken e-mail-adresse, du vil bruge.
 
-Lær mere om at [sende e-mail fra en anden adresse i Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e).
+Lær mere om at [sende e-mail fra en anden adresse i Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

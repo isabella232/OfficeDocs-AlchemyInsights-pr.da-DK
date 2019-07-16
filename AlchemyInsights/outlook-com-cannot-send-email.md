@@ -12,12 +12,12 @@ ms.custom:
 - "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b385a16e8538f0633d5746f1abc8eb62c9c83df0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1500c2e0bc7ba40b4ee4d149899e5199ae926722
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376755"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697185"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>Kan ikke sende e-mail i Outlook.com
 
@@ -28,6 +28,6 @@ Hvis du har problemer med at sende meddelelser i Outlook.com, kan du prøve diss
 1. Hvis din Indbakke er fuld, kan du ikke sende eller modtage nye meddelelser. Tøm [mappen Uønsket E-mail](https://outlook.live.com/mail/junkemail) ved at højreklikke på mappen Uønsket E-mail og vælge **tom mappe**.
 1. Kontroller, at e-mail-adresserne på de personer, du forsøger at sende til formateret korrekt.
 1. Hvis du har mere end 20 [forbindelse konti](https://outlook.live.com/mail/options/mail/accounts/connected), kan du ikke sende eller modtage post.
-1. Din konto kan være midlertidigt blokeret, fordi vi bemærket nogle usædvanlige logonaktivitet. Se [Fjern blokeringen af min konto på Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Din konto kan være midlertidigt blokeret, fordi vi bemærket nogle usædvanlige logonaktivitet. Se [Fjern blokeringen af min konto på Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Yderligere oplysninger om, hvordan du [løser Outlook.com e-mail synkroniseringsfejl](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Yderligere oplysninger om, hvordan du [løser Outlook.com e-mail synkroniseringsfejl](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
