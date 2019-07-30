@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e437015d476c1417fa37e1b1c250e2205e9ce4d9
+ms.sourcegitcommit: b825ced7b66d452b0f3874a57e033e690ec41c93
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353171"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35925279"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Opdater DNS-poster for at beholde dit websted hos din nuværende hosting-udbyder
 
-1. Vælg det domæne, du bruger til dit websted, og vælg derefter **DNS-indstillingerne** i ruden management på listen over domæner, på siden [domæner](https://portal.office.com/adminportal/home#/Domains) .
+1. Vælg det domæne, du bruger til dit websted på listen over domæner, på siden [domæner](https://portal.office.com/adminportal/home#/Domains) .
 
 2. Vælg **+ ny brugerdefineret post** , og Skriv følgende:
 
