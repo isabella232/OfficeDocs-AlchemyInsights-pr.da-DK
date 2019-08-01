@@ -11,16 +11,16 @@ ms.custom:
 - "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f1d5625c35cfbee4b3d38df0ad1bf48e471824c4
+ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375243"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044414"
 ---
-# <a name="error-550553-in-outlookcom"></a><span data-ttu-id="21784-102">Fejl 550/553 i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="21784-102">Error 550/553 in Outlook.com</span></span>
+# <a name="error-550553-in-outlookcom"></a><span data-ttu-id="4f231-102">Fejl 550/553 i Outlook.com</span><span class="sxs-lookup"><span data-stu-id="4f231-102">Error 550/553 in Outlook.com</span></span>
 
-<span data-ttu-id="21784-103">Når du er hjemme og sender en e-mail fra din tilsluttede konto ved hjælp af Outlook.com, blive din e-mailen returneret med 550, 553 eller relay-prohibited fejlmeddelelse.</span><span class="sxs-lookup"><span data-stu-id="21784-103">When you're away from home and send an email from your connected account using Outlook.com, your email message might be returned with a 550, 553, or relay-prohibited error message.</span></span>
+<span data-ttu-id="4f231-103">Når du er hjemme og sender en e-mail fra din tilsluttede konto ved hjælp af Outlook.com, blive din e-mailen returneret med 550, 553 eller relay-prohibited fejlmeddelelse.</span><span class="sxs-lookup"><span data-stu-id="4f231-103">When you're away from home and send an email from your connected account using Outlook.com, your email message might be returned with a 550, 553, or relay-prohibited error message.</span></span>
 
-1. <span data-ttu-id="21784-104">Kontroller [e-mail-indstillinger for synkronisering](https://go.microsoft.com/fwlink/?linkid=2031283) på **Indstillinger** > **få vist alle Outlook-indstillinger** > **Mail** > **Sync email**.</span><span class="sxs-lookup"><span data-stu-id="21784-104">Check your [email sync settings](https://go.microsoft.com/fwlink/?linkid=2031283) at **Settings** > **View all Outlook settings** > **Mail** > **Sync email**.</span></span>
-1. <span data-ttu-id="21784-105">Kontroller, at din standard fra adresse er den samme som din e-mail-domænenavn.</span><span class="sxs-lookup"><span data-stu-id="21784-105">Make sure your default from address is the same as your email domain name.</span></span> <span data-ttu-id="21784-106">Hvis du har din egen e-mail-domæne, der er inkluderet, kan du ændre den til din outlook.com, live.com eller hotmail.com adresse.</span><span class="sxs-lookup"><span data-stu-id="21784-106">If you have your own email domain included, change it to your outlook.com, live.com, or hotmail.com address.</span></span>
+1. <span data-ttu-id="4f231-104">Kontroller [e-mail-indstillinger for synkronisering](https://go.microsoft.com/fwlink/?linkid=2031283) på **Indstillinger**</span><span class="sxs-lookup"><span data-stu-id="4f231-104">Check your [email sync settings](https://go.microsoft.com/fwlink/?linkid=2031283) at **Settings**</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' /> <span data-ttu-id="4f231-105">> **Få vist alle Outlook-indstillinger** > **Mail** > **Sync email**.</span><span class="sxs-lookup"><span data-stu-id="4f231-105">> **View all Outlook settings** > **Mail** > **Sync email**.</span></span>
+1. <span data-ttu-id="4f231-106">Kontroller, at din standard fra adresse er den samme som din e-mail-domænenavn.</span><span class="sxs-lookup"><span data-stu-id="4f231-106">Make sure your default from address is the same as your email domain name.</span></span> <span data-ttu-id="4f231-107">Hvis du har din egen e-mail-domæne, der er inkluderet, kan du ændre den til din outlook.com, live.com eller hotmail.com adresse.</span><span class="sxs-lookup"><span data-stu-id="4f231-107">If you have your own email domain included, change it to your outlook.com, live.com, or hotmail.com address.</span></span>
