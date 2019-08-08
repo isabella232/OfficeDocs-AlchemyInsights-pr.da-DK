@@ -1,5 +1,5 @@
 ---
-title: Oprette apps i PowerApps
+title: Opret apps i PowerApps
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404957"
 ---
-# <a name="create-apps-with-powerapps"></a><span data-ttu-id="1931c-102">Oprette apps med PowerApps</span><span class="sxs-lookup"><span data-stu-id="1931c-102">Create apps with PowerApps</span></span>
+# <a name="create-apps-with-powerapps"></a><span data-ttu-id="f78be-102">Opret apps med PowerApps</span><span class="sxs-lookup"><span data-stu-id="f78be-102">Create apps with PowerApps</span></span>
 
-<span data-ttu-id="1931c-p101">PowerApps er en udviklingsplatform for business apps. Der er tre hovedkomponenter:</span><span class="sxs-lookup"><span data-stu-id="1931c-p101">PowerApps is a development platform for business apps. It has three major components:</span></span> 
+<span data-ttu-id="f78be-103">PowerApps er en udviklingsplatform til forretningsapps.</span><span class="sxs-lookup"><span data-stu-id="f78be-103">PowerApps is a development platform for business apps.</span></span> <span data-ttu-id="f78be-104">Den har tre overordnede komponenter:</span><span class="sxs-lookup"><span data-stu-id="f78be-104">It has three major components:</span></span> 
   
-- <span data-ttu-id="1931c-p102">[Lærredet apps](https://go.microsoft.com/fwlink/?linkid=874495) starter med din brugeroplevelse, oprette en meget skræddersyede grænseflade med en potens af et tomt lærred og forbinde den til dit valg af 200-datakilder. Du kan opbygge lærred apps til web, mobil og Tablet PC-programmer.</span><span class="sxs-lookup"><span data-stu-id="1931c-p102">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources. You can build canvas apps for web, mobile, and tablet applications.</span></span> 
+- <span data-ttu-id="f78be-105">[Lærredsapps](https://go.microsoft.com/fwlink/?linkid=874495) starter med din brugeroplevelse og udarbejder en særdeles skræddersyet grænseflade med et blankt lærred og knytter den til dit valg af 200 datakilder.</span><span class="sxs-lookup"><span data-stu-id="f78be-105">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources.</span></span> <span data-ttu-id="f78be-106">Du kan bygge lærredsapps til internettet, mobilenheder og tabletprogrammer.</span><span class="sxs-lookup"><span data-stu-id="f78be-106">You can build canvas apps for web, mobile, and tablet applications.</span></span> 
     
-- <span data-ttu-id="1931c-p103">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) starter med din datamodel - opbygge fra figuren dine core business data og processer i den fælles Data Service model-formularer, visninger og andre komponenter. Model-driven apps generering automatisk af fantastisk brugergrænseflade, der svarer på tværs af enheder.</span><span class="sxs-lookup"><span data-stu-id="1931c-p103">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components. Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
+- <span data-ttu-id="f78be-107">[Modeldrevne apps](https://go.microsoft.com/fwlink/?linkid=874496) starter med din datamodel og bygger ud fra designet af dine vigtigste forretningsdata og -processer i Common Data Service for at modellere formularer, visninger og andre komponenter.</span><span class="sxs-lookup"><span data-stu-id="f78be-107">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components.</span></span> <span data-ttu-id="f78be-108">Modeldrevne apps genererer automatisk en enestående brugergrænseflade, der er effektiv på tværs af enheder.</span><span class="sxs-lookup"><span data-stu-id="f78be-108">Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
     
-- <span data-ttu-id="1931c-p104">[Fælles Data Service](https://go.microsoft.com/fwlink/?linkid=874497) er den dataplatform, der leveres med PowerApps og gør det muligt at lagre og model forretningsdata. Det er den platform, hvorpå Dynamics 365 programmer er opbygget. Hvis du er en kunde Dynamics, er dataene allerede i fælles Data Service.</span><span class="sxs-lookup"><span data-stu-id="1931c-p104">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data. It's the platform on which Dynamics 365 applications are built. If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
+- <span data-ttu-id="f78be-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) er dataplatformen, der følger med PowerApps og giver dig mulighed for at gemme og modellere forretningsdata.</span><span class="sxs-lookup"><span data-stu-id="f78be-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data.</span></span> <span data-ttu-id="f78be-110">Det er platformen, som Dynamics 365-programmer er bygget ud fra.</span><span class="sxs-lookup"><span data-stu-id="f78be-110">It's the platform on which Dynamics 365 applications are built.</span></span> <span data-ttu-id="f78be-111">Hvis du er Dynamics-kunde, er dine data allerede i Common Data Service.</span><span class="sxs-lookup"><span data-stu-id="f78be-111">If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
     
-[<span data-ttu-id="1931c-112">Flere oplysninger om PowerApps</span><span class="sxs-lookup"><span data-stu-id="1931c-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
+[<span data-ttu-id="f78be-112">Flere oplysninger om PowerApps</span><span class="sxs-lookup"><span data-stu-id="f78be-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
