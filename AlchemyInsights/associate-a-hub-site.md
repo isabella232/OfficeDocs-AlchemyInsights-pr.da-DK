@@ -1,21 +1,22 @@
 ---
 title: Knytte et hubwebsted.
-ms.author: kirks
-author: Techwriter40
-ms.date: 1/3/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "1012"
 - "5300012"
-ms.openlocfilehash: 651df67ea7eec0526cf6c1cc61232c3d31125596
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+- "1012"
+ms.openlocfilehash: 88fe29b4aa89f05609b7aefc7732bb2b78cf3002
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903031"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270136"
 ---
 # <a name="associate-a-hub-site"></a>Knytte et hubwebsted.
 
@@ -27,6 +28,6 @@ Hvis du vil knytte et eksisterende websted til hubwebstedet, kan du gøre følge
 
  > [!Note]
 >Hvis indstillingen Hub websted tilknytning findes ikke eller er angivet nogen steder, hub websteder kan ikke aktiveres, eller du har muligvis ikke tilladelse til at tilknytte websteder med et hubwebsted. Kontakt administratoren for at få yderligere oplysninger.
-
+>
 >Der er ingen grænse for antallet af websteder, der kan knyttes til et hubwebsted.
   

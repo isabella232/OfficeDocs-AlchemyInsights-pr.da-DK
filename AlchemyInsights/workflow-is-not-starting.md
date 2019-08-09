@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: efd17c302ae6d857207e87e94d74d3794e94a83a
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: a3bac74c19a77b7703f948c1d8b6bcd182e9b075
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171771"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270774"
 ---
 # <a name="workflow-is-not-starting"></a>Arbejdsprocessen starter ikke
 
 - Arbejdsgange i SharePoint 2010, og SharePoint 2013 starter ikke.
 
-    Hvis arbejdsprocessen ikke starter, kan der være et problem med den midlertidige tjeneste hvor brugere kan opleve forbigående forsinkelser med status for arbejdsprocessen. Kontroller [Service sundhed Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, hvis organisationen påvirkes.
+    - Hvis arbejdsprocessen ikke starter, kan der være et problem med den midlertidige tjeneste hvor brugere kan opleve forbigående forsinkelser med status for arbejdsprocessen. Kontroller [Service sundhed Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, hvis organisationen påvirkes.
 
-    Hvis der er gået mere end 24 timer, da du så først problemet, skal du logge en støtte billet. I mange tilfælde kan arbejder vi allerede på en løsning. Giv os, mindst 24 timer at gennemføre en løsning.
+    - Hvis der er gået mere end 24 timer, da du så først problemet, skal du logge en støtte billet. I mange tilfælde kan arbejder vi allerede på en løsning. Giv os, mindst 24 timer at gennemføre en løsning.
 
 - SharePoint 2010-arbejdsprocesser forsinkelse ved start.
 
-    Dette sker, hvis arbejdsprocessen udløses i store partier. (for eksempel, når flere elementer tilføjes på én gang).
+    - Dette sker, hvis arbejdsprocessen udløses i store partier. (for eksempel, når flere elementer tilføjes på én gang).
 
-    Arbejdsprocesser er ikke beregnet til at køre i realtid, så en forsinkelse er tilsigtet funktionsmåde.
+    - Arbejdsprocesser er ikke beregnet til at køre i realtid, så en forsinkelse er tilsigtet funktionsmåde.
 
-    Kompileringen kan være langsom, hvis arbejdsgangen er komplekse Extensible objekt Markup Language (XMOL). Læs [denne](https://support.microsoft.com/en-us/kb/3043697) artikel.
+   -  Kompileringen kan være langsom, hvis arbejdsgangen er komplekse Extensible objekt Markup Language (XMOL). Læs [denne](https://support.microsoft.com/en-us/kb/3043697) artikel.
 
-    Du bør forenkle arbejdsgangen eller designe det ved hjælp af Microsoft SharePoint 2013 platform arbejdsgangstype.
+    - Du bør forenkle arbejdsgangen eller designe det ved hjælp af Microsoft SharePoint 2013 platform arbejdsgangstype.
 
-    Hvis din arbejdsgangshistorikken er blevet stort, kan du også fjerne elementer eller oprette en ny oversigtsliste.
+    - Hvis din arbejdsgangshistorikken er blevet stort, kan du fjerne varerne eller oprette en ny oversigtsliste.
 
-    Yderligere oplysninger: [Fjern arbejdsgangshistorik](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Yderligere oplysninger: [Fjern arbejdsgangshistorik](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Relaterede emner
