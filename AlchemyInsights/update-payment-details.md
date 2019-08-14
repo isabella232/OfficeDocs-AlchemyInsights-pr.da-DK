@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903689"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387738"
 ---
 # <a name="update-payment-details"></a>Opdater betalingsoplysninger
 
-1. I Administration skal du gå til [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806) eller vælge **Fakturering** \> **Betalingsmetoder**.
+1. I Administration skal du gå til **Fakturering** \> [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Hvis du oplever en løkke, som sender dig tilbage til Administrationssiden, før dine opdateringer er gennemført, kan du prøve tilstanden Inprivate eller Incognito.
@@ -37,4 +37,4 @@ ms.locfileid: "35903689"
 
 5. For at fjerne denne betalingsmetode skal du vælge **Slet**.
 
-Vil du have flere oplysninger, skal du gå til [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) og [Fejlfinding i kreditkort og bankkonti](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Vil du have flere oplysninger, skal du gå til [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 for Business](https://docs.microsoft.com/da-DK/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) og [Fejlfinding i kreditkort og bankkonti](https://docs.microsoft.com/da-DK/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
