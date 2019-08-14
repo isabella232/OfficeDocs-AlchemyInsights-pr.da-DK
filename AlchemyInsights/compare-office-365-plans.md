@@ -13,12 +13,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362207"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386614"
 ---
 # <a name="compare-office-365-plans"></a>Sammenlign Office 365-planer
 
@@ -28,7 +28,6 @@ Office 365-planer er tilgængelige for [virksomheder](https://products.office.co
   
 Hvis din organisation er interesseret i at sammenligne alle planer og priser, kan du gennemse [sammenligne alle Office 365-planer](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Hvis organisationen allerede har købt en Office 365-plan og er interesseret i at skifte til en anden model, du kan så fra Microsoft 365 admin center, gå til [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054), eller Vælg **Fakturering** \> **abonnementer**. Vælg **Skift planer** til at få vist listen over de nye planer, der er tilgængelige.
+Hvis organisationen allerede har købt en Office 365-plan og er interesseret i at skifte til en anden model, kan du gøre det fra Microsoft 365 admin center. Gå til **Fakturering** \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) side og derefter vælge **Skift planer** til at få vist listen over de nye planer, der er tilgængelige.
   
-Din organisation kan også mix og match Office 365-planer til at opfylde behov og funktionskrav af brugere. Gå til siden [Købstjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) fra på Office 365 Admin, eller Vælg **Fakturering** \> **Købstjenester**.
-  
+Din organisation kan også mix og match Office 365-planer til at opfylde behov og funktionskrav af brugere. Fra admin center, gå til **Fakturering** \> [Køb](https://go.microsoft.com/fwlink/p/?linkid=868433) af tjenesteydelser.

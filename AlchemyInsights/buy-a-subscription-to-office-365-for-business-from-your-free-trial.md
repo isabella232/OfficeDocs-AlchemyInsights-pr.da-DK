@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359335"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386830"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Køb et abonnement på Office 365 fra din gratis prøveversion
 
@@ -26,18 +26,16 @@ Har du prøvet Office 365, og du er nu klar til at købe. Du har to muligheder, 
   
  **Du kan købe den samme plan som din prøveversion**
   
-1. I Administration skal du gå til siden [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller vælge **Fakturering** \> **Abonnementer**.
+1. Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Vælg **Køb nu** til prøveabonnementet, du vil, og følge trinene for at tjekke ud.
 
 eller **du kan købe et andet abonnement**
   
-1. Log på Office 365 med kontoen arbejdet eller skolen som en global administrator. [Lær, hvordan du logger på](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Vælg **Office 365** på startsiden.
+2. Vælg **Tilføj abonnementer**på siden **abonnement** .
 
-3. Vælg **Køb**i øverste højre hjørne af siden under navigationspanelet.
+3. Find det abonnement, du vil købe, Vælg **Køb nu**og følge trinene for at tjekke ud.
 
-4. På siden **Køb abonnementer** er den plan, du prøver et banner **I prøveversionen** .
-
-5. Vælg **Køb nu** til prøveabonnementet, du vil, og følge trinene for at tjekke ud.
+Bruger du den nye admin center? Nye trin, du [køber et abonnement på Office 365 til virksomheder fra din gratis prøveversion](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

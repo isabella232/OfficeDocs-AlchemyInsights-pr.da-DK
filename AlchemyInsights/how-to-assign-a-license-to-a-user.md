@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385683"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386290"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Sådan tildeles en licens til en bruger
 
 En bruger skal have en licens skal have adgang til tjenester. Her er trin for at tilføje, ændre eller fjerne en licens fra en bruger.
   
-1. Gå til siden [Aktive brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) i centeret administration, eller Vælg **brugere** \> **aktive brugere**.
+1. Gå til **brugere** i centeret administration \> siden [Aktive brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
 2. Marker afkrydsningsfeltet ud for navnet på den bruger, du vil tildele, ændre eller fjerne en licens.
 
@@ -38,5 +38,4 @@ En bruger skal have en licens skal have adgang til tjenester. Her er trin for at
 
 5. Vælg **Gem** i bunden af ruden **produktlicenser** , \> **Luk** \> **Luk**.
 
-Yderligere oplysninger finder du i [tildele licenser til brugere i Office 365 til virksomheder](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)og [fjerne licenser fra brugere i Office 365 til virksomheder](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+Yderligere oplysninger finder du i [tildele licenser til brugere i Office 365 til virksomheder](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)og [fjerne licenser fra brugere i Office 365 til virksomheder](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

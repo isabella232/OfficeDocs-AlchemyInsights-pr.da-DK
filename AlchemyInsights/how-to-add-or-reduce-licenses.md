@@ -13,18 +13,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: c30ac911efddfa2e5c5e034af0dd27e029ab706a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385647"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388810"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Sådan tilføjes eller reducere antallet af licenser
 
 Her er hvordan du fjerner eller købe flere licenser.
   
-1. I Administration skal du gå til siden [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller vælge **Fakturering** \> **Abonnementer**.
+1. Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Vælg det abonnement, du vil tilføje eller fjerne licenser til venstre
 
@@ -38,13 +38,15 @@ Her er hvordan du fjerner eller købe flere licenser.
 
 > [!NOTE]
 > Et nyt gebyr (licens stigning) eller kreditnota (formindsker licens) vises på din næste regning.
-  
+
+Bruger du den nye admin center? Nye trin, du [købe licenser til din Office 365 for business-abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+
  **Ressourcer**
   
-- [Fjerne licenser fra dit abonnement på Office 365 til virksomheder](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
+- [Fjerne licenser fra dit abonnement på Office 365 til virksomheder](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Købe licenser til din Office 365 for business-abonnement](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [Købe licenser til din Office 365 for business-abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
 
-- [Annuller Office 365 til virksomheder](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Annuller Office 365 til virksomheder](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Købe en anden Office 365 for business-abonnement](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Købe en anden Office 365 for business-abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)

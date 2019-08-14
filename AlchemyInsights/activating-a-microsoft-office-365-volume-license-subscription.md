@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358823"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385859"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktiverer et abonnement licens til Microsoft Office 365-diskenhed
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358823"
 
 5. Log på Office 365 ([https://portal.office.com](https://portal.office.com)) ved hjælp af din eksisterende legitimationsoplysninger med Office 365-administratoren. Når du har logget på, vil du modtage en anden e-mail med bekræftelse af købet.
 
-6. Når du har logget på, kan du gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) , eller Vælg **Fakturering**  - \> til at kontrollere, at dine købte Office 365-abonnementer er aktiveret i din lejer **abonnementer** . (Du kan også vælge fanen **abonnement** i VLSC til at få vist detaljer for at kontrollere, at dit abonnement er blevet deponeret). 
+6. Når du har logget på, kan du gå til **Fakturering** \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) siden for at kontrollere, at dine købte Office 365-abonnementer er aktiveret i din lejer. (Du kan også vælge fanen **abonnement** i VLSC til at få vist detaljer for at kontrollere, at dit abonnement er blevet deponeret).
