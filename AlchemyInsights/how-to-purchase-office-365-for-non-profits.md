@@ -13,14 +13,13 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 95f45ae2979887ebe2a613c740320c50e20a2d68
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ac35c253b326e94a21d176d6e439c548b5ea88a6
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383595"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389966"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="a2f44-102">Hvordan du køber Office 365 for ikke-overskud</span><span class="sxs-lookup"><span data-stu-id="a2f44-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="6ab02-102">Hvordan du køber Office 365 for ikke-overskud</span><span class="sxs-lookup"><span data-stu-id="6ab02-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="a2f44-103">Ret som en kvalificeret velgørende organisation til Microsoft er under revision.</span><span class="sxs-lookup"><span data-stu-id="a2f44-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="a2f44-104">Du kan forvente at modtage en besked på fastsættelsen af din berettigelse inden udløbet af prøvetiden.</span><span class="sxs-lookup"><span data-stu-id="a2f44-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="a2f44-105">Du kan spore status for din ansøgning [her](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="a2f44-105">You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
-  
+<span data-ttu-id="6ab02-103">Ret som en kvalificeret velgørende organisation til Microsoft er under revision.</span><span class="sxs-lookup"><span data-stu-id="6ab02-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="6ab02-104">Du kan forvente at modtage en besked på fastsættelsen af din berettigelse inden udløbet af prøvetiden.</span><span class="sxs-lookup"><span data-stu-id="6ab02-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="6ab02-105">Du kan spore status for din ansøgning [her](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="6ab02-105">You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
