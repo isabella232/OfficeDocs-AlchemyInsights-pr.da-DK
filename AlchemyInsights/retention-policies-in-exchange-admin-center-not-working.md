@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369659"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444802"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Opbevaringspolitikker i Exchange Admin Center
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369659"
   ```
 
  **Bemærk:** Hvis en postkasse er mindre end 10 MB, behandler en administreret Mappeassistent ikke automatisk postkassen.
-  
+ 
+Se yderligere oplysninger på opbevaringspolitikker i Exchange Admin Center:
+- [Tilbageholdelse af mærker og opbevaringspolitikker](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Anvende en opbevaringspolitik til postkasser](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Tilføje eller fjerne koder for tilbageholdelse](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Sådan identificeres spærringstype, der er placeret på en postkasse](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
