@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406306"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514014"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Slette websteder, der hører til en Office 365-gruppe:
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Slette websteder, der tilhører en gruppe af Office 365
 
 Når brugerne opretter et nyt websted for team SharePoint hjemmefra, eller du opretter et nyt websted for team fra det nye SharePoint admin center, oprettes der automatisk en tilsvarende Office 365-gruppe. Office 365 gruppe forbundet gruppewebsteder oprettes også, når du opretter en Office 365-gruppe eller et team i Microsoft Teams. Hvis du vil slette et SharePoint-websted, der tilhører en gruppe af Office 365, skal du slette selve Office 365-gruppen. 
   
@@ -34,7 +34,7 @@ Bemærk: Når du sletter en gruppe, der kan være en forsinkelse, før webstedet
 
 1. Gå til webstedet.
   
-2. Klik på den ** indstillinger **-ikonet i øverste højre hjørne. 
+2. Klik på ikonet **Indstillinger** i øverste højre hjørne. 
   
 3. Klik på **Indstillinger for websted**. Klik på **Slet webstedet**under **Oplysninger på webstedet** eller **Webstedshandlinger**, og klik derefter på **Slet**.
   
