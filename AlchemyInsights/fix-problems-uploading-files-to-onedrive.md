@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: 018efff5a881f4825659f4d236fd7f87ef84def5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401214"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525134"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a><span data-ttu-id="9947b-102">Løse problemer med overførsel af filer til OneDrive</span><span class="sxs-lookup"><span data-stu-id="9947b-102">Fix problems uploading files to OneDrive</span></span>
+# <a name="fix-problems-uploading-files-to-onedrive"></a><span data-ttu-id="dca05-102">Løse problemer med overførsel af filer til OneDrive</span><span class="sxs-lookup"><span data-stu-id="dca05-102">Fix problems uploading files to OneDrive</span></span>
 
-<span data-ttu-id="9947b-103">Prøv dette, hvis du ikke overfører en fil:</span><span class="sxs-lookup"><span data-stu-id="9947b-103">Try this if a file won't upload:</span></span>
+<span data-ttu-id="dca05-103">Prøv dette, hvis du ikke overfører en fil:</span><span class="sxs-lookup"><span data-stu-id="dca05-103">Try this if a file won't upload:</span></span>
   
-- <span data-ttu-id="9947b-104">Omdøb filen, og prøv igen.</span><span class="sxs-lookup"><span data-stu-id="9947b-104">Rename the file and try again.</span></span> <span data-ttu-id="9947b-105">Nogle filnavne og tegn i filnavne er ikke tilladt.</span><span class="sxs-lookup"><span data-stu-id="9947b-105">Some file names and characters in file names aren't allowed.</span></span> 
+- <span data-ttu-id="dca05-104">Omdøb filen, og prøv igen.</span><span class="sxs-lookup"><span data-stu-id="dca05-104">Rename the file and try again.</span></span> <span data-ttu-id="dca05-105">Nogle filnavne og tegn i filnavne er ikke tilladt.</span><span class="sxs-lookup"><span data-stu-id="dca05-105">Some file names and characters in file names aren't allowed.</span></span> 
     
-- <span data-ttu-id="9947b-106">Hvis du synkronisere filen, kan du flytte den fra mappen OneDrive (for eksempel flytter den til skrivebordet), og når din OneDrive synkroniseringsstatus vises som "Gyldig" flytte den tilbage.</span><span class="sxs-lookup"><span data-stu-id="9947b-106">If you're syncing the file, move it out of your OneDrive folder (for example, move it to your Desktop), and when your OneDrive sync status appears as "Up to date," move it back.</span></span> 
+- <span data-ttu-id="dca05-106">Hvis du synkronisere filen, kan du flytte den fra mappen OneDrive (for eksempel flytter den til skrivebordet), og når din OneDrive synkroniseringsstatus vises som "Gyldig" flytte den tilbage.</span><span class="sxs-lookup"><span data-stu-id="dca05-106">If you're syncing the file, move it out of your OneDrive folder (for example, move it to your Desktop), and when your OneDrive sync status appears as "Up to date," move it back.</span></span> 
     
-[<span data-ttu-id="9947b-107">Flere tip til fejlfinding</span><span class="sxs-lookup"><span data-stu-id="9947b-107">More troubleshooting tips</span></span>](https://go.microsoft.com/fwlink/?linkid=873155)
+[<span data-ttu-id="dca05-107">Flere tip til fejlfinding</span><span class="sxs-lookup"><span data-stu-id="dca05-107">More troubleshooting tips</span></span>](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

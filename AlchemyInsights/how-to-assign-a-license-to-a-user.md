@@ -13,29 +13,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386290"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522461"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a><span data-ttu-id="39f62-102">Sådan tildeles en licens til en bruger</span><span class="sxs-lookup"><span data-stu-id="39f62-102">How to assign a license to a user</span></span>
+# <a name="how-to-assign-a-license-to-a-user"></a><span data-ttu-id="5e79e-102">Sådan tildeles en licens til en bruger</span><span class="sxs-lookup"><span data-stu-id="5e79e-102">How to assign a license to a user</span></span>
 
-<span data-ttu-id="39f62-103">En bruger skal have en licens skal have adgang til tjenester.</span><span class="sxs-lookup"><span data-stu-id="39f62-103">A user needs a license to have access to services.</span></span> <span data-ttu-id="39f62-104">Her er trin for at tilføje, ændre eller fjerne en licens fra en bruger.</span><span class="sxs-lookup"><span data-stu-id="39f62-104">Here are steps to add, change, or remove a license from a user.</span></span>
+<span data-ttu-id="5e79e-103">En bruger skal have en Office 365-licens skal have adgang til tjenester.</span><span class="sxs-lookup"><span data-stu-id="5e79e-103">A user needs an Office 365 license to have access to services.</span></span> <span data-ttu-id="5e79e-104">Her er trin for at tilføje, ændre eller fjerne en licens fra en bruger.</span><span class="sxs-lookup"><span data-stu-id="5e79e-104">Here are steps to add, change, or remove a license from a user.</span></span>
   
-1. <span data-ttu-id="39f62-105">Gå til **brugere** i centeret administration \> siden [Aktive brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="39f62-105">In the admin center, go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
+1. <span data-ttu-id="5e79e-105">Gå til **brugere** i centeret administration \> siden [aktive brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="5e79e-105">In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-2. <span data-ttu-id="39f62-106">Marker afkrydsningsfeltet ud for navnet på den bruger, du vil tildele, ændre eller fjerne en licens.</span><span class="sxs-lookup"><span data-stu-id="39f62-106">Select the box next to the name of the user to whom you want to assign, change, or remove a license.</span></span>
+2. <span data-ttu-id="5e79e-106">Vælg navnet på den bruger, du vil tildele, ændre eller fjerne en licens.</span><span class="sxs-lookup"><span data-stu-id="5e79e-106">Select the name of the user to whom you want to assign, change, or remove a license.</span></span>
 
-3. <span data-ttu-id="39f62-107">Vælg **Rediger**i rækken **produktlicenser** til højre.</span><span class="sxs-lookup"><span data-stu-id="39f62-107">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="5e79e-107">Vælg den licens, du vil tildele til brugeren under fanen **licenser og Apps** .</span><span class="sxs-lookup"><span data-stu-id="5e79e-107">On the **Licenses and Apps** tab, select the license that you want to assign to this user.</span></span>
 
-4. <span data-ttu-id="39f62-108">Skift Skift til **på** placeringen af den licens, der skal tildeles til denne bruger i ruden **produktlicenser** .</span><span class="sxs-lookup"><span data-stu-id="39f62-108">In the **Product licenses** pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span>
+    <span data-ttu-id="5e79e-108">Som standard tildeles automatisk alle tjenester, der er knyttet til denne licens til brugeren.</span><span class="sxs-lookup"><span data-stu-id="5e79e-108">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="5e79e-109">Hvis du vil begrænse tjenester, der er tilgængelige for brugeren, og fjern markeringen i afkrydsningsfeltet ud for de tjenester, du ikke ønsker, at brugeren skal have.</span><span class="sxs-lookup"><span data-stu-id="5e79e-109">To limit which services are available to the user, clear the check box for the services that you don't want that user to have.</span></span>
 
-    <span data-ttu-id="39f62-109">Som standard tildeles automatisk alle tjenester, der er knyttet til denne licens til brugeren.</span><span class="sxs-lookup"><span data-stu-id="39f62-109">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="39f62-110">For at begrænse, hvilke tjenester er tilgængelige for brugeren, skifte skifter til **fra** positionen for tjenesterne, du ikke ønsker, at brugeren skal have.</span><span class="sxs-lookup"><span data-stu-id="39f62-110">To limit which services are available to the user, switch the toggles to the **Off** position for the services that you don't want that user to have.</span></span>
+4. <span data-ttu-id="5e79e-110">Vælg **Gem ændringer**nederst i ruden.</span><span class="sxs-lookup"><span data-stu-id="5e79e-110">At the bottom of the pane, choose **Save changes**.</span></span>
 
-    <span data-ttu-id="39f62-111">Skift Skift **fra** stillingen til at fjerne en licens.</span><span class="sxs-lookup"><span data-stu-id="39f62-111">Switch the toggle to the **Off** position to remove a license.</span></span>
-
-5. <span data-ttu-id="39f62-112">Vælg **Gem** i bunden af ruden **produktlicenser** , \> **Luk** \> **Luk**.</span><span class="sxs-lookup"><span data-stu-id="39f62-112">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
-
-<span data-ttu-id="39f62-113">Yderligere oplysninger finder du i [tildele licenser til brugere i Office 365 til virksomheder](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)og [fjerne licenser fra brugere i Office 365 til virksomheder](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span><span class="sxs-lookup"><span data-stu-id="39f62-113">For more information, see [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users), and [Remove licenses from users in Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span></span>
+<span data-ttu-id="5e79e-111">Yderligere oplysninger finder du i [tildele licenser til brugere i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)og [fjerne licenser fra brugere i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span><span class="sxs-lookup"><span data-stu-id="5e79e-111">For more information, see [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), and [Remove licenses from users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span></span>
