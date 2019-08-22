@@ -13,14 +13,14 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 8c965cb1c2b6a4cb46b5c1b0145932c4c54ba97d
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270522"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527717"
 ---
-# <a name="enable-and-search-audit-log"></a>Aktivere og søge overvågningsloggen
+# <a name="enable-and-search-the-audit-log"></a>Aktivere og søge overvågningsloggen
 
 For at søge i overvågningsloggen Office 365, skal du følge [disse trin](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
