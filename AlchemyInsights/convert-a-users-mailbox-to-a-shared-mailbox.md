@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 81890c6dce8e72ef30a12bd7fa9c68979fce1e0f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a3a5ca84f6e7e0173bdaef5222033d25abbced8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360335"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516161"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Konvertere en brugerpostkasse til en delt postkasse
 
-Når du konverterer en brugers postkasse til en delt postkasse, bevares alle eksisterende e-mail og kalender. Det er nu kun i en delt postkasse, hvor flere personer skal kunne få adgang til den i stedet for én person. Du kan konvertere en delt postkasse tilbage til en brugerpostkasse (privat) på et senere tidspunkt.
+Når du konverterer en individuel brugers postkasse til en delt postkasse, bevares alle eksisterende e-mail- og kalenderemner i en delt postkasse, hvor flere personer har adgang til. Du kan også konvertere en delt postkasse tilbage til en brugerpostkasse (privat).
   
-[Læs mere...](https://support.office.com/article/2e122487-e1f5-4f26-ba41-5689249d93ba)
+[Lær mere...](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)
   

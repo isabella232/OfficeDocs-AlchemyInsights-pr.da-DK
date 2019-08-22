@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2389"
-ms.openlocfilehash: 42be9f5a34d16e51ae2ac2173bcc365f006cc2e1
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 25276298935449e93ac07d132e4ff4d726516c89
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271629"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526061"
 ---
 # <a name="external-sharing"></a>Eksterne Deling
 
@@ -37,7 +37,7 @@ Yderligere oplysninger om eksterne deling, finder du på følgende hyperlinks:
 Hvis du modtager en fejlmeddelelse med en ekstern bruger?Marker følgende hyperlinks:
 
 - ["Adgang nægtet", "Du skal tilladelse til at få adgang til dette websted," eller "Bruger ikke fundet i mappen" fejl i SharePoint Online- og OneDrive til virksomheder](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Organisationens politik tillader ikke at dele med disse brugere" fejl ved deling af en vare eller et websted i SharePoint Online- eller OneDrive til virksomheder](https://docs.microsoft.com/en-us/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- ["Organisationens politik tillader ikke at dele med disse brugere" fejl ved deling af en vare eller et websted i SharePoint Online- eller OneDrive til virksomheder](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [Indstillinger for Deling er nedtonede, når du deler fra SharePoint Online- eller OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
 - [Fejlmeddelelse, når en ekstern bruger accepterer en invitation til SharePoint Online ved hjælp af en anden konto](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
 - [OSE deling fejl i SharePoint- og OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)

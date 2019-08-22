@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381723"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498409"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installationen af Office på en Terminal Server
 
@@ -26,7 +26,7 @@ Til implementering af Office 365 ProPlus på en Windows-Server ved hjælp af Rem
 
 - Du skal aktivere [delt computeraktivering](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Hvis du vil installere Office 365 ProPlus på RDS fra Office 365-portalen, ** *som bruger standardindstillingerne for installation* **, skal du følge disse trin:
+Hvis du vil installere Office 365 ProPlus på RDS fra Office 365-portalen, ***som bruger standardindstillingerne for installation***, skal du følge disse trin:
   
 1. Kontrollere, hvilke Office 365-plan, du har. [Lær, hvordan](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Hvis du vil installere Office 365 ProPlus på RDS fra Office 365-portalen, ** *s
 
 4. Log på Office 365-portalen med administratorkonto og [installere Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)på RDS-serveren.
 
-5. Når Office er installeret, ** *ikke åbne eller logge på* ** til Office-programmer.
+5. Når Office er installeret, ***ikke åbne eller logge på*** Office-programmer.
 
 6. Aktiver delt computeraktivering på RDS-serveren, ved at redigere registreringsdatabasen ved at følge disse trin:
 
@@ -46,7 +46,7 @@ Hvis du vil installere Office 365 ProPlus på RDS fra Office 365-portalen, ** *s
 
 3. I Registreringseditor, føje en strengværdi af **SharedComputerLicensing** med indstillingen 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. På RDS-serveren ** *logge på som en slutbruger* **, og [Kontroller, at aktivering af delt computer aktiveres for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. På RDS-serveren, ***logge på som en slutbruger*** og [Kontroller, at delte computeraktivering er aktiveret for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Yderligere oplysninger om forudsætninger, installationsvejledning og vejledning om tilpassede installationer ved hjælp af værktøjet Office installation, finder du [Installere Office 365 ProPlus ved hjælp af Fjernskrivebord-tjenester](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
