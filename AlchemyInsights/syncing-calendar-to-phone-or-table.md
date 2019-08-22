@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ef3b7fc8-f8c0-43b0-8d78-3f8287872ebd
 ms.custom: 1600036
-ms.openlocfilehash: bc5edf2f65e4e3128e3eac877d79f94cf9e0252f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6eecf530488bfaf6d7479948a99a51a15629c6b9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420766"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559583"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemer med synkronisering af din kalender til enheder
+# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>Problemer med synkronisering af Outlook-kalenderen til enheder
 
 Hvis du vil foretage fejlfinding af problemer, der synkroniserer kalenderen til enheder, du [kan ikke synkronisere kalender og kontaktpersoner med min telefon eller tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).
   

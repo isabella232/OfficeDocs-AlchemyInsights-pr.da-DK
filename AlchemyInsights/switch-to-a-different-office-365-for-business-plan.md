@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388169"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534161"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Skifte til et andet Office 365 til Business Plan
 
-Når din virksomhed ændres, eller du har brug for flere funktioner i Office 365, kan du skifte planer.
+Når din virksomhed ændres, eller du har brug for flere funktioner i Office 365, kan du opgradere til en ny plan.
   
-1. Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Vælg **Skift planer** til at få vist listen over de nye planer, der er tilgængelige.
+2. Vælg det abonnement, du vil opgradere.
 
-3. Vælg en plan for at se de nye samlede omkostninger pr. måned. Husk at læse de vigtige oplysninger og derefter vælge **Næste** at tjekke ud.
+3. Vælg **Opgrader**på siden abonnement detaljer.
 
-Knappen Skift planer understøttes ikke i alle situationer. I nogle tilfælde kan du muligvis skifte planer manuelt.
-  
-Hvis knappen **Skift planer** ikke er tilgængelig, kan du forsøger at [skifte planer manuelt](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) eller bruge indstillingen "Lad os ringe dig" til at tale med en supporttekniker.
-  
-Bruger du den nye admin center? Nyt trin du [opgradere til en anden model](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Find den plan, som du vil opgradere og derefter vælge knappen **Opgrader** .
+
+5. Angiv antallet af licenser, skal du vælge at betale hver måned eller for hele året og derefter vælge **Check ud**.
+   
+Yderligere oplysninger finder du under [opgradere til en anden model](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

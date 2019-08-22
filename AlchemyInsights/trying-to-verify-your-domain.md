@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420118"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533211"
 ---
 # <a name="trying-to-verify-your-domain"></a>Forsøger du at bekræfte dit domæne?
 
-Du skal tilføje en TXT-post hos din domæneregistrator for at bekræfte, at du ejer domænet. Følg guiden Tilføj domæne ved at klikke på **Indstillinger** \> **Domæne**, og derefter **Tilføj domæne**. 
+Du skal tilføje en TXT-post hos din domæneregistrator for at bekræfte, at du ejer domænet. Følg guiden nyt domæne i Microsoft 365 admin center ved at gå til **Opsætning af** \> **domæner**, og klik derefter på **Tilføj domæne**. 
   
 Følg instruktionerne i nedenstående artikel, hvis du vil tilføje en TXT-post for at bekræfte dit domæne. Vælg din domæneregistrator for at se specifikke instruktioner til dit domæne.
   
