@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: ff684984060e71cdcabe600d3a083db5816d432a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380283"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544893"
 ---
-# <a name="microsoft-bookings-app"></a><span data-ttu-id="17105-102">Microsoft bookinger app</span><span class="sxs-lookup"><span data-stu-id="17105-102">Microsoft Bookings app</span></span>
+# <a name="microsoft-bookings-app"></a><span data-ttu-id="94206-102">Microsoft bookinger app</span><span class="sxs-lookup"><span data-stu-id="94206-102">Microsoft Bookings app</span></span>
 
-<span data-ttu-id="17105-103">Se [bookinger artikler](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)om fejlfinding af problemer i den nye app bookinger.</span><span class="sxs-lookup"><span data-stu-id="17105-103">For troubleshooting issues in the new Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
+<span data-ttu-id="94206-103">Microsoft Bookings er en aftale, planlægge app, som hjælper dig med at holde styr på dine bookinger, dine medarbejdere og dine kunder.</span><span class="sxs-lookup"><span data-stu-id="94206-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="94206-104">Finde oplysninger og fejlfinding i bookinger-app i [bookinger artikler](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="94206-104">For information or troubleshooting in the Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
