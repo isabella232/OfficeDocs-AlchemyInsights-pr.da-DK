@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388990"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522785"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hvordan opdaterer jeg mine kreditkortoplysninger?
 
-1. I Administration skal du gå til **Fakturering** \> [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. I Microsoft 365 Administration skal du gå til siden **Fakturering** \> [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Vælg det abonnement, du købte med det kreditkort eller den bankkonto, som du vil opdatere, og vælg derefter **Opdater betalingsoplysninger**.
+2. På siden **Betalingsmetoder** skal du vælge det kreditkort eller den bankkonto, du vil opdatere.
 
-3. Vælg rullelistepilen under **Tilføj eller vælg en betalingsmetode**, vælg det kreditkort eller den bankkonto, du vil opdatere, og vælg herefter **Rediger detaljer**.
+3. Hvis du vil ændre oplysninger om kreditkort eller bankkonto, skal du vælge **Rediger betalingsoplysninger**.
 
-4. Opdater dine kreditkortoplysninger eller bankkontooplysninger (navn på kreditkortet eller bankkontoen, faktureringsadresse. telefonnummer eller udløbsdato) efter behov, vælg herefter **Send**.
+> [!NOTE]
+> Hvis en anden administrator har købt abonnementet, kan du ikke kan opdatere oplysningerne for det kreditkort eller den bankkonto, der er knyttet til abonnementet. Hvis det anvendte kreditkort er ved at udløbe, og den anden administrator ikke kan opdatere det, kan du forhindre, at tjenesten afbrydes, ved at tilføje et andet kreditkort eller en anden bankkonto for abonnementet.
 
-5. Der vises herefter en bekræftelsesmeddelelse.
+4. Opdater dine kreditkort- eller bankkontooplysninger (navn på kreditkortet eller bankkontoen, faktureringsadresse, telefonnummer eller udløbsdato) efter behov, og vælg derefter **Gem** > **Udført**.
 
-Du kan få flere oplysninger under [Fejlfinding af kreditkort og bankkonti](https://docs.microsoft.com/da-DK/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
-
-Bruger du det nye Administration? For nye trin, se [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/da-DK/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+For flere oplysninger kan du se [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
