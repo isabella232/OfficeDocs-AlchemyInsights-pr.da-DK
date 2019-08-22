@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388170"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501359"
 ---
 # <a name="subscription-recurring-billing"></a>Tilbagevendende fakturering af månedsabonnement
 
-Hvis du vil vide, når dit månedligt eller årligt abonnement faktureres (Hvis **tilbagevendende fakturering** er slået til) eller udløber (Hvis **tilbagevendende fakturering** er slået fra):
+Hvis du vil vide, når din månedligt eller årligt abonnement på Office 365 bliver faktureret (Hvis **tilbagevendende fakturering** er slået til) eller udløber (Hvis **tilbagevendende fakturering** er slået fra):
   
-1. Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Vælg det abonnement, du vil vide mere om.
+2. Du kan finde det abonnement, du vil vide mere om, under **Fakturering**, **Renews på** eller **Expiring på** datoen.
 
-3. På højre side af kortet abonnement er oplysninger om abonnementsstatus indstillingen **tilbagevendende fakturering** og den næste fakturerings- eller dato.
+4. Klik på **Rediger** for at foretage en ændring, og vælg derefter **Slå fra,** slå den fra i ruden **tilbagevendende fakturering** indstillinger. Hvis tilbagevendende fakturering er allerede slået fra, kan du vælge **hver måned** eller **en gang** til at slå.
 
-4. Skifte **Indstillinger for tilbagevendende fakturering** -Skift til **på**for at fortsætte ved hjælp af tjenesten efter denne dato. Status viser den næste fakturadatoen for abonnementet.
-
-5. For at stoppe tjenesten på denne dato, skal du skifte **tilbagevendende fakturering** -Skift til **Off**. Status vises datoen abonnementet udløber.
-
-Bruger du den nye admin center? Du kan finde nye trin [Slå tilbagevendende fakturering eller fra](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Yderligere oplysninger finder du under [Slå tilbagevendende fakturering eller fra](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

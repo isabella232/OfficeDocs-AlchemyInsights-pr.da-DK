@@ -13,16 +13,17 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 1a1977539b7dcfd2d99bac4779a6fcf28299e713
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353207"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559367"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Fejlfinding af indhold Søg
 
-Er du har problemer med søgning, indhold eller hentning fejl, når du eksporterer søgeresultaterne?
+Er du har problemer med indhold søgning i Office 365 eller hentning fejl, når du eksporterer søgeresultaterne?
+
 For eksempel, modtager du følgende når du kører søgninger?
 
 - CS008 eller CS012 fejl

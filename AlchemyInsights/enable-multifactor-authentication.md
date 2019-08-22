@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403669"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527465"
 ---
 # <a name="enable-multi-factor-authentication"></a>Aktivere godkendelse af flere faktorer
 
-1. Naviger til **brugere** \> **aktive brugere**
+At aktivere godkendelse af flere faktorer i Microsoft 365 admin center:
+
+1. Gå til **brugere** \> siden **aktive brugere** .
     
-2. Klik på **flere** \> **installation Azure flere faktorer TS**. 
+2. Øverst på siden, Vælg **godkendelse i flere niveauer**. 
     
-3. Find den eller de brugere, som du vil aktivere for MFA. Hvis du vil se alle brugerne, skal du ændre visningen godkendelse af flere faktorer status øverst.
+3. Find den eller de brugere, som du vil aktivere godkendelse af flere faktorer. Hvis du vil se alle brugerne, skal du ændre **status for godkendelse af flere faktorer** -filter øverst.
     
 4. Marker afkrydsningsfeltet ud for de brugere, du vil aktivere.
     
-5.  I oplysningsruden højre bruger under **hurtige trin** du se aktiver og styre brugerindstillinger. Vælg **Aktiver**. 
+5.  Vælg **Aktiver**i oplysningsruden højre bruger under **hurtige trin**. 
     
-6. I dialogboksen åbnes, der, **Klik på Aktiver godkendelse af flere faktorer**. 
+6. I den dialogboks, der åbnes, kan du vælge at **aktivere godkendelse af flere faktorer**. 
     
 
