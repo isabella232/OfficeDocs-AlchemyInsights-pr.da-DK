@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385351"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522497"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Sådan tildeles licenser til Office til Mac-brugere
 
-- Gå til siden [aktive brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) i Microsoft 365 admin center, eller Vælg **brugere** \> **aktive brugere**.
+1. Gå til **brugere** i centeret administration \> siden [aktive brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-- Marker feltet ud for navnet på den bruger, som du vil tildele en licens.
+2. Vælg navnet på den bruger, du vil tildele, ændre eller fjerne en licens.
 
-- Vælg **Rediger**i rækken **produktlicenser** til højre.
+3. Vælg den licens, du vil tildele til brugeren under fanen **licenser og Apps** .
 
-- Skift Skift til **på** placeringen af den licens, der skal tildeles til denne bruger i ruden **produktlicens**s.
+    Som standard tildeles automatisk alle tjenester, der er knyttet til denne licens til brugeren. Hvis du vil begrænse tjenester, der er tilgængelige for brugeren, og fjern markeringen i afkrydsningsfeltet ud for de tjenester, du ikke ønsker, at brugeren skal have.
 
-- Vælg **Gem** i bunden af ruden **produktlicenser** , \> **Luk** \> **Luk**.
+4. Vælg **Gem ændringer**nederst i ruden.
 
 Yderligere oplysninger: [tildele licenser til brugere i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
