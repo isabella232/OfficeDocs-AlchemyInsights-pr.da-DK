@@ -11,24 +11,24 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: d73034b3e2e609c9047f64b04f72cd0afd7970c1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 117abe766b7831d38b861a218a539c7487c5a67a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385179"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541111"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a><span data-ttu-id="daabe-102">Sådan oprettes en regel i Outlook til Mac</span><span class="sxs-lookup"><span data-stu-id="daabe-102">How to create a rule in Outlook for Mac</span></span>
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a><span data-ttu-id="6e4e5-102">Sådan oprettes en regel i Outlook til Mac</span><span class="sxs-lookup"><span data-stu-id="6e4e5-102">How to create a rule in Outlook for Mac</span></span>
 
-1. <span data-ttu-id="daabe-103">Hvis du vil oprette en mappe til de e-mail-meddelelser, der sendes af reglen, Vælg rod-postkasse, under fanen **Arranger** , skal du klikke på **Ny mappe**, Skriv navnet på mappen og tryk på Enter.</span><span class="sxs-lookup"><span data-stu-id="daabe-103">To create a folder to hold the email messages sent by the rule, select the root mailbox, on the **Organize** tab, click **New Folder**, type the name of the folder, and press Enter.</span></span>
+1. <span data-ttu-id="6e4e5-103">Hvis du vil oprette en mappe til de e-mail-meddelelser, der sendes af reglen, Vælg rod-postkasse, under fanen **Arranger** , skal du klikke på **Ny mappe**, Skriv navnet på mappen og tryk på Enter.</span><span class="sxs-lookup"><span data-stu-id="6e4e5-103">To create a folder to hold the email messages sent by the rule, select the root mailbox, on the **Organize** tab, click **New Folder**, type the name of the folder, and press Enter.</span></span>
 
-    <span data-ttu-id="daabe-104">Hvis du</span><span class="sxs-lookup"><span data-stu-id="daabe-104">If you</span></span> 
+    <span data-ttu-id="6e4e5-104">Hvis du</span><span class="sxs-lookup"><span data-stu-id="6e4e5-104">If you</span></span> 
 
-2. <span data-ttu-id="daabe-105">Klik på en e-mail-meddelelse, du vil o i meddelelseslisten, oprette en regel.</span><span class="sxs-lookup"><span data-stu-id="daabe-105">In the message list, click an email message for which you want o create a rule.</span></span>
+2. <span data-ttu-id="6e4e5-105">Klik på en e-mail-meddelelse, du vil o i meddelelseslisten, oprette en regel.</span><span class="sxs-lookup"><span data-stu-id="6e4e5-105">In the message list, click an email message for which you want o create a rule.</span></span>
 
-3. <span data-ttu-id="daabe-106">Klik på **regler**under fanen **Startside** , og klik derefter på **Opret regel**.</span><span class="sxs-lookup"><span data-stu-id="daabe-106">On the **Home** tab, click **Rules**, and then click **Create Rule**.</span></span>
+3. <span data-ttu-id="6e4e5-106">Klik på **regler**under fanen **Startside** , og klik derefter på **Opret regel**.</span><span class="sxs-lookup"><span data-stu-id="6e4e5-106">On the **Home** tab, click **Rules**, and then click **Create Rule**.</span></span>
 
-4. <span data-ttu-id="daabe-107">Redigere kriterierne efter behov under **Når der modtages en ny meddelelse** .</span><span class="sxs-lookup"><span data-stu-id="daabe-107">Under **When a new message arrives** edit the criteria to suit your needs.</span></span> 
+4. <span data-ttu-id="6e4e5-107">Redigere kriterierne efter behov under **Når der modtages en ny meddelelse** .</span><span class="sxs-lookup"><span data-stu-id="6e4e5-107">Under **When a new message arrives** edit the criteria to suit your needs.</span></span> 
 
-<span data-ttu-id="daabe-108">Detaljerede oplysninger om oprettelse af brugerdefinerede regler, under [oprette en regel i Outlook til Mac](https://aka.ms/AA1uy0v)</span><span class="sxs-lookup"><span data-stu-id="daabe-108">For detailed instructions on creating custom rules, see [Create a rule in Outlook for Mac](https://aka.ms/AA1uy0v)</span></span>
+<span data-ttu-id="6e4e5-108">Detaljerede oplysninger om oprettelse af brugerdefinerede regler, under [oprette en regel i Outlook til Mac](https://aka.ms/AA1uy0v)</span><span class="sxs-lookup"><span data-stu-id="6e4e5-108">For detailed instructions on creating custom rules, see [Create a rule in Outlook for Mac](https://aka.ms/AA1uy0v)</span></span>
   
