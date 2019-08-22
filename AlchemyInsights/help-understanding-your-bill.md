@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 3a0b1c52c54773d51467c6c427374c9270ac6938
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389062"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523073"
 ---
 # <a name="help-understanding-your-bill"></a>Hjælpe med at forstå din regning
 
-Faktureret beløb afspejler licens pris multipliceret med antallet licenser, der er købt og eventuelle obligatoriske afgifter/gebyrer.
+Det beløb, der faktureres for din Office 365 for business-abonnement afspejler licens pris multipliceret med antallet licenser, der er købt og eventuelle obligatoriske afgifter/gebyrer.
   
-Dette kan ske, hvis faktureret beløb er anderledes end forventet, der er flere grunde:
+Hvis faktureret beløb er forskellig forventet derefter, er der flere grunde, som dette kan ske:
   
-- Licenser, der er tilføjet eller fjernet fra dit abonnement. Når licenser er ændrede midtvejsevaluering, afspejles dette i følgende faktura. Du kan se en kredit, som igen faktureres for den forrige serviceperiode at gøre rede for denne ændring.
+- Licenser blev tilføjet eller fjernet fra dit abonnement. Når licenser er ændrede midtvejsevaluering, afspejles dette i følgende faktura. Du kan se en kredit, som igen faktureres for den forrige serviceperiode at gøre rede for denne ændring.
 
 - Abonnementet blev annulleret. Du modtager en faktura efter annullering med eventuelle udestående saldo minus evt.
 
 - Abonnementet fornyes for et nyt ord og licens prisen ændres.
 
-Yderligere oplysninger om fakturaen du: [få din faktura](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Finde flere oplysninger om din faktura: [lære din faktura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
