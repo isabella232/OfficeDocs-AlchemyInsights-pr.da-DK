@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166074"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511487"
 ---
-# <a name="see-your-own-email-address"></a>Se din egen e-mail-adresse
+# <a name="see-your-own-outlookcom-email-address"></a>Se din egen e-mail-adresse til Outlook.com
 
 Gå til [synkronisering af e-mail-indstillinger](https://outlook.live.com/mail/options/mail/accounts) for at se den standard e-mail-adresse, du bruger, når du sender e-mail, og se under **angive fra-adresse**.
 

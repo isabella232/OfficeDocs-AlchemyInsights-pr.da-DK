@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407572"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516270"
 ---
 # <a name="create-a-communication-site"></a>Oprette et kommunikationswebsted til
 
-Hvis du vil oprette et kommunikationswebsted til, ved at benytte følgende fremgangsmåde: 
+Hvis du vil oprette et kommunikationswebsted i SharePoint Online, skal du udføre følgende trin: 
   
 1. Klik på ikonet til åbning af app i øverste venstre hjørne af siden, og vælg SharePoint-flisen. Hvis du ikke kan se SharePoint-flisen, skal du klikke på **websteder** eller **alle apps** , hvis SharePoint ikke er synlig. 
     
