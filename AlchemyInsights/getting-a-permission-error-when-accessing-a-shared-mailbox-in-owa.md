@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: 069ffc701a4188e086b45c6691362cb2d82b17fb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: af3f4f55332d5332d00fddd3f7d6a3bf60523ada
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386763"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523901"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="9e92c-102">Få en tilladelse fejl, når du åbner en delt postkasse i Outlook på internettet?</span><span class="sxs-lookup"><span data-stu-id="9e92c-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="4238e-102">Få en tilladelse fejl, når du åbner en delt postkasse i Outlook på internettet?</span><span class="sxs-lookup"><span data-stu-id="4238e-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
 
-<span data-ttu-id="9e92c-103">Hvis du får fejlen **noget er gået galt. Du har ikke tilladelse til at åbne denne postkasse.**</span><span class="sxs-lookup"><span data-stu-id="9e92c-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="9e92c-104">Når du forsøger at åbne en delt postkasse i Outlook på internettet, kan din konto ikke har tilladelse til at få adgang til den delte postkasse.</span><span class="sxs-lookup"><span data-stu-id="9e92c-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="9e92c-105">Organisationens administrator kan tildele dine rettigheder med hensyn til den delte postkasse ved at følge vejledningen i emnet [oprette en delt postkasse](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="9e92c-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
+<span data-ttu-id="4238e-103">Hvis du får fejlen **noget er gået galt. Du har ikke tilladelse til at åbne denne postkasse.**</span><span class="sxs-lookup"><span data-stu-id="4238e-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="4238e-104">Når du forsøger at åbne en delt postkasse i Outlook på internettet, kan din konto ikke har tilladelse til at få adgang til den delte postkasse.</span><span class="sxs-lookup"><span data-stu-id="4238e-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="4238e-105">Organisationens administrator kan tildele dine rettigheder med hensyn til den delte postkasse ved at følge vejledningen i emnet [oprette en delt postkasse](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span><span class="sxs-lookup"><span data-stu-id="4238e-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
   
