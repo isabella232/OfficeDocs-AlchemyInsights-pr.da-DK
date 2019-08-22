@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: d8be2a6d0c8a86fbcc86fb32c4150df28bb97ee6
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606640"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542093"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>Sådan annullerer du software som en service-apps 
 
-1. Gå til **Fakturering** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) side og derefter vælge fanen **Apps** .
+1. I Microsoft 365 admin center til **Fakturering** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) side og derefter vælge fanen **Apps** .
 
 2. Find og vælg den app, du vil administrere.
 
