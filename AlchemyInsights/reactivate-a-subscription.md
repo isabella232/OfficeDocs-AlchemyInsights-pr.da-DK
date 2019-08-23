@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391046"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553354"
 ---
-# <a name="reactivate-a-subscription"></a><span data-ttu-id="d7180-102">Genaktivere et abonnement</span><span class="sxs-lookup"><span data-stu-id="d7180-102">Reactivate a subscription</span></span>
+# <a name="reactivate-an-office-365-subscription"></a><span data-ttu-id="0f9a1-102">Genaktivere en Office 365-abonnement</span><span class="sxs-lookup"><span data-stu-id="0f9a1-102">Reactivate an Office 365 subscription</span></span>
 
-<span data-ttu-id="d7180-103">Hvis dit abonnement udløber, blev deaktiveret af Microsoft, eller blev annulleret i midten af en abonnementsperiode, kan du genaktivere det i admin center.</span><span class="sxs-lookup"><span data-stu-id="d7180-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
+<span data-ttu-id="0f9a1-103">Hvis dit abonnement udløber, blev deaktiveret af Microsoft, eller blev annulleret i midten af en abonnementsperiode, kan du genaktivere det i admin center.</span><span class="sxs-lookup"><span data-stu-id="0f9a1-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
   
-1. <span data-ttu-id="d7180-104">Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="d7180-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="0f9a1-104">Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.</span><span class="sxs-lookup"><span data-stu-id="0f9a1-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="d7180-105">Vælg det abonnement, du vil genaktivere, og derefter vælge **genaktivere**.</span><span class="sxs-lookup"><span data-stu-id="d7180-105">Choose the subscription that you want to reactivate, then choose **Reactivate**.</span></span>
+2. <span data-ttu-id="0f9a1-105">Vælg det abonnement, du vil genaktivere.</span><span class="sxs-lookup"><span data-stu-id="0f9a1-105">Choose the subscription that you want to reactivate.</span></span> <span data-ttu-id="0f9a1-106">Vælg i afsnittet fakturering **genaktivere**.</span><span class="sxs-lookup"><span data-stu-id="0f9a1-106">In the Billing section, select **Reactivate**.</span></span>
 
-    <span data-ttu-id="d7180-106">Hvis du ikke kan se **genaktiveres** som en handling, der er tilgængelige, kan du bruge indstillingen "Lad os ringe dig" til at tale med en konsulent om at aktivere dit abonnement.</span><span class="sxs-lookup"><span data-stu-id="d7180-106">If you do not see **Reactivate** as an available action, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span>
+    <span data-ttu-id="0f9a1-107">Hvis du ikke kan se **genaktiveres** som en tilgængelig handling [Kontakt support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) du genaktiverer abonnementet.</span><span class="sxs-lookup"><span data-stu-id="0f9a1-107">If you don't see **Reactivate** as an available action, [call support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) to reactivate your subscription.</span></span>
 
-3. <span data-ttu-id="d7180-107">Angiv dine betalingsoplysninger.</span><span class="sxs-lookup"><span data-stu-id="d7180-107">Enter your payment details.</span></span> <span data-ttu-id="d7180-108">Du kan opdatere dine eksisterende betalingsoplysninger her.</span><span class="sxs-lookup"><span data-stu-id="d7180-108">You can update your existing payment information here.</span></span>
+3. <span data-ttu-id="0f9a1-108">Bekræft dine betalingsoplysninger.</span><span class="sxs-lookup"><span data-stu-id="0f9a1-108">Confirm your payment details.</span></span> <span data-ttu-id="0f9a1-109">Du kan opdatere dine eksisterende betalingsoplysninger her.</span><span class="sxs-lookup"><span data-stu-id="0f9a1-109">You can update your existing payment information here.</span></span> <span data-ttu-id="0f9a1-110">Når du er færdig med at angive din betalingsmetode, du Vælg at **genaktivere**.</span><span class="sxs-lookup"><span data-stu-id="0f9a1-110">When you're finished entering your payment method, select **Reactivate**.</span></span>
 
-<span data-ttu-id="d7180-109">Bruger du den nye admin center?</span><span class="sxs-lookup"><span data-stu-id="d7180-109">Are you using the new admin center?</span></span> <span data-ttu-id="d7180-110">Nyt trin du [genaktiverer abonnementet](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="d7180-110">For new steps, see [Reactivate your subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="0f9a1-111">Yderligere oplysninger finder du under [aktivere dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="0f9a1-111">For more information, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
