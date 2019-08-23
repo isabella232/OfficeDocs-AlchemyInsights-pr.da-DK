@@ -11,16 +11,16 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: cc0d14d1dd1dc2aec3916d69f7804359de58b604
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379923"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544677"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Når du får fejlen "Ikke et accepteret domæne"
 
-Når du forsøger at tilføje en mailadresse på brugeren eller gruppen eller under migrering af postkasser, får du muligvis vist følgende fejl: **Du kan ikke bruge domænet, fordi det endnu ikke er et accepteret domæne til Exchange-systemet.**
+Når du forsøger at tilføje en mailadresse på brugeren eller gruppen eller under migrering af Office 365-postkasser, får du muligvis vist følgende fejl: **Du kan ikke bruge domænet, fordi det endnu ikke er et accepteret domæne til Exchange-systemet.**
   
 I de fleste tilfælde er denne fejl et resultat af domænenavnet *(f.eks. contoso.com)*, som ikke er konfigureret fuldt ud for din organisation.
   
