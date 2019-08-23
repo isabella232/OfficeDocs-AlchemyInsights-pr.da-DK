@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601993"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535349"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Stop meddelelser i at gå til mappen Uønsket E-mail
 
-Der er tidspunkter, hvor du ikke ønsker, at meddelelser fra en bestemt person eller det domæne, der ender i mappen Uønsket E-mail. Meddelelser fra adresser eller domæner på listen Afsendere, der får ikke flyttet til mappen Uønsket E-mail.
+Der er tidspunkter, hvor du ikke ønsker, at meddelelser fra en bestemt person eller det domæne, der ender i mappen Uønsket E-mail i Outlook.com. Meddelelser fra adresser eller domæner på listen Afsendere, der får ikke flyttet til mappen Uønsket E-mail.
 
 1. Åbn [Indstillinger for afsendere](https://go.microsoft.com/fwlink/?linkid=2035804).
 2. Angiv den e-mail-adresse eller det domæne, du vil tilføje, og vælg **Tilføj**under **afsendere og domæner**.

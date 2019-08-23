@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: 3198113aea314252399c98f5654654663366b0a1
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: ff539417606ebe2b78e484a96bc384ed33e6c994
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045387"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543091"
 ---
 # <a name="onenote-class-notebook-issues-and-resolutions"></a>OneNote-notesbog til klasse problemer og løsninger
 
@@ -28,7 +28,7 @@ Her er nogle emner, der ofte anmodes om og fejlfinding for bærbare pc'er klasse
 
 - **Fjerne studerende:** Start med at [fjerne de studerende i klasse notesbog i OneNote](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c). Problemer i forbindelse med fjernelse af studerende, kan finde [studerende blev slettet, men deres mappe vises stadig](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
 
-- **Nye lærere:** Gennemse [tilføje eller fjerne kombineret lærere i klassen notesbog i OneNote](https://support.office.com/en-us/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) , eller [overføre bærbar pc til en ny lærer](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027)så nye lærere oprettet deres klasse-notesbog.
+- **Nye lærere:** Gennemse [tilføje eller fjerne kombineret lærere i klassen notesbog i OneNote](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) , eller [overføre bærbar pc til en ny lærer](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027)så nye lærere oprettet deres klasse-notesbog.
 
 Hvis du oplever problemet ikke er angivet her, kan du se afsnittet [fejlfinding](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) af [Bærbar pc](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea). 
 

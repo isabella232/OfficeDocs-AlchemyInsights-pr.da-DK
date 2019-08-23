@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372950"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555371"
 ---
 # <a name="enable-password-sync"></a>Aktiver synkronisering af adgangskode
 
-1.  Vælg **DirSync Status** på hjemmesiden O365 Admin Center. 
+1.  Vælg **DirSync Status** på hjemmesiden Microsoft 365 admin center. 
     
-     * Alternativt kan du gå til **brugere** \> ** aktive brugere **, og vælg **flere** på siden aktive brugere \> **Directory synchronization.** * 
+     *Alternativt kan du gå til **brugere** \> **aktive brugere**, og vælg **flere** på siden aktive brugere \> **Directory synchronization.*** 
     
 2. Vælg **Gå til administration af DirSync**ruden katalogsynkronisering. 
     

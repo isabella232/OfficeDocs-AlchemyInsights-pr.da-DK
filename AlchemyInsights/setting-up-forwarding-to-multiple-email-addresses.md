@@ -11,19 +11,19 @@ ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 7d2be8292d43c2bd124380700e4e7e5b10365b13
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c97bbeff15cf615d25c43be49f72f90809a4178b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368723"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549789"
 ---
 # <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Opsætning af viderestilling til flere e-mail-adresser
 
-Hvis du vil konfigurere e-mail-videresendelse til en gruppe brugere, oprette en distributionsliste, føje flere brugere til den og derefter konfigurere viderestilling til listen. Først gå til [Administrer grupper](https://portal.office.com/adminportal/home#/groups)
+Hvis du vil konfigurere e-mail-videresendelse til en gruppe brugere, oprette en distributionsliste, føje flere brugere til den og derefter konfigurere viderestilling til listen. Gå først til **grupper**i centeret administration > [grupper](https://portal.office.com/adminportal/home#/groups).
   
-1. Oprette en *distributionsliste*
+1. Oprette en gruppe.
 
-2. Føje flere brugere til den
+2. Du kan føje flere brugere til den.
 
-3. Konfigurer viderestilling af postkassen til den pågældende gruppe
+3. Konfigurer viderestilling af postkassen til den pågældende gruppe.

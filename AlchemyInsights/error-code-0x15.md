@@ -12,13 +12,15 @@ ms.custom:
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
 description: Hvis du modtager en fejl under aktivering af Office-2013 på Remote Desktop Services (RDS) installationer, kan du overveje at aktivere ADAL ved at redigere registreringsdatabasen.
-ms.openlocfilehash: e2249d8ebbd2313c64dda5656a3243fa76d97a9a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4ef2943e5a529368fa2c614e4431cf180924fbb8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388239"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526978"
 ---
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Der opstod fejl under aktivering af Office-2013 på Fjernskrivebord-tjenester
+
 Hvis du modtager en fejl under aktivering af Office-2013 på Remote Desktop Services (RDS) installationer, kan du overveje at aktivere ADAL ved at redigere registreringsdatabasen.
   
 |**Nøgle i registreringsdatabasen**|**Type**|**Værdi**|
@@ -28,5 +30,5 @@ Hvis du modtager en fejl under aktivering af Office-2013 på Remote Desktop Serv
 Yderligere oplysninger finder du under [Aktivere moderne godkendelse for 2013 til Office på Windows-enheder](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
   
 > [!NOTE]
->  ADAL er aktiveret som standard i Office 365 ProPlus og Office 2016. > remote Desktop Services (RDS) blev tidligere kaldt Terminal Services.
+>  ADAL er aktiveret som standard i Office 365 ProPlus og Office 2016. Remote Desktop Services (RDS) blev tidligere kaldt Terminal Services.
   

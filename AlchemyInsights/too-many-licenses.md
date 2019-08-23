@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388018"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549069"
 ---
 # <a name="too-many-licenses"></a>For mange licenser?
 
-Hvis du tror, du er ved at blive faktureret for for mange licenser, skyldes dette som regel har købt flere licenser, skal du bruge.
+Hvis du tror, du er ved at blive faktureret for for mange licenser til Office 365, skyldes dette som regel har købt flere licenser, skal du bruge.
   
 **Reducere antallet af licenser købt**
   
-1. Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Vælg det abonnement, som du vil fjerne licenser til venstre.
+2. Find det abonnement, som du vil fjerne licenser og derefter vælge **Tilføj/fjern licenser**.
 
-3. Vælg **Tilføj/fjern licenser**.
+3. Angiv det samlede antal licenser, du har brug for dette abonnement i boksen **samlede licenser** , og vælg derefter **Send ændres**. Hvis du har 110 licenser, og du vil fjerne 5 af dem, Angiv 105.
 
-4. Angiv det samlede antal brugere, der skal bruges. Hvis du har i øjeblikket 25 licenser, og du vil fjerne 5, f.eks 20 i dette felt.
-
-5. Vælg **Send**.
-
-Bruger du den nye admin center? Nyt trin du [fjerne licenser fra din Office 365 for business-abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Yderligere oplysninger finder du under [fjerne licenser fra din Office 365 for business-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

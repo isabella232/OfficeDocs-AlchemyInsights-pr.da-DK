@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270666"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530861"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Arbejdsprocessen e-mail sendes ikke
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Arbejdsprocessen e-mail sendes ikke til en SharePoint-liste eller et bibliotek
 
 1. E-mail fra arbejdsprocesser sendes ikke til alle brugere eller kun bestemte brugere, eller du kan se fejlen **e-mail-meddelelsen ikke kan sendes. Kontroller, at e-mail har et gyldigt**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270666"
     - Hvis brugeren findes i gruppen tilladelser, skal du kontrollere e-mail-adresse er korrekt.
     - Hvis brugere e-mail-adressen ikke er angivet her, skal du oprette et eksempel på en skrivebordsbesked for den pågældende bruger, som gennemtvinger synkronisering af denne brugerkonto fra SharePoint bruger profiler til denne gruppe af websteder.
  
-2. E-mail fra arbejdsprocesser sendes til SharePoint Designer, men ikke til andre brugere og se fejlen **http-forbudt at <spam> <spam> ** <spam> <spam>.
+2. E-mail fra arbejdsprocesser sendes til SharePoint Designer, men ikke til andre brugere og se fejlen **http-forbudt at <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Se [Adgang nægtet, når sendt e-mail til grupper](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Se [Adgang nægtet, når du sender en e-mail til en SharePoint-gruppe](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Du skal også kontrollere, at funktionen **begrænset adgang tilladelse lockdown brugertilstand** websted websteder ikke er aktiv.
 
