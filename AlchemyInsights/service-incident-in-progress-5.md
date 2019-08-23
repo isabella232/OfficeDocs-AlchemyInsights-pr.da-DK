@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7c2982534180d21a2ef7af203587cfbf96d3011a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369083"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550617"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="0b777-102">Servicehændelse i gang</span><span class="sxs-lookup"><span data-stu-id="0b777-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="a8d77-102">Servicehændelse i gang</span><span class="sxs-lookup"><span data-stu-id="a8d77-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="0b777-103">Du kan være påvirket af en hændelse med tjenesten eller rådgivende, der er i øjeblikket ved at undersøge.</span><span class="sxs-lookup"><span data-stu-id="0b777-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="0b777-104">Du kan kontrollere den seneste status ved at gå til siden [Service sundhed](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="0b777-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="a8d77-103">Du kan være påvirket af en hændelse med tjenesten eller rådgivende, der er i øjeblikket ved at undersøge.</span><span class="sxs-lookup"><span data-stu-id="a8d77-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="a8d77-104">Du kan kontrollere den seneste status ved at gå til siden [Service sundhed](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="a8d77-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="0b777-105">Du kan finde en oversigt over dette nedenfor for din bekvemmelighed:</span><span class="sxs-lookup"><span data-stu-id="0b777-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="a8d77-105">Du kan finde en oversigt over dette nedenfor for din bekvemmelighed:</span><span class="sxs-lookup"><span data-stu-id="a8d77-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="0b777-106">**Hændelse nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="0b777-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="a8d77-106">**Hændelse nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="a8d77-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="0b777-107">Påvirke beskrivelse: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="0b777-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="a8d77-107">Påvirke beskrivelse: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="a8d77-107">Impact description: {ImpactDescription}</span></span>

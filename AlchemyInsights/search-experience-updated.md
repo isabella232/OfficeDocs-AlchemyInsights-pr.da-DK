@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: f5f70298e773722ea1f982f9d17aca45997b096c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355943"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551481"
 ---
-# <a name="search-experience-updated"></a><span data-ttu-id="ec111-102">Søgeoplevelse opdateret</span><span class="sxs-lookup"><span data-stu-id="ec111-102">Search experience updated</span></span>
+# <a name="search-experience-updated"></a><span data-ttu-id="76698-102">Søgeoplevelse opdateret</span><span class="sxs-lookup"><span data-stu-id="76698-102">Search experience updated</span></span>
 
-<span data-ttu-id="ec111-103">Søgning er nu placeret i bunden af programmet.</span><span class="sxs-lookup"><span data-stu-id="ec111-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="ec111-104">Vælge det giver dig direkte adgang til øverste kontaktpersoner, kommende rejse Ruteangivelse, pakke leverancer og nye vedhæftede filer.</span><span class="sxs-lookup"><span data-stu-id="ec111-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="ec111-105">Du kan søge efter e-mails, filer og kontaktpersoner i alle konti fra en enkelt søgefeltet eller brug vores nye filtre til at indsnævre søgningen.</span><span class="sxs-lookup"><span data-stu-id="ec111-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
+<span data-ttu-id="76698-103">Søgning er nu placeret i bunden af programmet.</span><span class="sxs-lookup"><span data-stu-id="76698-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="76698-104">Vælge det giver dig direkte adgang til øverste kontaktpersoner, kommende rejse Ruteangivelse, pakke leverancer og nye vedhæftede filer.</span><span class="sxs-lookup"><span data-stu-id="76698-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="76698-105">Du kan søge efter e-mails, filer og kontaktpersoner i alle konti fra en enkelt søgefeltet eller brug vores nye filtre til at indsnævre søgningen.</span><span class="sxs-lookup"><span data-stu-id="76698-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>

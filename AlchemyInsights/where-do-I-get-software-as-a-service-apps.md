@@ -1,5 +1,5 @@
 ---
-title: Hvor får software som en service (Saas) apps?
+title: Hvor får software som en service (SaaS) apps?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 61a8d241e992cc73f1a3ac253365ac21d5e2f3d4
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606650"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558539"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps"></a><span data-ttu-id="02b93-102">Hvor får software som en service (Saas) apps?</span><span class="sxs-lookup"><span data-stu-id="02b93-102">Where do I get software-as-a-service (Saas) apps?</span></span>
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="3dee1-102">Hvor få software som en service (SaaS) apps fra Microsoft-partnere?</span><span class="sxs-lookup"><span data-stu-id="3dee1-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
 
-<span data-ttu-id="02b93-103">Kunder kan købe Saas apps fra [Appsource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="02b93-103">Customers can purchase Saas apps from [Appsource](http://www.appsource.com/).</span></span>
+<span data-ttu-id="3dee1-103">Kunder kan søge efter, undersøge og købe SaaS apps fra [AppSource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="3dee1-103">Customers can search for, research, and purchase SaaS apps from [AppSource](http://www.appsource.com/).</span></span>
