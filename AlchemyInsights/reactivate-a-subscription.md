@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391046"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553354"
 ---
-# <a name="reactivate-a-subscription"></a>Genaktivere et abonnement
+# <a name="reactivate-an-office-365-subscription"></a>Genaktivere en Office 365-abonnement
 
 Hvis dit abonnement udløber, blev deaktiveret af Microsoft, eller blev annulleret i midten af en abonnementsperiode, kan du genaktivere det i admin center.
   
-1. Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Vælg det abonnement, du vil genaktivere, og derefter vælge **genaktivere**.
+2. Vælg det abonnement, du vil genaktivere. Vælg i afsnittet fakturering **genaktivere**.
 
-    Hvis du ikke kan se **genaktiveres** som en handling, der er tilgængelige, kan du bruge indstillingen "Lad os ringe dig" til at tale med en konsulent om at aktivere dit abonnement.
+    Hvis du ikke kan se **genaktiveres** som en tilgængelig handling [Kontakt support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) du genaktiverer abonnementet.
 
-3. Angiv dine betalingsoplysninger. Du kan opdatere dine eksisterende betalingsoplysninger her.
+3. Bekræft dine betalingsoplysninger. Du kan opdatere dine eksisterende betalingsoplysninger her. Når du er færdig med at angive din betalingsmetode, du Vælg at **genaktivere**.
 
-Bruger du den nye admin center? Nyt trin du [genaktiverer abonnementet](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Yderligere oplysninger finder du under [aktivere dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

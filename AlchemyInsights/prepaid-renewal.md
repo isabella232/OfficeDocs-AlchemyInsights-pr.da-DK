@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388594"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554615"
 ---
-# <a name="prepaid-renewal"></a>Forudbetalte fornyelse
+# <a name="prepaid-office-365-renewal"></a>Forudbetalte fornyelse i Office 365
 
-1. Gå til **Fakturering** i Admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Vælg den forudbetalt abonnement, du vil udvide, og derefter vælge **Udvid**.
+2. Find det abonnement, du vil udvide. Vælg **Udvid slutdato**i afsnittet **Fakturering** .
 
-3. Vælg indstillingen for **produktnøglen**. (Hvis dette var en produktnøgle, der er købt hos en detail, kan du have mulighed for at udvide med andre betalingsmetoder).
+3. Vælg **Brug en ny og ubrugt produktnøgle**i ruden **Udvid abonnement** og derefter vælge **Næste**.
 
-4. Angive produktnøglen.
+4. Angive produktnøglen og derefter klikke på **Næste**.
 
-5. Kontroller, at oplysningerne er korrekte, og vælg **Næste**.
+> [!NOTE]
+> Hvis du har mere end én produktnøgle, kan du vælge at **tilføje en anden produktnøgle** indtastes.
 
-6. Vælg alternativknappen udvide slutdatoen for eksisterende licenser, og derefter vælge **Næste**.
+5. Få vist dine ordreoplysninger og derefter vælge **Indløs**.
 
-Bruger du den nye admin center? Se [tilføje licenser til eller udvide et abonnement, der er betalt for at bruge en produktnøgle](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key)til nyt trin.
+Yderligere oplysninger finder du under [tilføje licenser til eller udvide et abonnement, der betales ved hjælp af en produktnøgle](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356591"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553426"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Tilbagekalde eller erstatte en e-mail-meddelelse
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Tilbagekalde eller erstatte en e-mail i Office 365
 
 - Du kan **kun tilbagekaldelse af meddelelser, der sendes til personer i organisationen**. Hvis meddelelsen blev sendt til en Gmail-adresse, for eksempel, ikke kan du huske den.
 - Du kan **kun tilbagekaldelsesmeddelelsen, der sendes fra Outlook 2016 til PC**. Hvis en bruger sender en meddelelse ved hjælp af Outlook til Mac eller Outlook på World Wide web, kan du trække den tilbage.
 - Hvis du er administrator, kan du **tilbagekaldelsesmeddelelsen på vegne af brugere ved hjælp af PowerShell**. Du kan ikke trække meddelelser fra admin center. Rul ned til "Søg efter og slette e-mail-meddelelser i din organisation" for at få yderligere oplysninger.
 
-***Tilbagekalde eller erstatte en e-mail-meddelelse, du har sendt***
+**Tilbagekalde eller erstatte en e-mail-meddelelse, du har sendt**
 
 1. Vælg mappen Sendt post i mapperuden i Outlook-vinduet til venstre.
 2. Åbn den meddelelse, du vil tilbagekalde. Du skal dobbeltklikke for at åbne meddelelsen. At markere meddelelsen, så den vises i læseruden, kan du tilbagekalde meddelelsen ikke.
