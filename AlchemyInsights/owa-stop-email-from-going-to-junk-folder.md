@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 8749b365638a2c5441743cd6d58f2728a36914ef
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 19873107de9450cd276253194c08cd0a84cd4a82
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204126"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555731"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Stop meddelelser i at gå til mappen Uønsket E-mail
+# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Stop meddelelser fra at gå til mappen Uønsket E-mail i Outlook på internettet
 
 Hvis du opdager, at en e-mail-meddelelse i mappen Uønsket E-mail ikke uønsket:
 

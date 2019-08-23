@@ -1,5 +1,5 @@
 ---
-title: WD fil åbnes ikke ved dobbeltklik
+title: Word-filen åbnes ikke ved dobbeltklik
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752756"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558179"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>Løsninger til filer, der er åbne i forkerte apps
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument åbnes i den forkerte app eller åbne ikke
 
 Prøv en af disse forslag:
 
 **Vælge Word som standard**
 
-* Højreklik på dokumentet, vælge **Åbn med**og derefter vælge **Word**
+- Højreklik på dokumentet, vælge **Åbn med**og derefter vælge **Word**
 
 **Køre en hurtig reparation**
 

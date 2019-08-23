@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754924"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498949"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>Om tvister lastrum og lokal ventepositioner
+
 - Hvis du vil anvende en retssag hold hold eller en lokal til en postkasse, der kræves en [licens til Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Hvis du har en anden Plan, kan du tildele en separat licens til [Exchange Online arkivering](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) til kontoen. 
     
 - **At aktivere en retssag hold** for en enkelt bruger, skal du følge fremgangsmåden [her](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Når tvister hold er aktiveret, placeres alle indholdet i postkassen på hold.
