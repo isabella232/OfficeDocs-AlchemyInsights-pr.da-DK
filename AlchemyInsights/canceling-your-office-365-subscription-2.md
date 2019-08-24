@@ -13,19 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520949"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576086"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Hvis du annullerer din Office 365-abonnement?
 
 Vi beklager, at du går!
   
-Baseret på organisationens data, mener vi, at alle dine aktuelle abonnementer har mere end 25 tildelte licenser. Du kan fjerne brugere, indtil du har færre end 25, og gå derefter til **Fakturering** \> [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) og derefter vælge **flere handlinger** \> **opsigelse af abonnement**.
+Baseret på organisationens data, mener vi, at alle dine aktuelle abonnementer har mere end 25 tildelte licenser. Du kan fjerne brugere, indtil du har færre end 25, og gå derefter til **Fakturering** \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester. I afsnittet **Indstillinger for & handlinger** ved at vælge **Annuller abonnement**.
   
-Du kan også bruge indstillingen "Lad os ringe dig" til at tale med en supporttekniker.
+Du kan også vælge **har brug for hjælp** til at tale med en supporttekniker.
   
-Hvis du vil vide mere om annullering af et abonnement eller en trinvis vejledning, kan du se denne artikel: [opsige dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Bruger den gamle admin center? For gamle trin, eller du vil vide mere, kan du se [annullere abonnementet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

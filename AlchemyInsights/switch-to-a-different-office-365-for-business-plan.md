@@ -13,12 +13,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534161"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575978"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Skifte til et andet Office 365 til Business Plan
 
@@ -34,4 +34,4 @@ Når din virksomhed ændres, eller du har brug for flere funktioner i Office 365
 
 5. Angiv antallet af licenser, skal du vælge at betale hver måned eller for hele året og derefter vælge **Check ud**.
    
-Yderligere oplysninger finder du under [opgradere til en anden model](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+Bruger den gamle admin center? For gamle trin, eller hvis du vil vide mere, kan du se at [opgradere til en anden model](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

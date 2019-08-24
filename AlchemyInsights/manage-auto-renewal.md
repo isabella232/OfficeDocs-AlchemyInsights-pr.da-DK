@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1adf0879ad7e4a0152315d4c7ce290b386de13da
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542432"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576014"
 ---
 # <a name="manage-recurring-billing"></a>Administrere tilbagevendende fakturering
 
 Du kan slå tilbagevendende fakturering til eller fra i Microsoft 365 admin center.
   
-1. Gå til **Fakturering** > [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
+1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
 2. Klik på **Rediger**under **Fakturering**, ved siden af **Renews på** eller **Expiring på**.
 
-3. I ruden **tilbagevendende fakturering indstillinger** Vælg **tilbagevendende fakturering OFF** til at deaktivere den. Hvis **tilbagevendende fakturering** er allerede slået fra, kan du vælge **hver måned** eller **en gang** til at slå.
+3. Vælg **Slå fra,** slå den fra i ruden **tilbagevendende fakturering indstillinger** . Hvis tilbagevendende fakturering er allerede slået fra, kan du vælge **hver måned** eller **en gang** til at slå.
 
 4. Vælg **Send ændres**.
 
-Yderligere oplysninger finder du under [Slå tilbagevendende fakturering eller fra](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Bruger den gamle admin center? For gamle trin, eller du vil vide mere, kan du se [Slå tilbagevendende fakturering eller fra](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518033"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575942"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Købe yderligere licenser på Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518033"
 
     > [!NOTE]
     > Hvis du betaler for abonnementet med kreditkort eller bankkonto, findes alle nye licenser, du køber, umiddelbart efter, at du modtager en ordrebekræftelse. Hvis du betaler fakturaen, kan du muligvis vente en kreditkontrol, før din nye licenser er tilgængelige til brug.
-  
+
+Bruger den gamle admin center? For gamle trin, eller hvis du vil vide mere, kan du se [købe licenser til din Office 365 for business-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Yderligere ressourcer**
 
 - [Tildele licenser til brugere i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Yderligere oplysninger finder du i [købe licenser til din Office 365 for business-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

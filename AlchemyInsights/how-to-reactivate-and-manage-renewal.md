@@ -13,33 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 3f6ecb4c2db6f7fc8165089a5c3b8483c6b11558
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540031"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574536"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Sådan genaktiveres og administrere tilbagevendende fakturering
 
 Ser ud til du har et abonnement, der er udløbet. Hvis du vil genaktivere det, her er hvordan.
   
-1. Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
-2. Vælg det abonnement, der er **udløbet** eller **deaktiveret**.
+2. Find det abonnement, du vil genaktivere. Vælg i afsnittet **Fakturering** **genaktivere**.
 
-3. Du kan vælge at **aktivere igen**.
+    Hvis du ikke kan se **genaktiveres** som en indstilling, kan du bruge knappen "Har brug for hjælp" til at tale med en konsulent om at aktivere dit abonnement.
 
-    Hvis du ikke kan se **genaktiveres** som en indstilling, kan du bruge indstillingen "Lad os ringe dig" til at tale med en konsulent om at aktivere dit abonnement.
+3. Bekræft dine betalingsoplysninger. Du kan opdatere dine eksisterende betalingsoplysninger her. Når du er færdig med at angive din betalingsmetode, du Vælg at **genaktivere**.
 
-4. Hvis du vil genaktivere, bliver du bedt om at opdatere dine betalingsoplysninger. Indtast dine betalingsoplysninger, og vælg **Send**.
+Bruger den gamle admin center? For gamle trin, eller hvis du vil vide mere, kan du se [genaktivere dit abonnement](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Hvis du vil administrere, månedligt eller årligt faktureringer du kan skifte **tilbagevendende fakturering** til eller fra.
   
-1. Gå til **Fakturering** i admin center, \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
 
 2. Vælg det abonnement, som du vil administrere tilbagevendende fakturering.
 
-3. Skift den **tilbagevendende fakturering** slå til **eller **fra**** .
+3. Klik på **Rediger**under **Fakturering**, ved siden af **Renews på** eller **Expiring på**.
 
-Yderligere oplysninger finder du under [Slå tilbagevendende fakturering eller fra](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+4. Vælg **Slå fra,** slå den fra i ruden **tilbagevendende fakturering indstillinger** . Hvis tilbagevendende fakturering er allerede slået fra, kan du vælge **hver måned** eller **en gang** til at slå.
+
+5. Vælg **Send ændres**.
+
+Bruger den gamle admin center? For gamle trin, eller du vil vide mere, kan du se [Slå tilbagevendende fakturering eller fra](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
