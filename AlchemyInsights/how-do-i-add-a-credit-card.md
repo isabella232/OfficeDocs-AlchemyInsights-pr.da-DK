@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523037"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575638"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Hvordan tilføjer jeg et kreditkort?
 
@@ -30,4 +30,4 @@ ms.locfileid: "36523037"
 
 4. Angiv oplysningerne for det nye kreditkort eller den nye bankkonto, og vælg derefter **Gem**.
 
-For flere oplysninger kan du se [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Bruger du stadig den gamle Administration? For gamle trin, eller for at få mere at vide, se [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

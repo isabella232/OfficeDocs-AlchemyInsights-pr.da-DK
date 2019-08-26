@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 85e6691e02ae04fd2813dc8a883b879ff4bca1ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522785"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575336"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hvordan opdaterer jeg mine kreditkortoplysninger?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36522785"
 
 4. Opdater dine kreditkort- eller bankkontooplysninger (navn på kreditkortet eller bankkontoen, faktureringsadresse, telefonnummer eller udløbsdato) efter behov, og vælg derefter **Gem** > **Udført**.
 
-For flere oplysninger kan du se [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Bruger du stadig den gamle Administration? For gamle trin, eller for at få mere at vide, se [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
