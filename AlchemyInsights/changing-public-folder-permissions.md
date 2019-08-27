@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: edcbab6f-09f6-44d7-9426-a2fcdda265db
-ms.openlocfilehash: 0573a98b82539865d9ed1b16e12896e2e7879961
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc08ef6df1afb98653bb682302433d532d64c6ea
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520589"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631657"
 ---
-# <a name="changing-public-folder-permissions"></a><span data-ttu-id="3e097-102">Ændring af tilladelser til offentlige mapper</span><span class="sxs-lookup"><span data-stu-id="3e097-102">Changing public folder permissions</span></span>
+# <a name="changing-public-folder-permissions"></a><span data-ttu-id="59a6d-102">Ændring af tilladelser til offentlige mapper</span><span class="sxs-lookup"><span data-stu-id="59a6d-102">Changing public folder permissions</span></span>
 
-<span data-ttu-id="3e097-103">Du og dine brugere kan ændre tilladelser til offentlige mapper i Outlook.</span><span class="sxs-lookup"><span data-stu-id="3e097-103">You and your users can change Public folder permissions in Outlook.</span></span> <span data-ttu-id="3e097-104">Se [angive eller ændre tilladelser for en offentlig mappe](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005).</span><span class="sxs-lookup"><span data-stu-id="3e097-104">See [Set or change permissions for a public folder](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005).</span></span> <span data-ttu-id="3e097-105">Administratorer kan også ændre tilladelser i Exchange admin center:</span><span class="sxs-lookup"><span data-stu-id="3e097-105">Admins can also change permissions in the Exchange admin center:</span></span>
+<span data-ttu-id="59a6d-103">Du og dine brugere kan ændre tilladelser til offentlige mapper i Outlook.</span><span class="sxs-lookup"><span data-stu-id="59a6d-103">You and your users can change Public folder permissions in Outlook.</span></span> <span data-ttu-id="59a6d-104">Se [angive eller ændre tilladelser for en offentlig mappe](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005).</span><span class="sxs-lookup"><span data-stu-id="59a6d-104">See [Set or change permissions for a public folder](https://support.office.com/article/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005).</span></span> <span data-ttu-id="59a6d-105">Administratorer kan også ændre tilladelser i Exchange admin center:</span><span class="sxs-lookup"><span data-stu-id="59a6d-105">Admins can also change permissions in the Exchange admin center:</span></span>
   
-- <span data-ttu-id="3e097-106">Gå til **Admin ressourcer** i Microsoft 365 admin center, \> **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="3e097-106">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1.  <span data-ttu-id="59a6d-106">Gå til **Admin ressourcer** i Microsoft 365 admin center, \> **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="59a6d-106">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
     
-- <span data-ttu-id="3e097-107">Vælg **offentlige mapper**.</span><span class="sxs-lookup"><span data-stu-id="3e097-107">Choose **Public folders**.</span></span>
+2. <span data-ttu-id="59a6d-107">Vælg **offentlige mapper**.</span><span class="sxs-lookup"><span data-stu-id="59a6d-107">Select **Public folders**.</span></span>
     
-<span data-ttu-id="3e097-108">Du kan ændre tilladelser for individuelle offentlige mapper ved at tildele brugere af sikkerhedsgrupper tilladelser derfra.</span><span class="sxs-lookup"><span data-stu-id="3e097-108">From there, you can change permissions for individual public folders by assigning users of security groups to Permissions.</span></span> <span data-ttu-id="3e097-109">Hvis du vil ændre tilladelser for en offentlig mappe, skal du være ejer af den.</span><span class="sxs-lookup"><span data-stu-id="3e097-109">To change permissions for a public folder, you need to be an Owner of it.</span></span>
+<span data-ttu-id="59a6d-108">Du kan ændre tilladelser for individuelle offentlige mapper ved at tildele brugere af sikkerhedsgrupper tilladelser derfra.</span><span class="sxs-lookup"><span data-stu-id="59a6d-108">From there, you can change permissions for individual public folders by assigning users of security groups to Permissions.</span></span> <span data-ttu-id="59a6d-109">Hvis du vil ændre tilladelser for en offentlig mappe, skal du være ejer af den.</span><span class="sxs-lookup"><span data-stu-id="59a6d-109">To change permissions for a public folder, you need to be an Owner of it.</span></span>
   
 
