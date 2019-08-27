@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 546d9c63d0ed37403d602e942c18d1b35caf6075
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519659"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631621"
 ---
-# <a name="cant-edit-files"></a>Kan ikke redigere filer?
+# <a name="cant-edit-files"></a>Kan ikke redigere filer? 
 
 Hvis et dokument, et regneark eller en præsentation er låst for redigering, og kan ikke åbnes i Windows-pc-programmer, kan det være, at filen allerede redigeres af en anden, eller de har filen tjekket ud. Lad os tage et hurtigt kig på nogle af årsagerne [til, at du ikke kan redigere filen](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
