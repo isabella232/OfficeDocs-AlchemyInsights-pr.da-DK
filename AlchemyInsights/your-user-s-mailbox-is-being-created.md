@@ -2,7 +2,6 @@
 title: Din brugerpostkasse oprettes
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 3/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 01d13109604410ba8ca201acb7e3b3bc2aaf6cca
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557747"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665646"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Postkassen brugere oprettes
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Postkasse Brugeroprettelse tager lang tid
 
 Det kan tage op til 24 timer, før en ny postkasse er klar til brug.
   
-Hvis brugerens postkasse er "forberedelse" af mere end en time, kan du prøve fjerne Exchange-licens fra brugeren og igen at tilføje den igen, eller Brug indstillingen "Lad os ringe dig" til at tale med en supporttekniker.
+Hvis brugerens postkasse har været "Forberedelse" i mere end en time, kan du prøve at fjerne Exchange-licens fra brugeren og tilføje det igen eller [kontakte support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).
