@@ -3,25 +3,24 @@ title: 305 øge postkassestørrelsen arkiv
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391201"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661794"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Øge postkassestørrelsen arkiv
 
 Office 365 [begrænser](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) størrelsen af arkivet postkasser, der er baseret på den licens, der er knyttet til brugerkontoen. Brugeren modtager en e-mail-besked, når postkassen arkiv når 90% af den tilladte størrelse. Når en arkiv-postkasse når maksimale størrelse, kan ikke brugeren flytte flere varer til arkiv-postkasse. Office 365 øger ikke størrelsen på en arkiv-postkasse, når grænsen er nået. I stedet kan brugere udføre følgende handlinger for at frigøre plads i postkassen arkiv:
 
-- Eksport af varer til en .pst-fil ved hjælp af Outlook
+- Eksport af varer til en .pst-fil ved hjælp af Outlook.
 
 - Slette elementer fra postkassen arkiv.
 

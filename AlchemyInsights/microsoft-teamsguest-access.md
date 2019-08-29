@@ -1,8 +1,7 @@
 ---
-title: Microsoft-Team - gæsteadgang
+title: Microsoft teams-gæsteadgang
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/18/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +11,21 @@ ms.custom:
 - "311"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 5977e5a78537912b4b2b65c578164a943d08eaa7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544718"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666978"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft-Team - gæsteadgang
+# <a name="microsoft-teams---guest-access"></a>Microsoft teams-gæsteadgang
 
-Har du brug for hjælp til at aktivere og konfigurere funktionen gæsteadgang i Microsoft Teams?
+Har du brug for hjælp til at tænde og konfigurere funktionen gæsteadgang i Microsoft teams?
 
 Her er, hvad du skal gøre:
 
-1. Tillade gæsteadgang.
-1. Føj gæster til teamet.
-1. Oprette gæst brugertilladelser.
+1. Godkend gæsteadgang.
+1. Føj gæstebrugere til dit team.
+1. Konfigurer gæstebruger tilladelser.
 
-Du kan finde flere oplysninger, herunder Sådan-videoer [gæsteadgang i Microsoft-Team](https://docs.microsoft.com/microsoftteams/guest-access).
+Du finder flere oplysninger, herunder how-to-videoer, under [gæsteadgang i Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).

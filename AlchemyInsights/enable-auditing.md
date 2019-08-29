@@ -1,9 +1,8 @@
 ---
-title: Aktivere og søge overvågningsloggen
+title: Aktivér og Søg i overvågningslog
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,36 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527717"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665070"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Aktivere og søge overvågningsloggen
+# <a name="enable-and-search-the-audit-log"></a>Aktivere og søge i overvågningsloggen
 
-For at søge i overvågningsloggen Office 365, skal du følge [disse trin](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+**Office 365**
+
+Følg [disse trin](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)for at søge i overvågningsloggen i Office 365.
 
 **Exchange**
 
-- Som standard overvåges admin valutahandel.
+- Exchange-administrationsaktiviteter revideres som standard.
 
-- Vi er ved at aktivere overvågning af postkasse som standard i Office 365. Indtil da, hvis du vil aktivere overvågning for en enkelt postkasse eller for alle postkasser i organisationen, se [denne artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Postkasseovervågning er som standard aktiveret i Office 365. Du finder flere oplysninger i [denne artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365 gruppe postkasser og offentlig mappe postkasser i Exchange Online understøtter ikke logføring af overvågning.
+- Office 365-gruppe postkasser og postkasser til offentlige mapper i Exchange Online understøtter ikke overvågningslogføring.
 
-**SharePoint- og OneDrive**
+**SharePoint og OneDrive**
 
-- Der er ingen yderligere konfiguration, der kræves for at aktivere overvågning for SharePoint og OneDrive.
+- Der kræves ingen yderligere konfiguration for at aktivere overvågning for SharePoint og OneDrive.
 
-- Revisionen følgende typer aktiviteter, SharePoint og OneDrive:
+- SharePoint og OneDrive understøtter overvågning af følgende typer aktiviteter:
 
-    - Fil, mappe og siden aktiviteter
-    - Deling og adgang til anmodning om aktiviteter
-    - Aktiviteter til administration af websted
-    - Fil synkronisering af aktiviteter
+    - Fil-, mappe-og side aktiviteter
+    - Delings-og adgangs anmodnings aktiviteter
+    - Aktiviteter for Webstedsadministration
+    - Filsynkroniserings aktiviteter
 
-- Se [tabellen i denne artikel](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)for at få oplysninger om overvågede aktiviteter i andre Office 365-tjenester.
+- Oplysninger om overvågede aktiviteter i andre Office 365-tjenester finder du [i tabellen i denne artikel](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Her er en liste over ofte stillede spørgsmål- [ofte stillede spørgsmål](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) om søgning i overvågningsloggen.
+- Her en liste over ofte stillede spørgsmål [ofte stillede spørgsmål](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) om at søge i overvågningsloggen.

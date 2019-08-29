@@ -1,9 +1,8 @@
 ---
-title: Opbevaring af OneDrive
+title: OneDrive-lager
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,18 +14,18 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 873d610ad4ee8e393eb521972dd335cc26ab4ad0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378195"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661038"
 ---
-# <a name="manage-your-onedrive-storage"></a>Administrere din OneDrive storage
+# <a name="manage-your-onedrive-storage"></a>Administrer din OneDrive-lagerplads
 
-Ændre standard-storage til nye og eksisterende brugere til OneDrive:
+Sådan ændrer du standardlageret for nye og eksisterende OneDrive-brugere:
   
-- Gå til [Lagersiden OneDrive admin Center](https://admin.onedrive.com/?v=StorageSettings), og angiv derefter et nyt beløb i GB.
+- Gå til [lagrings siden i OneDrive administration](https://admin.onedrive.com/?v=StorageSettings), og angiv derefter et nyt beløb i GB.
 
-Denne opbevaring plads indstilling gælder for alle brugere, som du ikke har angivet specifikke lagerbegrænsninger. Hvis du vil ændre lagerplads for bestemte brugere, skal du bruge Microsoft PowerShell. Oplysninger om, hvordan du gør dette, finder du i [ændre brugernes OneDrive lagerplads ved hjælp af PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). For at kontrollere, hvor meget lagerplads du bruger i dine egne OneDrive, finder du [Administrer din OneDrive til storage til virksomheder](https://go.microsoft.com/fwlink/?linkid=866429). Du kan finde info om opbevaring, der følger med hver enkelt plan [OneDrive beskrivelse af Business-service](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Denne indstilling for lagerplads gælder for alle brugere, som du ikke har angivet specifikke lagringsgrænser for. Hvis du vil ændre lagerplads for bestemte brugere, skal du bruge Microsoft PowerShell. Du kan finde oplysninger om, hvordan du gør dette, under [ændre brugernes OneDrive-lagerplads ved hjælp af PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). Du kan se, hvor meget lagerplads du bruger i dit eget OneDrive, under [administrere dit onedrive for Business-lager](https://go.microsoft.com/fwlink/?linkid=866429). Du kan finde oplysninger om den lagerplads, der følger med hver enkelt plan, i [beskrivelsen af OneDrive for Business-tjenesten](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   

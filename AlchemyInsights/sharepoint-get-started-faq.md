@@ -3,7 +3,6 @@ title: SharePoint Online almindelige problemer og løsninger
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/07/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: e6b21d4d457cacf1666a74751d285cf09a8833ea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e4a26308a371ef66e8a655cce282210df6f0247
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508359"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666078"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online almindelige problemer og løsninger
 
-Det ser ud, som du beder om SharePoint. Vi kan hjælpe med et mere præcist svar, hvis du kort omformulere dit spørgsmål med en eller to sætninger, der beskriver dit problem - herunder fejl, du bruger funktioner osv... 
-
-I mellemtiden er her nogle ofte anmodes om emner:
-
-
-
-
+Her er nogle ofte anmodes om emner til SharePoint Online problemer:
 
 - **Tilladelser**: [bygge en strategi for tilladelser](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) og [Forstå tilladelsesniveauer](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 

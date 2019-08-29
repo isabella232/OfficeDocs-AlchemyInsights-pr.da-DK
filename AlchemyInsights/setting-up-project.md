@@ -2,7 +2,6 @@
 title: Opsætning af projekt
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +10,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Fokusere på mere end 500 ord for en artikel.
-ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+description: Mål ikke mere end 500 ord for en artikel.
+ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508849"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666186"
 ---
 # <a name="setting-up-project"></a>Opsætning af projekt
 
-Ser ud som du har brug for hjælp til opsætning af projekt med dine Office 365-abonnement.
-Varsel for Mac-brugere: The Project-produkt er ikke tilgængelig for MacOS på nuværende tidspunkt. Hvis du har en PC skal du muligvis installere softwaren ved hjælp af nedenstående trin.
+ Følg trinnene i [denne artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)for at konfigurere Microsoft Project.
+
+**Bemærkning til Mac-brugere:** Project-produktet er ikke tilgængeligt til MacOS på dette tidspunkt. 
   
-Du kan følge trinene i [denne artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)for at få din installationen er fuldført.
-  
-Hvis du kører i en fejl under installationen [installerer Project ved hjælp af Support og genoprettelse-assistenten](https://aka.ms/SaRA-ProjectSetupScenario)
+Hvis du løber ind i fejl under installationen, skal du [installere Project ved hjælp af support-og genoprettelsesassistenten](https://aka.ms/SaRA-ProjectSetupScenario).

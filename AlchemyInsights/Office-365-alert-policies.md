@@ -1,9 +1,8 @@
 ---
-title: 1385-office-365-besked-politikker
+title: 1385-Office-365-Alert-politikker
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,36 +12,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 46a029f262fa05edffa6f681c7205e289fe448c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496323"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661290"
 ---
-# <a name="office-365-alert-policies"></a>Giv politikker for Office 365
+# <a name="office-365-alert-policies"></a>Politikker for Office 365-beskeder
 
-_AMP_ sikkerhed i Office 365 Overholdelsescenter tilbyder [beskeder standardpolitikker](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , der udløser påmindelser for organisationer med et abonnement på Office 365 Enterprise eller Office 365 os regering E1/G1, E3/G3 eller E5/G5. Derfor admins kan modtage en e-mail-meddelelse, der er sendt af Office365Alerts@microsoft.com med en emnelinje som "en advarsel om lavt alvorlighed:*navnet på alert politik*". Giv besked, der sendes beskeder, når påmindelser udløses for fælles aktiviteter, som når brugerne:
+Office 365 Security & Compliance Center indeholder [standard påmindelses politikker](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , der udløser påmindelser for organisationer med et Office 365 Enterprise-eller Office 365 US Government E1/G1-, E3/G3-eller E5/G5-abonnement. Derfor kan admins modtage en påmindelse e-mail-besked sendt af Office365Alerts@microsoft.com med en emnelinje, såsom "en advarsel om lav alvorlighed: *navn på påmindelses politik*". Advarselsmeddelelser sendes, når der udløses påmindelser for almindeligt forekommende aktiviteter, f. eks.
 
-- Oprette indbakkeregler, som sender e-mail.
-- Tildele tilladelser til postkassen.
-- Deling eller sletning af et stort antal filer i SharePoint-fildeling.
-- Oprette eDiscovery søgninger og eksportere søgeresultaterne.
+- Opret indbakkeregler, der videresender mails.
+- Tildel tilladelser deres postkasse.
+- Del eller slet et stort antal filer i SharePoint-fildeling.
+- Opret eDiscovery-søgninger, og Eksporter søgeresultater.
 
-At gennemgå og behandle en påmindelse:
+For at gennemgå og reagere på en indberetning:
 
-1. Gå til [sikkerhed & Overholdelsescenter](https://protection.office.com) og logge på.
-2. Klik på **påmindelser > Vis beskeder**.
-3. Klik på en besked for at vise en batteridetaljer side med oplysninger om påmindelsen.
+1. Gå til [Security & Compliance Center](https://protection.office.com) , og log på.
+2.  > Klik **på**påmindelser**Vis beskeder**.
+3. Klik på en besked for at få vist en pop op-side med oplysninger om advarslen.
 
-Du kan udføre handlinger på en meddelelse, som [fjerner en mistænkelig indbakkeregel](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Eller du kan blot lukke påmindelsen ved at klikke på **løse** på siden beskeder batteridetaljer.
+Du kan handle på en advarsel, [f. eks](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Eller du kan blot lukke advarslen ved at klikke på **løs** på siden med advarsels pop op-vinduet.
 
-Du kan finde flere oplysninger om konfiguration og administration af politikker for påmindelser, [i denne artikel](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Du finder flere oplysninger om konfiguration og administration af påmindelses politikker i [denne artikel](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**Vigtigt**: e-mail-meddelelser fra Microsoft vil aldrig bede dig om at gøre følgende:
+**Vigtigt**: advarselsmeddelelser via E-mail fra Microsoft vil aldrig bede dig om at gøre følgende:
 
-- Angive en adgangskode.
-- Kontroller oplysningerne om din konto sikkerhed.
-- Ægthedsbekræftelse selv.
+- Angiv en adgangskode
+- Bekræft sikkerhedsoplysningerne for din konto
+- Godkend dig selv igen
 
-Hvis du modtager en e-mail-meddelelse som denne, blev ikke sendt af Microsoft, og skal betragtes som et phishing-bedrageri. Hvis det sker, skal du [rapportere det til Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Hvis du modtager en e-mail-meddelelse som denne, blev den ikke sendt af Microsoft og bør betragtes som en phishing-svindel. Hvis det sker, skal du [rapportere det til Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
