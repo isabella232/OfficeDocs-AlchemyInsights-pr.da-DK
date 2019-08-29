@@ -3,7 +3,6 @@ title: Købe yderligere licenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575942"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664710"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Købe yderligere licenser på Office 365
 
@@ -28,14 +27,13 @@ ms.locfileid: "36575942"
 
     [Hvad hvis jeg ikke kan se linket Tilføj/fjern?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. Angiv det samlede antal licenser, du har brug for dette abonnement, og vælg derefter i boksen **samlede licenser** **Send* ændring **. Hvis du har 100 licenser, og du vil tilføje yderligere 5, Angiv 105.
+3. Angiv det samlede antal licenser, du har brug for dette abonnement i boksen **samlede licenser** , og derefter vælge **Send ændres**. Hvis du har 100 licenser, og du vil tilføje yderligere 5, Angiv 105.
 
     > [!NOTE]
     > Hvis du betaler for abonnementet med kreditkort eller bankkonto, findes alle nye licenser, du køber, umiddelbart efter, at du modtager en ordrebekræftelse. Hvis du betaler fakturaen, kan du muligvis vente en kreditkontrol, før din nye licenser er tilgængelige til brug.
 
-Bruger den gamle admin center? For gamle trin, eller hvis du vil vide mere, kan du se [købe licenser til din Office 365 for business-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Hvis du vil vide mere, kan du se [købe licenser til din Office 365 for business-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
 **Yderligere ressourcer**
 
 - [Tildele licenser til brugere i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
-
