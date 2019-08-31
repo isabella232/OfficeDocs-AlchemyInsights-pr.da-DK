@@ -2,7 +2,6 @@
 title: Anbefalede trin, du skal udføre, hvis en konto er blevet kompromitteret
 ms.author: pebaum
 author: pebaum
-ms.date: 10/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +9,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 71ccb6c4bd3c9f3d229a391f820df72e2d01ee37
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904184"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666546"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Anbefalede trin, du skal udføre, hvis en konto er blevet kompromitteret
 
@@ -27,7 +26,7 @@ ms.locfileid: "35904184"
 
 3. Fjern alle mistænkelige [indbakkeregler](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED), der er angivet i postkassen.
 
-4. Hvis brugeren er blevet blokeret og ikke kan sende mails, skal du [gå til Brugere med begrænset adgang for at fjerne blokeringen af kontoen](https://protection.office.com/?hash=/restrictedusers). Når du har gjort dette, bør brugeren kunne afsende mails fra kontoen igen inden for én time.
+4. Hvis brugeren er blevet blokeret og ikke kan sende mails, skal du [gå til siden Brugere med begrænset adgang for at fjerne blokeringen af kontoen](https://protection.office.com/?hash=/restrictedusers). Når du har gjort dette, bør brugeren kunne afsende mails fra kontoen igen inden for én time.
 
 5. Fjern brugerkontoen fra alle [grupper for administrationsroller](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504), indtil du er sikker på, at kontoen ikke længere er kompromitteret.
 
