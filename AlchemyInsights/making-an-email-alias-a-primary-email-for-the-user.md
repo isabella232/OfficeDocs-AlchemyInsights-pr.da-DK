@@ -1,5 +1,5 @@
 ---
-title: 723 foretager et e-mail-alias, en primær e-mail for brugeren
+title: 723 gøre en e-mail alias en primær e-mail for brugeren
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: ba5ade5c914600725ed2aff0a3aa0097adfb188f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542371"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735239"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Oprette et e-mail-alias, den primære adresse for en bruger
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Gøre en e-mail-alias til den primære adresse for en bruger
 
-Yderligere oplysninger finder du i [tilføje en anden e-mail-alias for en bruger](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).
+Du finder en vejledning under [tilføje et andet mailalias for en bruger](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
 
-**Bemærk**: Hvis din organisation er i en hybridtilstand, skal du ændre den primære e-mail-adresse i din lokale Exchange-organisation. Yderligere oplysninger finder du under [tilføje eller fjerne e-mail-adresser for en postkasse](https://technet.microsoft.com/library/bb123794.aspx).
+**Bemærk**: Hvis din organisation er i hybrid tilstand, skal du ændre den primære e-mail-adresse i din lokale Exchange-organisation. Du finder flere oplysninger under [tilføje eller fjerne mailadresser for en postkasse](https://technet.microsoft.com/library/bb123794.aspx).

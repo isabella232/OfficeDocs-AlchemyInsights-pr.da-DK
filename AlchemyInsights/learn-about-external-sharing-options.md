@@ -1,5 +1,5 @@
 ---
-title: 617, få mere at vide om eksterne Deling
+title: 617 få mere at vide om eksterne delingsmuligheder
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63e0cab7c9dcfd6ef2a6cc9b6b6c00d751727557
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497761"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735347"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Få mere at vide om eksterne kalender Deling
+# <a name="learn-about-external-calendar-sharing-options"></a>Få mere at vide om indstillinger for deling af eksterne kalendere
 
-Hvis du vil planlægge møder med personer uden for organisationen, skal Office 365 giver dig mulighed at fremlægge kalendere "eksterne brugere", der har brug for at få vist ledig/optaget tid, men som ikke har brugerkonti til dit Office 365-miljø. Yderligere oplysninger finder du under [dele kalendere med eksterne brugere](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Hvis du har brug for at planlægge møder med personer uden for organisationen, giver Office 365 dig mulighed for at gøre kalendere tilgængelige for "eksterne brugere", som har brug for at se ledig/optaget tid, men som ikke har brugerkonti til dit Office 365-miljø. Du finder flere oplysninger under [dele kalendere med eksterne brugere](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).

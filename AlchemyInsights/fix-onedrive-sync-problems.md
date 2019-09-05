@@ -1,5 +1,5 @@
 ---
-title: Løse problemer med synkronisering OneDrive
+title: Løs synkroniseringsproblemer i OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.custom:
 - "824"
 - "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 24aff29e854ba6e00a70737213dfaaafcb33eaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07239ddfeb313a7644226150000c09d5b861aa54
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525219"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739883"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Løse problemer med synkronisering OneDrive
+# <a name="fix-onedrive-sync-problems"></a>Løs synkroniseringsproblemer i OneDrive
 
-- Kontroller, at du kan få adgang til din OneDrive konto online: Klik på ikonet app Opgavestarter øverst til venstre, og klik derefter på OneDrive.
+- Kontrollér, at du kan få adgang til din OneDrive-konto online: Klik på ikonet for appstarteren øverst til venstre, og klik derefter på OneDrive.
     
-- Kontroller, at computeren er opdateret: [Hent de nyeste Windows-opdateringer](http://go.microsoft.com/fwlink/p/?LinkId=825773), kan du [hente den nyeste version af OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
+- Sørg for, at computeren er opdateret: [download de nyeste Windows-opdateringer](http://go.microsoft.com/fwlink/p/?LinkId=825773), [download den nyeste version af OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
     
-- Fjerne sammenkædningen mellem OneDrive og køre OneDrive installationsprogrammet igen: Højreklik på det blå OneDrive cloud-ikonet i meddelelsesområde, yderst til højre på proceslinjen. Klik på **Indstillinger**, og klik derefter på **Fjern sammenkædning dette PC**. Følg trinnene i Velkommen til OneDrive guide til opsætning af OneDrive igen.
+- Fjern tilknytningen til OneDrive, og Kør OneDrive-konfigurationen igen: Højreklik på det blå OneDrive-skyikon i meddelelsesområdet længst til højre på proceslinjen. Klik på **Indstillinger**, og klik derefter på **Fjern sammenkædning af denne pc**. Følg trinnene i guiden velkommen til OneDrive for at konfigurere OneDrive igen.
     
-[Flere trin til fejlfinding i forbindelse med synkroniseringsproblemer](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
+[Flere trin til fejlfinding af synkroniseringsproblemer](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)
   
 

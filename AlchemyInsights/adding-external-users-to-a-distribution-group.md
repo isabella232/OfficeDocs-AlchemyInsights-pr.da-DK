@@ -1,5 +1,5 @@
 ---
-title: Tilføje eksterne brugere til en distributionsgruppe
+title: Føje eksterne brugere til en distributionsgruppe
 ms.author: chrisda
 author: chrisda
 ms.audience: ITPro
@@ -7,38 +7,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660786"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737867"
 ---
-# <a name="add-external-users-to-a-distribution-group"></a>Tilføje eksterne brugere til en distributionsgruppe
+# <a name="add-external-users-to-a-distribution-group"></a>Føje eksterne brugere til en distributionsgruppe
 
-Tilføjer en ekstern kontaktperson til en Distribution gruppe (GD) er en totrinsproces:
+Tilføjelse af en ekstern kontakt til en distributionsgruppe (DG) er en proces i to trin:
   
-1. Oprette en E-mail-kontaktperson til den eksterne bruger:
+1. Opret en e-mail-kontakt for den eksterne bruger:
     
-    1. Gå til **brugere**i centeret administration > side med[kontaktpersoner](https://admin.microsoft.com/adminportal/home#/Contact) . 
+    1. Gå til siden **brugere** > [kontakter](https://admin.microsoft.com/adminportal/home#/Contact) i Admin Center. 
     
-    2. Vælg **Tilføj en kontaktperson**.
+    2. Vælg **Tilføj en kontakt**.
     
-    3. Skriv oplysningerne om kontaktpersonen, og vælg **Tilføj**.
+    3. Skriv oplysningerne for kontakten, og vælg **Tilføj**.
     
-2. Føj E-mail-kontaktpersonen til din GD:
+2. Føj e-mail-kontakten til dit Generaldirektorat:
     
-    1. Gå til **grupper**i centeret administration > [grupper](https://admin.microsoft.com/adminportal/home#/groups) . 
+    1. Gå til siden **grupper** > [grupper](https://admin.microsoft.com/adminportal/home#/groups) i Admin Center. 
     
-    2. Find den GD, du vil tilføje den eksterne bruger, og vælg den for at åbne dialogboksen Rediger.
+    2. Find det generaldirektorat, du vil føje den eksterne bruger til, og vælg det for at åbne redigeringsdialogen.
     
-    3. Vælg **Vis alle og administrer medlemmer**under fanen **medlemmer** . 
+    3. Under fanen **medlemmer** skal du vælge **Vis alle og Administrer medlemmer**. 
     
     4. Vælg **Tilføj medlemmer**.
     
-    5. Marker den E-mail-kontakt, du oprettede i forrige trin, og vælg derefter **Gem**.
+    5. Vælg den mail kontakt, du oprettede på det forrige trin, og vælg derefter **Gem**.
     
-Hvis efter følgende eksterne brugere kan ikke sende e-mails til GD eller ikke modtage e-mails fra den, kan det skyldes, at GD er markeret for at tillade kun e-mails fra interne brugere. Du kan kontrollere denne konfiguration og løse problemet efter anvisningerne [her](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx).
+Hvis efterfølgende trin dine eksterne brugere ikke kan sende e-mails til Generaldirektoratet eller ikke modtager e-mails fra det, kan det være, at Generaldirektoratet er markeret til kun at tillade e-mails fra interne brugere. Du kan kontrollere denne konfiguration og ordne det efter anvisningerne [her](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online).
   
- **Bemærk:** Disse instruktioner gælder ikke, hvis din gruppe er "Office 365 group" i stedet for "Distributionsgruppe." Hvis det er tilfældet, kan du tilføje den eksterne bruger direkte til gruppen fra Outlook. Yderligere oplysninger om Office 365 grupper gæster samt instruktioner til tilføjelse af eksterne gæster kan findes i [denne artikel](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Bemærk:** Disse instruktioner gælder ikke, hvis gruppens type er "Office 365 Group" i stedet for "distributionsgruppe". Hvis det er tilfældet, kan du føje den eksterne bruger direkte til gruppen fra Outlook. Detaljerede oplysninger om Office 365-grupper gæster samt instruktioner til tilføjelse af eksterne Gæster kan findes i [denne artikel](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

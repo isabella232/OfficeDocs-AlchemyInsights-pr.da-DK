@@ -1,5 +1,5 @@
 ---
-title: Aktivere en postkasse til arkiv
+title: Aktivere en arkivpostkasse
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665113"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736283"
 ---
-# <a name="enable-an-archive-mailbox"></a>Aktivere en postkasse til arkiv
+# <a name="enable-an-archive-mailbox"></a>Aktivere en arkivpostkasse
 
-Arkiv-postkasser i Office 365 (også kaldet *Online Arkiver*) giver brugerne yderligere e-mail-storage. Brugerne kan flytte eller kopiere emner til deres postkasse, arkiv, og administratorer kan oprette en arkiveringspolitik, der automatisk flytter emner til arkivering af postkasser.
+Arkivpostkasser i Office 365 (også kaldet *online arkiver*) giver brugerne yderligere e-mail-lagring. Brugerne kan flytte eller kopiere elementer til deres arkivpostkasse, og administratorer kan oprette en arkiveringspolitik, der automatisk flytter elementer til arkivpostkasser.
   
-Her er hvordan du kan oprette en postkasse til arkiv:
+Sådan opretter du en arkivpostkasse:
   
 1. Gå til [https://protection.office.com](https://protection.office.com).
 
-2. Log på Office 365 ved hjælp af kontoen Administrator.
+2. Log på Office 365 med din administratorkonto.
 
-3. I venstre rude af sikkerhed &amp; Overholdelsescenter, Vælg **Data ledelse** \> **arkiv**.
+3. I venstre &amp; rude i Security Compliance Center skal du vælge **Arkiv**for **data styring** \> .
 
-4. Vælg den bruger, hvis arkiv-postkasse, du vil aktivere.
+4. Vælg den bruger, hvis arkivpostkasse du vil aktivere.
 
-5. Vælg **Aktiver** i detaljeruden i højre side, og vælg derefter **Ja** i meddelelsesboksen for at aktivere arkiv-postkasse.
+5. I detaljeruden til højre skal du vælge **Aktivér** og derefter vælge **Ja** i advarselsmeddelelsen for at aktivere arkivpostkassen.
 
-Du kan også bulk-aktivere arkivere postkasser ved at vælge flere brugere (ved hjælp af tasterne **Skift** eller **Ctrl** ) og derefter vælge **Aktiver** i detaljeruden.
+Du kan også masse aktivere arkivpostkasser ved at vælge flere brugere (ved hjælp af **Shift** -eller **CTRL** -tasterne) og derefter vælge **Aktivér** i detaljeruden.
   
 Du kan finde flere oplysninger under:
   
-- [Aktiver arkivet postkasser i Office 365](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Aktivér arkivpostkasser i Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Oprette en politik for arkivering og sletning i Office 365](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Konfigurere en politik for arkivering og sletning i Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

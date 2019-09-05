@@ -1,5 +1,5 @@
 ---
-title: Overflytning af netværk
+title: Netværksoverførsel
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538449"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734699"
 ---
-# <a name="network-migration"></a>Overflytning af netværk
+# <a name="network-migration"></a>Netværksoverførsel
 
-Din O365 lejer er muligvis knyttet til flere Yammer-netværk i en 1 lejer: mange netværk konfiguration. Starter 16 oktober 2018 vil Yammer ikke længere understøtte flere Yammer-netværk, der er knyttet til en Office 365-lejer. Du kan udføre en overflytning af netværk til at komme til en foretrukken konfiguration til 1:1.
+Din O365-lejer er muligvis knyttet til flere Yammer-netværk i en 1 lejer: mange netværkskonfigurationer. Fra den 16 oktober 2018 vil Yammer ikke længere understøtte flere Yammer-netværk, der er knyttet til én Office 365-lejer. Du kan udføre en netværksoverførsel for at få en foretrukken 1:1-konfiguration.
   
-- Log på Yammer som en Global Administrator af Office 365 for at få vist en liste over de netværk, der er knyttet til din lejer, og gå til **Netværk Admin**, derefter **Netværk overflytning**. Vælg **Næste**.
+- Hvis du vil se en liste over de netværk, der er knyttet til din lejer, skal du logge på Yammer som en global Office 365-administrator og søge efter **netværksadministrator**og derefter **netværksoverførsel**. Vælg **næste**.
 
-- Hvis du kan se flere netværk, der er angivet i trin 2 af 3, har du flere Yammer-netværk, der er knyttet til din O365 lejer.
+- Hvis der vises flere netværk på listen i trin 2 af 3, har du flere Yammer-netværk tilknyttet din O365-lejer.
 
-- For at rette din konfiguration til en 1:1-konfiguration, skal du fortsætte med at bruge værktøjet netværk Migration.
+- Hvis du vil rette konfigurationen til en 1:1-konfiguration, skal du fortsætte med at bruge netværks overflytningsværktøjet.
 
-- Yderligere oplysninger om overflytning af netværket finder du [netværk overflytning: konsolidere flere Yammer netværk](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Du kan finde flere oplysninger om netværksoverførsel under [netværksoverførsel: konsolidere flere Yammer-netværk](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Bemærk:
+Bemærk venligst:
   
-- **En netværk-overførsel overfører kun aktivt og afventende brugere.** Brugernes oplysninger som navn og profil billede overføres også sammen med de aktive brugere. Netværk indhold, herunder grupper, overflyttes ikke.
+- **En netværksoverførsel migrerer kun de aktive og ventende brugere.** Sammen med de aktive brugere, er brugernes oplysninger, såsom navn og profilbillede, også migreret. Alt netværksindhold, herunder grupper, overføres ikke.
 
-- **Overflytning af netværket kan ikke fortrydes.** Du vil ikke kunne få adgang til netværket datterselskaber og dens indhold efter overflytningen. Så før du overvejer en overførsel, vil du planlægge det omhyggeligt.
+- **Netværksoverførsel kan ikke fortrydes.** Du vil ikke kunne få adgang til dit datterselskab netværk og dets indhold efter migrering. Så før du overveje en migration, du ønsker at planlægge omhyggeligt.

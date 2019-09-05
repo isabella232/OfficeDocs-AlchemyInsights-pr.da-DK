@@ -1,5 +1,5 @@
 ---
-title: 959 ændres visningsnavn
+title: 959 ændring af vist navn
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519797"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736715"
 ---
-# <a name="change-your-display-name"></a>Ændre dit displaynavn
+# <a name="change-your-display-name"></a>Ændre dit viste navn
   
-Brug følgende fremgangsmåde til at ændre dit viste navn i Outlook.
+Hvis du vil ændre dit viste navn i Outlook, skal du benytte følgende fremgangsmåde.
   
-1. Vælg **fil** i Outlook, \> **Kontoindstillinger** \> **Kontoindstillinger**.
+1. I Outlook skal du vælge \> **kontoindstillinger**for **filkonto** \> **Indstillinger** .
 
 2. Vælg e-mail-kontoen, og vælg derefter **Skift**.
 
     > [!NOTE]
-    > Hvis du ikke kan se indstillingen til at ændre dit navn, bruger du sandsynligvis en e-mail-konto på Microsoft Exchange. I så fald skal du kontakte administratoren for at ændre dit viste navn. Se [ændre et brugernavn og e-mail-adresse i Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Hvis du ikke kan se muligheden for at ændre dit viste navn, bruger du sandsynligvis en Microsoft Exchange-mailkonto. I dette tilfælde skal du kontakte din administrator for at ændre dit viste navn. Se [ændre et Brugernavn og en mailadresse i Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Når du har ændret dit navn, skal du klikke på **OK** for at gemme ændringerne. Det kan tage et par timer, før ændringerne afspejler i hele organisationen.
+3. Når du har ændret dit viste navn, skal du klikke på **OK** for at gemme ændringerne. Det kan tage et par timer, efter at dine ændringer afspejles i hele organisationen.
 
-Se [ændre det viste navn, e-mail-modtagere kan se](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)yderligere oplysninger.
+Du finder flere oplysninger under [ændre det viste navn, som e-mail modtagerne ser](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

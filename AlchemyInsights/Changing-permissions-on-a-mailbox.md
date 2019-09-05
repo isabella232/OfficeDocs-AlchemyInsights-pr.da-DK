@@ -1,5 +1,5 @@
 ---
-title: Ændring af tilladelser til en postkasse
+title: Ændre tilladelser for en postkasse
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661398"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734375"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Ændring af tilladelser til en postkasse
+# <a name="changing-permissions-on-a-mailbox"></a>Ændre tilladelser for en postkasse
 
-Hvis brugerne skal have adgang til Office 365-postkasser end deres egen, skal de gives tilladelse til at arbejde med disse postkasser. Hvordan du kan tildele tilladelserne, afhænger af typen postkasse. Hvis brugerne skal have adgang til:
+Hvis brugerne skal have adgang til andre Office 365-postkasser end deres egne, skal de have tilladelse til at arbejde med disse postkasser. Hvordan du tildeler disse tilladelser, afhænger af postkasse typen. Hvis brugerne har brug for adgang til:
   
-- Andre brugerpostkasser - finder du [giver tilladelser til postkassen til en anden bruger i Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Andre brugeres postkasser-Se [Giv postkassetilladelser til en anden bruger i Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- En delt postkasse - se [tilføje eller fjerne medlemmer fra en delt postkasse](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- En delt postkasse-Se [Tilføj eller fjern medlemmer fra en delt postkasse](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Hvis tilladelser ikke fungerer korrekt, når du har gjort ovenstående trin, gå til administrationssiden for Exchange, og prøv at oprette tilladelser derfra (se [Manage permissions for modtagere](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Hvis tilladelserne ikke fungerer korrekt, når du har angivet ovenstående trin, skal du gå til Exchange administration og prøve at angive tilladelserne derfra (Se [administrere tilladelser for modtagere](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

@@ -1,5 +1,5 @@
 ---
-title: eDiscovery eksportværktøjet
+title: eksport værktøj til eDiscovery
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528257"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736319"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan ikke installeres eller køre eDiscovery Eksportværktøj?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan du ikke installere eller køre værktøjet eDiscovery Export?
 
-Hvis du ikke kan installere eller køre Office 365 eDiscovery Eksportværktøj til at hente søgeresultater, kan du kontrollere følgende ting:
+Hvis du ikke kan installere eller køre Office 365 eDiscovery-eksportværktøjet for at hente søgeresultater, skal du kontrollere følgende:
   
-- Du bruger computeren opfylder følgende forudsætninger:
+- Den computer, du bruger, opfylder disse forudsætninger:
 
-  - 32 - eller 64-bit versioner af Windows 7 og nyere versioner
+  - 32-eller 64-bit versioner af Windows 7 og nyere versioner
 
-  - Microsoft.NET Framework 4.7
+  - Microsoft .NET Framework 4,7
 
   - En understøttet browser:
 
-  - Microsoft kant
+  - Microsoft Edge
 
     Eller
 
   - Internet Explorer 10 og nyere versioner
 
-    Andre browsere, som Google Chrome og Mozilla Firefox understøttes ikke.
+    Andre browsere, såsom Google Chrome og Mozilla Firefox, understøttes ikke.
 
-- Organisationen kan oprette forbindelse til slutpunktet i Azure, som er ** \*. blob.core.windows.net** (jokertegnet repræsenterer en entydig identifier til udskriftsjobbet eksport).
+- Din organisation kan oprette forbindelse til slutpunktet i Azure, som er ** \*. blob.Core.Windows.net** (jokertegnet repræsenterer et entydigt id for eksportjobbet).
 
-- Du er tildelt rollen eksport i Office 365-sikkerhed &amp; Overholdelsescenter. Denne rolle er som standard kun tildelt til rollegruppen eDiscovery Manager. Se [tildele eDiscovery tilladelser](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Du er tildelt eksport rollen i Office 365 Security &amp; Compliance Center. Rollen tildeles som standard kun til rollegruppen eDiscovery Manager. Se [tildele eDiscovery-tilladelser](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Yderligere oplysninger finder du under [eksportere indhold søgeresultater](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Du finder flere oplysninger i [eksportere indholds søgeresultater](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

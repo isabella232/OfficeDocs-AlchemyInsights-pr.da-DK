@@ -1,5 +1,5 @@
 ---
-title: Konfigurere videresendelse af e-mail
+title: Konfigurere videresendelse af mails
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3d7b246c7b1463f02e5386207fcb5a3a1d14811e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f3763840185e03b3a75ca2adc33cb685d6236738
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666222"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741143"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontroller e-mail videresendelse af indstillinger for en postkasse
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrollere indstillingerne for videresendelse af mails for en postkasse
 
-Det er let at kontrollere e-mail videresendelse af indstillinger på en Office 365-postkasse. Du skal blot følge disse trin.
+Det er nemt at kontrollere indstillingerne for videresendelse af mails på en Office 365-postkasse. Bare Følg disse trin.
   
-> Gå til **brugere** , hvis der er tale om en brugerpostkasse, \> **aktive brugere** , og vælg brugeren der har postkasse, du videresender. Vælg **Administrer emaill videresendelse**under fanen **post** .
+> Hvis dette er en brugerpostkasse, skal du gå til **brugere** \> af **aktive brugere** og vælge den bruger, der er den postkasse, du videresender. Under fanen **post** skal du vælge **Administrer emaill forwarding**.
     
-> Hvis det er en delt postkasse, kan du gå til **grupper** \> **delte postkasser** , og vælg den delte postkasse, du videresender. Vælg **Rediger** for videresendelse af E-mail.
+> Hvis dette er en delt postkasse, skal du gå til **grupper** \> **delte postkasser** og vælge den delte postkasse, du videresender. Vælg **Rediger** for videresendelse af mail.
 
-Bruger den gamle admin center? For gamle trin, eller du kan finde flere oplysninger, se [Konfigurer e-mail videresendelse i Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
+Bruger du den gamle Admin Center? Du finder gamle trin eller flere oplysninger under [konfigurere videresendelse af mails i Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
   
-For at sende instruktioner til brugerne, så de kan konfigurere videresendelse af e-mail på deres egne postkasser, kan du henvise dem til at [videresende e-mail fra Office 365 til en anden e-mail-konto](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Bemærk, at du kan sende til en e-mail-adresse. Hvis du skal konfigurere viderestilling til en gruppe af personer, kan du oprette en distributionsliste (under grupper), kan du føje brugere til det, og derefter konfigurere videresendelse til den pågældende gruppe.
+Hvis du vil sende instruktioner til dine brugere, så de kan konfigurere videresendelse af mails i deres egne postkasser, skal du pege på dem for at [videresende mails fra Office 365 til en anden mailkonto](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Bemærk venligst, at du kun kan sende til én e-mailadresse. Hvis du har brug for at konfigurere videresendelse til en gruppe personer, skal du oprette en distributionsliste (undergrupper), føje dine brugere til den og derefter konfigurere videresendelse til den pågældende gruppe.
   
-Har du en medarbejder forlader? Du [fjerner en tidligere medarbejder fra Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) for de anbefalede trin.
+Har du en medarbejder, som rejser? Se [fjerne en tidligere medarbejder fra Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee) for at få de anbefalede trin.
   

@@ -1,5 +1,5 @@
 ---
-title: Ændre den alternative e-mail-adresse for fakturering af meddelelse
+title: Ændre den alternative mailadresse til fakturerings notifikation
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 01b8fd0273ea9b0ef716b6f59ac7ee8c9d2acef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520985"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738731"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Ændre den alternative e-mail-adresse for fakturering af meddelelse
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Ændre den alternative mailadresse til fakturerings notifikation
 
-Det er nemt at ændre den alternative e-mail-adresse for fakturering anmeldelse. Du skal blot følge disse trin:
+Det er nemt at ændre den alternative mailadresse til fakturerings notifikation. Du skal blot følge disse trin:
   
-1. Gå til **Fakturering** i Microsoft 365 admin center, \> [Fakturering meddelelser](https://go.microsoft.com/fwlink/p/?linkid=853212) siden.  
+1. Gå til siden **fakturerings** \> [fakturerings notifikationer](https://go.microsoft.com/fwlink/p/?linkid=853212) i Microsoft 365 administration.  
 
 2. Vælg et navn på listen.
 
-3. Skriv den alternative e-mail-adresse i boksen **Alternative e-mail-adresse** .
+3. Skriv den alternative mailadresse i feltet **alternativ mailadresse** .
 
-4. Vælg **Gem** , og du er færdig!
+4. Vælg **Gem** og du er færdig!
 
-Yderligere oplysninger om og trin med skærmbilleder se [ændre din faktureringsadresser til Office 365](https://support.office.com/article/Change-your-billing-addresses-for-Office-365-for-business-a25c10d6-c1e9-4299-9185-25178df9eba6).
+Du finder flere oplysninger og trin med skærmbilleder under [ændre dine faktureringsadresser for Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
   

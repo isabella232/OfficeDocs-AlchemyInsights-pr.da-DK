@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ac8dddcfd9213d0a9fc67dde90a88195fac1ac74
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533211"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742475"
 ---
 # <a name="trying-to-verify-your-domain"></a>Forsøger du at bekræfte dit domæne?
 
-Du skal tilføje en TXT-post hos din domæneregistrator for at bekræfte, at du ejer domænet. Følg guiden nyt domæne i Microsoft 365 admin center ved at gå til **Opsætning af** \> **domæner**, og klik derefter på **Tilføj domæne**. 
+Du skal tilføje en TXT-post hos din domæneregistrator for at bekræfte, at du ejer domænet. Følg guiden nyt domæne i Microsoft 365 administration ved at gå til **installations** \> **domæner**og derefter **tilføje domæne**. 
   
 Følg instruktionerne i nedenstående artikel, hvis du vil tilføje en TXT-post for at bekræfte dit domæne. Vælg din domæneregistrator for at se specifikke instruktioner til dit domæne.
   
-[Oprette DNS-poster til Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Oprette DNS-poster til Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
   
 

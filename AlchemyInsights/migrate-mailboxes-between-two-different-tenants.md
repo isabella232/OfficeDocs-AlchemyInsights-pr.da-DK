@@ -1,5 +1,5 @@
 ---
-title: Overføre postkasser mellem to forskellige arkitekturer
+title: Overfør postkasser mellem to forskellige lejere
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544641"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734447"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Overføre postkasser mellem to forskellige arkitekturer
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Overfør postkasser mellem to forskellige lejere
 
-Du skal overflytte postkasser mellem to forskellige arkitekturer i Office 365, for eksempel, når der er organisation fusioner. Disse overførsler skal planlægges omhyggeligt. Se følgende retningslinjer:
+Du skal muligvis overføre postkasser mellem to forskellige lejere i Office 365, for eksempel når der er organisations fusioner. Disse migrationer bør planlægges omhyggeligt. Se venligst følgende vejledning:
   
-[Hvordan til at overføre postkasser fra én Office 365 lejer til en anden](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Sådan overflyttes postkasser fra én Office 365-lejer til en anden](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   
