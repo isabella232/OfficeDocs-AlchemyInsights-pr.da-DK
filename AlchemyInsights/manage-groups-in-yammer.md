@@ -1,5 +1,5 @@
 ---
-title: Administrere grupper i Yammer
+title: Administrer grupper i Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 8/3/2018
@@ -11,20 +11,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: e3b1c8d7bfab350f2ee4bede0515c90be8c1fad3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 657e2f11a18d22e63765f3781c92aa4be42af40c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496969"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735023"
 ---
-# <a name="manage-groups-in-yammer"></a>Administrere grupper i Yammer
+# <a name="manage-groups-in-yammer"></a>Administrer grupper i Yammer
 
-- **Tilladelse til at oprette.** Yammer bestemmer ikke, hvem der kan oprette en gruppe. Det er dog muligt at administrere oprettelse for forbundne Office 365-grupper. Yderligere oplysninger finder du i [Manage, hvem der kan oprette grupper til Office 365](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618).
+- **Tilladelse til gruppeoprettelse.** Yammer styrer ikke, hvem der kan oprette en gruppe. Det er dog muligt at administrere gruppeoprettelse for tilsluttede Office 365-grupper. Se [Administrer, hvem der kan oprette Office 365-grupper](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) for at få flere oplysninger.
 
-- **Dynamisk gruppemedlemskab.** Se [oprette et dynamisk gruppe i Yammer](https://support.office.com/article/create-a-dynamic-group-in-yammer-6d2a6ec7-1d65-46bb-b253-1bf441ec80a5)oplysninger om oprettelse af dynamiske medlemskab for Yammer forbundet Office 365-grupper.
+- **Dynamisk gruppemedlemskab.** Se [Opret en dynamisk gruppe i yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) for at finde oplysninger om oprettelse af dynamisk medlemskab for yammer-tilsluttede Office 365-grupper.
 
-- **Gendanne slettede grupper.** Gendanne Office 365 forbundne Yammer grupper er muligt via [gendanne en slettet Office 365-gruppe](https://support.office.com/article/Restore-a-deleted-Office-365-Group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54) ikke tilsluttet grupper kan ikke gendannes efter sletning.
+- **Gendanne slettede grupper.** Gendannelse af Office 365-tilsluttede Yammer-grupper er muligt via [Gendan en slettet office 365 gruppe](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) ikke-forbundne grupper kan ikke gendannes efter sletningen.
 
-Finde flere oplysninger om administration af en gruppe, [styre en gruppe i Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Finde oplysninger om forbundne grupper i Office 365, [Yammer og Office 365-grupper](https://support.office.com/article/Yammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)
+Du kan finde flere oplysninger om administration af en gruppe under [administrere en gruppe i Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Du finder oplysninger om tilsluttede Office 365-grupper under [Yammer-og Office 365-grupper](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   

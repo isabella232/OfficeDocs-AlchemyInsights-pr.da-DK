@@ -1,5 +1,5 @@
 ---
-title: Foretage fejlfinding af problemer ved hjælp af Åbn med Stifinder
+title: Fejlfinding af problemer ved hjælp af Åbn med Stifinder
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500209"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742727"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Løse problemer med Åbn med Stifinder
+# <a name="fix-problems-with-open-with-explorer"></a>Løs problemer med Åbn med Stifinder
 
-Løse almindelige problemer med at åbne et dokumentbibliotek i SharePoint- eller OneDrive ved hjælp af kommandoen **Åbn med Stifinder** : 
+Løs almindeligt forekommende problemer med at åbne et dokumentbibliotek i SharePoint eller OneDrive ved hjælp af kommandoen **Åbn med Stifinder** : 
   
-- Brug Internet Explorer 10 eller Internet Explorer 11. **Åbn med Stifinder** ikke kompatibel med Microsoft Edge, Google Chrome, Firefox og andre. **Åbn med Stifinder** er deaktiveret i alle browsere, med undtagelse af Internet Explorer. 
+- Brug Internet Explorer 10 eller Internet Explorer 11. **Åbn med Explorer** er ikke kompatibel med Microsoft Edge, Google Chrome, Firefox og andre. **Åbn med Stifinder** er deaktiveret i alle browsere undtagen Internet Explorer. 
     
-- **Åbn med Stifinder** er ikke tilgængelig i den moderne oplevelse for SharePoint-biblioteker. I stedet for at bruge **Vis i Stifinder** . Vælg **visningsindstillinger** \> **Vis i Stifinder**. Vis i Stifinder er ikke kompatibel med Microsoft Edge, Google Chrome, Firefox og andre. **Vis i Stifinder** i kun tilgængelig i Internet Explorer. 
+- **Åbn med Stifinder** er ikke tilgængelig i den moderne oplevelse for SharePoint-biblioteker. Brug **i stedet Vis i Stifinder** . Vælg Vis **visningsindstillinger** \> **i Stifinder**. View in File Explorer er ikke kompatibel med Microsoft Edge, Google Chrome, Firefox og andre. **Vis i Stifinder** i kun tilgængelig i Internet Explorer. 
     
-- Kontroller, at tjenesten WebClient kører. I Windows søgefeltet, Skriv Kør, Vælg Kør stationære programmet, skriv services.msc, og tryk derefter på Enter. Rul ned til tjenesten WebClient, og Sørg for, at kolonnen **Status** viser "Kørsel". Hvis det ikke er tilfældet, skal du dobbeltklikke på tjenesten, klik på **Start**og klik derefter på **OK**. (Du skal muligvis først aktivere tjenesten ved at vælge enten **Manuel** eller **automatisk** i **boksen** ). 
+- Kontroller, at tjenesten WebClient kører. Skriv Kør i søgefeltet i Windows, vælg Kør skrivebordsappen, skriv Services. msc, og tryk derefter på ENTER. Rul ned til tjenesten WebClient, og sørg for, at kolonnen **status** viser "kører". Hvis den ikke gør det, skal du dobbeltklikke på tjenesten, klikke på **Start**og derefter klikke på **OK**. (Du skal muligvis først aktivere tjenesten ved at vælge enten **Manuel** eller **automatisk** i feltet **starttype** ). 
     
 > [!NOTE]
-> Åbne et bibliotek i Stifinder er praktisk, hvis du vil kopiere eller flytte flere filer og mapper, når, men hvis du vil arbejde regelmæssigt i biblioteket, anbefaler vi synkroniserer den. Hvis du vil foretage fejlfinding af problemer, der er åbne i Filoversigt, se [åbne i Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Du kan finde oplysninger om konfiguration af synkronisering, [Synkroniser SharePoint-filer med den nye OneDrive sync-klient](https://go.microsoft.com/fwlink/?linkid=871666).
+> Det er praktisk at åbne et bibliotek i Stifinder, hvis du har brug for at kopiere eller flytte flere filer og mapper én gang, men hvis du regelmæssigt vil arbejde i biblioteket, anbefaler vi, at du synkroniserer det. Hvis du vil foretage fejlfinding af problemer, som åbnes i Stifinder, skal du se [åbne i Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Du kan finde oplysninger om konfiguration af synkronisering under [Synkroniser SharePoint-filer med den nye OneDrive-synkroniseringsklient](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Se artiklen [Sådan bruges kommandoen "Åbn med Stifinder" til at foretage fejlfinding af problemer i SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) for at få yderligere oplysninger. 
+Se artiklen [Sådan bruger du kommandoen "Åbn med Stifinder" til at foretage fejlfinding af problemer i SharePoint Online for at](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) få flere oplysninger. 
   
 
