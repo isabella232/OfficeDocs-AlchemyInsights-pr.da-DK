@@ -1,30 +1,30 @@
 ---
-title: Synkronisering af brugerprofil
-ms.author: kirks
+title: Synkronisering af profiler
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: d3b8a40c0612ce76423d5adce02ebd6c597d2ad2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 695ad14555e92ccf5f1566012e4b4fc470a2630e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502909"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750047"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a><span data-ttu-id="52f20-102">Når min profilændringer synkroniseres med SharePoint til brugerprofilprogrammet?</span><span class="sxs-lookup"><span data-stu-id="52f20-102">When do my profile changes sync to the SharePoint User Profile Application?</span></span>
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a><span data-ttu-id="1b684-102">Hvornår synkroniseres min profil med SharePoint-brugerprofilprogrammet?</span><span class="sxs-lookup"><span data-stu-id="1b684-102">When do my profile changes sync to the SharePoint User Profile Application?</span></span>
 
-<span data-ttu-id="52f20-103">Synkronisering af brugerprofil billede i SharePoint Online kræver brugerhandling at starte synkroniseringen af deres foto.</span><span class="sxs-lookup"><span data-stu-id="52f20-103">Profile Picture Synchronization in SharePoint Online requires a user's action to initiate the sync of their photo.</span></span> <span data-ttu-id="52f20-104">Der er ingen automatisk synkronisering af fotos til SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="52f20-104">There is no automatic synchronization of photos to SharePoint Online.</span></span> <span data-ttu-id="52f20-105">SharePoint Online synkroniserer kun fotos fra Exchange Online, ikke Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="52f20-105">SharePoint Online only synchronizes photos from Exchange Online, not Azure Active Directory.</span></span>
+<span data-ttu-id="1b684-103">Synkronisering af profilbillede i SharePoint Online kræver en brugers handling for at starte synkroniseringen af fotografiet.</span><span class="sxs-lookup"><span data-stu-id="1b684-103">Profile Picture Synchronization in SharePoint Online requires a user's action to initiate the sync of their photo.</span></span> <span data-ttu-id="1b684-104">Der er ingen automatisk synkronisering af billeder til SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="1b684-104">There is no automatic synchronization of photos to SharePoint Online.</span></span> <span data-ttu-id="1b684-105">SharePoint Online synkroniserer kun billeder fra Exchange Online, ikke Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="1b684-105">SharePoint Online only synchronizes photos from Exchange Online, not Azure Active Directory.</span></span>
 
-<span data-ttu-id="52f20-106">Hvis en bruger har aldrig udført en handling, der vil spørge en synkronisering, eller de har opdateret deres profilbillede og den nye en ikke vises i SharePoint Online, kan brugeren muligvis bedt om at synkronisere. Her er, hvordan de kan gøre dette:</span><span class="sxs-lookup"><span data-stu-id="52f20-106">If a user has never performed an action that would prompt a sync or they have updated their profile picture and the new one doesn't appear in SharePoint Online, the user might need to prompt it to sync. Here's how they can do this:</span></span>
+<span data-ttu-id="1b684-106">Hvis en bruger aldrig har udført en handling, der ville bede om en synkronisering, eller de har opdateret deres profilbillede, og den nye ikke vises i SharePoint Online, skal brugeren muligvis bede den om at synkronisere. Her er hvordan de kan gøre dette:</span><span class="sxs-lookup"><span data-stu-id="1b684-106">If a user has never performed an action that would prompt a sync or they have updated their profile picture and the new one doesn't appear in SharePoint Online, the user might need to prompt it to sync. Here's how they can do this:</span></span>
 
-- <span data-ttu-id="52f20-107">Åbn en webbrowser på en session i Private eller Incognito, og [Gå til Office.com](http://www.office.com/).</span><span class="sxs-lookup"><span data-stu-id="52f20-107">Open a web browser in an In-Private or Incognito session and [go to Office.com](http://www.office.com/).</span></span>
+- <span data-ttu-id="1b684-107">Åbn en webbrowser i en in-private eller inkognito session, og [gå til Office.com](http://www.office.com/).</span><span class="sxs-lookup"><span data-stu-id="1b684-107">Open a web browser in an In-Private or Incognito session and [go to Office.com](http://www.office.com/).</span></span>
 
-- <span data-ttu-id="52f20-108">Log på med deres arbejde eller en skoleopgave konto og klikke på den OneDrive eller SharePoint.</span><span class="sxs-lookup"><span data-stu-id="52f20-108">Sign in with their work or school account, and click the OneDrive or SharePoint tile.</span></span>
+- <span data-ttu-id="1b684-108">Log på med deres arbejds-eller skolekonto, og klik på feltet OneDrive eller SharePoint.</span><span class="sxs-lookup"><span data-stu-id="1b684-108">Sign in with their work or school account, and click the OneDrive or SharePoint tile.</span></span>
 
-- [<span data-ttu-id="52f20-109">Føj dit profilbillede til Office 365</span><span class="sxs-lookup"><span data-stu-id="52f20-109">Add your profile photo to Office 365</span></span>](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+- [<span data-ttu-id="1b684-109">Føj dit profilbillede til Office 365</span><span class="sxs-lookup"><span data-stu-id="1b684-109">Add your profile photo to Office 365</span></span>](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- <span data-ttu-id="52f20-110">[Oplysninger om synkronisering af brugerprofil billede i Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).</span><span class="sxs-lookup"><span data-stu-id="52f20-110">[Info about profile picture synchronization in Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).</span></span>
+- <span data-ttu-id="1b684-110">[Oplysninger om synkronisering af profilbilleder i Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).</span><span class="sxs-lookup"><span data-stu-id="1b684-110">[Info about profile picture synchronization in Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).</span></span>
 

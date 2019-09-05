@@ -1,6 +1,6 @@
 ---
 title: OneDrive svarer ikke
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: e13abc35c04ad692ea72e4d6fd46fbdbc203c2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8a4782bbf12c48e92ac34e40493b53691d82d23
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543199"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753178"
 ---
-# <a name="onedrive-not-responding"></a><span data-ttu-id="94c3f-102">OneDrive svarer ikke</span><span class="sxs-lookup"><span data-stu-id="94c3f-102">OneDrive not responding</span></span>
+# <a name="onedrive-not-responding"></a><span data-ttu-id="ffcbd-102">OneDrive svarer ikke</span><span class="sxs-lookup"><span data-stu-id="ffcbd-102">OneDrive not responding</span></span>
 
-<span data-ttu-id="94c3f-103">Brugere skal logge på Office 365-portalen med deres egen konto, og klik på OneDrive for at starte manuelt tilvejebringelse af webstedet OneDrive til nyoprettede konti.</span><span class="sxs-lookup"><span data-stu-id="94c3f-103">For newly created accounts, users need to sign in to the Office 365 portal with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
+<span data-ttu-id="ffcbd-103">For nyoprettede konti skal brugere logge på Microsoft 365 administration med deres egen konto og klikke på OneDrive for manuelt at starte leveringen af OneDrive-webstedet.</span><span class="sxs-lookup"><span data-stu-id="ffcbd-103">For newly created accounts, users need to sign in to the Microsoft 365 admin center with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
   
-<span data-ttu-id="94c3f-104">Men hvis brugeren allerede har klikket på OneDrive, og deres personlige websted er ikke klargjort inden for 24 timer, skal du logge en billet fra support for at få hjælp.</span><span class="sxs-lookup"><span data-stu-id="94c3f-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
+<span data-ttu-id="ffcbd-104">Men hvis brugeren allerede har klikket på OneDrive, og vedkommendes personlige websted ikke er klargjort inden for 24 timer, skal du logge en support billet for at fÃ ¥ yderligere assistance.</span><span class="sxs-lookup"><span data-stu-id="ffcbd-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
   
 
