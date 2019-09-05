@@ -1,41 +1,41 @@
 ---
-title: 'OneDrive: Manglende filer eller mapper'
-ms.author: kirks
+title: 'OneDrive: manglende filer eller mapper'
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e24e4e1a0d33f7e857fc6af25914286ae2df0b2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f94eb6f08485c28e0c98e084b25f2bc6456d3350
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521237"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753250"
 ---
-# <a name="onedrive-missing-files-or-folders"></a>OneDrive: Manglende filer eller mapper
+# <a name="onedrive-missing-files-or-folders"></a>OneDrive: manglende filer eller mapper
 
-**Kontroller Papirkurv for webstedet**.
+**Kontroller webstedets papirkurv**.
 
-- [Gendanne elementer i papirkurven i et SharePoint-websted](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&rs=en-US&ad=US)
-- [Gendanne slettede filer eller mapper i OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
-
-
-**Utilize OneDrive filer gendanne funktionen**. 
-
-Hvis mange af filerne OneDrive få slettes, overskrives, beskadiget eller inficeret med malware, kan du gendanne din hele OneDrive på et tidligere tidspunkt ved hjælp af funktionen [OneDrive filer gendannes](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) .
+- [Gendanne elementer i papirkurven på et SharePoint-websted](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Gendan slettede filer eller mapper i OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 
-**Brug Overvåg logføring eller ruden fil aktivitet skal tjekke historik for filen**.
+**Udnyt funktionen til gendannelse af OneDrive-filer**. 
 
-Kontrollere, [overvåge rapporter](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) ved kommandobroen [her](https://sip.protection.office.com/).
-
-
-Bruge [ruden aktivitet](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) til i historikken for filen.
+Hvis mange af dine OneDrive-filer bliver slettet, overskrevet, ødelagt eller inficeret med malware, kan du gendanne hele OneDrive til en tidligere tid ved hjælp af funktionen til [gendannelse af onedrive-filer](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) .
 
 
-**Kontroller OneDrive synkronisering klient på din lokale computer**.
+**Brug overvågningslogføring eller filaktivitets ruden til at kontrollere filens historik**.
 
-Hvis du synkronisering af filer på din computer ved hjælp af OneDrive Sync-klient, kan du kontrollere mappen lokal synkronisering for at sikre, at den er blevet korrekt overført. Sikre, at du også kontrollere papirkurven på din lokale computer.
+Tjek [revisionsrapporterne](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) ved at navigere [her](https://sip.protection.office.com/).
+
+
+Brug [filaktivitets ruden](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) til at kontrollere filens historik.
+
+
+**Kontroller OneDrive-synkroniseringsklienten på din lokale computer**.
+
+Hvis du synkroniserer filerne på computeren ved hjælp af OneDrive-synkroniseringsklienten, skal du kontrollere den lokale synkroniseringsmappe for at sikre, at den er blevet overført korrekt. Sørg for, at du også tjekker papirkurven på din lokale maskine.
 

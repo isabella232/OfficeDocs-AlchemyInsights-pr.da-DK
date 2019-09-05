@@ -1,23 +1,23 @@
 ---
-title: Hub websted grænser og begrænsninger
-ms.author: kirks
+title: Begrænsninger og begrænsninger for Hubwebstedet
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: 0704d846bc30f2773298fb40631be915c88b964d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5bf96213a6ebed97facca81426f31175f57462d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539311"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754546"
 ---
-# <a name="sharepoint-hub-site-navigation"></a>SharePoint-hub webstedsnavigation
+# <a name="sharepoint-hub-site-navigation"></a>Navigation i SharePoint-hubwebsted
 
-Er hubben websted navigationslinjen øverst på et hubwebsted og alle tilknyttede websteder, over navigationen på webstedet. Hvis du er webstedsejer hub, kan du tilpasse [navigationslinje](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav). 
+Øverst på et hubwebsted og eventuelle tilknyttede websteder over webstedets navigation er hubwebstedets navigationslinje. Hvis du er ejer af Hubwebstedet, kan du tilpasse [navigationslinjen](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav). 
 
-**Bemærk:** Det anbefales at vælge en kommunikationswebsted eller et websted for team ved hjælp af skabelonen moderne som din hubwebsted. Hvis du bruger et websted for team classic, hub-navigation vises kun på de sider, der er moderne og hub webstedsindstillinger vises kun på siden moderne. 
+**Bemærk:** Det anbefales at vælge et kommunikationswebsted eller et teamwebsted ved hjælp af den moderne skabelon som dit hubwebsted. Hvis du bruger et klassisk teamwebsted, vises hubnavigationen kun på de moderne sider, og hubwebstedets indstillinger vises kun på den moderne side. 
 
 

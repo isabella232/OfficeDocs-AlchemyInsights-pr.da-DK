@@ -1,5 +1,5 @@
 ---
-title: SharePoint-påmindelser ikke leveret
+title: SharePoint-advarselsmeddelelser blev ikke leveret
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504457"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744635"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-påmindelser ikke leveret
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-advarselsmeddelelser blev ikke leveret
 
-Kontroller mappen Uønsket i din e-mail, som nogle gange beskeder kan gå dertil.
+Tjek venligst JUNK mappen i din e-mail, som undertiden advarsler kan gå der.
 
-Fastslå, om **alle beskeder, der ikke leveres** , eller hvis **en enkelt påmindelse** fra en bestemt fil eller bibliotek ikke er leveret.
+Find ud af, om **alle påmindelser ikke er leveret** , eller om der ikke er leveret **en individuel besked** fra en specifik fil eller et bestemt bibliotek.
 
-- **Individuelle påmindelser leveres ikke**: Hvis en enkelt påmindelse fra en bestemt fil eller et bibliotek ikke er leveret, kan du forsøge at slette og genoprette den. Se [Administrer, få vist, eller slette SharePoint-beskeder](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) til at genoprette beskeden.
-- **Alle beskeder er ikke leveret**: Hvis der ikke er leveret alle beskeder fra flere filer eller biblioteker, kan du besøge [Service sundhed dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) til at kontrollere for eventuelle sikkerhedsmeddelelser/hændelser, der kan forekomme med SharePoint eller Exchange. Problemet kan være med mulighed for SharePoint-besked eller forsinkelser i e-mails via Exchange. Det vil også være vigtigt at bemærke om anden e-mail bliver leveret, og hvis ikke, problemet er sandsynligvis med Exchange forsinkelser.
+- **Individuelle påmindelser leveres ikke**: Hvis der ikke leveres en individuel besked fra en bestemt fil eller et specifikt bibliotek, kan du forsøge at slette og genskabe den. Se [administrere, få vist eller slette SharePoint-påmindelser](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) for at genskabe beskeden.
+- **Alle påmindelser leveres ikke**: Hvis alle påmindelser fra flere filer eller biblioteker ikke leveres, skal du gå til [dashboardet for tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at kontrollere, om der er meddelelser/hændelser, som kan forekomme med SharePoint eller Exchange. Problemet kan være med SharePoint Alert kapacitet eller forsinkelser i e-mails via Exchange. Det vil også være vigtigt at bemærke, om andre e-mails bliver leveret, og hvis ikke, er problemet sandsynligvis med veksel forsinkelser.
 
-Ofte stillede spørgsmål om beskeder:
+Ofte stillede spørgsmål om påmindelser:
 
-- Det er ikke muligt at sende beskeder til distributionsgruppen, kun sikkerhed og O365 grupper understøttes.
-- Du kan ikke tilpasse e-mail-skabeloner. Du skal bruge Microsoft FLOW eller arbejdsgange i SharePoint Designer til at opnå de.
+- Det er ikke muligt at sende påmindelser til distributionsgruppen, men kun sikkerheds-og O365-grupper understøttes.
+- Du kan ikke tilpasse skabeloner til e-mail-beskeder. Du skal bruge Microsoft FLOW eller SharePoint Designer workflow for at opnå disse.
 
-Yderligere oplysninger:
+Flere oplysninger:
 
-- **Opsætning af påmindelser**: Yderligere oplysninger om opsætning af påmindelser, skal du se [oprette en besked for at få besked, når en fil eller mappe ændres i SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Fejlfinding i forbindelse med beskeder**: se yderligere oplysninger om fejlfinding i forbindelse med beskeder, [brugerne ikke modtage påmindelser for SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Avanceret O365 overholdelse besked politikker**: Yderligere oplysninger om opsætning af disse beskeder, se [Beskeder politikker for overholdelse](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **OneDrive overvåge logfilerne og SharePoint**: Yderligere oplysninger om, hvordan du kan hente disse hændelser, se [søge overvågningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Beskeder sendes af avancerede Threat Protection**: se [DTT for SharePoint og OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Beskeder sendes af Forhindring af datatab politikker**: se [e-mail-beskeder til DLP politikker](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Besked opsætning**: du kan finde flere oplysninger om konfiguration af påmindelser under [oprette en besked om at få besked, når en fil eller mappe ændres i SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Fejlfinding i forbindelse med påmindelser**: du kan finde flere oplysninger om fejlfinding af beskeder under [brugere modtager ikke meddelelser om SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Avancerede politikker for overholdelse af O365-regler**: du finder flere oplysninger om, hvordan du konfigurerer disse påmindelser, under [politikker for overholdelses](https://docs.microsoft.com/office365/securitycompliance/alert-policies)advarsler.
+- **Overvågningslogfiler for SharePoint og OneDrive**: du finder flere oplysninger om, hvordan du henter disse hændelser, i [søge i overvågningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Advarsler sendt af Advanced Threat Protection**: Se [ATP til SharePoint og OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Advarsler sendt af politikker for forebyggelse af**datatab: Se [e-MAILNOTIFIKATIONER for DLP-politik](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Relaterede emner
 
-Vil du prøve Microsoft Flow i SharePoint Online?
+Vil du prøve Microsoft flow i SharePoint Online?
 
-- [Oprette produktionsflow](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [Opret flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint og Flow](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint og flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

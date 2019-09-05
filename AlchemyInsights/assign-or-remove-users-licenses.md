@@ -1,5 +1,5 @@
 ---
-title: Tildele eller fjerne brugernes licenser
+title: Tildel eller fjernbrugeres licenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 8d2b79f9a58a32a521022887ba59203c79bfd566
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ad4e2d1cb5d92d5d7f4dec21c7de7348db6f97ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574428"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736967"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Tildele eller fjerne brugernes licenser
+# <a name="assign-or-remove-users-licenses"></a>Tildel eller fjernbrugeres licenser
 
-Som administrator, kan du justere dine brugeres licenser efter behov. Artiklerne nedenfor vises, hvordan du administrere brugernes licenser, herunder:
+Som administrator kan du justere dine brugeres licenser efter behov. Artiklerne nedenfor vil vise dig, hvordan du administrerer dine brugeres licenser, herunder:
   
-- [Tildele licenser til brugere i Office 365 til virksomheder](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Tildele licenser til brugere i Office 365 til virksomheder](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Fjerne tildelingen af licenser fra brugere i Office 365 til virksomheder](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Fjern tildeling af licenser fra brugere i Office 365 til virksomheder](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-Ikke svar på dit spørgsmål? Intet problem! Brug knappen "Har brug for hjælp" til at tale med en supporttekniker.
+Svarede du ikke på dit spørgsmål? Intet problem! Brug knappen "Brug hjælp" til at tale med en supporttekniker.

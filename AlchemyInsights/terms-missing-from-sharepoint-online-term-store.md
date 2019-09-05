@@ -1,6 +1,6 @@
 ---
-title: Vilkår, der mangler i SharePoint Online ordbank
-ms.author: kirks
+title: Vilkår, som mangler i SharePoint Online term store
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: 49154808a30446316fd8d6ef68af4086cc8c69ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edca68b2b5bf0b2d3de0f8a921d42868729aefca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500821"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749146"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Vilkår, der mangler i SharePoint Online ordbank
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Vilkår, som mangler i SharePoint Online term store
 
-Betingelserne i SharePoint Online ordbanken, du forventer at se, ikke vises eller er periodisk vises.
+Betingelserne i det SharePoint Online-Ordlager, du forventer at se, vises ikke eller vises periodisk.
   
-Hvis der er gået mere end 24 timer, da du så først problemet, skal du logge en supportsag. Vi forstår, at 24 timer kan virke som en lang tid. I mange tilfælde kan vi allerede arbejder på en løsning så giv os mindst 24 timer.
+Hvis der er gået mere end 24 timer, siden du første så dette problem, skal du logge en support sag. Vi forstår, at 24 timer kan virke som en lang tid. I mange tilfælde er vi allerede arbejder på en løsning, så skal du give os mindst 24 timer.
   

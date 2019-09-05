@@ -1,19 +1,19 @@
 ---
-title: Desktop app til SharePoint
-ms.author: kirks
+title: Skrivebordsapp til SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 29cf38b8fbf55a76fdf721d837efe16e3279a15e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f3c412932769d35ba79beed8065b866e12bc9bfa
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512741"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755518"
 ---
-# <a name="desktop-app-for-sharepoint"></a>Desktop app til SharePoint
+# <a name="desktop-app-for-sharepoint"></a>Skrivebordsapp til SharePoint
 
-Organisationen er indsat på Private Preview program for Desktop-App til SharePoint. Microsoft understøtter ikke aktuelt Desktop-App til SharePoint (Private eksempel). Brug din Transaction eksempel Microsoft Private partnere for at få hjælp til den Desktop App til SharePoint.
+Din organisation er angivet i det private eksempelprogram for Skrivebordsappen til SharePoint. Microsoft understøtter i øjeblikket ikke Skrivebordsappen til SharePoint (privat prøveversion). Brug dine egne Microsoft private preview-partnere til at få hjælp til Skrivebordsappen til SharePoint.

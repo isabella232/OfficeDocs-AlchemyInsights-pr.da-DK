@@ -1,6 +1,6 @@
 ---
-title: Åbn et SharePoint-bibliotek i Stifinder
-ms.author: kirks
+title: Åbne et SharePoint-bibliotek i Stifinder
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 12d895b6a9fdd9bc14b858d171acb8dccb1b6b80
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d33e0ad6903d960320578d3e3b2b5224d07a9574
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507985"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751018"
 ---
-# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Legitimationsoplysninger meddelelser i SharePoint eller OneDrive
+# <a name="credential-messages-in-sharepoint-or-onedrive"></a>Meddelelser om legitimationsoplysninger i SharePoint eller OneDrive
 
-Brugere bliver med jævne mellemrum muligvis Harmoniseringskontoret om legitimationsoplysninger til SharePoint Online- eller OneDrive når du forsøger at åbne dokumenter.
+Brugere kan med jævne mellemrum blive bedt om at angive legitimationsoplysninger for Office til SharePoint Online eller OneDrive, når de forsøger at åbne dokumenter.
 
-Følgende er nogle eksempler på legitimationsoplysninger meddelelserne:
+Følgende er nogle eksempler på meddelelserne om legitimationsoplysninger:
 
-- Log på med din organisations konto
+- Log på med din organisationskonto
 
-- Legitimationsoplysninger, der kræves
+- Legitimationsoplysninger er påkrævet
 
-- Vi kan ikke oprette forbindelse lige nu, skal du kontrollere netværksforbindelsen
+- Vi kan ikke oprette forbindelse lige nu, kontrollere din netværksforbindelse
 
-Hvis du oplever disse symptomer, skal du prøve trinnene i [denne artikel](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
+Hvis du oplever disse symptomer, kan du prøve de trin, der er placeret i [denne artikel](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint).
 
-Alternativt, hvis du bruger enkeltlogon (SSO) til at godkende, se [denne artikel](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) i stedet.
+Alternativt, hvis du bruger enkeltlogon (SSO) til at godkende, henvises du til [denne artikel](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10) i stedet.
 

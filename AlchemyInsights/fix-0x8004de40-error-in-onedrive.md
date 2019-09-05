@@ -1,6 +1,6 @@
 ---
-title: Rette fejl i 0x8004de40 i OneDrive
-ms.author: kirks
+title: Fix 0x8004de40 fejl i OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: d436184bdc0e283db217ea734fb2c8e05f85b4e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: aa0e0a63ac1e365a7cdce018626740446040a664
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525053"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755842"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Rette fejl i 0x8004de40 i OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Fix 0x8004de40 fejl i OneDrive
 
-Hvis du modtager fejlmeddelelsen 0x8004de40 med OneDrive:
+Hvis du får en 0x8004de40-fejl med OneDrive:
 
-- Genstart computeren, mens du har forbindelse til din atkiv Directory-domæne.
-- Hvis en genstart ikke løser problemet, ophæve dit medlemskab og slutte enheden fra Azure AD. 
+- Genstart den berørte computer, mens du har forbindelse til dit Acitve Directory-domæne.
+- Hvis en genstart ikke løser problemet, kan du fjerne joinforbindelse og tilslutte din enhed igen fra Azure AD. 
 
-**Bemærk**: Du skal være på virksomhedens netværk, mens du udfører disse trin. Ikke udføre disse trin, når du ikke kan oprette forbindelse til din virksomheds infrastruktur (for eksempel, mens du rejser). 
+**Bemærk**: du bør være på virksomhedens netværk, mens du udfører disse trin. Udfør ikke disse trin, når du ikke kan oprette forbindelse til virksomhedens infrastruktur (f. eks. under rejser). 
 
-- Åbn en kommandoprompt. 
-- For at åbne en kommandoprompt, klik på - **Start**, højreklik på **kommandoprompt**og derefter klikke på **Kør som administrator**.
-- Skriv *dsregcmd /leave* , og tryk på **Enter**.
-- Når du er færdig, kan du skrive *dsregcmd /join* og tryk på **Enter**.
-- Når du er færdig, kan du lukke kommandoprompten.
-- Genstart computeren, og log ind OneDrive.
+- Åbn en kommandoprompt med administratorrettigheder. 
+- Hvis du vil åbne en kommandoprompt med administratorrettigheder, skal du klikke på- **Start**, højreklikke på **kommandoprompt**og derefter klikke på **Kør som administrator**.
+- Skriv *dsregcmd/Leave* , og tryk på **Enter**.
+- Skriv *dsregcmd/join* , når du er færdig, og tryk på **Enter**.
+- Luk kommandoprompten, når du er færdig.
+- Genstart computeren, og log på OneDrive.

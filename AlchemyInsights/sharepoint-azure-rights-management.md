@@ -1,34 +1,34 @@
 ---
-title: Adgangsbegrænsning i SharePoint- eller OneDrive
-ms.author: kirks
+title: Begrænse adgangen i SharePoint eller OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504205"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751738"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>IRM-beskyttelse til SharePoint-filer
 
 
-I SharePoint Online anvendes IRM-beskyttelse på filer på listen og biblioteket. Før din organisation kan bruge IRM-beskyttelse, skal du først oprette Rights Management. IRM er baseret på Azure Rights Management-tjenesten fra Azure beskyttelse af oplysninger til at kryptere og tildele brugsrestriktioner. Nogle Office 365-planer omfatte Azure Rights Management, men ikke alle. 
+I SharePoint Online anvendes IRM-beskyttelse på filer på liste-og biblioteksniveau. Før din organisation kan bruge IRM-beskyttelse, skal du først konfigurere rettighedsstyring. IRM er afhængig af Azure Rights Management-tjenesten fra Azure information Protection til at kryptere og tildele brugsbegrænsninger. Nogle Office 365-abonnementer omfatter Azure Rights Management, men ikke alle. 
 
-Hvis du vil vide mere, se:
+Du kan få mere at vide i:
 
-- [Understøtter Azure Rights Management, hvordan Office-programmer og -tjenester](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [Sådan understøtter Office-programmer og-tjenester Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-- [Indstillet af IRM Information Rights Management () i SharePoint admin center](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [Konfigurer IRM (Information Rights Management) i SharePoint administration](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
-- [IRM-Aktiver SharePoint-dokumentbiblioteker og lister](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [IRM-Aktivér SharePoint-dokumentbiblioteker og-lister](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-- [IRM i Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [Information Rights Management i Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
-- [Oplysninger Rights Management i Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
+- [Information Rights Management i Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
 
 

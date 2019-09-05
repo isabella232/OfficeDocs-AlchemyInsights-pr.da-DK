@@ -1,6 +1,6 @@
 ---
-title: Eksterne dele med et websted for Team
-ms.author: kirks
+title: Ekstern deling med et team websted
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525956"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755878"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Eksterne dele med et websted for Team
+# <a name="external-sharing-with-a-team-site"></a>Ekstern deling med et team websted
 
-Følg disse trin for at aktivere ekstern bruger deling til Sites, Team: 
+Hvis du vil slå ekstern bruger deling til for team websteder, skal du følge disse trin: 
   
-1. Klik på **aktive websteder**i det nye SharePoint admin center.
+1. Klik på **aktive websteder**i det nye SharePoint-Administrationscenter.
   
-2. Vælg et websted, der indeholder en skabelon til **Websted for Team** . 
+2. Vælg et websted, der har en **gruppe websteds** skabelon. 
   
-3. Klik på knappen **Deling** fra den øverste menu. 
+3. Vælg knappen **deling** i menuen foroven. 
   
- **Bemærk**: som standard, når der oprettes et moderne websted for Team, eksterne deling indstilling angives til nye og eksisterende eksterne brugere. 
+ **Bemærk**: når der oprettes et moderne team websted, vil indstillingen ekstern deling blive indstillet til nye og eksisterende eksterne brugere. 
   
- **Bemærk:** Hvis du har mere end ét websted, der er valgt, vises knappen **Deling** deaktiveret. Vælg kun ét sted. 
+ **Bemærk:** Hvis du har valgt mere end ét websted, deaktiveres **delings** knappen. Vælg kun ét websted. 
   
 

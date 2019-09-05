@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557963"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738083"
 ---
 # <a name="workflow-is-not-starting"></a>Arbejdsprocessen starter ikke
 
-- Arbejdsgange i SharePoint 2010, og SharePoint 2013 starter ikke.
+- Arbejdsprocesser i SharePoint 2010 og SharePoint 2013 starter ikke.
 
-    - Hvis arbejdsprocessen ikke starter, kan der være et problem med den midlertidige tjeneste hvor brugere kan opleve forbigående forsinkelser med status for arbejdsprocessen. Kontroller [Service sundhed Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, hvis organisationen påvirkes.
+    - Hvis arbejdsprocessen ikke starter, kan der være et midlertidigt serviceproblem, hvor brugerne kan opleve periodiske forsinkelser med status for arbejdsprocessen. Kontroller [dashboardet for tjenestetilstand](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din organisation påvirkes.
 
-    - Hvis der er gået mere end 24 timer, da du så først problemet, skal du logge en støtte billet. I mange tilfælde kan arbejder vi allerede på en løsning. Giv os, mindst 24 timer at gennemføre en løsning.
+    - Hvis der er gået mere end 24 timer, siden du så dette problem, skal du logge en support billet. I mange tilfælde arbejder vi allerede på en løsning. Giv os mindst 24 timer til at gennemføre en løsning.
 
-- SharePoint 2010-arbejdsprocesser forsinkelse ved start.
+- SharePoint 2010-arbejdsprocesser forsinket på Start.
 
-    - Dette sker, hvis arbejdsprocessen udløses i store partier. (for eksempel, når flere elementer tilføjes på én gang).
+    - Dette sker, hvis arbejdsprocessen udløses i store batches. (f. eks. Når flere elementer tilføjes på én gang).
 
-    - Arbejdsprocesser er ikke beregnet til at køre i realtid, så en forsinkelse er tilsigtet funktionsmåde.
+    - Arbejdsprocesser er ikke designet til at køre i realtid, så en forsinkelse er efter design-opførsel.
 
-   -  Kompileringen kan være langsom, hvis arbejdsgangen er komplekse Extensible objekt Markup Language (XMOL). Læs [denne](https://support.microsoft.com/en-us/kb/3043697) artikel.
+   -  Hvis arbejdsprocessen er komplekst Extensible Object Markup Language (XMOL), kan kompileringen være langsom. Tjek [denne](https://support.microsoft.com//kb/3043697) artikel.
 
-    - Du bør forenkle arbejdsgangen eller designe det ved hjælp af Microsoft SharePoint 2013 platform arbejdsgangstype.
+    - Du bør forenkle arbejdsprocessen eller ændre den ved hjælp af Microsoft SharePoint 2013-arbejdsproces platforms typen.
 
-    - Hvis din arbejdsgangshistorikken er blevet stort, kan du fjerne varerne eller oprette en ny oversigtsliste.
+    - Hvis din Arbejdsproceshistorik er blevet større, kan du slette emnerne eller oprette en ny oversigtsliste.
 
-        Yderligere oplysninger: [Fjern arbejdsgangshistorik](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Flere oplysninger: [rydde Arbejdsproceshistorik](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Relaterede emner
-Vil du prøve Microsoft Flow i SharePoint Online?
-- [Oprette produktionsflow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint og Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Vil du prøve Microsoft flow i SharePoint Online?
+- [Opret flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint og flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

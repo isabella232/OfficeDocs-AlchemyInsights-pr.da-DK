@@ -1,5 +1,5 @@
 ---
-title: Omdøbe dit domæne onmicrosoft
+title: Omdøb dit onmicrosoft-domæne
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666474"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741215"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Omdøb onmicrosoft.com-domæne
+# <a name="rename-your-onmicrosoftcom-domain"></a>Omdøb dit onmicrosoft.com domæne
 
- **Du kan ikke omdøbe onmicrosoft domænet efter tilmelding.** For eksempel hvis det oprindelige domæne, du har valgt, er *fourthcoffee.onmicrosoft.com*, kan ikke du ændre den til *fabrikam.onmicrosoft.com*. Hvis du vil bruge et andet onmicrosoft.com-domæne, vil du skulle starte et nyt abonnement med Office 365.
+ **Du kan ikke omdøbe onmicrosoft-domænet efter tilmelding.** For eksempel, hvis det oprindelige domæne, du valgte, var *fourthcoffee.onmicrosoft.com*, kan du ikke ændre det til at være *fabrikam.onmicrosoft.com*. Hvis du vil bruge et andet onmicrosoft.com-domæne, skal du starte et nyt abonnement med Office 365.
   
-Hvis du vil bruge et brugerdefineret domæne såsom *contoso.com* , kan du [tilføje en du ejer](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) eller [købe et fra Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Hvis du vil bruge et brugerdefineret domæne som *contoso.com* , kan du [tilføje en, du ejer](https://docs.microsoft.com/office365/admin/setup/add-domain) , eller [købe en fra Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

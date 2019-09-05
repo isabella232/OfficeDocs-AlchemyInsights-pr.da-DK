@@ -1,5 +1,5 @@
 ---
-title: Følsomheden ikke vises
+title: Følsomheds etiketter vises ikke
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504529"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744815"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Følsomheden ikke vises
+# <a name="sensitivity-labels-not-appearing"></a>Følsomheds etiketter vises ikke
 
-Følsomheden gør det muligt at klassificere og hjælpe med at beskytte dine følsomme indhold. Hvis du vil vide mere om denne funktion, kan du se [Oversigt over følsomheden](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Med følsomheds etiketter kan du klassificere og beskytte dit følsomme indhold. Du kan få mere at vide om denne funktion i [Oversigt overfølsomheds etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
-Hvis du har konfigureret din følsomheden, men de vises ikke i Office-programmer, skal du kontrollere følgende:
+Hvis du har konfigureret dine følsomheds etiketter, men de ikke vises i Office-Apps, skal du kontrollere følgende:
 
-- Bekræft, at etiketten følsomhed er blevet [udgivet](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) til brugere og grupper, du vil.
+- Bekræft, at følsomheds etiketten er blevet [publiceret](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) til de brugere og grupper, du ønsker.
 
-- Bekræft, at brugeren anvender en app, der understøtter følsomheden – se [følsomheden i dokumentet](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Bekræft, at brugeren bruger en app, der understøtter følsomheds etiketter – Se [følsomheds etiketter i dokumentet](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
 
-- Hvis du [overfører Azure databeskyttelse etiketter](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), skal være opmærksom på de overvejelser anført [her](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Hvis du [migrerer Azure information Protection labels](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), skal du være opmærksom på de overvejelser, der er anført [her](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
-- Forhindring af datatab (DLP) understøtter: i øjeblikket kun tilbageholdelse etiketter kan bruges som en betingelse i DLP politikker.  Understøttelse af følsomheden i en DLP-politik er ikke tilgængelig endnu, men vi arbejder på den.
+- Understøttelse af forhindring af datatab (DLP): i øjeblikket kan kun opbevarings etiketter bruges som en betingelse i DLP-politikker.  Understøttelse af følsomheds etiketter i en DLP-politik er endnu ikke tilgængelig, men vi arbejder på den.
 
-Yderligere oplysninger om mulige problemer, se [kendte problemer med følsomheden](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+Du finder flere oplysninger om mulige problemer under [kendte problemer med følsomheds etiketter](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

@@ -1,6 +1,6 @@
 ---
-title: Adgang nægtet, når du får vist en arbejdsproces
-ms.author: kirks
+title: Adgang nægtet ved visning af en arbejdsproces
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495817"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747742"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Adgang nægtet, når du får vist en arbejdsproces
+# <a name="access-denied-when-viewing-a-workflow"></a>Adgang nægtet ved visning af en arbejdsproces
 
-SharePoint 2013 arbejdsprocesser, der forsøger at sende en e-mail til en SharePoint-gruppe kan mislykkes med en "Adgang nægtet"-fejlmeddelelse, hvis medlemskab af gruppen SharePoint ikke er indstillet til alle.
+SharePoint 2013-arbejdsprocesser, der forsøger at sende en mail til en SharePoint-gruppe, kan mislykkes med en fejlmeddelelse af typen "adgang nægtet", hvis medlemskabet af SharePoint-gruppen ikke er angivet til alle.
   
- **Du kan løse dette problem ved at gøre disse trin:**
+ **Du kan løse dette problem ved at benytte følgende fremgangsmåde:**
   
- 1. Gør det muligt for alle at se medlemmer af SharePoint-gruppen.
+ 1. Tillad alle at se medlemmerne af SharePoint-gruppen.
   
- 2. Fjern SharePoint-gruppen fra boksen til eller CC linje i e-mailen.
+ 2. Fjern SharePoint-gruppen fra linjen til eller CC i e-mailen.
   
- 3. Tilføj brugerne eksplicit til til eller CC linje, hvis medlemskab synlighed ikke kan ændres for SharePoint-gruppe.
+ 3. Føj eksplicit brugerne til linjen til eller CC, hvis medlems synlighed ikke kan ændres for SharePoint-gruppen.
   
-For at få vist se flere oplysninger [HTTP med uautoriserede /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+For at se flere oplysninger henvises til [http uautoriseret til/_vti_bin/Client.Svc/Sp.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

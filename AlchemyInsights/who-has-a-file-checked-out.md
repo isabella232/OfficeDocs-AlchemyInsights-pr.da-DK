@@ -1,6 +1,6 @@
 ---
-title: Hvem har en fil, der er tjekket ud?
-ms.author: kirks
+title: Hvem har en fil tjekket ud?
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531000"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748318"
 ---
-# <a name="who-has-a-file-checked-out"></a>Hvem har en fil, der er tjekket ud?
+# <a name="who-has-a-file-checked-out"></a>Hvem har en fil tjekket ud?
 
-Hvis du vil se, hvem der har en fil, der er tjekket ud i SharePoint, kan du benytte en af følgende trin:
+Hvis du vil se, hvem der har en fil tjekket ud i SharePoint, kan du benytte en af følgende fremgangsmåder:
   
-1. Placer markøren over **Tjekket ud** til at få vist et værktøjstip, der fortæller dig, der har filen tjekket ud. 
+1. Hold markøren over **tjekket ud** for at se et værktøjstip, der fortæller dig, hvem der har tjekket filen ud. 
     
-2. Tilføje kolonnen, der er **Tjekket ud af** til standardvisningen af biblioteket. På denne måde, kan alle nemt se, hvem der har et dokument, der er tjekket ud. 
+2. Føj kolonnen **tjekket ud efter** til standardvisningen i biblioteket. På denne måde kan alle nemt se, hvem der har et dokument tjekket ud. 
     
-For at lære at tilføje en kolonne, der er tjekket ud af i SharePoint, skal du se [oprette en kolonne i en liste eller et bibliotek](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Du kan få mere at vide om, hvordan du tilføjer en kolonne, der er tjekket ud i SharePoint, under [oprette en kolonne på en liste eller i et bibliotek](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Se mere ofte stillede spørgsmål om indtjekning eller tjekke, se [øverste spørgsmål om udtjekning, indtjekning](https://go.microsoft.com/fwlink/?linkid=2018786).
+Se flere ofte stillede spørgsmål om indtjekning eller udtjekning, se [de mest populære spørgsmål om check ud, Tjek ind](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

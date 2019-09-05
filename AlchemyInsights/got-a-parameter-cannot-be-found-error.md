@@ -1,5 +1,5 @@
 ---
-title: Har du en 'Parameter blev ikke fundet' fejl?
+title: Fik en ' parameter kan ikke ' være oprette ' fejl?
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -11,21 +11,21 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: a3e12e84d30dc3fed34142c5c60d8fa2ffd6ee56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523469"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739847"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrering af e-mail fra IMAP e-mail-system til Office 365
+# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrering af mails fra IMAP-e-mail-system til Office 365
 
-Hvis du vil overføre e-mail fra en IMAP-e-mail-system, skal du følge denne proces: [IMAP-overførsel i Microsoft 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
+Hvis du vil overføre mails fra et IMAP-postsystem, skal du følge denne proces: [IMAP-overførsel i Microsoft 365 administration](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Mange store virksomheder skal planlægge det omhyggeligt, at administrere brugerens forventninger. [Hvad du skal vide om overflytning af dine IMAP-postkasser til Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) -artikel hjælper dig med at håndtere ændringen.
+Mange store organisationer skal planlægge omhyggeligt for at håndtere brugernes forventninger. Det [, du skal vide om overførsel af dine IMAP-postkasser til Office 365-](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) artiklen, hjælper dig med at administrere ændringen.
 
-Også Kontroller siden [vedtage Office 365 med FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) assisterede hjælp til overførsel, hvis det er berettiget.
+Kontroller også, at du kan få assisteret hjælp til migrering, hvis det er berettiget, på siden [adopterer Office 365 med FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) .
   
 
-Også Kontroller siden [vedtage Office 365 med FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) assisterede hjælp til overførsel, hvis det er berettiget.
+Kontroller også, at du kan få assisteret hjælp til migrering, hvis det er berettiget, på siden [adopterer Office 365 med FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) .
   

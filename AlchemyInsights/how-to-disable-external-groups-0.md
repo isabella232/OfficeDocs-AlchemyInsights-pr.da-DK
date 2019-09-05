@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541207"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739559"
 ---
 # <a name="how-to-disable-external-groups"></a>Sådan deaktiveres eksterne grupper
 
-Der er fire måder eksterne brugere kan få adgang til netværket i Yammer.
+Der er fire måder, hvorpå eksterne brugere kan få adgang til dit netværk i Yammer.
   
-1. **Gæstebrugere** - Yammer Admins kan invitere kontaktpersoner fra eksterne domæner, som brugerne på hjemmenetværket. Disse brugere vil se alle firmaet feed og andre grupper kan deltage i netværk samt.
+1. **Gæstebrugere** – Yammer-administratorer kan invitere kontakter fra eksterne domæner som brugere på hjemmenetværket. Disse brugere vil se alle virksomhedens feed og kan deltage i andre grupper i de netværk, som godt.
 
-2. **Eksterne brugere i en ekstern gruppe** - eksterne grupper gøre det muligt for eksterne brugere. En ekstern brugeradgang anvendelsesområde er begrænset til den eksterne gruppe. Du kan kun invitere kontaktpersoner fra Yammer-netværk, der tillader brugere at deltage i eksterne samtaler med eksterne grupper.
+2. **Eksterne brugere i en ekstern gruppe** -eksterne grupper tillader eksterne brugere. Omfanget af en ekstern brugers adgang er begrænset til den eksterne gruppe. Med eksterne grupper kan du kun invitere kontakter fra Yammer-netværk, der giver brugerne mulighed for at deltage i eksterne samtaler.
 
-3. **Eksterne brugere i en Yammer samtale i en intern gruppe** - denne indstilling gør det muligt for eksterne deltagere, der skal føjes til en bestemt samtale. Eksterne deltagere kan kun deltage i samtaler, de har været udtrykkeligt er inviteret til og eventuelle vedhæftede filer i samtalen. De få adgang til disse samtaler via deres Yammer Indbakke (på deres netværk). De har ikke adgang til resten af netværket.
+3. **Eksterne brugere i en Yammer-samtale i en intern gruppe** -denne indstilling gør det muligt for eksterne deltagere at blive føjet til en bestemt samtale. Eksterne deltagere kan kun deltage i samtaler, som de er blevet eksplicit inviteret til, og til eventuelle vedhæftede filer i samtalen. De har adgang til disse samtaler via deres Yammer-Indbakke (på deres netværk). De har ikke adgang til resten af dit netværk.
 
-4. **Eksterne netværk** - denne indstilling gør det muligt at invitere eksterne brugere til et eksternt netværk, der kontrolleres, at administratorer kan oprette i netværket. Denne indstilling er bedst egnet til vært for eksterne grupper.
+4. **Eksterne netværk** -denne indstilling giver dig mulighed for at invitere eksterne brugere til et eksternt netværk, som bekræftede administratorer kan oprette i dit netværk. Denne indstilling er bedst egnet til at være vært for eksterne Fællesskaber.
 
-Yderligere oplysninger finder du [Tilføj eksterne messaging deltagere til samtaler Yammer](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) og [Eksterne Messaging-ofte stillede spørgsmål (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Du kan finde flere oplysninger under [føje eksterne meddelelses deltagere til dine yammer-samtaler](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) og [ofte stillede spørgsmål om eksterne meddelelser (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

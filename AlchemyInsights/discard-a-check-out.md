@@ -1,6 +1,6 @@
 ---
-title: Slette en udtjekning
-ms.author: kirks
+title: Kassér en udtjekning
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/7/2018
 ms.audience: ITPro
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 2d4bd517c122e5ddbafd99e43471f29dffbfe157
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ca494779e43ac84f5243d69ab579d8bc919be5f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512669"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755626"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Annullere en check ud fra et dokumentbibliotek
+# <a name="discard-a-check-out-from-a-document-library"></a>Kassere en udtjekning fra et dokumentbibliotek
 
-1. Højreklik på den fil, du vil slette udtjekningen.
+1. Højreklik på den fil, du vil kassere udtjekning.
     
-2. Klik på **flere**, og klik derefter på **Slet udtjekning**. 
+2. Klik på **mere**, og klik derefter på **kassér udtjekning**. 
     
-3. Fra dialogboksen, klik på **Slet udtjekning** for at fjerne markeringen. 
+3. Klik på **kassér** udtjekning i dialogboksen for at rydde checken ud. 
     
-Finde [øverste spørgsmål om udtjekning, checket ind, og versioner](https://go.microsoft.com/fwlink/?linkid=2018786)på yderligere spørgsmål om indtjekning og udtjekning.
+Du finder flere spørgsmål om, hvordan du tjekker ind og tjekker ud, under [de mest populære spørgsmål om udtjekning, indtjekning og versioner](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

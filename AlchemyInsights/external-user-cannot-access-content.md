@@ -1,5 +1,5 @@
 ---
-title: Eksterne brugere kan ikke få adgang til indhold
+title: Ekstern bruger kan ikke få adgang til indhold
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 067756fb7a411a2c75de1c61c3b57e78a07046da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526025"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740027"
 ---
-# <a name="external-user-cannot-access-content"></a>Eksterne brugere kan ikke få adgang til indhold
+# <a name="external-user-cannot-access-content"></a>Ekstern bruger kan ikke få adgang til indhold
 
-Hvis en ekstern bruger er blevet inviteret, og kan ikke få adgang til indhold, skal du prøve at besøge nedenstående links:
+Hvis en ekstern bruger er blevet inviteret og ikke kan få adgang til indhold, kan du prøve at besøge nedenstående links:
 
-- ["Adgang nægtet", "Du skal tilladelse til at få adgang til dette websted," eller "Bruger ikke fundet i mappen" fejl i SharePoint Online- og OneDrive til virksomheder](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Organisationens politik tillader ikke at dele med disse brugere" fejl ved deling af en vare eller et websted i SharePoint Online- eller OneDrive til virksomheder](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Indstillinger for Deling er nedtonede, når du deler fra SharePoint Online- eller OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Fejlmeddelelse, når en ekstern bruger accepterer en invitation til SharePoint Online ved hjælp af en anden konto](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE deling fejl i SharePoint- og OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Adgang nægtet", "du har brug for tilladelse til at få adgang til dette websted", eller "bruger ikke fundet i mappen" fejl i SharePoint Online og OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Organisationens politikker tillader ikke, at du deler med disse brugere"-fejl, når du deler et element eller websted i SharePoint Online eller OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Delingsindstillinger er nedtonet, når du deler fra SharePoint Online eller OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Fejlmeddelelse, når en ekstern bruger accepterer en SharePoint Online-invitation ved hjælp af en anden konto](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [OSE deler fejl i SharePoint og OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

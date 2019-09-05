@@ -1,6 +1,6 @@
 ---
-title: Aktivere Deling af eksterne
-ms.author: kirks
+title: Aktivér ekstern deling
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527645"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756022"
 ---
-# <a name="enable-external-sharing"></a>Aktivere Deling af eksterne
+# <a name="enable-external-sharing"></a>Aktivér ekstern deling
 
- At sikre, at Deling er aktiveret for SharePoint Online:
+ Sådan sikrer du, at deling er aktiveret for SharePoint Online:
   
-- **Global Deling**
+- **Global deling**
     
-  - Portal -\> eksterne deling -\> oversigt over Deling af-websteder, kan eksterne brugere adgang til dine websteder: på
+  - Portal-\> ekstern deling-\> deling oversigt-sites, lad eksterne mennesker adgang til dine websteder: på
     
-  - Portal -\> eksterne deling -\> websteder - afkrydsningsfeltet "Give eksterne brugere adgang til dine websteder"
+  - Portal-\> ekstern deling-\> sites-"Lad eksterne folk få adgang til dine sites" afkrydsningsfeltet
     
-- **Administrative dele - SharePoint Admin Center**
+- **Administrativ deling-SharePoint administration**
     
-    Eksterne deling - sikre to valgmuligheder vælges:
+    Ekstern deling-Sørg for, at en af de to muligheder er valgt:
     
-  - "Tillad eksterne brugere, der accepterer deling invitationer og Log ind som godkendte brugere"
+  - "Tillad eksterne brugere, der accepterer at dele invitationer og logge på som godkendte brugere"
     
-  - "Tillad både eksterne brugere, der accepterer deling invitationer og anonym gæst links"
+  - "Tillad både eksterne brugere, der accepterer delings invitationer og anonyme gæstelinks"
     
-- **Enkelte grupper af websteder**
+- **Individuelle grupper af websteder**
     
-  - Site samlinger - Vælg pågældende websteder, og klik derefter på Deling - båndet -\> sikre vælges enten indstillinger for Deling.
+  - Grupper af websteder – Vælg den pågældende gruppe af websteder, og klik derefter på deling – fra\> båndet – Sørg for, at der er valgt delingsindstillinger.
     
-Se yderligere oplysninger om, hvordan du slår deling af eksterne [Slå eksterne deling til eller fra for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Du kan finde flere oplysninger om, hvordan du aktiverer ekstern deling, under [slå ekstern deling til eller fra for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

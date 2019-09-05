@@ -1,33 +1,33 @@
 ---
-title: Synkronisere en brugers profilbillede
-ms.author: kirks
+title: Synkroniser en brugers profilbillede
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: e63da2e0e67f2ed1f4f95d128b3215c8378ee81e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d2a3d08a6ee20cd4f62457b5365449fc5781606
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521849"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753831"
 ---
-# <a name="sync-a-users-profile-picture"></a>Synkronisere en brugers profilbillede
+# <a name="sync-a-users-profile-picture"></a>Synkroniser en brugers profilbillede
 
-Du kan tilføje eller ændre dit profilfoto i Office 365 fra [Office.com](http://www.office.com), eller når du bruger Office 365-programmer på din computer eller i en browser på din telefon. Billedet vises overalt, hvor der er en profil billede cirkel i Office 365.
+Du kan tilføje eller ændre dit profilbillede i Office 365 fra [Office.com](http://www.office.com), eller mens du bruger Office 365-programmer på din computer eller i en browser på din telefon. Dit billede vises overalt, hvor der er en profil fotocirkel i Office 365.
 
-Føje dit profilbillede til Office 365 til virksomheder
+Sådan føjer du dit profilbillede til Office 365 til virksomheder
 
-- Søge efter et billede, du vil bruge, og gemme det på din computer, en OneDrive eller en anden placering, kan du komme til
+- Find et billede, du vil bruge, og Gem det på din computer, OneDrive eller et andet sted, du kan komme til
 
-- Log på Office 365 med dit arbejde eller skole konto på [office.com](http://www.office.com).
+- Log på Office 365 med din arbejds-eller skolekonto på [Office.com](http://www.office.com).
 
-- Vælg cirklen i øverste højre hjørne af siden, der viser dine initialer eller et ikon af en person.
+- Vælg cirklen i øverste højre hjørne af siden, der viser dine initialer eller et ikon for en person.
 
-- I den rude mine konti, Vælg den cirkel, der viser dine initialer eller et ikon af en person. Ændre billedet i den pop op-vindue, der vises.
+- I ruden mine konti skal du vælge den cirkel, der viser dine initialer eller et ikon for en person. Skift dit billede i pop op-vinduet, der vises.
 
-Bemærk: Hvis du allerede har sendt et billede kan du prøve at klikke på flisen SharePoint- eller OneDrive for at synkronisere billedet igen.
+Bemærk: Hvis du allerede har uploadet et billede, kan du prøve at klikke på feltet SharePoint eller OneDrive for at synkronisere billedet igen.
 
-Yderligere oplysninger finder du [oplysninger om synkronisering af brugerprofil billede i Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US).
+Yderligere oplysninger finder du [i oplysninger om synkronisering af profilbilleder i Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).

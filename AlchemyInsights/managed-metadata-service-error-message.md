@@ -1,6 +1,6 @@
 ---
-title: Administrerede Metadata Service-fejlmeddelelse
-ms.author: kirks
+title: Fejlmeddelelse om administreret metadatatjeneste
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541987"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754294"
 ---
-# <a name="managed-metadata-service-error-message"></a>Administrerede Metadata Service-fejlmeddelelse
+# <a name="managed-metadata-service-error-message"></a>Fejlmeddelelse om administreret metadatatjeneste
 
-Når du åbner ordbanken, vises muligvis en fejlmeddelelse: "den administrerede Metadata Service eller en forbindelse er ikke tilgængelig. Programgruppen eller den administrerede metadatawebtjeneste er muligvis ikke startet. Kontakt administratoren."
+Når du åbner ordlageret, får du muligvis vist en fejlmeddelelse: "den administrerede metadatatjeneste eller forbindelse er ikke tilgængelig i øjeblikket. Programgruppen eller webtjenesten til administrerede metadata er muligvis ikke startet. Kontakt administratoren. "
   
-Hvis der er gået mere end 24 timer, da du så først problemet, skal du logge en supportsag. Vi forstår, at 24 timer kan virke som en lang tid. I mange tilfælde kan vi allerede arbejder på en løsning så giv os mindst 24 timer.
+Hvis der er gået mere end 24 timer, siden du første så dette problem, skal du logge en support sag. Vi forstår, at 24 timer kan virke som en lang tid. I mange tilfælde er vi allerede arbejder på en løsning, så skal du give os mindst 24 timer.
   

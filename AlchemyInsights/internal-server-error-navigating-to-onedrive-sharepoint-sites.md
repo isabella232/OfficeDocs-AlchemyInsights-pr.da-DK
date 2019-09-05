@@ -1,6 +1,6 @@
 ---
-title: Problemer med ydeevne-SharePoint- eller OneDrive
-ms.author: kirks
+title: Problemer med ydeevnen-SharePoint eller OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 4c68a365d6094a73a1ab35dddfcffb679421bd34
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 621504f5b7170ff36ad093330b8a662e7222d1e7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498337"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754474"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Intern serverfejl, når du navigerer til websteder, Sharepoint- eller OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Intern serverfejl, når du navigerer til SharePoint-eller OneDrive-websteder
 
-Brugerne kan modtage en 500 Intern serverfejl, når du forsøger at navigere til websteder, SharePoint- eller OneDrive. 
+Brugere kan modtage en 500 Intern serverfejl, når de forsøger at navigere til SharePoint-eller OneDrive-websteder. 
 
-Du bør forsøge at rydde browsercachen før navigere til webstedet.
+Forsøg at rydde browserens cache, før du navigerer til webstedet.
 
 
-1. Browseren Microsoft Edge, gå til mere... > indstillinger
+1. I Microsoft Edge-browseren skal du gå til flere... > indstillinger
 
-2. Vælg **vælge Ryd** under Ryd søgning data
+2. Under Ryd browserdata skal du vælge **Vælg, hvad du vil rydde**
 
-3. Marker de Cookies og gemt webstedet data, og vælg **Slet**.
+3. Markér afkrydsningsfeltet cookies og gemte webstedsdata, og vælg **Ryd**.
 
-Bemærk: Disse trin kan variere, når du bruger andre browsere som Firefox eller Chrome.
+Bemærk: disse trin kan variere, når du bruger andre browsere som Firefox eller Chrome.
 
-Hvis dette ikke løser problemet, kan du kontrollere, om der findes aktive vedligeholdelse, der forekommer på din lejer ved at gå til [Message center](https://portal.office.com/adminportal/home#/MessageCenter).
+Hvis dette ikke løser problemet, kan du kontrollere, om der er aktiv vedligeholdelse på din lejer, ved at navigere til [meddelelsescenteret](https://portal.office.com/adminportal/home#/MessageCenter).
 
-Endelig skal du kontrollere du besøger siden [Service sundhed](https://portal.office.com/adminportal/home#/servicehealth) til at kontrollere for eventuelle sikkerhedsmeddelelser/hændelser, der kan forekomme.
+Endelig skal du sikre dig, at du besøger siden [tjenestetilstand](https://portal.office.com/adminportal/home#/servicehealth) for at kontrollere, om der er meddelelser/hændelser, som kan forekomme.
 

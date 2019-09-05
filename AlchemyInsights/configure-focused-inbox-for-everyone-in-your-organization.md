@@ -1,5 +1,5 @@
 ---
-title: 912 Konfigurer Focused indbakken for alle i organisationen
+title: 912 Konfigurer fokuseret indbakke for alle i din organisation
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504709"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738407"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Slå fokuseret indbakke til eller fra for alle
 
-Yderligere oplysninger finder du i [Konfigurere fokuseret indbakken for alle i organisationen](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Du finder en vejledning [i konfigurere fokuseret indbakke for alle i organisationen](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Bemærk**: denne procedure kræver Exchange Online PowerShell. Vil du gøre dette i Microsoft 365 admin center i stedet? [Stem her!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Bemærk**: denne procedure kræver Exchange Online PowerShell. Vil du gøre dette i Microsoft 365 administration i stedet? [Stem her!](https://go.microsoft.com/fwlink/p/?linkid=862489)

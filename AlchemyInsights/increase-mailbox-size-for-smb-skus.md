@@ -1,5 +1,5 @@
 ---
-title: Øge størrelsen på postkassen for SMB-lagervarer
+title: Forøg postkassestørrelsen for SMB-SKU'er
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499273"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739235"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Skift til hensigt at øge størrelsen på postkassen
+# <a name="switch-plans-to-increase-mailbox-size"></a>Skift planer for at forøge størrelsen på postkassen
 
-Hvis postkassens størrelse 50 GB, kan du øge postkassestørrelsen til 100 GB ved at skifte til [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Her er trinnene til at skifte til en anden Office 365-plan:
+Hvis postkassestørrelsen er 50 GB, kan du forøge postkassestørrelsen til 100 GB ved at skifte til [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Her er trinnene til at skifte til en anden Office 365-plan:
   
-1. Gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) på Microsoft 365 admin center, eller Vælg **Fakturering** \> **abonnementer**.
+1. I Microsoft 365 administration skal du gå til siden [abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller vælge **fakturerings** \> **abonnementer**.
     
-2. Vælg **Skift planer** til at få vist listen over de nye planer, der er tilgængelige. 
+2. Vælg **Skift planer** for at få vist listen over nye planer, der er tilgængelige. 
     
-3. Vælg en plan for at se de nye samlede omkostninger pr. måned. Husk at læse **vigtige oplysninger**og derefter vælge **Næste** at tjekke ud. 
+3. Vælg en plan for at se de nye samlede omkostninger pr. måned. Sørg for at læse de **vigtigste oplysninger**, og vælg derefter **næste** for at tjekke ud. 
     
-4. Når du er færdig med udlevering, tager et par minutter at færdiggøre switchen i Office 365. Du kan begynde at bruge dit nye abonnement.
+4. Når du er færdig med at betale, tager Office 365 et par minutter at afslutte switchen. Du kan begynde at bruge dit nye abonnement med det samme.
     
-Yderligere oplysninger finder du i [skifte til en anden Office 365-plan](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+Du finder flere oplysninger under [skifte til en anden Office 365-plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

@@ -1,26 +1,26 @@
 ---
-title: Websteds- og indholdsstruktur fjernet
-ms.author: kirks
+title: Websteds-og indholds strukturen er fjernet
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502261"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749470"
 ---
-# <a name="site-and-content-structure-removed"></a>Websteds- og indholdsstruktur fjernet
+# <a name="site-and-content-structure-removed"></a>Websteds-og indholds strukturen er fjernet
 
-Starter i oktober 2018, siden indhold og struktur ikke længere understøttes, eller modtage opdateringer funktion. Linket indstillinger til siden SiteManager.aspx vil blive fjernet fra SharePoint Online og direkte adgang vil være begrænset til webstedet samling Admins indtil marts 2019, hvorefter siden webstedsindhold og -struktur være helt Pensioneret. 
+Fra og med oktober 2018 vil siden Webstedsindhold og-struktur ikke længere være understøttet eller modtage FUNKTIONSOPDATERINGER. Linket indstillinger til siden SiteManager. aspx fjernes fra SharePoint Online, og direkte adgang vil være begrænset til administratorer af gruppe af websteder indtil marts 2019, hvor siden Webstedsindhold og-struktur vil være helt pensioneret. 
 
-Bemærk: Du kan løse problemet før funktionen er helt udgået, webstedsgruppeadministratorer kan navigere til Office 365-portalen-> Klik på SharePoint side om side - >, tilføje eller redigere URL-adressen ved at erstatte ' / Sharepoint.aspx' med ' / Sitemanager.aspx'. 
+Bemærk: som en løsning, indtil funktionen er fuldt pensioneret, kan administratorer af gruppe af websteder navigere til Microsoft 365 administration, vælge SharePoint-flisen og tilføje eller redigere URL-adressen ved at erstatte '/SharePoint.aspx ' med '/SiteManager.aspx '. 
 
 
-Brug filen Flyt og kopier til at styre webstedets indhold og struktur. Yderligere oplysninger finder du i [kopiere filer og mapper mellem OneDrive og SharePoint-websteder](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Brug fil Flyt og Kopiér til at administrere webstedets indhold og struktur. Du finder flere oplysninger under [kopiere filer og mapper mellem OneDrive og SharePoint-websteder](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
 
-Yderligere oplysninger, se [arbejde med webstedsindhold og -struktur](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+Yderligere oplysninger finder du i [arbejde med webstedets indhold og struktur](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).

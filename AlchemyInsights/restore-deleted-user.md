@@ -1,5 +1,5 @@
 ---
-title: Gendanne slettede bruger
+title: Gendan slettet bruger
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551805"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745067"
 ---
-# <a name="restore-a-user-in-office-365"></a>Gendanne en bruger i Office 365
+# <a name="restore-a-user-in-office-365"></a>Gendan en bruger i Office 365
 
-Gendanne en bruger i Office 365 ved hjælp af følgende fremgangsmåde:
+Gendan en bruger i Office 365 ved hjælp af disse trin:
   
-1. Gå til [brugere \> slettet brugere](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Gå til [brugere \> slettede brugere](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Vælg brugeren, og derefter vælge **Gendan**.
+2. Vælg brugeren, og vælg derefter **Gendan**.
 
-3. Følg prompterne for at angive adgangskoden.
+3. Følg anvisningerne for at angive adgangskoden.
 
-4. Klik på **Send e-mail og lukke**, og du er færdig!
+4. Klik på **Send e-mail og luk**, og du er færdig!
 
-Var ikke så nemt? Læs denne artikel for flere detaljer og trin med skærmbilleder: [gendanne en bruger i Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Hvis du finder ud af du skal i stedet gendanne brugers postkasse, kan du se: [Slet eller Gendan brugerpostkasser i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Var det ikke så let? Du finder flere oplysninger og trin med skærmbilleder i denne artikel: [Gendan en bruger i Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Hvis du indser, at du i stedet har brug for at gendanne brugerens postkasse, skal du se: [slette eller gendanne brugerpostkasser i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

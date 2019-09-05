@@ -1,5 +1,5 @@
 ---
-title: Tilføje en anden e-mail-alias
+title: Tilføj et andet mailalias
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: c6ac69ab9a6063b2f42542c05cd7d21ec7d7be57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495097"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737327"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Oprette eller tilføje en e-mail-alias for en bruger
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Oprette eller tilføje et mailalias for en bruger
 
-Brug for at oprette et e-mail-alias for en bruger, eller Tilføj en ekstra e-mail-adresse? Følg disse trin!
+Har du brug for at oprette et mailalias for en bruger eller tilføje en ekstra e-mailadresse? Bare Følg disse trin!
   
-1. Gå til siden [brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) i Microsoft 365 admin center, eller Vælg **brugere** \> **Aktive brugere**.
+1. I Microsoft 365 administration skal du gå til siden [brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) eller vælge **brugere** \> , som er **aktive brugere**.
     
-2. Vælg navnet på den person, du vil redigere, på siden **Aktive brugere** . 
+2. Vælg navnet på den person, du vil redigere, på siden **aktive brugere** . 
     
-3. Til højre i det **brugernavn / e-mail-aliaser** række, skal du vælge **Rediger**.
+3. Til højre, i rækken **username/email aliaser** , Vælg **Edit (Rediger**).
     
-4. Skriv en ny e-mail i boksen **Alias** og derefter vælge **Tilføj**. Hvis du har købt abonnementet fra være opfyldt eller en anden Partner, for at angive det nye alias som primært, skal du gå til være opfyldt/partner management console. 
+4. Skriv en ny mail i feltet **alias** , og vælg derefter **Tilføj**. Hvis du har købt dit abonnement hos GoDaddy eller en anden partner, skal du gå til GoDaddy/partner Management Console for at angive det nye alias som det primære. 
     
-    **Vigtigt**: Hvis du får vist fejlmeddelelsen " **blev ikke fundet en parameter, der svarer til parameternavnet ' EmailAddresses**" betyder, at det tager lidt længere tid til Office 365 at afslutte opsætningen af din lejer eller dit brugerdefinerede domæne, hvis du for nylig har tilføjet en . Installationen kan tage op til 4 timer. Vent et øjeblik, så installationsprocessen, har tid til at afslutte, og prøv derefter igen. Hvis problemet fortsætter, skal du kontakte Support, og de vil gøre en fuld synkronisering for dig.
+    **Vigtigt**: Hvis du får fejlmeddelelsen "der **kan ikke findes en parameter, som svarer til Parameternavnet ' emailaddresses**", betyder det, at det tager lidt længere tid for Office 365 at afslutte konfigurationen af din lejer eller dit brugerdefinerede domæne, hvis du for nylig har tilføjet en . Installationsprocessen kan tage op til 4 timer at fuldføre. Vent et øjeblik, så konfigurere processen har tid til at afslutte, og prøv derefter igen. Hvis problemet fortsætter, skal du ringe til support, og de vil gøre en fuld synkronisering for dig.
     
-    Det tager normalt ca. 30 minutter for det nye alias kan træde i kraft.
+    Det tager normalt ca. 30 minutter, at det nye alias træder i kraft.
     
-    **Yderligere oplysninger finder du i denne artikel:** [Tilføj ekstra e-mail-aliaser til en bruger](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    Du **finder flere oplysninger i denne artikel:** [Tilføje et andet mailalias for en bruger](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

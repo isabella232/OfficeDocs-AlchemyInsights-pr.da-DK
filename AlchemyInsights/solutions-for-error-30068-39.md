@@ -1,5 +1,5 @@
 ---
-title: Løsninger til fejl 30068 39
+title: Løsninger til fejl 30068-39
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501685"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743339"
 ---
-# <a name="solutions-for-error-30068-39"></a>Løsninger til fejl 30068 39
+# <a name="solutions-for-error-30068-39"></a>Løsninger til fejl 30068-39
 
-Prøv disse løsninger for at rette fejl [30068 39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
+Prøv disse løsninger for at rette fejl [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
 - Genstart computeren, og prøv at [installere Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Hvis **Microsoft Klik og kør -**[tjenesten er deaktiveret](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , og hvis den er deaktiveret, kan du ændre status til **Manuel** eller **automatisk**.
+- Kontroller, om **Microsoft Klik og Kør-** [tjenesten er deaktiveret](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , og hvis den er deaktiveret, skal du ændre status til **Manuel** eller **automatisk**.
 
-- Hent og Installer [Support og genoprettelse-assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Hent og Installer [support-og genoprettelsesassistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Når den åbnes fra **afinstallere Office-produkter** , skal du vælge den version, du vil fjerne, og klik på **Næste**.
+1. Når den åbnes, skal du vælge den version, du vil afinstallere, og vælge **næste**på **Fjern Office-produkter** .
 
-2. Fortsætte gennem skærmbillederne, og genstart computeren, når du bliver bedt om.
+2. Fortsæt med at gå gennem skærmbilleder, og genstart computeren, når du bliver bedt om det.
 
-    Efter genstart åbnes Support og genoprettelse assistenten igen automatisk for at gennemføre afinstallationsprocessen.
+    Efter genstart åbnes support-og Genoprettelsesassistenten automatisk igen for at fuldføre afinstallationsprocessen.
 
-3. Følg de resterende spørgsmål og [geninstallere Office](https://portal.office.com/OLS/MySoftware.aspx) , eller luk assistenten.
+3. Følg de resterende prompter, og [Geninstaller Office](https://portal.office.com/OLS/MySoftware.aspx) , eller luk assistenten.

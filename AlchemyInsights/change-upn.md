@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520841"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738587"
 ---
-# <a name="change-a-users-email-address"></a>Ændre en brugers e-mail-adresse
+# <a name="change-a-users-email-address"></a>Ændre en brugers mailadresse
 
-Det er nemt at ændre en persons e-mail-adresse! Du skal blot følge disse trin:
+Det er nemt at ændre en persons e-mailadresse! Du skal blot følge disse trin:
   
-1. Gå til siden [brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) i Microsoft 365 admin center, eller Vælg **brugere** \> **Aktive brugere**.
+1. I Microsoft 365 administration skal du gå til siden [brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) eller vælge **brugere** \> , som er **aktive brugere**.
     
 2. Vælg brugeren.
     
-3. Til højre i det **brugernavn / e-mail-aliaser** række, skal du vælge **Rediger**.
+3. Til højre, i rækken **username/email aliaser** , Vælg **Edit (Rediger**).
     
-4. Skriv en ny e-mail i boksen **Alias** og derefter vælge **Tilføj**.
+4. Skriv en ny mail i feltet **alias** , og vælg derefter **Tilføj**.
     
-    **Vigtigt**: Hvis du får vist fejlmeddelelsen " **blev ikke fundet en parameter, der svarer til parameternavnet ' EmailAddresses**" betyder, at det tager lidt længere tid til Office 365 at afslutte opsætningen af din lejer eller dit brugerdefinerede domæne, hvis du for nylig har tilføjet en . Installationen kan tage op til 4 timer. Vent et øjeblik, så installationen har tid til at afslutte, og prøv derefter igen. Hvis problemet fortsætter, skal du kontakte Support, og de vil gøre en fuld synkronisering for dig.
+    **Vigtigt**: Hvis du får fejlmeddelelsen "der **kan ikke findes en parameter, som svarer til Parameternavnet ' emailaddresses**", betyder det, at det tager lidt længere tid for Office 365 at afslutte konfigurationen af din lejer eller dit brugerdefinerede domæne, hvis du for nylig har tilføjet en . Installationsprocessen kan tage op til 4 timer at fuldføre. Vent et øjeblik, så installationsprocessen har tid til at afslutte, og prøv derefter igen. Hvis problemet fortsætter, skal du ringe til support, og de vil gøre en fuld synkronisering for dig.
     
-    Hvis du får vist fejlmeddelelsen " **Vi beklager, brugeren ikke kunne redigeres. Gennemse brugeroplysninger, og prøv igen**"betyder det, at du ikke er en global administrator i Office 365, og du ikke har tilladelse til at ændre brugerens navn.
+    Hvis du får fejlmeddelelsen " **vi er kede af, kan brugeren ikke redigeres. Gennemse bruger oplysningerne, og prøv igen**"det betyder, at du ikke er en global administrator af Office 365, og at du ikke har tilladelse til at ændre brugerens navn.
     
-5. Vælg **sæt som primær** til den e-mail-adresse, du vil angive som den primære e-mail-adresse for denne person. Hvis du har købt abonnementet fra være opfyldt, skal du logge på deres administrationskonsollen til at angive den primære e-mail-adresse. 
+5. Vælg **Angiv som primær** for den mailadresse, du vil angive som den primære e-mail-adresse for den pågældende person. Hvis du har købt dit abonnement hos GoDaddy, skal du logge på deres administrationskonsol for at angive den primære e-mail-adresse. 
     
-6. Vælg **Gem**, **Luk**, og du er færdig!
+6. Vælg **Gem**og derefter **Luk**, så er du færdig!
     
-Var ikke så nemt? Læs denne artikel for flere detaljer og trin med skærmbilleder: [ændre et brugernavn og e-mail-adresse i Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Var det ikke så let? For flere detaljer og trin med screenshots, se denne artikel: [ændre et Brugernavn og e-mail-adresse i Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online almindelige problemer og løsninger
+title: Fælles SharePoint Online-problemer og-løsninger
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -10,27 +10,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0e4a26308a371ef66e8a655cce282210df6f0247
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 32657303d7f2176eb6840269daffe5825d24478c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666078"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744059"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online almindelige problemer og løsninger
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>Fælles SharePoint Online-problemer og-løsninger
 
-Her er nogle ofte anmodes om emner til SharePoint Online problemer:
+Her er nogle ofte anmodede emner om SharePoint Online-problemer:
 
-- **Tilladelser**: [bygge en strategi for tilladelser](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) og [Forstå tilladelsesniveauer](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **Tilladelser**: [Opbyg en tilladelses strategi](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) , og [forstå tilladelsesniveauerne](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-- **Deling**: [Deling med andre](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) i organisationen eller [med andre uden for organisationen](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **Deling**: [dele med andre](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) i din organisation eller [med andre uden for organisationen](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 
-- **Arbejder med dokumentfiler**: Lær mere om- [overføre](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb), fil, [hente](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05), fil [redigeringer](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)og [fil begrænsninger](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
+- **Arbejde med dokumentfiler**: få mere at vide om [filupload](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb), [filoverførsel](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05), [filredigeringer](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)og aktuelle [filbegrænsninger](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- **Opbevaring**: lære at administrere din storage til brugere OneDrive</a>, som [styre webstedets lagerplads](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) for abonnement og [forstå alle grænser](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **Lager**: få mere at [vide om,](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) hvordan du</a>administrerer dine brugeres OneDrive-lager, [f. eks](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
 
-- **Lejer omdøbe**: Yderligere oplysninger finder du i [ændre dit SharePoint-domænenavn](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) .
+- **Omdøbning af lejer**: Se [Rediger dit SharePoint-domænenavn](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) for at få flere oplysninger.
 
-- **Modernisere SharePoint**: Gennemse [vejledning til den moderne erfaring med SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) og [modernisere de klassiske SharePoint-websteder](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) for at starte flytningen.
+- **Modernisere SharePoint**: gennemgå [vejledningen til den moderne oplevelse i SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) og [modernisere dine klassiske SharePoint-websteder](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) for at starte flytningen.
 
-- **Introduktion**: Lær hvordan du [kommer i gang med SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) med strategier til håndtering af webstedet.
+- **Kom godt i gang**: få mere at vide om, hvordan du [kommer i gang med SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) med websteds administrations strategier.

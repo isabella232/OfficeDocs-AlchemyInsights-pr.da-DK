@@ -1,6 +1,6 @@
 ---
-title: Problemer med ydeevne-SharePoint- eller OneDrive
-ms.author: kirks
+title: Problemer med ydeevnen-SharePoint eller OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666726"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752710"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint- eller OneDrive langsomt, utilgængelig eller ikke tilgængeligt for flere brugere
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint eller OneDrive langsom, utilgængelig eller utilgængelig for flere brugere
 
-SharePoint- eller OneDrive kan være langsom, ikke tilgængelige eller utilgængelige af flere årsager:
+SharePoint eller OneDrive kan være langsom, utilgængelige eller utilgængelige af flere årsager:
   
-- Hvis webstedet SharePoint- eller OneDrive er langsom eller forsinket til flere brugere, kan der være et problem med den midlertidige tjeneste hvor brugere opleve forbigående forsinkelser eller navigation fejl ved adgang til SharePoint-websteder eller OneDrive indhold. Kontroller [Service sundhed dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, hvis organisationen påvirkes.
+- Hvis dit SharePoint-eller OneDrive-websted er langsomt eller forsinket for flere brugere, kan der være et midlertidigt serviceproblem, hvor brugere oplever periodiske forsinkelser eller navigationsfejl, når de får adgang til SharePoint-websteder eller OneDrive-indhold. Kontroller [dashboardet for tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din organisation påvirkes.
   
-- Hvis du oplever langsom ydeevne med en **Klassisk** SharePoint-websted eller en side, Anvend [side diagnosticeringsværktøjet til](https://aka.ms/perftool) at analysere siderne.
+- Hvis du oplever langsom ydeevne med et **klassisk** SharePoint-websted eller-side, skal du bruge [værktøjet til side diagnosticering](https://aka.ms/perftool) til at analysere siderne.
   
-- Hvis du stadig oplever generelt langsom ydeevne, skal du gennemgå ressourcerne i bunden af denne artikel: [Introduktion til SharePoint Online finjustering af ydeevnen](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Hvis du stadig oplever generel langsom ydeevne, skal du gennemse ressourcerne nederst i denne artikel: [Introduktion til justering af ydeevnen for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   
