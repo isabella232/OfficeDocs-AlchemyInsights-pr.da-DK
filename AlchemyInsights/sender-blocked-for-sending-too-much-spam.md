@@ -12,12 +12,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 05b961cec364bce694a8f39d9de245062bfdb859
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e977f1393bb47cd2a4cb27ddef18f48105214a9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666330"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744923"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Kontoen er blevet blokeret grundet afsendelse af for meget spam
 
@@ -27,5 +27,5 @@ Hvis en Office 365-konto er blokeret grundet afsendelse af for meget spam, kan d
 
 2. Gå til Brugere med begrænset adgang for at **[fjerne blokeringen af kontoen](https://protection.office.com/?hash=/restrictedusers)** i Security &amp; Compliance Center. Når du har gjort dette, bør der *inden for en time* igen kunne afsendes mails fra kontoen.
 
-3. For at forhindre at konti kompromitteres på et senere tidspunkt, skal du følge anbefalingerne i [Bedste fremgangsmåder for sikkerhed i Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+3. For at forhindre at konti kompromitteres på et senere tidspunkt, skal du følge anbefalingerne i [Sikkerhedskøreplanen for Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
   
