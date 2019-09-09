@@ -8,23 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: e9c073f63249af80c83f2957ba7bb3931325f6b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7aefc3606bd81d5ce8b9cf9443e3c5deaade11ac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523397"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735746"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="bea45-102">Har du problemer med levering af mail?</span><span class="sxs-lookup"><span data-stu-id="bea45-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="ac36b-102">Har du problemer med levering af mail?</span><span class="sxs-lookup"><span data-stu-id="ac36b-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="bea45-103">Vi har opdaget, at brugerne ikke modtager mails sendt til de følgende domæner:</span><span class="sxs-lookup"><span data-stu-id="bea45-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="ac36b-103">Vi har opdaget, at brugerne ikke modtager mails sendt til de følgende domæner:</span><span class="sxs-lookup"><span data-stu-id="ac36b-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="bea45-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="bea45-104">{HealthCheckString}</span></span>
+<span data-ttu-id="ac36b-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="ac36b-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="bea45-105">NS- eller MX-posterne for domæneindstillingerne (DNS) er ikke konfigureret korrekt til levering af mail til din Office 365-tjeneste.</span><span class="sxs-lookup"><span data-stu-id="bea45-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="bea45-106">Du kan se [Opdatering af DNS-poster i Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for at få flere oplysninger.</span><span class="sxs-lookup"><span data-stu-id="bea45-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
+<span data-ttu-id="ac36b-105">NS- eller MX-posterne for domæneindstillingerne (DNS) er ikke konfigureret korrekt til levering af mail til din Office 365-tjeneste.</span><span class="sxs-lookup"><span data-stu-id="ac36b-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="ac36b-106">Du kan se [Opret DNS-poster hos en hvilken som helst DNS-hostingudbyder til Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for en mere detaljeret vejledning.</span><span class="sxs-lookup"><span data-stu-id="ac36b-106">You can refer to [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detailed instructions.</span></span> 
   
-<span data-ttu-id="bea45-107">For at rette problemet skal du gå til siden [Domæner](https://admin.microsoft.com/adminportal/home#/Domains) i Microsoft 365 Administration, og så hjælper vi dig med det.</span><span class="sxs-lookup"><span data-stu-id="bea45-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
-  
-<span data-ttu-id="bea45-108">[Se ofte stillede spørgsmål om domæner](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for at få andre løsningsforslag.</span><span class="sxs-lookup"><span data-stu-id="bea45-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
-  
+<span data-ttu-id="ac36b-107">For at rette problemet skal du gå til siden [Domæner](https://admin.microsoft.com/adminportal/home#/Domains) i Microsoft 365 Administration, og så hjælper vi dig med det.</span><span class="sxs-lookup"><span data-stu-id="ac36b-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
+
 
