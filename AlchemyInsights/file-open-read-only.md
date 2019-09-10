@@ -1,5 +1,5 @@
 ---
-title: Åbne filen skrivebeskyttet
+title: Fil åben skrivebeskyttet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,43 +9,46 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 5c28d5f1c6951971aab329060e24b8458e848dd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "765"
+- "2200014"
+ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525665"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822228"
 ---
-# <a name="file-open-read-only"></a>Åbne filen skrivebeskyttet
+# <a name="file-open-read-only"></a>Fil åben skrivebeskyttet
 
-Du kan opleve, at når du åbner filer, de åbnes som skrivebeskyttet. I nogle tilfælde er sikkerhedsmæssige, som når du åbner filer fra internettet og andre tidspunkter, kan det skyldes en indstilling, der kan ændres. Her er nogle situationer, hvor en fil åbnes skrivebeskyttet og nogle trin, du kan udføre for at ændre.
+Du kan se, at når du åbner filer, åbnes de som skrivebeskyttet. I nogle tilfælde er dette for ekstra sikkerhed, som når du åbner filer fra internettet, og andre gange, kan det skyldes en indstilling, der kan ændres. Her er nogle scenarier, hvor en fil åbnes som skrivebeskyttet, og nogle af de trin, du kan udføre for at ændre den.
   
- **Min antivirus medfører, at du har åbnet i skrivebeskyttet tilstand**
+ **Min antivirus er årsag dem til at åbne read-only**
   
-Visse antivirusprogrammer kan beskytte dig mod potentielt usikre filer ved at åbne dem skrivebeskyttede. Du skal muligvis kontakte udbyderen af antivirusprogrammet for at lære, hvordan du kan justere disse indstillinger. BitDefender, for eksempel har indhold i tilføjelse program udelukkelser her: [hvordan du føjer programmet eller processen udelukkelser i Bitdefender Control Center](https://www.bitdefender.com/support/how-to-add-application-or-process-exclusions-in-bitdefender-control-center-1119.mdl).
+Nogle antivirusprogrammer kan beskytte dig mod potentielt usikre filer ved at åbne dem som skrivebeskyttet. Du skal muligvis tjekke med din antivirusudbyder for at få at vide, hvordan du justerer disse indstillinger. BitDefender, for eksempel, har indhold på at tilføje ansøgning udelukkelser her: [hvordan du tilføjer ansøgning eller proces udelukkelser i BitDefender Control Center](https://aka.ms/AA6098i).
   
- **Filegenskaberne angives som skrivebeskyttet?**
+ **Er filegenskaber indstillet til skrivebeskyttet?**
   
-Du kan kontrollere filens egenskaber ved at højreklikke på filen og vælge Egenskaber. Hvis den skrivebeskyttede attribut er markeret, kan du fjerne markeringen og klikke på OK.
+Du kan kontrollere filegenskaber ved at højreklikke på filen og vælge egenskaber. Hvis skrivebeskyttet attribut er markeret, kan du fjerne markeringen og klikke på OK.
   
  **Indholdet er i beskyttet visning**
   
-Filer fra internettet og andre potentielt usikre placeringer kan indeholde virus, orme eller andre former for skadelige programmer, der kan beskadige computeren. Det er også ofte tilfældet med vedhæftede filer eller filer, du har hentet. For at beskytte din computer, åbnes filer fra disse potentielt usikre placeringer i beskyttet visning. Ved hjælp af beskyttet visning, kan du læse en fil og se indholdet ved at reducere risiciene. Yderligere oplysninger om beskyttet visning, og hvordan du ændrer indstillingerne, kan du se denne artikel: [Hvad er beskyttet visning?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Filer fra internettet og fra andre potentielt usikre placeringer kan indeholde virus, orme eller andre former for malware, der kan beskadige computeren. Dette er også almindeligt tilfældet med vedhæftede filer i mails eller arkiver, du har hentet. Filer fra disse potentielt usikre placeringer åbnes i beskyttet visning for at hjælpe med at beskytte computeren. Ved hjælp af beskyttet visning kan du læse en fil og se dens indhold og samtidig reducere risiciene. Du finder flere oplysninger om beskyttet visning og om, hvordan du ændrer indstillinger, i denne artikel: [Hvad er beskyttet visning?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Er OneDrive fuld?**
   
-Hvis filen er gemt på OneDrive og din OneDrive lagerplads er fuld, kan du ikke gemme dokumentet, før du er under den tildelte plads. Du kan kontrollere den ledige plads på OneDrive ved at klikke på ikonet OneDrive i center for anmeldelse og vælge Administrer lagerplads, eller du kan gå til [http://onedrive.live.com](http://onedrive.live.com), logge på og Vær opmærksom på mængden af brugt plads nederst til venstre på skærmen.
+Hvis filen er gemt på OneDrive, og din OneDrive-lagerplads er fuld, vil du ikke kunne gemme dokumentet, før du er under den tildelte plads. Du kan tjekke din ledig plads på OneDrive ved at klikke på OneDrive-ikonet i Meddelelsescenter og vælge Administrer lager, eller du kan gå [http://onedrive.live.com](http://onedrive.live.com)til, logge på og notere mængden af brugt plads nederst til venstre på skærmen.
   
- **Aktiveres Office?**
+ **Er Office aktiveret?**
   
-Hvis Office ikke er aktiveret, eller hvis dit abonnement er udløbet, kan du være i skrivebeskyttet tilstand reduceret funktionalitetstilstand. Finde oplysninger om, hvordan du aktiverer Office: [ikke-licenserede produkt og af aktiveringsfejl i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Hvis Office ikke er aktiveret, eller hvis abonnementet er udløbet, kan du være i skrivebeskyttet tilstand med begrænset funktionalitet. Du finder oplysninger om, hvordan du aktiverer Office, under: [produkt-og aktiveringsfejl uden licens i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Hvis alt andet mislykkes...**
+ **Hvis alt andet fejler...**
   
 - Prøv at genstarte computeren
     
 - Installere Office-opdateringer
     
-- Udfør en Online reparation af Office
+- Udføre en online reparation af Office
     
 
