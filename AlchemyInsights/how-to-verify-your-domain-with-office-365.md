@@ -1,5 +1,5 @@
 ---
-title: Sådan kontrolleres dit domæne hos Office 365
+title: Sådan bekræfter du dit domæne med Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664062"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851714"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="d4da2-102">Sådan kontrolleres dit domæne hos Office 365</span><span class="sxs-lookup"><span data-stu-id="d4da2-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="ffbf9-102">Sådan bekræfter du dit domæne med Office 365</span><span class="sxs-lookup"><span data-stu-id="ffbf9-102">How to verify your domain with Office 365</span></span>
 
-<span data-ttu-id="d4da2-103">For at bekræfte dit domæne, skal du føje en TXT-post til din domæneregistrator for at kontrollere, at du ejer domænet.</span><span class="sxs-lookup"><span data-stu-id="d4da2-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="d4da2-104">Følg [guiden tilføje domæne](https://portal.office.com/adminportal/home#/Domains) først ved at vælge **Indstillinger for** \> **Domaisn**, og klik derefter på **Tilføj domæne**.</span><span class="sxs-lookup"><span data-stu-id="d4da2-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domaisn**, and then **Add domain**.</span></span>
+<span data-ttu-id="ffbf9-103">Hvis du vil bekræfte dit domæne, skal du føje en TXT-post til din domæneregistrator for at bekræfte, at du ejer dit domæne.</span><span class="sxs-lookup"><span data-stu-id="ffbf9-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="ffbf9-104">Først skal du følge [guiden Tilføj domæne](https://portal.office.com/adminportal/home#/Domains) ved at **vælge indstillinger** \> **domæner**og derefter **tilføje domæne**.</span><span class="sxs-lookup"><span data-stu-id="ffbf9-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="d4da2-105">Følg vejledningen i [oprette DNS-poster på en DNS-udbyder af videoværtstjenester til Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for at tilføje en TXT-post for at bekræfte dit domæne.</span><span class="sxs-lookup"><span data-stu-id="d4da2-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="ffbf9-105">Følg instruktionerne i [oprette DNS-poster hos enhver DNS-udbyder til Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for at tilføje en TXT-post for at bekræfte dit domæne.</span><span class="sxs-lookup"><span data-stu-id="ffbf9-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
   
