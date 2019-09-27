@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744815"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207219"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Følsomheds etiketter vises ikke
 
-Med følsomheds etiketter kan du klassificere og beskytte dit følsomme indhold. Du kan få mere at vide om denne funktion i [Oversigt overfølsomheds etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Med følsomheds etiketter kan du klassificere og beskytte dit følsomme indhold. De kan oprettes i Microsoft 365 Compliance Center, Microsoft 365 Security Center eller Office 365 Security & Compliance Center underklassifikation > følsomheds etiketter. Du kan få mere at vide om denne funktion i [Oversigt overfølsomheds etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Hvis du har konfigureret dine følsomheds etiketter, men de ikke vises i Office-Apps, skal du kontrollere følgende:
 
@@ -32,5 +32,10 @@ Hvis du har konfigureret dine følsomheds etiketter, men de ikke vises i Office-
 - Hvis du [migrerer Azure information Protection labels](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), skal du være opmærksom på de overvejelser, der er anført [her](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Understøttelse af forhindring af datatab (DLP): i øjeblikket kan kun opbevarings etiketter bruges som en betingelse i DLP-politikker.  Understøttelse af følsomheds etiketter i en DLP-politik er endnu ikke tilgængelig, men vi arbejder på den.
+
+- Når kryptering er aktiveret på en følsomheds etiket, kan du vælge enten at:
+    - Tildel tilladelser nu
+    - Lade brugere tildele tilladelser
+
 
 Du finder flere oplysninger om mulige problemer under [kendte problemer med følsomheds etiketter](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
