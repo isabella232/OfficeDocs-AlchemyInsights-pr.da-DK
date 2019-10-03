@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 5fa39c87550e6bacf60299c6420f5318ed99a73b
-ms.sourcegitcommit: 89b8d982f83ff8d269624e5745d3a186f1e3e6c1
+ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
+ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350841"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37373105"
 ---
-#   <a name="teams-common-issues-and-resolutions"></a>Teams almindeligt forekommende problemer og resolutioner
+# <a name="teams-common-issues-and-resolutions"></a>Teams almindeligt forekommende problemer og resolutioner
 
 Du kan finde et mere specifikt svar om et Microsoft teams-problem ved kort at omformulere dit spørgsmål og inkludere de fejl, du ser, eller de funktioner, du bruger.
 
@@ -32,7 +32,7 @@ Her er nogle ekstra ressourcer:
     - Hvis du vil gendanne en slettet kanal, skal du se [arkivere eller gendanne et team](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
 - **Gendan slettede filer:** Se [Gendan slettede filer i teams](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
 - **Fejlfinding af et manglende numerisk tastatur:**  
-    1. Sørg for, at brugeren har fået tildelt en [teams-licens](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    2. Sørg for, at brugeren har fået tildelt en [Opkalds plan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    3. Aktivér brugerne til [Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Sørg for, at brugeren har fået tildelt en [teams-licens](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+    - Sørg for, at brugeren har fået tildelt en [Opkalds plan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
+    - Aktivér brugerne til [Enterprise Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Kendte problemer med teams:** Læs [kendte problemer for Microsoft teams](https://docs.microsoft.com/microsoftteams/known-issues).
