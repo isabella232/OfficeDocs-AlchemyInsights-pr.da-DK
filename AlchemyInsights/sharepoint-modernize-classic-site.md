@@ -1,5 +1,5 @@
 ---
-title: Moderne sted som rodwebstedet
+title: Moderne websted som rodwebsted
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503485"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576664"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a><span data-ttu-id="95e63-102">Modernisere klassiske SharePoint-webstedet</span><span class="sxs-lookup"><span data-stu-id="95e63-102">Modernize your classic SharePoint site</span></span>
+# <a name="modernize-your-classic-sharepoint-site"></a><span data-ttu-id="08b9f-102">Modernisere dit klassiske SharePoint-websted</span><span class="sxs-lookup"><span data-stu-id="08b9f-102">Modernize your classic SharePoint site</span></span>
 
-<span data-ttu-id="95e63-103">Se følgende oplysninger om brug af den nye moderne oplevelse:</span><span class="sxs-lookup"><span data-stu-id="95e63-103">See the following for details about using the new modern experience:</span></span>
+<span data-ttu-id="08b9f-103">Hvis du vil skifte til en moderne brugergrænseflade, skal du fokusere på følgende:</span><span class="sxs-lookup"><span data-stu-id="08b9f-103">To make the switch to a modern user interface, you need to focus on the following:</span></span>
 
-- <span data-ttu-id="95e63-104">Du kan finde en trinvis oversigt over modernisere klassiske SharePoint-websteder til den moderne brugeroplevelse, [Modernize din klassiske SharePoint-websteder](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span><span class="sxs-lookup"><span data-stu-id="95e63-104">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
+- <span data-ttu-id="08b9f-104">Overgang dine **lister og biblioteker** til at bruge den moderne brugergrænseflade (også omtalt som den moderne liste og bibliotek erfaring).</span><span class="sxs-lookup"><span data-stu-id="08b9f-104">Transitioning your **lists and libraries** to use the modern user interface (also referred to as the modern list and library experience).</span></span>
+- <span data-ttu-id="08b9f-105">Omdanne dine **webstedssider** fra klassiske wiki-og webdelssider til moderne sider på klientsiden.</span><span class="sxs-lookup"><span data-stu-id="08b9f-105">Transforming your **site pages** from classic wiki and web part pages into modern client-side pages.</span></span>
+- <span data-ttu-id="08b9f-106">Oprettelse af **moderne websteder** (team websted eller kommunikationswebsted).</span><span class="sxs-lookup"><span data-stu-id="08b9f-106">Creating **modern sites** (Team site or Communication Site).</span></span>
 
-- <span data-ttu-id="95e63-105">For at maksimere brugen af moderne brugergrænsefladen til dit websted og liste- og bibliotekstyper sider, se [Modernize-brugergrænsefladen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span><span class="sxs-lookup"><span data-stu-id="95e63-105">To maximize the use of the modern user interface for your site pages and list and library pages, see [Modernize the user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span></span> 
+<span data-ttu-id="08b9f-107">Modernier din oplevelse ved at:</span><span class="sxs-lookup"><span data-stu-id="08b9f-107">Modernize your experience by:</span></span>
+- <span data-ttu-id="08b9f-108">[Aktivering af lister og biblioteker, der skal vises i den moderne brugergrænseflade](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) , ved at erstatte tilpasninger, fjerne inkompatible kolonner fra de anvendte visninger eller (som en sidste udvej) flytte data til en moderne brugergrænseflade kompatibel listetype.</span><span class="sxs-lookup"><span data-stu-id="08b9f-108">[Enabling lists and libraries to show in the modern user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) by replacing customizations, removing incompatible columns from the used views, or (as a last resort) moving data into a modern user interface-compatible list type.</span></span>
+- <span data-ttu-id="08b9f-109">[Tilslutning af dit websted til en Office 365-gruppe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), som giver dit websted en moderne startside og gør det muligt for dit websted at bruge, for eksempel en postkasse eller Microsoft planner.</span><span class="sxs-lookup"><span data-stu-id="08b9f-109">[Connecting your site to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), which gives your site a modern home page and enables your site to use, for example, a mailbox or Microsoft Planner.</span></span> <span data-ttu-id="08b9f-110">Det giver dig mulighed for at bruge en moderne version af en kalender og en opgaveliste.</span><span class="sxs-lookup"><span data-stu-id="08b9f-110">This enables you to use a modern version of a calendar and task list.</span></span>
+- <span data-ttu-id="08b9f-111">[Oprettelse af moderne sider](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), er en fantastisk måde at dele ideer ved hjælp af billeder, Excel, Word og PowerPoint dokumenter, video og meget mere.</span><span class="sxs-lookup"><span data-stu-id="08b9f-111">[Creating modern pages](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), is a great way to share ideas using images, Excel, Word and PowerPoint documents, video, and more.</span></span>
+- <span data-ttu-id="08b9f-112">[Oprettelse af moderne klient sider](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) og konfigurering af disse til at være "lignende" til dine vigtigste klassiske wiki-og webdelssider.</span><span class="sxs-lookup"><span data-stu-id="08b9f-112">[Creating modern client-side pages](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) and configuring these to be "similar" to your key classic wiki and web part pages.</span></span> <span data-ttu-id="08b9f-113">Programmatisk side transformation skal gøres for de vigtigste sider på dine websteder, da transformation af alle sider er ressourcekrævende og ofte ikke nødvendig.</span><span class="sxs-lookup"><span data-stu-id="08b9f-113">Programmatic page transformation should be done for the key pages of your sites, as transforming all pages is resource-intensive and often not needed.</span></span> <span data-ttu-id="08b9f-114">For at hjælpe i denne triage kan SharePoint-moderniserings scanneren give dig brugsoplysninger om de aktuelle wiki-og webdelssider.</span><span class="sxs-lookup"><span data-stu-id="08b9f-114">To assist in this triage, the SharePoint Modernization scanner can give you usage information about the current wiki and web part pages.</span></span>
+- <span data-ttu-id="08b9f-115">[Oprettelse af moderne websteder](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).</span><span class="sxs-lookup"><span data-stu-id="08b9f-115">[Creating modern sites](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).</span></span> <span data-ttu-id="08b9f-116">Skal jeg oprette et teamwebsted eller et kommunikationswebsted?</span><span class="sxs-lookup"><span data-stu-id="08b9f-116">Should I create a team site or a communication site?</span></span>
 
-- <span data-ttu-id="95e63-106">Hvis du vil vide mere om, hvordan du fjerner blokeringen af lister og biblioteker ved hjælp af brugergrænsefladen i moderne, se [Maksimer anvendelse af moderne lister og biblioteker](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)</span><span class="sxs-lookup"><span data-stu-id="95e63-106">To learn more about how to unblock your lists and libraries when using the modern user interface, see [Maximize use of modern lists and libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)</span></span>
+<span data-ttu-id="08b9f-117">Yderligere oplysninger:</span><span class="sxs-lookup"><span data-stu-id="08b9f-117">Additional Info:</span></span> 
+- <span data-ttu-id="08b9f-118">Du finder en trinvis oversigt over, hvordan du moderniserer dine klassiske SharePoint-websteder til den moderne oplevelse, i [modernisere dine klassiske SharePoint-websteder](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span><span class="sxs-lookup"><span data-stu-id="08b9f-118">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
+- <span data-ttu-id="08b9f-119">Se en guide til [moderne oplevelse](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).</span><span class="sxs-lookup"><span data-stu-id="08b9f-119">See a guide to [Modern Experience](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).</span></span>
+- <span data-ttu-id="08b9f-120">Se [SharePoint Classic og moderne oplevelser](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).</span><span class="sxs-lookup"><span data-stu-id="08b9f-120">See [SharePoint Classic and Modern experiences](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).</span></span> 
 
-- <span data-ttu-id="95e63-107">Du kan finde flere oplysninger om at oprette forbindelse til Office 365-gruppen og udføre en gruppe-forbindelse, [Opret forbindelse til Office 365-gruppen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span><span class="sxs-lookup"><span data-stu-id="95e63-107">For more information about connecting to an Office 365 group and performing a group-connection, see [Connect to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
+
+
+
