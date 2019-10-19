@@ -1,5 +1,5 @@
 ---
-title: Alchemy - oprette e-mail signaturer
+title: Alchemy-Opret e-mail-signaturer
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
 ms.openlocfilehash: 32b4cdb51aaf065d7da5a1021b6970d50815cc9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505537"
 ---
-# <a name="create-email-signatures"></a><span data-ttu-id="f4126-102">Oprette e-mail-signaturer</span><span class="sxs-lookup"><span data-stu-id="f4126-102">Create email signatures</span></span>
+# <a name="create-email-signatures"></a><span data-ttu-id="31117-102">Oprette e-mail-signaturer</span><span class="sxs-lookup"><span data-stu-id="31117-102">Create email signatures</span></span>
 
-<span data-ttu-id="f4126-103">Disse emner hjælper dig med at oprette e-mail-signaturer:</span><span class="sxs-lookup"><span data-stu-id="f4126-103">These topics will help you create email signatures:</span></span>
+<span data-ttu-id="31117-103">Disse emner vil hjælpe dig med at oprette e-mail-signaturer:</span><span class="sxs-lookup"><span data-stu-id="31117-103">These topics will help you create email signatures:</span></span>
   
-- <span data-ttu-id="f4126-104">Oprette en e-mail-signatur til dine egne meddelelser: [oprette og føje en signatur til meddelelser](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) eller [oprette og tilføje en e-mail-signatur i Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).</span><span class="sxs-lookup"><span data-stu-id="f4126-104">Create an email signature for your own messages: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) or [Create and add an email signature in Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).</span></span>
+- <span data-ttu-id="31117-104">Opret en mailsignatur til dine egne meddelelser: [Opret og Føj en signatur til meddelelser](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) , eller [Opret og Tilføj en mailsignatur i Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).</span><span class="sxs-lookup"><span data-stu-id="31117-104">Create an email signature for your own messages: [Create and add a signature to messages](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) or [Create and add an email signature in Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).</span></span>
     
-- <span data-ttu-id="f4126-105">Oprette en global e-mail-signatur til alle meddelelser, der sendes fra din virksomhed (også kaldet en ansvarsfraskrivelse): [hele organisationen meddelelse ansvarsfraskrivelser, signaturer, sidefødder, eller brevhoveder i Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).</span><span class="sxs-lookup"><span data-stu-id="f4126-105">Create a global email signature for all messages sent from your company (also known as a disclaimer): [Organization-wide message disclaimers, signatures, footers, or headers in Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).</span></span>
+- <span data-ttu-id="31117-105">Opret en global mailsignatur for alle meddelelser, der sendes fra din virksomhed (også kendt som en ansvarsfraskrivelse): [ansvarsfraskrivelser, signaturer, sidefødder eller headere i hele organisationen i Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).</span><span class="sxs-lookup"><span data-stu-id="31117-105">Create a global email signature for all messages sent from your company (also known as a disclaimer): [Organization-wide message disclaimers, signatures, footers, or headers in Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).</span></span>
     
 
