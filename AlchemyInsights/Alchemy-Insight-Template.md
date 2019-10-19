@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800039"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Påkrævede Alchemy hovedet H1, H2's virker ikke.
-Bedste fremgangsmåder og retningslinjer til oprettelse af Alchemy:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Påkrævet Alchemy header H1, H2's dont arbejde.
+Bedste fremgangsmåder og retningslinjer for Alchemy authoring:
 
-1. **Kan ikke sammensættes Alchemy indblik i mapper**- det ødelægges URL-strukturen. Vi søger til at løse dette.
-1. Filerne i mappen **AlchemyInsights** skal have små filnavne med bindestreger i mellemrum ex. ***how-til-aktivere-retssag-hold***.
-    1. Omfatte regel-ID eller bucket-ID fra [Alchemy partnerportal](https://alchemyportal.azurewebsites.net) i feltet ms.custom. ex. ***MS.Custom: 100021***
-1. Brug resten af metadataene i toppen af denne fil som skabelon.
-1. Gå til afsnittet i [Alchemy partnerportal](https://alchemyportal.azurewebsites.net) **kunden indsigt titel:** og brug, der peger som en start til H1 titlen for indsigt. 
+1. **Du må ikke indlejre Alchemy Insights i mapper**-dette vil bryde URL-strukturen. Vi kigger på at ordne det her.
+1. Filer i mappen **Alchemyinsights** skal have små filnavne med bindestreger til mellemrum ex. ***Sådan gør du-aktiver-retssager-hold***.
+    1. Medtag regel-id'et eller bucket-id'et fra [Alchemy-partner portalen](https://alchemyportal.azurewebsites.net) i MS. Custom-feltet. Ex. ***MS. Custom: 100021***
+1. Brug resten af metadataene øverst i denne fil som skabelon.
+1. I [Alchemy partner portalen](https://alchemyportal.azurewebsites.net)skal du navigere ned til afsnittet **kunde Insight-titel:** og bruge det som udgangspunkt for din H1-titel til indsigten. 
     > [!NOTE]
-    > Alchemy viden skal have en enkelt H1 øverst eller de brydes i produktionen. H2s gengive ikke, så brug **fed** eller andre konventioner til at angive separate sektioner.
-1. Udfyld derefter brødtekst ved hjælp af udkast til materialet i afsnittet kunden indsigt i siden Alchemy regel
-    1. Punktopstillede lister er det fint
-    1. Nummererede lister for
-    1. **Fed** og *kursiv* er a-ok
-    1. Links skal altid være en **"links til web" / eksterne** eller **deep-links til elementer i Brugergrænsefladen**, ikke interne hyperlinks.
-    1. Billeder understøttes ikke officielt på nuværende tidspunkt, men det er i gang med køreplanen.
+    > Alchemy Insights skal kun have en enkelt H1 i toppen, eller de vil bryde i produktionen. H2S Render ikke enten så brug **fed** eller andre konventioner til at betyde separate sektioner.
+1. Udfyld derefter brødteksten ved hjælp af kladde materialet i afsnittet Kundeindsigt på siden Alchemy Rule
+    1. Punktopstillinger er fine
+    1. Nummererede lister også
+    1. **Fed** og *kursiv* er a-OK
+    1. Links skal altid være enten **"links til web"/eksterne** eller **dybe-links til UI elementer**, ikke interne links.
+    1. Billeder er ikke officielt understøttet på dette tidspunkt, men det er på køreplanen.
 
-Og det er virkelig allerede lidt for langt. Den bedste fremgangsmåde er ca 400 tegn---
+Og det er virkelig allerede lidt for længe. Bedste praksis er omkring 400 tegn---------------------------------
 
-Når indholdet er klar, kan du trække det til den levende gren. Derefter skal du gå til [Alchemy partnerportal](https://alchemyportal.azurewebsites.net) og indtaste filnavnet i feltet URL-adresse. 
+Når dit indhold er klar, skal du trække det til live grenen. Gå derefter til [Alchemy-partner portalen](https://alchemyportal.azurewebsites.net) , og Indtast filnavnet i URL-feltet. 

@@ -13,18 +13,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: d546e7a5f3e7eb6a46467b96ad7f1cea84045cca
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a07ceca6d1a39bc1517c12d9eb40ea50229aee33
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666402"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745283"
 ---
-# <a name="reset-or-change-office-365-business-passwords"></a>Nulstille eller ændre Office 365 business adgangskoder
+# <a name="reset-or-change-office-365-business-passwords"></a>Nulstille eller ændre Office 365-adgangskoder til virksomheder
 
-En bruger kan ændre deres egen adgangskode fra **Min konto** > [sikkerhed & beskyttelse af personlige oplysninger](https://portal.office.com/account/#security).
+En bruger kan ændre sin egen adgangskode fra **min konto** > [sikkerhed & privatliv](https://portal.office.com/account/#security).
   
-Hvis brugeren har glemt sin adgangskode, kan en administrator til at nulstille adgangskoden ved at gå til **brugere** > [aktive brugere](https://portal.office.com/adminportal/home#/users), vælge en eller flere brugere og vælge **Nulstil adgangskode**.
+Hvis brugeren har glemt sin adgangskode, kan en administrator nulstille adgangskoden ved at gå til **brugere** > , der er[aktive brugere](https://portal.office.com/adminportal/home#/users), vælge brugeren (e) og vælge **Nulstil adgangskode**.
   
-[Klik her for at få mere for at vide](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), eller at lade brugerne nulstille deres egne glemte adgangskoder.
+[Klik her for at få mere at vide](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), eller for at lade brugerne nulstille deres egne glemte adgangskoder.
   

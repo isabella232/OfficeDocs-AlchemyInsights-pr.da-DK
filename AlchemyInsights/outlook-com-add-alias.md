@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542695"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Tilføje en e-mail-alias i Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Tilføj et mailalias i Outlook.com
 
-Et alias er en ekstra e-mail-adresse, der bruger den samme indbakke, kontaktpersoner og kontoindstillinger som din primære e-mail-adresse. Du kan vælge, hvilken e-mail-adresse til at sende e-mails fra, og du kan logge på din konto på Outlook.com med nogen af dine aliaser – de alle bruge den samme adgangskode.
+Et alias er en ekstra mailadresse, der bruger den samme indbakke, kontaktliste og kontoindstillinger som din primære e-mail-adresse. Du kan vælge, hvilken mailadresse du vil sende mails fra, og du kan logge på din Outlook.com-konto med alle dine aliasser – de bruger alle samme adgangskode.
 
-Sådan tilføjes en e-mail-adresse:
+Sådan tilføjer du en e-mailadresse:
 
-1. Gå til [Tilføj et alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Log på din Microsoft-konto, hvis du bliver bedt om.
+1. Gå til [Tilføj et alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Log på din Microsoft-konto, hvis du bliver bedt om det.
 2. Under **Tilføj et alias**, enten:
-    1. Opret en ny e-mail-adresse til Outlook.com og tilføje det som et alias.
-    2. Tilføje en eksisterende e-mail-adresse som et alias.
+    1. Opret en ny Outlook.com-e-mail-adresse, og Tilføj den som et alias.
+    2. Tilføj en eksisterende e-mail-adresse som et alias.
 3. Vælg **Tilføj alias**.
 
-Læs mere om, hvordan du [tilføjer eller fjerner et e-mail-alias i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
+Læs mere om, hvordan du [tilføjer eller fjerner et mailalias i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Læs, [hvordan du opretter forbindelse til en anden e-mail-konto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) til din konto på Outlook.com.
+Læs [, hvordan du tilslutter en anden e-mailkonto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) til din Outlook.com-konto.

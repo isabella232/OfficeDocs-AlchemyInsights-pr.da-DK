@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 621504f5b7170ff36ad093330b8a662e7222d1e7
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754474"
 ---
 # <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Intern serverfejl, når du navigerer til SharePoint-eller OneDrive-websteder
@@ -22,7 +22,7 @@ Brugere kan modtage en 500 Intern serverfejl, når de forsøger at navigere til 
 Forsøg at rydde browserens cache, før du navigerer til webstedet.
 
 
-1. I Microsoft Edge-browseren skal du gå til flere... > indstillinger
+1. I Microsoft Edge-browseren skal du gå til mere... > indstillinger
 
 2. Under Ryd browserdata skal du vælge **Vælg, hvad du vil rydde**
 
