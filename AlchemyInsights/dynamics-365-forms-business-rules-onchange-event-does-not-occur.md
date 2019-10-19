@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 danner forretningsregler - forretningsregel udløser ikke i en formular
+title: Dynamics 365 forms forretningsregler – forretningsregel, der ikke udløses for en formular
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1926"
 - "6200018"
 ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529013"
 ---
-# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>OnChange-hændelsen opstår ikke, hvis feltet ændres via programmering
+# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Hændelsen OnChange indtræffer ikke, hvis feltet ændres programmatisk
 
-*OnChange* -hændelsen opstår ikke, hvis feltet ændres via programmering ved hjælp af den *attribut.* [AngivVærdi](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metode. Hvis du vil hændelseshandlere for hændelsen *OnChange* til at køre, når du angiver den værdi, du skal bruge den *attribut for formContext.data.entity.* [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) metode i din kode.
+Hændelsen *onChange* indtræffer ikke, hvis feltet ændres programmatisk ved hjælp af *attributten.* metoden [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) . Hvis du vil have hændelseshandlere for hændelsen *onChange* til at køre, når du har angivet værdien, skal du bruge *attributten formcontext. data. Entity.* [Fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) -metoden i din kode.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

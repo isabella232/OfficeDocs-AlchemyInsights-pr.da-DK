@@ -1,5 +1,5 @@
 ---
-title: GatewayNotReachable, når du angiver legitimationsoplysninger
+title: Gatewaynotremelig ved indstilling af legitimationsoplysninger
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1321"
 - "2500002"
 ms.openlocfilehash: 599fb10eb557217c2de52bbab72784cd10bbe95c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507121"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable, når du angiver legitimationsoplysninger
+# <a name="gatewaynotreachable-when-setting-credentials"></a>Gatewaynotremelig ved indstilling af legitimationsoplysninger
 
-GatewayNotReachable kan opstå, når du forsøger at angive legitimationsoplysninger til en datakilde i Power BI-tjenesten. Det kan være resultatet af en forældet gateway. Installer den nyeste gateway, og prøv igen.
+Du kan støde på Gatewaynotreutilgængelige, når du forsøger at angive legitimationsoplysninger for en datakilde i Power BI-tjenesten. Dette kan være resultatet af en forældet gateway. Installer den nyeste gateway, og prøv igen.
 
 Yderligere oplysninger:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 formularer forretningsregel Fullname feltet udløser ikke
+title: Dynamics 365 forms forretningsregel ved hjælp af feltet FullName ikke fyring
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528937"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Fuldt navn felt understøttes ikke med unified adresseoversættelsestabel apps
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Feltet fulde navn understøttes ikke med Unified grænse-apps
 
-Handlinger eller betingelser, som du kan bruger et felt til **Fulde navn** (fullname) understøttes ikke i apps, der er baseret på samlet grænseflade. Du kan også bruge handlinger eller betingelser med **Fornavn** (firstname) og **Efternavn** (lastname).
+Handlinger eller betingelser, der bruger et **fuldt navn** (FullName)-felt, understøttes ikke i apps baseret på Unified interface. Alternativt kan du bruge handlinger eller betingelser med **fornavn** (fornavn) og efter **navn** (LastName) felter.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

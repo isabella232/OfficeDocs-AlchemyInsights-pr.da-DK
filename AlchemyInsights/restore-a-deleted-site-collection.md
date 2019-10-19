@@ -1,5 +1,5 @@
 ---
-title: Gendanne et slettet websted
+title: Gendan et slettet websted
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
 ms.openlocfilehash: 9e4e9ade058c60ecd7a6ce1b2a40c4996ac5676f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552457"
 ---
-# <a name="restore-a-deleted-site"></a>Gendanne et slettet websted
+# <a name="restore-a-deleted-site"></a>Gendan et slettet websted
 
-Når en administrator til at slette et websted, placeres den i papirkurven, hvor den holdes i 93 dage inden det slettes permanent i gruppen af websteder. Gendanne webstedet:
+Når en administrator sletter et websted, placeres det i papirkurven for gruppen af websteder, hvor det opbevares i 93 dage, før det slettes permanent. Sådan gendannes webstedet:
   
-1. Klik på **Papirkurv** på båndet i det nye SharePoint admin center. 
+1. Klik på **Papirkurv** på båndet i det nye SharePoint-Administrationscenter. 
     
-2. Marker afkrydsningsfeltet ud for de websteder, du vil gendanne.
+2. Marker afkrydsningsfeltet ud for den gruppe af websteder, du vil gendanne.
     
-3. Klik på **Gendan slettet post**.
+3. Klik på **Gendan slettede elementer**.
     
-Hvis du vil gendanne en slettet meddelelse websted, kan du bruge det nye SharePoint admin center. Ellers skal du bruge Microsoft PowerShell. Hvis du vil gendanne et websted, der tilhører en gruppe af Office 365, skal du gendanne gruppen i Exchange admin center. Grupper kan gendannes i 30 dage efter de er slettet.
+Hvis du vil gendanne et slettet kommunikationswebsted, kan du bruge det nye SharePoint-Administrationscenter. Ellers skal du bruge Microsoft PowerShell. Hvis du vil gendanne et websted, der tilhører en Office 365-gruppe, skal du gendanne gruppen i Exchange administration. Grupper kan gendannes i 30 dage, efter at de er slettet.
   
 

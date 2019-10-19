@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
 ms.openlocfilehash: 31a4294f7035f2ff69bb30b65261f5210fc1a3d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527040"
 ---
 # <a name="excel-autofilter-issue"></a>Excel AutoFilter-problem
 
-Når du bruger Excel 2016, hvis din AutoFilter rullelisten vises alle tilgængelige afkrydsningsfelter eller afkrydsningsfelterne ikke er klikbart, kan det skyldes et kendt problem i tidligere versioner af Excel. 
+Hvis du bruger Excel 2016, og rullemenuen AutoFilter ikke viser alle de tilgængelige afkrydsningsfelter, eller afkrydsningsfelterne ikke er klikbare, kan det skyldes et kendt problem i tidligere versioner af Excel. 
   
-Problemet er nu løst i **Version 1707 (8326.2073)** eller nyere. For at få opdateringen med det samme åbne Excel, og vælg **filen** \> **konto** \> **Opdatere indstillinger** \> **Opdater nu**.
+Dette problem er nu rettet i **Version 1707 (8326,2073)** eller nyere. Hvis du vil hente opdateringen med det samme, skal du åbne Excel og vælge **Opdater** **Indstillinger** \> for opdatering af **filkonti** \> **** \> nu.
   
 

@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - forkert Dashboard viser i Dynamics 365 Unified grænseflade
+title: Dynamics 365-forkerte Dashboard-programmer i Dynamics 365 Unified interface
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528545"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Forkert dashboard viser i Dynamics 365 unified grænseflade
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Forkerte Dashboard-shows i Dynamics 365 Unified interface
 
-Der er flere grunde, hvorfor du kan se et andet dashboard end den, du forventer:
+Der er flere grunde til, at du kan se et andet dashboard end det, du forventer:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Brugeren har angivet et brugerdashboard standard 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Brugeren har angivet et bruger standarddashboard 
 
-Typisk kan du identificere en bruger standarddashboard angives, hvis knappen **Vælg som standard** ikke vises på dashboard-kommandolinjen. Standard brugerdashboard tilsidesætter alle andre standard dashboards, selvom brugerens standarddashboard ikke er i den aktuelle app.
+Typisk kan du identificere et bruger standarddashboard er indstillet, hvis knappen **Angiv som standard** ikke vises på Dashboard kommandolinjen. Bruger standarddashboardet tilsidesætter alle andre standarddashboards, selvom brugerens standarddashboard ikke findes i den aktuelle app.
 
-Brug følgende fremgangsmåde til at fjerne deres standarddashboard.
+Brug følgende løsning til at fjerne et standarddashboard.
 
-1. Opret et nyt personligt instrumentbræt.
+1. Opret et nyt personligt Dashboard.
 
-2. Angiv den nye dashboard som standard bruger.
+2. Angiv det nye Dashboard som bruger standard.
 
-3. Slet dette dashboard.
+3. Slet dashboardet.
 
 ## <a name="the-dashboard-is-set-in-the-sitemap"></a>Dashboardet er angivet i sitemap
 
-Du kan angive et standarddashboard for organisationen ved at vælge et dashboard og vælge 'Angiv som standard' under 'Tilpasse systemet'. Men det dashboard, der er defineret i sitemap designer højere prioritet end dette dashboard, hvis brugeren har adgang til den.
+Du har måske indstillet et organisations standarddashboard ved at vælge et dashboard og vælge ' Angiv som standard ' under ' Tilpas systemet '. Men dashboardet, der er defineret i sitemap-designeren, har forrang for dette Dashboard, hvis brugeren har adgang til det.
 
-Hvis brugerne kan se det dashboard, du har angivet som standard organisation, kan du enten:
+Hvis brugerne skal kunne se det Dashboard, du har angivet som organisationens standard, kan du enten:
 
-* Angiv dette dashboard i sitemap
+* Indstil dashboardet i sitemap
 
-* Fjern adgang til dashboardet sitemap, der er defineret for disse brugere
+* Fjernadgang til det sitemap-definerede Dashboard for disse brugere

@@ -1,5 +1,5 @@
 ---
-title: Løse et mislykket flow
+title: Rettelse af et mislykket flow
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525206"
 ---
-# <a name="fix-a-flow-that-failed"></a>Løse et flow, der mislykkedes
+# <a name="fix-a-flow-that-failed"></a>Løs et flow, der mislykkedes
 
-1. Gå til [Microsoft-Flow](https://flow.microsoft.com/), og klik på ikonet notifikationer i øverste højre hjørne. (Eller Vælg fanen aktivitet i mobil-app'en). Vælg det flow, der ikke kunne se detaljerne.
+1. Gå til [Microsoft flow](https://flow.microsoft.com/), og klik på ikonet notifikationer øverst til højre. (Eller i mobilappen skal du vælge fanen aktivitet). Vælg det flow, der ikke kunne se detaljerne.
     
-2. Find trin med rødt udråbstegn ikonet for at få vist fejlmeddelelsen for strømmen.
+2. Find trinnet med det røde udråbstegn for at få vist fejlmeddelelsen for flowet.
     
-3. Afhængigt af fejlmeddelelsen, skal du kunne redigere forløbet og løse problemet. 
+3. Afhængigt af fejlmeddelelsen skal du kunne redigere flowet og reparere det. 
     
-[Fælles flow-fejl](https://go.microsoft.com/fwlink/?linkid=872110)
+[Almindeligt flow fejl](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Papirkurv
+title: Papirkurven
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552970"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Gendanne elementer i SharePoint Online
+# <a name="restore-items-in-sharepoint-online"></a>Gendan elementer i SharePoint Online
 
-Når du sletter elementer i SharePoint Online, er de stadig i alt 93 dage. De forbliver i papirkurven websted hele tiden, medmindre du tømmer den eller slette elementer fra den. I så fald gå varer til webstedet-samling papirkurven, hvor de forbliver i den resterende del af 93 dagene. I slutningen af tid, er elementerne, der slettes permanent. Hvis du vil gendanne Papirkurv slettede emner fra webstedet:
+Når du sletter elementer i SharePoint Online, bevares de i alt 93 dage. De bliver i stedet papirkurven hele tiden, medmindre du tømme den eller slette elementer fra den. I så fald går emnerne til papirkurven for gruppen af websteder, hvor de bliver i resten af 93 dage. I slutningen af tiden slettes emnerne permanent. Sådan gendannes slettede elementer fra webstedets papirkurv:
   
 1. Gå til webstedet, og klik på **Papirkurv** i venstre rude. 
     
-    Hvis du ikke kan se **Papirkurv** i venstre rude, klik på ikonet indstillinger i øverste højre hjørne, og klik derefter på **webstedets indhold**. Papirkurven er på højre side af kommandoværktøjslinjen øverst.
+    Hvis du ikke kan se **Papirkurv** i venstre rude, skal du klikke på ikonet Indstillinger øverst til højre og derefter klikke på **webstedsindhold**. Papirkurven er længst til højre på kommandolinjen øverst.
     
-2. Vælg de elementer, du vil gendanne ved at pege på dem og klikke på ikonet markeret, der vises på siden **Papirkurv** . 
+2. På siden **Papirkurv** skal du markere de elementer, du vil gendanne, ved at pege på dem og klikke på det ikon, der vises. 
     
 3. Klik på **Gendan**.
     
-[Gendanne slettede elementer fra gruppen af websteder, Papirkurv](https://go.microsoft.com/fwlink/?linkid=866439)
+[Gendanne slettede elementer fra papirkurven for gruppen af websteder](https://go.microsoft.com/fwlink/?linkid=866439)
   
 
