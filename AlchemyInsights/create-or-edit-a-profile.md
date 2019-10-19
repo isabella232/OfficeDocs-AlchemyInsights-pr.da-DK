@@ -1,5 +1,5 @@
 ---
-title: 1800001 oprette eller redigere en profil
+title: 1800001 oprettelse eller redigering af en profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515153"
 ---
 # <a name="create-or-edit-an-outlook-profile"></a>Oprette eller redigere en Outlook-profil
 
-Benyt følgende fremgangsmåde for at oprette en ny Outlook-profil, redigere en profil eller omdøbe en profil.
+Hvis du vil oprette en ny Outlook-profil, redigere en profil eller omdøbe en profil, skal du benytte følgende fremgangsmåde.
   
-1. Vælg **fil** i Outlook, \> **Kontoindstillinger** \> **Administrere profiler**.
+1. I \> Outlook skal du vælge **filkonto** \> **Indstillinger** **Administrer profiler**.
     
-2. Vælg **Vis profiler**i dialogboksen **Konfiguration af E-mail** .
+2. Vælg **Vis profiler**i dialogboksen **konfiguration af e-mail** .
     
-3. Benyt en af følgende:
+3. Benyt en af følgende fremgangsmåder:
     
-  - Du kan oprette en ny profil ved at vælge **Tilføj**.
+  - Hvis du vil oprette en ny profil, skal du vælge **Tilføj**.
     
-  - Hvis du vil redigere eller omdøbe en profil, klik på **Egenskaber**.
+  - Vælg **Egenskaber**for at redigere eller omdøbe en profil.
     
-Hvis du har problemer med oprettelse eller redigering af en Outlook-profil, kan du køre [værktøjet til Outlook-profil](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte computer. Det vil udføre nogle Kontroller, og når du er klar opretter en Outlook-profil med din e-mail-adresse. 
+Hvis du har problemer med at oprette eller redigere en Outlook-profil, kan du køre [Outlook-profil værktøjet](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte computer. Det vil udføre nogle checks, og når du er klar, vil oprette en Outlook-profil med din e-mail-adresse. 
   
 

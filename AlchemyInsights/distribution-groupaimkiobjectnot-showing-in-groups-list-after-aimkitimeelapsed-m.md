@@ -1,5 +1,5 @@
 ---
-title: Gruppe til fordeling af {AimKIObject} ikke vises på listen grupper efter {AimKITimeElapsed} minutter
+title: Distributionsgruppen ' {AimKIObject} ' vises ikke på listen grupper efter {Aimkitimeforløbne} minutter
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530489"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Gruppe til fordeling "{AimKIObject}" ikke vises på listen grupper efter {AimKITimeElapsed} minutter
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Distributionsgruppen "{AimKIObject}" vises ikke på listen grupper efter {Aimkitimeforløbne} minutter
 
-Gruppen "{AimKIObject}" blev oprettet {AimKITimeElapsed} minutter siden. Det tager normalt ikke mere end 60 minutter for din ny distributionsgruppe, der skal vises i på administrationssiden.
+Din gruppe "{AimKIObject}" blev oprettet {Aimkitimeforløbne} minutter siden. Det tager normalt ikke mere end 60 minutter for din nye distributionsgruppe at blive vist i Admin Center.
   
-Du kan kan du bruge funktionen modtagere > grupper i [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) til at administrere din gruppe nu, eller du kan bruge indstillingen "Lad os ringe dig" til at tale med en supporttekniker. 
+Du kan muligvis bruge funktionen modtagere > grupper i [Exchange administration](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) til at administrere din gruppe nu eller bruge indstillingen "Lad os kalde dig" for at tale med en supporttekniker. 
   
 

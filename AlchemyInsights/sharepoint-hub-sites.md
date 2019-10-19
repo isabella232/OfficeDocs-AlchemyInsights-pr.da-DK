@@ -1,5 +1,5 @@
 ---
-title: Oversigt over SharePoint-hub-websteder
+title: SharePoint hub-websteder, oversigt
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,27 +7,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ee8c20bff9bf22f8b3eeacf085bce4a7f2d1b0e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "1591"
+- "5300012"
+ms.openlocfilehash: 189eef97019776b52c8f4f12aaaa303f79704a7a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503545"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818888"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>Oversigt over SharePoint-hub-websteder
+# <a name="sharepoint-hub-sites-overview"></a>SharePoint hub-websteder, oversigt
 
-SharePoint-hub websteder Hjælp du opfylder behovet i din organisation ved at tilslutte og organisere websteder baseret på projekt, afdeling, afdeling, område, osv., der gør det lettere at:
+SharePoint hub-websteder hjælper dig med at opfylde organisationens behov ved at oprette forbindelse til og organisere websteder baseret på projekt, afdeling, division, region osv., hvilket gør det nemmere at:
 
-- Oplev relateret indhold nyheder og andre aktiviteter på webstedet.
+- Opdag relateret indhold såsom nyheder og andre websteds aktiviteter.
 
-- Anvend almindelige navigations- og mærkning på tværs af tilknyttede websteder. 
+- Anvend fælles navigation og branding på tværs af tilknyttede websteder. 
 
-- Søge på tværs af alle tilknyttede websteder.
+- Søg på tværs af alle tilknyttede websteder.
 
-Se følgende for at få yderligere oplysninger om hub-websteder:
-- [Opret et hubwebsted i SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Lær hvordan du opretter et hubwebsted fra den nye Admin Center eller PowerShell.
+Se følgende for at få flere oplysninger om hubwebsteder:
+- [Opret et hubwebsted i SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): få mere at vide om, hvordan du opretter et hubwebsted fra det nye administrations Center eller PowerShell.
 
-- [Knytte et SharePoint-websted med et hubwebsted](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Få mere at vide om tilknytning af eksisterende websteder til et hubwebsted fra den nye Admin Center eller PowerShell.
+- [Knyt et SharePoint-websted til et hubwebsted](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): få mere at vide om at tilknytte eksisterende websteder til et hubwebsted fra det nye administrations Center eller PowerShell.
 
-- [Fjerne et hubwebsted](https://docs.microsoft.com/sharepoint/remove-hub-site): Lær at fjerne en eksisterende hubwebsted i den nye Admin Center eller PowerShell.
+- [Fjern et hubwebsted](https://docs.microsoft.com/sharepoint/remove-hub-site): få mere at vide om, hvordan du fjerner et eksisterende hubwebsted i det nye administrations Center eller PowerShell.
 

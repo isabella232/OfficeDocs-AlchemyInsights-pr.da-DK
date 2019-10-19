@@ -12,26 +12,26 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538194"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Tilføje din e-mail-konti til Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Føj dine andre mailkonti til Outlook.com
 
-Når du tilføjer andre e-mail-konti til Outlook.com, kan du bruge Outlook.com til at sende og læse e-mails fra disse konti uden at forlade Outlook.com. Hver konto, som du føjer til Outlook.com kaldes en tilsluttet konto.
+Når du føjer andre mailkonti til Outlook.com, kan du bruge Outlook.com til at sende og læse e-mails fra disse konti uden at forlade Outlook.com. Hver konto, du føjer til Outlook.com, kaldes en tilsluttet konto.
 
-Bemærk: Synkronisering fra din konto, der er forbundet til din konto på Outlook.com kun er envejs. E-mail sendt fra din tilsluttede konto ved hjælp af Outlook.com vises ikke i din tilsluttede konto sendt post.
+Bemærk: synkronisering fra din tilsluttede konto til din Outlook.com-konto er kun envejs. E-mail sendt fra din tilsluttede konto ved hjælp af Outlook.com vil ikke blive vist i din tilsluttede konto sendt post.
 
-Sådan tilføjes en tilsluttet konto:
+Sådan tilføjer du en tilsluttet konto:
 
-1. Åbn [e-mail-synkronisering indstillinger](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Under **forbindelse konti**, skal du vælge **Gmail** eller **andre e-mail-konti**.
-3. Angiv et navn (navnet modtagerne ser, når de modtager en e-mail fra dig) og den fulde e-mail-adresse på din kontoside Connect og adgangskoden til e-mail-kontoen, du vil oprette forbindelse til din konto på Outlook.com.
+1. Åbn dine [Indstillinger for synkroniserings mail](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Under **tilsluttede konti**skal du vælge **Gmail** eller **andre mailkonti**.
+3. På siden Forbind din konto skal du angive et visningsnavn (navnet modtagerne vil se, når de modtager en e-mail fra dig) og den fulde e-mail-adresse og adgangskode for den e-mail-konto, du vil oprette forbindelse til din Outlook.com konto.
 
-Du kan sende e-mail fra en konto, du har oprettet forbindelse til din konto på Outlook.com. Når du skriver en e-mail, **Vælg** og vælge, hvilke e-mail-adresse, du vil bruge, eller [opdatere din standard fra-adresse](https://go.microsoft.com/fwlink/?linkid=875264).
+Du kan sende mails fra enhver konto, du har oprettet forbindelse til din Outlook.com konto. Når du komponerer en e-mail, skal du vælge **fra** og vælge, hvilken e-mailadresse du vil bruge, eller [opdatere din standard fra adresse](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Yderligere oplysninger finder du læse [Tilføj dine andre e-mail-konti til Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Du finder flere oplysninger ved [at læse føje dine andre mailkonti til Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Hvis du vil oprette en ny e-mail-adresse, der bruger den samme Outlook.com-konto, skal du læse [tilføje eller fjerne en e-mail-alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil oprette en ny mailadresse, der bruger den samme Outlook.com-konto, skal du læse [Tilføj eller Fjern et mailalias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

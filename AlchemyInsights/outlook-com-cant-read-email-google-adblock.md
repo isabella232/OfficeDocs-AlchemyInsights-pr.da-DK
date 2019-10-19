@@ -12,15 +12,15 @@ ms.custom:
 - "8000048"
 - "814"
 ms.openlocfilehash: e63e31ea008558d57b0582d306afd34df4715631
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36537653"
 ---
 # <a name="cant-read-email-in-google-chrome-with-adblock"></a>Kan ikke læse e-mail i Google Chrome med AdBlock
 
-Hvis du ikke kan læse eller skrive e-mail, når du bruger Google Chrome med filtypenavnet AdBlock:
+Hvis du ikke kan læse eller komponere e-mail, når du bruger Google Chrome med AdBlock udvidelse:
 
-- Brug [Microsoft kant](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) eller en anden webbrowser.
-- Udelukke Outlook.com fra indstillingerne for AdBlock. Vælge **AdBlock** i øverste højre hjørne af Google Chrome, og derefter vælge **Kør ikke på sider på dette domæne**. Opdater din browser til at indlæse Outlook.com igen.
+- Brug [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) eller en anden webbrowser.
+- Udelad Outlook.com fra AdBlock-indstillingerne. I øverste højre hjørne af Google Chrome skal du vælge **Adblock** og derefter vælge **Kør ikke på sider på dette domæne**. Opdater din browser for at indlæse Outlook.com igen.

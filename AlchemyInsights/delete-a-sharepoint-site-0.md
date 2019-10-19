@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514014"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Slette websteder, der tilhører en gruppe af Office 365
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Slet websteder, der tilhører en Office 365-gruppe
 
-Når brugerne opretter et nyt websted for team SharePoint hjemmefra, eller du opretter et nyt websted for team fra det nye SharePoint admin center, oprettes der automatisk en tilsvarende Office 365-gruppe. Office 365 gruppe forbundet gruppewebsteder oprettes også, når du opretter en Office 365-gruppe eller et team i Microsoft Teams. Hvis du vil slette et SharePoint-websted, der tilhører en gruppe af Office 365, skal du slette selve Office 365-gruppen. 
+Når brugere opretter et nyt teamwebsted fra SharePoint Home, eller du opretter et nyt teamwebsted fra det nye SharePoint-Administrationscenter, oprettes der automatisk en tilsvarende Office 365-gruppe. Office 365 gruppe tilknyttede teamwebsteder oprettes også, når du opretter en Office 365-gruppe eller et team i Microsoft teams. Hvis du vil slette et SharePoint-websted, der tilhører en Office 365-gruppe, skal du slette selve Office 365-gruppen. 
   
-1. Gå til [side for grupper i Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).
+1. Gå til [siden grupper i Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/groups).
     
 2. Marker afkrydsningsfeltet ud for gruppen.
     
 3. Vælg **Slet**.
     
-Bemærk: Når du sletter en gruppe, der kan være en forsinkelse, før webstedet er fjernet fra SharePoint.
+Bemærk: når du sletter en gruppe, kan der være en forsinkelse, før webstedet fjernes fra SharePoint.
   
-**Slet kommunikation og klassiske steder:**
+**Slet Kommunikationswebsteder eller klassiske websteder:**
 
 1. Gå til webstedet.
   
-2. Klik på ikonet **Indstillinger** i øverste højre hjørne. 
+2. Klik på ikonet **Indstillinger** øverst til højre. 
   
-3. Klik på **Indstillinger for websted**. Klik på **Slet webstedet**under **Oplysninger på webstedet** eller **Webstedshandlinger**, og klik derefter på **Slet**.
+3. Klik på **Indstillinger for websted**. Klik på **Slet dette websted**under **websteds oplysninger** eller **Webstedshandlinger**, og klik derefter på **Slet**.
   
-**Slet SharePoint-websteder:**
+**Slet en gruppe af SharePoint-websteder:**
 
-Sådan slettes et websted:
+Sådan sletter du et websted:
   
-1. Klik på **afkrydsningsfeltet** ud for det websted, du vil slette, i det nye center på SharePoint-admin på siden websteder. 
+1. Klik på **afkrydsningsfeltet** ud for det websted, du vil slette, på siden websteder i det nye SharePoint-Administrationscenter. 
     
-2. Klik på på værktøjslinjen båndet **slettes.**
+2. Klik på Slet på værktøjslinjen bånd **.**
     
-**Slettes et websted ved et uheld?**
+**Slettet et websted ved et uheld?**
 
-Se [gendanne en slettet gruppe af websteder](https://go.microsoft.com/fwlink/?linkid=867660).
+Se [Gendan en slettet gruppe af websteder](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

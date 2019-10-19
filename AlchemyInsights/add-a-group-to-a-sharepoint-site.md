@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495205"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Føje en gruppe til et SharePoint-websted
 
-Nogle SharePoint team-websteder (herunder dem, der er oprettet i Microsoft Teams) administreres af gruppen Ejere af Office 365. SharePoint-websteder og indhold kan også deles i Office 365-grupper samt SharePoint-grupper. En SharePoint-gruppe er en samling brugere, der har det samme sæt tilladelser til websteder og indhold. Klassiske websteder anbefales det, at du bruger grupper nemt tildele det samme adgangsniveau til mange mennesker på én gang i stedet for at tildele tilladelser én person ad gangen.
+Nogle SharePoint-teamwebsteder (herunder dem, der er oprettet i Microsoft teams) administreres af Office 365-gruppe ejere. SharePoint-websteder og-indhold kan også deles med Office 365-grupper og med SharePoint-grupper. En SharePoint-gruppe er en samling af brugere, der alle har det samme sæt tilladelser til websteder og indhold. For klassiske websteder anbefaler vi, at du brugergrupper til bekvemt at tildele det samme tilladelsesniveau til mange personer på én gang i stedet for at tildele tilladelser én person ad gangen.
   
-Administrere Office 365 gruppemedlemmer:
+Administrer medlemmer af Office 365-gruppen:
   
-1. Gå til [siden for grupper i Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).
+1. Gå til [siden grupper i Microsoft 365 administration](https://portal.office.com/adminportal/home#/groups).
     
-2. Vælg en gruppe for at se dens ejere og medlemmer. Hvis du vil tilføje eller fjerne brugere, skal du klikke på hyperlinket **Rediger** i rækken **ejere** eller **medlemmer** . 
+2. Vælg en gruppe for at se dens ejere og medlemmer. Hvis du vil tilføje eller fjerne personer, skal du klikke på linket **Rediger** i rækken **ejere** eller **medlemmer** . 
     
-Dele et kommunikationswebsted med en Office 365-gruppe:
+Del et kommunikationswebsted med en Office 365-gruppe:
   
-1. Gå til webstedet i en browser og klikke på **Share-websted** i øverste højre hjørne. 
+1. Gå til webstedet i en browser, og klik på **del websted** øverst til højre. 
     
-2. Angiv navnet på gruppen, og vælg derefter tilladelsesniveauet (læse, redigere eller fuld kontrol).
+2. Angiv gruppenavnet, og vælg derefter tilladelsesniveauet (Læs, Rediger eller fuld kontrol).
     
-Oprette en SharePoint-gruppe, der skal bruges sammen med en klassisk websted:
+Opret en SharePoint-gruppe, der skal bruges med et klassisk websted:
   
-1. Gå til webstedet i en browser, og klik på ikonet indstillinger i øverste højre hjørne.
+1. Gå til webstedet i en browser, og klik på ikonet Indstillinger øverst til højre.
     
-2. Klik på **Indstillinger for websted**, og klik derefter under **brugere og tilladelser**, **tilladelser til webstedet**.
+2. Klik på **Indstillinger for websted**, og klik derefter på **websteds tilladelser**under **brugere og tilladelser**.
     
 3. Klik på **Opret gruppe**under fanen tilladelser.
     
-[Tilslut en klassisk team-websted til en ny gruppe i Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[et klassisk teamwebsted til en ny Office 365-gruppe](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Yderligere oplysninger om arbejde med SharePoint-grupper](https://go.microsoft.com/fwlink/?linkid=874658)
+[Få mere at vide om at arbejde med SharePoint-grupper](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

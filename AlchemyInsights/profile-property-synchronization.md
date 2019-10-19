@@ -1,5 +1,5 @@
 ---
-title: Egenskaben synkronisering af brugerprofil
+title: Synkronisering af profilegenskab
 ms.author: arnek
 author: arnek
 ms.date: 6/20/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
 ms.openlocfilehash: 3f2fd97bd357c6fd6a94cb9715a316ca7fd1bacf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554435"
 ---
-# <a name="profile-property-synchronization"></a>Egenskaben synkronisering af brugerprofil
+# <a name="profile-property-synchronization"></a>Synkronisering af profilegenskab
 
-Det er ikke muligt at knytte flere egenskaber for AD Import skal synkroniseres fra Azure Active Directory til brugerprofilprogrammet. AD Import er begrænset til en række forudkonfigurerede egenskaber for at sikre ensartet ydeevne af timerjobbet.
+Det er ikke muligt at tilknytte yderligere egenskaber for AD import til synkronisering fra Azure Active Directory til brugerprofilprogrammet. ANNONCE import er begrænset til et forudkonfigureret sæt egenskaber for at sikre en ensartet ydeevne for timerjobbet.
   
-[Yderligere oplysninger om de profilegenskaber, der synkroniseres](https://go.microsoft.com/fwlink/?linkid=875671)
+[Få flere oplysninger om de profilegenskaber, der synkroniseres](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

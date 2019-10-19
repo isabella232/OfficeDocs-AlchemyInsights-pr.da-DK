@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online tilladelsesniveauer
+title: Tilladelsesniveauer for SharePoint Online
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534881"
 ---
-# <a name="sharepoint-online-permission-levels"></a>SharePoint Online tilladelsesniveauer
+# <a name="sharepoint-online-permission-levels"></a>Tilladelsesniveauer for SharePoint Online
 
-SharePoint indeholder nogle standardtilladelsesniveauer, som du kan bruge, bidrage og Vis kun. Hvis de ikke opfylder dine behov, kan du oprette flere tilladelsesniveauer. Det er nemmest at holde styr på tilladelser, hvis du ikke redigere eller slette standardniveauer, og hvis du føjer brugere til grupper og tildele tilladelsesniveauer til disse grupper i stedet for at tildele tilladelsesniveauer til individuelle brugere.
+SharePoint leveres med nogle standardtilladelsesniveauer, som du kan bruge, f. eks. Hvis de ikke opfylder dine behov, kan du oprette flere tilladelsesniveauer. Det er nemmest at holde styr på tilladelser, hvis du ikke redigerer eller sletter standard niveauerne, og hvis du føjer personer til grupper og tildeler tilladelsesniveauer til disse grupper i stedet for at tildele tilladelsesniveauer til individuelle brugere.
   
-- [Forståelse af tilladelsesniveauer](https://go.microsoft.com/fwlink/?linkid=867071)
+- [Forstå tilladelsesniveauer](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [Hvordan du opretter og redigerer tilladelsesniveauer](https://go.microsoft.com/fwlink/?linkid=867072)
+- [Sådan oprettes og redigeres tilladelsesniveauer](https://go.microsoft.com/fwlink/?linkid=867072)
     
 

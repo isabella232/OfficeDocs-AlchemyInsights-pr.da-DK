@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541660"
 ---
-# <a name="change-your-language"></a>Ændre sprog
+# <a name="change-your-language"></a>Skift sprog
 
-1. Chang sprog i Outlook, gå til indstillinger for [**sprog og tid**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Indstillinger** \> **få vist alle Outlook-indstillinger** > **generelle** > **sprog og tid**).
+1. For at Chang sproget i Outlook skal du gå til indstillinger for [**sprog og tid**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Indstillinger** \> **Se alle Outlook-indstillinger** > **Generelt** > **sprog og tid**).
 
 2. Vælg dit sprog.
 
 3. Vælg **Gem**.
 
-Hvis du vil vide mere, kan du se [ændre tidszonen og sprogindstillingerne i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Du kan få mere at vide under [ændre tidszone og sprogindstillinger i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

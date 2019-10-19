@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498193"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Ugyldig fil- og mappenavne i OneDrive og SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Ugyldige fil-og mappenavne i OneDrive og SharePoint
 
-Disse tegn er ikke tilladt i fil- og mappenavne " \* : \< \> ? / \ | 
+Disse tegn er ikke tilladt i fil-og mappe \* navne \< \> ":? / \ | 
   
-Nogle organisationer har ikke endnu understøttelse af # og % aktiveret. For at lære at tillade disse tegn i din organisation, se [aktivering af # og % Support](https://go.microsoft.com/fwlink/?linkid=862611). 
+Nogle organisationer har endnu ikke understøttelse af # og% slået til. Du kan få mere at vide om, hvordan du tillader disse tegn i din organisation, under [Aktivering af understøttelse af # og%](https://go.microsoft.com/fwlink/?linkid=862611). 
   
-[Yderligere oplysninger om fil- og begrænsninger](https://go.microsoft.com/fwlink/?linkid=866430)
+[Flere oplysninger om begrænsninger for fil-og mappenavn](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

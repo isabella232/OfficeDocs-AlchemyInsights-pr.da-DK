@@ -1,5 +1,5 @@
 ---
-title: Rediger tilladelserne til en SharePoint-liste eller et bibliotek
+title: Ændre tilladelser for en SharePoint-liste eller et bibliotek
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
 ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519077"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Rediger tilladelserne til en SharePoint-liste eller et bibliotek
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Ændre tilladelser for en SharePoint-liste eller et bibliotek
 
 1. Gå til SharePoint-webstedet i en webbrowser, og Åbn listen eller biblioteket.
     
-2. Klik på ikonet indstillinger i øverste højre hjørne, og klik derefter på **Indstillinger for dokumentbibliotek** eller **Listeindstillinger**. (Hvis du ikke kan se kommandoen, vælge fanen **bibliotek** eller en **liste** for at åbne båndet, og klik derefter på **Indstillinger for dokumentbibliotek** eller **Listeindstillinger** på båndet). 
+2. Klik på ikonet Indstillinger øverst til højre, og klik derefter på **Biblioteksindstillinger** eller **Listeindstillinger**. Hvis du ikke kan se kommandoen, skal du vælge fanen **bibliotek** eller **liste** for at åbne båndet og derefter klikke på **Biblioteksindstillinger** eller **Listeindstillinger** på båndet. 
     
-3. Klik på **tilladelser for listen** eller **tilladelser til dette dokumentbibliotek**under **tilladelser og administration**.
+3. Klik på **tilladelser for denne liste** eller **tilladelser for dette dokumentbibliotek**under **tilladelser og administration**.
     
-Bemærk, at som standard, SharePoint-lister og biblioteker nedarver tilladelser fra webstedet. Hvis du bryde nedarvning af tilladelser, kopieres de aktuelle tilladelser til listen eller biblioteket og alt inden for den. Hvis tilladelser til webstedet senere ændres, anvendes ændringerne ikke til listen eller biblioteket og elementerne i dem.
+Bemærk, at SharePoint-lister og-biblioteker som standard arver deres tilladelser fra webstedet. Hvis du bryder nedarvning af tilladelser, vil de aktuelle tilladelser blive kopieret til listen eller biblioteket og alt i den. Hvis tilladelserne for webstedet senere ændres, vil ændringerne ikke blive anvendt på listen eller biblioteket og elementerne i den.
   
 

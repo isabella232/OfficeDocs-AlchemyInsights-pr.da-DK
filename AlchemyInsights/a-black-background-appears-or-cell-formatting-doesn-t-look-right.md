@@ -1,5 +1,5 @@
 ---
-title: Der vises en sort baggrund eller celleformatering ser forkert ud
+title: Der vises en sort baggrund, eller celleformateringen ser ikke rigtig ud
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495961"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Der vises en sort baggrund eller celleformatering ser forkert ud
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Der vises en sort baggrund, eller celleformateringen ser ikke rigtig ud
 
-Kan du muligvis se en sort baggrund, der uventet, eller du kan se celleformatering, der ikke vises korrekt i Excel 2016. Dette kan ske, efter at tilføje sidehoved eller sidefod i sidelayoutvisning og anvende et mønsterfyld i en celle. Dette problem blev løst i version 1708 (opbygge 8431.2094). For at løse dette problem ved at opdatere til den nyeste version af Office. Vælg **filen** \> **konto** \> **opdatere indstillinger** \> **opdatere nu**.
+I Excel 2016 kan du se en uventet sort baggrund, eller du kan se celleformatering, der ikke vises korrekt. Dette kan ske, når du har tilføjet et sidehoved eller en sidefod i visning af sider og anvendt et mønsterfyld i en celle. Dette problem blev rettet i version 1708 (build 8431,2094). Du kan løse dette problem ved at opdatere til den nyeste version af Office. Vælg Opdater \> **Indstillinger** **** \> \> for **filkonto** opdatering **nu**.
   
 

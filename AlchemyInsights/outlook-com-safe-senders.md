@@ -12,19 +12,19 @@ ms.custom:
 - "1400"
 - "8000089"
 ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535349"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Stop meddelelser i at gå til mappen Uønsket E-mail
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Forhindre meddelelser i at gå ind i mappen uønsket mail
 
-Der er tidspunkter, hvor du ikke ønsker, at meddelelser fra en bestemt person eller det domæne, der ender i mappen Uønsket E-mail i Outlook.com. Meddelelser fra adresser eller domæner på listen Afsendere, der får ikke flyttet til mappen Uønsket E-mail.
+Der er tidspunkter, hvor du ikke vil have, at meddelelser fra en bestemt person eller et specifikt domæne ender i mappen uønsket mail i Outlook.com. Meddelelser fra adresser eller domæner på listen over afsendere, som er tillid til, bliver ikke flyttet til mappen uønsket mail.
 
-1. Åbn [Indstillinger for afsendere](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. Angiv den e-mail-adresse eller det domæne, du vil tilføje, og vælg **Tilføj**under **afsendere og domæner**.
-3. Angiv adresselisten under **sikker mail-lister** for at føje en adresseliste til listen over afsendere, og vælg **Tilføj**.
+1. Åbn [indstillingerne for sikre afsendere](https://go.microsoft.com/fwlink/?linkid=2035804).
+2. Under **sikre afsendere og domæner**skal du angive den mailadresse eller det domæne, du vil tilføje, og vælge **Tilføj**.
+3. Hvis du vil føje en adresseliste til dine afsendere, der er tillid til, skal du indtaste mailinglisten under **sikre mailinglister** og vælge **Tilføj**.
 4. Vælg **Gem**.
 
-Læs mere på [blokere eller fjerne blokering af afsendere i Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Læs mere på [Bloker eller Fjern blokering af afsendere i Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

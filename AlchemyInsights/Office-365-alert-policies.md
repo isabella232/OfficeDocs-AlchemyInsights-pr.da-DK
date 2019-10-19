@@ -13,15 +13,15 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661290"
 ---
 # <a name="office-365-alert-policies"></a>Politikker for Office 365-beskeder
 
-Office 365 Security & Compliance Center indeholder [standard påmindelses politikker](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , der udløser påmindelser for organisationer med et Office 365 Enterprise-eller Office 365 US Government E1/G1-, E3/G3-eller E5/G5-abonnement. Derfor kan admins modtage en påmindelse e-mail-besked sendt af Office365Alerts@microsoft.com med en emnelinje, såsom "en advarsel om lav alvorlighed: *navn på påmindelses politik*". Advarselsmeddelelser sendes, når der udløses påmindelser for almindeligt forekommende aktiviteter, f. eks.
+Office 365 Security & Compliance Center tilbyder [standard påmindelses politikker](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , der udløser påmindelser for organisationer med et Office 365 Enterprise-eller Office 365 US Government E1/G1-, E3/G3-eller E5/G5-abonnement. Derfor kan admins modtage en påmindelse e-mail-besked sendt af Office365Alerts@microsoft.com med en emnelinje, såsom "en advarsel om lav alvorlighed: *navn på påmindelses politik*". Advarselsmeddelelser sendes, når der udløses påmindelser for almindeligt forekommende aktiviteter, f. eks.
 
 - Opret indbakkeregler, der videresender mails.
 - Tildel tilladelser deres postkasse.
@@ -31,10 +31,10 @@ Office 365 Security & Compliance Center indeholder [standard påmindelses politi
 For at gennemgå og reagere på en indberetning:
 
 1. Gå til [Security & Compliance Center](https://protection.office.com) , og log på.
-2.  > Klik **på**påmindelser**Vis beskeder**.
+2.  > Klik **på påmindelser****Vis beskeder**.
 3. Klik på en besked for at få vist en pop op-side med oplysninger om advarslen.
 
-Du kan handle på en advarsel, [f. eks](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Eller du kan blot lukke advarslen ved at klikke på **løs** på siden med advarsels pop op-vinduet.
+Du kan handle [på en advarsel, f. eks](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Eller du kan blot lukke advarslen ved at klikke på **løs** på siden med advarsels pop op-vinduet.
 
 Du finder flere oplysninger om konfiguration og administration af påmindelses politikker i [denne artikel](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 

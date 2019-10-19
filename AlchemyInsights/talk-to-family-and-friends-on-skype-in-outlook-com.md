@@ -1,5 +1,5 @@
 ---
-title: 8000049 tale med familie og venner på Skype i Outlook.com
+title: 8000049 tal med familie og venner på Skype i Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
 ms.openlocfilehash: 2f5dc69fec4ba01502bf0ee2110d503ab3fc8d6e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534269"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Tale med familie og venner på Skype i Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Tal med familie og venner på Skype i Outlook.com
 
-Outlook.com kunder kan tale med familie og venner med chat-, stemme- og videofunktionerne i Skype. Når du [fletter Microsoft og Skype-konti](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), har du automatisk adgang til Skype World Wide web i Outlook.com.
+Outlook.com kunder kan tale med venner og familie med chat-, stemme-og videofunktionerne i Skype. Når du [fletter dine Microsoft-og Skype-konti](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), har du automatisk adgang til Skype på internettet i Outlook.com.
   
-Yderligere oplysninger om, hvordan du [tale med familie og venner på Skype i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Læs mere om, hvordan du [taler med familie og venner på Skype i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
   
 

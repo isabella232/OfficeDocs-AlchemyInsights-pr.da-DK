@@ -1,5 +1,5 @@
 ---
-title: 305 øge postkassestørrelsen arkiv
+title: 305 Forøg størrelsen på arkivpostkassen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
 ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661794"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Øge postkassestørrelsen arkiv
+# <a name="increase-the-archive-mailbox-size"></a>Forøge størrelsen på arkivpostkassen
 
-Office 365 [begrænser](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) størrelsen af arkivet postkasser, der er baseret på den licens, der er knyttet til brugerkontoen. Brugeren modtager en e-mail-besked, når postkassen arkiv når 90% af den tilladte størrelse. Når en arkiv-postkasse når maksimale størrelse, kan ikke brugeren flytte flere varer til arkiv-postkasse. Office 365 øger ikke størrelsen på en arkiv-postkasse, når grænsen er nået. I stedet kan brugere udføre følgende handlinger for at frigøre plads i postkassen arkiv:
+Office 365 [begrænser](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) størrelsen på arkivpostkasser baseret på den licens, der er tildelt brugerkontoen. Når arkivpostkassen når 90% af den tilladte størrelse, modtager brugeren en e-mail-meddelelse. Når en arkivpostkasse når sin størrelsesgrænse, kan brugeren ikke flytte flere elementer til arkivpostkassen. Office 365 øger ikke størrelsen på en arkivpostkasse, når størrelsesgrænsen er nået. I stedet kan brugerne foretage følgende handlinger for at frigøre plads i arkivpostkassen:
 
-- Eksport af varer til en .pst-fil ved hjælp af Outlook.
+- Eksporter elementerne til en. pst-fil ved hjælp af Outlook.
 
-- Slette elementer fra postkassen arkiv.
+- Slet elementer fra arkivpostkassen.
 
-Office 365 giver **ubegrænset arkivering** til Office 365 Enterprise E3 og E5 licenser. En administrator skal aktivere denne funktion, før arkiv postkassen har nået sin maksimale størrelse. Når ubegrænset arkivering er aktiveret, kan det tage op til 30 dage før ledig plads er føjet til arkiv-postkasse. Vi anbefaler derfor, at administratorer kontrollere den ledige plads i postkassen arkiv, som gør det muligt at fortsætte med at bruge postkassen arkiv, mens den udvides. Yderligere oplysninger finder du under [Oversigt over ubegrænset arkivering i Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) og [aktivere ubegrænset arkivering i Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+Office 365 giver **ubegrænset arkivering** til Office 365 Enterprise E3-og E5-licenser. En administrator skal aktivere denne funktion, før arkivpostkassen når sin maksimale størrelse. Når ubegrænset arkivering er aktiveret, kan det tage op til 30 dage, før der føjes ledig plads til arkivpostkassen. Derfor anbefaler vi, at administratorer kontrollerer den frie plads i arkivpostkassen, hvilket gør det muligt for brugeren at fortsætte med at bruge arkivpostkassen, mens den udvides. Du kan finde flere oplysninger under [Oversigt over ubegrænset arkivering i office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) og [aktivere ubegrænset arkivering i Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
 
-Yderligere oplysninger om at få adgang til postkassen arkiv fra Outlook, se [krav til Outlook for at få adgang til elementer i et udvidet automatisk arkiv](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Se [oprette et arkiv og sletning af en politik for postkasser i organisationen Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)for at konfigurere en opbevaringspolitik, der automatisk flytter emner til postkassen, arkiv.
+Du finder flere oplysninger om, hvordan du får adgang til arkivpostkassen fra Outlook, under [Outlook-krav til adgang til elementer i et automatisk udvidet Arkiv](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Hvis du vil konfigurere en opbevaringspolitik, der automatisk flytter elementer til arkivpostkassen, skal du se [konfigurere en politik for arkivering og sletning af postkasser i din Office 365-organisation](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
 
-**Bemærk**: udvides automatisk arkiverne understøttes ikke for primære postkasser på Exchange 2010.
+**Bemærk**: automatisk udvidelse af arkiver understøttes ikke for primære postkasser på Exchange 2010.

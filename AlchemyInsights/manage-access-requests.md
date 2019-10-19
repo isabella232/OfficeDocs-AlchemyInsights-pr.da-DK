@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
 ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542490"
 ---
 # <a name="manage-access-requests"></a>Administrere anmodninger om adgang
 
-Når en bruger forsøger at få adgang til et element i SharePoint, og de har ikke tilladelse, får de vist en meddelelse, der er, at de har brug for tilladelse til at få adgang til elementet. Brugeren kan anmode om adgang (i nogle tilfælde, at det element eller for at deltage i gruppen) og ejer af et websted kan godkende eller afvise anmodningen. Hvis en person, der ikke er ejer af et websted deler et websted med en anden person, får ejeren af webstedet en anmodning om adgang til den nye bruger. At godkende eller afvise anmodninger om adgang:
+Når en bruger forsøger at få adgang til et element i SharePoint, og de ikke har tilladelse, får de vist en meddelelse om, at de skal have tilladelse til at få adgang til elementet. Brugeren kan anmode om adgang (i nogle tilfælde til det specifikke element eller til at deltage i gruppen), og en webstedsejer kan godkende eller afvise anmodningen. Hvis en person, der ikke er ejer af et websted, deler et websted med en anden person, får webstedsejeren også en anmodning om adgang for den nye bruger. Sådan godkender eller afviser du anmodninger om adgang:
   
-1. Gå til webstedet, skal du klikke på ikonet indstillinger i øverste højre hjørne, og klik derefter på **Indstillinger for websted**. (Hvis du ikke kan se indstillinger for websted, klik på **webstedstilladelser**, og klik derefter på **Avancerede tilladelsesindstillinger**. Søg efter et banner, der indeholder et link, der hedder "Vis adgangsanmodninger og invitationer.")
+1. Gå til webstedet, klik på ikonet Indstillinger øverst til højre, og klik derefter på **Indstillinger for websted**. Hvis du ikke kan se indstillinger for websted, skal du klikke på **websteds tilladelser**og derefter klikke på **avancerede tilladelsesindstillinger**. Kig efter et banner, der har et link kaldet "Vis adgangsanmodninger og invitationer".)
     
-2. Klik på **anmodninger om adgang og invitationer**under **brugere og tilladelser**. (Hvis det ikke vises, ingen anmodninger om adgang er udført.)
+2. Klik på **adgangsanmodninger og invitationer**under **brugere og tilladelser**. (Hvis dette ikke vises, er der ikke blevet foretaget nogen anmodninger om adgang).
     
-3. For at give brugertilladelse enkeltvis, skal du klikke på **Godkend** eller **Afvis**. For at vælge et bestemt adgangsniveau, du først klikke på ellipseknappen (...) ud for personens navn. Du kan også føje brugeren til en gruppe, der har tilladelse til webstedet. Kommunikationswebsteder og klassisk team-websteder, kan du gøre dette på siden Indstillinger for websted. For websteder, der tilhører en gruppe af Office 365, kan du føje brugeren til gruppen.
+3. Klik på **Godkend** eller **Afvis**for at give brugeren tilladelse enkeltvis. Hvis du vil vælge et bestemt tilladelsesniveau, skal du først klikke på ellipsen (...) ud for personens navn. Alternativt kan du føje brugeren til en gruppe, der har tilladelse til webstedet. For Kommunikationswebsteder og klassiske teamwebsteder kan du gøre dette på siden Indstillinger for websted. For websteder, der tilhører en Office 365-gruppe, kan du føje brugeren til gruppen.
     
     [Administrere anmodninger om adgang](https://go.microsoft.com/fwlink/?linkid=2008747)
     

@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753754"
 ---
 # <a name="more-info-about-retention-policies"></a>Flere oplysninger om opbevaringspolitikker
@@ -26,13 +26,13 @@ For de fleste organisationer er mængden og kompleksiteten af deres data stigend
 
 ## <a name="a-from-security-and-compliance-center"></a>A) fra Security and Compliance Center
 
-- Gå til sikkerhed og overholdelse > data styring > tilbageholdelse
+- Gå til sikkerhed og overholdelse > data styring > fastholdelse
   - Se [denne](https://docs.microsoft.com/office365/securitycompliance/retention-policies) artikel
 
 - Gå til sikkerhed og overholdelse > eDiscovery> Advanced eDiscovery 
   - Se [denne](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) artikel
 
-- Gå til sikkerhed og overholdelse > klassifikationer > tilbageholdelse
+- Gå til sikkerheds-og overholdelses > klassifikationer > tilbageholdelse
   - Se disse artikler
     - [Følsomheds etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Etiketter, oversigt](https://docs.microsoft.com/office365/securitycompliance/labels)

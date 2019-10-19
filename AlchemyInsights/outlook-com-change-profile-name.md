@@ -1,5 +1,5 @@
 ---
-title: Ændre profilnavnet på din i Outlook.com
+title: Skift profilnavn i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546714"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>Ændre profilnavnet på din i Outlook.com
+# <a name="change-your-profile-name-in-outlookcom"></a>Skift profilnavn i Outlook.com
 
-1. Gå til [din Microsoft-kontooplysninger](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Klik på **Rediger navn**.
-3. Angiv et fornavn og efternavn, og vælg **Gem**.
+1. Gå til [dine Microsoft-kontooplysninger](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. Vælg **Rediger navn**.
+3. Angiv et fornavn og efter navn, og vælg **Gem**.
 
-Der kan gå op til 24 timer efter ændringer i dit profilnavn til at træde i kraft.
+Giv op til 24 timer til, at ændringer af dit profilnavn træder i kraft.

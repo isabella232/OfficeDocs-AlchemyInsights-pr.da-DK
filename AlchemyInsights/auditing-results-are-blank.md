@@ -1,5 +1,5 @@
 ---
-title: Overvåge resultaterne er tom
+title: Overvågningsresultater er tomme
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517421"
 ---
-# <a name="auditing-results-are-blank"></a>Overvåge resultaterne er tom
+# <a name="auditing-results-are-blank"></a>Overvågningsresultater er tomme
 
- **Revisionsrapporterne for klassiske websteder**
+ **Revisionsrapporter for klassiske websteder**
   
-For at få vist en kontrolrapport for SharePoint-websteder, skal du være administrator for gruppen af websteder. For at tilføje dig selv som administrator, kan du se [Tilføj websted websteder admins som en global eller SharePoint-administrator](https://go.microsoft.com/fwlink/?linkid=869390). For at få oplysninger om at arbejde med overvågningsloggen, se [overvåge log-rapporter](https://go.microsoft.com/fwlink/?linkid=395237). 
+Hvis du vil have vist en overvågningsrapport for en gruppe af SharePoint-websteder, skal du være administrator for gruppen af websteder. Hvis du vil tilføje dig selv som administrator, skal [du se tilføje administratorer af gruppe af websteder som en global eller SharePoint-administrator](https://go.microsoft.com/fwlink/?linkid=869390). Du kan finde oplysninger om at arbejde med overvågningsloggen i [få vist overvågningslog rapporter](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Søge overvågningsloggen Office 365**
+ **Søg i Office 365-overvågningsloggen**
   
-Du skal være en global administrator i Office 365 til at arbejde med overvågningsloggen i den [sikkerhed &amp; Overholdelsescenter](https://protection.office.com). Før du begynder, kan du slå logføring af overvågning. Du kan derefter køre en revision log søgning. 
+Du skal være global administrator i Office 365 for at kunne arbejde med overvågningsloggen i [ &amp; Security Compliance Center](https://protection.office.com). Før du begynder, skal du slå logføring af overvågning til. Derefter kan du køre en søgning i overvågningslog. 
   
-[Lære at søge i overvågningsloggen](https://go.microsoft.com/fwlink/?linkid=708432).
+[Få mere at vide om, hvordan du søger i overvågningsloggen](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

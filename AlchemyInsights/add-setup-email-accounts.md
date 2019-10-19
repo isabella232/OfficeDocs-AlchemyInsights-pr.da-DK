@@ -1,5 +1,5 @@
 ---
-title: 764 Tilføj/opsætning af e-mail-konti
+title: 764 Tilføj/Opsæt e-mailkonti
 ms.author: pdigia
 author: pebaum
 ms.date: 6/8/2018
@@ -12,22 +12,22 @@ ms.custom:
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
 ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660894"
 ---
-# <a name="setup-email-accounts"></a>Opsætning af e-mail-konti
+# <a name="setup-email-accounts"></a>Konfigurere e-mail-konti
 
-1. Vælg **fil**i Outlook, > **Info** > **Tilføj konto**.
+1. I Outlook skal du vælge > **Filinfo** > **Tilføj konto**. ****
 
-2. Angiv din e-mail-adresse, og vælg derefter **Opret forbindelse**.
+2. Angiv din mailadresse, og vælg derefter **Opret forbindelse**.
 
-3. Angiv din adgangskode, og klik derefter på **OK**.
+3. Indtast din adgangskode, og vælg derefter **OK**.
 
 4. Du kan gentage disse trin for at tilføje flere konti.
 
     > [!NOTE]
-    > Nogle e-mail-konti, som Gmail, Yahoo og iCloud, skal du konfigurere to-faktor-godkendelse for at kunne bruge Outlook til at sende og modtage e-mail. Yderligere oplysninger finder du under [Tilføj en e-mail-konto til Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+    > Nogle e-mail-konti, som Gmail, Yahoo og iCloud, kræver, at du konfigurerer totrinsgodkendelse for at bruge Outlook til at sende og modtage e-mail. Se [tilføje en mailkonto til Outlook for at](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) få flere oplysninger.
   

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554939"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Hvordan nedarvning af tilladelser fungerer i SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Sådan fungerer nedarvning af tilladelser i SharePoint
 
-Som standard nedarves tilladelser i SharePoint fra højere oppe i hierarkiet. Så en fil, der nedarver tilladelser fra den mappe, der nedarver tilladelser fra biblioteket, der nedarver tilladelser fra det websted, der nedarver tilladelser fra den gruppe af websteder.
+Tilladelser i SharePoint nedarves som standard fra højere op i hierarkiet. Så en fil nedarvning sine tilladelser fra mappen, som nedarvning sine tilladelser fra biblioteket, som nedarvning sine tilladelser fra webstedet, som nedarvning sine tilladelser fra gruppen af websteder.
   
-Se [redigere og administrere tilladelser for en liste eller et bibliotek](https://go.microsoft.com/fwlink/?linkid=869946)for at få oplysninger om at fjerne separate tilladelser og gendanne nedarvning.
+Du kan finde oplysninger om at fjerne entydige tilladelser og gendanne nedarvning under [redigere og administrere tilladelser for en liste eller et bibliotek](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

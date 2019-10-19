@@ -1,5 +1,5 @@
 ---
-title: Administrere brugerprofiler i Delve
+title: Administrer brugerprofiler i Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497185"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Administrere brugerprofiler i Delve
+# <a name="manage-user-profiles-in-delve"></a>Administrer brugerprofiler i Delve
 
-Office Delve kan brugerne administrere deres Office 365-brugerprofil. Brugere kan:
+Office Delve giver brugerne mulighed for at administrere deres Office 365-brugerprofil. Brugere kan:
   
 - Få vist og opdatere deres oplysninger
     
-- Beskytte personlige oplysninger på nogle
+- Hold nogle oplysninger private
     
-- Ændre deres profil eller dækning billede
+- Ændre deres profil eller Coverbillede
     
-- Ændre sprog- og klokkeslætsformat for Delve
+- Ændre sprog-og klokkeslætsformatet for Delve
     
 > [!NOTE]
-> Hvis en bruger opdateret deres profilbillede, og ændringen vises ikke i SharePoint eller OneDrive, kan du bede dem til at åbne en webbrowser, [Gå til Office.com](https://www.office.com), logge på med deres arbejde eller skole konto og derefter klikke på den OneDrive eller SharePoint. Dette beder profilbillede til synkronisering. Brugeren kan være nødvendigt at prøve at udføre disse trin med den Private version af deres webbrowser. 
+> Hvis en bruger har opdateret sit profilbillede, og ændringen ikke vises i SharePoint eller OneDrive, kan du bede vedkommende om at åbne en webbrowser, [gå til Office.com](https://www.office.com), logge på med deres arbejds-eller skolekonto og derefter klikke på feltet OneDrive eller SharePoint. Dette vil bede profilbilledet om at synkronisere. Brugeren skal muligvis prøve at udføre disse trin med den private version af deres browser. 
   
-[Yderligere oplysninger om opdatering af profiler i Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Få mere at vide om opdatering af profiler i Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

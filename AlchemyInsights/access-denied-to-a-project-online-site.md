@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661218"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Give brugertilladelser i Project Online
+# <a name="give-users-permissions-in-project-online"></a>Give brugere tilladelser i Project online
 
-Give brugere adgang til et Project Web App-websted, der bruger SharePoint-tilladelser-tilstand:
+Give brugere adgang til et Project Web App-websted ved hjælp af SharePoint-Tilladelsestilstand:
 
-1. Log på Project Online som en administrator.
-2. Vælg **dele** i øverste højre hjørne på hjemmesiden for Project Web App.
-3. Skriv brugernavnet på den person, du vil give adgang til, i boksen **Invitere personer** i dialogboksen **Del Project Web App** .
-4. Vælg **Vis indstillinger**, og vælg i menuen **Vælg et adgangsniveau** **Projektledere til Project Web App**.
-5. Vælg **dele**.
+1. Log på Project online som administrator.
+2. På startsiden for Project Web App skal du vælge **del** i øverste højre hjørne.
+3. I dialogboksen **del Project Web App** skal du skrive brugernavnet på den person, du vil give adgang til, i feltet **Inviter personer** .
+4. Vælg **Vis indstillinger**, og vælg **projektledere til Project Web App**i menuen **Vælg et tilladelsesniveau** .
+5. Vælg **del**.
 
-Hvis du bruger Projekttilladelser tilstand, eller yderligere oplysninger, se [tilføje personer til Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Hvis du bruger Project-tilladelsestilstand, eller du kan finde flere oplysninger, skal du se [føje personer til Project online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

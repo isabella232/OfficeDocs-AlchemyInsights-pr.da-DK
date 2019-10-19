@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
 ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516197"
 ---
-# <a name="microsoft-flow"></a>Microsoft Flow
+# <a name="microsoft-flow"></a>Microsoft flow
 
-Microsoft Flow hjælper dig med at automatisere almindelige opgaver. Du kan bruge den til at konfigurere arbejdsgange for lister og biblioteker. Hvis du vil vide, hvordan du føjer et flow til en liste eller et bibliotek i SharePoint Online- eller OneDrive, se [oprette et flow](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft flow hjælper dig med at automatisere almindeligt forekommende opgaver. Brug den til at konfigurere arbejdsprocesser for lister og biblioteker. Du kan få mere at vide om, hvordan du føjer et flow til en liste eller et bibliotek i SharePoint Online eller OneDrive, under [oprette et flow](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[Videoer om Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videoer om Microsoft flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Webstedet Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
+[Microsoft flow-websted](https://go.microsoft.com/fwlink/?linkid=864642)
   
 
