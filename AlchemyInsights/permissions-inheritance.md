@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36554939"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a><span data-ttu-id="dd060-102">Sådan fungerer nedarvning af tilladelser i SharePoint</span><span class="sxs-lookup"><span data-stu-id="dd060-102">How permissions inheritance works in SharePoint</span></span>
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a><span data-ttu-id="29c95-102">Sådan fungerer nedarvning af tilladelser i SharePoint</span><span class="sxs-lookup"><span data-stu-id="29c95-102">How permissions inheritance works in SharePoint</span></span>
 
-<span data-ttu-id="dd060-103">Tilladelser i SharePoint nedarves som standard fra højere op i hierarkiet.</span><span class="sxs-lookup"><span data-stu-id="dd060-103">By default, permissions in SharePoint are inherited from higher up in the hierarchy.</span></span> <span data-ttu-id="dd060-104">Så en fil nedarvning sine tilladelser fra mappen, som nedarvning sine tilladelser fra biblioteket, som nedarvning sine tilladelser fra webstedet, som nedarvning sine tilladelser fra gruppen af websteder.</span><span class="sxs-lookup"><span data-stu-id="dd060-104">So a file inherits its permissions from the folder, which inherits its permissions from the library, which inherits its permissions from the site, which inherits its permissions from the site collection.</span></span>
+<span data-ttu-id="29c95-103">Tilladelser i SharePoint nedarves som standard fra højere op i hierarkiet.</span><span class="sxs-lookup"><span data-stu-id="29c95-103">By default, permissions in SharePoint are inherited from higher up in the hierarchy.</span></span> <span data-ttu-id="29c95-104">Så en fil nedarvning sine tilladelser fra mappen, som nedarvning sine tilladelser fra biblioteket, som nedarvning sine tilladelser fra webstedet, som nedarvning sine tilladelser fra gruppen af websteder.</span><span class="sxs-lookup"><span data-stu-id="29c95-104">So a file inherits its permissions from the folder, which inherits its permissions from the library, which inherits its permissions from the site, which inherits its permissions from the site collection.</span></span>
   
-<span data-ttu-id="dd060-105">Du kan finde oplysninger om at fjerne entydige tilladelser og gendanne nedarvning under [redigere og administrere tilladelser for en liste eller et bibliotek](https://go.microsoft.com/fwlink/?linkid=869946).</span><span class="sxs-lookup"><span data-stu-id="dd060-105">For info about removing unique permissions and restoring inheritance, see [Edit and manage permissions for a list or library](https://go.microsoft.com/fwlink/?linkid=869946).</span></span>
+<span data-ttu-id="29c95-105">Du kan finde oplysninger om at fjerne entydige tilladelser og gendanne nedarvning under [redigere og administrere tilladelser for en liste eller et bibliotek](https://go.microsoft.com/fwlink/?linkid=869946).</span><span class="sxs-lookup"><span data-stu-id="29c95-105">For info about removing unique permissions and restoring inheritance, see [Edit and manage permissions for a list or library](https://go.microsoft.com/fwlink/?linkid=869946).</span></span>
   
 
