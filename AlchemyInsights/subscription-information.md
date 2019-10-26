@@ -1,5 +1,5 @@
 ---
-title: Oplysninger om abonnementet
+title: Abonnementsoplysninger
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501191"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576870"
 ---
-# <a name="subscription-information"></a>Oplysninger om abonnementet
+# <a name="subscription-information"></a>Abonnementsoplysninger
 
-Yderligere oplysninger om Office 365-abonnementer, du ejer, i admin center, gå til **faktura** \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
+Du finder oplysninger om de abonnementer, du ejer, ved at gå til siden **fakturerings** \> [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
 Vigtige oplysninger om hvert abonnement:
   
 - Status for hver
 
-- Licenser købt
+- Købte licenser
 
-- Licenser, der er tildelt
+- Tildelte licenser
 
 - Tilbagevendende faktureringsstatus
 
-- Saldo
+- Balance
 
-- Betalingsform
+- Betalingsmetode
 
-- Dato for næste fakturerings- eller
+- Næste fakturerings-eller udløbsdato
