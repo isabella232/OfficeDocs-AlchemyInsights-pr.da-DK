@@ -9,26 +9,26 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666546"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36745427"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Anbefalede trin, du skal udføre, hvis en konto er blevet kompromitteret
 
 [VIDEO: Rettelse af en kompromitteret Office 365-konto](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [Nulstil brugerens adgangskode](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) med det samme. Send ikke den nye adgangskode til slutbrugeren via mail.
+1. [Nulstil brugerens adgangskode](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) med det samme. Send ikke den nye adgangskode til slutbrugeren via mail.
 
-2. Fjern alle mistænkelige [videresendelsesadresser](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74), der er angivet på postkasseniveauet.
+2. Fjern alle mistænkelige [videresendelsesadresser](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding), der er angivet på postkasseniveauet.
 
 3. Fjern alle mistænkelige [indbakkeregler](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED), der er angivet i postkassen.
 
 4. Hvis brugeren er blevet blokeret og ikke kan sende mails, skal du [gå til siden Brugere med begrænset adgang for at fjerne blokeringen af kontoen](https://protection.office.com/?hash=/restrictedusers). Når du har gjort dette, bør brugeren kunne afsende mails fra kontoen igen inden for én time.
 
-5. Fjern brugerkontoen fra alle [grupper for administrationsroller](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504), indtil du er sikker på, at kontoen ikke længere er kompromitteret.
+5. Fjern brugerkontoen fra alle [grupper for administrationsroller](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles), indtil du er sikker på, at kontoen ikke længere er kompromitteret.
 
-For at minimere sandsynligheden for et databrud eller en kompromitteret konto i fremtiden, anbefaler vi, at du læser vores [artikel om bedste praksis for Office 365 Security](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).
+For at minimere sandsynligheden for et databrud eller en kompromitteret konto i fremtiden, anbefaler vi, at du læser vores [Office 365-sikkerhedsplan ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   
