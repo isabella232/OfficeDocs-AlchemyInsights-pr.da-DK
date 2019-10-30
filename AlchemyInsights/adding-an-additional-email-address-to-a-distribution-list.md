@@ -1,9 +1,8 @@
 ---
-title: Tilføje en ekstra e-mail-adresse til en distributionsliste 713
+title: 713 tilføjelse af en ekstra e-mailadresse til en distributionsliste
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494773"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766201"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Tilføje en e-mail-adresse til en distributionsgruppe
+# <a name="add-an-email-address-for-a-distribution-group"></a>Tilføje en mailadresse til en distributionsgruppe
 
-Hvis du vil tilføje e-mail-adresser for en eksisterende distributionsgruppe, skal du følge disse trin:
+Hvis du vil tilføje mailadresser til en eksisterende distributionsgruppe, skal du følge disse trin:
 
-1. Gå til **modtagere** i [Exchange admin center](https://outlook.office365.com/ecp/) \> **grupper**.
+1. I [Exchange administration](https://outlook.office365.com/ecp/)skal du gå til **grupper**af **modtagere** \> .
 
 2. Vælg den distributionsgruppe, du vil ændre, og klik derefter på **Rediger**.
 
-3. Gå til fanen **e-mail-indstillinger** til at tilføje e-mail-adresser i egenskaberne for gruppen. 
+3. I gruppens egenskaber skal du gå til fanen **mailindstillinger** for at tilføje mailadresser. 
 
-Yderligere oplysninger finder du under [e-mail-indstillinger](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+Du finder flere oplysninger under [e-mail-indstillinger](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).

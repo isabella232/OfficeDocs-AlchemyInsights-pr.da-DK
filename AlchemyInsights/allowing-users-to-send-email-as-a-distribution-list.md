@@ -1,9 +1,8 @@
 ---
-title: 717 godkendelse-brugere til at sende e-mail som en distributionsliste
+title: 717 tillade brugere at sende e-mail som en distributionsliste
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8fcd76ee85c5108aa6209952085d0488b1883256
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506150"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768254"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Tillad brugere at sende e-mail som en distributionsgruppe
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Tillad brugere at sende mails som en distributionsgruppe
 
-Hvis brugerne skal kunne sende meddelelser, der ser ud til at stamme fra en eksisterende distributionsgruppe, skal du følge disse trin:
+Hvis du vil tillade brugere at sende meddelelser, der ser ud til at komme fra en eksisterende distributionsgruppe, skal du følge disse trin:
 
-1. Gå til **modtagere** i [Exchange admin center](https://outlook.office365.com/ecp/) \> **grupper**.
+1. I [Exchange administration](https://outlook.office365.com/ecp/)skal du gå til **grupper**af **modtagere** \> .
 
 2. Vælg den distributionsgruppe, du vil ændre, og klik derefter på **Rediger**.
 
-3. Gå til fanen **gruppe-delegering** til at angive de brugere, der kan sende som eller sende på vegne af distributionsgruppen i egenskaberne for gruppen.
+3. I gruppens egenskaber skal du gå til fanen **gruppe delegering** for at angive de brugere, der kan sende som eller sende på vegne af distributionsgruppen.
 
-Yderligere oplysninger finder du under [e-mail-indstillinger](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+Du finder flere oplysninger under [e-mail-indstillinger](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).

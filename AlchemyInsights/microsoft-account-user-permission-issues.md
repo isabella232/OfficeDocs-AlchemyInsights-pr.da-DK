@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754186"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768795"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Fejlfinding af problem-brugeren blev ikke fundet i mappen
 
-Selv om brugernes er modtager fejl besked "bruger kan ikke ' være oprette" i den bibliotek. Prøv igen, hvor problemtypen er bruger ikke i mappen.
+Hvis brugerne får fejlmeddelelsen "brugeren kan ikke findes" i mappen, skal du prøve igen, hvor problemtypen er bruger ikke i mappen.
 
 Følgende trin kan udføres for at løse problemet.
 
@@ -27,9 +27,9 @@ Du kan finde flere oplysninger under [Sådan administrerer du aliasser for din</
 
 - Gå til hvert sted (er), hvor brugeren modtager fejlen. 
 
-Tilføj "/_layouts/15/People.aspx/membershipgroupid = 0" (i dobbelt anførselstegn) til slutningen af webstedets URL-adresse. 
+Tilføj "/_layouts/15/People.aspx/membershipgroupid = 0" (i dobbelt anførselstegn) til slutningen af webstedets webadresse. 
 
-Eksempel: https:/_Lt_ "contoso">. SharePoint. com/_layouts/15/People. aspx/membershipGroupId = 0.
+Eksempel: https://< "Contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Vælg brugeren på listen.
 

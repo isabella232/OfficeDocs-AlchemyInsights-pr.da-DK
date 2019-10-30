@@ -1,5 +1,5 @@
 ---
-title: Blokere eller fjerne blokering af afsendere i Outlook.com
+title: Bloker eller Fjern blokering af afsendere i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643688"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768722"
 ---
-# <a name="block-or-unblock-senders"></a>Blokere eller fjerne blokering af afsendere
+# <a name="block-or-unblock-senders"></a>Bloker eller Fjern blokering af afsendere
 
-Meddelelser fra e-mail-adresser eller domæner på dine blokerede afsendere gå direkte til mappen Uønsket E-mail. E-mail er automatisk efter 30 dage er fjernet fra mappen Uønsket E-mail, og kan ikke gendannes. Se; ect et element for at se, hvornår den vil blive fjernet.
+Meddelelser fra mailadresser eller domæner på dine blokerede afsendere går direkte til mappen uønsket mail i Outlook. E-mail fjernes automatisk fra mappen uønsket mail efter 30 dage og kan ikke gendannes. Vælg et element for at se, hvornår det vil blive fjernet.
 
-**Fra din Indbakke:**
+**Fra din indbakke:**
 
-- På meddelelseslisten, Vælg meddelelsen, og vælg derefter **uønsket** > **blok**.
-- **Bemærk:** Blokering af en vare, der allerede findes i mappen Uønsket E-mail sletter ikke den.
+- Vælg beskeden på meddelelseslisten, og vælg derefter **junk** > **Block**.
+- **Bemærk:** Hvis du blokerer et element, der allerede findes i mappen uønsket mail, slettes det ikke.
 
-**Indstillinger:**
+**Fra indstillinger:**
 
-1. Åbn indstillinger for [uønsket e-mail](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. Vælg **Tilføj**under **listen blokerede afsendere og domæner**.
-3. Skriv e-mail-adressen på domæne, som du vil blokere, og tryk på Enter.
+1. Åbn indstillinger for [uønsket mail](https://outlook.live.com/mail/options/mail/junkEmail) .
+2. Under **blokerede afsendere og domæner**skal du vælge **Tilføj**.
+3. Skriv e-mail-adressen på det domæne, du vil blokere, og tryk på ENTER.
 4. Vælg **Gem**.
 
-For at fjerne blokeringen af en afsender, skal du vælge ikonet for papirkurven ud for den e-mail-adresse eller det domæne, du vil fjerne blokeringen.
+Hvis du vil fjerne blokeringen af en afsender, skal du vælge ikonet Papirkurv ud for den mailadresse eller det domæne, du vil fjerne blokeringen af.
 
-Hvis du vil vide mere, se [markere e-mails som uønsket eller blokere afsendere på Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Du kan finde flere oplysninger under [markere mail som uønsket eller blokere afsendere i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

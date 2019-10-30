@@ -11,15 +11,15 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545154"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768831"
 ---
-# <a name="issues-with-mfa"></a>Problemer med MFA
-Der er et par ting at kontrollere, hvis brugerne ikke kan logge ind ved hjælp af multi-faktor-autentificering (MFA)
+# <a name="issues-with-azure-mfa"></a>Problemer med Azure MFA
+Der er et par ting, du skal kontrollere, hvis brugerne ikke kan logge på ved hjælp af multifaktorgodkendelse (MFA)
 
 1. Den berørte bruger kan være blokeret i Azure Active Directory-portalen. Hvis det er tilfældet, vil godkendelsesforsøg for den pågældende bruger automatisk blive nægtet. [Følg trinnene i denne artikel for at fjerne blokeringen af dem.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 

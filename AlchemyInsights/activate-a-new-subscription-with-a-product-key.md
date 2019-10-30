@@ -3,7 +3,6 @@ title: Aktivere et nyt abonnement med en produktnøgle
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495637"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766381"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Aktivere et nyt abonnement med en produktnøgle
 
-1. Hvis du vil aktivere et nyt abonnement med din produktnøgle, skal du gå til den [https://office.com/setupkey](https://office.com/setupkey) side.
+1. Hvis du vil aktivere et nyt Office 365-abonnement med din produktnøgle [https://office.com/setupkey](https://office.com/setupkey), skal du gå til.
 
-2. Angiv din produktnøgle til Office 365, og følg vejledningen for at aktivere dit abonnement. Hvis du har problemer med aktiveringen, se denne [liste over almindelige produkt nøgle fejl og løsninger](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Angiv din Office 365-produktnøgle, og følg anvisningerne for at aktivere dit abonnement. Hvis du har problemer med aktivering, skal du se denne [liste over almindeligt forekommende produktnøglefejl og-løsninger](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
