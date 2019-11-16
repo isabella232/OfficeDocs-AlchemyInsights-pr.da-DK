@@ -9,36 +9,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
 ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36753790"
 ---
-# <a name="missing-workflow-failed-to-activate"></a><span data-ttu-id="9b5cb-102">Manglende arbejdsproces kunne ikke aktiveres</span><span class="sxs-lookup"><span data-stu-id="9b5cb-102">Missing Workflow Failed to Activate</span></span>
+# <a name="missing-workflow-failed-to-activate"></a><span data-ttu-id="c63fa-102">Manglende arbejdsproces kunne ikke aktiveres</span><span class="sxs-lookup"><span data-stu-id="c63fa-102">Missing Workflow Failed to Activate</span></span>
 
-<span data-ttu-id="9b5cb-103">I en gruppe af Microsoft SharePoint-websteder kan du ikke føje en globalt genanvendelig arbejdsproces (f. eks. "godkendelse-SharePoint 2010") til en liste eller et bibliotek.</span><span class="sxs-lookup"><span data-stu-id="9b5cb-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
+<span data-ttu-id="c63fa-103">I en gruppe af Microsoft SharePoint-websteder kan du ikke føje en globalt genanvendelig arbejdsproces (f. eks. "godkendelse-SharePoint 2010") til en liste eller et bibliotek.</span><span class="sxs-lookup"><span data-stu-id="c63fa-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
   
-<span data-ttu-id="9b5cb-104">Du kan lÃ ̧se problemet ved at fÃ ̧lge disse trin:</span><span class="sxs-lookup"><span data-stu-id="9b5cb-104">To resolve this issue, follow these steps:</span></span> 
+<span data-ttu-id="c63fa-104">Du kan lÃ ̧se problemet ved at fÃ ̧lge disse trin:</span><span class="sxs-lookup"><span data-stu-id="c63fa-104">To resolve this issue, follow these steps:</span></span> 
   
-1. <span data-ttu-id="9b5cb-105">Åbn rodwebstedet for gruppen af websteder i SharePoint Designer 2013.</span><span class="sxs-lookup"><span data-stu-id="9b5cb-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
+1. <span data-ttu-id="c63fa-105">Åbn rodwebstedet for gruppen af websteder i SharePoint Designer 2013.</span><span class="sxs-lookup"><span data-stu-id="c63fa-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
   
-2. <span data-ttu-id="9b5cb-106">Vælg **arbejdsprocesser**under **webstedsobjekter**.</span><span class="sxs-lookup"><span data-stu-id="9b5cb-106">Under **Site Objects**, select **Workflows**.</span></span> 
+2. <span data-ttu-id="c63fa-106">Vælg **arbejdsprocesser**under **webstedsobjekter**.</span><span class="sxs-lookup"><span data-stu-id="c63fa-106">Under **Site Objects**, select **Workflows**.</span></span> 
   
-3. <span data-ttu-id="9b5cb-107">I den **nye** sektion på båndet **arbejdsprocesser** skal du vælge **genanvendeligt workflow**.</span><span class="sxs-lookup"><span data-stu-id="9b5cb-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
+3. <span data-ttu-id="c63fa-107">I den **nye** sektion på båndet **arbejdsprocesser** skal du vælge **genanvendeligt workflow**.</span><span class="sxs-lookup"><span data-stu-id="c63fa-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
   
-4. <span data-ttu-id="9b5cb-108">Skriv navnet \* \* *Repair2010* \* \* i formularen **Opret genanvendeligt workflow** .</span><span class="sxs-lookup"><span data-stu-id="9b5cb-108">On the **Create Reusable Workflow** form, enter the name \*\* *Repair2010* \*\*.</span></span> <span data-ttu-id="9b5cb-109">Klik på **SharePoint 2010-arbejdsproces**for **platforms type**, og klik derefter på **OK**.</span><span class="sxs-lookup"><span data-stu-id="9b5cb-109">For **Platform Type**, click **SharePoint 2010 Workflow**, and then click **OK**.</span></span> 
+4. <span data-ttu-id="c63fa-108">Skriv navnet \* \* *Repair2010* \* \* i formularen **Opret genanvendeligt workflow** .</span><span class="sxs-lookup"><span data-stu-id="c63fa-108">On the **Create Reusable Workflow** form, enter the name \*\* *Repair2010* \*\*.</span></span> <span data-ttu-id="c63fa-109">Klik på **SharePoint 2010-arbejdsproces**for **platforms type**, og klik derefter på **OK**.</span><span class="sxs-lookup"><span data-stu-id="c63fa-109">For **Platform Type**, click **SharePoint 2010 Workflow**, and then click **OK**.</span></span> 
   
-1. <span data-ttu-id="9b5cb-110">I afsnittet **Gem** på båndet i **arbejdsgangen** skal du vælge **Udgiv**.</span><span class="sxs-lookup"><span data-stu-id="9b5cb-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
+1. <span data-ttu-id="c63fa-110">I afsnittet **Gem** på båndet i **arbejdsgangen** skal du vælge **Udgiv**.</span><span class="sxs-lookup"><span data-stu-id="c63fa-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
   
-2. <span data-ttu-id="9b5cb-111">I afsnittet **Administrer** på båndet i **arbejdsgangen** skal du vælge **Udgiv globalt**.</span><span class="sxs-lookup"><span data-stu-id="9b5cb-111">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**.</span></span> <span data-ttu-id="9b5cb-112">I bekræftelsesdialogboksen, der vises, skal du vælge **OK**.</span><span class="sxs-lookup"><span data-stu-id="9b5cb-112">In the confirmation dialog box that appears, select **OK**.</span></span> 
+2. <span data-ttu-id="c63fa-111">I afsnittet **Administrer** på båndet i **arbejdsgangen** skal du vælge **Udgiv globalt**.</span><span class="sxs-lookup"><span data-stu-id="c63fa-111">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**.</span></span> <span data-ttu-id="c63fa-112">I bekræftelsesdialogboksen, der vises, skal du vælge **OK**.</span><span class="sxs-lookup"><span data-stu-id="c63fa-112">In the confirmation dialog box that appears, select **OK**.</span></span> 
   
-3. <span data-ttu-id="9b5cb-113">Find rodwebstedet for gruppen af websteder i en webbrowser, og Åbn \> derefter **funktionerne**for gruppen **af websteder.**</span><span class="sxs-lookup"><span data-stu-id="9b5cb-113">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**.</span></span> <span data-ttu-id="9b5cb-114">Skift derefter funktionen **arbejdsprocesser** :</span><span class="sxs-lookup"><span data-stu-id="9b5cb-114">Then, toggle the **Workflows** feature:</span></span> 
+3. <span data-ttu-id="c63fa-113">Find rodwebstedet for gruppen af websteder i en webbrowser, og Åbn \> derefter **funktionerne**for gruppen **af websteder.**</span><span class="sxs-lookup"><span data-stu-id="c63fa-113">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**.</span></span> <span data-ttu-id="c63fa-114">Skift derefter funktionen **arbejdsprocesser** :</span><span class="sxs-lookup"><span data-stu-id="c63fa-114">Then, toggle the **Workflows** feature:</span></span> 
   
-<span data-ttu-id="9b5cb-115">· Hvis funktionen er *aktiveret* , skal du klikke på **Deaktiver** og derefter klikke på **Aktivér**.</span><span class="sxs-lookup"><span data-stu-id="9b5cb-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
+<span data-ttu-id="c63fa-115">· Hvis funktionen er *aktiveret* , skal du klikke på **Deaktiver** og derefter klikke på **Aktivér**.</span><span class="sxs-lookup"><span data-stu-id="c63fa-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
   
-<span data-ttu-id="9b5cb-116">· Klik på **Aktivér**, hvis funktionen er *deaktiveret* .</span><span class="sxs-lookup"><span data-stu-id="9b5cb-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
+<span data-ttu-id="c63fa-116">· Klik på **Aktivér**, hvis funktionen er *deaktiveret* .</span><span class="sxs-lookup"><span data-stu-id="c63fa-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
   
-<span data-ttu-id="9b5cb-117">Yderligere oplysninger finder du i følgende [artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="9b5cb-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
+<span data-ttu-id="c63fa-117">Yderligere oplysninger finder du i følgende [artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="c63fa-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
   
 
