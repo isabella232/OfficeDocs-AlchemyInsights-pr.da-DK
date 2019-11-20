@@ -1,5 +1,5 @@
 ---
-title: Kopier elementer i et SharePoint-dokumentbibliotek
+title: Kopiere elementer i et SharePoint-dokumentbibliotek
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,29 +13,33 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516351"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711786"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a>Kopier elementer i et SharePoint-dokumentbibliotek
+# <a name="copy-items-in-a-sharepoint-document-library"></a>Kopiere elementer i et SharePoint-dokumentbibliotek
 
-1. Gå til filer, mapper eller links, som du vil kopiere, og klik derefter på **Kopier til**i en webbrowser.
-
-    > [!NOTE]
-    > **Kopier til** er ikke tilgængelig, hvis du bruger den klassiske oplevelse af SharePoint Online.
-  
-2. Vælg den placering, du vil kopiere emnerne under **Vælg en destination**. Hvis du kopierer til et andet websted eller underordnet websted og ikke vises på listen, skal du klikke på **Gennemse websteder** for at se en komplet liste over websteder, der skal kopieres til.
+1. Find de filer, mapper eller links, du vil kopiere, i en webbrowser, og klik derefter på **Kopiér til**.
 
     > [!NOTE]
-    > Hvis du ikke kan se andre websteder, der vises, når du kopierer elementer, er ikke kopiering på tværs af websteder konfigureret. Gå til siden med indstillinger for SharePoint admin center for at aktivere den, og klik på **OK**.
+    > **Kopiér til** er ikke tilgængelig, hvis du bruger den klassiske oplevelse af SharePoint Online.
   
-    For at oprette en ny mappe for at kopiere filerne til, skal du vælge en placering i mappehierarkiet, skal du klikke på **ny mappe**, Skriv et navn til mappen og klik på afkrydsningsfeltet for at gemme navnet.
+2. Vælg den placering, du vil kopiere elementerne til, under **Vælg en destination**. Hvis du kopierer til et andet websted eller underordnet websted og ikke kan se det på listen, skal du klikke på **Gennemse websteder** for at se den komplette liste over websteder, du kan kopiere til.
 
-3. Klik på **Kopier hertil**.
+    > [!NOTE]
+    > Hvis der ikke vises andre websteder, når du kopierer elementer, er kopiering på tværs af websteder ikke konfigureret. Hvis du vil aktivere den, skal du gå til siden Indstillinger i SharePoint administration og klikke på **OK**.
+  
+    Hvis du vil oprette en ny mappe, som filerne skal kopieres til, skal du vælge en placering i mappehierarkiet, klikke på **ny mappe**, skrive et navn til mappen og klikke på markeringen for at gemme navnet.
+
+3. Klik på **Kopiér her**.
 
 > [!NOTE]
-> Du kan kopiere op til 500 MB af filer og mapper på én gang. >, når du bruger **Kopier til** med dokumenter, der har versionshistorik, den nyeste version er kopieret.
+> Du kan kopiere op til 500 MB filer og mapper ad gangen. > når du bruger **Kopier til** med dokumenter, der har Versionshistorik, kopieres kun den nyeste version.
   
+Du kan finde flere oplysninger under:
+
+ - [Flytte eller kopiere filer i SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office-supportartikel)
+ - [Flyt filer fra enhver mappe i Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech community blog artikel)   
