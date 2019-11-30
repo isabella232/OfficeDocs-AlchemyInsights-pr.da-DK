@@ -1,5 +1,5 @@
 ---
-title: Microsoft-Team - gendanne et slettet teamwebsted
+title: Microsoft teams-gendannelse af et slettet team websted
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 84aaa331fdd4d4e10fcbebe41800c86b3a457649
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 38eaf578b1b1bdd4df7217b2f0e57433640ee8e0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666942"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627460"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Gendanne et slettet Team i Microsoft Teams
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Gendannelse af et slettet team i Microsoft teams
 
-Du ved et uheld sletter en gruppe? Hvis det er mindre end 30 dage, siden du slettede gruppen, er du heldig; Du kan gendanne den. Hvis du vil gøre dette, skal du følge trin her: [gendanne et slettet team](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
-  
+Har du ved et uheld slettet et hold? Hvis det har været mindre end 30 dage siden du slettede holdet, er du heldig; Du kan gendanne den. Det gør du ved at følge trinnene her: [Gendan et slettet team](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

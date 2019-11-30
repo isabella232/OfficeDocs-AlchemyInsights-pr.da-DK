@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376580"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627568"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Administrer møde politikker i Microsoft teams
 
@@ -24,7 +24,7 @@ Møde politikker bruges til at styre de funktioner, der er tilgængelige for mø
 
 Du finder flere oplysninger om møde politikker i følgende ressourcer:
 
-- Du kan få mere at vide om at oprette politikker, foretage ændringer og tildele brugere til politikken under [administrere møde politikker i teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams).
+- Du kan få mere at vide om at oprette politikker, foretage ændringer og tildele brugere til politikken under [administrere møde politikker i teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Hvis du vil foretage politikændringer ved hjælp af PowerShell-cmdlets, skal du se [Oversigt i teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
     - Du skal bruge [Skype for Business PowerShell-modulet](https://www.microsoft.com/download/details.aspx?id=39366) til teams-møde politikker. 
