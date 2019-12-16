@@ -1,36 +1,36 @@
 ---
-title: Administrere search-skema i SharePoint Online
-ms.author: efrene
-author: efrene
+title: Administrer søgeskema i SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 704fb3b682d23220d61192e383d7d80f59f27933
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9836cf139e97fc556995a8f0ad38c51c5c2392ac
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502801"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40042957"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>Administrere search-skema i SharePoint Online
+# <a name="manage-search-schema-in-sharepoint-online"></a>Administrer søgeskema i SharePoint Online
 
-Search-skema styrer, hvad brugerne kan søge efter, hvordan brugerne kan søge i den, og hvordan du kan præsentere resultaterne på din søgning websteder. 
+Søgeskemaet styrer, hvad brugerne kan søge efter, hvordan brugerne kan søge i det, og hvordan du kan præsentere resultaterne på dine søgewebsteder. 
 
-Se [Manage Search-skema i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) for at lære, hvordan du: 
-- Ændre search-skema.
-- Oprette administrerede egenskaber.
-- Datatilknytning gennemsøgte knytte gennemsøgte egenskaber til administrerede egenskaber.
+Se [Administrer søgeskemaet i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) for at lære, hvordan du: 
+- Ændre søgeskemaet.
+- Opret administrerede egenskaber.
+- Kort crawlede kort gennemsøgte egenskaber til administrerede egenskaber.
 
-Bemærk følgende med hensyn til administration af Search-skema:
+Bemærk følgende i forbindelse med administration af dit søgeskema:
 
-- Hvis du modtager en advarsel om **programmet afbrydes** , når du foretager en skemaændring af, det er kun midlertidige da service vedligeholdelse forekommer. 
+- Hvis du modtager en advarsel **om, at programmet er stoppet midlertidigt** , når du foretager en skemaændring, er dette kun midlertidigt, da der sker service vedligeholdelse. 
 
-    Hvis der er gået mere end 24 timer, og du stadig opleve advarslen, skal du logge en supportsag.
-- Når du ændrer administrerede egenskaber eller tilføje nye, træder ændringerne i kraft, når indholdet er blevet gennemsøgt igen. I SharePoint Online sker gennemsøgning automatisk baseret på den definerede gennemsøgning tidsplan.
-- Hvis du vil sikre dig, at dine ændringer er gennemsøgt, kan du specifikt [anmodning at indeksere liste eller bibliotek](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
+    Hvis der er gået mere end 24 timer, og du stadig oplever advarslen, skal du logge en support sag.
+- Når du ændrer administrerede egenskaber eller tilføjer nye, træder ændringerne først i kraft, når indholdet er blevet crawlet igen. I SharePoint Online sker gennemsøgningen automatisk baseret på den definerede gennemgangs tidsplan.
+- For at sikre, at dine ændringer gennemsøges, kan du specifikt [anmode om en genindekse ring af listen eller biblioteket](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-Se [Introduktion til Search-skema](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) for en komplet oversigt over Search-skema 
+Du finder en komplet oversigt over søgeskemaet i [Introduktion til søgeskema](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 

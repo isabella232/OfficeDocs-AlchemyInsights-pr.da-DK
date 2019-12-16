@@ -1,7 +1,7 @@
 ---
-title: Avancerede Threat Protection i SharePoint- og OneDrive
-ms.author: efrene
-author: efrene
+title: Avanceret trusselsbeskyttelse i SharePoint og OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4043e9716ebdf5236df7ec0ead32d1a738fbc23
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493873"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050411"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Avancerede Threat Protection (ATP) i SharePoint- og OneDrive
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Avanceret trusselsbeskyttelse (ATP) i SharePoint og OneDrive
 
 Se følgende:
-- [DTT for SharePoint, OneDrive og Teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Trussel Explorer og Realtime registreringer](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [ATP til SharePoint, OneDrive og teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Trussels Stifinder og genregistreringer af realtid](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
 Yderligere oplysninger:
 
-- [Viruspåvisning i Simuleret](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Kryptering af data i ODB og Simuleret](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [Beskyttelse af dine data i SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Ransomware registrerings- og genoprette filer](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Virus afsløring i SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Data kryptering i ODB og SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Beskytte dine data i SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
+- [Ransomware afsløring og inddrive filer](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
