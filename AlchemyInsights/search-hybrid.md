@@ -1,7 +1,7 @@
 ---
 title: Søg og hybrid
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79b1c47b33e2e5c8b46a93ef2edbb1e9e0c8ff1d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504817"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048682"
 ---
 # <a name="search-and-hybrid"></a>Søg og hybrid
 
-- Har du brug for oplysninger om hybrid og organisationsnetværket søgningen i SharePoint Online? I så fald skal du se [denne artikel](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+- Har du brug for oplysninger om hybrid-og organisations søgning i SharePoint Online? Hvis det er tilfældet, se [denne artikel](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-- Har du brug for oplysninger om planlægning af en hybrid organisationsnetværket søgning?  I så fald skal du se [denne artikel](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+- Har du brug for oplysninger om planlægning af en hybrid organisations søgning?  Hvis det er tilfældet, se [denne artikel](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
 
 
 

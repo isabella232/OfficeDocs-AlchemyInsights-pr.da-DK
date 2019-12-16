@@ -1,7 +1,7 @@
 ---
-title: CTRL + H viser Søg, Erstat ikke i Excel-2016
-ms.author: dludwig
-author: dludwig
+title: CTRL + H viser Find, ikke Erstat i Excel 2016
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 0d2260163a837d5d2c2f0ad54e74a73ca204c635
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 32ff3ad922af38adab8e6b60dfa139b3794668df
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514505"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053147"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H viser Søg, Erstat ikke i Excel
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H viser Find, ikke Erstat i Excel
 
-I Excel 2016, trykke på CTRL + H åbner dialogboksen Søg og Erstat og viser fanen Søg, klikke på Erstat under fanen Startside har samme funktion i stedet for fanen Erstat. Dette problem blev løst i version 1708 (8431.2094). For at løse dette problem ved at opdatere til den nyeste version af Office. Vælg **filen** \> **konto** \> **opdatere indstillinger** \> **opdatere nu**.
+I Excel 2016, trykke på CTRL + H åbner Søg og erstat dialog og viser Find fanebladet, i stedet for fanen Erstat. Klik på Erstat på fanen Hjem gør det samme. Dette problem blev rettet i version 1708 (8431,2094). Du kan løse dette problem ved at opdatere til den nyeste version af Office. Vælg Opdater \> **Indstillinger** **** \> \> for **filkonto** opdatering **nu**.
   

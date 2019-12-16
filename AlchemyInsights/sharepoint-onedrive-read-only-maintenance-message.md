@@ -1,7 +1,7 @@
 ---
-title: Skrivebeskyttet for vedligeholdelse, når du forsøger at bruge SharePoint- eller OneDrive
-ms.author: efrene
-author: efrene
+title: Skrivebeskyttet for vedligeholdelses meddelelse, når du forsøger at bruge SharePoint eller OneDrive
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,33 +12,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620717"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051275"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Skrivebeskyttet for vedligeholdelse, når du forsøger at bruge SharePoint- eller OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Skrivebeskyttet for vedligeholdelses meddelelse, når du forsøger at bruge SharePoint eller OneDrive
 
-Brugere kan modtager meddelelsen **Skrivebeskyttet for vedligeholdelse** , når du forsøger at bruge SharePoint- eller OneDrive til en af følgende situationer. 
+Brugere kan modtage en **skrivebeskyttet meddelelse om vedligeholdelse** , når de forsøger at bruge SharePoint eller OneDrive til et af følgende scenarier. 
 
--   En planlagt eller aktiv vedligeholdelse aktivitet.  Søge efter dem ved at gå til [Message Center](https://portal.office.com/adminportal/home#/messagecenter).
--   En høj prioritet, aktiv tjeneste hændelse, der kan forekomme. Kontrollere, om eventuelle råd om hændelser ved at navigere til [Service sundhed](https://portal.office.com/adminportal/home#/servicehealth).
--   En mindre automatisk reparationspenselværktøjet nedbrud, der kunne ske noget på grund af uventede hændelser på de servere, som måske sidste for mindre end 30 min. eller så. 
+-   En planlagt eller aktiv vedligeholdelsesaktivitet.  Tjek for dem ved at navigere til [meddelelsescenteret](https://portal.office.com/adminportal/home#/messagecenter).
+-   En aktiv tjeneste hændelse med høj prioritet, der kan forekomme. Søg efter meddelelser/hændelser ved at navigere til [tjenestens tilstand](https://portal.office.com/adminportal/home#/servicehealth).
+-   En mindre Auto-healing opsving scenario, der kunne ske på grund af uventede begivenheder på serverne, som kan vare mindre end 30 min eller deromkring. 
     
-    Der er ingen meddelelse Center eller Service sundhed bogføres for disse mindre tilbagebetalinger, men du skal være tilbage til normal snart.
+    Der er ingen Message Center eller service Health posts for disse mindre inddrivelser, men du skal være tilbage til normal meget snart.
 
-I meget få tilfælde konstaterede vi, at et af de tre scenarier, der er anført ovenfor, er årsagen, og service er blevet gendannet, men browsercachen brugerne endnu ikke ryddet.
+Ved meget få lejligheder bemærkede vi, at en af de tre scenarier, der er anført ovenfor har været årsag, og tjenesten er blevet genoprettet, men brugerne browser cache er ikke blevet ryddet op.
 
-Du bør forsøge at rydde browsercachen før navigere til webstedet.
+Forsøg at rydde browserens cache, før du navigerer til webstedet.
 
-1. Vælg **Indstillinger**i browseren Microsoft Edge, og vælg derefter **personlige oplysninger og sikkerhed**.
-2. Vælg **vælge Ryd**under **Ryd søgning**.
-3. Vælg **Cookies og gemt webstedet data**, og vælg **Slet**.
-
->[!Note] 
-> Disse trin kan variere, når du bruger andre browsere som Mozilla Firefox eller Google Chrome.
+1. I din Microsoft Edge-browser skal du vælge **Indstillinger**og derefter vælge **beskyttelse af personlige oplysninger og sikkerhed**.
+2. Under **Ryd browsing**skal du vælge **Vælg, hvad du vil rydde**.
+3. Vælg **cookies og gemte webstedsdata**, og vælg **Ryd**.
 
 >[!Note] 
-> En anden mulighed ville være at åbne SharePoint-webstedet eller OneDrive i et nyt InPrivate-vindue.
+> Disse trin kan afvige, når du bruger andre browsere som Mozilla Firefox eller Google Chrome.
+
+>[!Note] 
+> En anden mulighed ville være at åbne dit SharePoint-websted eller OneDrive i et nyt InPrivate-vindue.

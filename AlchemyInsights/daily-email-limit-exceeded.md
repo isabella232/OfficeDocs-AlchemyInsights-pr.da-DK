@@ -1,9 +1,8 @@
 ---
-title: Daglige e-mail-grænse er overskredet. Arbejdsprocessen er afbrudt.
-ms.author: efrene
-author: efrene
+title: Den daglige e-mail grænse er overskredet. Arbejdsprocessen er afbrudt.
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514440"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053111"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Daglige e-mail, der er overskredet. Arbejdsprocessen er afbrudt.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Den daglige e-mail grænse er overskredet. Arbejdsprocessen er afbrudt.
 
-Denne fejl kan modtages i følgende situationer:
+Denne fejl kan blive modtaget i følgende scenarier:
 
-- Du har en arbejdsproces i SharePoint Online, der bruger SharePoint 2010 eller SharePoint 2013 platform arbejdsgangstype.
-- Arbejdsgangen er konfigureret til at sende en brugerdefineret e-mail-meddelelse til mere end 200 brugere ad gangen, mere end 10.000 modtagere pr. dag eller mere end 30 meddelelser pr. minut.
-- Når du kører arbejdsgangen, sendes e-mailen ikke, og du bemærke følgende funktionsmåde:
-    - For en arbejdsproces ved hjælp af typen SharePoint 2013-platform, kan du gå til **siden arbejdsprocesstatus** . På siden Status for arbejdsproces **Interne Status** er angivet til **startet**og markeringsboblen oplysninger viser **kunne ikke sendes til en modtager**.
+- Du har en arbejdsproces i SharePoint Online, der bruger SharePoint 2010-eller SharePoint 2013-arbejdsgangs platforms typen.
+- Arbejdsprocessen er konfigureret til at sende en brugerdefineret e-mail-meddelelse til mere end 200 brugere ad gangen, mere end 10.000 modtagere pr. dag eller mere end 30 meddelelser pr. minut.
+- Når du kører arbejdsprocessen, sendes e-mailen ikke, og du bemærker følgende funktionsmåde:
+    - For en arbejdsproces, der bruger SharePoint 2013-platforms typen, skal du gå til siden **status for arbejdsproces** . På siden status for arbejdsproces er den **interne status** angivet til **Startet**, og informations ballonen viser, at den **ikke kan sende til en modtager**.
 
-Du kan løse dette problem ved at konfigurere arbejdsgangen til at sende e-mail-meddelelser uden at overskride [grænser for Exchange Online afsender](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Brug en pause i arbejdsprocessen, sende e-mailen til en Office 365-gruppe, en distributionsgruppe eller en sikkerhedsgruppe for post, der er aktiveret, eller send meddelelsen til mindre end 200 modtagere på én gang.
+Du skal løse dette problem ved at konfigurere arbejdsprocessen til at sende mails uden at overskride [grænserne for afsenderens Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)-meddelelser. Bruge en pause i arbejdsprocessen, sende mailen til en Office 365-gruppe, en distributionsgruppe eller en sikkerhedsgruppe med post aktiveret eller sende meddelelsen til færre end 200 modtagere ad gangen.
 
 
-Du kan finde flere oplysninger i følgende [artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
+Yderligere oplysninger finder du i følgende [artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
 
 ## <a name="related-topics"></a>Relaterede emner
-- [Oprette produktionsflow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint og Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [Opret flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint og flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

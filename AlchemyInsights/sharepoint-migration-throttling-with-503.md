@@ -1,7 +1,7 @@
 ---
-title: SharePoint-overflytning begrænsning med fejl 503
-ms.author: efrene
-author: efrene
+title: Begrænsning af SharePoint-overførsel med 503-fejl
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503593"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054047"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint-overflytning begrænsning med fejl 503
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>Begrænsning af SharePoint-overførsel med 503-fejl
 
-Du overfører til SharePoint Online og modtager 503 fejl vises. Følg nedenstående trin, så vi kan hjælpe dig så hurtigt som muligt. 
+Det ser ud til, at du overflytter til SharePoint Online og modtager 503 fejl. Følg venligst nedenstående trin, så vi kan hjælpe dig så hurtigt som muligt. 
 
-1. Klik på **Kontakt Support**, og derefter **anmode om ny tjeneste**.
-2. Skabelonens titel og beskrivelse, Skriv **SharePoint Migration begrænse med 503**.
-3. Når billetten er blevet sendt, skal du opdatere den med følgende oplysninger:
-    - Hvor meget tilbage af overførslen (for eksempel, hvor mange TBs?).
-    - Overflytning af start- og slutdato.
-    - Beskriver, hvor du overfører dit indhold fra, som SharePoint Server, boks, GDrive, filshares, osv...
-    - Vurdere antallet af båndbreddebegrænsning fejl (for eksempel x throttle pr. time?) og hvornår blev throttling happen.
-    - Hvilke migration værktøj, du bruger (f.eks, SPMT eller ShareGate).
+1. Klik på **Kontakt support**og derefter på **ny service anmodning**.
+2. For titel og beskrivelse, Skriv **SharePoint migration throttling med 503**.
+3. Når billetten er indsendt, skal du opdatere den med følgende oplysninger:
+    - Hvor meget venstre for migrering (for eksempel, hvor mange TBs?).
+    - Migrationens start-og slutdato.
+    - Beskriv, hvor du migrerer dit indhold fra, såsom SharePoint Server, box, GDrive, filshares osv.
+    - Anslå antallet af begrænsning-fejl (f. eks. x-Throttle pr. time?), og Hvornår sker begrænsning.
+    - Hvilket overflytningsværktøj du bruger (f. eks. SPMT eller ShareGate).
 
 

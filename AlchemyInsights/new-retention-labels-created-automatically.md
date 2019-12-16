@@ -1,7 +1,7 @@
 ---
-title: Nye tilbageholdelse etiketter, der er oprettet automatisk
-ms.author: stephow
-author: stephow-MSFT
+title: Nye opbevarings etiketter oprettes automatisk
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522173"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054660"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nye tilbageholdelse etiketter, der er oprettet automatisk
+# <a name="new-retention-labels-created-automatically"></a>Nye opbevarings etiketter oprettes automatisk
 
-Du kan se [tre nye Office 365 tilbageholdelse etiketter](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) oprettes automatisk i din organisation under **opbevaring etiketter** i center for sikkerhed og overholdelse af admin. Etiketnavnene er:
+Du kan se [tre nye Office 365-opbevarings etiketter](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) , som oprettes automatisk i din organisation under **opbevarings etiketter** i Security eller Compliance Admin Center. Etiketnavnene er:
 
-- Operationelle procedure
-- Virksomheden generelt
+- Operationel procedure
+- Erhvervslivet generelt
 - Kontrakt aftale
 
-Det sker, første gang du vælger **Fil Plan** , hvis der er ingen oprettede labels for tilbageholdelse. Disse etiketter oprettes automatisk, og hvis det er nødvendigt, kan fjernes, hvis de endnu ikke er anvendt til indhold. Fjerne etiketter:
+Dette sker, første gang du vælger **filplan** , hvis der ikke er oprettet andre opbevarings etiketter. Disse etiketter oprettes automatisk og kan om nødvendigt fjernes, hvis de endnu ikke er anvendt på indhold. Sådan fjernes etiketterne:
 
-1. Vælg **klassifikationer**i administrationssiden sikkerhed eller overholdelse af > **etiketter** > **tilbageholdelse** under fanen.
+1. I sikkerheds-eller overholdelses Administrationscenter,**Vælg fanen** **klassifikation af klassificeringer** > af**etiketter** > .
 
-1. Vælg tilbageholdelse etiketter, du vil fjerne **slette etiketten**> > **Ja** for at slette etiketten.
+1. Vælg de opbevarings etiketter, du vil fjerne > **slette etiketten** > **Ja** for at slette etiketten.
 
-Planlægge Filhåndtering, kan du administrere tilbageholdelse af etiketter og politikker i din organisation - yderligere oplysninger se [Oversigt over Filhåndtering Plan](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+Med File plan Manager kan du administrere opbevarings etiketter og-politikker i din organisation-yderligere oplysninger finder du i [Oversigt over filplan styring](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
