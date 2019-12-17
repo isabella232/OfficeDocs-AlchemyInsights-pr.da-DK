@@ -1,7 +1,7 @@
 ---
-title: Arbejdsprocessen e-mail sendes ikke
-ms.author: efrene
-author: efrene
+title: E-mail i arbejdsgangen sendes ikke
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 7/25/2019
 ms.audience: Admin
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530861"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049367"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Arbejdsprocessen e-mail sendes ikke til en SharePoint-liste eller et bibliotek
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Arbejdsgang-e-mail sendes ikke til en SharePoint-liste eller et bibliotek
 
-1. E-mail fra arbejdsprocesser sendes ikke til alle brugere eller kun bestemte brugere, eller du kan se fejlen **e-mail-meddelelsen ikke kan sendes. Kontroller, at e-mail har et gyldigt**.
+1. Mails fra arbejdsprocesser sendes ikke til alle brugere eller kun til bestemte brugere, eller der vises en fejl **meddelelse om, at e-mailen ikke kan sendes. Kontroller, at e-mailen har en gyldig modtager**.
 
-    Marker, hvis brugeren findes i gruppen **Alle** tilladelser (listen med brugeroplysninger) for denne gruppe af websteder.  Eksempel på direkte URL-adresse: https://<tenant>.sharepoint.com/sites/<sitename>/_layouts/15/people.aspx? MembershipGroupId = 0
+    Kontroller, om brugeren findes i gruppen **alle personer** -tilladelser (liste over brugeroplysninger) for den pågældende gruppe af websteder.  Eksempel på direkte webadresse:<tenant>https://.<sitename>SharePoint.com/sites//_layouts/15/People.aspx? MembershipGroupId = 0
 
-    - Hvis brugeren ikke findes, Kontroller, at brugeren er logget på siden. 
-    - Hvis det er en ekstern bruger, Sørg for, at deres invitation er accepteret.
-    - Hvis brugeren findes i gruppen tilladelser, skal du kontrollere e-mail-adresse er korrekt.
-    - Hvis brugere e-mail-adressen ikke er angivet her, skal du oprette et eksempel på en skrivebordsbesked for den pågældende bruger, som gennemtvinger synkronisering af denne brugerkonto fra SharePoint bruger profiler til denne gruppe af websteder.
+    - Hvis brugeren ikke findes, skal du kontrollere, at brugeren er logget på siden. 
+    - Hvis det er en ekstern bruger, skal du sørge for, at invitationen er accepteret.
+    - Hvis brugeren findes i gruppen tilladelser, skal du kontrollere, at e-mail-adressen er korrekt.
+    - Hvis brugerens e-mailadresse ikke er angivet her, skal du oprette en eksempel besked for den bruger, der tvinger synkroniseringen af den pågældende brugerkonto fra brugerprofiler i SharePoint til denne gruppe af websteder.
  
-2. E-mail fra arbejdsprocesser sendes til SharePoint Designer, men ikke til andre brugere og se fejlen **http-forbudt at <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
+2. Mails fra arbejdsprocesser sendes til administratorer af gruppen af websteder, men ikke til andre brugere, og der vises en fejl **http-forbudt <span>https:</span>/url/_vti_bin/Client.xvc.Sp.Utilities.Utility.SendEmail**.
  
 
-    Se [Adgang nægtet, når du sender en e-mail til en SharePoint-gruppe](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Se [adgang nægtet, når du sender en mail til en SharePoint-gruppe](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    Du skal også kontrollere, at funktionen **begrænset adgang tilladelse lockdown brugertilstand** websted websteder ikke er aktiv.
+    Du skal også kontrollere, at funktionen for gruppe af **brugertilladelser med begrænset adgang** ikke er aktiv.
 
 
 ## <a name="related-topics"></a>Relaterede emner
-Vil du prøve Microsoft Flow i SharePoint Online?
-- [Oprette produktionsflow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint og Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Vil du prøve Microsoft flow i SharePoint Online?
+- [Opret flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint og flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
