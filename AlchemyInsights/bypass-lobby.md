@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626342"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889076"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Styring af lobby indstillinger og deltagelsesniveau
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Styr lobby indstillinger og niveau for deltagelse i teams
 
-Hvis du vil give alle, herunder opkalds-, eksterne og anonyme brugere mulighed for at omgå lobbyen i Microsoft teams, kan du bruge PowerShell til at gøre det. Her er et eksempel på ændring af den globale møde politik for din organisation:
+Hvis du vil tillade alle, herunder opkalds-, eksterne og anonyme brugere, at **omgå lobbyen**, skal du bruge PowerShell til at udføre denne opgave. Her er et eksempel på ændring af den globale møde politik for din organisation.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Denne cmdlet kræver i øjeblikket brug af Skype for Business PowerShell-modulet. For at få setup til at bruge denne cmdlet, Tjek [Administrer politikker via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Denne cmdlet kræver i øjeblikket brug af Skype for Business PowerShell-modulet. For at få sat op til at bruge denne cmdlet, Tjek [administrere politikker via PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Du kan oprette en ny politik, som du derefter skal anvende den på brugere. Hvis du ændrer den globale politik, gælder den automatisk for brugerne. For enhver politikændring, du skal vente mindst 4 timer og op til 24 timer for politikkerne træder i kraft.
+Når du har oprettet en politik, skal du anvende den på brugere. eller, hvis du har ændret den globale politik, vil den automatisk gælde for brugere. For enhver politikændring, skal du vente mindst **4 timer op til 24 timer** for politikkerne træder i kraft. 
 
 Sørg for at gennemgå dokumentationen nedenfor, før du foretager disse ændringer for at forstå præcis, hvad dette giver mulighed for.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Forståelse af teams møde lobby politik kontrol
+
+Disse indstillinger styrer, hvilke mødedeltagere der venter i lobbyen, før de får adgang til mødet, og hvor stor deltagelse de er tilladt i et møde. Du kan bruge PowerShell til at opdatere indstillinger for møde politik, der endnu ikke er implementeret (med etiketten "kommer snart") i teams Admin Center. Se nedenfor for et eksempel PowerShell cmdlet, der giver alle brugere til at omgå lobbyen.
 
 - [Automatisk indrømme folk](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) er en per-arrangør politik, der styrer, om folk deltage i et møde direkte eller vente i lobbyen, indtil de er optaget af en godkendt bruger.
 
