@@ -20,14 +20,14 @@ ms.contentlocale: da-DK
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36664458"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="67727-102">Hvordan tilføjer jeg et kreditkort?</span><span class="sxs-lookup"><span data-stu-id="67727-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="11ae2-102">Hvordan tilføjer jeg et kreditkort?</span><span class="sxs-lookup"><span data-stu-id="11ae2-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="67727-103">I Microsoft 365 Administration skal du gå til siden **Fakturering** \> [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="67727-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="11ae2-103">I Microsoft 365 Administration skal du gå til siden **Fakturering** \> [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="11ae2-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="67727-104">Vælg **Tilføj en betalingsmetode**.</span><span class="sxs-lookup"><span data-stu-id="67727-104">Select **Add a payment method**.</span></span>
+2. <span data-ttu-id="11ae2-104">Vælg **Tilføj en betalingsmetode**.</span><span class="sxs-lookup"><span data-stu-id="11ae2-104">Select **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="67727-105">På siden **Betalingsmetoder** skal du vælge en betalingsmetode fra rullemenuen.</span><span class="sxs-lookup"><span data-stu-id="67727-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
+3. <span data-ttu-id="11ae2-105">På siden **Betalingsmetoder** skal du vælge en betalingsmetode fra rullemenuen.</span><span class="sxs-lookup"><span data-stu-id="11ae2-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="67727-106">Angiv oplysningerne for det nye kreditkort eller den nye bankkonto, og vælg derefter **Gem**.</span><span class="sxs-lookup"><span data-stu-id="67727-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
+4. <span data-ttu-id="11ae2-106">Angiv oplysningerne for det nye kreditkort eller den nye bankkonto, og vælg derefter **Gem**.</span><span class="sxs-lookup"><span data-stu-id="11ae2-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
 
-<span data-ttu-id="67727-107">For at få mere at vide skal du se [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="67727-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>
+<span data-ttu-id="11ae2-107">Du kan finde flere oplysninger under [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="11ae2-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>
