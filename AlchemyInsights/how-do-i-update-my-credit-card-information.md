@@ -33,4 +33,4 @@ ms.locfileid: "36664386"
 
 4. Opdater dine kreditkort- eller bankkontooplysninger (navn på kreditkortet eller bankkontoen, faktureringsadresse, telefonnummer eller udløbsdato) efter behov, og vælg derefter **Gem** > **Udført**.
 
-For at få mere at vide skal du se [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Du kan finde flere oplysninger under [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

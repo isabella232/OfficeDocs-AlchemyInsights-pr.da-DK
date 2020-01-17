@@ -32,4 +32,4 @@ Hvis dit abonnement er udløbet, blevet annulleret eller deaktiveret af Microsof
 
 3. Bekræft dine betalingsoplysninger. Du kan opdatere dine eksisterende betalingsoplysninger her. Når du er færdig med at angive din betalingsmetode, skal du vælge **Genaktiver**.
 
-Få mere at vide skal du se [Genaktiver dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

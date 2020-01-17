@@ -22,4 +22,4 @@ ms.locfileid: "36665862"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Problemer med at fuldføre et køb i Microsoft 365 Administration
 
-Hvis du flere gange er blevet bedt om at logge på Microsoft 365 Administration eller får en meddelelse om, at der blev fundet et problem, når du forsøger at foretage et køb, anbefales det at starte med at bruge din browsers InPrivate-/incognito-tilstand. Når du åbner et InPrivate-/incognito-vindue, skal du gå til webstedet [admin.microsoft.com](https://admin.microsoft.com) og logge på med dine legitimationsoplysninger. Fortsæt derefter med at gennemføre dit køb.
+Hvis du flere gange er blevet bedt om at logge på Microsoft 365 Administration eller får en meddelelse om, at der blev fundet et problem, når du forsøger at foretage et køb, anbefales det at starte med at bruge din browsers InPrivate-/inkognito-tilstand. Når du åbner et InPrivate-/inkognito-vindue, skal du gå til webstedet [admin.microsoft.com](https://admin.microsoft.com) og logge på med dine legitimationsoplysninger. Fortsæt derefter med at gennemføre dit køb.
