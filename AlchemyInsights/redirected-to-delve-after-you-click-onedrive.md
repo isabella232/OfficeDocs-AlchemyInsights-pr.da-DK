@@ -1,5 +1,5 @@
 ---
-title: Onedrive for Business Web OneDrive omdirigerer til Delve
+title: OneDrive for Business Web OneDrive omdirigerer til Delve
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 8ba296c6986c767939ef51076551f95719d11aa2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752242"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571194"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Omdirigeret til Delve, når du har Klik på OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Omdirigeret til Delve, når du har klikket på OneDrive
 
-For at løse dette problem skal Office 365-administratoren give brugerne ret til at oprette webstedet mine websteder. Dette skyldes, at siden OneDrive for Business er oprettet på mine websteder.
+Se vores detaljerede [fejlfindingsvejledning](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Følg disse trin for at tildele denne rettighed:
+Hvis du vil løse problemet, skal Office 365-administratoren give brugerne ret til at oprette deres websted Mine websteder. Det skyldes, at siden OneDrive for Business er oprettet på Mine websteder.
 
-1. Klik på **Brugerprofiler**i SharePoint administration.
+Følg disse trin for at give denne ret:
 
-2. Klik på **Administrer brugertilladelser**i sektionen **personer** .
+1. Klik på **brugerprofiler**i SharePoint Administration.
 
-3. Tilføj brugere, der har brug for tilladelser til at oprette webstedet mine websteder. Denne indstilling er som standard angivet til **alle undtagen eksterne brugere**.
+2. Klik på Administrer **brugertilladelser**i sektionen **Personer** .
 
-4. Når du har tilføjet brugeren, brugerne eller gruppen, skal du sørge for, at den tilføjede bruger, brugere eller gruppe er valgt, rulle til afsnittet **tilladelser** og derefter markere afkrydsningsfeltet ud for **Opret personligt websted (kræves til personlig lagring, newsfeed og fulgte indhold)**.
+3. Tilføj brugere, der har brug for tilladelser til at oprette deres websted Mine websteder. Denne indstilling er som standard angivet til **Alle undtagen eksterne brugere**.
 
-5. Klik på **OK**, og så får brugeren til at gå til OneDrive-siden for at oprette webstedet.
+4. Når du har tilføjet brugeren, brugerne eller gruppen, skal du kontrollere, at den tilføjede bruger, brugere eller gruppe er markeret, rulle til afsnittet **Tilladelser** og derefter markere afkrydsningsfeltet ud **for Opret personligt websted (kræves til personliglagring, nyhedsopdatering og fulgt indhold).**
+
+5. Klik på **OK**, og få derefter brugeren til at gå til OneDrive-siden for at oprette webstedet.
