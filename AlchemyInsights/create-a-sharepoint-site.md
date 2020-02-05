@@ -1,8 +1,8 @@
 ---
 title: Oprette et SharePoint-websted
 ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+author: todmccoy
+ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
 ms.prod: office-online-server
@@ -10,30 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "5200004"
+- "3911416"
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 2611c3ed9cfe78c82c9b123ea26b6fe8f951b458
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049871"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770849"
 ---
 # <a name="create-a-sharepoint-site"></a>Oprette et SharePoint-websted
 
-Du kan se følgende oplysninger om oprettelse af SharePoint-websteder:
-- [Administrer websteder i det nye SharePoint-Administrationscenter](https://docs.microsoft.com/sharepoint/manage-site-creation): få mere at vide om indstillinger for oprettelse af websteder, herunder hvordan du opretter et klassisk websted eller et teams-websted, der ikke indeholder en Office 365-gruppe.
-- [Opret et teamwebsted i SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): få mere at vide om, hvordan du opretter et teamwebsted.
-- [Opret et kommunikationswebsted i SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): få mere at vide om, hvordan du opretter et kommunikationswebsted.
-- [Administrer websteder i det nye SharePoint-Administrationscenter](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): få mere at vide om, hvordan du opretter et klassisk websted eller et teamwebsted, der ikke indeholder en Office 365-gruppe.
+Opret eller administrer websteder fra [aktive websteder](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) i SharePoint Administration. Du kan finde flere oplysninger under [Administrere websteder i den nye SharePoint Administration](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
+## <a name="tips"></a>Tips:
 
-  
-**Tips:**
-- Du kan ikke oprette et websted med den samme URL-adresse til et eksisterende websted. Hvis du har slettet et websted og ønsker at genbruge WEBADRESSEN, er det muligt, at det slettede websted stadig findes under **slettede websteder**. Hvis du vil administrere slettede websteder, skal [du slette et websted](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Hvis du helt vil fjerne et websted med PowerShell, skal du se eksemplet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet.
-- Nogle brugere vil muligvis ikke kunne oprette et websted. Se [Administrer oprettelse af websteder i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Det er muligt, at webstedet vises fast på **at oprette** længere end forventet. Hvis der er gået mere end 24 timer, siden du så dette problem, skal du logge en support billet. I mange tilfælde arbejder vi allerede på en løsning. Giv os mindst 24 timer til at gennemføre en løsning.
-- Hvis du har brug for at oprette et nyt teamwebsted, der ikke indeholder en Office 365-gruppe, 
-
-
+- Du **kan ikke** oprette et websted med den samme URL-adresse til et eksisterende websted. Hvis du har slettet et websted og ønsker at genbruge URL-adressen, er det muligt, at det slettede websted stadig findes under [Slettede websteder](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Webstedet skal slettes permanent for at genbruge URL-adressen. Hvis du vil fjerne et websted helt med Powershell, skal du se eksemplet [fjern-SPSite-cmdlet.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Nogle brugere kan muligvis ikke oprette et websted. [Se Administrere oprettelse af websteder i SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Det er muligt, at webstedet vises fast på **Oprettelse** længere end forventet. Hvis der er gået mere end 24 timer, siden du første gang så dette problem, skal du logge en supportbillet. I mange tilfælde arbejder vi allerede på en løsning. Giv os mindst 24 timer til at fuldføre en løsning.

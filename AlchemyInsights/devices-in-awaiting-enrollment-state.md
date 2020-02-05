@@ -1,5 +1,5 @@
 ---
-title: Enheder er i tilstanden Afventer tilmelding
+title: Enheder er i afventer tilmelding tilstand
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800269"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770309"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Enheder er i tilstanden "Tilmelding afventer"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Enheder er i tilstanden "Afventer tilmelding"
 
-Stationære Analytics har ikke diagnostiske data til denne enhed. 
+Desktop Analytics har ikke diagnosticeringsdata til denne enhed. 
 
-Dette problem kan opstå, fordi du for nylig har tilføjet enheden til samlingen mål og den endnu ikke er sendt data. Det kan også sige, at enheden er ikke korrekt kommunikation med tjenesten, og de seneste diagnostiske data er mere end 28 dage.
+Dette problem kan opstÃ¥, fordi du for nylig har føjet enheden til målsamlingen, og den endnu ikke har sendt data. Det kan også betyde, at enheden ikke kommunikerer ordentligt med tjenesten, og de nyeste diagnosticeringsdata er mere end 28 dage gamle.
 
-Kontroller, at enheden kan kommunikere med tjenesten. Yderligere oplysninger finder du under [slutpunkter](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).
+Sørg for, at enheden kan kommunikere med tjenesten. Yderligere oplysninger finder du i [Slutpunkter](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Du kan finde oplysninger om tilmeldingsstatus awainting [Skærm forbindelse sundhed](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Yderligere oplysninger om den afventende tilmeldingsstatus finder du i [Monitor Connection Health](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).

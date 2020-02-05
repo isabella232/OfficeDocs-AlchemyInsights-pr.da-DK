@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0ecb317a0dfb760e459b35b6bff86006c06dc0d6
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053039"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770489"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Slette et SharePoint-websted, der tilhører en Office 365-gruppe
 
-Globale administratorer og SharePoint-administratorer kan nu slette websteder, der tilhører en Office 365-gruppe. Hvis du sletter disse websteder, slettes gruppen og alle dens ressourcer, herunder Outlook-postkassen og-kalenderen samt alle teams-kanaler.
+Globale administratorer og SharePoint-administratorer kan nu slette websteder, der tilhører en Office 365-gruppe. Hvis du sletter disse websteder, slettes gruppen og alle dens ressourcer, herunder Outlook-postkassen og -kalenderen, og eventuelle Teams-kanaler.
   
 Vigtigt:
 
-- Du kan gendanne slettede websteder for 93 dage. Du kan finde flere oplysninger undervise og gendanne slettede websteder. Bemærk, at slettede grupper skal gendannes inden for 30 dage.
-- Hvis webstedet er en del af en opbevaringspolitik, kan du muligvis ikke slette det, før webstedet fjernes fra [administrationscenteret for sikkerheds &amp; overholdelse](https://protection.office.com/?rfr=AdminCenter#/retention). Se [Oversigt over opbevaringspolitikker](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for at få flere oplysninger.
+- Du kan gendanne slettede websteder i 93 dage. Slettede grupper skal gendannes inden for 30 dage. [Få vist og gendan slettede websteder](https://admin.microsoft.com/sharepoint) direkte fra SharePoint Administration. [Få vist og gendan slettede grupper](https://outlook.office.com/people/group/deleted)ved at vælge **Administrer grupper**og derefter vælge **Slettet**.
+- Hvis webstedet er en del af en opbevaringspolitik, kan du muligvis ikke slette det, før webstedet er fjernet fra [Security &amp; Compliance Administration](https://protection.office.com/?rfr=AdminCenter#/retention). Se [Oversigt over opbevaringspolitikker](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for at få flere oplysninger.
   
-Vælg **slettede websteder**for at [få vist og gendanne slettede websteder i det nye SharePoint-Administrationscenter](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center). Vælg det websted, der er blevet slettet, og vælg enten Gendan eller slet (som vil slette webstedet permanent). Hvis du vil slette et aktivt websted, skal du vælge **aktive** websteder, vælge webstedet og vælge **Slet**. Du kan finde flere oplysninger under [administrere websteder i det nye SharePoint-Administrationscenter](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Hvis du vil [have vist og gendanne slettede websteder](https://admin.microsoft.com/sharepoint), skal du vælge det websted, der er blevet slettet, og vælge enten **Gendan** eller **Slet** (som sletter webstedet permanent). [Slet et aktivt websted](https://admin.microsoft.com/sharepoint) direkte fra SharePoint Administration ved at vælge webstedet og derefter vælge **Slet**. Du kan finde flere oplysninger under [Administrere websteder i den nye SharePoint Administration](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
