@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: 2f0e24054312f20d0b8302904ad465beafb101b4
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: 94edbc3eb9bfa42367566792f231eab464d6d63f
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910234"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770993"
 ---
-# <a name="hybrid-mdm"></a><span data-ttu-id="bb59c-102">Hybrid MDM</span><span class="sxs-lookup"><span data-stu-id="bb59c-102">Hybrid MDM</span></span>
+# <a name="hybrid-mdm"></a><span data-ttu-id="3aecf-102">Hybrid MDM</span><span class="sxs-lookup"><span data-stu-id="3aecf-102">Hybrid MDM</span></span>
 
-<span data-ttu-id="bb59c-103">Du kan få mere at vide om hybrid MDM med Configuration Manager og Microsoft Intune under [konfigurere hybrid MDM med Configuration Manager og Microsoft Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/setup-hybrid-mdm).</span><span class="sxs-lookup"><span data-stu-id="bb59c-103">To learn about Hybrid MDM with Configuration Manager and Microsoft Intune, see [Set up hybrid MDM with Configuration Manager and Microsoft Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/setup-hybrid-mdm).</span></span>
+<span data-ttu-id="3aecf-103">Hvis du vil have mere at vide om Hybrid MDM med Microsoft Endpoint Configuration Manager og Microsoft Intune, skal du [se Konfigurere hybrid MDM med Configuration Manager og Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).</span><span class="sxs-lookup"><span data-stu-id="3aecf-103">To learn about Hybrid MDM with Microsoft Endpoint Configuration Manager and Microsoft Intune, see [Set up hybrid MDM with Configuration Manager and Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).</span></span>
