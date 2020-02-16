@@ -1,5 +1,5 @@
 ---
-title: Indstillinger for møde politik
+title: Indstillinger for mødepolitik
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627568"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042838"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Administrer møde politikker i Microsoft teams
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Administrere mødepolitikker i Microsoft Teams
 
-Møde politikker bruges til at styre de funktioner, der er tilgængelige for mødedeltagere til møder, der er planlagt af brugere i organisationen. Nogle funktioner i møde politikker er muligvis ikke implementeret i teams administration endnu (disse er mærket "kommer snart" i dokumentationen). I dette tilfælde, eller hvis du får en fejl som "vi kan ikke opdatere politikken lige nu, men prøv igen senere" i Microsoft teams administration, anbefaler vi, at du bruger PowerShell til at oprette eller redigere teams-møde politikker. 
+**Bemærk: Det kan tage op til 24 timer, før politikændringer træder i kraft for brugerne.** Du kan muligvis ikke foretage ændringer i nyoprettede politikker med det samme. vente 4 timer og forsøge at ændre en nyoprettet politik igen.
 
-Du finder flere oplysninger om møde politikker i følgende ressourcer:
+Mødepolitikker bruges til at styre de funktioner, der er tilgængelige for mødedeltagere til møder, der er planlagt af brugere i organisationen. Nogle funktioner i mødepolitikker er muligvis ikke implementeret i Teams Administration endnu (disse er mærket "kommer snart" i dokumentationen). I dette tilfælde, eller hvis du får en fejl som "Vi kan ikke opdatere politikken lige nu, men prøv den igen senere" i Microsoft Teams Administration, anbefaler vi, at du bruger PowerShell til at oprette eller ændre politikker for holdmøde. 
 
-- Du kan få mere at vide om at oprette politikker, foretage ændringer og tildele brugere til politikken under [administrere møde politikker i teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Yderligere oplysninger om mødepolitikker finder du i følgende ressourcer:
 
-- Hvis du vil foretage politikændringer ved hjælp af PowerShell-cmdlets, skal du se [Oversigt i teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
-    - Du skal bruge [Skype for Business PowerShell-modulet](https://www.microsoft.com/download/details.aspx?id=39366) til teams-møde politikker. 
-    - Se [dokumentationen til cmdlet'er *-csteamsmeetingpolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) for at fÃ ¥ flere oplysninger.
+- Hvis du vil have mere at vide om at oprette politikker, foretage ændringer og tildele brugere til politikken, skal du se [Administrere mødepolitikker i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-**Bemærk:** Det kan tage op til 24 timer, at politikændringer træder i kraft for brugerne. Du vil muligvis ikke kunne foretage ændringer af nyoprettede politikker med det samme. Vent 4 timer, og forsøg at ændre en nyoprettet politik igen. Hvis du stadig har problemer, kan du prøve PowerShell.  
+- Hvis du vil foretage politikændringer ved hjælp af PowerShell-cmdletter, skal du se [Teams PowerShell Oversigt](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Du skal bruge [Skype for Business PowerShell-modulet](https://www.microsoft.com/download/details.aspx?id=39366) til teams mødepolitikker. 
+    - Læs [dokumentationen til cmdletterne *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) for at få flere oplysninger.
+

@@ -1,5 +1,5 @@
 ---
-title: Introduktion til SharePoint Online
+title: Fejlfinding af arbejdsprocesser i SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,25 +14,19 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 7f8879360d90c30d5986831f6a537b1471eb8b6a
+ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770453"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056128"
 ---
-# <a name="workflows-in-sharepoint"></a>Arbejdsprocesser i SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Fejlfinding af arbejdsprocesser i SharePoint
 
-SharePoint-arbejdsprocesser er forprogrammerede apps, der strømliner en lang række forretningsprocesser. Se nedenstående links for at få flere oplysninger.
-
-## <a name="getting-started"></a>Introduktion
-
-Hvis du lige er startet med SharePoint-arbejdsprocesser, skal du [se Introduktion til SharePoint-arbejdsprocesser](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
-
-## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Fejlfinding og fejlfinding af en SharePoint-arbejdsproces
+## <a name="troubleshoot-and-debug-workflows-in-sharepoint"></a>Fejlfinding og fejlfinding af arbejdsprocesser i SharePoint
 
 Se [Fejlfinding af valideringsfejl i SharePoint-arbejdsproces](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) og fejlfinding af [SharePoint-arbejdsprocesser](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
 ## <a name="power-automate"></a>Strømautomatisere
 
-Overvej at bruge [Power Automatik](https://docs.microsoft.com/power-automate/modern-approvals) i stedet for de klassiske SharePoint-arbejdsprocesløsninger.
+Hvis du lige er startet med arbejdsprocesser, kan du overveje at bruge [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) i stedet for de klassiske SharePoint-arbejdsprocesløsninger.
