@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033839"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162906"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery i Yammer-netværk
 
 Du kan nu udføre eDiscovery-søgninger efter Yammer-indhold i Office 365.  Udførelse af eDiscovery-søgninger eller eksport på Yammer-indhold kræver følgende:
 
-1. Du skal først overføre dit Yammer Enterprise Network til native mode for at gøre dine Yammer-meddelelser og filer synlige.
-
-   > [!NOTE] 
-   >Hvis du er ny Office 365-kunde pr. 9.
+1. Du skal først overføre dit Yammer Enterprise Network til native mode for at gøre dine Yammer-meddelelser og filer synlige. **Bemærk: Hvis du er ny Office 365-kunde pr. 9.**
 
 2. For spændende kunder vil eDiscovery for Yammer være tilgængelig, når værktøjet Justering af oprindelig tilstand er frigivet, og overførslen i oprindelig tilstand er fuldført for Yammer i lejeren.
 
