@@ -1,5 +1,5 @@
 ---
-title: Kan ikke oprette forbindelse til internettet
+title: Der kan ikke oprettes forbindelse til internettet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,39 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 222e4b1d282d9d75f08fa2739c13eb7a0ec072c9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627948"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265046"
 ---
-# <a name="fix-network-connection-issues"></a>Løs problemer med netværksforbindelsen
+# <a name="fix-network-connection"></a>Ret netværksforbindelse
 
-Hvis du vil løse problemer med netværksforbindelsen, skal du først prøve at køre fejlfindingsværktøjet netværk. 
+Du kan løse problemer med netværksforbindelsen ved først at prøve at køre fejlfindingsværktøjet Netværk. 
 
-Skriv **netværksfejlfinding**i søgefeltet på proceslinjen, og vælg derefter **Identificer og Reparer netværksproblemer**.
+1. [Åbn indstillingerne for fejlfinding](ms-settings:troubleshoot).
 
-**Bemærk:** Hvis du har brug for hjælp til at oprette forbindelse til internettet ved hjælp af en PC, der kører Windows 7 eller Windows 8,1, skal du se [løs problemer med netværksforbindelsen i Windows](https://support.microsoft.com/help/15287) 
+2. Vælg **Kør fejlfindingsværktøjet**under **Internetforbindelser**.
 
-Hvis du bruger en trådløs forbindelse (Wi-Fi), skal du sørge for, at Wi-Fi er slået til for din enhed (herunder enhver fysisk Wi-Fi-switch), og at Flytilstand ikke er slået til.
+Hvis du bruger en Wi-Fi-forbindelse, skal du kontrollere, at Wi-Fi er tændt for din enhed (herunder enhver fysisk Wi-Fi-switch), og at flytilstanden ikke er slået til.
 
-Hvis du bruger en kabelforbundet (Ethernet) forbindelse, skal du sørge for, at kablet er sluttet korrekt til pc'en og routeren eller modemmet.
+Hvis du bruger en Ethernet-forbindelse, skal du kontrollere, at kablet er sluttet korrekt til din pc og din router eller dit modem.
 
-Hvis det ikke virker, kan du prøve at genstarte din PC, dit modem og din router (hvis du har en):
+Hvis det ikke virker, kan du prøve at genstarte din pc, modem og router (hvis du har en):
 
-1. Fjern strømmen fra modemmet og routeren. Hvis dit modem har en batteri backup, skal du fjerne batteriet for helt at slukke for strømmen.
-2. Vent ca. 30 sekunder. Hvis du har fjernet batteriet fra modemmet, skal du sætte det ind igen.
+1. Tag strømmen ud af modemmet og routeren. Hvis modemmet har en batteribackup, skal du fjerne batteriet for helt at slukke for strømmen.
+
+2. Vent omkring 30 sekunder. Hvis du har fjernet batteriet fra modemmet, skal du sætte det ind igen.
+
 3. Tilslut strømkablet til modemmet og routeren.
-4. Mens du venter på, at modemet og routeren er helt tændt, skal du genstarte pc'en. Vælg **Start** > **Power** > **restart**. (Sørg for at vælge **Genstart**, ikke **lukke ned**.)
+
+4. Mens du venter på, at modemmet og routeren er fuldt tændt, skal du genstarte pc'en: **Start** > **Genstart af strøm** > ****.
 
 **Avanceret fejlfinding**
 
-Du kan finde flere avancerede fejlfindingstrin under [løs problemer med netværksforbindelsen i Windows 10](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). Denne artikel indeholder flere tekniske oplysninger om, hvordan du løser din Internet forbindelse, f. eks.:
+Du kan finde flere avancerede fejlfindingstrin under [Løse problemer med Wi-Fi-forbindelsen i Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-- Bruge kommandoprompten til at køre netværkskommandoer
-- Opdatering af driveren til netværkskortet
-- Kontrol for at se, om din firewall eller dit antivirusprogram forstyrrer din Internet forbindelse
-- Bruge netværksnulstilling til at geninstallere netværksenheder
-
-**Bemærk:** Hvis du ikke er fortrolig med de mere tekniske fejlfindingstrin, kan du tale med en person for at få mere hjælp ved at vælge knappen **Kontakt os** .
+Hvis du ikke er tryg ved at bruge de mere tekniske fejlfindingstrin, skal du [kontakte os](https://support.microsoft.com/contactus).
