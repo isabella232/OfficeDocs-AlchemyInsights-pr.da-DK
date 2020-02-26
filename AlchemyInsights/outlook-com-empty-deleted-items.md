@@ -3,6 +3,7 @@ title: Tøm mappen Slettet post i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768686"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277925"
 ---
-# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="e7cdf-102">Tøm mappen Slettet post</span><span class="sxs-lookup"><span data-stu-id="e7cdf-102">Empty the Deleted Items folder</span></span>
+# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="d0740-102">Tøm mappen Slettet post</span><span class="sxs-lookup"><span data-stu-id="d0740-102">Empty the Deleted Items folder</span></span>
 
-<span data-ttu-id="e7cdf-103"> Hvis du vil rydde alle dine slettede Outlook-meddelelser, skal du gå til [mappen Slettet post](https://outlook.live.com/mail/deleteditems)og vælge **Tøm mappe**og derefter vælge **Gendan elementer slettet fra denne mappe** over meddelelseslisten og vælge **Tøm mappe** igen.</span><span class="sxs-lookup"><span data-stu-id="e7cdf-103">To purge all your deleted Outlook messages, go to your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recover items deleted from this folder** above the message list and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="d0740-103">Åbn mappen Slettet post, og vælg **Tom mappe**.</span><span class="sxs-lookup"><span data-stu-id="d0740-103">Open your Deleted Items folder and select **Empty folder**.</span></span>
+2. <span data-ttu-id="d0740-104">Vælg **Elementer, der kan gendannes** øverst på siden, og vælg **Tom mappe** igen.</span><span class="sxs-lookup"><span data-stu-id="d0740-104">Select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="e7cdf-104">Hvis du har slettet mange meddelelser, kan det tage lidt tid, at disse elementer flyttes til eller fjernes fra mappen Slettet post.</span><span class="sxs-lookup"><span data-stu-id="e7cdf-104">If you've deleted a lot of messages, it may take some time for those items to move to or be purged from the Deleted Items folder.</span></span> <span data-ttu-id="e7cdf-105">Lad browservinduet være åbent, indtil emnerne slettes.</span><span class="sxs-lookup"><span data-stu-id="e7cdf-105">Please leave the browser window open until the items are deleted.</span></span>
+<span data-ttu-id="d0740-105">**Mappen Slettet post kunne ikke tømmes**</span><span class="sxs-lookup"><span data-stu-id="d0740-105">**Unable to empty the Deleted Items folder**</span></span>
 
-<span data-ttu-id="e7cdf-106">Hvis meddelelser ikke slettes korrekt, kan du prøve at slette et mindre antal meddelelser.</span><span class="sxs-lookup"><span data-stu-id="e7cdf-106">If messages fail to delete properly, try deleting a smaller number of messages.</span></span>
+- <span data-ttu-id="d0740-106">Hvis du har slettet en masse mails, kan det tage lidt tid for disse elementer at flytte til eller blive slettet fra mappen Slettet post.</span><span class="sxs-lookup"><span data-stu-id="d0740-106">If you've deleted a lot of email, it may take some time for those items to move to or be deleted from the Deleted Items folder.</span></span> <span data-ttu-id="d0740-107">Lad browservinduet stå åbent, mens sletningen finder sted.</span><span class="sxs-lookup"><span data-stu-id="d0740-107">Leave the browser window open while the deleting takes place.</span></span>
+- <span data-ttu-id="d0740-108">Hvis mailen stadig ikke slettes korrekt, skal du vælge en mindre batch, der skal slettes.</span><span class="sxs-lookup"><span data-stu-id="d0740-108">If the email still fails to delete properly, select a smaller batch to delete.</span></span>
+- <span data-ttu-id="d0740-109">Hvis slettede e-mails kommer tilbage, kan det skyldes, at du har slettet en masse e-mail for nylig.</span><span class="sxs-lookup"><span data-stu-id="d0740-109">If deleted email comes back, it could be because you've deleted a lot of email recently.</span></span> <span data-ttu-id="d0740-110">Prøv igen senere.</span><span class="sxs-lookup"><span data-stu-id="d0740-110">Please try again later.</span></span>
