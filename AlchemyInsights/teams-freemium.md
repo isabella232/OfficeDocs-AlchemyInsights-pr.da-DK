@@ -1,5 +1,5 @@
 ---
-title: Grupper Freemium
+title: Teams Freemium
 ms.author: heidip
 author: heidip
 ms.date: 3/6/2019
@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353999"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556641"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Jeg vil gerne tilmelde dig grupper, der er gratis, men jeg kan ikke.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Jeg vil gerne tilmelde mig Teams gratis
 
-- Hvis du bruger en Office 365-arbejdet eller skolen konto, vil dette gratis tilbud er ikke tilgængelig. Organisationen, men bruger måske allerede Teams. Hvis ikke, skal du gå til [Microsoft-Team](https://products.office.com/microsoft-teams/group-chat-software) til at se, om det er berettiget til en gratis prøveversion.
+Teams er til rådighed gratis gennem et par forskellige programmer. Da du kontakter support med denne anmodning, har du allerede en eksisterende Microsoft 365-lejer, hvilket betyder, at du allerede har Microsoft Teams.
 
-- Akademiske institutioner er ikke berettiget til denne gratis tilbud. Lærere og studerende, kan dog få en gratis version af Office 365, der indeholder en fuld version af Microsoft-Teams. Se [Office 365 licenser til Microsoft-Team](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+I de fleste tilfælde er Teams som standard slået til for alle dine brugere. Når den er slået til, kan dine brugere køre Teams, enten ved at https://teams.microsoft.cominstallere [computer-](https://office.visualstudio.com/MAX/_workitems/edit/desktop) og [mobilklienter](https://office.visualstudio.com/MAX/_workitems/edit/desktop) eller [fra browseren](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) på .
 
-- Amerikanske statslige institutioner er ikke berettiget til denne gratis tilbud. Læs [Office 365-licenser til Microsoft-Team](https://docs.microsoft.com/microsoftteams/office-365-licensing)for at få mere for at vide om Office 365-planer for offentlige virksomheder (herunder en gratis prøveversion).
+Undtagelsen herfor er Microsoft Teams for Education (EDU). Hvis du har en EDU-licens, skal du aktivere Microsoft Teams manuelt. Det kan du gøre ved at gå til Microsoft 365 Administration **> Services og tilføjelsesprogrammet > Microsoft Teams**. Hvis du bruger den nye Teams Administration, skal du slå **Prøv den nye Administration** fra for at finde **tjenester og tilføjelsesprogrammet**. VIGTIGT: Du skal muligvis vente op til 24 timer, før ændringerne træder i kraft.
+
+Gå ikke glip af alle vores vejledning til [at støtte fjernarbejdere med Teams.](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams)
