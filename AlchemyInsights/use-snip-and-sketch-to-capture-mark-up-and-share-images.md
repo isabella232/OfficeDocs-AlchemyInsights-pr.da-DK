@@ -11,28 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365130"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584471"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Brug Klip & Skitse til at optage, markere og dele billeder
 
-Screen skitse kaldes nu **Snip & Sketch**. **For hurtigt at tage et klip:**
+Skærm skitse kaldes nu **Snip & Sketch**. **Sådan tager du hurtigt et klip:**
 
-1. Tryk på **Windows-tasten + Skift + S**. Du kan se skærmen blive mørkere, og markøren vises som et kryds. 
+1. Tryk på **Windows-tasten + Skift + S**. Skærmen bliver mørkere, og markøren vises som et kryds. 
 
-2. Vælg et punkt i kanten af det område, du vil kopiere, og højreklik på markøren til venstre. 
+2. Vælg et punkt i kanten af det område, du vil kopiere, og venstreklik på markøren. 
 
-3. Flyt markøren for at fremhæve det område, du vil optage. Det område, du optager, vises på skærmen.
-:::image type="content" source="media/snipone.png" alt-text="billede af fremhævet markering":::
+3. Flyt markøren for at fremhæve det område, du vil hente. Det område, du optager, vises på skærmen.
 
-Det billede, du snipped er gemt i udklipsholderen, klar til at indsætte i en e-mail eller et dokument. 
+   ![billede af fremhævet markering](media/snipone.png)
 
-**Hvis du vil redigere eller få vist billedet:** 
+Det billede, du har klippet, gemmes i Udklipsholder, så du er klar til at indsætte i en mail eller et dokument. 
+
+**Hvis du vil redigere eller se billedet:** 
 
 - Klik på meddelelsesikonet yderst til højre på proceslinjen. klik derefter på det billede, du lige har taget. Dit klip åbnes i appen Klip & Skitse.
 
-:::image type="content" source="media/sniptwo.png" alt-text="billede billede vises i nipper app":::
+   ![billede af billede, der vises i klippeapp](media/sniptwo.png)
