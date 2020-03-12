@@ -1,5 +1,5 @@
 ---
-title: 'Synkroniseringsadvarsel: Senest synkroniseret for mere end tre dage siden'
+title: 'Advarsel om synkronisering: Sidst synkroniseret for mere end tre dage siden'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 8af67ee0b4c2b56b21d7a9d0b8e74ce7181fe4ec
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: ef896e79e46c7ef766234fadb57642b8a9736859
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164032"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599910"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a><span data-ttu-id="89e53-102">Synkroniseringsadvarsel: Senest synkroniseret for mere end tre dage siden</span><span class="sxs-lookup"><span data-stu-id="89e53-102">Sync warning: last synced more than 3 days ago</span></span>
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a><span data-ttu-id="f348c-102">Advarsel om synkronisering: Sidst synkroniseret for mere end tre dage siden</span><span class="sxs-lookup"><span data-stu-id="f348c-102">Sync warning: last synced more than 3 days ago</span></span>
 
-<span data-ttu-id="89e53-103">Du kan finde yderligere fejlfinding under [Løse problemer med katalogsynkronisering til Office 365](https://docs.microsoft.com/en-us/office365/enterprise/fix-problems-with-directory-synchronization).</span><span class="sxs-lookup"><span data-stu-id="89e53-103">For additional troubleshooting, see [Fixing problems with directory synchronization for Office 365](https://docs.microsoft.com/en-us/office365/enterprise/fix-problems-with-directory-synchronization).</span></span>
+<span data-ttu-id="f348c-103">Du kan finde flere [fejlfindingsproblemer under Løse problemer med katalogsynkronisering for Office 365](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span><span class="sxs-lookup"><span data-stu-id="f348c-103">For additional troubleshooting, see [Fixing problems with directory synchronization for Office 365](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span></span>
 
-<span data-ttu-id="89e53-104">Du kan kontrollere synkroniseringsstatus på Office-administratorportalen ved at følge vejledningen i Status for synkronisering af [visninger af mapper i Office 365](https://docs.microsoft.com/en-us/office365/enterprise/view-directory-synchronization-status).</span><span class="sxs-lookup"><span data-stu-id="89e53-104">You can check sync status in the Office admin portal by following the instructions in [View directory synchronization status in Office 365](https://docs.microsoft.com/en-us/office365/enterprise/view-directory-synchronization-status).</span></span>
+<span data-ttu-id="f348c-104">Du kan kontrollere synkroniseringsstatus på Office-administrationsportalen ved at følge vejledningen i Vis status for [katalogsynkronisering i Office 365](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span><span class="sxs-lookup"><span data-stu-id="f348c-104">You can check sync status in the Office admin portal by following the instructions in [View directory synchronization status in Office 365](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span></span>
 
