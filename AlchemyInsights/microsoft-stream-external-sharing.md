@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 06ec178a2012872a0a4d5462b795229aeca67016
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371577"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600522"
 ---
 # <a name="microsoft-stream-external-sharing"></a>Ekstern deling af Microsoft Stream
 
-Microsoft Stream understøtter endnu ikke scenarier for ekstern deling for gæster eller personer uden for organisationen. Vi ved, at disse funktioner er meget tiltrængt, og vi arbejder på planer for, hvordan man opbygger disse funktioner.
+Microsoft Stream understøtter endnu ikke eksterne delingsscenarier for gæster eller personer uden for organisationen. Vi ved, at disse funktioner er meget nødvendige, og vi arbejder på planer for, hvordan man opbygger disse funktioner.
 
-- [Ekstern deling i Stream](https://docs.microsoft.com/en-us/stream/portal-share-video#external-sharing)
+- [Ekstern deling i stream](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Dele dine videoer i Microsoft Stream](https://docs.microsoft.com/en-us/stream/portal-share-video)
+- [Del dine videoer i Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)

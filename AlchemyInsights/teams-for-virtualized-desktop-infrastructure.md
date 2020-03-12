@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 7ef44dae984b3c61e2fd0e13352f90898c15d8b6
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0a8b48cda4109b387e6c2d81104585b194684524
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157549"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599442"
 ---
 # <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams til virtualiseret skrivebordsinfrastruktur
 
-Du kan finde detaljerede oplysninger om teams til virtualiserede skrivebordsinfrastrukturmiljøer under [Teams for Virtualiseret skrivebordsinfrastruktur](https://docs.microsoft.com/en-us/microsoftteams/teams-for-vdi).
+Yderligere oplysninger om teams til virtualiserede skrivebordsinfrastrukturmiljøer finder du i [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
-Kendte problemer og begrænsninger i VDI-miljøer er beskrevet i afsnittet [Kendte problemer og begrænsninger](https://docs.microsoft.com/en-us/microsoftteams/teams-for-vdi#known-issues-and-limitations) i den samme artikel, som indeholder følgende emner:
- - Installation, installation og installation af klienter
+Kendte problemer og begrænsninger i VDI-miljøer er beskrevet i afsnittet [Kendte problemer og begrænsninger](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) i den samme artikel, som indeholder følgende emner:
+ - Klientinstallation, installation og installation
  - Opkald og møder

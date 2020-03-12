@@ -1,5 +1,5 @@
 ---
-title: Pensionering af Ældre eDiscovery-værktøjer
+title: Pensionering af ældre eDiscovery-værktøjer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157548"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600357"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Pensionering af Ældre eDiscovery-værktøjer
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Pensionering af ældre eDiscovery-værktøjer
 
 Som et resultat af den nye og forbedrede eDiscovery-funktionalitet i Microsoft 365 Compliance Center vil følgende ældre eDiscovery-værktøjer og -kommandoer blive trukket tilbage i de kommende måneder:
 
-- [Indbyggede eDiscovery-](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) og [in-place-holdere](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) i Exchange Administration.
+- [In-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) [og in-place Holds i](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) Exchange Administration.
 
-- Exchange Online PowerShell-cmdletter, der understøtter in-place eDiscovery og in-place holdere. (Disse cmdlets er kollektivt identificeret som *-MailboxSearch cmdlets.) Dette omfatter følgende cmdlets:
+- Exchange Online PowerShell-cmdletterne, der understøtter eDiscovery og in-place-hold. (Disse cmdletter identificeres samlet som *-MailboxSearch-cmdletter). Dette omfatter følgende cmdletter:
 
-    - [Søgning efter ny postkasse](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Søg efter startpostkasse](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stop-PostkasseSøgning](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Set-PostkasseSøg](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [Søg efter ny postkasse](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-postkasseSøgning](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Stop-PostkasseSøg](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- [Cmdlet'en Søgepostkasse](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) i Exchange Online PowerShell.
+- [Søgepostkassen](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet i Exchange Online PowerShell.
 - Følgende handlinger i Exchange Web Services API:
-    - [FåSøgbarepostkasser](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [SetHoldOnMailbokse](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+    - [GetSearchablePostkasser](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [Hent HoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Avanceret eDiscovery v1.0 fra Office 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Avanceret EDiscovery v1.0 i Office 365](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Tidslinje for pensionering**:
-- 1. april 2020: Du kan ikke oprette nye søgninger og ventepositioner, men du kan stadig køre, redigere og slette eksisterende søgninger på egen risiko. Microsoft Support understøtter ikke længere In-Place eDiscovery & holder i EAC.
+- 1. april 2020: Du kan ikke oprette nye søgninger og tilbageholdelser, men du kan stadig køre, redigere og slette eksisterende søgninger på egen risiko. Microsoft Support understøtter ikke længere direkte eDiscovery-&-ventepositioner i EAC.
 
-- 1. juli 2020: Funktionen In-Place eDiscovery & Holder i EAC placeres i skrivebeskyttet tilstand. Det betyder, at du kun kan fjerne eksisterende søgninger og tilbageholdelser.
+- 1. juli 2020: Den indbyggede eDiscovery-&-funktioner i EAC placeres i skrivebeskyttet tilstand. Det betyder, at du kun kan fjerne eksisterende søgninger og tilbageholdelser.
 
-**Yderligere oplysninger finder du i:**
+**Yderligere oplysninger finder du i**:
 
- - [Overfør ældre eDiscovery-søgninger og -tilbageholdelser til Microsoft 365-overholdelsescenter](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Pensionering af ældre eDiscovery-værktøjer](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Ofte stillede spørgsmål om in-place eDiscovery og in-place holder](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Overfør ældre eDiscovery-søgninger og -tilbageholdelser til Microsoft 365-kompatibilitetscenter](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Pensionering af ældre eDiscovery-værktøjer](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Ofte stillede spørgsmål om in-place eDiscovery og in-place holds](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
