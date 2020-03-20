@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42744998"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856461"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Almindelige problemer og løsninger i Teams
 
@@ -36,11 +36,11 @@ Til alle Teams-kunder:
 
     Sådan bekræfter du, at brugeren er licenseret til lydmøder og har et standard afgiftsbelagt nummer:
     1.    Gå til Aktive brugere, og vælg derefter den pågældende bruger.
-    2.    Afhængigt af din version af administrationscenteret skal du vælge enten Licenser og apps eller klikke på Rediger på Produktlicenser.
+    2.    Afhængigt af din version af administrationscenteret skal du vælge enten **Licenser og apps** eller klikke på **Rediger** på **Produktlicenser**.
     3.    Bekræft, at brugeren har licenserne, der er valgt til Lydmøde, Microsoft Teams og Skype for Business online (Plan 2).
-    4.    I Administrationscentre skal du klikke på Vis alle og derefter Teams.
-    5.    I Microsoft Teams Administration skal du klikke på Gammel portal.
-    6.    I Skype for Business Administration skal du klikke på Lydmøde og derefter på Brugere.
+    4.    I Administrationscentre skal du klikke på **Vis alle** og derefter **Teams**.
+    5.    I Microsoft Teams Administration skal du klikke på **Gammel portal**.
+    6.    I Skype for Business Administration skal du klikke på **Lydmøde** og derefter på **Brugere**.
     7.    Vælg den pågældende bruger, og bekræft, at brugeren har et standard afgiftsbelagt nummer.
     
     Du kan finde flere oplysninger under [Opkaldsabonnementer til Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe til Microsoft Commerce-faktureringsteamet for at få hjælp til licensrelaterede spørgsmål.
