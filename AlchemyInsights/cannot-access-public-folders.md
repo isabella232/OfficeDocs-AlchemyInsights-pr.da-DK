@@ -1,5 +1,5 @@
 ---
-title: Kan ikke få adgang til offentlige mapper
+title: Der kan ikke få adgang til offentlige mapper
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959489"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891743"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook kan ikke oprette forbindelse til offentlige mapper
 
-Hvis adgang til offentlige mapper ikke fungerer for få brugere, kan du prøve følgende:
+Hvis adgang til offentlige mapper ikke fungerer for nogle brugere, kan du prøve følgende:
 
-Opret forbindelse til EXO PowerShell, og Konfigurer DefaultPublicFolderMailbox på den problematiske brugerkonto, så den svarer til en på en fungerende brugerkonto.
+Opret forbindelse til EXO PowerShell, og konfigurer parameteren DefaultPublicFolderMailbox på problembrugerkontoen, så den svarer til parameteren på en fungerende brugerkonto.
 
 Eksempel:
 
-Hent-postkasse WorkingUser | ft DefaultPublicFolderMailbox, Effekvepublicfoldermailbox
+Arbejdsbruger til hent postkasse | ft DefaultPublicFolderMailbox,EffektivPublicFolderMailbox
 
-Set-postkasse Problembruger-DefaultPublicFolderMailbox \<Value fra forrige kommando>
+Set-Mailbox ProblemBruger -DefaultPublicFolderMailbox-værdi \<fra tidligere kommando>
 
-Vent mindst en time, indtil ændringen træder i kraft.
+Vent mindst en time, før ændringen træder i kraft.
+
+Hvis problemet stadig er, skal du følge [denne fremgangsmåde](https://aka.ms/pfcte) for at foretage fejlfinding af problemer med adgang til offentlige mapper ved hjælp af Outlook.
