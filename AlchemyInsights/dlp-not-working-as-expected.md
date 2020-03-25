@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530273"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932616"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP fungerer ikke som forventet
 
-Du har problemer med **Data tab forebyggelse (DLP)** i Office 365, fungerer ikke som forventet? I så fald sikre, at din **DLP-Gruppepolitik** er konfigureret korrekt, og, at dine data indeholder hvilke **DLP-Gruppepolitik** søger efter, når det evalueres.
-  
+**Vigtigt**: Mange SharePoint Online- og OneDrive-kunder kører forretningskritiske programmer mod den tjeneste, der kører i baggrunden. Disse omfatter indholdsmigrering, Forebyggelse af datatab (DLP) og sikkerhedskopieringsløsninger. I disse hidtil usete tider tager vi skridt til at sikre, at SharePoint Online- og OneDrive-tjenester forbliver meget tilgængelige og pålidelige for dine brugere, der er afhængige af tjenesten mere end nogensinde før i scenarier for fjernarbejde.
+
+Til støtte for dette mål har vi implementeret strammere begrænsningsgrænser for baggrundsapps (migrering, DLP og backupløsninger) i dagtimerne på hverdage. Du bør forvente, at disse apps vil opnå meget begrænset gennemløb i disse tider. I løbet af aftenen og i weekenden for regionen vil tjenesten dog være klar til at behandle en betydeligt større mængde anmodninger fra baggrundsapps.
+
  **Opsætning af DLP**
+
+Har du problemer med **Forebyggelse af datatab (DLP)** i Office 365 fungerer ikke som forventet? Hvis det er tilfældet, skal du sørge for, at **DLP-politikken** er konfigureret korrekt, og at dine data indeholder, hvad **DLP-politikken** søger efter, når den evalueres.
   
-DLP-politikker gør det muligt at identificere og beskytte følsomme oplysninger i din organisation. DLP rapportopsætning, skal du bruge oplysningerne [her](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+DLP-politikker giver dig mulighed for at identificere og beskytte følsomme oplysninger i organisationen. Hvis du vil konfigurere DLP-politikker, skal du bruge oplysningerne [her](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
- **Se hvilke DLP politikker**
+ **Hvad DLP politikker kigge efter**
   
-Når du bruger de **indbyggede følsomme oplysningstyper** i Office 365 sikkerhed og kompatibilitet center, se DLP politikker for bestemte mønstre og elementer, når registrering af disse følsomme typer.
+Når dlp-politikker bruger de **indbyggede følsomme oplysningstyper** i Office 365 Security and Compliance Center, søger de specifikke mønstre og elementer, når du registrerer disse følsomme typer.
   
-- **Typer af indbyggede følsomme oplysninger**
+- **Indbyggede følsomme oplysningstyper**
 
-    Finde oplysninger på de følsomme indbyggede typer og en politik for DLP ser når registrering af typen følsomme: [de følsomme oplysninger hvilke ser ud](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Du kan finde oplysninger om de indbyggede følsomme typer, og hvad en DLP-politik søger efter, når du registrerer typen Følsom, under: [Hvad de følsomme oplysningstyper søger efter](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Typer brugerdefinerede følsomme oplysninger**
+- **Brugerdefinerede følsomme oplysningstyper**
 
-    Hvis du forsøger at oprette brugerdefinerede følsomme oplysninger, kan du bruge følgende artikel oplysninger om, hvordan du opretter en brugerdefineret følsomme type: [Opret en brugerdefineret følsomme oplysninger-typen](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Hvis du forsøger at oprette brugerdefinerede følsomme oplysningstyper, kan du bruge følgende artikel til at få oplysninger om, hvordan du opretter en brugerdefineret følsom type: [Opret en brugerdefineret personfølsomme oplysningertype](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
-**Teste en DLP-politik**
+**Test en DLP-politik**
 
-For at teste dine data med en indbygget eller brugerdefineret følsomme oplysninger, skal du bruge indstillingen **Test type** under **klassifikationer** > **typer af følsomme oplysninger**. Yderligere oplysninger finder du under [testtyper brugerdefinerede følsomme oplysninger](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Hvis du vil teste dine data med en indbygget eller brugerdefineret følsom oplysningstype, skal du bruge indstillingen **Testtype** under **Klassifikationer** > **Følsomme oplysningstyper**. Yderligere oplysninger finder du i [Test af brugerdefinerede følsomme oplysningstyper](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Rapporter**
   
-- Få indblik i følsomme data med [rapporter DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Få indsigt i følsomme data med [DLP-rapporter.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
-- Se bestemte oplysninger om hændelsen med en [Hændelse rapport](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Se specifikke oplysninger om hændelsen med en [hændelsesrapport](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).

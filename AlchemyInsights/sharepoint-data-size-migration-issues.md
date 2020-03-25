@@ -11,24 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b53a98480bab48497274c7358f7e606caa477f5a
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051743"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931688"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemer under overførsel af data til SharePoint Online
 
-Det ser ud til du migrerer over 100TB data til SharePoint Online. Følg venligst nedenstående trin, så vi kan hjælpe dig så hurtigt som muligt. 
+**Vigtigt**: Mange SharePoint Online- og OneDrive-kunder kører forretningskritiske programmer mod den tjeneste, der kører i baggrunden. Disse omfatter indholdsmigrering, Forebyggelse af datatab (DLP) og sikkerhedskopieringsløsninger. I disse hidtil usete tider tager vi skridt til at sikre, at SharePoint Online- og OneDrive-tjenester forbliver meget tilgængelige og pålidelige for dine brugere, der er afhængige af tjenesten mere end nogensinde før i scenarier for fjernarbejde.
 
-1. Vælg **ny serviceanmodning**og derefter **ny serviceanmodning**. 
-2. Efterlad titlen og beskrivelsen som **SharePoint-migrering over 100 TB**.
+Til støtte for dette mål har vi implementeret strammere begrænsningsgrænser for baggrundsapps (migrering, DLP og backupløsninger) i dagtimerne på hverdage. Du bør forvente, at disse apps vil opnå meget begrænset gennemløb i disse tider. I løbet af aftenen og i weekenden for regionen vil tjenesten dog være klar til at behandle en betydeligt større mængde anmodninger fra baggrundsapps.
+
+**Overflytning af over 100 TB data**
+
+Det ser ud til, at du overfører over 100 TB data til SharePoint Online. Følg nedenstående trin, så vi kan hjælpe dig så hurtigt som muligt. 
+
+1. Vælg **Ny serviceanmodning**, og vælg derefter **Ny serviceanmodning**. 
+2. Lad titlen og beskrivelsen være **SharePoint-overførsel over 100 TB**.
 3. Når billetten er indsendt, skal du opdatere den med følgende oplysninger: 
 
-    - Anslået størrelse på migreringen.
-    - Et estimat over, hvornår du vil starte og fuldføre migreringen.
-    - Beskriv, hvor du migrerer dit indhold fra, såsom SharePoint Server, box, GDrive, filshares osv.
+    - Anslået størrelse på din overførsel.
+    - Et estimat over, hvornår du vil starte og fuldføre overførslen.
+    - Beskriv, hvor du overfører dit indhold fra, f.eks.
 
 
   

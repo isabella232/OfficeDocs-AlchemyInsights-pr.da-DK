@@ -1,5 +1,5 @@
 ---
-title: Overfør indstillinger til SharePoint Online
+title: Overføre indstillinger til SharePoint Online
 ms.author: pebaum
 author: v-miegge
 manager: v-cojank
@@ -10,27 +10,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d0587b3a86b90358359c03fe32e9919facd30883
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 830b39c51658cbc02f4be81acdfdf3b164a8df70
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964008"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932724"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>Overfør indstillinger til SharePoint Online
+# <a name="migrate-options-to-sharepoint-online"></a>Overføre indstillinger til SharePoint Online
 
-Der er forskellige muligheder for at migrere indhold til SharePoint Online, afhængigt af størrelsen og mængden af filer, du skal flytte, kan du se en liste over muligheder, der er [placeret her](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
+**Vigtigt**: Mange SharePoint Online- og OneDrive-kunder kører forretningskritiske programmer mod den tjeneste, der kører i baggrunden. Disse omfatter indholdsmigrering, Forebyggelse af datatab (DLP) og sikkerhedskopieringsløsninger. I disse hidtil usete tider tager vi skridt til at sikre, at SharePoint Online- og OneDrive-tjenester forbliver meget tilgængelige og pålidelige for dine brugere, der er afhængige af tjenesten mere end nogensinde før i scenarier for fjernarbejde.
 
-Du kan finde flere oplysninger om overførsel af indhold ved at besøge nedenstående links.
+Til støtte for dette mål har vi implementeret strammere begrænsningsgrænser for baggrundsapps (migrering, DLP og backupløsninger) i dagtimerne på hverdage. Du bør forvente, at disse apps vil opnå meget begrænset gennemløb i disse tider. I løbet af aftenen og i weekenden for regionen vil tjenesten dog være klar til at behandle en betydeligt større mængde anmodninger fra baggrundsapps.
 
-- [Værktøj til overførsel af SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+**Indstillinger for overflytning**
 
-- [Introduktion til overførselsstyring](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+Der er forskellige muligheder for at overføre indhold til SharePoint Online, afhængigt af størrelsen og mængden af filer, du skal flytte, se en liste over [muligheder, der er placeret her](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Overførselshastighed for SharePoint Online og ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Du kan finde flere oplysninger om indholdsmigrering på nedenstående links.
 
-- [Undgå at blive begrænset eller blokeret i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Værktøjet Til overførsel af Sharepoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-- [Værktøjet til evaluering af SharePoint-overførsel (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
+- [Introduktion til Overførselsstyring](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 
-**Bemærk**: i øjeblikket understøtter SharePoint-overflytningsværktøjet kun overførsler fra sharepoint 2010 og 2013. Version 2016 eller 2019 understøttes ikke på dette tidspunkt.
+- [Hastighed for Sharepoint Online- og ODB-overførsel](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+
+- [Undgå at få gaseller blokeret i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+
+- [SMAT (SharePoint Migration Assessment Tool)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
+
+**Bemærk:** I øjeblikket understøtter SharePoint-overførselsværktøjet kun overførsler fra SharePoint 2010 og 2013. Version 2016 eller 2019 understøttes ikke på nuværende tidspunkt.
