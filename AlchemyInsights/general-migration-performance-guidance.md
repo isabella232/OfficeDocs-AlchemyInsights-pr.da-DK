@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932473"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958532"
 ---
 # <a name="general-migration-performance-guidance"></a>Generel vejledning om overførselsydeenve
 
-**Vigtigt**: Mange SharePoint Online- og OneDrive-kunder kører forretningskritiske programmer op mod tjenesten, der kører i baggrunden. Disse omfatter indholdsoverførsel, forebyggelse af datatab (DLP) og løsninger til sikkerhedskopiering. I disse hidtil usete tider tager vi skridt til at sikre, at SharePoint Online- og OneDrive-tjenester forbliver meget tilgængelige og pålidelige for dine brugere, der er mere afhængige af din tjeneste end nogensinde før i fjernarbejdssituationer.
-
-For at understøtte denne målsætning har vi implementeret strengere begrænsninger for baggrundsapps (overførsel, DLP og løsninger til sikkerhedskopiering) i dagtimerne på hverdage. Du bør forvente, at disse apps vil opnå en meget begrænset dataoverførselshastighed i disse tidsrum. Derimod vil tjenesten i løbet af aften- og weekendtimerne i dit område være klar til at behandle en betydeligt højere mængde forespørgsler fra baggrundsapps.
+**Vigtigt**: I disse hidtil usete tider bestræber vi os på at sikre, at SharePoint Online- og OneDrive-tjenesterne fastholder sin høje tilgængelighed. Hvis du ønsker flere oplysninger, skal du besøge [Midlertidige funktionsjusteringer i SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **Vejledning om overførselsydeevne**
 
