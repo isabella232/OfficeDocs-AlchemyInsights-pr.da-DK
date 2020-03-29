@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856461"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030394"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Almindelige problemer og løsninger i Teams
+
+**Vigtigt**: På grund af en nylig stigning i brugen af Teams, kan det tage op til 24 timer fra du tildeler en licens til en bruger, til denne er helt konfigureret. Indtil da kan du ikke tildele Teams-politikker til brugeren, og denne har muligvis ikke adgang til nogle Teams-funktioner, som f.eks. opkald og lydkonferencer.
+
+**Almindelige problemer og løsninger**
 
 Hvis du ønsker et mere specifikt svar, kan du prøve at omformulere dit spørgsmål, så det inkluderer de fejl, du oplever, eller Teams-funktioner, du bruger.
 
