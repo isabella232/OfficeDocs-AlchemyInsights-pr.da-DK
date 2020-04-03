@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: f4bdee85b9afb9f89d2382441106ddd82394c16e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
+ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682081"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43118369"
 ---
 # <a name="security-defaults"></a>Sikkerhedsstandarder
 
-Det kan være svært at styre sikkerheden, når almindeligt identitetsrelaterede angreb bliver mere og mere populære. Disse angreb omfatter password spray, replay, og phishing.
+Du kan finde oplysninger om sikkerhedsstandarder under [Hvad er sikkerhedsstandarder?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
-Sikkerhedsstandarder i Azure Active Directory (Azure AD) gør det nemmere at være sikker og hjælpe med at beskytte din organisation. Sikkerhedsstandarder indeholder forudkonfigurerede sikkerhedsindstillinger for almindeligt forekommende angreb.
+Sikkerhedsstandarder i Azure Active Directory (Azure AD) gør det nemmere at være sikker og hjælpe med at beskytte din organisation. Sikkerhedsstandarder indeholder forudkonfigurerede sikkerhedsindstillinger for almindelige angreb.
 
-Microsoft gør sikkerhedsstandarder tilgængelige for alle. Målet er at sikre, at alle organisationer har et grundlæggende sikkerhedsniveau aktiveret uden ekstra omkostninger. Du slår sikkerhedsstandarder til på Azure-portalen. Du finder flere oplysninger om sikkerhedsstandarder under [Hvad er sikkerhedsstandarder?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+Microsoft gør sikkerhedsstandarder tilgængelige for alle. Målet er at sikre, at alle organisationer har et grundlæggende sikkerhedsniveau aktiveret uden ekstra omkostninger. Du slår sikkerhedsstandarder til på Azure-portalen.
