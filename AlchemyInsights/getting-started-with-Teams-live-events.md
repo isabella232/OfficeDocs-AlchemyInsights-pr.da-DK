@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034195"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142983"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Kom i gang med Teams-livebegivenheder
 
@@ -24,7 +24,7 @@ Microsoft Teams-livebegivenheder er en udvidelse af Teams-møder, der lader dig 
 
 Hvis du vil oprette en livebegivenhed, har du brug for følgende:
 
-- En [Office 365 Enterprise E1-, E3-eller E5-licens eller en Office 365 A3-eller A5-licens](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- En [Office 365 Enterprise E1-, E3-eller E5-licens eller en Office 365 A3-eller A5-licens](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Bemærk**: På grund af en nylig stigning i brugen af Teams, kan det tage op til 24 timer fra du tildeler en licens til en bruger, til denne er helt konfigureret. Indtil da kan du ikke tildele Teams-politikker til brugeren, og denne har muligvis ikke adgang til nogle Teams-funktioner, som f.eks. opkald og lydkonferencer.
 
 - Tilladelse til at [oprette livebegivenheder i Microsoft Teams Administration](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
