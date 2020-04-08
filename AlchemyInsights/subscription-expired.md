@@ -1,5 +1,5 @@
 ---
-title: Genaktiver dit abonnement
+title: Abonnementet er udløbet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,27 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002304"
-- "4473"
-- "9001497"
-- "4736"
-- "3551"
-ms.openlocfilehash: 83f4c28ae26267e71af5488484330df53e08d1bd
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+- "9002437"
+- "4741"
+- "4739"
+ms.openlocfilehash: 1d907be89da6339d35941672ef6a5b9bf5df44b7
+ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160846"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43158540"
 ---
-# <a name="reactivate-your-subscription"></a>Genaktiver dit abonnement
+# <a name="subscription-expired"></a>Abonnementet er udløbet
 
-Hvis dit abonnement udløber eller er blevet deaktiveret af Microsoft, eller hvis du har annulleret det midt i abonnementsperioden, kan du genaktivere det i Administration. 
+Hvis dit abonnement udløber eller er blevet deaktiveret af Microsoft, eller hvis du har annulleret det midt i abonnementsperioden, kan du genaktivere det i Administration.
+
+**Genaktiver et abonnement**
 
 1. I Administration skal du gå til siden **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Find det abonnement, du vil genaktivere, på siden **Produkter og tjenester**.  I afsnittet **Fakturering** skal du klikke på **Genaktiver nu**.  Hvis du er i **Kort**-visning, skal du klikke på ellipsen mellem **Navn** og **Tilgængelig mængde** og klikke på **Genaktiver** i menuen. **Bemærk**: Hvis du ikke kan se det abonnement, du leder efter, skal du muligvis justere filteret **Abonnementsstatus** ved toppen af siden til **Alle**.
+2. Find det abonnement, du vil genaktivere, på siden Produkter og tjenester.
 
-3. Bekræft dine betalingsoplysninger.  Du kan også opdatere dine eksisterende betalingsoplysninger her.  Når du er færdig med at angive din betalingsmetode, skal du vælge **Genaktiver**.
+3. I afsnittet Fakturering skal du klikke på **Genaktiver nu**.  Hvis du er i Kort-visning, skal du klikke på ellipsen mellem Navn og Tilgængelig mængde og vælge Genaktiver i menuen. **Bemærk**: Hvis du ikke kan se det abonnement, du leder efter, skal du muligvis justere filteret Abonnementsstatus ved toppen af siden til **Alle**.
+
+4. Bekræft dine betalingsoplysninger for at opdatere dine eksisterende betalingsoplysninger. Når du er færdig med at angive din betalingsmetode, skal du klikke på **Genaktiver**.
 
 Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
