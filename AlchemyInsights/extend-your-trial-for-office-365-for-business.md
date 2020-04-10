@@ -1,5 +1,5 @@
 ---
-title: Udvide din prøveversion til Office 365 til virksomheder
+title: Forlænge din prøveversion til Office 365 til virksomheder
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664998"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207331"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Udvide din prøveversion til Office 365 til virksomheder
+# <a name="extend-your-trial-for-office-365-for-business"></a>Forlænge din prøveversion til Office 365 til virksomheder
 
-Hvis dit prøveabonnement inden 15 dage efter udløber og forsøget endnu ikke er blevet forlænget før, kan du udvide din prøveversion til en anden 30 dage. Du kan kun gøre dette én gang.
+Du kan forlænge prøveperioden med yderligere 30 dage. Du kan kun gøre dette én gang.
   
-1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
+1. Gå til **Faktureringsprodukter** \> [& tjenester](https://portal.office.com/adminportal/home#/subscriptions)i Administration.
 
-2. Vælg det gratis prøveabonnement, du vil udvide.
+2. Vælg det prøveabonnement, du vil forlænge.
 
-3. Vælg **Udvid prøveversionen** , og udføre de resterende trin i afsnittet **sektioner & handlinger** .
+3. Klik på **Forlæng prøveversion,** og udfør trinnene i guiden.
 
-4. Du skal angive kreditkortoplysninger for at udvide din prøveversion. Vi debiterer ikke dit kreditkort til prøveversionen udvidelse.
+4. Du skal angive kreditkortoplysninger for at forlænge prøveperioden. Vi debiterer ikke dit kreditkort for prøveperioden.
 
-Hvis du vil vide mere, se [Udvid din prøveversion til Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Hvis du vil have mere at vide om at forlænge din prøveversion eller for at få en trinvis vejledning, skal du se [Udvide prøveversionen af Office 365 til virksomheder](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

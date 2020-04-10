@@ -1,5 +1,5 @@
 ---
-title: Sådan tilføjes eller reducere antallet af licenser
+title: Sådan tilføjer eller reducerer du licenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664278"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207367"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Sådan tilføjes eller reducere antallet af licenser
+# <a name="how-to-add-or-reduce-licenses"></a>Sådan tilføjer eller reducerer du licenser
 
-Her er hvordan du fjerner Office 365-licenser eller købe flere licenser.
+Sådan tilføjer/fjerner du licenser.
   
-1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
+1. Gå til **Fakturering > [abonnementer](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Vælg det abonnement, du vil tilføje eller fjerne licenser.
+2. Vælg det abonnement, du vil tilføje/fjerne licenser fra.
 
-3. Vælg **Tilføj/fjern licenser**.
+3. Klik på **Tilføj/fjern licenser**.
 
-4. Angiv det samlede antal brugere, der skal bruges.
+4. Angiv det samlede antal brugere, der skal bruges. Hvis du for eksempel har 25 licenser, og du vil fjerne 5, skal du angive 20 i dette felt.
 
-    Hvis du har i øjeblikket 25 licenser, og du vil fjerne 5, f.eks 20 i dette felt.
+5. Klik på **Send ændring**.
 
-5. Vælg **Send ændres**.
+**Bemærk:** Enhver ny opkrævning (licensstigning) eller kredit (licensreduktion) vises på din næste faktura.
 
-> [!NOTE]
-> Et nyt gebyr (licens stigning) eller kreditnota (formindsker licens) vises på din næste regning.
+Du kan finde oplysninger om, hvordan du tildeler licenser, under [Tildele licenser til brugere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Hvis du vil vide mere, kan du se [købe licenser til din Office 365 for business-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Yderligere ressourcer**
+ **Ressourcer**
   
-- [Fjerne licenser fra dit abonnement på Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Administrer abonnementslicenser - køb eller fjern](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Annuller Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Annullere Office 365 til virksomheder](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Købe en anden Office 365 for business-abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Købe et andet abonnement på Office 365 til virksomheder](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
