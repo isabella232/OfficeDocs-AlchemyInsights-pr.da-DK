@@ -1,5 +1,5 @@
 ---
-title: Hvordan du køber Office 365 uddannelse planer
+title: Sådan køber du Office 365 Education-planer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390902"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286241"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Hvordan du køber Office 365 uddannelse planer
+# <a name="how-to-purchase-office-365-education-plans"></a>Sådan køber du Office 365 Education-planer
 
-Du er godkendt til Office 365-uddannelse. At købe:
-  
-1. Gå til **Fakturering** i admin center, \> [Køb](https://go.microsoft.com/fwlink/p/?linkid=868433) af tjenesteydelser.
+Du er blevet godkendt til Office 365 Education.  Sådan køber du:
 
-2. Vælg på listen under **Uddannelse planer**.
+1. Gå til **[Fakturering > Købstjenester](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
-3. Placer musemarkøren over det abonnement, du vil købe, og vælg **Køb nu**.
+2. Vælg fra listen under **Education-planer**.
+
+3. Hold markøren over det abonnement, du vil købe, og klik derefter på **Køb nu**.
+
+**Fjernundervisning og -læring**
+
+- Se [Fjernundervisning og læring i Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) for at se den mest opdaterede vejledning i, hvordan du konfigurerer din skole, planlægning af lektioner, virtuelle møder og deling af indhold med studerende.
+
+- Der er en yderligere it-vejledning under [Introduktion til Microsoft Teams til fjernlæring](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) og [Gennemførelse af overgangen til fjernlæring](https://www.microsoft.com/education/remote-learning).

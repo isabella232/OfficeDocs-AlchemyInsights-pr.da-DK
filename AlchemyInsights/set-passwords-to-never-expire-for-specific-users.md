@@ -14,18 +14,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: da90d6d9edbfa28e230200d552aa44565b434d9e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: bece763f0408199aadbd76899b2c59a3f05e0f94
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36818960"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286308"
 ---
 # <a name="set-passwords-to-never-expire"></a>Indstil adgangskoder til aldrig at udløbe
 
-Hvis du vil indstille alle adgangskoder til aldrig at udløbe, skal du gå til siden **Indstillinger** > [sikkerhed &amp; for beskyttelse af personlige oplysninger](https://portal.office.com/adminportal/home#/settings/security) i Microsoft 365 Admin Center. Vælg **Rediger** ud for **adgangskodepolitik**, og drej **skyderen til til**.
+Hvis du vil indstille ALLE adgangskoder til aldrig at udløbe, skal du gå til siden Beskyttelse af personlige oplysninger for **Indstillinger** > [og Sikkerhed. &amp; ](https://portal.office.com/adminportal/home#/settings/security) Vælg **Rediger** ud for **Adgangskodepolitik**, og slå skyderen til **Til**.
   
-Du finder flere oplysninger under: [angive politikken for udløb af adgangskode for din organisation.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+Du kan finde flere oplysninger i: 
+
+- [Angiv udløbspolitikken for adgangskoden for din organisation.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Indstil adgangskode til aldrig at udløbe for bestemte brugere](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+- [Angiv adgangskode til aldrig at udløbe for bestemte brugere](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+
+- [Adgangskoden skal opfylde kompleksitetskrav](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
