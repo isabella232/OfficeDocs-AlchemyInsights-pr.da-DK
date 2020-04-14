@@ -29,7 +29,7 @@ Hvis dit abonnement udløber eller er blevet deaktiveret af Microsoft, eller hvi
 
 2. Find det abonnement, du vil genaktivere, på siden Produkter og tjenester.
 
-3. I afsnittet Fakturering skal du klikke på **Genaktiver nu**.  Hvis du er i Kort-visning, skal du klikke på ellipsen mellem Navn og Tilgængelig mængde og vælge Genaktiver i menuen. **Bemærk**: Hvis du ikke kan se det abonnement, du leder efter, skal du muligvis justere filteret Abonnementsstatus ved toppen af siden til **Alle**.
+3. Under afsnittet Fakturering skal du klikke på **Genaktiver nu**.  Hvis du er i Kort-visning, skal du klikke på ellipsen mellem Navn og Tilgængelig mængde og vælge Genaktiver i menuen. **Bemærk**! Hvis du ikke kan se det abonnement, du leder efter, skal du muligvis justere filteret Abonnementsstatus ved toppen af siden til **Alle**.
 
 4. Bekræft dine betalingsoplysninger for at opdatere dine eksisterende betalingsoplysninger. Når du er færdig med at angive din betalingsmetode, skal du klikke på **Genaktiver**.
 
@@ -43,10 +43,10 @@ Hvis du vil administrere månedlig eller årlig fakturering, kan du slå Tilbage
 
 2. Vælg det abonnement, som du vil administrere tilbagevendende fakturering for. 
 
-3. Under Fakturering skal du gå til Fornys eller Udløber og klikke på **Rediger**.
+3. Under Fakturering skal du klikke på **Rediger** ud for Fornys den eller Udløber den.
 
 4. I ruden Indstillinger for tilbagevendende fakturering skal du vælge **Slå FRA** for at deaktivere det. Hvis tilbagevendende fakturering allerede er slået fra, skal du klikke på **Månedlig** eller **Én gang** for at aktivere det. 
 
 5. Klik på **Send ændring**.
 
-Du kan få mere at vide under [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Du kan finde flere oplysninger under [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

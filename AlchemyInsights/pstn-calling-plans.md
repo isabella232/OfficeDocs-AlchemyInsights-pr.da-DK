@@ -21,7 +21,7 @@ ms.locfileid: "43154235"
 ---
 # <a name="pstn-calling-plans"></a>PSTN-opkaldsabonnementer
 
-Opkald til andre brugere af Skype for Business og Microsoft Teams er gratis, men hvis dine brugere skal kunne ringe op til almindelige telefoner, og du ikke allerede har en tjenesteudbyder til taleopkald, skal du købe et telefonabonnement. 
+Opkald til andre brugere af Skype for Business og Microsoft Teams er gratis, men hvis dine brugere skal kunne ringe op til almindelige telefoner, og du ikke allerede har en tjenesteudbyder til at foretage taleopkald, skal du købe et opkaldsabonnement. 
 
 - Hvis du vil starte indkøbsprocessen, skal du se [Sådan køber du et opkaldsabonnement](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
 

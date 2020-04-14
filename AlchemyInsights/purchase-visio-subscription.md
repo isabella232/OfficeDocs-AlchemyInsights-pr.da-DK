@@ -24,10 +24,10 @@ Administratorer kan købe Visio-abonnementet til deres organisation fra **Micros
 
 1. Klik på **Fakturering**.
 
-2. Klik på **[Køb tjenester](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** for at få vist tilgængelige abonnementer, du kan købe for din organisation.
+2. Klik på **[Køb tjenester](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** for at få vist tilgængelige abonnementer, du kan købe til din organisation.
 
 3. Find Visio-abonnementer ved at søge efter "Visio".
 
-4. Vælg enten **Visio-abonnement 1** eller **Visio-abonnement 2**. Begge abonnementer tilbyder et månedligt eller årligt abonnement.
+4. Vælg enten **Visio Plan 1** eller **Visio Plan 2**. Begge abonnementer tilbyder et månedligt eller årligt abonnement.
 
-Se [Sammenlign Visio-indstillinger](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) for at få mere at vide om forskellene mellem Visio-abonnement 1 og Visio-abonnement 2. 
+Se [Sammenlign Visio-indstillinger](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) for at få mere at vide om forskellene mellem Visio Plan 1 og Visio Plan 2. 

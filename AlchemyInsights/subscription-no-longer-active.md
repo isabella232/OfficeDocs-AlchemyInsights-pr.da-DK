@@ -28,7 +28,7 @@ Hvis der [vises en meddelelse om abonnement, når et Office 365-program](https:/
 
 2. Find det abonnement, du vil genaktivere, på siden Produkter og tjenester.
 
-3. I afsnittet Fakturering skal du klikke på **Genaktiver nu**.  Hvis du er i Kort-visning, skal du klikke på ellipsen mellem Navn og Tilgængelig mængde og vælge Genaktiver i menuen. **Bemærk**: Hvis du ikke kan se det abonnement, du leder efter, skal du muligvis justere filteret Abonnementsstatus ved toppen af siden til **Alle**.
+3. Under afsnittet Fakturering skal du klikke på **Genaktiver nu**.  Hvis du er i Kort-visning, skal du klikke på ellipsen mellem Navn og Tilgængelig mængde og vælge Genaktiver i menuen. **Bemærk**! Hvis du ikke kan se det abonnement, du leder efter, skal du muligvis justere filteret Abonnementsstatus ved toppen af siden til **Alle**.
 
 4. Bekræft dine betalingsoplysninger for at opdatere dine eksisterende betalingsoplysninger. Når du er færdig med at angive din betalingsmetode, skal du klikke på **Genaktiver**.
 
