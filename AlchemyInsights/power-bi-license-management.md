@@ -20,12 +20,12 @@ ms.locfileid: "43509281"
 ---
 # <a name="power-bi-license-management"></a>Power BI-licensstyring
 
-Power BI-licensstyring kan klares i **Microsoft 365 Administration**.
+Power BI-licensstyring kan udføres i **Microsoft 365 Administration**.
 
-- Hvis du vil **købe** Power BI, skal du gå til **Fakturering** \> **[Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Brug søgefeltet til at søge på "Power BI", og vælg plan samt antallet af brugere. Du kan få mere at vide under [Køb abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan). 
+- Hvis du vil **købe** Power BI, skal du gå til **Fakturering** \> **[Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Brug søgefeltet til at søge efter "Power BI", og vælg en plan samt antallet af brugere. Du kan finde flere oplysninger under [Køb abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan). 
 
-- Hvis du vil **tildele** Power BI-licenser, skal du gå til **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Hvis du vil have mere at vide, skal du se [Tildel licenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide). 
+- Hvis du vil **tildele** Power BI-licenser, skal du gå til **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Du kan finde flere oplysninger under [Tildel licenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide). 
 
-- Hvis du vil **tilføje/fjerne** licenser til Power BI, skal du gå til **Fakturering > [Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Hvis du vil have mere at vide, skal du se [Tilføj/fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
+- Hvis du vil **tilføje/fjerne** licenser for Power BI, skal du gå til **Fakturering > [Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Du kan finde flere oplysninger under [Tilføj/fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
 
-Hvis du vil have mere at vide, skal du se [Administrer abonnementslicenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
+Du kan finde flere oplysninger under [Administrer abonnementslicenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 

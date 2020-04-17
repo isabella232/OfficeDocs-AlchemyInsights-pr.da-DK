@@ -1,5 +1,5 @@
 ---
-title: 'Outlook til stationær pc: Send ikke tilstede-svar'
+title: 'Outlook til stationær pc: Send Fraværende-svar'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,16 +18,16 @@ ms.contentlocale: da-DK
 ms.lasthandoff: 04/14/2020
 ms.locfileid: "43506465"
 ---
-# <a name="outlook-desktop-send-out-of-office-replies"></a>Outlook til stationær pc: Send ikke tilstede-svar
+# <a name="outlook-desktop-send-out-of-office-replies"></a>Outlook til stationær pc: Send Fraværende-svar
 
 **Indstil autosvar i Outlook til stationær pc**
 
-1. Klik på **Filer > Autosvar**. **Bemærk!** I Outlook 2007 skal du vælge klikke på **Værktøjer > Fraværsassistent**.
+1. Klik på **Filer > Autosvar**. **Bemærk!** I Outlook 2007 skal du klikke på **Værktøjer > Fraværsassistent**.
 
 2. I feltet **Autosvar** skal du klikke på **Send autosvar**.
 
 3. Du kan også angive et datointerval for autosvar. Dette vil deaktivere autosvar på datoen og klokkeslættet, du angiver for sluttidspunktet. Ellers skal du deaktivere autosvar manuelt.
 
-**Bemærk!** Hvis du ikke kan se Autosvar-knappen, skal du konfigurere et autosvar ved hjælp af **Regler og beskeder**. Skriv det svar, der skal sendes til teammedlemmer eller medarbejdere, når du ikke er ved computeren, på fanen **I min organisation**. Når du sender autosvar til **alle uden for organisationen**, sendes der autosvar på alle mails, herunder nyhedsbreve, annoncer og potentielt uønsket mail. Hvis du vil sende autosvar til dem uden for organisationen, anbefaler vi, at du vælger **Kun mine kontakter**.
+**Bemærk!** Hvis du ikke kan se Autosvar, skal du konfigurere et autosvar ved hjælp af **Regler og beskeder**. Under fanen **I min organisation** skal du skrive det svar, der skal sendes til teammedlemmer eller kolleger, når du er fraværende. Når du sender autosvar til **alle uden for organisationen**, sendes der autosvar på alle mails, herunder nyhedsbreve, annoncer og potentielt uønsket mail. Hvis du vil sende autosvar til personer uden for organisationen, anbefaler vi, at du vælger **Kun mine kontakter**.
 
 4. Klik på **OK** for at gemme indstillingerne.

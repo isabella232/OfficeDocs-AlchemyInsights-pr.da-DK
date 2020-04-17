@@ -1,5 +1,5 @@
 ---
-title: Indstil autosvar for en postkasse
+title: Indstil autosvar for en brugers postkasse
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: e3cc01298c10fd3ba21327a7fb5cc5396d0ad74d
+ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509488"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43506454"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Indstil autosvar for en brugers postkasse
 
@@ -46,8 +46,6 @@ Kør følgende cmdlet i Exchange Online PowerShell:
 
 PowerShellCopy
 
-```
     Set-MailboxAutoReplyConfiguration
-```
 
 Du kan finde flere oplysninger om denne cmdlet under [Set-MailboxAutoReplyConfiguration](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-mailboxautoreplyconfiguration).
