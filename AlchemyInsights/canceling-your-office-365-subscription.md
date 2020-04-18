@@ -1,5 +1,5 @@
 ---
-title: Hvis du annullerer din Office 365-abonnement?
+title: Annullerer du dit Office 365-abonnement?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,21 +12,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 54872bd5f3053e2ac72552feac122343e5afe54e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 05a20f539fbff1018b2869bc10fe597ff91187ce
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665430"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552555"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Hvis du annullerer din Office 365-abonnement?
+# <a name="canceling-your-office-365-subscription"></a>Annullerer du dit Office 365-abonnement?
 
-Vi er kede af at se dig gå, men hvis du vil opsige dit abonnement, her er dine indstillinger:
+Vi beklager at se dig gå, men hvis du ønsker at annullere dit abonnement, her er dine muligheder:
   
-- Hvis du er kunde prøveversionen, er der intet at annullere. Prøveversionen abonnementer udløber automatisk, medmindre du angiver en betalingsmåde.
+- Hvis du er prøvekunde, er der intet at annullere. Prøveabonnementer udløber automatisk, medmindre du angiver en betalingsmetode.
 
-- Hvis du har færre end 25 tildelte licenser, kan du annullere dit abonnement online. Gå til **Fakturering** \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester. I afsnittet **Indstillinger for & handlinger** ved at vælge **Annuller abonnement**.
+- Hvis du har færre end 25 tildelte licenser, kan du opsige dit abonnement online. Gå til siden **Faktureringsprodukter** \> [& tjenester.](https://go.microsoft.com/fwlink/p/?linkid=842054) Vælg **Annuller abonnement**i sektionen Indstillinger **& handlinger** .
 
-- Hvis du har mere end 25 tildelte licenser, kan du enten fjerne brugere, før du har færre end 25, eller bruge indstillingen "Lad os ringe dig" til at tale med en supporttekniker.
+- Hvis du har mere end 25 tildelte licenser, kan du enten fjerne brugere, indtil du har færre end 25, eller bruge indstillingen "Lad os ringe til dig" for at tale med en supporttekniker.
+  
+**Refusion: Enhver forholdsmæssig kredit vil blive returneret til dig inden for den næste faktureringsperiode.** 
 
-Hvis du vil vide mere, se [annullere abonnementet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Bemærk:** Hvis du ikke kan se muligheden for at annullere, skal du klikke på abonnementet for at se detaljerne, og du bør se indstillingen **Annuller abonnement** i Indstillinger **& Handlinger**. 
+
+Du kan få mere at vide under [Annullere dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
