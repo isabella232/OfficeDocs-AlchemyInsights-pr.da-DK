@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: da-DK
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591493"
+ms.locfileid: "43599383"
 ---
 # <a name="restrict-default-video-upload-permissions"></a><span data-ttu-id="88c0a-102">Begræns standardtilladelser til videooverførsel</span><span class="sxs-lookup"><span data-stu-id="88c0a-102">Restrict default video upload permissions</span></span>
 
