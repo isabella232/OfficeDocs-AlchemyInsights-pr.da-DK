@@ -2,7 +2,7 @@
 title: Installationen hænger eller sidder fast
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 710fc06c37d5c5cd378929a6cc50f7069104eb8f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735419"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763249"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="6d832-102">Office-installationen hænger eller sidder fast</span><span class="sxs-lookup"><span data-stu-id="6d832-102">Office installation hangs or gets stuck</span></span>
+# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="44f9d-102">Office-installation hænger eller sidder fast</span><span class="sxs-lookup"><span data-stu-id="44f9d-102">Office installation hangs or gets stuck</span></span>
 
-<span data-ttu-id="6d832-103">Denne funktionsmåde vises muligvis på grund af netværksforbindelse, antivirussoftware eller Windows Update-indstillinger på computeren.</span><span class="sxs-lookup"><span data-stu-id="6d832-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="6d832-104">Her er nogle ting, du kan prøve for at løse problemet.</span><span class="sxs-lookup"><span data-stu-id="6d832-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="44f9d-103">Du kan muligvis se denne funktionsmåde på grund af netværksforbindelsen, antivirusprogrammet eller Windows Update-indstillingerne på computeren.</span><span class="sxs-lookup"><span data-stu-id="44f9d-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="44f9d-104">Her er nogle ting, du kan prøve for at løse problemet.</span><span class="sxs-lookup"><span data-stu-id="44f9d-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="6d832-105">Genstart computeren, og kontroller, om Office er installeret</span><span class="sxs-lookup"><span data-stu-id="6d832-105">Restart your computer and check if Office Installed</span></span>
+- <span data-ttu-id="44f9d-105">Genstart computeren, og kontroller, om Office er installeret</span><span class="sxs-lookup"><span data-stu-id="44f9d-105">Restart your computer and check if Office Installed</span></span>
 
-- <span data-ttu-id="6d832-106">Brug en kabelforbindelse</span><span class="sxs-lookup"><span data-stu-id="6d832-106">Use a wired connection</span></span>
+- <span data-ttu-id="44f9d-106">Brug af en kabelforbindelse</span><span class="sxs-lookup"><span data-stu-id="44f9d-106">Use a wired connection</span></span>
 
-- <span data-ttu-id="6d832-107">Hvis du bruger en langsom internetforbindelse, skal du installere Office [ved hjælp af Office offline-installationsprogrammet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="6d832-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
+- <span data-ttu-id="44f9d-107">Hvis du har en langsom internetforbindelse, skal du installere Office [ved hjælp af Installationsprogrammet til Office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="44f9d-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
 
-- <span data-ttu-id="6d832-108">Deaktiver antivirussoftware midlertidigt</span><span class="sxs-lookup"><span data-stu-id="6d832-108">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="44f9d-108">Slå antivirussoftware midlertidigt fra</span><span class="sxs-lookup"><span data-stu-id="44f9d-108">Temporarily turn off antivirus software</span></span>
 
-- <span data-ttu-id="6d832-109">Kør onlinereparation fra kontrol panel</span><span class="sxs-lookup"><span data-stu-id="6d832-109">Run online repair from Control Panel</span></span>
+- <span data-ttu-id="44f9d-109">Kør onlinereparation fra Kontrolpanel</span><span class="sxs-lookup"><span data-stu-id="44f9d-109">Run online repair from Control Panel</span></span>
 
-- <span data-ttu-id="6d832-110">Fjern og geninstaller Office</span><span class="sxs-lookup"><span data-stu-id="6d832-110">Remove and reinstall Office</span></span>
+- <span data-ttu-id="44f9d-110">Fjerne og geninstallere Office</span><span class="sxs-lookup"><span data-stu-id="44f9d-110">Remove and reinstall Office</span></span>
 
-[<span data-ttu-id="6d832-111">Office tager lang tid at installere</span><span class="sxs-lookup"><span data-stu-id="6d832-111">Office is taking long to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="44f9d-111">Det tager lang tid at installere Office</span><span class="sxs-lookup"><span data-stu-id="44f9d-111">Office is taking long to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
