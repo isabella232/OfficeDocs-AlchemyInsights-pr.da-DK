@@ -1,9 +1,9 @@
 ---
-title: Hvordan du kan få vist og administrere programmer
+title: Sådan får du vist og administrerer apps
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63c3b42c046efbcae0f509045a8f3e45e49002ac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539491"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717118"
 ---
-# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="a1fc0-102">Hvordan du kan få vist og administrere programmer</span><span class="sxs-lookup"><span data-stu-id="a1fc0-102">How to view and manage apps</span></span>
+# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="3c95c-102">Sådan får du vist og administrerer apps</span><span class="sxs-lookup"><span data-stu-id="3c95c-102">How to view and manage apps</span></span>
 
-<span data-ttu-id="a1fc0-103">Du kan få vist dine programmer i Microsoft 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="a1fc0-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
+<span data-ttu-id="3c95c-103">Du kan se dine apps i Microsoft 365 Administration.</span><span class="sxs-lookup"><span data-stu-id="3c95c-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
 
-1. <span data-ttu-id="a1fc0-104">Gå til **Fakturering**i admin center, > [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.</span><span class="sxs-lookup"><span data-stu-id="a1fc0-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="3c95c-104">Gå til siden **Faktureringsprodukter** > [& tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) i Administration.</span><span class="sxs-lookup"><span data-stu-id="3c95c-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="a1fc0-105">Vælg fanen **Apps** på siden **produkter & tjenester** .</span><span class="sxs-lookup"><span data-stu-id="a1fc0-105">On the **Products & Services** page, select the **Apps** tab.</span></span>
+2. <span data-ttu-id="3c95c-105">Vælg fanen **Apps** på siden **Produkter & Tjenester.**</span><span class="sxs-lookup"><span data-stu-id="3c95c-105">On the **Products & Services** page, select the **Apps** tab.</span></span>

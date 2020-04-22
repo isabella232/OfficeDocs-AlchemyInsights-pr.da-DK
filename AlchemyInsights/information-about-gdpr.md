@@ -2,7 +2,7 @@
 title: Oplysninger om GDPR
 ms.author: pebaum
 author: pebaum
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 5d65ee9d648360c47f400ed2935c118086e8e0c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13b8371f8e8c4afa54f7b33eadbf2f42db6b5eca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499201"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711085"
 ---
-# <a name="information-about-gdpr"></a><span data-ttu-id="3256a-102">Oplysninger om GDPR</span><span class="sxs-lookup"><span data-stu-id="3256a-102">Information about GDPR</span></span>
+# <a name="information-about-gdpr"></a><span data-ttu-id="5ebca-102">Oplysninger om GDPR</span><span class="sxs-lookup"><span data-stu-id="5ebca-102">Information about GDPR</span></span>
 
-- <span data-ttu-id="3256a-103">Introduktion til den [Service Portal tillid.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)</span><span class="sxs-lookup"><span data-stu-id="3256a-103">Get Started with the [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)</span></span>
+- <span data-ttu-id="5ebca-103">Kom i gang med [Portalen for servicetillid.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)</span><span class="sxs-lookup"><span data-stu-id="5ebca-103">Get Started with the [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)</span></span>
 
-- <span data-ttu-id="3256a-104">Alt i forbindelse med **Databehandling aftale** (DPA), gennemse:</span><span class="sxs-lookup"><span data-stu-id="3256a-104">For anything related to **Data Processing Agreement** (DPA), review:</span></span>
+- <span data-ttu-id="5ebca-104">For alt relateret til **databehandlingsaftale** (DPA), gennemgå:</span><span class="sxs-lookup"><span data-stu-id="5ebca-104">For anything related to **Data Processing Agreement** (DPA), review:</span></span>
 
-  - [<span data-ttu-id="3256a-105">Ressourcer til beskyttelse af data</span><span class="sxs-lookup"><span data-stu-id="3256a-105">Data Protection Resources</span></span>](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+  - [<span data-ttu-id="5ebca-105">Ressourcer til databeskyttelse</span><span class="sxs-lookup"><span data-stu-id="5ebca-105">Data Protection Resources</span></span>](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-  - [<span data-ttu-id="3256a-106">Revisionsrapporterne</span><span class="sxs-lookup"><span data-stu-id="3256a-106">Audit Reports</span></span>](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [<span data-ttu-id="5ebca-106">Revisionsrapporter</span><span class="sxs-lookup"><span data-stu-id="5ebca-106">Audit Reports</span></span>](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- <span data-ttu-id="3256a-107">Oplysninger om **Anmodninger om emnet** (DSR) - Oplev, adgang, berigtige, begrænse, slette, eksporten er [her.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)</span><span class="sxs-lookup"><span data-stu-id="3256a-107">Information on **Data Subject Requests** (DSR) - discover, access, rectify, restrict, delete, export is [here.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)</span></span>
+- <span data-ttu-id="5ebca-107">Oplysninger om **registrerede anmodninger** (DSR) - opdage, adgang, rette, begrænse, slette, eksport er [her.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)</span><span class="sxs-lookup"><span data-stu-id="5ebca-107">Information on **Data Subject Requests** (DSR) - discover, access, rectify, restrict, delete, export is [here.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)</span></span>
 
-- <span data-ttu-id="3256a-108">Oplysninger om **Meddelelse om overtrædelse af Data** er [her.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)</span><span class="sxs-lookup"><span data-stu-id="3256a-108">Information on **Data Breach Notification** is [here.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)</span></span>
+- <span data-ttu-id="5ebca-108">Oplysninger om **meddelelse om brud på datasikkerheden** er [her.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)</span><span class="sxs-lookup"><span data-stu-id="5ebca-108">Information on **Data Breach Notification** is [here.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)</span></span>
 
-- <span data-ttu-id="3256a-109">Oplysninger om **placeringer af data** er [her.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)</span><span class="sxs-lookup"><span data-stu-id="3256a-109">Information on **data locations** is [here.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)</span></span>
+- <span data-ttu-id="5ebca-109">Oplysninger om **dataplaceringer** er [her.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)</span><span class="sxs-lookup"><span data-stu-id="5ebca-109">Information on **data locations** is [here.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)</span></span>

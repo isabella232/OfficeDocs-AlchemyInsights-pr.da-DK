@@ -1,5 +1,5 @@
 ---
-title: 711 oprettelse af en distributionsliste eller-gruppe
+title: 711 Oprette en distributionsliste eller -gruppe
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2ce7e4146abe272b2025132c4fc44329abc8d8a0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36740747"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715446"
 ---
-# <a name="create-distribution-groups"></a><span data-ttu-id="81d0d-102">Oprette distributionsgrupper</span><span class="sxs-lookup"><span data-stu-id="81d0d-102">Create distribution groups</span></span>
+# <a name="create-distribution-groups"></a><span data-ttu-id="eacae-102">Opret distributionsgrupper</span><span class="sxs-lookup"><span data-stu-id="eacae-102">Create distribution groups</span></span>
 
-<span data-ttu-id="81d0d-103">Du bruger distributionsgrupper (også kaldet distributionslister) i Office 365 til at levere mails til grupper af personer i og uden for organisationen.</span><span class="sxs-lookup"><span data-stu-id="81d0d-103">You use distribution groups (also known as distribution lists) in Office 365 to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="81d0d-104">At skabe dem er nemt!</span><span class="sxs-lookup"><span data-stu-id="81d0d-104">Creating them is easy!</span></span> <span data-ttu-id="81d0d-105">Du finder en vejledning under [oprette distributionslister i Microsoft 365 administration](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="81d0d-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span></span>
+<span data-ttu-id="eacae-103">Du bruger distributionsgrupper (også kaldet distributionslister) til at levere mails til grupper af personer i og uden for organisationen.</span><span class="sxs-lookup"><span data-stu-id="eacae-103">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="eacae-104">Oprettelse af dem er nemt!</span><span class="sxs-lookup"><span data-stu-id="eacae-104">Creating them is easy!</span></span> <span data-ttu-id="eacae-105">Yderligere oplysninger finder du [i Create distribution lists in the Microsoft 365 Administration](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="eacae-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span></span>
 
-<span data-ttu-id="81d0d-106">**Bemærk**: en administrator skal administrere medlemskabet af en distributionsgruppe.</span><span class="sxs-lookup"><span data-stu-id="81d0d-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="81d0d-107">Hvis du vil have brugerne til at administrere deres egne gruppe medlemskabs lister, kan du overveje [Office 365-grupper](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) i stedet.</span><span class="sxs-lookup"><span data-stu-id="81d0d-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
+<span data-ttu-id="eacae-106">**Bemærk:** En administrator skal administrere medlemskabet af en distributionsgruppe.</span><span class="sxs-lookup"><span data-stu-id="eacae-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="eacae-107">Hvis brugerne skal administrere deres egne gruppemedlemslister, kan det være en god ide at overveje [Office 365-grupper](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) i stedet.</span><span class="sxs-lookup"><span data-stu-id="eacae-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
