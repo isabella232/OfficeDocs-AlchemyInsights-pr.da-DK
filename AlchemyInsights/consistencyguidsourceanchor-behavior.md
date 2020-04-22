@@ -1,9 +1,9 @@
 ---
-title: Funktionsmåde for vilkÃ ¥/Sourceanker
+title: Konsistens- /kildeForankre-funktionsmåde
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8527e7c2404742a999041f85ed12d78c48cc0d8c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36516969"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705727"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>Funktionsmåde for vilkÃ ¥/Sourceanker
+# <a name="consistencyguid--sourceanchor-behavior"></a>Konsistens- /kildeForankre-funktionsmåde
 
-Azure AD Connect (version 1.1.524.0 og After) gør det nu nemmere at bruge msDS--sammen-GUID som sourceAnchor-attribut. Når du bruger denne funktion, konfigurerer Azure AD Connect automatisk synkroniserings reglerne til at:
+Azure AD Connect (version 1.1.524.0 og derefter) letter nu brugen af attributten msDS-ConsistencyGuid som kildeanker. Når du bruger denne funktion, konfigurerer Azure AD Connect automatisk synkroniseringsreglerne til:
   
-- Brug msDS-i-objekt-objektguid som sourceAnchor-attribut for bruger objekter. ObjectGUID bruges til andre objekttyper.
+- Brug msDS-KonsistensGuid som kildeAnkerattribut for Brugerobjekter. ObjectGUID bruges til andre objekttyper.
     
-- I forbindelse med et lokalt AD User-objekt, hvis msDS-konsekvent-GUID-attribut ikke er udfyldt, skriver Azure AD Connect sin objectGUID-værdi tilbage til attributten msDS-sammen-Objekguid i Active Directory i det lokale miljø. Når attributten msDS-sammen-objektguid er udfyldt, eksporterer Azure AD Connect derefter objektet til Azure AD.
+- For et givet lokalt AD-brugerobjekt, hvis msDS-ConsistencyGuid-attribut ikke er udfyldt, skriver Azure AD Connect sin objectGUID-værdi tilbage til attributten msDS-ConsistencyGuid i det lokale Active Directory. Når attributten msDS-ConsistencyGuid er udfyldt, eksporterer Azure AD Connect derefter objektet til Azure AD.
     
- **Bemærk:** Når et annonce objekt i det lokale miljø importeres til Azure AD Connect (som importeres til AD Connector-pladsen og projiceres til metaverse), kan du ikke længere ændre dets sourceAnchor-værdi. Hvis du vil angive sourceAnchor-værdien for et givent annonce objekt i det lokale miljø, skal du konfigurere dens msDS-sammen-objektguid-attribut, før den importeres til Azure AD Connect. 
+ **Bemærk:** Når et lokalt AD-objekt er importeret til Azure AD Connect (dvs. importeret til AD Connector Space og projiceret ind i Metaverse), kan du ikke længere ændre kildenS kildeAnkerværdi. Hvis du vil angive kildeankerværdien for et givet lokalt AD-objekt, skal du konfigurere attributten msDS-ConsistencyGuid, før den importeres til Azure AD Connect. 
   
-Du finder flere oplysninger om SourceAnchor og Vilkencyguid i følgende: [Azure ad Connect: design koncepter](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Du kan finde flere oplysninger om SourceAnchor og ConsistencyGuid i følgende: [Azure AD Connect: Designkoncepter](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

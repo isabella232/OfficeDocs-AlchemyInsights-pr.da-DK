@@ -1,9 +1,9 @@
 ---
-title: Skift lagerkvote for OneDrive for Business
+title: Ændre lagerkvoten for OneDrive for Business
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: cd774b8b5a046d946aeefd6a0473a05d8afd9b36
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3a8278954b6d9ad475bf4e7d403672ad483af04a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050195"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706713"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Ændre OneDrive-standard lagerpladsen for dine brugere
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Ændre standardlagerpladsen for OneDrive for dine brugere
 
-1. Gå til [lagrings siden i OneDrive administration](https://admin.onedrive.com/?v=StorageSettings).
+1. Gå til [siden Lager i OneDrive Administration](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Angiv standardlager beløbet (i GB) i feltet **standardlager** , og klik derefter på **Gem**.
+2. Angiv standardlagerbeløbet (i GB) i feltet **Standardlager,** og klik derefter på **Gem**.
     
-Denne indstilling for lagerplads gælder for alle brugere, som du ikke har angivet specifikke lagringsgrænser for. Hvis du vil ændre lagerplads for bestemte brugere, skal du bruge Microsoft PowerShell. Du kan finde oplysninger om, hvordan du gør dette, under [ændre brugernes OneDrive-lagerplads ved hjælp af PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Denne pladsindstilling gælder for alle brugere, som du ikke har angivet specifikke lagergrænser for. Hvis du vil ændre lagerpladsen for bestemte brugere, skal du bruge Microsoft PowerShell. Du kan finde flere oplysninger om, hvordan du gør dette, under [Ændre brugernes OneDrive-lagerplads ved hjælp af PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

@@ -1,9 +1,9 @@
 ---
-title: Søg efter e-mail i arkivet postkasse
+title: Søg efter mail i arkivpostkassen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 3b6c15fccd375324583bf8249ad42879306a258c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551589"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709257"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Søg efter e-mail i postkassen arkiv
+# <a name="search-for-email-in-the-archive-mailbox"></a>Søge efter mail i arkivpostkassen
 
-Når en postkasse for arkiv er aktiveret for Office 365, kan du bruge **eksport og eDiscovery Søg** til at finde indhold i både primær- og arkiv-postkasse. Oplysninger om brug af **eDiscovery eksportere Søg** til at finde indholdet, skal du følge den fremgangsmåde beskrevet [her](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Når en arkivpostkasse er aktiveret til Microsoft 365, kan du bruge **eDiscovery Search and Export** til at finde indhold i både postkassen Primær og Arkiv. Du kan finde oplysninger om, hvordan du bruger **eDiscovery Search Export** til at finde det pågældende indhold, ved at følge de trin, der er beskrevet [her.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
   
-Du kan også bevare indholdet ved at tilføje postkassen til en opbevaringspolitik. Dette placerer indhold i både primær- og arkiv postkasse på en venteposition. Finde flere oplysninger om oprettelse af opbevaringspolitikker for at bevare e-mail den fremgangsmåde beskrevet [her](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
+Du kan også bevare indholdet ved at føje postkassen til en opbevaringspolitik. Dette vil sætte indhold i både postkassen Primær og Arkiv i venteposition. Du kan finde flere oplysninger om oprettelse af opbevaringspolitikker for at bevare mails i de trin, der er beskrevet [her](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
   

@@ -1,9 +1,9 @@
 ---
-title: Kontroller status for AAD-identitets synkronisering
+title: Kontrollere status for AAD-identitetssynkronisering
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182ca2525f428bf3b11513410b3f82ca64f230a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738515"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706303"
 ---
-# <a name="check-aad-identity-sync-status"></a>Kontroller status for AAD-identitets synkronisering
+# <a name="check-aad-identity-sync-status"></a>Kontrollere status for AAD-identitetssynkronisering
 
 Det er nemt at kontrollere synkroniseringsstatus:
   
-- Log på Microsoft 365 administration, og vælg **DirSync-status** på startsiden.
+- Log på Microsoft 365 Administration, og vælg **DirSync-status** på startsiden.
 
-- Alternativt kan du gå til brugere \> af aktive brugere, og på siden aktive brugere skal du vælge mere \> Katalogsynkronisering.
+- Alternativt kan du gå \> til Aktive brugere, og på siden \> Aktive brugere skal du vælge Mere katalogsynkronisering.
 
-- Vælg gå til DirSync Management i ruden Katalogsynkronisering.
+- Vælg Gå til DirSync-administration i ruden Katalogsynkronisering.
 
-Hvis der er problemer med katalogsynkroniseringen, vises fejlene på denne side. Du kan finde flere oplysninger om de forskellige fejl, der opstår, under [få vist fejl i Katalogsynkronisering i Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Hvis der er problemer med katalogsynkroniseringen, vises fejlene på denne side. Yderligere oplysninger om forskellige fejl, du kan støde på, finder du i [View directory synchronization errors](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

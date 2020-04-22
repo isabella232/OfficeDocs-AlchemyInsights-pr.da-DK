@@ -1,9 +1,9 @@
 ---
-title: 9000198 Outlook.com kalender beta
+title: 9000198 Outlook.com Kalender Beta
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: 9355093f45b34d7da5d0920c6afca1438adbc940
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36821976"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710869"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nye kalender oplevelser, som kommer til Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nye kalenderoplevelser kommer til Outlook.com
 
-Det nye look bringer de bedste designs og erfaringer fra mail oplevelsen til kalenderen.
+Det nye look bringer de bedste designs og erfaringer fra Mail-oplevelsen til kalenderen.
 
-Du vil nyde et moderne design, der reducerer visuelt rod og giver dig hurtigere måder at navigere i din kalender på. Det er også nemmere at finde interessante kalendere til dine yndlingsaktiviteter – fra TV-shows til sportshold og events.
+Du får et moderne design, der reducerer visuelt rod og giver dig hurtigere måder at navigere i din kalender på. Det er også nemmere at finde interessante kalendere til dine yndlingsaktiviteter – fra tv-udsendelser til sportshold og begivenheder.
 
-Vi har udvidet vores samling af begivenheds ikoner og opdateret udseendet og fornemmelsen af eksisterende – og vi tilføjer nu automatisk relevante ikoner til dine begivenheder, så du nemt kan se, hvad der foregår på et øjeblik.
+Vi har udvidet vores samling af begivenhedsikoner og opdateret udseendet og funktionaliteten af eksisterende – og vi føjer nu automatisk relevante ikoner til dine begivenheder, så du nemt kan se, hvad der foregår på et øjeblik.
 
-Du kan give feedback på nye funktioner via [Outlook.com calendar UserVoice Channel](https://go.microsoft.com/fwlink/?linkid=2103075).
+Du kan give feedback på nye funktioner via [Outlook.com Kalender UserVoice-kanal](https://go.microsoft.com/fwlink/?linkid=2103075).

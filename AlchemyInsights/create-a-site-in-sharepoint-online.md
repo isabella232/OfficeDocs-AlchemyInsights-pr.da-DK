@@ -1,9 +1,9 @@
 ---
 title: Oprette et websted i SharePoint Online
 ms.author: stevhord
-author: spowriter
+author: pebaum
 manager: scotv
-ms.date: 5/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4bee3969290f2c910706f36bc11c769747fe5460
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36515894"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705511"
 ---
 # <a name="create-a-site"></a>Oprette et websted
 
-Du kan oprette forskellige typer websteder i SharePoint Online. Du kan få mere at vide om, hvordan du gør det i det nye SharePoint administration, under [oprette et websted](https://go.microsoft.com/fwlink/?linkid=866295). Du kan finde oplysninger om, hvordan brugere kan oprette deres egne websteder, under [administrere oprettelse af websteder i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Du kan oprette forskellige typer websteder i SharePoint Online. Hvis du vil have mere at vide om, hvordan du gør dette i den nye SharePoint Administration, skal du se [Oprette et websted](https://go.microsoft.com/fwlink/?linkid=866295). Du kan finde oplysninger om, hvordan du giver brugerne mulighed for at oprette deres egne websteder, under [Administrere oprettelse af websteder i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
  
-Du kan finde oplysninger om de nye webstedstyper under [gruppere tilknyttede teamwebsteder](https://go.microsoft.com/fwlink/?linkid=866292) eller [Kommunikationswebsteder](https://go.microsoft.com/fwlink/?linkid=866294).
+Du kan finde oplysninger om de nye webstedstyper under [Gruppere forbundne teamwebsteder](https://go.microsoft.com/fwlink/?linkid=866292) eller [kommunikationswebsteder](https://go.microsoft.com/fwlink/?linkid=866294).
     
 
 

@@ -1,9 +1,9 @@
 ---
-title: Skrifttype formateringsproblemer i Excel 2016
+title: Problemer med skrifttypeformatering i Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 476a6ad39a16880e9513012a33efd4bec1f89efd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051959"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708633"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Skrifttype formateringsproblemer i Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemer med skrifttypeformatering i Excel
 
-I Excel 2016 vises skrifttypeformateringen muligvis ikke korrekt i en celle. Dette kan ske, hvis en celle indeholder mere end én type skrifttype formatering. For eksempel hvis nogle tegn er fed, og andre ikke er fed, kan du ikke se det dristige format vises. Eller hvis du har forskellige farvede tegn i den samme celle, kan du muligvis ikke se farverne vist korrekt. Vores ingeniør team er klar over dette problem og arbejder i øjeblikket på en rettelse. I mellemtiden kan du prøve at bruge en anden skrifttype. Eller prøv at undgå at bruge flere former for formatering i samme celle, indtil problemet er løst.
+I Excel 2016 vises skrifttypeformateringen muligvis ikke korrekt i en celle. Dette kan ske, hvis en celle indeholder mere end én type skrifttypeformatering. Hvis nogle tegn f.eks. Eller hvis du har forskellige farvede tegn i den samme celle, kan du muligvis ikke se farverne blive vist korrekt. Vores tekniske team er opmærksom på dette problem og arbejder i øjeblikket på en løsning. I mellemtiden kan du prøve at bruge en anden skrifttype. Eller prøv at undgå at bruge flere former for formatering i den samme celle, indtil problemet er løst.
   

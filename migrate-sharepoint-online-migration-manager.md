@@ -1,9 +1,9 @@
 ---
-title: Migrering til SharePoint Online via migrerings styring
+title: Overførsel til SharePoint Online via Overførselsstyring
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964108"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707181"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrering til SharePoint Online via migrerings styring
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Overførsel til SharePoint Online via Overførselsstyring
 
-Migrerings lederen, som er placeret i det moderne SharePoint-administrations Center, guider dig gennem opsætningen af dine kunder og oprettelsen af dine opgaver. Du kan angive indstillinger for globalt eller opgaveniveau, få vist status for alle opgaver og hente aggregerede opsummerings-og opgaveniveau rapporter.
+Overførselsstyring findes i det moderne SharePoint Administrationscenter og guider dig gennem opsætningen af dine klienter og oprettelse af dine opgaver. Du kan angive indstillinger for globale niveauer eller opgaveniveauer, få vist all-up opgavefremdrift og hente aggregerede hoved- og opgaveniveaurapporter.
 
-* [Introduktion til overførselsstyring](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Installation af migrerings styring-klienter](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Indstillinger for overførselsstyring](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Introduktion til Overførselsstyring](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Konfiguration af klienter til Overførselsstyring](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Indstillinger for Overførselsstyring](https://docs.microsoft.com/sharepointmigration/mm-settings)

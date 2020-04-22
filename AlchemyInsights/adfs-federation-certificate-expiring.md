@@ -1,9 +1,9 @@
 ---
-title: ADFS Federation-certifikat udløber
+title: Udløb af ADFS-sammenslutningscertifikat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 14e7da6220dfa96edca5d9ec5c32e003480a9eaf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737183"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710401"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS Federation-certifikat udløber
+# <a name="adfs-federation-certificate-expiring"></a>Udløb af ADFS-sammenslutningscertifikat
 
 Du kan lÃ ̧se problemet ved at fÃ ̧lge disse trin:
   
-1. Installer Microsoft Azure Active Directory-modulet til Windows PowerShell på computeren (hvis modulet ikke allerede er installeret). Det kan du gøre ved at gå til [Administrer Azure ad ved hjælp af Windows PowerShell](https://aka.ms/aadposh).
+1. Installer Microsoft Azure Active Directory Module til Windows PowerShell på computeren (hvis modulet ikke allerede er installeret). Det kan du gøre ved at gå til [Administrer Azure AD ved hjælp af Windows PowerShell](https://aka.ms/aadposh).
 
-2. Følg trinnene i afsnittet "scenarie 1: AD FS-token-signeringscertifikat udløbet" i ["der opstod et problem med at få adgang til webstedet" fra ad FS, når en federated bruger logger på Office 365, Azure eller Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Følg trinnene i afsnittet "Scenario 1: Ad FS-tokensigneringscertifikatet er udløbet" i afsnittet ["Der opstod et problem med at få adgang til webstedet" fra AD FS, når en bruger i organisationsnetværket logger på Microsoft 365, Azure eller Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. Følg trinnene i [opdatere eller reparere indstillingerne for et Fødereret domæne i Office 365, Azure eller Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
+3. Følg trinnene i [Opdater, eller reparer indstillingerne for et domæne i organisationsnetværk i Microsoft, Azure eller Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    Du kan få mere at vide om fornyelse af organisations certifikater i [forny organisations certifikater til Office 365 og Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Hvis du vil have mere at vide om fornyelse af sammenslutningscertifikater, skal du se [Forny sammenslutningscertifikater for Microsoft 365 og Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

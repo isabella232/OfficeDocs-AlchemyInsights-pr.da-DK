@@ -1,9 +1,9 @@
 ---
-title: 123, få en konto deaktiveret fejl i Outlook Web Access?
+title: 123 Få en konto deaktiveret fejl i OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 1972f12cdf2b6ce5ae4e4bdd458a220e2cfc1a18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dbea425a8df14a07152dbcb36a40303a8cb821cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523937"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708861"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Fejl i Outlook på internettet, få en konto deaktiveret?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Får du en fejl med deaktiveret konto i Outlook på internettet?
 
-Hvis du får fejlen **din konto er blevet deaktiveret** med `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` , når du forsøger at åbne Outlook på internettet (tidligere kendt som Outlook Web App), din organisation admin kan have deaktiveret din adgang til Outlook på internettet. Administratoren kan rette fejlen ved at følge trinnene i emnet, der [aktiverer eller deaktiverer Outlook Web App til en postkasse](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Hvis du får den fejl Din `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` konto er blevet **deaktiveret,** når du forsøger at åbne Outlook på internettet (tidligere kendt som Outlook Web App), kan din organisationsadministrator have deaktiveret din adgang til Outlook på internettet. Din administrator kan rette denne fejl ved at følge trinnene i emnet [Aktiver eller deaktivere Outlook Web App for en postkasse](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).

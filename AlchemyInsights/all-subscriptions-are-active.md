@@ -1,9 +1,9 @@
 ---
-title: Alle abonnementer er aktiv
+title: Alle abonnementer er aktive
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708241"
 ---
-# <a name="all-subscriptions-are-active"></a>Alle abonnementer er aktiv
+# <a name="all-subscriptions-are-active"></a>Alle abonnementer er aktive
 
-Abonnementer er aktiv. Dette kan bekræftes ved at gå til **Fakturering** \> [abonnement](https://go.microsoft.com/fwlink/p/?linkid=842054) . Dine abonnementer sorteres efter status med aktive abonnementer øverst. Yderligere oplysninger, såsom licens antal og betaling metode kan ses ved at vælge abonnementet.
+Dine abonnementer er aktive. Dette kan bekræftes ved at gå til siden \> [Faktureringsabonnementer.](https://go.microsoft.com/fwlink/p/?linkid=842054) **Billing** Dine abonnementer er sorteret efter status med Aktive abonnementer øverst. Yderligere oplysninger, f.eks.
   
-Hvis du har problemer med tjenesten, kan du bruge indstillingen "Lad os ringe dig" til at tale med en supporttekniker.
+Hvis du har problemer med din tjeneste, kan du bruge indstillingen "Lad os ringe til dig" for at tale med en supporttekniker.

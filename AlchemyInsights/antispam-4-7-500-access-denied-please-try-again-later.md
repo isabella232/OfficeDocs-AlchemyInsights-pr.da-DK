@@ -1,9 +1,9 @@
 ---
-title: 1051 antispam 4.7.500 nægtet adgang, prøv igen senere
+title: 1051 Antispam 4.7.500 Adgang nægtet, prøv igen senere
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: b9c75542378f64cdc4765c22f398e43b5523f2e1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 550b5ceadb2abcd0fea7e352b988bc740235722c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517133"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707977"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 adgang nægtet, prøv igen senere
+# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 Adgang nægtet, prøv igen senere
 
-Denne fejl opstår, når e-mail-trafik fra IP-kildeadresse, overstiger den grænse, der er baseret på omdømme (eller mangel på omdømme) af kildens IP-adresse.
+Denne fejl opstår, når mængden af e-mail-trafik fra kildens IP-adresse overskrider grænsen baseret på kildens IP-adresses omdømme (eller manglende omdømme).
 
-Blokere e-mail fra kildens IP-adresse udløber inden for en time. Hvis kilde-IP-adresse er en lokal e-mail-server, der tilhører dig, kan du kontrollere konfigurationen af flow mail connector. Hvis problemet fortsætter i mere end en time, kan du kontakte support for at anmode om en undtagelse for kilde-IP-adresse.
+Blokering af e-mail fra kildens IP-adresse udløber inden for en time. Hvis kilde-IP-adressen er en lokal mailserver, der tilhører dig, skal du kontrollere konfigurationen af mailflowforbindelsen. Hvis problemet fortsætter i mere end en time, skal du kontakte support for at anmode om en undtagelse for kildens IP-adresse.

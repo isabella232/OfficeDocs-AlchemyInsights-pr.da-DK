@@ -3,7 +3,7 @@ title: 8000006 Skift profilnavn i Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: 597d8ca1a468b2620f97d3c4a0a2a3ebf5e8df00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 71ccabc7b4e75d462d59dcfd4907aedafeacad4b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518789"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706591"
 ---
-# <a name="change-your-profile-name"></a>Ændre profilnavnet på din
+# <a name="change-your-profile-name"></a>Ændre dit profilnavn
 
-1. Gå til [din Microsoft-kontooplysninger](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Gå til [Dine Microsoft-kontooplysninger](https://go.microsoft.com/fwlink/p/?linkid=860841).
     
-2. Klik på **Rediger navn**. 
+2. Vælg **Rediger navn**. 
     
-3. Angiv et fornavn og efternavn, og vælg **Gem**. 
+3. Skriv et fornavn og efternavn, og vælg **Gem**. 
     
-Der kan gå op til 24 timer efter ændringer i dit profilnavn kan træde i kraft.
+Der kan gå op til 24 timer, før ændringer af dit profilnavn træder i kraft.
   
-Hvis du vil vide mere, se [ændre dit profilbillede eller navn i Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).
+Hvis du vil have mere at vide, skal du se [Ændre dit profilbillede eller navn i Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).
   
 

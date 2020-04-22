@@ -1,5 +1,5 @@
 ---
-title: AntiSpam 5.4.1 DBEB catch-alle
+title: AntiSpam 5.4.1 DBEB catch-all
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: 4f531a063d63aff239ef7dead869bb526e17fb35
-ms.sourcegitcommit: 2591e1f56e8943bddb9d3b77ba5b494ac49d4f30
+ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38672427"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707905"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Løs problemer med levering af fejlkode 550 5.4.1 relæ adgang nægtet
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Løs leveringsproblemer for fejlkode 550 5.4.1 Relay Access Denied
 
-Dette problem opstår, når du [tjekker, om en e-mail-adresse er gyldig for at forhindre tilbageslag](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) , når du indtaster Office 365-netværket. Prøv følgende:
+Dette problem opstÃ¥r, [nÃ¥r du kontrollerer, om en mailadresse er gyldig for at forhindre afvisninger,](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) nÃ¥r du kommer ind i Microsoft-netværket. Prøv følgende:
 
-1. Bestem, om problemet er specifikt for et helt domæne eller en enkelt e-mail-adresse:
-    - Hele domænet: nogle gange skal domænet synkroniseres. Prøv at [indstille domænet til internt og derefter tilbage til autoritativ](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Enkelt e-mail-adresse: nogle gange skal adressen synkroniseres. Det kan hjælpe at ændre SMTP-proxyadressen og derefter ændre den igen.
+1. Find ud af, om problemet er specifikt for et helt domæne eller en enkelt mailadresse:
+    - Hele domænet: Nogle gange skal domænet synkroniseres. prøv [at indstille domænet til Intern og derefter tilbage til Autoritativ](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Enkelt e-mail-adresse: Nogle gange skal adressen synkroniseres. ændre smtp proxy-adresse og derefter ændre det tilbage kan hjælpe.
 2. Find ud af, om problemet er specifikt for en gruppe eller en offentlig mappe. For nogle objekttyper skal objekterne muligvis oprettes manuelt i Azure Active Directory.
 
-Hvis du har brug for yderligere hjælp, skal du åbne en support billet og angive omfanget af problemet (Inkluder den type objekt, du sender til), så vi kan hjælpe dig bedre.
+Hvis du har brug for yderligere hjælp, skal du åbne en supportbillet og angive problemets omfang (herunder den type objekt, du sender til), så vi kan hjælpe dig bedre.

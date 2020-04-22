@@ -1,5 +1,5 @@
 ---
-title: Overholdelse af kommunikation
+title: Overholdelse af kommunikationsregler
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274854"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706159"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Overholdelse af kommunikation i Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Overholdelse af kommunikationsregler i Microsoft 365
 
-Kommunikations overholdelse er en ny Microsoft 365-overholdelses løsning, der hjælper virksomheder med at opfylde tilsynsmæssige overholdelseskrav og minimere kommunikations risici. Den er baseret på overvågningsfunktionen i Office 365 og indeholder nye forbedringer, herunder:
+Overholdelse af kommunikationsregler er en ny Microsoft 365-overholdelsesløsning, der hjælper organisationer med at opfylde kravene til overholdelse af tilsynet og minimere kommunikationsrisici. Den er baseret på overvågningsfunktionen og indeholder nye forbedringer, herunder:
 
-- Intelligente skabeloner, som kan tilpasses
-- Fleksible arbejdsgange for afhjælpning
-- Handlingsrettede indblik
+- Intelligente skabeloner, der kan tilpasses
+- Fleksible afhjælpningsarbejdsprocesser
+- Indsigt, der kan handles på
 
-Hvis du i øjeblikket bruger [overvågningspolitikker i Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), anbefaler vi, at du nu bruger den nye kommunikations overensstemmelse til at håndtere lovmæssige behov.
+Hvis du i øjeblikket bruger [overvågningspolitikker](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), anbefaler vi, at du nu bruger den nye overholdelse af kommunikation til at imødekomme lovmæssige behov.
 
-Se [Konfigurer kommunikations overholdelse](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)for at konfigurere kommunikations overholdelse.
+Hvis du vil konfigurere overholdelse af kommunikationsstandarder, skal du se [Konfigurere overholdelse af kommunikationsregler](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-Hvis du vil undersøge, gennemgå og afhjælpe kommunikations overholdelse, skal du se [undersøge og afhjælpe advarsler om kommunikations overholdelse](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Hvis du vil undersøge, gennemgå og afhjælpe overholdelse af kommunikationsregler, skal du se [Undersøge og afhjælpe advarsler om overholdelse af kommunikationsregler](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
 
-Du finder en oversigt over kommunikations overholdelsesfunktionen [i kommunikation Compliance i Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Du kan finde en oversigt over funktionen til overholdelse af kommunikationsregler [under Overholdelse af kommunikationsregler i Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-Licenskrav: brugere, som overvåges af kommunikationspolitikker, skal have en af følgende:
+Licenskrav: Brugere, der overvåges af kommunikationspolitikker, skal have et af følgende:
 
-- Microsoft 365 E5-overholdelses licens
-- Office 365 Enterprise E3-licens med tilføjelsesprogrammet avanceret overholdelse
+- Microsoft 365 E5 Overholdelseslicens
+- Office 365 Enterprise E3-licens med tilføjelsesprogrammet Avanceret overholdelse
 - Office 365 Enterprise E5-abonnement
 
-Hvis du ikke har nogen af ovenstående og vil prøve at overholde kommunikationen, **[kan du tilmelde dig en prøveversion af Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Hvis du ikke har noget af ovenstående og vil prøve at overholde kommunikationsreglerne, skal **[du tilmelde dig en prøveversion af Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.

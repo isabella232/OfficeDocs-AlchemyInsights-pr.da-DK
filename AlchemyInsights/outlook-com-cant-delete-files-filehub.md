@@ -1,9 +1,9 @@
 ---
-title: Kan ikke slette fotos eller filer fra filer i Outlook.com
+title: Billeder eller filer fra filer i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 15ef1ea577b95bdb965d66c6d0cfa81afd6be252
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ef46e7287e0915fc70857904a44dd802cba6271
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548061"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710761"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Kan ikke slette filer eller billeder fra filer
+# <a name="cant-delete-files-or-photos-from-files"></a>Filer eller fotos fra filer kan ikke slettes
 
-I Outlook.com viser **filer** , filer og fotos, der er vedhæftet meddelelser i postkassen. Hvis du vil fjerne filer og billeder fra filer, skal du slette de e-mail-meddelelser, som de er knyttet til. Når du sletter meddelelser, skal du også slette dem fra mappen Slettet post.
+I Outlook.com viser **Filer** de filer og fotos, der er vedhæftet meddelelser i postkassen. Hvis du vil fjerne filer og billeder fra Filer, skal du slette de mails, de er vedhæftet. Når du har slettet meddelelserne, skal du også slette dem fra mappen Slettet post.
 
-Hvis du vil vide mere, Læs, [hvordan du sletter filer eller billeder i Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Du kan få mere at vide ved [at læse Sådan slettes filer eller fotos i Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).

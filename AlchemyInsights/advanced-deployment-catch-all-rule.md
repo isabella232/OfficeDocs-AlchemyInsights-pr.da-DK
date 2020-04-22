@@ -1,8 +1,8 @@
 ---
-title: Reglen avanceret implementeringshentning
+title: Avanceret installation fang alle regler
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 08171914804f3e13a4a7e3ee90662af61034c141
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770777"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710905"
 ---
 # <a name="deploy-office-apps"></a>Installere Office-apps
 
-Hvis du vil installere Office-apps på flere slutbrugere via Office Deployment Tool, Microsoft Endpoint Configuration Manager, som en del af et operativsystemdiskbillede eller i et delt computerscenarie ved hjælp af Windows Server med RDS (Remote Desktop Services) eller Terminal Services, kan du overveje at bruge trin for trin-vejledningen i **Office 365 ProPlus-installationsrådgiveren**.
+Hvis du vil installere Office-apps til flere slutbrugere via Office Deployment Tool, Microsoft Endpoint Configuration Manager, som en del af en diskafbildning af operativsystemet eller i et delt computerscenarie ved hjælp af Windows Server med RDS (Remote Desktop Services) eller Terminal Services, kan du overveje at bruge vejledningen trin for trin i **Microsoft 365 Apps for Enterprise Deployment Advisor**.
   
-For at komme i gang skal du sørge for, at du er [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)logget ind som lejeradministrator eller global administrator, og derefter klikke her: .
+For at komme i gang skal du sørge for, at du er [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)logget på som lejeradministrator eller global administrator, og derefter klikke her: .
   
