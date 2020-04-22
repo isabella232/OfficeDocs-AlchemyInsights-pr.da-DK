@@ -3,7 +3,7 @@ title: Kredit/refusion
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 7/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 72b765ddd33d01be03c5dbd44600670fd26e5370
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 717e6e7547c9b60d9ddc490f66bcc4b689bbb2ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389206"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705295"
 ---
-# <a name="creditrefund"></a><span data-ttu-id="21336-102">Kredit/refusion</span><span class="sxs-lookup"><span data-stu-id="21336-102">Credit/refund</span></span>
+# <a name="creditrefund"></a><span data-ttu-id="10ac3-102">Kredit/refusion</span><span class="sxs-lookup"><span data-stu-id="10ac3-102">Credit/refund</span></span>
 
-<span data-ttu-id="21336-103">**Annullering**</span><span class="sxs-lookup"><span data-stu-id="21336-103">**Cancellation**</span></span>
+<span data-ttu-id="10ac3-103">**Annullering**</span><span class="sxs-lookup"><span data-stu-id="10ac3-103">**Cancellation**</span></span>
   
-<span data-ttu-id="21336-104">Når opsige et abonnement, modtager du en endelig faktura med kredit forfalder på datoen for den næste fakturering.</span><span class="sxs-lookup"><span data-stu-id="21336-104">When cancelling a subscription, you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="21336-105">Dette kan tage op til 30 dage fra den dato, hvor abonnementet blev annulleret.</span><span class="sxs-lookup"><span data-stu-id="21336-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
+<span data-ttu-id="10ac3-104">Når du annullerer et abonnement, modtager du en endelig faktura med en kredit, der forfalder på den næste faktureringsdato.</span><span class="sxs-lookup"><span data-stu-id="10ac3-104">When cancelling a subscription, you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="10ac3-105">Det kan tage op til 30 dage at modtage fra den dato, hvor abonnementet blev annulleret.</span><span class="sxs-lookup"><span data-stu-id="10ac3-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
   
-<span data-ttu-id="21336-106">**Sæde ændring**</span><span class="sxs-lookup"><span data-stu-id="21336-106">**Seat Change**</span></span>
+<span data-ttu-id="10ac3-106">**Ændring af sæde**</span><span class="sxs-lookup"><span data-stu-id="10ac3-106">**Seat Change**</span></span>
   
-<span data-ttu-id="21336-107">Når licenser er fjernet fra et abonnement, anvendes den uudnyttede tid på disse licenser som en kreditpost på næste faktura.</span><span class="sxs-lookup"><span data-stu-id="21336-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="21336-108">Dette kan tage op til 30 dage fra den dato, hvor licenserne er fjernet.</span><span class="sxs-lookup"><span data-stu-id="21336-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>
+<span data-ttu-id="10ac3-107">Når licenser fjernes fra et abonnement, anvendes den ubrugte tid på disse licenser som en kredit på den næste faktura.</span><span class="sxs-lookup"><span data-stu-id="10ac3-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="10ac3-108">Det kan tage op til 30 dage at modtage fra den dato, hvor licenserne fjernes.</span><span class="sxs-lookup"><span data-stu-id="10ac3-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>

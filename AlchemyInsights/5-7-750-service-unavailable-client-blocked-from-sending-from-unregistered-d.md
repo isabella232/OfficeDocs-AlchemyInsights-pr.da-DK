@@ -1,9 +1,9 @@
 ---
-title: 1048 5.7.750 tjenesten er ikke tilgængelig. Klient, der er blokeret fra at sende fra ikke-registrerede domæner
+title: 1048 5.7.750 Tjenesten er ikke tilgængelig. Klienten blokeret fra afsendelse fra ikke-registrerede domæner
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 7126b4de7f7d8861afdb22af2540d6910c1d014f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494449"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676707"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="a55d2-103">5.7.750 klient, der er blokeret fra at sende fra ikke-registrerede domæne</span><span class="sxs-lookup"><span data-stu-id="a55d2-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a><span data-ttu-id="d4934-103">5.7.750 Klient en blokeret fra at sende fra ikke-registreret domæne</span><span class="sxs-lookup"><span data-stu-id="d4934-103">5.7.750 Client blocked from sending from unregistered domain</span></span>
 
-<span data-ttu-id="a55d2-104">Fejlen opstår, når en stor mængde meddelelser, der sendes fra domæner, der ikke er klargjort i Office 365 (tilføjet som accepterede domæner og valideret).</span><span class="sxs-lookup"><span data-stu-id="a55d2-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in Office 365 (added as accepted domains and validated).</span></span>
+<span data-ttu-id="d4934-104">Fejlen opstår, når en stor mængde meddelelser sendes fra domæner, der ikke er klargjort i din lejer (tilføjet som accepterede domæner og valideret).</span><span class="sxs-lookup"><span data-stu-id="d4934-104">The error occurs when a large volume of messages are sent from domains that aren't provisioned in your tenant (added as accepted domains and validated).</span></span>
 
-<span data-ttu-id="a55d2-105">Hvis du vil undgå denne fejl, kan du bruge et certifikat-baseret e-mail flow-stik, hvor certifikatets domæne er en klargjort domæne, eller du kan klargøre alle sender domæner.</span><span class="sxs-lookup"><span data-stu-id="a55d2-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>
+<span data-ttu-id="d4934-105">Hvis du vil undgå denne fejl, kan du bruge en certifikatbaseret mailflowforbindelse, hvor certifikatets domæne er et klargjort domæne, eller du kan klargøre alle afsendende domæner.</span><span class="sxs-lookup"><span data-stu-id="d4934-105">To avoid this error, you can use a certificate-based mail flow connector where the certificate's domain is a provisioned domain, or you can provision all sending domains.</span></span>

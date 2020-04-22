@@ -1,9 +1,9 @@
 ---
-title: Sådan tilpasses tilladelser til en SharePoint-liste eller et bibliotek
+title: Sådan tilpasses tilladelser for en SharePoint-liste eller et SharePoint-bibliotek
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: cf52bddd0a3b8e1f46c4ec58ad5bd15457f0c964
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 8d0e960c8404297a971c3f96c29628f8dd25f1af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922155"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705187"
 ---
-# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="c3409-102">Sådan tilpasses tilladelser til en SharePoint-liste eller et bibliotek</span><span class="sxs-lookup"><span data-stu-id="c3409-102">How to customize permissions for a SharePoint list or library</span></span>
+# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="7dda6-102">Sådan tilpasses tilladelser for en SharePoint-liste eller et SharePoint-bibliotek</span><span class="sxs-lookup"><span data-stu-id="7dda6-102">How to customize permissions for a SharePoint list or library</span></span>
 
-<span data-ttu-id="c3409-103">Som administrator eller ejer af et bibliotek, en liste eller en undersøgelse kan du ændre tilladelser for at lade en gruppe personer få adgang til de data, de har brug for, mens de begrænser andre.</span><span class="sxs-lookup"><span data-stu-id="c3409-103">As an administrator or owner of a library, list, or survey, you can change permissions to let one group of people access the data they need while restricting others.</span></span>
+<span data-ttu-id="7dda6-103">Som administrator eller ejer af et bibliotek, en liste eller en undersøgelse kan du ændre tilladelser, så en gruppe personer kan få adgang til de data, de har brug for, samtidig med at andre begrænses.</span><span class="sxs-lookup"><span data-stu-id="7dda6-103">As an administrator or owner of a library, list, or survey, you can change permissions to let one group of people access the data they need while restricting others.</span></span>
 
-[<span data-ttu-id="c3409-104">Tilpasse tilladelser for en SharePoint-liste eller et bibliotek</span><span class="sxs-lookup"><span data-stu-id="c3409-104">Customize permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+[<span data-ttu-id="7dda6-104">Tilpasse tilladelser for en SharePoint-liste eller et SharePoint-bibliotek</span><span class="sxs-lookup"><span data-stu-id="7dda6-104">Customize permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)

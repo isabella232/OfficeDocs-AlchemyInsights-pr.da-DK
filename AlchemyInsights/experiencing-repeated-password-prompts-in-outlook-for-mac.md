@@ -1,26 +1,26 @@
 ---
-title: Oplever du gentagne adgangskode prompter i Outlook til Mac?
+title: Oplever du gentagne adgangskodeprompter i Outlook til Mac?
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/22/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 63dfac8c97246082ceaa4c532b4aba82596e5ffa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36526601"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702948"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="5a252-102">Oplever du gentagne adgangskode prompter i Outlook til Mac?</span><span class="sxs-lookup"><span data-stu-id="5a252-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a><span data-ttu-id="fe90c-102">Oplever du gentagne adgangskodeprompter i Outlook til Mac?</span><span class="sxs-lookup"><span data-stu-id="fe90c-102">Experiencing repeated password prompts in Outlook for Mac?</span></span>
 
-<span data-ttu-id="5a252-103">Vi kan hjælpe med at give mere specialiseret Outlook til Mac hjælp direkte fra programmet.</span><span class="sxs-lookup"><span data-stu-id="5a252-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
+<span data-ttu-id="fe90c-103">Vi kan hjælpe med at give mere specialiserede Outlook til Mac hjælp direkte fra programmet.</span><span class="sxs-lookup"><span data-stu-id="fe90c-103">We can help provide more specialized Outlook for Mac help directly from the application.</span></span>
   
-<span data-ttu-id="5a252-104">Venligst gå til den berørte brugers Mac, Åbn Outlook, og klik på **Hjælp** \> **Kontakt support**.</span><span class="sxs-lookup"><span data-stu-id="5a252-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
+<span data-ttu-id="fe90c-104">Gå til den berørte brugers Mac, åbn Outlook, og klik på **Hjælp** \> **Kontakt support**.</span><span class="sxs-lookup"><span data-stu-id="fe90c-104">Please go to the affected user's Mac, open Outlook, and click on **Help** \> **Contact Support**.</span></span>
   
-<span data-ttu-id="5a252-105">Hvis du vil vide mere om brug af Outlook til Mac-kundesupport i appen, skal du se denne artikel: [ny kontakt support funktion i outlook 2016 til Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="5a252-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
+<span data-ttu-id="fe90c-105">Hvis du vil have mere at vide om at bruge kundesupport i appen i Outlook til Mac, skal du se denne artikel: [Ny kontaktsupportfunktion i Outlook 2016 til Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span><span class="sxs-lookup"><span data-stu-id="fe90c-105">To learn more about using Outlook for Mac in-app customer support, see this article: [New Contact Support feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)</span></span>
   
 
