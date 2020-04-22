@@ -1,9 +1,9 @@
 ---
-title: Identificere ventepositioner placeret på postkasser
+title: Identifikation af ventepositioner, der er placeret i postkasser
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538757"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724770"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Identificere ventepositioner, der er placeret på postkasser
+# <a name="identify-holds-placed-on-mailboxes"></a>Identificer ventepositioner, der er placeret i postkasser
 
-Har Office 365-indhold, der **bevares** som et **hold** , som du ikke kan identificere? For at **finde ud af,** hvor hold er placeret på **postkasse** ? Indeholder (*tilbageholdelse funktioner*) kan anvendes ved en af følgende fremgangsmåder i Office 365:
+Har du Microsoft 365-indhold, der **bevares** af en **venteposition,** som du ikke kan identificere? Har du brug for at **finde ud** af, hvor lastrummet er placeret på **postkassen?** Lastrum (*opbevaringsfunktioner*) kan anvendes ved en af følgende metoder:
   
-- Hold af tvister
+- Retslig tilbageholdelse
 
-- eDiscovery hold
+- eDiscovery-venteposition
 
-- Hold på stedet
+- Plads til hold
 
-- Office 365 opbevaringspolitik 
+- Politik for opbevaring af Microsoft 365 
 
-  - Bestemt lokation opbevaringspolitikker
+  - Specifikke politikker for opbevaring af placering
 
-  - Opbevaringspolitikker i hele organisationen
+  - Politikker for opbevaring i hele organisationen
 
-- Office 365-etiketter
+- Microsoft 365-etiketter
 
-For at identificere, hvilke typer hold, der er anvendt på en brugers postkasse, kan du se [hvordan du kan identificere typen hold indsat på en Exchange Online-postkasse](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Hvis du vil identificere, hvilken type venteposition der anvendes på en brugers postkasse, skal du se [Sådan identificeres den type venteposition, der er placeret i en Exchange Online-postkasse](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

@@ -1,9 +1,9 @@
 ---
-title: Fornyelse af abonnementet
+title: Fornyelse af abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666006"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741821"
 ---
-# <a name="subscription-recurring-billing"></a>Tilbagevendende fakturering af månedsabonnement
+# <a name="subscription-recurring-billing"></a>Tilbagevendende fakturering af abonnement
 
-Hvis du vil vide, når din månedligt eller årligt abonnement på Office 365 bliver faktureret (Hvis **tilbagevendende fakturering** er slået til) eller udløber (Hvis **tilbagevendende fakturering** er slået fra):
+Hvis du vil vide, hvornår dit månedlige eller årlige abonnement faktureres (hvis **Tilbagevendende fakturering** er slået til) eller udløber (hvis **Tilbagevendende fakturering** er slået fra):
   
-1. Gå til **Fakturering** i admin center, \> [produkter &](https://go.microsoft.com/fwlink/p/?linkid=842054) tjenester.
+1. I Administration skal du gå til siden **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Du kan finde det abonnement, du vil vide mere om, under **Fakturering**, **Renews på** eller **Expiring på** datoen.
+2. Du kan finde flere oplysninger om det abonnement under **Fakturering**under Fakturering i datoen **Fornys eller** **Udløber.**
 
-4. Klik på **Rediger** for at foretage en ændring, og vælg derefter **Slå fra,** slå den fra i ruden **tilbagevendende fakturering** indstillinger. Hvis tilbagevendende fakturering er allerede slået fra, kan du vælge **hver måned** eller **en gang** til at slå.
+4. Hvis du vil foretage en ændring, skal du vælge **Rediger** og derefter vælge **Slå fra** i ruden Indstillinger for **tilbagevendende fakturering** for at slå den fra. Hvis tilbagevendende fakturering allerede er slået fra, skal du vælge **Månedlig** eller **Én gang** for at slå den til.
 
-Hvis du vil vide mere, se [Slå tilbagevendende fakturering eller fra](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

@@ -1,8 +1,8 @@
 ---
-title: Spørgsmål i forbindelse med Office-2019
+title: Spørgsmål vedrørende Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553606"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719797"
 ---
-# <a name="about-office-2019"></a>Om Office-2019
+# <a name="about-office-2019"></a>Om Office 2019
 
-Office-2019 er til kunder, der er endnu ikke klar til skyen eller har særlige behov for lokalt eller hybrid installation af Office. Det omfatter en meningsfuld undersæt af funktioner, der allerede er føjet til Office 365 i de sidste tre år, men det er ikke en del af Office 365.
+Office 2019 er til kunder, der endnu ikke er klar til skyen eller har et specifikt behov for lokal eller hybrid Office-installation. Det indeholder en meningsfuld delmængde af funktioner, der allerede er blevet tilføjet til Microsoft 365 i løbet af de sidste tre år, men det er ikke en del af Microsoft 365.
   
-Office 365 leverer ProPlus, den sky tilsluttet version af Office, den mest produktive og mest sikre Office-oplevelse. Det giver adgang til en række tjenester ud over, hvad de lokale versioner har og får nye opdateres løbende.
+Microsoft 365 Apps til virksomheder, den cloud-forbundne version af Office, leverer den mest produktive og sikre Office-oplevelse. Det giver adgang til en række tjenester ud over, hvad de lokale versioner har, og modtager løbende nye funktionsopdateringer.
   
-Så hvis du har Office desktop apps som en del af dit abonnement på Office 365 har du allerede den nyeste version af Office.
+Så hvis du har Office-skrivebordsapps som en del af dit Microsoft 365-abonnement, har du allerede den nyeste version af Office.
   
 Du kan finde flere oplysninger under:
   
-[Ofte stillede spørgsmål om Office 2019 kommercielle for Windows og Mac](https://support.microsoft.com/help/4133312)
+[Ofte stillede spørgsmål til Office 2019 Commercial til Windows og Mac](https://support.microsoft.com/help/4133312)
   
-[Det overordnede versionsnummer af 2019 Office opholder sig på 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Det vigtigste versionsnummer i Office 2019 er 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Udpegelsen af år i 2016 Office og Office 365-klient apps vil blive fjernet fra Start menupunkter](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Årbetegnelse i Office 2016- og Microsoft 365-klientapps fjernes fra menupunkterne Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

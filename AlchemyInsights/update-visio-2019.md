@@ -1,9 +1,9 @@
 ---
-title: Opgradere til Visio-2019
+title: Opgrader til Visio 2019
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903684"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720023"
 ---
-# <a name="upgrade-to-visio-2019"></a>Opgradere til Visio-2019
+# <a name="upgrade-to-visio-2019"></a>Opgrader til Visio 2019
 
-Brugere, der har installeret Visio stationære programmet som en del af et abonnement på Visio Online allerede har den nyeste version. 
+Brugere, der har installeret Visio-skrivebordsappen som en del af et Visio Online-abonnement, har allerede den nyeste version. 
 
-Hvis du vil opgradere en ikke-abonnementsversion som Visio 2016, skal du købe et abonnement på Visio Online eller enkeltstående køb på Visio Standard eller Vision Professional 2019. Se [sammenligne Visio-indstillinger](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
+Hvis du vil opgradere en version uden abonnement, f.eks. Se [Sammenligne Visio-indstillinger](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-Hvis du allerede har købt en nyere version, og du er klar til at installere det, du [Installerer Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) , og følg vejledningen til din version. 
+Hvis du allerede har købt en nyere version, og du er klar til at installere den, skal du se [Installere Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) og følge trinnene til din version. 
 
-For at installere Visio side om side med Office, kan du se [understøttede scenarier til installation af forskellige versioner af Office, projekt, og Visio på samme computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Hvis du vil installere Visio side om side med Office, skal du se [Understøttede scenarier for installation af forskellige versioner af Office, Project og Visio på den samme computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
 Du kan finde flere oplysninger under:<br>
 [Installationsvejledning til Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Det overordnede versionsnummer af 2019 Visio opholder sig på 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[Udpegelsen af år i 2016 Office og Office 365-klient apps vil blive fjernet fra Start menupunkter](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
-[Ofte stillede spørgsmål om Office 2019 kommercielle for Windows og Mac](https://support.microsoft.com/help/4133312) 
+[Det vigtigste versionsnummer i Visio 2019 er 16.0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Åreudpegning i Office 2016 og klientapps fjernes fra menupunkterne Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Ofte stillede spørgsmål til Office 2019 Commercial til Windows og Mac](https://support.microsoft.com/help/4133312) 

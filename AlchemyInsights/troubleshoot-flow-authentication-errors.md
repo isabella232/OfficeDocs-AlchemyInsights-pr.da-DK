@@ -1,32 +1,32 @@
 ---
-title: Fejlfinding af fejl i flow godkendelse
+title: Fejlfinding i forbindelse med flowgodkendelsesfejl
 ms.author: pebaum
 author: pebaum
-ms.date: 6/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 3d49d15d243dd98afc6f78b9e75f0cfa74c2cd7c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 70451f074a65a4454faeadd188a31783be8e6c7e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050627"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759722"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Fejlfinding af fejl i flow godkendelse
+# <a name="troubleshoot-flow-authentication-errors"></a>Fejlfinding i forbindelse med flowgodkendelsesfejl
 
-I mange tilfælde mislykkes flows på grund af en godkendelsesfejl. Hvis du har denne type fejl, indeholder fejlmeddelelsen "uautoriseret", eller der vises en fejlkode på 401 eller 403. Du kan som regelrette en godkendelsesfejl ved at opdatere forbindelsen:
+I mange tilfælde mislykkes flows på grund af en godkendelsesfejl. Hvis du har denne type fejl, vises fejlmeddelelsen "Uautoriseret", eller der vises en fejlkode på 401 eller 403. Du kan normalt rette en godkendelsesfejl ved at opdatere forbindelsen:
   
-1. Øverst på webportalen skal du klikke eller trykke på tandhjulsikonet for at åbne indstillingsmenuen og derefter klikke eller trykke på **forbindelser**.
+1. Klik eller tryk på **tandhjulsikonet**øverst på webportalen for at åbne menuen Indstillinger, og klik eller tryk derefter på Forbindelser .
     
-2. Rul til den forbindelse, hvor du har set den uautoriserede fejlmeddelelse.
+2. Rul til den forbindelse, hvor du så fejlmeddelelsen Uautoriseret.
     
-3. Ud for forbindelsen skal du klikke eller trykke på linket **Bekræft adgangskode** i meddelelsen om, at forbindelsen ikke er godkendt. 
+3. Klik eller tryk på linket **Bekræft adgangskode** i meddelelsen om, at forbindelsen ikke godkendes. 
     
-4. Bekræft dine legitimationsoplysninger ved at følge de instruktioner, der vises, vend tilbage til fejl i flow kørslen, og klik eller tryk derefter på **Send igen**.
+4. Bekræft dine legitimationsoplysninger ved at følge de instruktioner, der vises, vende tilbage til flow-run-fejlen, og klik eller tryk derefter på **Gensend igen**.
     
-Du kan få mere hjælp i [fejlfinding af et flow](https://go.microsoft.com/fwlink/?linkid=872110).
+Du kan finde mere hjælp under [Fejlfinding af et flow](https://go.microsoft.com/fwlink/?linkid=872110).
   
 

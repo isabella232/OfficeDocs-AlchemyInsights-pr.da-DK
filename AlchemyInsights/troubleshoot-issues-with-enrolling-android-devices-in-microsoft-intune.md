@@ -1,9 +1,9 @@
 ---
-title: Fejlfinding i forbindelse med registreringen af Android-enheder i Microsoft Intune
+title: Fejlfinding af problemer med tilmelding af Android-enheder i Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500065"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759614"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Fejlfinding i forbindelse med registreringen af Android-enheder i Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Fejlfinding af problemer med tilmelding af Android-enheder i Microsoft Intune
 
-Gennemse ressourcerne nedenfor til at løse dit problem nu.
+Gennemgå de ressourcer, der er angivet nedenfor, for at løse problemet nu.
   
-Nogle almindelige problemer og trin til løsning:
+Nogle almindelige problemer og løsningstrin:
   
- **Enhed ikke krypteret fejl i firmaets Portal:** Nyere versioner af Android, især fra og med v7.0, kræver en start-adgangskode til at sikre, at enheden bliver fuldt krypteret. Almindelige løsninger er at aktivere pinkoden start eller fuldt krypterer enheden. Gennemse [dette dokument](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) for at få yderligere oplysninger.
+ **Enheden er ikke krypteret i firmaportalen:** Nyere versioner af Android, især startende med v7.0, kræver en startadgangskode for at sikre, at din enhed er fuldt krypteret. Almindelige løsninger er at aktivere en startpin eller kryptere enheden helt. Gennemse [dette dokument](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) for at få flere oplysninger.
   
- **Enheder ikke kan kontrollere med tjenesten Intune eller vises som "Unhealthy" i administrationskonsollen Intune:** Nogle Samsung 4.4 og 5.5 enheder kan ikke kontrollere på tjenesten. Der er 3 mulige løsninger på dette problem:
+ **Enheder undlader at tjekke ind med Intune service eller vise som "Usundt" i Intune admin konsol:** Nogle Samsung 4.4- og 5.5-enheder tjekker muligvis ikke ind i tjenesten. Der er 3 mulige løsninger på dette problem:
   
-1. Åbn app Intune firmaets Portal, som automatisk starter en enhedssynkronisering manuelt.
+1. Åbn intune-firmaportalappen manuelt, som automatisk starter en enhedssynkronisering.
 
-2. Opdatere enheden Android 6.0 eller nyere.
+2. Opdater enheden til Android 6.0 eller nyere.
 
-3. Du kan deaktivere Samsung Smart Manager fra administration af portalen Intune virksomhed. Gennemse [dette dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) for at få yderligere oplysninger om disse problemer og løsninger.
+3. Deaktiver Samsung Smart Manager fra at administrere Intune Company Portal. Læs [dette dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) for at få yderligere oplysninger om disse spørgsmål og løsninger.
 
- **Bruger licens Type ugyldige** eller **bruger navn blev ikke genkendt fejl:** brugeren skal være tildelt en licens til Intune eller EMS. Gennemgå disse dokumenter for at tildele en licens til: Office Admin Center eller Azure portal.
+ **Brugerlicenstype Ugyldig** eller **Fejl i brugernavnet ikke genkendt:** Brugeren skal tildeles en Intune- eller EMS-licens. Gennemse disse dokumenter for at tildele en licens via: Office Administration eller Azure-portalen.
   
-Yderligere ressourcer til at løse problemet:
+Yderligere ressourcer, der kan hjælpe dig med at løse problemet:
   
-1. Bruge [Intune fejlfinding Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige fejl i registreringen. Gennemse [dette dokument](https://docs.microsoft.com/intune/help-desk-operators) for at få yderligere oplysninger.
+1. Brug [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige tilmeldingsfejl. Gennemse [dette dokument](https://docs.microsoft.com/intune/help-desk-operators) for at få flere oplysninger.
 
-2. Gennemse [dette dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver.
+2. Gennemse [dette dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for at få en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver enkelt.
 
-3. [Lær at tilmelde Android-enheder i Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
+3. [Få mere at vide om, hvordan du tilmelder Android-enheder i Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).

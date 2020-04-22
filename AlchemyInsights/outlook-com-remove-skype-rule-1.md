@@ -1,9 +1,9 @@
 ---
-title: Fjern Outlook.com Skype
+title: Outlook.com Fjern Skype
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535097"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743807"
 ---
-# <a name="skype-icon-missing"></a>Skype ikonet mangler
+# <a name="skype-icon-missing"></a>Skype-ikon mangler
 
-Vi har midlertidigt fjernet på Skype-ikonet fra Outlook.com som en del af en design-opdatering og funktion opdatering, vi er glade for at kunne være rullende. Vi takker for din tålmodighed mens vi forbereder en ny og forbedret oplevelse for dig.
+Vi har midlertidigt fjernet Skype-ikonet fra Outlook.com som en del af en designopdatering og funktionsopdatering glæder vi os til at blive udrullet. Vi sætter pris på din tålmodighed, mens vi forbereder en ny og forbedret oplevelse for dig.
 
-Du kan stadig bruge Skype via browseren på [web.skype.com](https://web.skype.com/).
+Du kan stadig bruge Skype via din browser på [web.skype.com](https://web.skype.com/).

@@ -1,9 +1,9 @@
 ---
-title: Påkrævede licenser til Microsoft ToDo
+title: Nødvendige licenser til Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,46 +13,46 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552165"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722650"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Påkrævede licenser til Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Nødvendige licenser til Microsoft ToDo
 
-[Påkrævede licenser til Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Nødvendige licenser til Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-En bruger skal have en af følgende licenser til at bruge Microsoft ToDo:
+En bruger skal have en af følgende licenser for at kunne bruge Microsoft ToDo:
   
-- Nøgleområder i virksomheden
+- Grundlæggende om virksomheder
 
 - Business Premium
 
 - Microsoft 365 Firstline F1
 
-- Enhver Office 365 Enterprise plan
+- Enhver Office 365 Enterprise-plan
 
-- Sikker produktiv virksomhed
+- Sikre produktiv virksomhed
 
-- Sikre produktiv virksomhed E3
+- Sikker produktiv virksomhed E3
 
-- Sikre produktiv virksomhed E5
+- Sikker produktiv virksomhed E5
 
-- Enhver plan for Office 365 uddannelse
+- Enhver Office 365 Education-plan
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Ud over en gyldig produktlicens bruges en af følgende versioner af Exchange Online til ToDo skal kunne synkronisere brugerdata:
+Ud over en gyldig produktlicens kræves en af følgende versioner af Exchange Online, for at ToDo kan synkronisere brugerdata:
   
 - Exchange Online Plan 1
 
 - Exchange Online Plan 2
 
-- Exchange Essentials
+- Grundlæggende om Exchange
 
 - Exchange Online Kiosk
 

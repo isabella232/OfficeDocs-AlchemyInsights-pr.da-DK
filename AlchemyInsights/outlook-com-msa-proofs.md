@@ -1,9 +1,9 @@
 ---
-title: Outlook.com MSA korrekturer
+title: Outlook.com MSA-beviser
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,24 +15,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535961"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745895"
 ---
-# <a name="security-info-and-security-codes"></a>Oplysninger om sikkerhed og sikkerhed koder
+# <a name="security-info-and-security-codes"></a>Sikkerhedsoplysninger og sikkerhedskoder
 
-Føje sikkerhedsoplysninger til din Microsoft-konto:
+Sådan føjer du sikkerhedsoplysninger til din Microsoft-konto:
 
-1. Logge på [grundlæggende sikkerhed](https://account.microsoft.com/security) med din Microsoft-konto.
-1. Vælg **sikkerhed kontaktoplysninger**.
-1. Vælg **Tilføj sikkerhedsoplysninger** , og følg vejledningen for at angive en telefonnummeret eller e-mail-adressen.
-1. Du modtager en sikkerhedskode på pågældende telefonnummeret eller e-mail-adressen. Angiv den sikkerhedskode, du modtog i vinduet **Tilføj sikkerhedsoplysninger** , og klik på **Næste**.
+1. Log på [grundlæggende oplysninger om sikkerhed](https://account.microsoft.com/security) med din Microsoft-konto.
+1. Vælg **Kontaktoplysninger for sikkerhed**.
+1. Vælg **Tilføj sikkerhedsoplysninger,** og følg vejledningen for at angive et telefonnummer eller en mailadresse.
+1. Du vil modtage en sikkerhedskode på det pågældende telefonnummer eller e-mailadresse. Angiv den sikkerhedskode, du har modtaget i vinduet **Tilføj sikkerhedsoplysninger,** og vælg **Næste**.
 
-Hvis du vil fjerne en telefon eller e-mail-adressen, skal du vælge **Fjern** ved siden af.
+Hvis du vil fjerne et telefonnummer eller en mailadresse, skal du vælge **Fjern** ud for det.
 
-Hvis du vil ændre, hvilket telefonnummer eller e-mail-adresse, modtager sikkerhedsalarmer, kan du vælge at **ændre indstillinger for påmindelser**.
+Hvis du vil ændre, hvilket telefonnummer eller hvilken mailadresse der modtager sikkerhedsadvarsler, skal du vælge **Skift beskedindstillinger**.
 
-Læs [Microsoft security info og kontrol koder](https://support.microsoft.com/help/12428/)for at få mere for at vide.
+Du kan få mere at vide ved at læse [Sikkerhedsoplysninger og bekræftelseskoder for Microsoft-kontoen](https://support.microsoft.com/help/12428/).

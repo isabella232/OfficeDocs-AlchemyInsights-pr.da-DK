@@ -1,8 +1,8 @@
 ---
-title: Vilkår, som mangler i SharePoint Online term store
+title: Vilkår, der mangler i SharePoint Online-ordlagring
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: a7d455a9efe675f4a56f920b220db32949c019a7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 773e68c7a9c9f89c94b280a05428be92cd8217a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053183"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736820"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Vilkår, som mangler i SharePoint Online term store
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Vilkår, der mangler i SharePoint Online-ordlagring
 
-Betingelserne i det SharePoint Online-Ordlager, du forventer at se, vises ikke eller vises periodisk.
+Udtrykkene i den SharePoint Online-ordbutik, du forventer at se, vises ikke eller vises med mellemrum.
   
-Hvis der er gået mere end 24 timer, siden du første så dette problem, skal du logge en support sag. Vi forstår, at 24 timer kan virke som en lang tid. I mange tilfælde er vi allerede arbejder på en løsning, så skal du give os mindst 24 timer.
+Hvis der er gået mere end 24 timer, siden du første gang så dette problem, skal du logge en supportsag. Vi forstår, at 24 timer kan virke som lang tid. I mange tilfælde arbejder vi allerede på en løsning, så giv os mindst 24 timer.
   
