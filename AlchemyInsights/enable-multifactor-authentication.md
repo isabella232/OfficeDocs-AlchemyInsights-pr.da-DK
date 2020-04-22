@@ -1,8 +1,8 @@
 ---
-title: Aktivere sikkerhedsforanstaltning til godkendelse
+title: Aktiver multifaktorgodkendelse
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527465"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703456"
 ---
-# <a name="enable-multi-factor-authentication"></a>Aktivere godkendelse af flere faktorer
+# <a name="enable-multi-factor-authentication"></a>Aktiver multifaktorgodkendelse
 
-At aktivere godkendelse af flere faktorer i Microsoft 365 admin center:
+Sådan aktiveres multifaktorgodkendelse i Microsoft 365 Administration:
 
-1. Gå til **brugere** \> siden **aktive brugere** .
+1. Gå til siden **Aktive** \> **brugere.**
     
-2. Øverst på siden, Vælg **godkendelse i flere niveauer**. 
+2. Øverst på siden skal du vælge **Multifaktorgodkendelse**. 
     
-3. Find den eller de brugere, som du vil aktivere godkendelse af flere faktorer. Hvis du vil se alle brugerne, skal du ændre **status for godkendelse af flere faktorer** -filter øverst.
+3. Find den eller de brugere, du vil aktivere til multifaktorgodkendelse. Hvis du vil se alle brugerne, skal du muligvis ændre **multifaktor-auth-statusfilteret** øverst.
     
-4. Marker afkrydsningsfeltet ud for de brugere, du vil aktivere.
+4. Markér afkrydsningsfeltet ud for de brugere, du vil aktivere.
     
-5.  Vælg **Aktiver**i oplysningsruden højre bruger under **hurtige trin**. 
+5.  Vælg **Aktivér**under **hurtige trin**i den højre brugeroplysningsrude. 
     
-6. I den dialogboks, der åbnes, kan du vælge at **aktivere godkendelse af flere faktorer**. 
+6. Vælg **aktivér multifaktorauth**i den dialogboks, der åbnes . 
     
 

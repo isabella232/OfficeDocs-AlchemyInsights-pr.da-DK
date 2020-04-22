@@ -1,9 +1,9 @@
 ---
-title: Generel vejledning om migrations resultater
+title: Generel vejledning om overførselsydeenve
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "5300030"
 - "3179"
 ms.assetid: ''
-ms.openlocfilehash: 2a9d796966daa64e6db8ca0f5c951e65d2ff29c4
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 0f754fd4264d7800e4e02a295147cded46aca817
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913456"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692651"
 ---
-# <a name="general-migration-performance-guidance"></a>Generel vejledning om migrations resultater
+# <a name="general-migration-performance-guidance"></a>Generel vejledning om overførselsydeenve
 
-Migrationens ydeevne kan påvirkes af netværksinfrastruktur, filstørrelse, migrerings tidspunkt og begrænsning. Forståelse af disse vil hjælpe dig med at planlægge og maksimere effektiviteten af din migrering.
+Overførselsydeevnen kan blive påvirket af netværksinfrastruktur, filstørrelse, overførselstid og begrænsning. At forstå disse faktorer vil hjælpe dig med at planlægge og maksimere din overførsels effektivitet.
 
-[Generel vejledning om migrations resultater](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+[Generel vejledning om overførselsydeenve](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)

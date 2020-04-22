@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734375"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692507"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Ændre tilladelser for en postkasse
 
-Hvis brugerne skal have adgang til andre Office 365-postkasser end deres egne, skal de have tilladelse til at arbejde med disse postkasser. Hvordan du tildeler disse tilladelser, afhænger af postkasse typen. Hvis brugerne har brug for adgang til:
+Hvis brugerne har brug for adgang til andre postkasser end deres egne, skal de have tilladelse til at arbejde med disse postkasser. Hvordan du tildeler disse tilladelser, afhænger af postkassetypen. Hvis brugerne har brug for adgang til:
   
-- Andre brugeres postkasser-Se [Giv postkassetilladelser til en anden bruger i Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Andre brugeres postkasser – se [Giv postkassetilladelser til en anden bruger](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- En delt postkasse-Se [Tilføj eller fjern medlemmer fra en delt postkasse](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- En delt postkasse – se [Tilføje eller fjerne medlemmer fra en delt postkasse](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Hvis tilladelserne ikke fungerer korrekt, når du har angivet ovenstående trin, skal du gå til Exchange administration og prøve at angive tilladelserne derfra (Se [administrere tilladelser for modtagere](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Hvis tilladelserne ikke fungerer korrekt, efter at du har udført ovenstående trin, skal du gå til Exchange Administration og prøve at angive tilladelserne derfra (se [Administrere tilladelser for modtagere](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

@@ -1,5 +1,5 @@
 ---
-title: Aktivér og Søg i overvågningslog
+title: Aktivere og søge i overvågningslog
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665070"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703637"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Aktivere og søge i overvågningsloggen
 
-**Office 365**
+**Microsoft 365**
 
-Følg [disse trin](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)for at søge i overvågningsloggen i Office 365.
+FÃ ̧lg [disse trin](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)for at sÃ ̧re pÃ ̧re Microsoft 365-overvågningsloggen .
 
 **Exchange**
 
-- Exchange-administrationsaktiviteter revideres som standard.
+- Exchange-administratoraktiviteter overvåges som standard.
 
-- Postkasseovervågning er som standard aktiveret i Office 365. Du finder flere oplysninger i [denne artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Overvågning af postkasseer er som standard aktiveret i Microsoft 365. Yderligere oplysninger finder du i [denne artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365-gruppe postkasser og postkasser til offentlige mapper i Exchange Online understøtter ikke overvågningslogføring.
+- Office 365-gruppepostkasser og postkasser til offentlige mapper i Exchange Online understøtter ikke overvågning af logføring.
 
 **SharePoint og OneDrive**
 
-- Der kræves ingen yderligere konfiguration for at aktivere overvågning for SharePoint og OneDrive.
+- Der kræves ingen yderligere konfiguration for at aktivere overvågning af SharePoint og OneDrive.
 
 - SharePoint og OneDrive understøtter overvågning af følgende typer aktiviteter:
 
-    - Fil-, mappe-og side aktiviteter
-    - Delings-og adgangs anmodnings aktiviteter
-    - Aktiviteter for Webstedsadministration
-    - Filsynkroniserings aktiviteter
+    - Fil-, mappe- og sideaktiviteter
+    - Dele og få adgang til anmodningsaktiviteter
+    - Aktiviteter i forbindelse med webstedsadministration
+    - Filsynkroniseringsaktiviteter
 
-- Oplysninger om overvågede aktiviteter i andre Office 365-tjenester finder du [i tabellen i denne artikel](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Oplysninger om reviderede aktiviteter i andre tjenester finder du [i tabellen i denne artikel](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Her en liste over ofte stillede spørgsmål [ofte stillede spørgsmål](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) om at søge i overvågningsloggen.
+- Her er en liste over ofte stillede [spørgsmål, der ofte stilles,](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) om at søge i overvågningsloggen.

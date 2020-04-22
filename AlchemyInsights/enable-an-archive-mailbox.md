@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132605"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703673"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivere en arkivpostkasse
 
@@ -25,7 +25,7 @@ Sådan opretter du en arkivpostkasse:
   
 1. Gå [https://protection.office.com](https://protection.office.com)til .
 
-2. Log på Office 365 ved hjælp af din administratorkonto.
+2. Log på Microsoft 365 ved hjælp af din administratorkonto.
 
 3. Vælg Arkiv til administration &amp; af **oplysninger** \> i venstre rude i Security Compliance Center **.**
 
@@ -51,6 +51,6 @@ Sådan aktiveres arkivet for en delt postkasse:
 
 Du kan finde flere oplysninger under:
   
-- [Aktivere arkivpostkasser i Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Aktivere arkivpostkasser](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Konfigurere en arkiv- og sletningspolitik i Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Oprette en arkiv- og sletningspolitik](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

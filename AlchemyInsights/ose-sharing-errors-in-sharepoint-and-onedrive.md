@@ -1,5 +1,5 @@
 ---
-title: OSE deler fejl i SharePoint og OneDrive
+title: OSE-delingsfejl i SharePoint og OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 4322c8a106f453592e4c9660e9291704d2d8fc9a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3da42ff51b6f2fdd7df66f18fd902eee68aa2f7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049007"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43641778"
 ---
 # <a name="ose-sharing-errors"></a>OSE-delingsfejl
 
-Artiklen dækker de forskellige fejl, du kan støde på, når du deler filer eller mapper fra SharePoint Online eller OneDrive for Business i Office 365. Du skal være global eller SharePoint-administrator i din organisation for at kunne rette disse fejl. Hvis du ikke er administrator, skal du kontakte din helpdesk og give dem din fejlkode.
+Artiklen omhandler de forskellige fejl, du kan støde på, når du deler filer eller mapper fra SharePoint Online eller OneDrive for Business i Microsoft 365. Du skal være global administrator eller SharePoint-administrator i organisationen for at rette disse fejl. Hvis du ikke er administrator, skal du kontakte din helpdesk og give dem din fejlkode.
 
-Du finder flere oplysninger om OSE-fejlkoder under [deling af fejl i SharePoint og OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Du kan finde flere oplysninger om OSE-fejlkoder under [Deling af fejl i SharePoint og OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

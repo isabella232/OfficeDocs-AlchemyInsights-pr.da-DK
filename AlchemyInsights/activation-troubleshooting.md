@@ -1,8 +1,8 @@
 ---
-title: Aktivering af fejlfinding
+title: Fejlfinding i forbindelse med aktivering
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495565"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676419"
 ---
-# <a name="activation-troubleshooting"></a>Aktivering af fejlfinding
+# <a name="activation-troubleshooting"></a>Fejlfinding i forbindelse med aktivering
 
-I **Kontrolpanel** \> **programmer og funktioner**, søge efter Office. Du bør se Microsoft Office 365 ProPlus eller Microsoft Office 365-Business. Hvis der vises mere end én version af Office, der er angivet, kan du fjerne den version, du ikke bruger.
+Søg efter Office i \> **Kontrolpanel-programmer og -funktioner.** **Control Panel** Du bør kunne se Microsoft 365 Apps til virksomheder eller Microsoft 365 Apps til virksomheder. Hvis du ser mere end én version af Office på listen, skal du fjerne den version, du ikke bruger.
   
-Hvis du ikke kan fjerne ved hjælp af Kontrolpanel, kan du bruge [Support og genoprettelse-assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) til at fjerne den version, du ikke bruger.
+Hvis du ikke kan fjerne programmet ved hjælp af Kontrolpanel, skal du bruge [Support- og Genoprettelsesassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) til at fjerne den version, du ikke bruger.
   
-Hvis Office er stadig uden licens, gå tilbage til **Kontrolpanel** \> **programmer og funktioner**. Højreklik på den resterende Office-installation, Vælg **Rediger** (eller Skift), og vælg derefter **Online reparation**. Online reparationen kan tage et stykke tid. Derefter genstarte Office og logge på med dit arbejde eller skole konto, hvis du bliver bedt om.
+Hvis Office stadig ikke har licens, skal du gå tilbage til **Kontrolpanels** \> **programmer og funktioner**. Højreklik på den resterende Office-installation, vælg **Rediger** (eller Rediger), og vælg derefter **Onlinereparation**. Onlinereparationen kan tage et stykke tid. Genstart derefter Office, og log på med din arbejds- eller skolekonto, hvis du bliver bedt om det.
   
-Hvis Office er stadig uden licens, kan du hente og derefter køre til [aktivering af fejlfinding](https://aka.ms/SARA-OfficeActivation-Alchemy) på computeren til at løse aktiveringsproblemer med.
+Hvis Office stadig ikke har licens, skal du hente og derefter køre [fejlfindingsværktøjet Aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy) på den berørte computer for at løse aktiveringsproblemerne.
   
-Yderligere oplysninger finder du: [ikke-licenserede produkt og af aktiveringsfejl i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Yderligere oplysninger finder du [i: Produkt- og aktiveringsfejl uden licens i Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

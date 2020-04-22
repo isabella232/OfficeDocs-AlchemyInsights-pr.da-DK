@@ -1,8 +1,8 @@
 ---
-title: Objekttype, der ikke vises i kategoriseret eller relevante søgeresultater i Dynamics 365 Unified grænseflade
+title: Objekttype, der ikke vises i kategoriserede eller relevante søgeresultater i Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: 31389ac7a39d07e9c0b0f4e3e8d398616c3fa210
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 5a96797ef03659bc6cab665f170dee9a9c62872f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697149"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703276"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Objekttype, der ikke vises i søgeresultaterne
+# <a name="entity-type-not-showing-in-search-results"></a>Objekttype vises ikke i søgeresultater
 
-For en objekttype, der skal vises i kategoriserede søgning eller relevans søgning i Dynamics 365 Unified grænseflade, skal den først føjes til app-modul.
+Hvis en objekttype skal vises i kategoriseret søgning eller relevanssøgning i Dynamics 365 Unified Interface, skal den først føjes til appmodulet.
 
-Bemærk: Når du søger efter vedhæftede filer i relevans søgning, vedhæftet fil-objekt skal føjes til modulet app selvom den overordnede post er, hvad der skal vises i resultaterne.
+Bemærk: Når du søger efter vedhæftede filer i relevanssøgning, skal det vedhæftede objekt føjes til appmodulet, selvom den overordnede post er det, der vises i resultaterne.

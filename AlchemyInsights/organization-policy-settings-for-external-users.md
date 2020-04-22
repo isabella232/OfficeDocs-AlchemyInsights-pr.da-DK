@@ -1,5 +1,5 @@
 ---
-title: Indstillinger for organisations politik for eksterne brugere
+title: Indstillinger for organisationspolitik for eksterne brugere
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,20 +10,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054480"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43641994"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Indstillinger for organisations politik for eksterne brugere
+# <a name="organization-policy-settings-for-external-users"></a>Indstillinger for organisationspolitik for eksterne brugere
 
-Brugerne kan få vist følgende advarselsmeddelelse, når de forsøger at dele med eksterne brugere af din organisation: 
+Brugerne får muligvis vist følgende advarselsmeddelelse, når de forsøger at dele med eksterne brugere i organisationen: 
 
-   **Organisationens politikker giver dig ikke mulighed for at dele med disse brugere. Gå til ekstern deling i Office 365 administration for at aktivere den.** 
+   **Organisationens politikker giver dig ikke mulighed for at dele med disse brugere. Gå til Ekstern deling i Microsoft 365 Administration for at aktivere den.** 
 
-Dette sker ofte første gang, du forsøger at dele med eksterne brugere, eller når du deler med nye eksterne brugere. For mere information, se venligst artiklen nedenfor:
+Dette sker ofte første gang forsøger at dele med eksterne brugere, eller når du deler med nye eksterne brugere. For mere information, se artiklen nedenfor:
 
 [Organisationens politikker giver dig ikke mulighed for at dele med disse brugere](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 

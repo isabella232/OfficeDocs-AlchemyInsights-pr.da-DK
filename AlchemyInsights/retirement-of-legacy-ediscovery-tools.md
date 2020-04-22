@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600357"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650562"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Pensionering af ældre eDiscovery-værktøjer
 
@@ -37,7 +37,7 @@ Som et resultat af den nye og forbedrede eDiscovery-funktionalitet i Microsoft 3
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Hent HoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Avanceret EDiscovery v1.0 i Office 365](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Avanceret eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Tidslinje for pensionering**:
 - 1. april 2020: Du kan ikke oprette nye søgninger og tilbageholdelser, men du kan stadig køre, redigere og slette eksisterende søgninger på egen risiko. Microsoft Support understøtter ikke længere direkte eDiscovery-&-ventepositioner i EAC.

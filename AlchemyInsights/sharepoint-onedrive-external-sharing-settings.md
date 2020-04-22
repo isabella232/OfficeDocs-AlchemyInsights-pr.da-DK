@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053903"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692867"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Advarselsmeddelelse: organisationens politikker giver dig ikke mulighed for at dele med disse brugere
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Advarselsmeddelelse: Organisationens politikker tillader ikke, at du deler med disse brugere
 
-Brugere kan opleve en advarselsmeddelelse, når de forsøger at dele med eksterne brugere af din organisation. Meddelelsen er **organisationens politikker giver dig ikke mulighed for at dele med disse brugere. Gå til ekstern deling i Office 365 administration for at aktivere den**. Dette sker ofte første gang, du forsøger at dele med eksterne brugere, eller når du deler med nye eksterne brugere.
+Brugerne kan opleve en advarsel, når de forsøger at dele med eksterne brugere i organisationen. Meddelelsen er **Din organisations politikker giver dig ikke mulighed for at dele med disse brugere. Gå til Ekstern deling i Microsoft 365 Administration for at aktivere den**. Dette sker ofte første gang forsøger at dele med eksterne brugere, eller når du deler med nye eksterne brugere.
 
-Kontroller **indstillingerne for ekstern deling i SharePoint og OneDrive** for din organisation.
+Kontrollér indstillingerne for ekstern deling i **SharePoint og OneDrive** for din organisation.
 
-1. Vælg **SharePoint**i dit [Microsoft 365-administrations Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
-3. Vælg **deling** for at se de eksterne delingsindstillinger.
+1. Vælg **SharePoint**i [Microsoft 365 Administration](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+3. Vælg **Deling** for at få vist indstillingerne for ekstern deling.
 
-Kontroller **indstillingerne for ekstern deling** for et bestemt websted.
+Kontroller **indstillingerne** for ekstern deling for et bestemt websted.
 
-1. Vælg **SharePoint**i dit [Microsoft 365-administrations Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
-2. Vælg **aktive websteder** for at se de websteder, der er tilgængelige.
-3. Vælg det websted, du vil kontrollere, og vælg derefter den **delings** knap, der vises på menulinjen, for at kontrollere webstedets indstillinger.
+1. Vælg **SharePoint**i [Microsoft 365 Administration](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/).
+2. Vælg **Aktive websteder** for at se dine websteder, der er tilgængelige.
+3. Vælg det websted, du vil kontrollere, og vælg derefter knappen **Deling,** der vises på menulinjen, for at kontrollere indstillingerne for webstedet.
 
-Du finder flere oplysninger i [oversigten ekstern deling](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Yderligere oplysninger finder du i [Oversigt over ekstern deling](https://docs.microsoft.com/sharepoint/external-sharing-overview).

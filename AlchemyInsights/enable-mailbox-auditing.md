@@ -1,9 +1,9 @@
 ---
-title: Aktivér overvågning af postkasse
+title: Aktiver overvågning af postkasser
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: ae11d6be0789a5662d202b85268480a3d42922c4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736247"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703565"
 ---
-# <a name="enable-mailbox-auditing"></a>Aktivér overvågning af postkasse
+# <a name="enable-mailbox-auditing"></a>Aktiver overvågning af postkasser
 
-Hvis du vil aktivere postkasseovervågning for enten en enkelt bruger eller en hel organisation, skal følgende cmdletter køres fra Remote Power shell:
+For at aktivere overvågning af postkasse for enten en enkelt bruger eller en hel organisation skal følgende cmdletter køres fra Remote Power Shell:
   
  **Enkelt bruger**
   
-Set-postkasse-identitet "Jane Dow"-AuditEnabled $true
+Set-Mailbox -Identitet "Jane Dow" -AuditEnabled $true
   
  **Organisation**
   
-Hent-postkasse-ResultSize ubegrænset-filter {RecipientTypeDetails-EQ "User Mailbox"} | Set-Mailbox-AuditEnabled $true
+Hent-Postkasse -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
   
 [Lær mere](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   

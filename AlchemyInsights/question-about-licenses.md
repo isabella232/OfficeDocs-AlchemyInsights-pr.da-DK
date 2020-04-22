@@ -12,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0d3d788d913137d1083326ee5b69ce4ce5d4178d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768614"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698268"
 ---
-# <a name="questions-about-your-office-365-license"></a>Spørgsmål om din Office 365-licens
+# <a name="questions-about-your-microsoft-365-license"></a>Spørgsmål om din Microsoft 365-licens
 
 Hvis du vil vide, hvor mange licenser du har købt, eller hvor mange licenser der er tildelt fra et abonnement:
   
 1. I Administration skal du gå til siden **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Find det abonnement, du vil vide mere om. Du kan se antallet af licenser, du betaler for, og hvor mange der er til rådighed, der skal tildeles.
+2. Find det abonnement, du vil vide mere om. Du kan se antallet af licenser, du betaler for, og hvor mange der kan tildeles.
 
-Hvis du vil tilføje flere licenser, eller hvis du har for mange, skal du vælge **Tilføj/Fjern licenser** for at justere det købte beløb.
+Hvis du vil tilføje flere licenser, eller hvis du har for mange, skal du vælge **Tilføj/fjern licenser** for at justere det købte beløb.

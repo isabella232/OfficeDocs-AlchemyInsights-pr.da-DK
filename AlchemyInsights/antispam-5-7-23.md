@@ -1,5 +1,5 @@
 ---
-title: Antispam-5.7.23
+title: Antispam - 5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 9c9bc2d04fb8efaa5e75194b4ca09316d24e018e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 307b738c40c620d057e68eff7d218c8c9b5eb665
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682086"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676491"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Løs problemer med levering af e-mail for fejlkode 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Løs problemer med levering af mail, fejlkode 5.7.23
 
-Bekræft SPF DNS-posten for dit domæne på en offentligt tilgængelig SPF-eller DNS-post kontrol på internettet.
+Kontroller SPF DNS-posten for dit domæne på en offentligt tilgængelig SPF- eller DNS-postkontrol på internettet.
 
-Kontroller, at den udgående meddelelse ikke blev identificeret som spam af Office 365, og at den blev distribueret via [puljen med høj risiko](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Meddelelser i den høje risiko leverings pulje vil ikke passere SPF-checks og vil derfor ikke blive accepteret af destinations-e-mail-organisationen.
+Kontroller, at den udgående meddelelse ikke blev identificeret som spam af Microsoft og dirigeret gennem [puljen til levering med høj risiko](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Meddelelser i puljen til levering af høj risiko består ikke SPF-checks og accepteres derfor ikke af destinationsmailorganisationen.
 
-Hvis problemet fortsætter, skal du muligvis kontakte administratoren af den mail vært, som du forsøger at sende mails til. Notér den detaljerede eksterne fejl, der er tilgængelig i meddelelsen Bounce.  Support til Office 365 kan muligvis ikke hjælpe yderligere.
+Hvis problemet fortsætter, skal du muligvis kontakte administratoren af den mailvært, du forsøger at sende e-mail til. Noter den detaljerede eksterne fejl, der er tilgængelig i afvisningsmeddelelsen. Microsoft-support kan muligvis ikke hjælpe yderligere.
