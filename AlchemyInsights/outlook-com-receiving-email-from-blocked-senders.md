@@ -1,9 +1,9 @@
 ---
-title: Modtage e-mail fra blokerede afsendere i Outlook.com
+title: Modtagelse af e-mail fra blokerede afsendere i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: b0610e1eb58a080e4acc334658286e8fdf3ecb50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56989e57c590fa8c16dbff493b1de88cc4424f18
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535565"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709329"
 ---
-# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="2fa1f-102">Modtage e-mail fra blokerede afsendere</span><span class="sxs-lookup"><span data-stu-id="2fa1f-102">Receiving email from blocked senders</span></span>
+# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="bd70f-102">Modtage mail fra blokerede afsendere</span><span class="sxs-lookup"><span data-stu-id="bd70f-102">Receiving email from blocked senders</span></span>
 
-<span data-ttu-id="2fa1f-103">Hvis e-mail fra en blokeret afsender stadig vises i indbakken Outlook.com, kan afsenderen skjule deres rigtige e-mail-adresse.</span><span class="sxs-lookup"><span data-stu-id="2fa1f-103">If email from a blocked sender still appears in your Outlook.com inbox, the sender might be hiding their real email address.</span></span> <span data-ttu-id="2fa1f-104">Sådan kontrolleres en afsenders rigtige e-mail-adresse:</span><span class="sxs-lookup"><span data-stu-id="2fa1f-104">To check a sender's real email address:</span></span>
+<span data-ttu-id="bd70f-103">Hvis mail fra en blokeret afsender stadig vises i din Outlook.com indbakke, skjuler afsenderen muligvis vedkommendes rigtige e-mailadresse.</span><span class="sxs-lookup"><span data-stu-id="bd70f-103">If email from a blocked sender still appears in your Outlook.com inbox, the sender might be hiding their real email address.</span></span> <span data-ttu-id="bd70f-104">Sådan kontrollerer du en afsenders rigtige e-mailadresse:</span><span class="sxs-lookup"><span data-stu-id="bd70f-104">To check a sender's real email address:</span></span>
   
-1. <span data-ttu-id="2fa1f-105">Vælg tre punkter</span><span class="sxs-lookup"><span data-stu-id="2fa1f-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="2fa1f-106">øverst i meddelelsesvinduet, og vælg **Vis meddelelseskilden**.</span><span class="sxs-lookup"><span data-stu-id="2fa1f-106">at the top of the message window and select **View message source**.</span></span>
-2. <span data-ttu-id="2fa1f-107">Rul ned, indtil du finder **fra** -felt i vinduet **meddelelseskilden** .</span><span class="sxs-lookup"><span data-stu-id="2fa1f-107">In the **Message source** window, scroll down until you find the **From** field.</span></span>
-3. <span data-ttu-id="2fa1f-108">Marker den e-mail-adresse, der er omgivet af \< \> , og højreklik for at **kopiere**</span><span class="sxs-lookup"><span data-stu-id="2fa1f-108">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
-4. <span data-ttu-id="2fa1f-109">Brug den adresse, du kopierede for at blokere for afsenderen.</span><span class="sxs-lookup"><span data-stu-id="2fa1f-109">Use the address you copied to block the sender.</span></span> <span data-ttu-id="2fa1f-110">For at lære at blokere afsendere, se [markere e-mails som uønsket eller blokere afsendere på Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2fa1f-110">To learn how to block senders, see [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+1. <span data-ttu-id="bd70f-105">Vælg de tre prikker</span><span class="sxs-lookup"><span data-stu-id="bd70f-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="bd70f-106">øverst i meddelelsesvinduet, og vælg **Vis meddelelseskilde**.</span><span class="sxs-lookup"><span data-stu-id="bd70f-106">at the top of the message window and select **View message source**.</span></span>
+2. <span data-ttu-id="bd70f-107">Rul ned i vinduet **Meddelelseskilde,** indtil du finder feltet **Fra.**</span><span class="sxs-lookup"><span data-stu-id="bd70f-107">In the **Message source** window, scroll down until you find the **From** field.</span></span>
+3. <span data-ttu-id="bd70f-108">Fremhæv den mailadresse, \< \> der er omgivet af, og højreklik for at **kopiere**</span><span class="sxs-lookup"><span data-stu-id="bd70f-108">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
+4. <span data-ttu-id="bd70f-109">Brug den adresse, du kopierede, til at blokere afsenderen.</span><span class="sxs-lookup"><span data-stu-id="bd70f-109">Use the address you copied to block the sender.</span></span> <span data-ttu-id="bd70f-110">Du kan få mere at vide om, hvordan du blokerer afsendere, under [Markere mail som uønsket mail eller blokere afsendere i Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="bd70f-110">To learn how to block senders, see [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="2fa1f-111">Yderligere oplysninger finder du under [modtage e-mails fra afsendere i Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2fa1f-111">For more information, see [Receiving email from blocked senders in Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="bd70f-111">Du kan finde flere oplysninger under [Modtage mails fra blokerede afsendere i Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="bd70f-111">For more information, see [Receiving email from blocked senders in Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
