@@ -3,7 +3,7 @@ title: Arbejdsprocessen starter ikke
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049331"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766091"
 ---
 # <a name="workflow-is-not-starting"></a>Arbejdsprocessen starter ikke
 
-- Arbejdsprocesser i SharePoint 2010 og SharePoint 2013 starter ikke.
+- SharePoint 2010- og SharePoint 2013-arbejdsprocesser starter ikke.
 
-    - Hvis arbejdsprocessen ikke starter, kan der være et midlertidigt serviceproblem, hvor brugerne kan opleve periodiske forsinkelser med status for arbejdsprocessen. Kontroller [dashboardet for tjenestetilstand](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din organisation påvirkes.
+    - Hvis arbejdsprocessen ikke starter, kan der være et midlertidigt tjenesteproblem, hvor brugerne kan opleve periodiske forsinkelser med arbejdsgangens fremdrift. [Kontrollér Dashboardet for tjenestetilstand](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din organisation er påvirket.
 
-    - Hvis der er gået mere end 24 timer, siden du så dette problem, skal du logge en support billet. I mange tilfælde arbejder vi allerede på en løsning. Giv os mindst 24 timer til at gennemføre en løsning.
+    - Hvis der er gået mere end 24 timer, siden du første gang så dette problem, skal du logge en supportbillet. I mange tilfælde arbejder vi allerede på en løsning. Giv os mindst 24 timer til at fuldføre en løsning.
 
-- SharePoint 2010-arbejdsprocesser forsinket på Start.
+- SharePoint 2010-arbejdsprocesser forsinket ved start.
 
-    - Dette sker, hvis arbejdsprocessen udløses i store batches. (f. eks. Når flere elementer tilføjes på én gang).
+    - Dette sker, hvis arbejdsprocessen udløses i store batches. (f.eks. når der tilføjes flere elementer på én gang).
 
-    - Arbejdsprocesser er ikke designet til at køre i realtid, så en forsinkelse er efter design-opførsel.
+    - Arbejdsprocesser er ikke designet til at køre i realtid, så en forsinkelse er adfærd svære design.
 
-   -  Hvis arbejdsprocessen er komplekst Extensible Object Markup Language (XMOL), kan kompileringen være langsom. Tjek [denne](https://support.microsoft.com//kb/3043697) artikel.
+   -  Hvis arbejdsprocessen er kompleks XMOL (Extensible Object Markup Language), kan kompileringen være langsom. Tjek [denne](https://support.microsoft.com//kb/3043697) artikel.
 
-    - Du bør forenkle arbejdsprocessen eller ændre den ved hjælp af Microsoft SharePoint 2013-arbejdsproces platforms typen.
+    - Du bør forenkle arbejdsprocessen eller ændre den ved hjælp af typen Af Typen af Microsoft SharePoint 2013 Workflow-platform.
 
-    - Hvis din Arbejdsproceshistorik er blevet større, kan du slette emnerne eller oprette en ny oversigtsliste.
+    - Hvis arbejdsgangsoversigten er blevet stor, kan det være en god ide at fjerne elementerne eller oprette en ny oversigtsliste.
 
-        Flere oplysninger: [rydde Arbejdsproceshistorik](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Flere oplysninger : [Fjern arbejdsproceshistorik](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Relaterede emner
-Vil du prøve Microsoft flow i SharePoint Online?
+Vil du prøve Microsoft Flow i SharePoint Online?
 - [Opret flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint og flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint og Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

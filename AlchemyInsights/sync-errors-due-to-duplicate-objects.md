@@ -1,32 +1,32 @@
 ---
-title: 902 (synkroniseringsfejl skyldes duplikerede objekter)
+title: 902 (Synkroniseringsfejl på grund af dublerede objekter)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 777c2d8d530d03d58180f43b362ee065439b56b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ea833e0c4aebe72bc5c02e3dc10c1edc4136dcc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507409"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767113"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a>Synkroniseringsfejl skyldes duplikerede objekter
+# <a name="sync-errors-due-to-duplicate-objects"></a>Synkroniseringsfejl på grund af dublerede objekter
 
-Du modtager muligvis en af følgende fejlmeddelelser, når katalogsynkronisering slutter i Office 365:
+Du kan få vist en af følgende fejlmeddelelser, når katalogsynkroniseringen afsluttes i Microsoft 365:
 
-- Du kan ikke opdatere dette objekt i Microsoft Online Services, fordi følgende attributter, der er tilknyttet dette objekt har værdier, der allerede er knyttet til et andet objekt i den lokale mappe.
+- Dette objekt kan ikke opdateres i Microsoft Online Services, fordi følgende attributter, der er knyttet til dette objekt, har værdier, der muligvis allerede er knyttet til et andet objekt i den lokale mappe.
 
-- Der findes allerede et objekt, der er synkroniseret med den samme proxyadresse i din Microsoft Online Services-mappe.
+- Der findes allerede et synkroniseret objekt med den samme proxyadresse i mappen Microsoft Online Services.
 
-- Kan ikke opdatere dette objekt, fordi følgende attributter, der er tilknyttet dette objekt har værdier, der allerede er knyttet til et andet objekt i din lokale katalogtjenester: UserPrincipalName.
+- Dette objekt kan ikke opdateres, fordi følgende attributter, der er knyttet til dette objekt, har værdier, der allerede er knyttet til et andet objekt i de lokale katalogtjenester: UserPrincipalName.
 
-Identificere og løse problemet ved at hente og køre [Værktøj til afhjælpning af IdFix DirSync fejl](https://www.microsoft.com/download/details.aspx?id=36832).
+Du kan identificere og løse problemet ved at hente og køre [IdFix DirSync-fejloprydningsværktøjet](https://www.microsoft.com/download/details.aspx?id=36832).
 
-Yderligere oplysninger finder du under [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
+Yderligere oplysninger finder du i [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).

@@ -1,9 +1,9 @@
 ---
-title: Hvordan du køber Office 365 for ikke-overskud
+title: Sådan køber du Office 365 uden overskud
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: ac35c253b326e94a21d176d6e439c548b5ea88a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389966"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763535"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Hvordan du køber Office 365 for ikke-overskud
+# <a name="how-to-purchase-office-365-for-non-profits"></a>Sådan køber du Office 365 uden overskud
 
-Ret som en kvalificeret velgørende organisation til Microsoft er under revision. Du kan forvente at modtage en besked på fastsættelsen af din berettigelse inden udløbet af prøvetiden. Du kan spore status for din ansøgning [her](http://eligibilityweb.azurewebsites.net/).
+Din berettigelse som en Organisation for kvalificeret nonprofitorganisation fra Microsoft er under revision. Du kan forvente at modtage en meddelelse om afgørelsen af din berettigelse, før prøveperioden udløber. Du kan spore status for din ansøgning [her](https://eligibilityweb.azurewebsites.net/).

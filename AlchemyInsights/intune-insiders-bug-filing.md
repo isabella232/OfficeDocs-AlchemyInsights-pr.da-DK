@@ -1,9 +1,9 @@
 ---
-title: Intune insider bug arkivering
+title: Intune Insider bug arkivering
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663541"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765947"
 ---
-# <a name="intune-insider-bug-filing"></a>Intune insider bug arkivering
+# <a name="intune-insider-bug-filing"></a>Intune Insider bug arkivering
 
-Tak for din interesse i Intune insiders program. Hvis du allerede er onboarded til Intune insiders-programmet og har brug for at anmode om en supportanmodning, så:
+Tak for din interesse i Intune Insiders-programmet. Hvis du allerede er ombord til Intune Insiders-programmet og har brug for at indsende en supportanmodning, skal du:
 
-1. Beskriv dit problem i feltet herover.
-2. Opret en ny serviceanmodning ved hjælp af nedenstående indstillinger.
+1. Beskriv dit problem i feltet ovenfor.
+2. Opret en ny serviceanmodning ved hjælp af indstillingerne nedenfor.
 
-En Intune supporttekniker vil kontakte dig.
+En Intune supportingeniør vil kontakte dig.
 
-Hvis du ikke er i Intune insiders program, tak for din interesse. Vi rekrutterer i øjeblikket ikke nye deltagere.
+Hvis du ikke er i Intune Insiders-programmet, tak for din interesse. Vi rekrutterer i øjeblikket ikke nye deltagere.

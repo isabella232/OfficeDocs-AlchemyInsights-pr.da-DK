@@ -1,28 +1,28 @@
 ---
-title: Håndtering af spam og uønsket i Outlook på internettet
+title: Beskæftiger sig med spam og junk i Outlook på nettet
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 151356f9bafa1fea6eb2c33d157e3fb7038ceef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c972537cb4f00c9310edeaa589391d5bbd8ebc62
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555587"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768251"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Marker e-mail-meddelelser som uønsket e-mail i Outlook på internettet
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Markere mails som uønsket mail i Outlook på internettet
 
-Hvis du vil markere en meddelelse som uønsket eller uønsket, markere meddelelsen på meddelelseslisten, og vælg **uønsket** > **uønsket**.
+Hvis du vil markere en meddelelse som uønsket eller spam, skal du markere meddelelsen på meddelelseslisten og vælge **Uønsket** > **mail**.
 
-Hvis du vil blokere alle meddelelser fra en bestemt e-mail-adresse, vælge meddelelsen eller meddelelserne i meddelelseslisten, og vælg derefter **uønsket** > **blok**.
+Hvis du vil blokere alle meddelelser fra en bestemt mailadresse, skal du markere meddelelsen eller meddelelserne på meddelelseslisten og derefter vælge **Uønsket** > **blok**.
 
-Hvis du kommer til at markere en meddelelse som uønsket, markere meddelelsen i mappen Uønsket E-mail, og vælg **ikke uønsket** > **ikke uønskede**. (*Bemærk:* elementer i mappen Uønsket E-mail, slettes efter 30 dage.)
+Hvis du ved et uheld markerer en meddelelse som uønsket, skal du markere meddelelsen i mappen Uønsket mail og vælge **Ikke uønsket** > **ikke uønsket**. (*Bemærk:* Elementer i mappen Uønsket mail slettes efter 30 dage.)
 
-Yderligere oplysninger om, hvordan du [at holde spam og uønsket e-mail fra din Outlook på web-indbakken.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Få mere at vide om, hvordan [du holder spam og uønsket mail ude af din Outlook i webindbakken.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

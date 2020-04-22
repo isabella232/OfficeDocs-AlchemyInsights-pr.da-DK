@@ -1,9 +1,9 @@
 ---
-title: Sådan deles et SharePoint-websted
+title: Sådan deler du et SharePoint-websted
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3171"
-ms.openlocfilehash: d14738c81e86d42cbcec4e8f75dbc97bf82e7b2a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 9523c05ecb43efb723627cdc57439a1f434b48aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627640"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763355"
 ---
-# <a name="how-to-share-a-sharepoint-site"></a>Sådan deles et SharePoint-websted
+# <a name="how-to-share-a-sharepoint-site"></a>Sådan deler du et SharePoint-websted
 
-Hvis du er webstedsejer, kan du give andre personer adgang til webstedet ved at tilføje dem som ejere, medlemmer eller besøgende. ([Vil du dele en fil eller mappe i stedet?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
+Hvis du er ejer af et websted, kan du give andre personer adgang til webstedet ved at tilføje dem som ejere, medlemmer eller besøgende. ([Vil du i stedet dele en fil eller mappe?](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c))
 
-[Dele et websted](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658?ui=en-US&rs=en-US&ad=US)
+[Dele et websted](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

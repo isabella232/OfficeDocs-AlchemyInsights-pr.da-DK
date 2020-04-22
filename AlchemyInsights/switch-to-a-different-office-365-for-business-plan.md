@@ -1,5 +1,5 @@
 ---
-title: Skifte til en anden Office 365 til virksomheder-plan
+title: Skifte til en anden Microsoft 365 til forretningsplan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547992"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763787"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Skifte til en anden Office 365 til virksomheder-plan
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Skifte til et andet Abonnement på Microsoft 365 til virksomheder
 
-Når din virksomhed ændres, eller du har brug for flere Office 365-funktioner, kan du opgradere til en ny plan.
+Når din virksomhed ændres, eller du har brug for flere funktioner, kan du opgradere til en ny plan.
   
 1. Gå til ** \> [Faktureringsprodukter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
 

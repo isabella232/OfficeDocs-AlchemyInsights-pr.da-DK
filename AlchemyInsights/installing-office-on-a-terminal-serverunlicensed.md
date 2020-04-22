@@ -1,5 +1,5 @@
 ---
-title: Installation af Office på en Terminal Server-uden licens
+title: Installation af kontor på en Terminal Server - Uden licens
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,47 +10,47 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37205403"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763211"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installere Office på en Terminal Server
 
-Til installation af Office 365 ProPlus på en Windows-Server ved hjælp af RDS (Remote Desktop Services), der tidligere hed Terminal Services:
+Til installation af Microsoft 365 Apps til virksomheder på en Windows Server ved hjælp af RDS (Remote Desktop Services), der tidligere hed Terminal Services:
   
-- Du skal have en Office 365-plan, der omfatter Office 365 ProPlus, f. eks Office 365 Enterprise E3 eller Enterprise e5. Office 365 Business-og Office 365 Business Premium-planerne indeholder ikke Office 365 ProPlus.
+- Du skal have et Microsoft 365-abonnement, der omfatter Microsoft 365 Apps til virksomheder, f.eks. Microsoft 365 Apps til virksomheder og Microsoft 365 Apps til business Premium-planer omfatter ikke Microsoft 365 Apps til virksomheder.
 
-- Du skal aktivere [delt computeraktivering](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Du skal aktivere [aktivering af delt computer](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Hvis du vil installere Office 365 ProPlus på RDS fra Microsoft 365 administration, ***som bruger standardindstillinger for installation***, skal du benytte følgende fremgangsmåde.
+Hvis du vil installere Microsoft 365 Apps til virksomheder på RDS fra Microsoft 365 Administration, ***som bruger standardinstallationsindstillinger,*** skal du benytte følgende trin.
 
 > [!TIP]
-> Du kan også hente og køre [Microsofts support-og genoprettelsesassistent](https://aka.ms/SaRA_OfficeSCA_M365Portal) for at installere Office 365 ProPlus i den delte computer aktiveringstilstand.
+> Du kan også hente og køre [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) for at installere Microsoft 365 Apps til virksomheder i aktiveringstilstand for delt computer.
   
-1. Tjek, hvad Office 365 plan du har. [Lære](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Se, hvilket Microsoft 365-abonnement du har. [Lære](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Skift om nødvendigt til en anden Office 365-plan. [Lære](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Skift om nødvendigt til et andet Microsoft 365-abonnement. [Lære](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Hvis Office allerede er installeret på RDS-serveren ved hjælp af andre Office 365-planer, skal du afinstallere det. For eksempel ved at gå til kontrol panel \> afinstallere et program. Afinstaller ved hjælp af [Microsofts support-og genoprettelsesassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy) , hvis du løber ind i problemer.
+3. Hvis Office allerede er installeret på RDS-serveren ved hjælp af andre Microsoft 365-abonnementer, skal du fjerne det. Ved at gå til \> Kontrolpanel Fjern et program. Fjern ved hjælp af [Microsoft Support and Recovery Assistant,](https://aka.ms/SARA-OfficeUninstall-Alchemy) hvis du løber ind i problemer.
 
-4. På RDS-serveren skal du logge på Microsoft 365 administration med din administratorkonto og [installere Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Log på Microsoft 365 Administration med din administratorkonto på RDS-serveren, og [installer Microsoft 365 Apps til virksomheder](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Når Office er installeret, skal ***du ikke åbne eller logge*** på nogen Office-programmer.
+5. Når Office er installeret, ***skal du ikke åbne eller logge på*** Office-programmer.
 
-6. Aktivér aktivering af delt computer på RDS-serveren ved at redigere registreringsdatabasen ved at følge disse trin:
+6. På RDS-serveren skal du aktivere delt computeraktivering ved at redigere registreringsdatabasen ved at følge disse trin:
 
-1. Højreklik på Windows-knappen i nederste venstre hjørne af skærmen, og vælg Kør. Skriv **regedit**i feltet Åbn, og vælg derefter OK.
+1. Højreklik på Windows-knappen i nederste venstre hjørne af skærmen, og vælg Kør. Skriv **regedit**i feltet Åbn , og vælg derefter OK.
 
-2. Vælg Ja, når du bliver bedt om at tillade registrerings Editor at foretage ændringer på din enhed.
+2. Vælg Ja, når du bliver bedt om at tillade Registreringseditor at foretage ændringer på din enhed.
 
-3. Tilføj en strengværdi af **Sharedcomputerlicensing** i registreringseditoren med en indstilling på 1 under HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. Tilføj en strengværdi af **SharedComputerLicensing** med en indstilling på 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration i Registreringseditor.
 
-7. ***Log på som en slutbruger*** på RDS-serveren, og [Bekræft, at aktivering af den delte computer er aktiveret for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Log på som ***slutbruger på*** RDS-serveren, og [kontroller, at aktivering af den delte computer er aktiveret for Microsoft 365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Du kan finde flere oplysninger om forudsætninger, installationsvejledninger og vejledning om tilpassede installationer ved hjælp af Office-installationsværktøjet under [installere office 365 ProPlus ved hjælp af Fjernskrivebord-tjenester](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Yderligere oplysninger om forudsætninger, installationsvejledning og vejledning i tilpassede installationer ved hjælp af Office Deployment Tool finder du under [Installere Microsoft 365 Apps til virksomheder ved hjælp af Fjernskrivebord-tjenester](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Hvis du vil rette fejl i forbindelse med aktivering af delt computer, skal du se [fejlfinding af problemer med delt computeraktivering for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Hvis du vil rette fejl i forbindelse med aktivering af delte computere, skal du se [Fejlfinding af problemer med aktivering af delt computer for Microsoft 365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

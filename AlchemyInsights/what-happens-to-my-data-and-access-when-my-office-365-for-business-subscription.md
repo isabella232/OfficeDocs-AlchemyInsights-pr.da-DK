@@ -1,9 +1,9 @@
 ---
-title: Hvad sker der med mine data og adgang, når min Office 365 for business-abonnement udløber?
+title: Hvad sker der med mine data og min adgang, når mit Abonnement på Microsoft 365 til virksomheder ophører?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531245"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766199"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Hvad sker der med mine data og adgang, når min Office 365 for business-abonnement udløber?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Hvad sker der med mine data og min adgang, når mit Abonnement på Microsoft 365 til virksomheder ophører?
 
-Hvis dit abonnement på Office 365 ender, da det er udløbet, eller fordi du vil annullere – din adgang til Office 365-tjenester, programmer og kundedata, der går gennem flere medlemsstater før abonnementet er helt slukket eller *deprovisioned*  . Hvis du er opmærksom på dette forløb, vil du blive bedre rustet til at returnere dit abonnement til en aktiv tilstand, før det er for sent, eller – hvis du forlade Office 365 – sikkerhedskopiering af dine data, før den slettes i sidste ende.
+Hvis dit abonnement ophører – enten fordi det udløber, eller fordi du beslutter dig for at annullere – går din adgang til tjenester, programmer og kundedata gennem flere tilstande, før abonnementet er fuldt slukket eller *deklargjort* . Hvis du er klar over denne udvikling, er du bedre rustet til at returnere dit abonnement til en aktiv tilstand, før det er for sent, eller – hvis du forlader Microsoft – sikkerhedskopiere dine data, før de i sidste ende slettes.
   
-Før abonnementet faktisk når udløbsdatoen, har du nogle muligheder for at **administrere tilbagevendende fakturering for abonnementet**.
+Før abonnementet faktisk når udløbsdatoen, har du et par muligheder for at **administrere tilbagevendende fakturering for abonnementet**.
   
-- Hvis **tilbagevendende fakturering** er allerede aktiveret, behøver du ikke at foretage sig noget. Abonnementet bliver faktureret på datoen, **tilbagevendende fakturering** , og du skal betale for et ekstra år eller en måned, afhængigt af din aktuelle betalingen frekvens. Hvis en eller anden grund du har deaktiveret **tilbagevendende fakturering** , kan du altid [Slå tilbagevendende fakturering igen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Hvis **Tilbagevendende fakturering** allerede er slået til, behøver du ikke foretage dig noget. Dit abonnement faktureres på dets **tilbagevendende** faktureringsdato, og du vil blive opkrævet for et ekstra år eller måned, afhængigt af din aktuelle betalingsfrekvens. Hvis du af en eller anden grund har slået **Tilbagevendende fakturering** fra, kan du altid [slå tilbagevendende fakturering til igen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Hvis du er en åben Volume Licensing kunde med en forudbetalt, 1 års abonnement, skal du kontakte din partner for at købe en ny produktnøgle. Du får vejledning via e-mail for at aktivere din nøgle i [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Hvis du vil vide mere om at finde en ny partner eller den partner, som du har arbejdet med i fortiden, se [finde din Office 365-partner eller forhandler](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Hvis du er kunde med åben volumenlicens med et forudbetalt etårigt abonnement, skal du kontakte din partner for at købe en ny produktnøgle. Du modtager instruktioner via e-mail om at aktivere din nøgle i [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Du kan få mere at vide om, hvordan du finder en ny partner eller den partner, du tidligere har arbejdet sammen med, under [Finde din Microsoft 365-partner eller forhandler](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

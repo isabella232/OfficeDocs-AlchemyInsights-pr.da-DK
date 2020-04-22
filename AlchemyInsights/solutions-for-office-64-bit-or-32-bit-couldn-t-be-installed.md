@@ -1,9 +1,9 @@
 ---
-title: Løsninger til ' kunne ikke installeres Office (64-bit eller 32-bit)
+title: Løsninger til 'Office (64-bit eller 32-bit) kunne ikke installeres
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501190"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764183"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Løsninger for "Office (64-bit eller 32-bit) ikke kunne installeres
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Løsninger til "Office (64-bit eller 32-bit) kunne ikke installeres
 
-"Office (64-bit eller 32-bit) kunne ikke installeres" fejlen opstår, fordi du ikke kan blande 64-bit og 32-bit versioner af Office.
+Fejlen "Office (64-bit eller 32-bit) kunne ikke installeres" opstår, fordi du ikke kan blande 64-bit og 32-bit versioner af Office.
   
-For at rette fejlen og skifte fra 32-bit til 64-bit, skal du gøre følgende i denne rækkefølge.
+Hvis du vil rette denne fejl og skifte fra 32-bit til 64-bit, skal du gøre følgende i denne rækkefølge.
   
-1. Hent og Installer [Support og genoprettelse-assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. Download og installer [Support- og genoprettelsesassistent](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Når den åbnes fra **afinstallere Office-produkter** , skal du vælge den version, du vil fjerne, og klik på **Næste**.
+1. Når den åbnes, skal du vælge den version, du vil fjerne, fra **Fjern Office-produkter** og vælge **Næste**.
 
-2. Fortsætte gennem skærmbillederne, og genstart computeren, når du bliver bedt om.
+2. Fortsæt med at gå gennem skærmene, og genstart computeren, når du bliver bedt om det.
 
-    Efter genstart åbnes Support og genoprettelse assistenten igen automatisk for at gennemføre afinstallationsprocessen.
+    Når du har genstartet, åbnes support- og genoprettelsesassistenten automatisk igen for at fuldføre fjernelsesprocessen.
 
-3. Følg resterende prompter og [geninstallere Office](https://portal.office.com/OLS/MySoftware.aspx) med den rigtige 32-bit eller 64-bit-version.
+3. Følg de resterende prompter, og [geninstaller Office](https://portal.office.com/OLS/MySoftware.aspx) med den korrekte 32-bit eller 64-bit version.
 
-    Følg trinnene i [Installere Office på en PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+    Følge trinnene i [Installere Office på en pc](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
 
-Yderligere oplysninger finder du under ["Office (64-bit eller 32-bit) kunne ikke installeres" vises, når du forsøger at installere](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+Du kan finde flere oplysninger under [fejlen "Office (64-bit eller 32-bit) kunne ikke installeres" under forsøg på at installere](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
   

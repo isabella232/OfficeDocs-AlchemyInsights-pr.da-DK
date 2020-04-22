@@ -1,9 +1,9 @@
 ---
-title: Outlook ikke synkroniserer mapper
+title: Outlook synkroniserer ikke mapper
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557315"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768683"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook ikke synkroniserer mapper
+# <a name="outlook-not-synching-folders"></a>Outlook synkroniserer ikke mapper
 
-Hvis Outlook ikke er synk mapper som forventet, er der nogle ting, du kan prøve at løse problemet.
+Hvis Outlook ikke synkroniserer mapper som forventet, er der nogle ting, du kan prøve for at løse problemet.
 
-1. Reducere antallet af mapper i den primære eller en delt postkasse. [Se Outlook problemer med ydeevnen, når der er for mange elementer eller mapper i en cachelagret tilstand .ost- eller .pst-fil mappen](https://support.microsoft.com/help/2768656).
+1. Reducer antallet af mapper i den primære eller delte postkasse. [Se Problemer med ydeevnen i Outlook, når der er for mange emner eller mapper i en cachelagret tilstand .ost- eller .pst-filmappe](https://support.microsoft.com/help/2768656).
 2. Deaktiver cachelagring af alle delte mapper.
-3. Du kan ændre konfigurationen af den sekundære Exchange-postkasse til en anden Exchange-konto i din profil.
+3. Skift konfigurationen af den sekundære Exchange-postkasse til en anden Exchange-konto i din profil.
 
-Yderligere oplysninger finder du under [synkronisering og ydeevne problemer, når du arbejder med mapper i en sekundær postkasse i Outlook](https://support.microsoft.com/help/3115602).
+Yderligere oplysninger finder du i [Problemer med ydeevne og synkronisering, når du arbejder med mapper i en sekundær postkasse i Outlook](https://support.microsoft.com/help/3115602).
