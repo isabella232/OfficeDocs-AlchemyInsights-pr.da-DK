@@ -1,9 +1,9 @@
 ---
-title: Annullerer du dit Office 365-abonnement?
+title: Annullerer du dit Microsoft 365-abonnement?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 386d399ddddc553862649b548a58ff42abd0923d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552663"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711517"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Annullerer du dit Office 365-abonnement?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annullerer du dit Microsoft 365-abonnement?
 
 Vi er kede af at se dig gå!
   

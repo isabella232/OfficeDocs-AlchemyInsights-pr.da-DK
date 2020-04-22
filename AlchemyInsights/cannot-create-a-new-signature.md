@@ -1,9 +1,9 @@
 ---
-title: Kan ikke oprette en ny signatur
+title: Der kan ikke oprettes en ny signatur
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: a6cfdd6d9329b002d3bc55b6eeff02a25157aa18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5b7f44b8a629f4781c4d953cc24ccb21c99c333
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519833"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711337"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Kan ikke tilføje eller oprette en ny signatur i Outlook
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Der kan ikke tilføjes eller oprettes en ny signatur i Outlook
 
-Dette er et kendt problem. Vi arbejder på at løse det, og status opdateres i [Outlook fryser knappen signatur](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Dette er et kendt problem. Vi arbejder på at rette op på det, og status [opdateres](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)i Outlook fryser ved at klikke på knappen Signatur .
 
-Til at løse dette problem ved første [prøve trinnene](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) til at fjerne en forudinstalleret Microsoft Office Desktop Apps. 
+Du kan lÃ ̧se problemet ved at [fÃ ̧lge trinnene](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) til at fjerne de forudinstallerede Microsoft Office Desktop Apps. 
 
-Hvis det ikke virker for computeren, skal du prøve [løsning, der er baseret på registreringsdatabasen](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Hvis det ikke virker for den berørte maskine, kan du prøve den [registreringsdatabasebaserede løsning](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).

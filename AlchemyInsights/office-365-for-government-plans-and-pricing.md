@@ -1,9 +1,9 @@
 ---
-title: Office 365 for regering planer og prissætning
+title: Office 365 til offentlige planer og priser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522113"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713352"
 ---
-# <a name="office-365-government-plans"></a>Office 365 regering har til hensigt
+# <a name="office-365-government-plans"></a>Office 365-regeringsplaner
 
-Office 365 amerikanske planer er designet til at imødekomme af amerikanske offentlige organisationer. De indeholder alle de funktioner og funktioner i Office 365-tjenester i et segmenteret regering sky community, der gør det muligt for virksomheder at opfylde USA overholdelse og sikkerhedsstandarder.
+Office 365-planer fra den amerikanske regering er designet til de unikke behov i amerikanske regeringsorganisationer. De indeholder alle funktionerne og funktionerne i Office 365-tjenester i et segmenteret offentligt cloudcommunity, der gør det muligt for organisationer at opfylde usa's overholdelses- og sikkerhedsstandarder.
   
-- [Gennemse de statslige planer](https://products.office.com/government/compare-office-365-government-plans)
+- [Gennemgå regeringens planer](https://products.office.com/government/compare-office-365-government-plans)
 
-- [Sammenlign alle Office 365-planer](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Sammenlign alle Microsoft 365-abonnementer](https://products.office.com/business/compare-more-office-365-for-business-plans)

@@ -1,9 +1,9 @@
 ---
-title: Ændre min e-mail-adresse i Outlook.com
+title: Skift min e-mailadresse i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "259"
 - "8000010"
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: 6a944bbd2fa77370c081b2464683efdc8e8f95a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bfca8cbf03b2561a433032e79c09727b83bacf43
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547773"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712920"
 ---
-# <a name="change-your-email-address"></a>Ændre din e-mail-adresse
+# <a name="change-your-email-address"></a>Ændre din mailadresse
 
-Hvis du vil ændre din e-mail-adresse til Outlook.com, skal du tilføje et andet og gøre det til din primære e-mail-alias.
+Hvis du vil ændre din Outlook.com mailadresse, skal du tilføje en anden og gøre den til dit primære mailalias.
   
-Følg vejledningen i at [tilføje eller fjerne en e-mail-alias i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Følg vejledningen i [Tilføj eller fjern et mailalias i Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

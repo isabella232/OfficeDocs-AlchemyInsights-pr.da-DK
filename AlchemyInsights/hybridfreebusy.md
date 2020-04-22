@@ -1,8 +1,8 @@
 ---
-title: 401 hybrid - FreeBusy
+title: 401 Hybrid - Ledig optaget
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 401
 ms.assetid: 13bb2a1b-6433-4249-8b0f-c01e23e5d7f1
-ms.openlocfilehash: aa5967ee93dff670d8bb7897e9703d1f833b199e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 15981974b4022da71ebe870158614e47e06a0000
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417098"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716826"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Kalender problemer med ledig/optaget tid i hybridmiljøer
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Problemer med ledig/optaget kalender i hybridmiljøer
 
-Hvis brugere har problemer med at se kalender, oplysningerne i hybridmiljøer for ledig/optaget tid, igen køre guiden Konfiguration af Hybrid. Du kan finde flere oplysninger om guiden Konfiguration af Hybrid [Hybrid konfigurationsguiden](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Hvis brugerne har problemer med at få vist oplysninger om ledig/optaget kalender i hybridmiljøer, skal du køre guiden Hybridkonfiguration igen. Yderligere oplysninger om guiden Hybridkonfiguration finder du i [guiden Hybridkonfiguration](https://go.microsoft.com/fwlink/p/?linkid=528149).

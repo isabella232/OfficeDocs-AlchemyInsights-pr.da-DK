@@ -1,9 +1,9 @@
 ---
-title: 1800001 oprettelse eller redigering af en profil
+title: 1800001 Oprette eller redigere en profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7e98c9bd2feb9f36c2f9486e4e31e4882b68f6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36515153"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715482"
 ---
 # <a name="create-or-edit-an-outlook-profile"></a>Oprette eller redigere en Outlook-profil
 
-Hvis du vil oprette en ny Outlook-profil, redigere en profil eller omdøbe en profil, skal du benytte følgende fremgangsmåde.
+Hvis du vil oprette en ny Outlook-profil, redigere en profil eller omdøbe en profil, skal du følge følgende trin.
   
-1. I \> Outlook skal du vælge **filkonto** \> **Indstillinger** **Administrer profiler**.
+1. Vælg Administrer **profiler** **for Filkontoindstillinger** \> **i** \> Outlook .
     
-2. Vælg **Vis profiler**i dialogboksen **konfiguration af e-mail** .
+2. Vælg **Vis profiler**i dialogboksen **Mailopsætning** .
     
-3. Benyt en af følgende fremgangsmåder:
+3. BedfÃ ̧r en af følgende fremgangsmåder:
     
   - Hvis du vil oprette en ny profil, skal du vælge **Tilføj**.
     
-  - Vælg **Egenskaber**for at redigere eller omdøbe en profil.
+  - Hvis du vil redigere eller omdøbe en profil, skal du vælge **Egenskaber**.
     
-Hvis du har problemer med at oprette eller redigere en Outlook-profil, kan du køre [Outlook-profil værktøjet](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte computer. Det vil udføre nogle checks, og når du er klar, vil oprette en Outlook-profil med din e-mail-adresse. 
+Hvis du har problemer med at oprette eller redigere en Outlook-profil, kan du køre [Outlook-profilværktøjet](https://aka.ms/SaRA-OutlookSetupProfile) på den berørte maskine. Den udfører nogle kontroller, og når du er klar, oprettes der en Outlook-profil med din mailadresse. 
   
 

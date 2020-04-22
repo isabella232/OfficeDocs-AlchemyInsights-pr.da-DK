@@ -1,5 +1,5 @@
 ---
-title: eksport værktøj til eDiscovery
+title: eDiscovery-eksportværktøj
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,22 +14,22 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769297"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714764"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan du ikke installere eller køre værktøjet eDiscovery Export?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan du ikke installere eller køre eDiscovery Export Tool?
 
-Hvis du ikke kan installere eller køre Office 365 eDiscovery-eksportværktøjet for at hente søgeresultater, skal du kontrollere følgende:
+Hvis du ikke kan installere eller køre eDiscovery Export Tool for at hente søgeresultater, skal du kontrollere følgende:
   
 - Den computer, du bruger, opfylder disse forudsætninger:
 
-  - 32-eller 64-bit versioner af Windows 7 og nyere versioner
+  - 32- eller 64-bit versioner af Windows 7 og nyere versioner
 
-  - Microsoft .NET Framework 4,7
+  - Microsoft .NET Framework 4.7
 
   - En understøttet browser:
 
@@ -39,11 +39,11 @@ Hvis du ikke kan installere eller køre Office 365 eDiscovery-eksportværktøjet
 
   - Internet Explorer 10 og nyere versioner
 
-    Andre browsere, såsom Google Chrome og Mozilla Firefox, understøttes ikke.
+    Andre browsere, såsom Google Chrome og Mozilla Firefox understøttes ikke.
 
-- Din organisation kan oprette forbindelse til slutpunktet i Azure, som er ** \*. blob.Core.Windows.net** (jokertegnet repræsenterer et entydigt id for eksportjobbet).
+- Din organisation kan oprette forbindelse til slutpunktet i Azure, som er ** \*.blob.core.windows.net** (jokertegnet repræsenterer et entydigt id for dit eksportjob).
 
-- Du er tildelt eksport rollen i Office 365 Security &amp; Compliance Center. Rollen tildeles som standard kun til rollegruppen eDiscovery Manager. Se [tildele eDiscovery-tilladelser](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Du tildeles rollen Eksporter i Microsoft &amp; 365 Security Compliance Center. Denne rolle tildeles som standard kun til rollegruppen eDiscovery Manager. Se [Tildele eDiscovery-tilladelser](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Du finder flere oplysninger i [eksportere indholds søgeresultater](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Yderligere oplysninger finder du i [Export Content Search Results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

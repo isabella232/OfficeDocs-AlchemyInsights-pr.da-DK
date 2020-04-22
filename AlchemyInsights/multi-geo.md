@@ -1,5 +1,5 @@
 ---
-title: Multi-geo
+title: Multi-Geo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 2017b2d50b7170a6435ad8119b2a72f6066f89fa
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: cb9fef505e35e9d5888ab995d5cd3a43392b682f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554393"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713532"
 ---
-# <a name="office-365-multi-geo"></a>Office 365 multi-geo
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
-Med Office 365 multi-geo kan din organisation udvide sin Office 365-tilstedeværelse til flere geografiske områder og/eller lande i din eksisterende lejer. Se linkene herunder for at få flere oplysninger.
+Med Microsoft 365 Multi-Geo kan din organisation udvide sin Microsoft 365-tilstedeværelse til flere geografiske områder og/eller lande inden for din eksisterende lejer. Se nedenstående links for mere information.
 
-- [Office 365 multi-geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Multi-geo-funktioner i OneDrive og SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
-- [Multi-geo kapaciteter i Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
-- [Plan for Office 365 multi-geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [Konfigurere multi-geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Multi-Geo-funktioner i OneDrive og SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+- [Multi-Geo-funktioner i Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+- [Plan for Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Konfigurer multi-geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

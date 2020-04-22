@@ -1,9 +1,9 @@
 ---
-title: Hvis du annullerer din Office 365-abonnement?
+title: Annullerer du dit Microsoft 365-abonnement?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520301"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711481"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Hvis du annullerer din Office 365-abonnement?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annullerer du dit Microsoft 365-abonnement?
 
-Vi beklager, at du går, men her er indstillingerne, du vil opsige dit abonnement:
+Vi er kede af at se dig gå, men her er dine muligheder for at annullere dit abonnement:
   
-- **Baseret på organisationens data, mener vi, at dine aktuelle abonnementer er prøveversionen abonnementer. Det er ikke nødvendigt at annullere et prøve abonnement udtrykkeligt, fordi prøveversionen abonnementer kræver ingen betalinger, og der er ingen forpligtelse når prøveversionen ender.**
+- **Baseret på dine organisationsdata mener vi, at alle dine nuværende abonnementer er prøveabonnementer. Der er ingen grund til udtrykkeligt at annullere et prøveabonnement, fordi prøveabonnementer ikke kræver betalinger, og der ikke er nogen forpligtelse, når prøveperioden slutter.**
 
-- Hvis du vil vide mere om annullering af et abonnement eller en trinvis vejledning, kan du se denne artikel: [opsige dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- Du kan få mere at vide om annullering af et abonnement eller for at få en trinvis vejledning i denne artikel: [Annuller dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

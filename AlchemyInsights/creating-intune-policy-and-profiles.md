@@ -1,9 +1,9 @@
 ---
-title: Oprette Intune politikker og profiler
+title: Opret Intune-politikker og -profiler
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514757"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715390"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Oprettelse af Intune politik og profiler
+# <a name="creating-intune-policy-and-profiles"></a>Oprette Intune-politik og profiler
 
-I Intune, kan du oprette politikker og profiler, der kan gør forskellige ting.
+I Intune kan du oprette politikker og profiler, der gør forskellige ting.
 
-- **Tilmelding profiler**: Forudkonfigurer dine enheder af platformen, aktivere brugeren tilhørsforhold, bruge godkendelse i flere niveauer, og meget mere.
+- **Tilmeldingsprofiler**: Forudkonfigurer dine enheder efter platform, aktiver brugertilhørsforhold, brug multifaktorgodkendelse og meget mere.
 
-  [Hvad er tilmelding til enheden](https://docs.microsoft.com/intune/device-enrollment), oprette profiler for tilmelding til [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)og [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) er gode ressourcer.
+  [Hvad er tilmelding til enheder](https://docs.microsoft.com/intune/device-enrollment), og opret tilmeldingsprofiler til [Android](https://docs.microsoft.com/intune/android-enroll), [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)og [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) er gode ressourcer.
 
-- **Overholdelse af politikker**: definerer de regler og indstillinger, der skal følge enheder er kompatible. Du kan også bruge overholdelse af politikker til at overvåge enheder og underrette brugere om manglende overholdelse.
+- **Overholdelsespolitikker**: Definer de regler og indstillinger, som enheder skal følge for at være kompatible. Du kan også bruge overholdelsespolitikker til at overvåge enheder og give brugerne besked om manglende overholdelse.
 
-  Introduktion til [enheden overholdelse af politikker](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Adgangsstyring politikker**: at sikre organisatoriske ressourcer, afhængigt af betingelser, du angiver. Brug eksempelvis adgangsstyring for enheder, der ikke er kompatibel, for at begrænse adgangen til e-mail- og SharePoint.
+  Kom i gang med [politikker for enhedsoverholdelse](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **Politikker for betinget adgang**: Hjælp med at sikre organisatoriske ressourcer, afhængigt af de betingelser, du angiver. For enheder, der ikke overholder reglerne, skal du f.eks.
 
-  [Hvad er betinget adgang](https://docs.microsoft.com/intune/conditional-access) og [almindelige måder at bruge adgangsstyring](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) er gode ressourcer til at komme i gang.
+  [Hvad er betinget adgang](https://docs.microsoft.com/intune/conditional-access) og [almindelige måder at bruge betinget adgang](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) er gode ressourcer til at komme i gang.
 
-- **Konfigurationsprofiler**: administrere funktioner og indstillinger for enheder, herunder e-mail-indstillinger, tilføje et WiFi-netværk, skal du bruge indbyggede skabeloner og funktionerne til versionsstyring iOS og macOS enhed.
+- **Konfigurationsprofiler**: Administrer funktioner og indstillinger på enheder, herunder mailindstillinger, tilføj et WiFi-netværk, brug indbyggede skabeloner, styrer iOS- og macOS-enhedsfunktioner og meget mere.
 
-  Kom i gang på [enhed konfigurationsprofiler](https://docs.microsoft.com/intune/device-profiles).
+  Kom i gang med [konfigurationsprofiler](https://docs.microsoft.com/intune/device-profiles)for enheder .
 
 Nyttige links:
 
-- [Almindelige spørgsmål, problemer og løsninger med enhedspolitikker og profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Almindelige spørgsmål, problemer og løsninger med enhedspolitikker og -profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
 - [Fejlfinding i forbindelse med politikker og profiler i Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

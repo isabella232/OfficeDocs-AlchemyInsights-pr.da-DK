@@ -1,9 +1,9 @@
 ---
-title: Sådan ændres sproget i Outlook.com
+title: Sådan ændrer du sprog i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3352bf86e926bf4242a2826b773b1d7cf4ac4faf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36541660"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711265"
 ---
-# <a name="change-your-language"></a>Skift sprog
+# <a name="change-your-language"></a>Ændre dit sprog
 
-1. For at Chang sproget i Outlook skal du gå til indstillinger for [**sprog og tid**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Indstillinger** \> **Se alle Outlook-indstillinger** > **Generelt** > **sprog og tid**).
+1. Hvis du vil skifte sprog i Outlook, skal du gå til [**Indstillinger for sprog og klokkeslæt**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Indstillinger** \> **Vis alle Outlook-indstillinger** > **Generelt** > **sprog og klokkeslæt).**
 
 2. Vælg dit sprog.
 
 3. Vælg **Gem**.
 
-Du kan få mere at vide under [ændre tidszone og sprogindstillinger i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Hvis du vil have mere at vide, skal du se [Ændre tidszone- og sprogindstillinger i Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

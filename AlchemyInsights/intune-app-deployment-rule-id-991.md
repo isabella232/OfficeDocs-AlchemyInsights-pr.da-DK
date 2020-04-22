@@ -1,8 +1,8 @@
 ---
-title: Intune App installation regel-Id 991
+title: Intune-regel for installation af app 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498265"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714000"
 ---
-# <a name="intune-app-deployment"></a>Intune App-installation
+# <a name="intune-app-deployment"></a>Intune-appinstallation
 
-Installation af programmer med Intune er en proces i tre trin:
+Implementering af programmer med Intune er en proces i tre trin:
   
-1. **Tilføjelse af en app** - du kan tilføje en App Store app eller overføre et Line of Business-app.
+1. **Tilføjelse af en app** – Du kan tilføje en App Store-app eller uploade en Line of Business-app.
 
-2. **Tildele en app** - afgøre omfanget af installationen af programmet.
+2. **Tildeling** af en app – Bestem omfanget af installationen af programmet.
 
-3. **Overvågning apps** - få vist status for installation af apps, liste opdaget apps og styre programmer, der er købt fra app stores.
+3. **Overvågning af apps** – Se installationsstatus for apps, vis opdagede apps, og administrer apps, der er købt i appbutikker.
 
-Læs [Hvad er Intune App Management](https://docs.microsoft.com/intune/app-management) gennemgange og oplysninger om konfiguration af og beskyttelse af programmer.
+Læs [Hvad er Intune App Management](https://docs.microsoft.com/intune/app-management) for gennemgange og oplysninger om konfiguration og beskyttelse af programmer.
   

@@ -1,5 +1,5 @@
 ---
-title: 616 Deling af kalendere
+title: 616 Kalenderdeling
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,18 +12,18 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665610"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711985"
 ---
-# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues med kalender deling i Outlook
+# <a name="isues-with-calendar-sharing-in-outlook"></a>Isues med kalenderdeling i Outlook
 
-- Hvis du ikke kan se oplysninger om ledig/optaget i andre kalendere, eller hvis andre ikke kan se oplysninger i din kalender om, hvornår du er ledig/optaget, kan du bruge [Microsoft Support- og genoprettelsesassistent til Office 365](https://diagnostics.office.com/).
+- Hvis du ikke kan se oplysninger om ledig/optaget kalender i andre kalendere, eller hvis andre ikke kan se oplysninger om ledig/optaget tid i din kalender, skal du bruge [Microsoft Support and Recovery Assistant til Microsoft 365](https://diagnostics.office.com/).
 
-**Yderligere ressourcer:**
+**Flere ressourcer:**
 
 - [Del en Outlook-kalender med andre personer](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 

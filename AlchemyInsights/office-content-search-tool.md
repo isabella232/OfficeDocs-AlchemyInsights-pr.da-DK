@@ -1,5 +1,5 @@
 ---
-title: 1491-Søg-ikke-returnering-forventet-resultater
+title: 1491-search-not-returning-expected-results
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053471"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713280"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Indholds søgnings værktøj til at finde relevante oplysninger
+# <a name="content-search-tool-to-find-relevant-info"></a>Værktøjet Indholdssøgning til at finde relevante oplysninger
 
-Brug værktøjet til indholdssøgning i Security & Compliance Center til hurtigt at finde mails i Exchange-postkasser, dokumenter på SharePoint-websteder og OneDrive-placeringer og chatsamtaler i Skype for Business. Du kan bruge værktøjet til indholdssøgning til at søge efter mails, dokumenter og chatsamtaler i Office 365-samarbejdsværktøjer som Microsoft teams og Office 365-grupper.
+Brug værktøjet Indholdssøgning i Sikkerheds& Compliance Center til hurtigt at finde mails i Exchange-postkasser, dokumenter på SharePoint-websteder og OneDrive-placeringer og chatsamtaler i Skype for Business. Du kan bruge værktøjet til indholdssøgning til at søge efter mail, dokumenter og chatsamtaler i Office 365-samarbejdsværktøjer, f.eks.
 
 
-Før du bruger [indholdssøgning](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [sikkerheds & overholdelses Center](https://sip.protection.office.com/homepage), skal du fuldføre konfigurationsindstillinger, herunder [konfigurere tilladelser](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [angive download hastigheder](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) og [eksportindstillinger](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Før du bruger [Indholdssøgning](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [Sikkerheds& Overholdelsescenter](https://sip.protection.office.com/homepage), skal du fuldføre konfigurationsindstillingerne, herunder [konfigurere tilladelser](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [angive overførselshastigheder](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) og [eksportindstillinger](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
-Forstå mere om indholdssøgning ved at gennemgå [kravene og begrænsningerne](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), under [søge delvist indekserede elementer](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) og andre resultater, som du skal være opmærksom på.
+Få mere at vide om indholdssøgning ved at gennemgå [kravene og begrænsningerne](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [undersøge delvist indekserede elementer](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) og andre resultater, du skal være opmærksom på.
 
-Når du har gennemgået konfigurationsindstillingerne og begrænsningerne for indholdssøgning, skal du se [brug af indholdssøgning</a> for at søge efter in-Place-emner som e-mail, dokumenter og chatsamtaler i din Office 365-organisation](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Når du har gennemgået konfigurationsindstillingerne og begrænsningerne i Indholdssøgning, skal du se Brug af [indholdssøgning</a> til at søge efter lokale elementer som mail, dokumenter og chatsamtaler i organisationen](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-Du finder en komplet trinvis indholdssøgning under [søge efter indhold i Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) for at få flere oplysninger.
+Du kan finde flere oplysninger om, [Search for content in Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) hvordan du får en komplet trin for trin i indholdssøgning.

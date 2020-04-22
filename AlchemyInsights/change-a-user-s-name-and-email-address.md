@@ -12,17 +12,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 833e4142356a02b23e2465273bf63c42ee7e4f5b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665394"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715770"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Ændre en brugers navn og mailadresse
 
-Det er nemt at ændre en brugers navn og e-mail-adresse i Office 365. Gå til siden **brugere** \> [aktive brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) , og vælg brugeren for at redigere vedkommendes oplysninger. Du kan også bruge denne artikel til trinvise instruktioner:
+Det er nemt at ændre en brugers navn og mailadresse i Microsoft 365. Gå til siden **Aktive brugere,** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) og vælg den bruger, der skal redigere stægens oplysninger. Du kan også bruge denne artikel til at få en trinvis vejledning:
   
-[Ændre et Brugernavn og en mailadresse i Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+[Ændre et brugernavn og en mailadresse i Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
- **Bemærk**: Hvis du ændrer brugerens primære e-mail-adresse, vil vedkommendes gamle e-mail-adresse stadig være gyldig til modtagelse af e-mail (dette sker automatisk). Hvis din organisation er i hybrid tilstand, skal alle ændringer af mail og Brugernavn også udføres i det lokale Active Directory og derefter synkroniseres til skyen.
+ **Bemærk:** Hvis du ændrer brugerens primære e-mailadresse, vil deres gamle e-mailadresse stadig være gyldig til at modtage e-mail (dette sker automatisk). Hvis din organisation er i hybrid tilstand, skal alle e-mail- og brugernavnsændringer også foretages i det lokale Active Directory og derefter synkroniseres til skyen.

@@ -1,9 +1,9 @@
 ---
-title: Identificere Indbakke regel aktivitet i overvågningslogge
+title: Identificer aktivitet for indbakkeregel i overvågningslogfiler
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539156"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716418"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificere Indbakke regel aktivitet i overvågningslogge
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificer aktivitet for indbakkeregel i overvågningslogfiler
 
-Du kan bruge overvågning log søgning i Office 365 sikkerhed & Overholdelsescenter Indbakke regel hændelser (oprettelse, ændring og sletning af regler for Indbakke).
+Du kan bruge overvågningslogsøgning i Microsoft 365 Security & Compliance Center til at få vist regelhændelser i indbakken (oprettelse, ændring og sletning af indbakkeregler).
 
-1. Log på [Office 365 sikkerhed & Overholdelsescenter](https://protection.office.com/).
+1. Log på [Microsoft 365 Security & Compliance Center](https://protection.office.com/).
 
-2. Gå til **Søg** > **revision log** søgeside.
+2. Gå til**søgesiden for søgefilen til søgeovervågning** i **søgefilen** > til søgning i søgeområdet.
 
-3. Vælg datointervallet i felterne **startdato** og **slutdato** .
+3. Vælg datointervallet i felterne **Startdato** **og Slutdato.**
 
-4. Under **Exchange postkasse aktiviteter**, skal du kontrollere feltet **aktiviteter** er indstillet til **Ny InboxRule Opret/Rediger/aktivere/deaktivere indbakkeregel**.
+4. Under **Exchange Mailbox Activities**skal du kontrollere , at feltet **Aktiviteter** er angivet til **Ny IndbakkeRegel Opret/rediger/aktiver/deaktiver indbakkereglen**.
 
 5. Klik på **Søg**.
 
-Vælg en revisionspost i resultaterne. Oplysninger om mærke, klik på **Flere oplysninger**. Oplysninger om indstillinger for regler i Indbakke vises i feltet **parametre** .
+Vælg en overvågningspost i resultaterne. Klik på Flere oplysninger i pop **op-vinduet med**detaljer . Oplysninger om indstillingerne for indbakkeregel vises i feltet **Parametre.**
 
-Yderligere oplysninger finder du [fastlægge, hvis en bruger har oprettet en regel for Indbakke](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Du kan finde flere oplysninger [under Bestemme, om en bruger har oprettet en indbakkeregel](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

@@ -1,5 +1,5 @@
 ---
-title: 711 oprettelse af en distributionsliste eller-gruppe
+title: 711 Oprette en distributionsliste eller -gruppe
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 2ce7e4146abe272b2025132c4fc44329abc8d8a0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36740747"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715446"
 ---
-# <a name="create-distribution-groups"></a>Oprette distributionsgrupper
+# <a name="create-distribution-groups"></a>Opret distributionsgrupper
 
-Du bruger distributionsgrupper (også kaldet distributionslister) i Office 365 til at levere mails til grupper af personer i og uden for organisationen. At skabe dem er nemt! Du finder en vejledning under [oprette distributionslister i Microsoft 365 administration](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
+Du bruger distributionsgrupper (også kaldet distributionslister) til at levere mails til grupper af personer i og uden for organisationen. Oprettelse af dem er nemt! Yderligere oplysninger finder du [i Create distribution lists in the Microsoft 365 Administration](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
 
-**Bemærk**: en administrator skal administrere medlemskabet af en distributionsgruppe. Hvis du vil have brugerne til at administrere deres egne gruppe medlemskabs lister, kan du overveje [Office 365-grupper](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) i stedet.
+**Bemærk:** En administrator skal administrere medlemskabet af en distributionsgruppe. Hvis brugerne skal administrere deres egne gruppemedlemslister, kan det være en god ide at overveje [Office 365-grupper](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) i stedet.

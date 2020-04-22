@@ -1,9 +1,9 @@
 ---
-title: Anvend automatisk følsomheds etiketter
+title: Anvende følsomhedsetiketter automatisk
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d812b8ba6f80b61f48502df53c67a17c102d22b1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050303"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712380"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Anvend automatisk følsomheds etiketter
+# <a name="auto-apply-sensitivity-labels"></a>Anvende følsomhedsetiketter automatisk
 
-Følsomheds etiketter kan anvendes manuelt på indhold af brugere, eller du kan konfigurere dem til automatisk at blive anvendt på indhold.
+Følsomhedsetiketter kan anvendes manuelt på indhold af brugere, eller du kan konfigurere dem til automatisk at blive anvendt på indhold.
 
-Automatisk anvendelse af følsomheds etiketter fjerner behovet for at træne brugere i at klassificere indhold og behovet for at underrette dem om politik konfigurationer.
+Automatisk anvendelse af følsomhedsetiketter fjerner behovet for at uddanne brugerne i, hvordan indholdet klassificeres, og behovet for at underrette dem om politikkonfigurationer.
 
-Hvis du vil anvende etiketter automatisk, skal du gøre følgende:
+Hvis du vil anvende etiketter automatisk, kræves følgende:
 
-- Azure information Protection P2-abonnement
-- [Hente og installere Unified-mærknings klienten til Azure information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure Information Protection P2-abonnement
+- [Hente og installere den unified e-mærkeklient til Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Vi arbejder på oprindelig support, der ikke kræver Azure information Protection Unified-mærknings klienten fremover.
+Vi arbejder på indbygget support, der ikke kræver den unified e-mærkeklient til Azure Information Protection i fremtiden.
 
-I øjeblikket er det kun Windows, der understøtter Unified label-klienten.  Funktionen understøttes endnu ikke på Mac, iOS og Android.
+I øjeblikket er det kun Windows, der understøtter den samlede etiketklient.  Funktionen understøttes endnu ikke på Mac, iOS og Android.
 
-Du finder flere oplysninger om følsomheds etiketter og automatisk anvendelse af dem på indhold i:
+Du kan finde flere oplysninger om følsomhedsetiketter og automatisk anvende dem på indhold under:
 
-- [Oversigt overfølsomheds etiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Anvende en følsomheds etiket på indhold automatisk](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Oversigt over følsomhedsetiketter](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Anvende en følsomhedsetiket på indhold automatisk](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

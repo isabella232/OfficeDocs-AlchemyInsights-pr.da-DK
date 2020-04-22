@@ -1,5 +1,5 @@
 ---
-title: Problemer med spoofing, phishing eller personefterligning?
+title: Problemer med spoofing, phishing eller efterligning?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
+ms.openlocfilehash: fa6503b7ec1c4e83030149ee460e6d84602d7f4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716097"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713964"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemer med spoofing, phishing eller personefterligning?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemer med spoofing, phishing eller efterligning?
 
-Få mere at vide om, hvordan Office 365 beskytter dig mod:
+Få mere at vide om, hvordan Microsoft beskytter dig mod:
 
 - [Spoofing](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
@@ -26,12 +26,12 @@ Få mere at vide om, hvordan Office 365 beskytter dig mod:
 
 Yderligere anbefalinger:
 
-- For misvisende afsendere, der ser ud til at komme fra dit eget domæne, kan [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) og [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) hjælpe.
+- For spoof afsendere, der synes at komme fra dit eget domæne, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) og [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) kan hjælpe.
 
-- Bekræft, at afsendere i dit eget domæne ikke er konfigureret til at tilsidesætte antispamfiltrering ved hjælp af regler for mailflow (også kaldet transportregler) eller Tillad liste poster. Du finder flere oplysninger under [forsigtighedsregler mod omgåelse af spamfiltre i Office 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Kontroller, at afsendere i dit eget domæne ikke er konfigureret til at omgå filtrering mod spam ved hjælp af mailflowregler (også kaldet transportregler) eller tillade listeposter. Yderligere oplysninger finder du [i Cautions against in cautions against inining Microsoft spam filters](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Kontroller, at brugerne ikke har konfigureret poster for [sikker afsenderliste](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) , der kan tillade phishing-angreb.
+- Kontroller, at brugerne ikke har konfigureret [listeposter for afsendere,](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) der er sikker på, og som kan tillade phishing-angreb.
 
-- Overvej at levere spam-og phishing-meddelelser med høj sikkerhed til karantæne i stedet for mappen uønsket mail. Du finder flere oplysninger [i karantæne-e-mail-meddelelser i Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
+- Overvej at levere spam og phishing-meddelelser med høj sikkerhed i karantæne i stedet for mappen Uønsket mail. Yderligere oplysninger finder du i [Quarantine mail messages](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
 **[Rapportering af meddelelser til Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) er den bedste måde at fortælle os, hvordan filtrene klarer sig.**

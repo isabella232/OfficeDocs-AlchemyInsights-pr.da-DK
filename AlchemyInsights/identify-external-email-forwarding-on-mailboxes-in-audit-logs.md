@@ -1,9 +1,9 @@
 ---
-title: Identificere eksterne e-mail-videresendelse på postkasser i overvågningslogge
+title: Identificere ekstern videresendelse af mail på postkasser i overvågningslogfiler
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716454"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificere når eksterne e-mail-videresendelse er konfigureret til postkasser
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificer, hvornår ekstern videresendelse af mail er konfigureret i postkasser
 
-Når en bruger i Office 365 konfigurerer eksterne e-mail-videresendelse på en postkasse, overvåges aktiviteten, som en del af **Set-Mailbox** -cmdlet. Du kan se aktiviteten ved hjælp af overvågning log Søg i Security & Overholdelsescenter.
+Når en Microsoft 365-bruger konfigurerer ekstern videresendelse af mail på en postkasse, overvåges aktiviteten som en del af **cmdlet'en Set-Mailbox.** Du kan se aktiviteten ved hjælp af overvågningslogsøgning i Sikkerheds& Compliance Center.
 
-1. Log på [Office 365 sikkerhed & Overholdelsescenter](https://protection.office.com/).
+1. Log på [Microsoft 365 Security & Compliance Center](https://protection.office.com/).
 
-2. Gå til **Søg** > **revision log** søgeside.
+2. Gå til**søgesiden for søgefilen til søgeovervågning** i **søgefilen** > til søgning i søgeområdet.
 
-3. Vælg datointervallet i felterne **startdato** og **slutdato** . Du behøver ikke at angive et brugernavn. Kontroller feltet **aktiviteter** er indstillet til at **få vist resultater for alle aktiviteter**.
+3. Vælg datointervallet i felterne **Startdato** **og Slutdato.** Du behøver ikke at angive et brugernavn. Kontroller, at feltet **Aktiviteter** er angivet til Vis resultater for **alle aktiviteter**.
 
 4. Klik på **Søg**.
 
-Klik på **Filtrerede resultater** i resultaterne, og skriv **Sæt postkasse** i filterboksen aktivitet. Vælg en revisionspost i resultaterne. **Oplysninger om** mærke, klik på **flere oplysninger**. Du skulle se på detaljerne for hver revisionspost til at bestemme, om aktiviteten vedrører e-mail videresendelse.
+Klik på **Filtrer resultater** i resultaterne, og skriv **Set-Postkasse** i feltet aktivitetsfilter. Vælg en overvågningspost i resultaterne. Klik på Flere oplysninger i pop **op-vinduet** **Detaljer** . Du skal se på detaljerne for hver overvågningspost for at afgøre, om aktiviteten er relateret til videresendelse af e-mail.
 
-- **ObjectId**: alias værdien af den postkasse, der er blevet ændret.
+- **ObjectId**: Aliasværdien for den postkasse, der blev ændret.
 
-- **Parametre**: _ForwardingSmtpAddress_ angiver e-mail-adressen til destinationen.
+- **Parametre**: _Videresendelse SmtpAddress_ angiver destinationsmailadressen.
 
-- **Bruger-id**: den bruger, der konfigureret e-mail-videresendelse på postkassen i feltet **ObjectId** .
+- **UserId**: Den bruger, der konfigurerede videresendelse af mail på postkassen i **feltet ObjectId.**
 
-Yderligere oplysninger finder du [fastlægge, der har konfigureret e-mail videresendes til en postkasse](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Du kan finde flere oplysninger [under Bestemme, hvem der konfigurerer videresendelse af mail for en postkasse](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).

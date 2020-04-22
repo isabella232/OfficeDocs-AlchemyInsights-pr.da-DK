@@ -1,5 +1,5 @@
 ---
-title: Aktiverings problem-vi kan ikke oprette forbindelse lige nu
+title: Aktiveringsproblem - Vi kan ikke oprette forbindelse lige nu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628236"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716166"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Rettelse af Office-Apps "vi kan ikke oprette forbindelse lige nu"-meddelelse
+# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Rettelse af Office-apps "Vi kan ikke oprette forbindelse lige nu"
 
 Hvis du modtager denne meddelelse, kan du prøve følgende:
 
-1. Kontrollér din firewall, dit antivirusprogram og dine proxyindstillinger for at bekræfte, at de ikke blokerer for Internet adgang til Office-Apps. Se [Office 365 URL-adresser og IP-adresse intervaller](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kontroller dine firewall-, antivirusprogrammer s- og proxyindstillinger for at bekræfte, at de ikke blokerer for internetadgang til Office-apps. Se [MicrosoftURL-adresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Gå til **Start** > **Kør**, og skriv derefter **Services. msc**. Sørg for, at følgende tjenester alle kører:
-    - Automatisk konfiguration af netværkstilsluttede enheder
-    - Tjenesten netværksliste
+2. Gå til **Start** > **kørsel**, og skriv derefter **services.msc**. Sørg for, at følgende tjenester kører:
+    - Automatisk installation af netværksforbundne enheder
+    - Tjenesten Netværksliste
     - Kendskab til netværksplacering
-    - Windows hændelseslog
+    - Windows-hændelseslog
 
-Hvis en af disse tjenester ikke kører, kan du prøve at starte den. Hvis du har problemer med at starte tjenesten, skal du køre følgende kommando ved at åbne en kommandoprompt med administratorrettigheder:
+Hvis en af disse tjenester ikke kører, kan du prøve at starte den. Hvis du har problemer med at starte tjenesten, skal du køre følgende kommando ved at åbne en kommandoprompt med udvidede tilladelser:
 
-**sfc/scannow**
+**sfc /scannow**
 
-Når denne kommando er færdig, skal du genstarte computeren.
+Når kommandoen er færdig, skal du genstarte computeren.
 
-Yderligere oplysninger finder du under ["beklager, vi kan ikke oprette forbindelse til din konto. Prøv igen senere ", når du aktiverer Office fra Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Du kan finde detaljerede oplysninger under ["Vi kan desværre ikke oprette forbindelse til din konto. Prøv igen senere", når du aktiverer Office fra Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

@@ -1,9 +1,9 @@
 ---
-title: 608 produktions kalenderoplysninger på Hybrid opsætninger
+title: 608 Kalenderoplysninger om hybridopsætninger
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 76463159f18d3cfd03828f834454bad7b8dfc76f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c2a31c31905393a78817b21e6580b4c4d76c3aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518141"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712093"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Kalender problemer med ledig/optaget tid i hybridmiljøer
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Problemer med ledig/optaget kalender i hybridmiljøer
 
-Hvis brugere har problemer med at se kalender, oplysningerne i hybridmiljøer for ledig/optaget tid, igen køre guiden Konfiguration af Hybrid. Du kan finde flere oplysninger om guiden Konfiguration af Hybrid [Hybrid konfigurationsguiden](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Hvis brugerne har problemer med at få vist oplysninger om ledig/optaget kalender i hybridmiljøer, skal du køre guiden Hybridkonfiguration igen. Yderligere oplysninger om guiden Hybridkonfiguration finder du i [guiden Hybridkonfiguration](https://go.microsoft.com/fwlink/p/?linkid=528149).
 
-For oplysninger om fejlfinding i hybridmiljøer, se [fejlfinding i forbindelse med en hybrid installation](https://technet.microsoft.com/library/jj659053.aspx).
+Du kan finde fejlfindingstrin i hybridmiljøer [under Fejlfinding af en hybrid installation](https://technet.microsoft.com/library/jj659053.aspx).
