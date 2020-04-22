@@ -1,9 +1,9 @@
 ---
-title: 8000093 Outlook.com tilladelser til forbundne konti
+title: 8000093 Outlook.com forbundne kontotilladelser
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dfcab0b56a00955ec90b45c3897bff36feb95b13
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36546873"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722082"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a><span data-ttu-id="4f5dc-102">Sådan Fix "det ser ud som vi ikke har tilladelse"</span><span class="sxs-lookup"><span data-stu-id="4f5dc-102">How to fix "It looks like we don't have permission"</span></span>
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a><span data-ttu-id="ecf5e-102">Sådan løser du "Det ser ud som om vi ikke har tilladelse"</span><span class="sxs-lookup"><span data-stu-id="ecf5e-102">How to fix "It looks like we don't have permission"</span></span>
 
-<span data-ttu-id="4f5dc-103">Hvis du ser fejlmeddelelsen "det ser ud som vi ikke har tilladelse til at få e-mail til..." gør venligst følgende:</span><span class="sxs-lookup"><span data-stu-id="4f5dc-103">If you see the error message "It looks like we don't have permission to get email for ..." please do the following:</span></span>
+<span data-ttu-id="ecf5e-103">Hvis du ser fejlmeddelelsen "Det ser ud som om vi ikke har tilladelse til at få e-mail til ..." Gør følgende:</span><span class="sxs-lookup"><span data-stu-id="ecf5e-103">If you see the error message "It looks like we don't have permission to get email for ..." please do the following:</span></span>
 
-1. <span data-ttu-id="4f5dc-104">Åbn dine [tilsluttede kontoindstillinger](https://outlook.live.com/mail/options/mail/accounts) , og fjern eller slet den tilsluttede konto, der er angivet i fejlen.</span><span class="sxs-lookup"><span data-stu-id="4f5dc-104">Open your [Connected Account settings](https://outlook.live.com/mail/options/mail/accounts) and remove or delete the connected account listed in the error.</span></span>
-2. <span data-ttu-id="4f5dc-105">Tilføj den tilsluttede konto igen.</span><span class="sxs-lookup"><span data-stu-id="4f5dc-105">Add the connected account again.</span></span>
-3. <span data-ttu-id="4f5dc-106">Gå [tilbage til din postkasse](https://outlook.live.com/mail/inbox).</span><span class="sxs-lookup"><span data-stu-id="4f5dc-106">Go [back to your mailbox](https://outlook.live.com/mail/inbox).</span></span>
+1. <span data-ttu-id="ecf5e-104">Åbn [indstillingerne for den forbundne konto,](https://outlook.live.com/mail/options/mail/accounts) og fjern eller slet den forbundne konto, der er angivet i fejlen.</span><span class="sxs-lookup"><span data-stu-id="ecf5e-104">Open your [Connected Account settings](https://outlook.live.com/mail/options/mail/accounts) and remove or delete the connected account listed in the error.</span></span>
+2. <span data-ttu-id="ecf5e-105">Tilføj den forbundne konto igen.</span><span class="sxs-lookup"><span data-stu-id="ecf5e-105">Add the connected account again.</span></span>
+3. <span data-ttu-id="ecf5e-106">Gå [tilbage til din postkasse](https://outlook.live.com/mail/inbox).</span><span class="sxs-lookup"><span data-stu-id="ecf5e-106">Go [back to your mailbox](https://outlook.live.com/mail/inbox).</span></span>
 
-<span data-ttu-id="4f5dc-107">Det kan tage lidt tid for alle e-mails at re-sync fra din tilsluttede konto.</span><span class="sxs-lookup"><span data-stu-id="4f5dc-107">It may take some time for all emails to re-sync from your connected account.</span></span>
+<span data-ttu-id="ecf5e-107">Det kan tage lidt tid, før alle e-mails synkroniseres igen fra din forbundne konto.</span><span class="sxs-lookup"><span data-stu-id="ecf5e-107">It may take some time for all emails to re-sync from your connected account.</span></span>
 
-<span data-ttu-id="4f5dc-108">Læs mere om at [fjerne](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) og [tilføje](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) tilsluttede konti.</span><span class="sxs-lookup"><span data-stu-id="4f5dc-108">Learn more about [removing](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) and [adding](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) connected accounts.</span></span>
+<span data-ttu-id="ecf5e-108">Få flere oplysninger om [fjernelse](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) og [tilføjelse af](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) forbundne konti.</span><span class="sxs-lookup"><span data-stu-id="ecf5e-108">Learn more about [removing](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) and [adding](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) connected accounts.</span></span>

@@ -1,9 +1,9 @@
 ---
-title: Administrer din SharePoint-eller OneDrive-lagerplads
+title: Administrere dit SharePoint- eller OneDrive-lager
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: 111ab6b7833751a97341f8e2b365e74db7e749f4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b58aa242786fd09c83993e8ecc28c6a2d744dfcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049187"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762527"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a><span data-ttu-id="d15f2-102">Administrer din SharePoint-eller OneDrive-lagerplads</span><span class="sxs-lookup"><span data-stu-id="d15f2-102">Manage your SharePoint or OneDrive storage</span></span>
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a><span data-ttu-id="d4f6c-102">Administrere dit SharePoint- eller OneDrive-lager</span><span class="sxs-lookup"><span data-stu-id="d4f6c-102">Manage your SharePoint or OneDrive storage</span></span>
 
- <span data-ttu-id="d15f2-103">**SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="d15f2-103">**SharePoint Online**</span></span>
+ <span data-ttu-id="d4f6c-103">**SharePoint Online**</span><span class="sxs-lookup"><span data-stu-id="d4f6c-103">**SharePoint Online**</span></span>
   
-<span data-ttu-id="d15f2-104">I de fleste organisationer administreres SharePoint-lageret automatisk, så du ikke behøver at angive grænser pr. gruppe af websteder.</span><span class="sxs-lookup"><span data-stu-id="d15f2-104">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="d15f2-105">Sådan kontrollerer du, hvor meget SharePoint-lager du har:</span><span class="sxs-lookup"><span data-stu-id="d15f2-105">To check how much SharePoint storage you have:</span></span>
+<span data-ttu-id="d4f6c-104">For de fleste organisationer administreres SharePoint-lager automatisk, så du ikke behøver at angive grænser pr. gruppe af websteder.</span><span class="sxs-lookup"><span data-stu-id="d4f6c-104">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="d4f6c-105">Sådan kontrollerer du, hvor meget SharePoint-lagerplads du har:</span><span class="sxs-lookup"><span data-stu-id="d4f6c-105">To check how much SharePoint storage you have:</span></span>
   
-- <span data-ttu-id="d15f2-106">I det nye SharePoint-Administrationscenter i øverste højre side af siden websteder skal du se efter din tilgængelige og samlede lagerplads.</span><span class="sxs-lookup"><span data-stu-id="d15f2-106">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
+- <span data-ttu-id="d4f6c-106">Se efter din tilgængelige og samlede lagerplads øverst til højre på webstedssiden i det nye SharePoint Administration.</span><span class="sxs-lookup"><span data-stu-id="d4f6c-106">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
     
-<span data-ttu-id="d15f2-107">Du kan finde oplysninger om, hvordan din grænse beregnes, under [grænseværdier for SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="d15f2-107">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="d15f2-108">Hvis du vil købe ekstra lagerplads, skal [du se ændre lagerpladsen for dit abonnement](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="d15f2-108">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
+<span data-ttu-id="d4f6c-107">Du kan finde oplysninger om, hvordan din grænse beregnes, under [SharePoint Online-grænser](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="d4f6c-107">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="d4f6c-108">Hvis du vil købe ekstra lagerplads, skal du se [Ændre lagerplads til dit abonnement](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="d4f6c-108">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
   
- <span data-ttu-id="d15f2-109">**OneDrive**</span><span class="sxs-lookup"><span data-stu-id="d15f2-109">**OneDrive**</span></span>
+ <span data-ttu-id="d4f6c-109">**OneDrive**</span><span class="sxs-lookup"><span data-stu-id="d4f6c-109">**OneDrive**</span></span>
   
-<span data-ttu-id="d15f2-110">Sådan ændrer du standardlageret for nye og eksisterende OneDrive-brugere:</span><span class="sxs-lookup"><span data-stu-id="d15f2-110">To change the default storage for new and existing OneDrive users:</span></span>
+<span data-ttu-id="d4f6c-110">Sådan ændres standardlageret for nye og eksisterende OneDrive-brugere:</span><span class="sxs-lookup"><span data-stu-id="d4f6c-110">To change the default storage for new and existing OneDrive users:</span></span>
   
-- <span data-ttu-id="d15f2-111">Gå til [lagrings siden i OneDrive administration](https://admin.onedrive.com/?v=StorageSettings), og Indtast et nyt beløb i GB.</span><span class="sxs-lookup"><span data-stu-id="d15f2-111">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and enter a new amount in GB.</span></span>
+- <span data-ttu-id="d4f6c-111">Gå til [siden Lager i OneDrive Administration](https://admin.onedrive.com/?v=StorageSettings), og angiv et nyt beløb i GB.</span><span class="sxs-lookup"><span data-stu-id="d4f6c-111">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and enter a new amount in GB.</span></span>
     
-<span data-ttu-id="d15f2-112">Du kan se, hvor meget lagerplads du bruger i dit eget OneDrive, under [administrere dit onedrive for Business-lager](https://go.microsoft.com/fwlink/?linkid=866429).</span><span class="sxs-lookup"><span data-stu-id="d15f2-112">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="d15f2-113">Du kan finde oplysninger om den lagerplads, der følger med hver enkelt plan, i [beskrivelsen af OneDrive for Business-tjenesten](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="d15f2-113">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+<span data-ttu-id="d4f6c-112">Hvis du vil se, hvor meget lagerplads du bruger på dit eget OneDrive, skal du se [Administrere dit OneDrive for Business-lager](https://go.microsoft.com/fwlink/?linkid=866429).</span><span class="sxs-lookup"><span data-stu-id="d4f6c-112">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="d4f6c-113">Du kan finde oplysninger om det lager, der følger med hver plan, i [Beskrivelsen af OneDrive for Business-tjenesten](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="d4f6c-113">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
   
 
