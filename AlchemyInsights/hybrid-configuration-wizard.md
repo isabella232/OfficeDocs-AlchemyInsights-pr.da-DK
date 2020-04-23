@@ -1,9 +1,9 @@
 ---
-title: Guiden til konfiguration af hybrid
+title: Guiden Hybrid konfiguration
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 2d982afb2aecd35296d0e978f3b1fc04068c4138
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5e9469bce87338978b79e37baad1d16ea3bb0310
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539136"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717022"
 ---
-# <a name="hybrid-configuration-wizard"></a>Guiden til konfiguration af hybrid
+# <a name="hybrid-configuration-wizard"></a>Guiden Hybrid konfiguration
 
-Guiden Konfiguration af Hybrid er en app, som hjælper dig med at oprette en ny implementering af hybrid mellem dit lokale Exchange-organisation og Office 365. Hvis du allerede har en hybrid installation, konfigurere, guiden hjælper dig med at opdatere indstillingerne hybrid installation. Yderligere oplysninger, se:
+Guiden Hybrid konfiguration er en app, der hjælper dig med at konfigurere en ny hybridinstallation mellem din lokale Exchange-organisation og Microsoft 365. Hvis du allerede har konfigureret en hybrid installation, hjælper guiden dig med at opdatere indstillingerne for hybridinstallation. Du kan finde flere oplysninger i:
   
-- [Kør guiden Konfiguration af Hybrid](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Kør guiden Hybridkonfiguration](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [Guiden til konfiguration af hybrid](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [Guiden Hybrid konfiguration](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [Hybrid konfiguration guide ofte stillede spørgsmål](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Ofte stillede spørgsmål i guiden Hybridkonfiguration](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)

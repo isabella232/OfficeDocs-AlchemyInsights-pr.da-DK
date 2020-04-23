@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739631"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722370"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Konfigurer multifaktorgodkendelse i Office 365
+# <a name="configure-multi-factor-authentication"></a>Konfigurere multifaktorgodkendelse
 
-Hvis du vil konfigurere MFA, skal [du se konfigurere multifaktorgodkendelse for Office 365-brugere](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Hvis du vil konfigurere MFA, skal du se [Konfigurere multifaktorgodkendelse](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Bemærk, at du skal være global administrator af Office 365 for at kunne aktivere og konfigurere MFA.
+Bemærk, at du skal være global administrator for at aktivere og konfigurere MFA.

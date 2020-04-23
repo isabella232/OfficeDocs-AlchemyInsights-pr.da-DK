@@ -1,9 +1,9 @@
 ---
-title: Outlook.com kan ikke modtage kontrol koder
+title: Outlook.com kan ikke modtage bekræftelseskoder
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537689"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760802"
 ---
-# <a name="cant-get-verification-codes"></a>Kontrol-koder, kan ikke hentes.
+# <a name="cant-get-verification-codes"></a>Bekræftelseskoder
 
-Hvis du ikke kan få adgang til din alternative e-mail- eller telefonnummer, gå til din Microsoft [grundlæggende sikkerhed](https://account.microsoft.com/security) kontoside, vælge **jeg ikke har nogen af disse** på siden Log på, og følg vejledningen for at erstatte dine sikkerhedsoplysninger.
+Hvis du ikke kan få adgang til din alternative mail eller dit alternative telefonnummer, skal du gå til siden grundlæggende oplysninger om sikkerhed på din [Microsoft-konto,](https://account.microsoft.com/security) vælge **Jeg har ikke nogen af disse** på logonsiden, og følg vejledningen for at erstatte dine sikkerhedsoplysninger.
 
-*Bemærk:* [Microsoft godkender app](https://go.microsoft.com/fwlink/?linkid=2016117) kræver ikke en internetforbindelse til at give dig en bekræftelseskoden.
+*Bemærk:* [Microsoft Authenticator-appen](https://go.microsoft.com/fwlink/?linkid=2016117) kræver ikke en internetforbindelse for at give dig en bekræftelseskode.
 
-Læs [Microsoft security info og kontrol koder](https://support.microsoft.com/help/12428/)for at få mere for at vide.
+Du kan få mere at vide ved at læse [Sikkerhedsoplysninger og bekræftelseskoder for Microsoft-kontoen](https://support.microsoft.com/help/12428/).

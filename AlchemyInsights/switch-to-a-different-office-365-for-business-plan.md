@@ -12,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763787"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789152"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Skifte til et andet Abonnement på Microsoft 365 til virksomheder
 
@@ -27,7 +27,7 @@ Når din virksomhed ændres, eller du har brug for flere funktioner, kan du opgr
 
 2. Vælg det abonnement, du vil opgradere.
 
-3. Vælg **Opgrader**på [siden med abonnementsoplysninger](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702).
+3. Vælg **Opgrader**på [siden med abonnementsoplysninger](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702).  Hvis fanen **Opgrader** er tom, får du vist en forklaring på, hvorfor du ikke kan opgradere på nuværende tidspunkt. I stedet skal du [ændre planer manuelt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).
 
 4. Find den plan, du vil opgradere til, og vælg derefter knappen **Opgrader.**
 

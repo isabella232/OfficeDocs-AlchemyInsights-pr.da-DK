@@ -1,30 +1,30 @@
 ---
-title: 9000215 Outlook.com abonnementer
+title: 9000215 Outlook.com Abonnementer
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/26/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8968b278cb5e99c5ce6cae9c79e441546deb58ec
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722298"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Abonnementer og afmelding
+# <a name="subscriptions-and-unsubscribing"></a>Abonnementer og framelding
 
-Hvis du ikke længere vil modtage nyhedsbreve eller promoveringer, kan du afmelde dig på to måder i Outlook.com:
+Hvis du vil stoppe med at modtage nyhedsbreve eller kampagner, kan du afmelde dig Outlook.com:
 
-1. Vælg et nyhedsbrev eller en promoverende e-mail i din indbakke. Øverst i læseruden skal du vælge **Ophæv abonnement**.
-2. Åbn dine [Outlook.com-abonnementsindstillinger](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Indstillinger** > **Se alle** > **e-mail-** > **abonnementer**for Outlook-indstillinger), og vælg **Afmeld**.
+1. Vælg et nyhedsbrev eller en reklamemail i din indbakke. Vælg **Afmeld**øverst i læseruden .
+2. Åbn dine [Outlook.com abonnementsindstillinger](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Indstillinger** > **Vis alle Outlook-indstillinger** > **Mailabonnementer** > **Subscriptions**), og vælg **Afmeld**.
 
 Noter:
 
-- Ikke alle kunder kan drage fordel af denne funktion i øjeblikket.
-- Du kan kun se denne funktion, hvis du har modtaget en e-mail fra den virksomhed, som sender abonneret e-mail.
+- Det er ikke alle kunder, der kan drage fordel af denne funktion i øjeblikket.
+- Du kan kun se denne funktion, hvis du har modtaget en e-mail fra den virksomhed, der sender en e-mail, der abonneres på.

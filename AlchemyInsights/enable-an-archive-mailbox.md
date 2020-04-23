@@ -10,16 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: da-DK
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703673"
+ms.locfileid: "43788660"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivere en arkivpostkasse
 
-Arkivpostkasser i Office 365 (også kaldet *Online Arkiver* eller *Lokale arkiver)* giver brugerne yderligere maillagring. Brugerne kan flytte eller kopiere elementer til deres arkivpostkasse, og administratorer kan oprette en arkivpolitik, der automatisk flytter elementer til arkivere postkasser.
+Arkivpostkasser i Microsoft 365 (også kaldet *Online Archives* eller In-Place Archives ) giver brugerne yderligere *e-mail-lagring.* Brugerne kan flytte eller kopiere elementer til deres arkivpostkasse, og administratorer kan oprette en arkivpolitik, der automatisk flytter elementer til arkivere postkasser.
   
 Sådan opretter du en arkivpostkasse:
   

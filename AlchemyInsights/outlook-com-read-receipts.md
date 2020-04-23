@@ -1,9 +1,9 @@
 ---
-title: Kvitteringer for læsning i Outlook.com
+title: Læs kvitteringer i Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 5c411bca304071938982406816cb945037eac2ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e9636af661230dd77066d04660c39ef40f4b9126
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545289"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744215"
 ---
 # <a name="read-receipts"></a>Kvitteringer for læsning
 
-Du kan ikke anmode om en kvittering for læsning i Outlook.com, men du kan anmode om læsekvitteringer for Outlook.com-meddelelser sendes ved hjælp af Outlook til Windows. For at lære, hvordan se [Tilføj, og Anmod om læse kvitteringer og meddelelser om levering](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Du kan ikke anmode om en kvittering for læsning i Outlook.com, men du kan anmode om kvitteringfor læsning for Outlook.com meddelelser, der sendes ved hjælp af Outlook til Windows. Du kan få mere at vide om, hvordan [du gør, under Tilføje og anmode om kvitteringer for læsning og meddelelser om levering](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
   
-For at vælge, hvordan Outlook.com reagerer for at læse anmodninger om kvittering, gå til [Indstillinger for modtagelse af læse](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Hvis du vil vælge, hvordan Outlook.com skal reagere på anmodninger om kvittering for læsning, skal du gå til Indstillinger for kvittering for [læsning](https://outlook.live.com/mail/options/mail/handling/readReceipts).

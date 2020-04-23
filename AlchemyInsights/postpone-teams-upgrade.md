@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 37263aefe56b673429eb773719413688b72457e7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: da-DK
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758856"
+ms.locfileid: "43785333"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Sådan udskyder du opgraderingen af Microsoft-drevne teams
 
-Hvis du har modtaget kommunikation om en Automatisk Opgradering fra Microsoft fra Skype for Business til Microsoft Teams, og du vil udskyde den automatiske opgradering til et senere tidspunkt, kan din globale administrator logge på [teamsadministrationsportalen](https://admin.teams.microsoft.com/dashboard) og vælge knappen **Udsæt.** Hvis du vil se den nye dato for din lejers automatiske opgradering til Microsoft Teams, skal du opdatere portalsiden Teams Admin.
+Hvis du har modtaget kommunikation om en Automatisk Opgradering fra Microsoft til Skype for Business til Microsoft Teams, og du vil udskyde den automatiske opgradering til et senere tidspunkt, kan din globale administrator logge på [portalen Teams Admin,](https://admin.teams.microsoft.com/dashboard) og når du har valgt knappen **Opdater status** under Microsoft Teams-opgradering, skal du vælge knappen **Udskyd.** Hvis du vil se den nye dato for din lejers automatiske opgradering til Microsoft Teams, skal du opdatere portalsiden Teams Admin.
 
 **Bemærk:** Knappen **Udsæt** er kun tilgængelig, hvis du har modtaget beskedcentralens meddelelse om den automatiske opgradering. 
 
-Globale administratorer kan også køre [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) for at få mere at vide om deres aktuelle opgraderingsstatus. 
+Globale administratorer kan også køre [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) for at få mere at vide om deres aktuelle opgraderingsstatus.
