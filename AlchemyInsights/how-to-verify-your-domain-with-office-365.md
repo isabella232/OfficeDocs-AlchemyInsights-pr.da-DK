@@ -1,5 +1,5 @@
 ---
-title: Sådan bekræfter du dit domæne med Office 365
+title: 'Sådan bekræfter du dit domæne '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: c0f0fbc2528e62f01cebe515fbeb192315c4d3c9
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529598"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787986"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="fe670-102">Sådan bekræfter du dit domæne med Office 365</span><span class="sxs-lookup"><span data-stu-id="fe670-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="61451-102">Sådan bekræfter du dit domæne</span><span class="sxs-lookup"><span data-stu-id="61451-102">How to verify your domain</span></span>
 
-<span data-ttu-id="fe670-103">Hvis du vil bekræfte dit domæne, skal du føje en TXT-post til din domæneregistrator for at bekræfte, at du ejer dit domæne.</span><span class="sxs-lookup"><span data-stu-id="fe670-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="fe670-104">Følg først [guiden Tilføj domæne](https://portal.office.com/adminportal/home#/Domains/Wizard) ved at klikke på **Installationsdomæner** \> **Domains**og derefter **Tilføje domæne**.</span><span class="sxs-lookup"><span data-stu-id="fe670-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="61451-103">Hvis du vil bekræfte dit domæne, skal du føje en TXT-post til din domæneregistrator for at bekræfte, at du ejer dit domæne.</span><span class="sxs-lookup"><span data-stu-id="61451-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="61451-104">Følg først [guiden Tilføj domæne](https://portal.office.com/adminportal/home#/Domains/Wizard) ved at klikke på **Installationsdomæner** \> **Domains**og derefter **Tilføje domæne**.</span><span class="sxs-lookup"><span data-stu-id="61451-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="fe670-105">Følg vejledningen i [Opret DNS-poster hos enhver DNS-udbyder til Office 365 for](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) at tilføje en TXT-post for at bekræfte dit domæne.</span><span class="sxs-lookup"><span data-stu-id="fe670-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="61451-105">Følg vejledningen i [Opret DNS-poster hos enhver DNS-udbyder](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for at tilføje en TXT-post for at bekræfte dit domæne.</span><span class="sxs-lookup"><span data-stu-id="61451-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
 
-<span data-ttu-id="fe670-106">I forbindelse med andre domæneproblemer kan du prøve [ofte stillede spørgsmål om domæner](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="fe670-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="61451-106">I forbindelse med andre domæneproblemer kan du prøve [ofte stillede spørgsmål om domæner](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="61451-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
