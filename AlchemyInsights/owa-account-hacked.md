@@ -1,23 +1,23 @@
 ---
-title: Outlook på web-kontoen hacket
+title: Outlook på web-konto hacket
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 72dada23e9d69ae1ad55d427766e8cb51b700fa2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4000320e83c6a6d7857103a940d5c97c48e702a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511193"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768647"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a><span data-ttu-id="774d6-102">Outlook på web-kontoen hacket</span><span class="sxs-lookup"><span data-stu-id="774d6-102">Outlook on the web account hacked</span></span>
+# <a name="outlook-on-the-web-account-hacked"></a><span data-ttu-id="4c3e1-102">Outlook på web-konto hacket</span><span class="sxs-lookup"><span data-stu-id="4c3e1-102">Outlook on the web account hacked</span></span>
 
-<span data-ttu-id="774d6-103">Hvis din konto er blevet hacket, skal du følge instruktionerne i [Sådan sikrer og gendanner du e-mail-funktionen til en mistænkt kompromitteret Office 365-konto og-postkasse](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span><span class="sxs-lookup"><span data-stu-id="774d6-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Office 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
+<span data-ttu-id="4c3e1-103">Hvis din konto er blevet hacket, skal du følge vejledningen i [Sådan sikres og gendannes mailfunktionen til en formodet kompromitteret Microsoft 365-konto og -postkasse.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox)</span><span class="sxs-lookup"><span data-stu-id="4c3e1-103">If your account has been hacked, follow the instructions in [How to secure and restore email function to a suspected compromised Microsoft 365 account and mailbox](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account#how-to-secure-and-restore-email-function-to-a-suspected-compromised-office-365-account-and-mailbox).</span></span>
 
-<span data-ttu-id="774d6-104">Hvis du vil vide mere om yderligere trin, du kan udføre for at forhindre, at din konto kompromitteres, skal du se [besvarelse af en kompromitteret e-mailkonto i Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="774d6-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>
+<span data-ttu-id="4c3e1-104">Hvis du vil have mere at vide om yderligere trin, du kan udføre for at forhindre, at din konto bliver kompromitteret, skal du se [Svare på en kompromitteret mailkonto i Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span><span class="sxs-lookup"><span data-stu-id="4c3e1-104">To learn more about additional steps you can take to prevent your account from being compromised, see [Responding to a Compromised Email Account in Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).</span></span>

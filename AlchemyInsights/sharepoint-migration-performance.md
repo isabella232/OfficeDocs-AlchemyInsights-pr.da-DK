@@ -1,5 +1,5 @@
 ---
-title: SharePoint-overførselsydeevne
+title: Vejledning om SharePoint-overførselsydeevne
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537771"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789296"
 ---
-# <a name="sharepoint-migration-performance"></a><span data-ttu-id="fd522-102">SharePoint-overførselsydeevne</span><span class="sxs-lookup"><span data-stu-id="fd522-102">SharePoint migration performance</span></span>
+# <a name="sharepoint-migration-performance-guidance"></a><span data-ttu-id="e908c-102">Vejledning om SharePoint-overførselsydeevne</span><span class="sxs-lookup"><span data-stu-id="e908c-102">SharePoint migration performance guidance</span></span>
 
-<span data-ttu-id="fd522-103">**Vigtigt**: I disse hidtil usete tider bestræber vi os på at sikre, at SharePoint Online- og OneDrive-tjenesterne fastholder sin høje tilgængelighed. Hvis du ønsker flere oplysninger, skal du besøge [Midlertidige funktionsjusteringer i SharePoint Online](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="fd522-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="e908c-103">Overførselsydeevnen kan blive påvirket af netværksinfrastruktur, filstørrelse, overførselstid og begrænsning.</span><span class="sxs-lookup"><span data-stu-id="e908c-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span>
 
-<span data-ttu-id="fd522-104">**Overførselsydeevne**</span><span class="sxs-lookup"><span data-stu-id="fd522-104">**Migration performance**</span></span>
+<span data-ttu-id="e908c-104">Du kan finde flere oplysninger på:</span><span class="sxs-lookup"><span data-stu-id="e908c-104">For more information, please visit:</span></span>
 
-<span data-ttu-id="fd522-105">Overførselsydeevnen kan blive påvirket af netværksinfrastruktur, filstørrelse, overførselstid og begrænsning.</span><span class="sxs-lookup"><span data-stu-id="fd522-105">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="fd522-106">At forstå disse faktorer vil hjælpe dig med at planlægge og maksimere din overførsels effektivitet.</span><span class="sxs-lookup"><span data-stu-id="fd522-106">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+- [<span data-ttu-id="e908c-105">Generel vejledning om overførselsydeenve</span><span class="sxs-lookup"><span data-stu-id="e908c-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-<span data-ttu-id="fd522-107">Besøg nedenstående links for at få flere oplysninger.</span><span class="sxs-lookup"><span data-stu-id="fd522-107">For more information, please visit the links below.</span></span>
-
-- [<span data-ttu-id="fd522-108">Generel vejledning om overførselsydeenve</span><span class="sxs-lookup"><span data-stu-id="fd522-108">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-
-- [<span data-ttu-id="fd522-109">Undgå at blive begrænset eller blokeret i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="fd522-109">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [<span data-ttu-id="fd522-110">Download og installer Migreringsværktøj til SharePoint</span><span class="sxs-lookup"><span data-stu-id="fd522-110">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="e908c-106">Undgå at blive begrænset eller blokeret i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="e908c-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
