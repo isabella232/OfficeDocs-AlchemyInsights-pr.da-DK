@@ -1,8 +1,8 @@
 ---
-title: Fejlmeddelelse om administreret metadatatjeneste
+title: Fejlmeddelelsen Administreret metadatatjeneste
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 49ce6799383958b3d08dc40f695736586c11ff49
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5bdea7c1c0e74ca622fc4c5d5595cc5dada3c5e0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052679"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762491"
 ---
-# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="edb64-102">Fejlmeddelelse om administreret metadatatjeneste</span><span class="sxs-lookup"><span data-stu-id="edb64-102">Managed Metadata Service error message</span></span>
+# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="403b3-102">Fejlmeddelelsen Administreret metadatatjeneste</span><span class="sxs-lookup"><span data-stu-id="403b3-102">Managed Metadata Service error message</span></span>
 
-<span data-ttu-id="edb64-103">Når du åbner ordlageret, får du muligvis vist en fejlmeddelelse: "den administrerede metadatatjeneste eller forbindelse er ikke tilgængelig i øjeblikket.</span><span class="sxs-lookup"><span data-stu-id="edb64-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="edb64-104">Programgruppen eller webtjenesten til administrerede metadata er muligvis ikke startet.</span><span class="sxs-lookup"><span data-stu-id="edb64-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="edb64-105">Kontakt administratoren. "</span><span class="sxs-lookup"><span data-stu-id="edb64-105">Please Contact your Administrator."</span></span>
+<span data-ttu-id="403b3-103">Når du åbner Ordbanken, får du muligvis vist en fejlmeddelelse: "Tjenesten Managed Metadata Service eller Connection er ikke tilgængelig i øjeblikket.</span><span class="sxs-lookup"><span data-stu-id="403b3-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="403b3-104">Webtjenesten Application Pool eller Managed Metadata er muligvis ikke startet.</span><span class="sxs-lookup"><span data-stu-id="403b3-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="403b3-105">Kontakt din administrator."</span><span class="sxs-lookup"><span data-stu-id="403b3-105">Please Contact your Administrator."</span></span>
   
-<span data-ttu-id="edb64-106">Hvis der er gået mere end 24 timer, siden du første så dette problem, skal du logge en support sag.</span><span class="sxs-lookup"><span data-stu-id="edb64-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="edb64-107">Vi forstår, at 24 timer kan virke som en lang tid.</span><span class="sxs-lookup"><span data-stu-id="edb64-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="edb64-108">I mange tilfælde er vi allerede arbejder på en løsning, så skal du give os mindst 24 timer.</span><span class="sxs-lookup"><span data-stu-id="edb64-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
+<span data-ttu-id="403b3-106">Hvis der er gået mere end 24 timer, siden du første gang så dette problem, skal du logge en supportsag.</span><span class="sxs-lookup"><span data-stu-id="403b3-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="403b3-107">Vi forstår, at 24 timer kan virke som lang tid.</span><span class="sxs-lookup"><span data-stu-id="403b3-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="403b3-108">I mange tilfælde arbejder vi allerede på en løsning, så giv os mindst 24 timer.</span><span class="sxs-lookup"><span data-stu-id="403b3-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
   
