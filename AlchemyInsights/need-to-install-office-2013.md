@@ -1,8 +1,8 @@
 ---
-title: Behovet for at installere Office 2013
+title: Skal installere Office 2013
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538699"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761844"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a>Office 2013 understøttes ikke længere i Office 365-abonnementer
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 understøttes ikke længere i Microsoft 365-abonnementer
 
-Siden 28 februar 2017 understøttes Office 2013 ikke længere i Office 365-abonnementer.
+februar 2017 understøttes Office 2013 ikke længere i Microsoft 365-abonnementer.
   
-Skal sikre, at din Office-pakke og få alle de nyeste funktioner, kan du installere den nyeste version af Office gratis som en del af dit abonnement på Office 365. Se [opgradere dine brugere til den seneste Office-klient](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
+Hvis du vil sikre sikkerheden i din Office-pakke og hente alle de nyeste funktioner, skal du installere den nyeste version af Office gratis som en del af dit Microsoft 365-abonnement. Se [Opgradere dine brugere til den nyeste Office-klient](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
   

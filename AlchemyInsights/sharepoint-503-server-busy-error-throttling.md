@@ -2,7 +2,7 @@
 title: Begrænsning af SharePoint Online
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958712"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742203"
 ---
 # <a name="sharepoint-online-throttling"></a>Begrænsning af SharePoint Online
 
-**Vigtigt:** I disse hidtil usete tider tager vi skridt til at sikre, at SharePoint Online- og OneDrive-tjenester forbliver meget tilgængelige – Besøg [midlertidige sharepoint onlinefunktionsjusteringer](https://aka.ms/ODSPAdjustments) for at få flere oplysninger.
+**Vigtigt**: I disse hidtil usete tider bestræber vi os på at sikre, at SharePoint Online- og OneDrive-tjenesterne fastholder sin høje tilgængelighed. Hvis du ønsker flere oplysninger, skal du besøge [Midlertidige funktionsjusteringer i SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **503-serveren er optaget**
 
 Brugerne får muligvis vist en 503-server, der er optaget, når de forsøger at navigere til SharePoint- eller OneDrive-websteder. 
 
-Denne fejl kan skyldes begrænsning i SharePoint-tjenesten. SharePoint Online bruger begrænsning til at opretholde optimal ydeevne og pålidelighed i SharePoint Online-tjenesten. Begrænsning begrænser antallet af brugerhandlinger eller samtidige opkald (efter script eller kode) for at forhindre overforbrug af ressourcer. 
+Denne fejl kan skyldes begrænsning i SharePoint-tjenesten. SharePoint Online anvender begrænsning til at opretholde optimal ydeevne og pålidelighed for SharePoint Online-tjenesten. Begrænsning begrænser antallet af brugerhandlinger eller samtidige kald (via script eller kode) for at forhindre overbelastning af ressourcer. 
 
 Du kan finde flere oplysninger om begrænsning under [Undgå at blive kvalt eller blokeret i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

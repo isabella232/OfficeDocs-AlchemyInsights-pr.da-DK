@@ -12,15 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: e14042fa80be802e646db4e30cd3d5b69b81a1d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059802"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765516"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Bruge SaRA til at diagnosticere og løse problemer med Outlook-godkendelse
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Brug SaRA til at diagnosticere og løse problemer med Outlook-godkendelse
 
-**Bemærk:** Kontroller, om [sikkerhedsstandarder](http://aka.ms/securitydefaults) er aktiveret for din organisation. hvis din lejer blev oprettet efter den 21. **security defaults**
+**Bemærk:** Kontroller, om [sikkerhedsstandarder](https://aka.ms/securitydefaults) er aktiveret for din organisation. hvis din lejer blev oprettet efter den 21. **security defaults**
 
 Vi anbefaler på det kraftigste, at du bruger [Outlook holder beder om min adgangskode](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostiske på det berørte maskine til fejlfinding af problemer, hvor Outlook løbende beder om en adgangskode. Denne [SaRA-diagnosticering](https://diagnostics.office.com/#/) kontrollerer og returnerer mulige løsninger, som du kan bruge til at løse eventuelle fundne problemer.

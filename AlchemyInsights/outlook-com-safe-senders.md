@@ -1,9 +1,9 @@
 ---
-title: 8000089 Outlook.com sikre afsendere
+title: 8000089 Outlook.com afsendere, der er sikkert beskyttet
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 3196105d10f57b6448497938367d0506957127d2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36535349"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743627"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Forhindre meddelelser i at gå ind i mappen uønsket mail
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Forhindre meddelelser i at gå ind i mappen Uønsket mail
 
-Der er tidspunkter, hvor du ikke vil have, at meddelelser fra en bestemt person eller et specifikt domæne ender i mappen uønsket mail i Outlook.com. Meddelelser fra adresser eller domæner på listen over afsendere, som er tillid til, bliver ikke flyttet til mappen uønsket mail.
+Der er tidspunkter, hvor du ikke ønsker, at meddelelser fra en bestemt person eller et bestemt domæne ender i mappen Uønsket mail i Outlook.com. Meddelelser fra adresser eller domæner på listen over afsendere, der er sikkert i sikkerhed, flyttes ikke til mappen Uønsket mail.
 
-1. Åbn [indstillingerne for sikre afsendere](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. Under **sikre afsendere og domæner**skal du angive den mailadresse eller det domæne, du vil tilføje, og vælge **Tilføj**.
-3. Hvis du vil føje en adresseliste til dine afsendere, der er tillid til, skal du indtaste mailinglisten under **sikre mailinglister** og vælge **Tilføj**.
+1. Åbn [indstillingerne for afsendere, der er sikkerhed for.](https://go.microsoft.com/fwlink/?linkid=2035804)
+2. Angiv den mailadresse eller det domæne, du vil tilføje, under **Afsendere og domæner,** der er sikkerhed for, og vælg **Tilføj**.
+3. Hvis du vil føje en adresseliste til de afsendere, du er sikker på, skal du angive adresselisten under **Postlister,** der er sikker, og vælge **Tilføj**.
 4. Vælg **Gem**.
 
-Læs mere på [Bloker eller Fjern blokering af afsendere i Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Læs mere på [Bloker eller fjern blokeringaf afsendere i Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,9 +1,9 @@
 ---
-title: Hvordan du køber Office 365 for ikke-overskud
+title: Sådan køber du Office 365 uden overskud
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 930c64aab2278471776f2530bf93892b4afb1f67
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 83eb3cb797ebb7c0e2c3ce0e9449390e71d05341
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390866"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763571"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Hvordan du køber Office 365 for ikke-overskud
+# <a name="how-to-purchase-office-365-for-non-profits"></a>Sådan køber du Office 365 uden overskud
 
-Din status som en kvalificeret velgørende organisation til Microsoft er blevet godkendt. At købe:
+Din status som en Microsoft-organisation for kvalificeret nonprofitorganisation er blevet godkendt. Sådan køber du:
   
-1. Gå til **Fakturering** i admin center, \> [Køb](https://go.microsoft.com/fwlink/p/?linkid=868433) af tjenesteydelser.
+1. Gå til siden \> [Faktureringskøbstjenester](https://go.microsoft.com/fwlink/p/?linkid=868433) i Administration. **Billing**
 
-2. Vælg på listen under **Ikke-overskud planer**.
+2. Vælg på listen under **Planer for nonprofitorganisationer**.
 
-3. Placer musemarkøren over det abonnement, du vil købe, og vælg **Køb nu**.
+3. Hold markøren over det abonnement, du vil købe, og vælg **Køb nu**.

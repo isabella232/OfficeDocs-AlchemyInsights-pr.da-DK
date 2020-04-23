@@ -1,9 +1,9 @@
 ---
-title: Forslag til løsning af fejl med "produkt uden licens"
+title: Forslag til løsning af fejl i "Produkt uden licens"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: abc9b394fc54c95a77ca20645c8740bf4a04fc97
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36743267"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741775"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Forslag til løsning af fejl med "produkt uden licens"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Forslag til løsning af fejl i "Produkt uden licens"
 
-Sørg for, at du har et abonnement, der tillader klientlicenser, såsom Office 365 Business eller Business Premium, og [Sørg for, at brugeren har fået tildelt en licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Deaktiver en installation](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) for at kontrollere, om du har overskredet det antal installationer, som abonnementet understøtter.
+Sørg for, at du har et abonnement, der tillader klientlicenser, f.eks. [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) [Deaktiver en installation](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) for at kontrollere, om du har overskredet antallet af installationer, der understøttes af dit abonnement.
   
-Sørg for, at brugeren logger på med den samme konto, der har tildelt licensen.
+Sørg for, at brugeren logger på med den samme konto, som licensen er tildelt.
   
-Kør [fejlfindingsværktøjet aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Kør [fejlfindingsværktøjet til aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Kontrollér, om din abonnementsstatus er udløbet
+Tjek, om din abonnementsstatus er udløbet
   
-Kontroller [siden Office 365 service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) for at se, om der er kendte problemer med tjenesten.
+Tjek [siden Tjenestetilstand](https://docs.microsoft.com/office365/enterprise/view-service-health) for at se, om der er kendte problemer med tjenesten.
   
-[Udfør en online reparation af Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Udfør en onlinereparation af Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Du finder flere fejlfindingsløsninger under: [produkt-og aktiveringsfejl uden licens i Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Du kan finde flere fejlfindingsløsninger under: [Produkt- og aktiveringsfejl uden licens i Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

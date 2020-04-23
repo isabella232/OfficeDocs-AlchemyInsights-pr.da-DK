@@ -1,9 +1,9 @@
 ---
-title: 1490-fejlfinding-eDiscovery-fejl
+title: 1490-troubleshooting-eDiscovery-fejl
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559367"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759578"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Fejlfinding af indhold Søg
+# <a name="troubleshoot-content-search-errors"></a>Fejlfinding i forbindelse med indholdssøgning
 
-Er du har problemer med indhold søgning i Office 365 eller hentning fejl, når du eksporterer søgeresultaterne?
+Har du problemer med indholdssøgning eller får fejl, når du eksporterer søgeresultater?
 
-For eksempel, modtager du følgende når du kører søgninger?
+Modtager du f.eks.
 
-- CS008 eller CS012 fejl
+- CS008- eller CS012-fejl
 
-- Server optaget/timeout-fejl
+- Fejl i serveroptaget/timeout
 
-- Der opstod en fejl i programmet
+- Programfejl opstod
 
-Eller når søgning eller eksportere resultater fra et stort antal postkasser (mere end 100.000 postkasser), får du eksportere fejl?
+Eller når du søger eller eksporterer resultater fra et stort antal postkasser (over 100.000 postkasser), får du eksportfejl?
 
-For disse typer fejl, til at søge til indholdssteder mislykkede igen. Se [denne artikel](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for at få yderligere oplysninger.
+For disse typer fejl skal du prøve at søge efter de indholdsplaceringer, der er mislykkedes. Se [denne artikel](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for at få flere oplysninger.

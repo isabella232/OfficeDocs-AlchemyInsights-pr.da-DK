@@ -1,9 +1,9 @@
 ---
-title: Hvordan du køber Office 365 uddannelse planer
+title: Sådan køber du Office 365 Education-planer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: c48290d634ad3b931c9c2654dfec9d77bb27be62
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: de5cf1992b413080436d8555c9f3b71ef5787bc6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390146"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763679"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Hvordan du køber Office 365 uddannelse planer
+# <a name="how-to-purchase-office-365-education-plans"></a>Sådan køber du Office 365 Education-planer
 
-Vi har gennemgået anmodningen og fastslog, at denne organisation ikke er berettiget til en kvalificeret akademiske institutioner til Microsoft. Dine aktuelle akademiske trial tilbud udløber i slutningen af prøveperioden.
+Vi har gennemgået din anmodning og fastslået, at denne organisation ikke er berettiget som en Microsoft-akademisk institution. Dine nuværende akademiske prøvetilbud udløber ved udløbet af prøveperioden.
   
-Du kan købe Office 365 kommerciel, skal du se [tilgængelige tilbud](https://go.microsoft.com/fwlink/p/?linkid=868433).  
+Hvis du vil købe Office 365 kommercielt, skal du se [tilgængelige tilbud](https://go.microsoft.com/fwlink/p/?linkid=868433).  

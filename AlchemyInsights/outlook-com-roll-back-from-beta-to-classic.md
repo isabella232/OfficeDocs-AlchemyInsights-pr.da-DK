@@ -1,26 +1,26 @@
 ---
-title: Anmodning om at vende tilbage fra Outlook.com beta til klassisk Outlook.com
+title: Anmodning om at rulle tilbage fra Outlook.com beta til klassisk Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 77a1a51684525008a6319aa4820c7e62d6906ca5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ddcc6d04a93510ca35f0cd5d05fa3cf1d89d05a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535061"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743699"
 ---
-# <a name="the-new-outlookcom"></a>Ny Outlook.com
+# <a name="the-new-outlookcom"></a>Den nye Outlook.com
 
-Det er ikke længere muligt at lade den nye Outlook.com-oplevelse og vende tilbage til den klassiske version af Outlook.com.
+Det er ikke længere muligt at forlade den nye Outlook.com oplevelse og vende tilbage til den klassiske version af Outlook.com.
 
-Hvis du vil give feedback om nye Outlook.com, skal du gå til [UserVoice forum](https://go.microsoft.com/fwlink/p/?linkid=851599). Du kan stemme på ideerne eller løses problemer, du vil se, og vi vil svare direkte til den øverste kommentarer og forslag.
+Hvis du vil give feedback om den nye Outlook.com, skal du gå til [UserVoice-forummet](https://go.microsoft.com/fwlink/p/?linkid=851599). Du kan stemme om de ideer eller problemer, du gerne vil se behandlet, og vi vil svare direkte på de bedste kommentarer og forslag.
 
 [Få hjælp til Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
