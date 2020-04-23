@@ -1,9 +1,9 @@
 ---
-title: Sådan identificeres et gebyr på dit kreditkort eller bankkontoudtog
+title: Sådan identificerer du en debitering på dit kreditkort eller kontoudtog
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,17 +14,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540607"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724368"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Sådan identificeres et gebyr på dit kreditkort eller bankkontoudtog
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Sådan identificerer du en debitering på dit kreditkort eller kontoudtog
 
-Beskrivelsen af et abonnement på Office 365 gratis ser sådan ud:
+Gebyrbeskrivelsen for et Microsoft 365-abonnement ser sådan ud:
   
 MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-10 alfanumeriske tegn strengen efter MSFT \* er det fakturanummer, som gebyret vedrører. Du kan finde fakturaen, gå til **faktura** \> [betaling af regninger &](https://go.microsoft.com/fwlink/p/?linkid=848039) side til at få vist dine seneste fakturaer. Fakturanummeret er tæt på fakturadokumentet højre hjørne.
+Den alfanumeriske streng på 10 tegn efter MSFT \* er det fakturanummer, som gebyret vedrører. Hvis du vil finde fakturaen, skal du gå til siden \> [Faktureringsbreve & betalinger](https://go.microsoft.com/fwlink/p/?linkid=848039) for at få vist dine seneste fakturaer. **Billing** Fakturanummeret er tæt på højre hjørne af fakturadokumentet.

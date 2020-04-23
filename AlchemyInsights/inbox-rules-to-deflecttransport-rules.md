@@ -1,9 +1,9 @@
 ---
-title: 929 indbakkeregler til deflectTransport regler
+title: 929 Indbakke regler for at afledeTransport regler
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499582"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724586"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Postregler flow (også kendt som transport regler)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Regler for mailflow (også kaldet transportregler)
 
-- Generel oversigt over flow postregler: [Mail flow regler (transport regler) i Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Generel oversigt over regler for mailflow: [Regler for mailflow (transportregler) i Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Opsætning af flow postregler: [Mail flow regel procedurer i Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- Opsætning af regler for mailflow: [Regelprocedurer for mailflow i Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Oprette, redigere og slette flow postregler: [Administrer postregler flow.](https://technet.microsoft.com/library/jj657505.aspx)
+- Oprette, redigere og slette regler for mailflow: [Administrere regler for mailflow](https://technet.microsoft.com/library/jj657505.aspx)
 
-Du kan også administrere postregler flow i Exchange Online PowerShell. Yderligere oplysninger finder du under [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (visning), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (Opret), [Fjern-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (slette), [Sæt-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (ændre eksisterende), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (Deaktiver eksisterende), og [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (mulighed for eksisterende).
+Du kan også administrere regler for mailflow i Exchange Online PowerShell. Du kan finde flere oplysninger under [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (view), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modify existing), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable existing) og [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (enable eksistere).
 
-Yderligere mail flow regel cmdlets: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (liste over tilgængelige handlinger), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (liste over tilgængelige betingelser og undtagelser), [Eksport-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (Eksporter regler) og [ Import af TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (importregler).
+Yderligere cmdletter til mailflowregel: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (liste tilgængelige handlinger), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (liste over tilgængelige betingelser og undtagelser), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (eksportregler) og [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (importregler).

@@ -1,9 +1,9 @@
 ---
-title: Modtage kopi af din faktureringsopgørelse i e-mail
+title: Modtag kopi af din faktureringsopgørelse i en mail
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510077"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724944"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Modtage kopi af din Office 365-faktureringsopgørelse i e-mail
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Modtag kopi af din faktureringsopgørelse i en mail
 
-Du kan vælge at modtage en kopi af din faktureringsopgørelse som en vedhæftet e-mail. Hvis du skal være opmærksom på, som:
+Du kan vælge at modtage en kopi af din faktureringsopgørelse som en vedhæftet fil i en e-mail. Hvis du gør det, skal du være opmærksom på, at:
   
-- En e-mail, der sendes til både den primære og alternative e-mail-adresse for hver person, der er angivet som modtager en besked.
+- En e-mail vil blive sendt til både den primære og alternative e-mail-adresse for hver person, der er angivet som en meddelelse modtager.
 
-- Du får to separate emails: en, der fortæller dig, at din regning er klar med instruktioner til at logge på administrationssiden til at se den, og en anden e-mail, der indeholder faktureringsopgørelse som en vedhæftet fil.
+- Du vil modtage to separate e-mails: en, der lader dig vide, at din regning er klar, med instruktioner til at logge på Administration for at se det, og en anden e-mail, der indeholder faktureringsopgørelsen som en vedhæftet fil.
 
-At modtage din faktureringsopgørelse i e-mail:
+Sådan modtager du din faktureringsopgørelse i en mail:
   
-1. Gå til **Fakturering** i admin center, \> [Fakturering meddelelser](https://go.microsoft.com/fwlink/p/?linkid=853212) siden.
+1. Gå til siden \> [Faktureringsfaktureringsmeddelelser](https://go.microsoft.com/fwlink/p/?linkid=853212) i Administration. **Billing**
 
-2. Under **får faktureringsopgørelse vedhæftet til e-mail?**, skifter slå til **på**. Du kan stoppe modtagelsen fakturering sætning-e-mails til enhver tid ved at skifte til Skift til **Off**.
+2. Under **Modtag faktureringsopgørelsen som vedhæftet fil i en mail?** **On** Du kan til enhver tid stoppe med at modtage e-mails med faktureringsopgørelser ved at skifte til **fra**.

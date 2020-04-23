@@ -1,31 +1,31 @@
 ---
-title: Fejlfinding i forbindelse med tilmeldingsmuligheder Microsoft Intune
+title: Fejlfinding i forbindelse med problemer med registreringsindstillinger Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d7568f962f0bb0514ae7f78778151520c75f3d5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559331"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43734626"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Fejlfinding i forbindelse med tilmeldingsmuligheder Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Fejlfinding i forbindelse med problemer med registreringsindstillinger Microsoft Intune
 
-Gennemse ressourcerne nedenfor til at løse dit problem nu. Hvis disse ressourcer ikke hjælper, skal du kontakte support ved at klikke [her](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) og vælge "Opret en anmodning om support". 
+Gennemgå de ressourcer, der er angivet nedenfor, for at løse problemet nu. Hvis disse ressourcer ikke hjælper, skal du kontakte support ved at klikke [her](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) og vælge "Opret en supportanmodning". 
   
-- [Gennemse Intune TechNet for at finde svar og løsninger på almindelige problemer](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Gennemgå Intune TechNet for at finde svar og løsninger på almindelige problemer](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Bruge [Intune fejlfinding Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige fejl i registreringen. Gennemse [dette dokument](https://docs.microsoft.com/intune/help-desk-operators) for at få yderligere oplysninger. 
+- Brug [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige tilmeldingsfejl. Gennemse [dette dokument](https://docs.microsoft.com/intune/help-desk-operators) for at få flere oplysninger. 
     
-- Gennemse [dette dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver. 
+- Gennemse [dette dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for at få en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver enkelt. 
     
-- [Få mere at vide om indstillingerne for certifikatregistreringspolitik i Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Få mere at vide om tilmeldingsmuligheder i Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

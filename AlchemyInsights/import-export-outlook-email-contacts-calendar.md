@@ -1,9 +1,9 @@
 ---
-title: 1221-Import-Export-Outlook-email-Contacts-Calendar
+title: 1221-import-export-outlook-email-contacts-kalender
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545151"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724658"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importere og eksportere Outlook e-mail, kontaktpersoner og kalenderemner
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importér og eksportér Outlook-mail, -kontakter og -kalenderelementer
 
-1. Klik på **filer**i Outlook.
+1. Klik på **Filer** i Outlook.
 
-2. Klik på **Åbn & eksport**, og klik derefter på **Importer/eksporter**.
+2. Klik på **Åbn og Eksportér**, og klik derefter på **Import/eksport**.
 
     Dette starter guiden Import og eksport.
 
-For en komplet sæt importere og eksportere oplysninger til Outlook, kan du i [denne artikel](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Du kan finde et komplet sæt import- og eksportinstruktioner til Outlook i [denne artikel](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Hvis du er administrator og vil masseimport flere PST-filer til postkasser til Office 365, skal du se [denne artikel](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Hvis du er administrator og vil masseimportere flere PST-filer til Microsoft 365-postkasser, skal du se [denne artikel](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

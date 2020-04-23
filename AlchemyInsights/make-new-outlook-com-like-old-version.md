@@ -1,9 +1,9 @@
 ---
-title: Sådan får du den nye Outlook.com til at ligne den gamle liste
+title: Hvordan man får den nye Outlook.com til at ligne den gamle
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497509"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721709"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Sådan får du den nye Outlook.com til at ligne den gamle version
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Hvordan man laver den nye Outlook.com ligne den gamle version
 
-Her er nogle indstillinger, du kan ændre for at gøre den nye Outlook.com til at ligne den gamle version:
+Her er nogle indstillinger, du kan ændre for at få den nye Outlook.com til at ligne den gamle version:
 
-1. Gå til [Indstillinger for sidelayout](https://outlook.live.com/mail/options/mail/layout).
-1. Vælg **ikke sortere mine meddelelser**under **Focused Indbakke**.
-1. Vælg **nyeste meddelelser øverst**under **meddelelse organisation**.
-1. Vælg **Vis ikke afsender billeder**under **Billede af afsenderen**.
-1. Vælg **Skjul læseruden**under **Læserude**.
-1. Vælg **Vis udskrift tekst**under **Vis meddelelsestekst**.
-1. Vælg **Vis ikke vedhæftede filer i meddelelseslisten**under **indbyggede eksempler**.
+1. Gå til [Layoutindstillinger](https://outlook.live.com/mail/options/mail/layout).
+1. Vælg **Sorter ikke mine meddelelser under** **Fokuseret indbakke**.
+1. Vælg **Nyeste meddelelser øverst**under **Meddelelsesorganisation**.
+1. Vælg **Vis ikke afsenderbilleder under Afsenderbillede**. **Sender image**
+1. Vælg **Skjul læserude**under **Læserude**.
+1. Vælg **Vis eksempeltekst**under **Meddelelseseksempeltekst**.
+1. Vælg **Vis ikke vedhæftede filer på meddelelseslisten**under **Indbyggede eksempler**.
 
-For at ændre indstillingerne for E-mail, så din Indbakke ser ud og fungerer, som det skal du [ændre udseendet af din postkasse i Outlook.com og den nye Outlook på internettet](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Hvis du vil ændre dine mailindstillinger, så din indbakke ser ud og opfører sig, som du vil have den, skal du se [Ændre udseendet af postkassen i Outlook.com og det nye Outlook på internettet](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

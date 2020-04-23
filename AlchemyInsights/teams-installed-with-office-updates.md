@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599478"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737646"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams installeret med Office-opdateringer
 
-Microsoft Teams er inkluderet som en del af ***nye installationer*** af Office 365 ProPlus, Office 365 Business og Office til Mac. Du kan finde flere oplysninger under [Hvornår begynder Microsoft Teams at indgå med nye installationer af Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams er inkluderet som en del af ***nye installationer*** af Microsoft 365 Apps til virksomheder, Microsoft 365 Apps til virksomheder og Office til Mac. Du kan finde flere oplysninger under [Hvornår begynder Microsoft Teams at indgå med nye installationer af Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Fra og med Version 1906 i Månedlig kanal føjes Teams desuden gradvist til ***eksisterende installationer*** af Office 365 ProPlus (og Office 365 Business) på enheder, der kører Windows, når du opdaterer din eksisterende installation til den nyeste version. Du kan finde flere oplysninger under [Hvad med eksisterende installationer af Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Fra og med Version 1906 i Månedlig kanal føjes Teams desuden gradvist til ***eksisterende installationer*** af Microsoft 365 Apps til virksomheder (og Microsoft 365 Apps til virksomheder) på enheder, der kører Windows, når du opdaterer din eksisterende installation til den nyeste version. Du kan finde flere oplysninger under [Hvad med eksisterende installationer af Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Bemærk:** Hvis du ikke vil vente på denne udrulningsplan, kan du installere Teams som enkeltstående for dine brugere ved at https://teams.microsoft.com/downloadsfølge disse [instruktioner](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), eller du kan få brugerne til at installere Teams for sig selv fra .
 
