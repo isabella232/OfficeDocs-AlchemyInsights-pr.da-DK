@@ -1,5 +1,5 @@
 ---
-title: 204 Sådan finder du mangler eller genoprettes mangler Outlook e-mail, kalender og kontaktpersoner
+title: 204 Sådan finder du manglende eller gendanner manglende Outlook-e-mails, -kalendere eller -kontakter
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,19 +12,19 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: b9e602538d3c3e83b681cf644fd63c223bdbac93
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664125"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720690"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a><span data-ttu-id="3309e-102">Hvordan at finde og gendanne de manglende meddelelser, kontaktpersoner eller kalenderelementer i Outlook</span><span class="sxs-lookup"><span data-stu-id="3309e-102">How to find and recover missing messages, contacts, or calendar items in Outlook</span></span>
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a><span data-ttu-id="5a90e-102">Sådan finder og gendanner du manglende meddelelser, kontakter eller kalenderelementer i Outlook</span><span class="sxs-lookup"><span data-stu-id="5a90e-102">How to find and recover missing messages, contacts, or calendar items in Outlook</span></span>
 
-- <span data-ttu-id="3309e-103">Du kan bruge, [jeg har problemer med afsendelse, modtagelse, eller at finde værktøj til e-mail-meddelelser](https://aka.ms/SaRA-OutlookSendReceive) på computeren.</span><span class="sxs-lookup"><span data-stu-id="3309e-103">You can use the [I'm having problems sending, receiving, or finding email messages tool](https://aka.ms/SaRA-OutlookSendReceive) on the affected machine.</span></span> <span data-ttu-id="3309e-104">Dette værktøj kontrollerer for en række problemer og foreslår løsninger.</span><span class="sxs-lookup"><span data-stu-id="3309e-104">This tool will check for a number of issues and will suggest possible solutions.</span></span>
+- <span data-ttu-id="5a90e-103">Du kan bruge [værktøjet Jeg har problemer med at sende, modtage eller finde e-mails](https://aka.ms/SaRA-OutlookSendReceive) på den berørte maskine.</span><span class="sxs-lookup"><span data-stu-id="5a90e-103">You can use the [I'm having problems sending, receiving, or finding email messages tool](https://aka.ms/SaRA-OutlookSendReceive) on the affected machine.</span></span> <span data-ttu-id="5a90e-104">Dette værktøj vil undersøge, om der er en række problemer, og vil foreslå mulige løsninger.</span><span class="sxs-lookup"><span data-stu-id="5a90e-104">This tool will check for a number of issues and will suggest possible solutions.</span></span>
 
-- <span data-ttu-id="3309e-105">[Afgøre om kontoen er kompromitteret](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span><span class="sxs-lookup"><span data-stu-id="3309e-105">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span></span> <span data-ttu-id="3309e-106">Hvis skadet, skal du følge trinnene i [svarer til en kompromitteret email-konto i Office 365.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)</span><span class="sxs-lookup"><span data-stu-id="3309e-106">If compromised, follow the steps in [Responding to a compromised email account in Office 365.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)</span></span>
+- <span data-ttu-id="5a90e-105">[Afgøre om kontoen er kompromitteret](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span><span class="sxs-lookup"><span data-stu-id="5a90e-105">[Determine if the account is compromised](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised).</span></span> <span data-ttu-id="5a90e-106">Hvis du bliver kompromitteret, skal du følge trinnene i [Besvarelse af en kompromitteret e-mail-konto.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)</span><span class="sxs-lookup"><span data-stu-id="5a90e-106">If compromised, follow the steps in [Responding to a compromised email account.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)</span></span>
 
-- [<span data-ttu-id="3309e-107">Find den meddelelse eller en vare ved hjælp af Hurtigsøgning</span><span class="sxs-lookup"><span data-stu-id="3309e-107">Find the message or item using Instant Search</span></span>](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+- [<span data-ttu-id="5a90e-107">Finde meddelelsen eller elementet ved hjælp af Hurtigsøgning</span><span class="sxs-lookup"><span data-stu-id="5a90e-107">Find the message or item using Instant Search</span></span>](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
 
-- [<span data-ttu-id="3309e-108">Gendanne slettede elementer i Outlook til Windows</span><span class="sxs-lookup"><span data-stu-id="3309e-108">Recover deleted items in Outlook for Windows</span></span>](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+- [<span data-ttu-id="5a90e-108">Gendanne slettede elementer i Outlook til Windows</span><span class="sxs-lookup"><span data-stu-id="5a90e-108">Recover deleted items in Outlook for Windows</span></span>](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
