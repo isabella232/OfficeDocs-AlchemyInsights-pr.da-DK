@@ -3,30 +3,30 @@ title: S/MIME i Outlook på internettet
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 3702311f55af63ba461bb680fe3eb57e63c5d9ef
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: c67a8343af7d0e91173248e797986831cfe203e9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36741287"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768359"
 ---
-# <a name="encrypt-messages-using-smime"></a>Kryptér meddelelser ved hjælp af S/MIME
+# <a name="encrypt-messages-using-smime"></a>Kryptere meddelelser ved hjælp af S/MIME
 
-Brug S/MIME i Outlook på internettet til at øge sikkerheden i dine meddelelser. En digitalt krypteret meddelelse kan kun åbnes af modtagere, der har den korrekte nøgle. En digital signatur sikrer modtagerne, at der ikke er manipuleret med meddelelsen.
+Brug S/MIME i Outlook på internettet til at øge sikkerheden af dine meddelelser. En digitalt krypteret meddelelse kan kun åbnes af modtagere, der har den korrekte nøgle. En digital signatur sikrer modtagerne, at meddelelsen ikke er blevet ændret.
 
-**Bemærk:** S/MIME-udvidelsen skal være installeret af administratoren.
+**Bemærk:** S/MIME-udvidelsen skal installeres af administratoren.
 
 Sådan ændrer du dine S/MIME-indstillinger i Outlook på internettet:
 
 1. Gå til <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Indstillinger** > **Se alle Outlook-indstillinger**.
-2. Vælg **mail** > **S/MIME**.
+ **Indstillinger** > **Vis alle Outlook-indstillinger**.
+2. Vælg **Mail** > **S/MIME**.
 
-Læs [Kryptér meddelelser ved hjælp af S/MIME i Outlook på internettet](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) for at få flere oplysninger.
+Læs [Krypter meddelelser ved hjælp af S/MIME i Outlook på internettet](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) for at få flere oplysninger.

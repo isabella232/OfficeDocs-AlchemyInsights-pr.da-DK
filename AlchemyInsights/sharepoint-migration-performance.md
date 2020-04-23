@@ -1,5 +1,5 @@
 ---
-title: SharePoint-overførselsydeevne
+title: Vejledning om SharePoint-overførselsydeevne
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537771"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789296"
 ---
-# <a name="sharepoint-migration-performance"></a>SharePoint-overførselsydeevne
+# <a name="sharepoint-migration-performance-guidance"></a>Vejledning om SharePoint-overførselsydeevne
 
-**Vigtigt**: I disse hidtil usete tider bestræber vi os på at sikre, at SharePoint Online- og OneDrive-tjenesterne fastholder sin høje tilgængelighed. Hvis du ønsker flere oplysninger, skal du besøge [Midlertidige funktionsjusteringer i SharePoint Online](https://aka.ms/ODSPAdjustments).
+Overførselsydeevnen kan blive påvirket af netværksinfrastruktur, filstørrelse, overførselstid og begrænsning.
 
-**Overførselsydeevne**
-
-Overførselsydeevnen kan blive påvirket af netværksinfrastruktur, filstørrelse, overførselstid og begrænsning. At forstå disse faktorer vil hjælpe dig med at planlægge og maksimere din overførsels effektivitet.
-
-Besøg nedenstående links for at få flere oplysninger.
+Du kan finde flere oplysninger på:
 
 - [Generel vejledning om overførselsydeenve](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Undgå at blive begrænset eller blokeret i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Download og installer Migreringsværktøj til SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

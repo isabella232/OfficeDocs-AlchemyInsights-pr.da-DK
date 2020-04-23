@@ -1,9 +1,9 @@
 ---
-title: Flere forsøg på at opkræve online betalingsmidler
+title: Flere forsøg på at opkræve online betalingsinstrumenter
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5bcba5903f9ca00b3c6235f9d07e165f35b2a66e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548673"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761988"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Flere forsøg på at opkræve online betalingsmidler
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Flere forsøg på at opkræve online betalingsinstrumenter
 
-Vi foretager flere forsøg på at opkræve online betalingsmidler, før du udfører nogen handlinger på tjenesten. Når en betaling metode er markeret, alle forfaldne beløb skal være betalt med den valgte betalingsmetode. For at opdatere betalingsoplysningerne om den aktuelle for abonnementet, skal du følge trinnene i [tilføje, opdatere, eller fjerne et kreditkort eller bankkonto i Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Vi gør flere forsøg på at opkræve online betalingsinstrumenter, før du foretager dig noget på tjenesten. Når en betalingsmetode er valgt, skal alle forfaldne beløb betales med den valgte betalingsmetode. Hvis du vil opdatere de aktuelle betalingsoplysninger for dit abonnement, skal du følge trinnene i [Tilføj, opdater eller fjerne et kreditkort eller en bankkonto i Microsoft 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
