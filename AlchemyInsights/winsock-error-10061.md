@@ -3,7 +3,7 @@ title: 1554 Winsock-fejl 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530779"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766163"
 ---
-# <a name="winsock-error-10061"></a><span data-ttu-id="05fc3-102">Winsock-fejl 10061</span><span class="sxs-lookup"><span data-stu-id="05fc3-102">Winsock error 10061</span></span>
+# <a name="winsock-error-10061"></a><span data-ttu-id="39686-102">Winsock-fejl 10061</span><span class="sxs-lookup"><span data-stu-id="39686-102">Winsock error 10061</span></span>
 
-<span data-ttu-id="05fc3-103">Denne fejlkode betyder, at Office 365 ikke kunne oprette en TCP socket (connection) med destinationsværten.</span><span class="sxs-lookup"><span data-stu-id="05fc3-103">This error code means that Office 365 couldn't establish a TCP socket (connection) with the target host.</span></span> <span data-ttu-id="05fc3-104">Den mest sandsynlige årsag til denne fejl er et problem med firewallkonfigurationen af.</span><span class="sxs-lookup"><span data-stu-id="05fc3-104">The most likely cause of this error is a problem with your firewall configuration.</span></span> <span data-ttu-id="05fc3-105">Du kan løse problemet ved at kontrollere disse indstillinger:</span><span class="sxs-lookup"><span data-stu-id="05fc3-105">To fix the problem, check these settings:</span></span>
+<span data-ttu-id="39686-103">Denne fejlkode betyder, at Microsoft ikke kunne oprette en TCP-socket (forbindelse) med destinationsværten.</span><span class="sxs-lookup"><span data-stu-id="39686-103">This error code means that Microsoft couldn't establish a TCP socket (connection) with the target host.</span></span> <span data-ttu-id="39686-104">Den mest sandsynlige årsag til denne fejl er et problem med firewallkonfigurationen.</span><span class="sxs-lookup"><span data-stu-id="39686-104">The most likely cause of this error is a problem with your firewall configuration.</span></span> <span data-ttu-id="39686-105">Du kan løse problemet ved at kontrollere disse indstillinger:</span><span class="sxs-lookup"><span data-stu-id="39686-105">To fix the problem, check these settings:</span></span>
 
-- <span data-ttu-id="05fc3-106">Kontrol firewall-konfiguration med oplysninger i [Office 365 URL-adresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="05fc3-106">Verify your firewall configuration with the information in [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span>
+- <span data-ttu-id="39686-106">Kontroller din firewallkonfiguration med oplysningerne i [Microsoft 365 URL-adresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="39686-106">Verify your firewall configuration with the information in [Microsoft 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span>
 
-- <span data-ttu-id="05fc3-107">Hvis fejlen er bestemt til Exchange Online beskyttelse (EOP), skal du have tidligere meddelt en ændring i [Exchange Online beskyttelse IP-adresser](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span><span class="sxs-lookup"><span data-stu-id="05fc3-107">If the error is specific to Exchange Online Protection (EOP), you should have been previously notified to a change to the [Exchange Online Protection IP addresses](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span></span>
+- <span data-ttu-id="39686-107">Hvis fejlen er specifik for Exchange Online Protection (EOP), skulle du tidligere have fået besked om en ændring af [Exchange Online Protection IP-adresserne](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span><span class="sxs-lookup"><span data-stu-id="39686-107">If the error is specific to Exchange Online Protection (EOP), you should have been previously notified to a change to the [Exchange Online Protection IP addresses](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).</span></span>
 
-- <span data-ttu-id="05fc3-108">Kontroller, at din internetudbyder (ISP) ikke er blokerer for porten.</span><span class="sxs-lookup"><span data-stu-id="05fc3-108">Verify that your Internet Service Provider (ISP) isn't blocking the port.</span></span>
+- <span data-ttu-id="39686-108">Kontroller, at internetudbyderen ikke blokerer porten.</span><span class="sxs-lookup"><span data-stu-id="39686-108">Verify that your Internet Service Provider (ISP) isn't blocking the port.</span></span>
 
-- <span data-ttu-id="05fc3-109">Kontroller smart værten og målcomputerne serverindstillingerne i dine forbindelser.</span><span class="sxs-lookup"><span data-stu-id="05fc3-109">Verify the smart host and target server settings in your connectors.</span></span>
+- <span data-ttu-id="39686-109">Kontroller indstillingerne for smart-vært og målserver i dine forbindelser.</span><span class="sxs-lookup"><span data-stu-id="39686-109">Verify the smart host and target server settings in your connectors.</span></span>
 
-<span data-ttu-id="05fc3-110">Bemærk, at Office 365 ikke blokerer *indgående* forbindelser på denne måde.</span><span class="sxs-lookup"><span data-stu-id="05fc3-110">Note that Office 365 doesn't block *incoming* connections in this manner.</span></span>
+<span data-ttu-id="39686-110">Bemærk, at Microsoft 365 ikke blokerer *indgående* forbindelser på denne måde.</span><span class="sxs-lookup"><span data-stu-id="39686-110">Note that Microsoft 365 doesn't block *incoming* connections in this manner.</span></span>
