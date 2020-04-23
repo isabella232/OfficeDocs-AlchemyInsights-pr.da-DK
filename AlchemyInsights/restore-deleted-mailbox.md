@@ -1,5 +1,5 @@
 ---
-title: Gendanne slettede postkasse
+title: Gendanne slettet postkasse
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 18e56305b60469422a154ffa1b097c238baaae16
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666366"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764650"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Gendanne en slettet postkasse
 
-Når en bruger mister en Exchange Online-licens, deres postkasse bevares i 30 dage og kan genoprettes ved blot at tildele en licens til brugeren.
+Når en bruger mister en Exchange Online-licens, bevares vedkommendes postkasse i 30 dage og kan gendannes ved blot at tildele licensen til brugeren igen.
   
- *Dette fungerer kun inden for 30 dage.*  
+ *Dette vil kun fungere inden for 30 dage.*  
   
-1. Gå til **brugere** i Microsoft 365 admin center, \> siden **aktive brugere** . Vælg den pågældende bruger.
+1. Gå til siden \> **Aktive brugere** **i** Microsoft 365 Administration. Vælg den pågældende bruger.
 
-2. Tildele Exchange Online-licens, og vælg **Gem ændringer**under fanen **licenser og Apps** .
+2. Tildel Exchange Online-licensen under fanen **Licenser og apps,** og vælg **Gem ændringer**.
 
-Hvis du forsøger at genoprette en delt postkasse, er det også genoprettelig i 30 dage. Du kan finde dem under **brugere** \> **slettede brugere**; delte postkasser, der ikke kræver en licens. Hvis du er klar over, at du vil gendanne en slettet bruger, skal du se [gendanne en bruger i Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
+Hvis du forsøger at gendanne en delt postkasse, kan den også gendannes i 30 dage. Du kan finde dem under **Brugere** \> **slettede brugere**; delte postkasser kræver ikke en licens. Hvis du opdager, at du skal gendanne en slettet bruger, skal du se [Gendanne en bruger](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   

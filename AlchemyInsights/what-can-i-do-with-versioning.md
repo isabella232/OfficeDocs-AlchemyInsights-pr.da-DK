@@ -1,30 +1,30 @@
 ---
-title: Hvad kan jeg gøre med versioner?
+title: Hvad kan jeg gøre med versionsstyring?
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: d479b44e9ef858b0279f2d7e053132a877aabbd2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531317"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765329"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Hvad kan jeg gøre med versioner?
+# <a name="what-can-i-do-with-versioning"></a>Hvad kan jeg gøre med versionsstyring?
 
-Du kan bruge versioner på SharePoint-lister og -biblioteker:
+Du kan bruge versionsstyring i SharePoint-lister og -biblioteker til at:
   
-- **Sporet historik for en version**. Når versioner er aktiveret, kan du se, hvornår et element eller en fil er ændret, og hvem der har ændret. Du kan også se, hvornår egenskaber (oplysninger om filen) er blevet ændret. For eksempel, hvis en person ændrer forfaldsdatoen for et element på listen, vises de pågældende oplysninger i versionsoversigten. Du kan også se kommentarerne mennesker gør, når de tjekker filer i biblioteker. 
+- **Spor historikken for en version**. Når versionsstyring er aktiveret, kan du se, hvornår et element eller en fil blev ændret, og hvem der ændrede det. Du kan også se, hvornår egenskaber (oplysninger om filen) blev ændret. Hvis nogen for eksempel ændrer forfaldsdatoen for et listeelement, vises disse oplysninger i versionsoversigten. Du kan også se de kommentarer, folk kommer med, når de tjekker filer ind i biblioteker. 
     
-- **Gendanne en tidligere version**. Hvis du laver en fejl i den aktuelle version, hvis den aktuelle version er beskadiget, eller hvis du blot have en tidligere version bedre, kan du erstatte den aktuelle version med en tidligere. Den gendannede version bliver den nye aktuelle version. 
+- **Gendan en tidligere version**. Hvis du har lavet en fejl i en aktuel version, hvis den aktuelle version er korrupt, eller hvis du blot kan lide en tidligere version bedre, kan du erstatte den aktuelle version med en tidligere. Den gendannede version bliver den nye aktuelle version. 
     
-- **Vis en tidligere version**. Du kan få vist en tidligere version uden at overskrive den aktuelle version. Hvis du får vist versionshistorik i et Microsoft Office-dokument som en Word- eller Excel-fil, kan du sammenligne to versioner for at finde ud af, hvad forskellene er. 
+- **Få vist en tidligere version**. Du kan få vist en tidligere version uden at overskrive den aktuelle version. Hvis du får vist versionshistorik i et Microsoft Office-dokument, f.eks. 
     
-[Yderligere oplysninger om, hvordan versionering fungerer i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
+[Få mere at vide om, hvordan versionsstyring fungerer i SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

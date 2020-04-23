@@ -1,9 +1,9 @@
 ---
-title: Abonnementsoplysninger
+title: Oplysninger om abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/15/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 20b5097f2e5d3aa3b8f23b8865203846d90f08e8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36576870"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763859"
 ---
-# <a name="subscription-information"></a>Abonnementsoplysninger
+# <a name="subscription-information"></a>Oplysninger om abonnement
 
-Du finder oplysninger om de abonnementer, du ejer, ved at gå til siden **fakturerings** \> [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Du kan finde oplysninger om de abonnementer, du ejer, på siden **Faktureringsprodukter** \> [& tjenester.](https://go.microsoft.com/fwlink/p/?linkid=842054)
   
 Vigtige oplysninger om hvert abonnement:
   
@@ -30,7 +30,7 @@ Vigtige oplysninger om hvert abonnement:
 
 - Købte licenser
 
-- Tildelte licenser
+- Licenser, der er tildelt
 
 - Tilbagevendende faktureringsstatus
 
@@ -38,4 +38,4 @@ Vigtige oplysninger om hvert abonnement:
 
 - Betalingsmetode
 
-- Næste fakturerings-eller udløbsdato
+- Næste fakturerings- eller udløbsdato
