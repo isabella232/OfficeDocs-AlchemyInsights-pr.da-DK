@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856784"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739430"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Teams almindelige problemer for Education-kunder
 
@@ -45,12 +45,12 @@ Hvis du har brug for hjælp til at anvende Teams til at understøtte ekstern læ
     6. I Skype for Business Administration skal du klikke på **Lydmøde** og derefter på **Brugere**.
     7. Vælg den pågældende bruger, og bekræft, at brugeren har et standard afgiftsbelagt nummer.
 
-    Du kan finde flere oplysninger under [Opkaldsabonnementer til Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe til Microsoft Commerce-faktureringsteamet for at få hjælp til licensrelaterede spørgsmål.
+    Du kan finde flere oplysninger under [Opkaldsabonnementer](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe til Microsoft Commerce-faktureringsteamet for at få hjælp til licensrelaterede spørgsmål.
 
     Flere ressourcer
 
     - [Møder og konferencer i Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Lydmøde i Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Lydmøde](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Mødepolitikker**: Mødepolitikker bruges til at styre de funktioner, der er tilgængelige for mødedeltagere for møder, der er planlagt af brugerne i din organisation. Efter du har oprettet en politik og gennemført dine ændringer, kan du tildele brugere til politikken.
 
