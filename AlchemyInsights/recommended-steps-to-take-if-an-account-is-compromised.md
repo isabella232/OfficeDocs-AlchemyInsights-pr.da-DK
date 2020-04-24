@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745427"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719298"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Anbefalede trin, du skal udføre, hvis en konto er blevet kompromitteret
 
-[VIDEO: Rettelse af en kompromitteret Office 365-konto](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: Rettelse af en kompromitteret konto](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Nulstil brugerens adgangskode](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) med det samme. Send ikke den nye adgangskode til slutbrugeren via mail.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745427"
 
 5. Fjern brugerkontoen fra alle [grupper for administrationsroller](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles), indtil du er sikker på, at kontoen ikke længere er kompromitteret.
 
-For at minimere sandsynligheden for et databrud eller en kompromitteret konto i fremtiden, anbefaler vi, at du læser vores [Office 365-sikkerhedsplan ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+For at minimere sandsynligheden for et databrud eller en kompromitteret konto i fremtiden, anbefaler vi, at du læser vores [Microsoft 365-sikkerhedsplan ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   

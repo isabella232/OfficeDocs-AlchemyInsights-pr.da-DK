@@ -12,16 +12,16 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735455"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759146"
 ---
 # <a name="how-to-install-office"></a>Sådan installerer du Office
 
-Hvis du vil installere Office-klientappsene, skal du sikre, at du har et virksomhedsabonnement, som f.eks. Office 365 Business Premium, Office 365 Business eller Office 365 Education.
+Hvis du vil installere Office-klientappsene, skal du sikre dig, at du har et virksomhedsabonnement, som f.eks. Microsoft 365 Business Premium Standard, Microsoft 365 Apps for business eller Office 365 Education.
   
 *BEMÆRK! [Office Home and Business](https://products.office.com/home-and-business) er et produkt af typen [Office til privat brug](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) og er ikke en del af et virksomhedsabonnement. For at få specifik vejledning om Visio eller Project skal du se [Installér Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) eller [Installér projekt](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 

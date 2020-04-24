@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692389"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709933"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Lydmøde
 
-Har du brug for hjælp til at aktivere eller oprette lydmøder i Microsoft Teams? Er denne bruger blevet oprettet for nylig?  Hvis det er tilfældet, skal du vente i 2-24 timer, før ændringerne træder i kraft.    
+Har du brug for hjælp til at aktivere eller oprette lydmøder i Microsoft Teams? Er denne bruger blevet oprettet for nylig?  Hvis det er tilfældet, skal du vente i 2-24 timer, før ændringerne træder i kraft.
 
 Sådan bekræfter du, at brugeren er licenseret til lydmøder og har et standard afgiftsbelagt nummer:
 
@@ -39,4 +39,4 @@ Sådan bekræfter du, at brugeren er licenseret til lydmøder og har et standard
 
 7. Vælg den pågældende bruger, og bekræft, at brugeren har et **standard afgiftsbelagt nummer**.
 
-Du kan finde flere oplysninger under [Opkaldsabonnementer til Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe til Microsoft Commerce Billing-teamet for at få hjælp til licensrelaterede spørgsmål.
+Du kan finde flere oplysninger under [Opkaldsabonnementer](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe til Microsoft Commerce Billing-teamet for at få hjælp til licensrelaterede spørgsmål.
