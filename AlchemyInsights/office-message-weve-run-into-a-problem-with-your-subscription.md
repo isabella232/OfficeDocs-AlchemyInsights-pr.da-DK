@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713244"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787724"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meddelelse om Office-apps – Vi er stødt på et problem med dit abonnement
 
-- Hvis du har skiftet til et andet Office 365-abonnement/plan for nylig, skal du følge trinnene i ["Kontomeddelelse", der vises i Office, efter du har skiftet Office 365-plan](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d), for at geninstallere eller opdatere Office.
+- Hvis du har skiftet abonnement/plan for nylig, skal du følge trinnene i ["Kontomeddelelse", der vises i Office, efter du har skiftet plan](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d), for at geninstallere eller opdatere Office.
 
-- Se [Fejl i Office "Kontomeddelelse: Vi er stødt på et problem med dit Office 365-abonnement"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
+- Se [Fejl i Office "Kontomeddelelse: Vi er stødt på et problem med dit abonnement"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
 - Fjern og tildel [Office-licensen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) til den pågældende bruger. 
 
@@ -34,6 +34,6 @@ ms.locfileid: "43713244"
 
 Se følgende for en detaljeret vejledning: 
 
-[Jeg får vist en abonnementsmeddelelse, når jeg åbner et Office 365-program](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Jeg får vist en abonnementsmeddelelse, når jeg åbner et Microsoft-program](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Fejlfinding til aktivering af Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

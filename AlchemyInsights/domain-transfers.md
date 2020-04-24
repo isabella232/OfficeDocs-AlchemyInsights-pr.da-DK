@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530111"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783965"
 ---
 # <a name="domain-transfers"></a>Domæneoverførsler
 
@@ -24,9 +24,9 @@ ms.locfileid: "43530111"
 
     - Selvom domæner, der er købt hos Microsoft, ikke understøtter ændring af NS-poster, skal du overveje at [opdatere DNS-posterne for dit websted](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) i stedet for at overføre din domæneregistrering til webhostingudbyderen.
 
-- Et domæne, der er købt hos Microsoft, kan ikke overføres mellem Office 365-lejere. 
+- Et domæne, der er købt hos Microsoft, kan ikke overføres mellem Microsoft 365-lejere. 
 
-    - Du kan dog overføre et tredjepartsdomæne mellem Office 365-lejere ved [at fjerne domænet fra en lejer](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) og derefter bekræfte domænet i en anden lejer.
+    - Du kan dog overføre et tredjepartsdomæne mellem Microsoft 365-lejere ved [at fjerne domænet fra en lejer](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) og derefter bekræfte domænet i en anden lejer.
 
 - Registrering og fakturering af tredjepartsdomæner kan ikke overføres til Microsoft.
 

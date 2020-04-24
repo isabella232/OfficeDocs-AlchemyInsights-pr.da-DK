@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059956"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784541"
 ---
 # <a name="set-up-insider-risk-management"></a>Konfigurer styring af insiderrisiko
 
@@ -26,13 +26,13 @@ Brug politikker til styring af insiderrisiko til at identificere risikofyldte ak
 
 - **Microsoft 365 E3**-abonnement med tilføjelsen Microsoft E5-overholdelse.
 
-Hvis du ikke har et eksisterende **Microsoft 365 E5**-abonnement og gerne prøve insiderrisikostyring, kan du føje Microsoft 365 til dit eksisterende Office 365-abonnement eller tilmelde dig en prøveversion af Microsoft 365 Enterprise E5.
+Hvis du ikke har et eksisterende **Microsoft 365 E5**-abonnement og gerne prøve insiderrisikostyring, kan du føje Microsoft 365 til dit eksisterende Oabonnement eller tilmelde dig en prøveversion af Microsoft 365 Enterprise E5.
 
 De grundlæggende trin til at bruge insiderrisikostyring omfatter:
 
 1. Aktivér tilladelser for insiderrisikostyring.
 
-2. Aktivér Office 365-overvågningsloggen.
+2. Aktivér overvågningsloggen.
 
 3. Konfigurer forudsætninger for skabelonen (valgfrit).
 
