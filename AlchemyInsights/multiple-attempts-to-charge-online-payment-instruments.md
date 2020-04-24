@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761988"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799117"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Flere forsøg på at opkræve online betalingsinstrumenter
 
-Vi gør flere forsøg på at opkræve online betalingsinstrumenter, før du foretager dig noget på tjenesten. Når en betalingsmetode er valgt, skal alle forfaldne beløb betales med den valgte betalingsmetode. Hvis du vil opdatere de aktuelle betalingsoplysninger for dit abonnement, skal du følge trinnene i [Tilføj, opdater eller fjerne et kreditkort eller en bankkonto i Microsoft 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Hvis afgiften mislykkes, vil systemet fortsætte med at forsøge at udligne saldoen i løbet af de næste par uger. Du kan til enhver tid foretage opdateringer af dine betalingsoplysninger for at sikre, at det næste debiteringsforsøg lykkes. Yderligere oplysninger finder du i [Add, update eller remove a kreditkort eller bank account in Microsoft 365 til business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
