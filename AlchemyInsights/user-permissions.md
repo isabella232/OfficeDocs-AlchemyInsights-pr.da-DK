@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710509"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912888"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Brugertilladelser i SharePoint og OneDrive
 
@@ -27,7 +27,7 @@ Hvis en bruger i din organisation ikke kan få adgang til SharePoint eller OneDr
   
 1. Åbn webstedet i en webbrowser.
     
-2. Hvis webstedet tilhører en Office 365-gruppe, skal du klikke på ikonet Indstillinger øverst til højre og derefter klikke på **Webstedstilladelser**. Klik på **Inviter personer**, og vælg derefter at føje medlemmer til Office 365-gruppen eller kun dele webstedet. 
+2. Hvis webstedet tilhører en Microsoft 365-gruppe, skal du klikke på ikonet Indstillinger øverst til højre og derefter klikke på **Webstedstilladelser**. Klik på **Inviter personer**, og vælg derefter at føje medlemmer til Microsoft 365-gruppen eller kun dele webstedet. 
     
     Klik på Del **websted** øverst til højre for et kommunikationswebsted, angiv personens navn, og vælg derefter tilladelsesniveauet (Læs, Rediger eller Fuld kontrol). 
     

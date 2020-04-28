@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714396"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911142"
 ---
 # <a name="ediscovery-settings"></a>Indstillinger for E-registrering
 
-eDiscovery/Content-søgninger giver dig mulighed for at søge efter, opbevare og eksportere indhold fra Exchange Online-postkasser, SharePoint Online- og OneDrive for Business-websteder, Skype for Business-samtaler, Microsoft Teams og Office 365-grupper.
+eDiscovery/Content-søgninger giver dig mulighed for at søge efter, opbevare og eksportere indhold fra Exchange Online-postkasser, SharePoint Online- og OneDrive for Business-websteder, Skype for Business-samtaler, Microsoft Teams og Microsoft 365-grupper.
 
 - Hvis du leder efter menuindstillingerne eDiscovery eller Indholdssøgning, skal du se [eDiscovery-problemer](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Få mere at vide om de tilladelser, der er nødvendige for at udføre eDiscovery-søgninger fra [tilladelser, der kræves til eDiscovery-søgninger](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

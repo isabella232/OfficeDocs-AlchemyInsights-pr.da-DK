@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703637"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908410"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Aktivere og søge i overvågningsloggen
 
@@ -31,7 +31,7 @@ FÃ ̧lg [disse trin](https://docs.microsoft.com/office365/securitycompliance/se
 
 - Overvågning af postkasseer er som standard aktiveret i Microsoft 365. Yderligere oplysninger finder du i [denne artikel](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365-gruppepostkasser og postkasser til offentlige mapper i Exchange Online understøtter ikke overvågning af logføring.
+- Microsoft 365-gruppepostkasser og postkasser til offentlige mapper i Exchange Online understøtter ikke overvågning slogføring.
 
 **SharePoint og OneDrive**
 

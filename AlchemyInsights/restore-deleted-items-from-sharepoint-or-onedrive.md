@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742509"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912541"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Gendanne slettede elementer fra SharePoint eller OneDrive
 
@@ -34,6 +34,6 @@ Når filer, mapper, biblioteker, lister og listeelementer slettes fra et SharePo
   
 [Gendanne slettede grupper af websteder](https://go.microsoft.com/fwlink/?linkid=867660) (globale eller SharePoint-administratorer i Microsoft 365) 
   
-For websteder, der tilhører en Office 365-gruppe, skal du gendanne gruppen for at gendanne webstedet. Se [Gendanne en slettet Office 365-gruppe](https://go.microsoft.com/fwlink/?linkid=867802) (global administrator) 
+For websteder, der tilhører en Microsoft 365-gruppe, skal du gendanne gruppen for at gendanne webstedet. Se [Gendanne en slettet Microsoft 365-gruppe](https://go.microsoft.com/fwlink/?linkid=867802) (global administrator) 
   
 

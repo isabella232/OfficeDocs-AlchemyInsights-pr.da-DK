@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787981"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912252"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Værktøjet Indholdssøgning til at finde relevante oplysninger
 
-Brug værktøjet Indholdssøgning i Sikkerheds& Compliance Center til hurtigt at finde mails i Exchange-postkasser, dokumenter på SharePoint-websteder og OneDrive-placeringer og chatsamtaler i Skype for Business. Du kan bruge indholdssøgeværktøjet til at søge efter mail, dokumenter og chatsamtaler i Microsoft 365-samarbejdsværktøjer som Microsoft Teams og Office 365 Groups.
+Brug værktøjet Indholdssøgning i Sikkerheds& Compliance Center til hurtigt at finde mails i Exchange-postkasser, dokumenter på SharePoint-websteder og OneDrive-placeringer og chatsamtaler i Skype for Business. Du kan bruge indholdssøgeværktøjet til at søge efter mails, dokumenter og chatsamtaler i Microsoft 365-samarbejdsværktøjer som Microsoft Teams og Microsoft 365 Groups.
 
 
 Før du bruger [Indholdssøgning](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [Sikkerheds& Overholdelsescenter](https://sip.protection.office.com/homepage), skal du fuldføre konfigurationsindstillingerne, herunder [konfigurere tilladelser](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [angive overførselshastigheder](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) og [eksportindstillinger](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

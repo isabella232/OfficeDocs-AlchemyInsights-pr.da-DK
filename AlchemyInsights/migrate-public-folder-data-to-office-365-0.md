@@ -11,12 +11,12 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ab54d84f921f9cd2aa895e8a9684c638bde69838
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762131"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912216"
 ---
 # <a name="migrate-public-folder-data-to-microsoft-365"></a>Overføre data til offentlige mapper til Microsoft 365
 
@@ -28,5 +28,5 @@ For større organisationer, der flytter offentlige mapper til Microsoft 365, har
 
 - [Overfør Exchange 2013- , Exchange 2016- eller Exchange 2019-mapper](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Du har også mulighed for at [overføre offentlige mapper til Office 365 Groups](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Du har også mulighed for at [overføre offentlige mapper til Microsoft 365 Groups](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   

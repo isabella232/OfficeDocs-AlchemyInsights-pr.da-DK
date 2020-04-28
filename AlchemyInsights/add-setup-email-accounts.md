@@ -11,23 +11,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e6cda6d0a21ebca7647662809dd55d942304471
+ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671379"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914972"
 ---
-# <a name="setup-email-accounts"></a>Konfigurer mailkonti
+# <a name="set-up-email-accounts"></a>Konfigurere mailkonti
 
-1. Vælg Tilføj **konto** > til**tilføj filoplysninger****i** > Outlook .
+1. Klik på**Tilføj konto**med **filoplysninger** > **i** > Outlook .
 
-2. Angiv din mailadresse, og vælg derefter **Opret forbindelse**.
+2. Angiv din mailadresse, og klik derefter på **Opret forbindelse**.
 
-3. Angiv din adgangskode, og vælg derefter **OK**.
+3. Angiv din adgangskode, og klik på **OK**.
 
 4. Du kan gentage disse trin for at tilføje flere konti.
 
-    > [!NOTE]
-    > Nogle mailkonti, såsom Gmail, Yahoo og iCloud, kræver, at du konfigurerer totrinsgodkendelse for at bruge Outlook til at sende og modtage mail. Se [Føje en mailkonto til Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) for at få flere oplysninger.
+**Bemærk:** Nogle mailkonti, såsom Gmail, Yahoo og iCloud, kræver, at du konfigurerer totrinsgodkendelse for at bruge Outlook til at sende og modtage mail. Se [Føje en mailkonto til Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) for at få flere oplysninger.
   

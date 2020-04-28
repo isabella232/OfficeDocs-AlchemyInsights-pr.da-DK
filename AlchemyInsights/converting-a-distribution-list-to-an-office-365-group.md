@@ -1,5 +1,5 @@
 ---
-title: 712 Konvertere en distributionsliste til en Office 365-gruppe
+title: 712 Konvertering af en distributionsliste til en Microsoft 365-gruppe
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 0aa4928b33c75051c7210e88098555b82e130fd5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c135727d1a3dd26aebca7a5140956cc75c78705b
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715734"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908662"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Konvertere en distributionsgruppe til en Office 365-gruppe
+# <a name="convert-a-distribution-group-to-an-microsoft-365-group"></a>Konvertere en distributionsgruppe til en Microsoft 365-gruppe
 
-Du kan konvertere distributionsgrupper til Office 365-grupper, hvis de opfylder visse kriterier. Hvis du vil konvertere en gruppe eller foretage fejlfinding af konverteringsproblemer, skal du se [Opgradere distributionslister til Office 365-grupper i Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).
+Du kan konvertere distributionsgrupper til Microsoft 365 Grupper, hvis de opfylder visse kriterier. Hvis du vil konvertere en gruppe eller foretage fejlfinding af konverteringsproblemer, skal du se [Opgradere distributionslister til Microsoft 365 Grupper i Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).

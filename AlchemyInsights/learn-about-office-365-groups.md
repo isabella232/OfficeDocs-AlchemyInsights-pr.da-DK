@@ -1,5 +1,5 @@
 ---
-title: 610 Få mere at vide om Office 365-grupper
+title: 610 Få mere at vide om Microsoft 365-grupper
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: b67781d510c582737f6f1eb3643024ae044de024
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0d4b1b12389a7da47180d4a8b8ab4e181d4380cd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762851"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912469"
 ---
-# <a name="learn-about-office-365-groups"></a>Få mere at vide om Office 365-grupper
+# <a name="learn-about-microsoft-365-groups"></a>Få mere at vide om Microsoft 365-grupper
 
-Office 365 Groups er en tjeneste, der allerede fungerer sammen med de Office 365-værktøjer, du bruger, så du kan samarbejde med dine teammedlemmer, når du skriver dokumenter, opretter regneark, arbejder på projektplaner, planlægger møder eller sender mail. Du kan finde flere oplysninger [under Få mere at vide om Office 365-grupper](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Microsoft 365 Groups er en tjeneste, der allerede fungerer sammen med de Office 365-værktøjer, du bruger, så du kan samarbejde med dine teammedlemmer, når du skriver dokumenter, opretter regneark, arbejder på projektplaner, planlægger møder eller sender mail. Yderligere oplysninger finder [du i Learn about Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

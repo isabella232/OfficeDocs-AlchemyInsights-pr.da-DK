@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: fe511850ec82d32be9aa2bc3832ad211c597b33c
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 1679f1b0452314395c5067b326f6b753f9baa84e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959349"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912144"
 ---
 # <a name="what-are-groups"></a>Hvad er grupper?
 
-Med Office 365-grupper har du mulighed for at vælge et sæt personer, som du ønsker at samarbejde med, og nemt oprette en samling ressourcer, som disse personer skal dele. Du behøver ikke at bekymre dig om manuelt at tildele tilladelser til alle disse ressourcer, fordi tilføjelse af medlemmer til gruppen automatisk giver dem de tilladelser, de har brug for, til de værktøjer, din gruppe leverer. Derudover er grupper den nye og forbedrede oplevelse for det, vi brugte til at bruge distributionslister eller delte postkasser til at gøre.  Du kan finde flere oplysninger under [få mere at vide om Office 365-grupper](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) . 
+Med Microsoft 365 Grupper kan du vælge et sæt personer, som du vil samarbejde med, og nemt oprette en samling ressourcer, som disse personer kan dele. Du behøver ikke at bekymre dig om manuelt at tildele tilladelser til alle disse ressourcer, fordi hvis du føjer medlemmer til gruppen, får de automatisk de nødvendige tilladelser til de værktøjer, din gruppe leverer. Derudover er grupper den nye og forbedrede oplevelse for det, vi brugte til at bruge distributionslister eller delte postkasser til at gøre.  Se [Få flere oplysninger om Microsoft 365 Grupper.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) 

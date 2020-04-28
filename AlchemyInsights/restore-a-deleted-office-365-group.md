@@ -1,5 +1,5 @@
 ---
-title: Gendanne en slettet Office 365-gruppe
+title: Gendanne en slettet Microsoft 365-gruppe
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758748"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912705"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Gendanne en slettet Office 365-gruppe
+# <a name="restore-a-deleted-microsoft-365-group"></a>Gendanne en slettet Microsoft 365-gruppe
 
 Slettede grupper bevares i 30 dage. Sådan gendannes en slettet gruppe:
   
@@ -28,5 +28,5 @@ Slettede grupper bevares i 30 dage. Sådan gendannes en slettet gruppe:
 
 2. Vælg gruppen, og klik derefter på **Gendan** på kommandolinjen, eller klik på linket "Klik her for at gendanne" i detaljeruden.
 
-Du kan finde flere oplysninger eller få mere at vide om, hvordan du gendanner grupper ved hjælp af PowerShell, under [Gendanne en slettet Office 365-gruppe](https://go.microsoft.com/fwlink/?linkid=867802).
+Du kan finde flere oplysninger eller få mere at vide om, hvordan du gendanner grupper ved hjælp af PowerShell, under [Gendanne en slettet Microsoft 365-gruppe](https://go.microsoft.com/fwlink/?linkid=867802).
   
