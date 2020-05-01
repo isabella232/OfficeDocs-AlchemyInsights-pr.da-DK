@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799117"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957900"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Flere forsøg på at opkræve online betalingsinstrumenter
+# <a name="past-due-account"></a>Forfalden forfalden konto?
 
-Hvis afgiften mislykkes, vil systemet fortsætte med at forsøge at udligne saldoen i løbet af de næste par uger. Du kan til enhver tid foretage opdateringer af dine betalingsoplysninger for at sikre, at det næste debiteringsforsøg lykkes. Yderligere oplysninger finder du i [Add, update eller remove a kreditkort eller bank account in Microsoft 365 til business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+En betaling kan afvises af flere årsager, herunder hvis kreditkortet er udløbet. Du kan til enhver tid bruge funktionen **Udspænd saldo** til at ændre dine kreditkortoplysninger og straks sende betalingen igen.
+
+1. Gå til **Fakturering > produkter & [tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
+Find abonnementet med den udestående saldo. Klik på **Udlign saldo** ud for **Abonnementet**i sektionen **Fakturering** for at betale hele udestående saldo.
+2. Hvis du ejer kreditkortet, kan du ændre udløbsdatoen, vælge et andet kort eller [tilføje et nyt kort](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+3. Hvis du ikke ejer kreditkortet, kan du vælge et andet kreditkort eller [tilføje et nyt kort.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+4. Når du har fuldført opdateringerne, skal du klikke på **Gem**.
+
+**Bemærk:** Når en betaling er foretaget, kan den forfaldne meddelelse stadig være synlig i en kort periode. Vent mindst **48 timer,** før du kontakter support.

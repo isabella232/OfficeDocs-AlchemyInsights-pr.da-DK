@@ -1,5 +1,5 @@
 ---
-title: Sådan tilføjer eller reducerer du licenser
+title: Tilføje eller fjerne licenser til dit abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: bf92bc9d6bfc8d7a07bff02d18fda7a8800247d4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709581"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957828"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Sådan tilføjer eller reducerer du licenser
+# <a name="add-or-remove-licenses-for-your-subscription"></a>Tilføje eller fjerne licenser til dit abonnement
 
 Sådan tilføjer/fjerner du licenser.
   
 1. Gå til **Fakturering > [abonnementer](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Vælg det abonnement, du vil tilføje/fjerne licenser fra.
+2. Vælg det abonnement, du vil tilføje/fjerne licenser til.
 
 3. Klik på **Tilføj/fjern licenser**.
 
@@ -41,6 +41,6 @@ Du kan finde oplysninger om, hvordan du tildeler licenser, under [Tildele licens
   
 - [Administrer abonnementslicenser - køb eller fjern](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Annullere Office 365 til virksomheder](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Annuller Microsoft 365 til virksomheder](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Købe et andet abonnement på Office 365 til virksomheder](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Køb et andet Microsoft 365-abonnement til virksomheder](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
