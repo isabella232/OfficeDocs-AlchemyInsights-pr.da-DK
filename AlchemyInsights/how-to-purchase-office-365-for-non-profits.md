@@ -1,5 +1,5 @@
 ---
-title: Sådan køber du Office 365 uden overskud
+title: Microsoft 365 til nonprofitorganisationer - under gennemgang
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763535"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005216"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="6dca6-102">Sådan køber du Office 365 uden overskud</span><span class="sxs-lookup"><span data-stu-id="6dca6-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="microsoft-365-for-nonprofits---under-review"></a><span data-ttu-id="a47a1-102">Microsoft 365 til nonprofitorganisationer - under gennemgang</span><span class="sxs-lookup"><span data-stu-id="a47a1-102">Microsoft 365 for nonprofits - under review</span></span>
 
-<span data-ttu-id="6dca6-103">Din berettigelse som en Organisation for kvalificeret nonprofitorganisation fra Microsoft er under revision.</span><span class="sxs-lookup"><span data-stu-id="6dca6-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="6dca6-104">Du kan forvente at modtage en meddelelse om afgørelsen af din berettigelse, før prøveperioden udløber.</span><span class="sxs-lookup"><span data-stu-id="6dca6-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="6dca6-105">Du kan spore status for din ansøgning [her](https://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="6dca6-105">You can track the status of your application [here](https://eligibilityweb.azurewebsites.net/).</span></span>
+<span data-ttu-id="a47a1-103">Din berettigelse som en Organisation til en Microsoft-organisation til en kvalificeret nonprofitorganisation er **under gennemgang**.</span><span class="sxs-lookup"><span data-stu-id="a47a1-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is **under review**.</span></span> <span data-ttu-id="a47a1-104">Du kan forvente at modtage en meddelelse om fastsættelsen af din berettigelse **48 timer** fra dit indsendelsestidspunkt.</span><span class="sxs-lookup"><span data-stu-id="a47a1-104">You can expect to receive a notification on the determination of your eligibility **48 hours** from your time of submission.</span></span> <span data-ttu-id="a47a1-105">Der kan gå mindst **48 timer,** før du åbner en serviceanmodning.</span><span class="sxs-lookup"><span data-stu-id="a47a1-105">Please allow at least **48 hours** to receive this notification before opening a service request.</span></span> 
+
+<span data-ttu-id="a47a1-106">Du kan finde flere oplysninger i [Microsoft 365 til nonprofitorganisationer](https://www.microsoft.com/nonprofits/microsoft-365).</span><span class="sxs-lookup"><span data-stu-id="a47a1-106">For more info, see [Microsoft 365 for Nonprofits](https://www.microsoft.com/nonprofits/microsoft-365).</span></span> 
