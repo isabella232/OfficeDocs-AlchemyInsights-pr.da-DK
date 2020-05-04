@@ -1,5 +1,5 @@
 ---
-title: Sådan får du nonprofit-tilbud
+title: Sådan får du tilbud til nonprofitorganisationer
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -17,15 +17,15 @@ ms.contentlocale: da-DK
 ms.lasthandoff: 04/30/2020
 ms.locfileid: "43947606"
 ---
-# <a name="how-to-get-nonprofit-offers"></a>Sådan får du nonprofit-tilbud
+# <a name="how-to-get-nonprofit-offers"></a>Sådan får du tilbud til nonprofitorganisationer
 
-For at modtage nonprofit-tilbud, skal du gøre følgende:
+For at modtage tilbud til nonprofitorganisationer skal du gøre følgende:
 
-1. Tilmeld dig [Microsoft Nonprofits-programmet](https://go.microsoft.com/fwlink/p/?linkid=2008962).
+1. Tilmeld dig [Microsoft-programmet til nonprofitorganisationer](https://go.microsoft.com/fwlink/p/?linkid=2008962).
 
-2. Hvis berettigelse bekræftes, bliver 365 Microsofts nonprofit-tilbud tilgængelige i Microsoft 365-administrationsportalen ved at gå til siden **Fakturering > [Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Det omfatter de donerede E1- og Business Essentials-tilbud.
+2. Hvis berettigelse bekræftes, bliver Microsoft 365-tilbud til nonprofitorganisationer tilgængelige på Microsoft 365-administrationsportalen ved at gå til siden **Fakturering > [Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Det omfatter de donerede E1- og Business Essentials-tilbud.
 
-3. Efter købet skal du gå til fanen [Brugere](https://admin.microsoft.com/Adminportal/Home#/users) i administrationsportalen for at tildele dine brugere dine nye Microsoft 365 nonprofit-abonnementer.
+3. Efter købet skal du gå til fanen [Brugere](https://admin.microsoft.com/Adminportal/Home#/users) på administrationsportalen for at tildele dine brugere dine nye Microsoft 365-abonnementer til nonprofitorganisationer.
 
 For at få svar på andre almindelige spørgsmål, bedes du gennemse vores [ofte stillede spørgsmål](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz). Se også:
 
