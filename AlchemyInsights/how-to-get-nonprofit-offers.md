@@ -1,5 +1,5 @@
 ---
-title: Sådan får du nonprofit-tilbud
+title: Sådan får du tilbud til nonprofitorganisationer
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -17,18 +17,18 @@ ms.contentlocale: da-DK
 ms.lasthandoff: 04/30/2020
 ms.locfileid: "43947606"
 ---
-# <a name="how-to-get-nonprofit-offers"></a><span data-ttu-id="1144f-102">Sådan får du nonprofit-tilbud</span><span class="sxs-lookup"><span data-stu-id="1144f-102">How to get nonprofit offers</span></span>
+# <a name="how-to-get-nonprofit-offers"></a><span data-ttu-id="64729-102">Sådan får du tilbud til nonprofitorganisationer</span><span class="sxs-lookup"><span data-stu-id="64729-102">How to get nonprofit offers</span></span>
 
-<span data-ttu-id="1144f-103">For at modtage nonprofit-tilbud, skal du gøre følgende:</span><span class="sxs-lookup"><span data-stu-id="1144f-103">In order to get nonprofit offers, you will need to do the following:</span></span>
+<span data-ttu-id="64729-103">For at modtage tilbud til nonprofitorganisationer skal du gøre følgende:</span><span class="sxs-lookup"><span data-stu-id="64729-103">In order to get nonprofit offers, you will need to do the following:</span></span>
 
-1. <span data-ttu-id="1144f-104">Tilmeld dig [Microsoft Nonprofits-programmet](https://go.microsoft.com/fwlink/p/?linkid=2008962).</span><span class="sxs-lookup"><span data-stu-id="1144f-104">Register with the [Microsoft Nonprofits program](https://go.microsoft.com/fwlink/p/?linkid=2008962).</span></span>
+1. <span data-ttu-id="64729-104">Tilmeld dig [Microsoft-programmet til nonprofitorganisationer](https://go.microsoft.com/fwlink/p/?linkid=2008962).</span><span class="sxs-lookup"><span data-stu-id="64729-104">Register with the [Microsoft Nonprofits program](https://go.microsoft.com/fwlink/p/?linkid=2008962).</span></span>
 
-2. <span data-ttu-id="1144f-105">Hvis berettigelse bekræftes, bliver 365 Microsofts nonprofit-tilbud tilgængelige i Microsoft 365-administrationsportalen ved at gå til siden **Fakturering > [Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**.</span><span class="sxs-lookup"><span data-stu-id="1144f-105">If eligibility is confirmed, Microsoft 365 Nonprofit offers will become available in the Microsoft 365 admin portal by going to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span> <span data-ttu-id="1144f-106">Det omfatter de donerede E1- og Business Essentials-tilbud.</span><span class="sxs-lookup"><span data-stu-id="1144f-106">This includes the donated E1 and Business Essentials offers.</span></span>
+2. <span data-ttu-id="64729-105">Hvis berettigelse bekræftes, bliver Microsoft 365-tilbud til nonprofitorganisationer tilgængelige på Microsoft 365-administrationsportalen ved at gå til siden **Fakturering > [Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**.</span><span class="sxs-lookup"><span data-stu-id="64729-105">If eligibility is confirmed, Microsoft 365 Nonprofit offers will become available in the Microsoft 365 admin portal by going to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span> <span data-ttu-id="64729-106">Det omfatter de donerede E1- og Business Essentials-tilbud.</span><span class="sxs-lookup"><span data-stu-id="64729-106">This includes the donated E1 and Business Essentials offers.</span></span>
 
-3. <span data-ttu-id="1144f-107">Efter købet skal du gå til fanen [Brugere](https://admin.microsoft.com/Adminportal/Home#/users) i administrationsportalen for at tildele dine brugere dine nye Microsoft 365 nonprofit-abonnementer.</span><span class="sxs-lookup"><span data-stu-id="1144f-107">After purchasing, go to the [Users](https://admin.microsoft.com/Adminportal/Home#/users) tab in the admin portal to assign your users to your new Microsoft 365 Nonprofit subscriptions.</span></span>
+3. <span data-ttu-id="64729-107">Efter købet skal du gå til fanen [Brugere](https://admin.microsoft.com/Adminportal/Home#/users) på administrationsportalen for at tildele dine brugere dine nye Microsoft 365-abonnementer til nonprofitorganisationer.</span><span class="sxs-lookup"><span data-stu-id="64729-107">After purchasing, go to the [Users](https://admin.microsoft.com/Adminportal/Home#/users) tab in the admin portal to assign your users to your new Microsoft 365 Nonprofit subscriptions.</span></span>
 
-<span data-ttu-id="1144f-108">For at få svar på andre almindelige spørgsmål, bedes du gennemse vores [ofte stillede spørgsmål](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz).</span><span class="sxs-lookup"><span data-stu-id="1144f-108">For other answers to common questions, please review our [FAQ's](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz).</span></span> <span data-ttu-id="1144f-109">Se også:</span><span class="sxs-lookup"><span data-stu-id="1144f-109">Also see:</span></span>
+<span data-ttu-id="64729-108">For at få svar på andre almindelige spørgsmål, bedes du gennemse vores [ofte stillede spørgsmål](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz).</span><span class="sxs-lookup"><span data-stu-id="64729-108">For other answers to common questions, please review our [FAQ's](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz).</span></span> <span data-ttu-id="64729-109">Se også:</span><span class="sxs-lookup"><span data-stu-id="64729-109">Also see:</span></span>
 
-- [<span data-ttu-id="1144f-110">Tildel Microsoft Teams-licenser</span><span class="sxs-lookup"><span data-stu-id="1144f-110">Assign Microsoft teams licenses</span></span>](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)
+- [<span data-ttu-id="64729-110">Tildel Microsoft Teams-licenser</span><span class="sxs-lookup"><span data-stu-id="64729-110">Assign Microsoft teams licenses</span></span>](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)
 
-- [<span data-ttu-id="1144f-111">Møder i Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1144f-111">Meetings in Microsoft Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/tutorial-meetings-in-teams)
+- [<span data-ttu-id="64729-111">Møder i Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="64729-111">Meetings in Microsoft Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/tutorial-meetings-in-teams)
