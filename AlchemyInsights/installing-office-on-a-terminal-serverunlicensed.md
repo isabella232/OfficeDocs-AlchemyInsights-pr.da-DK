@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763211"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010608"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installere Office på en Terminal Server
 
@@ -23,7 +23,7 @@ Til installation af Microsoft 365 Apps til virksomheder på en Windows Server ve
   
 - Du skal have et Microsoft 365-abonnement, der omfatter Microsoft 365 Apps til virksomheder, f.eks. Microsoft 365 Apps til virksomheder og Microsoft 365 Apps til business Premium-planer omfatter ikke Microsoft 365 Apps til virksomheder.
 
-- Du skal aktivere [aktivering af delt computer](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Du skal aktivere [aktivering af delt computer](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 Hvis du vil installere Microsoft 365 Apps til virksomheder på RDS fra Microsoft 365 Administration, ***som bruger standardinstallationsindstillinger,*** skal du benytte følgende trin.
 
@@ -48,9 +48,9 @@ Hvis du vil installere Microsoft 365 Apps til virksomheder på RDS fra Microsoft
 
 3. Tilføj en strengværdi af **SharedComputerLicensing** med en indstilling på 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration i Registreringseditor.
 
-7. Log på som ***slutbruger på*** RDS-serveren, og [kontroller, at aktivering af den delte computer er aktiveret for Microsoft 365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Log på som ***slutbruger på*** RDS-serveren, og [kontroller, at aktivering af den delte computer er aktiveret for Microsoft 365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
-Yderligere oplysninger om forudsætninger, installationsvejledning og vejledning i tilpassede installationer ved hjælp af Office Deployment Tool finder du under [Installere Microsoft 365 Apps til virksomheder ved hjælp af Fjernskrivebord-tjenester](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Yderligere oplysninger om forudsætninger, installationsvejledning og vejledning i tilpassede installationer ved hjælp af Office Deployment Tool finder du under [Installere Microsoft 365 Apps til virksomheder ved hjælp af Fjernskrivebord-tjenester](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
   
-Hvis du vil rette fejl i forbindelse med aktivering af delte computere, skal du se [Fejlfinding af problemer med aktivering af delt computer for Microsoft 365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Hvis du vil rette fejl i forbindelse med aktivering af delte computere, skal du se [Fejlfinding af problemer med aktivering af delt computer for Microsoft 365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   

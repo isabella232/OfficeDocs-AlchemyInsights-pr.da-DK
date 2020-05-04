@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726242"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010851"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Bruge ODT (Office Deployment Tool)
 
@@ -42,4 +42,4 @@ Du kan bruge ODT (Office Deployment Tool) til at installere Office 365-versioner
 
     **Bemærk:** Du skal køre dette trin fra den klientcomputer, hvor du vil installere Office, og du skal have lokale administratortilladelser på den pågældende computer.
 
-Hvis du vil have mere at vide om at bruge Office Deployment Tool til dine Microsoft 365 Apps til virksomhedsinstallationsscenarier, skal du se [Oversigt over Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Yderligere oplysninger om, hvordan du bruger Office-tilpasningsværktøjet, finder [du i Oversigt over Office-tilpasningsværktøjet](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Hvis du vil have mere at vide om at bruge Office Deployment Tool til dine Microsoft 365 Apps til virksomhedsinstallationsscenarier, skal du se [Oversigt over Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Yderligere oplysninger om, hvordan du bruger Office-tilpasningsværktøjet, finder [du i Oversigt over Office-tilpasningsværktøjet](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
