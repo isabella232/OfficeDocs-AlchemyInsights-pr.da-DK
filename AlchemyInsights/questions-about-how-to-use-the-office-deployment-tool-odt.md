@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 96d3f70f554f71c43d6458ec8debc099cd9fb040
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aef42df4dde17d15863fca67e41f0ff23e506dc
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698052"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010726"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="4db1f-102">Spørgsmål om, hvordan ODT (Office Deployment Tool) bruges</span><span class="sxs-lookup"><span data-stu-id="4db1f-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="0b8f5-102">Spørgsmål om, hvordan ODT (Office Deployment Tool) bruges</span><span class="sxs-lookup"><span data-stu-id="0b8f5-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="4db1f-103">Hent Office-installationsværktøjet fra [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="4db1f-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+<span data-ttu-id="0b8f5-103">Hent Office-installationsværktøjet fra [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="0b8f5-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
   
-<span data-ttu-id="4db1f-104">Når du har hentet filen, skal du køre den selvudpakkende eksekverbare fil, som indeholder eksekverbar Office Deployment Tool (setup.exe) og en eksempelkonfigurationsfil (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="4db1f-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
+<span data-ttu-id="0b8f5-104">Når du har hentet filen, skal du køre den selvudpakkende eksekverbare fil, som indeholder eksekverbar Office Deployment Tool (setup.exe) og en eksempelkonfigurationsfil (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="0b8f5-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
   
- <span data-ttu-id="4db1f-105">**Sådan udelukkes eller fjernes Microsoft 365 Apps til virksomhedsprodukter fra klientcomputere:**</span><span class="sxs-lookup"><span data-stu-id="4db1f-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
+ <span data-ttu-id="0b8f5-105">**Sådan udelukkes eller fjernes Microsoft 365 Apps til virksomhedsprodukter fra klientcomputere:**</span><span class="sxs-lookup"><span data-stu-id="0b8f5-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
   
-<span data-ttu-id="4db1f-106">Når du installerer Microsoft 365 Apps til virksomheder, kan du ekskludere bestemte produkter.</span><span class="sxs-lookup"><span data-stu-id="4db1f-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="4db1f-107">Det kan du gøre ved at følge trinnene til installation af Office med ODT, men inkludere elementet ExcludeApp i konfigurationsfilen.</span><span class="sxs-lookup"><span data-stu-id="4db1f-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="4db1f-108">Denne konfigurationsfil installerer f.eks.</span><span class="sxs-lookup"><span data-stu-id="4db1f-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
+<span data-ttu-id="0b8f5-106">Når du installerer Microsoft 365 Apps til virksomheder, kan du ekskludere bestemte produkter.</span><span class="sxs-lookup"><span data-stu-id="0b8f5-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="0b8f5-107">Det kan du gøre ved at følge trinnene til installation af Office med ODT, men inkludere elementet ExcludeApp i konfigurationsfilen.</span><span class="sxs-lookup"><span data-stu-id="0b8f5-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="0b8f5-108">Denne konfigurationsfil installerer f.eks.</span><span class="sxs-lookup"><span data-stu-id="0b8f5-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ ms.locfileid: "43698052"
 </Add>
 ```
 
-[<span data-ttu-id="4db1f-109">Oversigt over Office-installationsværktøjet</span><span class="sxs-lookup"><span data-stu-id="4db1f-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[<span data-ttu-id="0b8f5-109">Oversigt over Office-installationsværktøjet</span><span class="sxs-lookup"><span data-stu-id="0b8f5-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 
