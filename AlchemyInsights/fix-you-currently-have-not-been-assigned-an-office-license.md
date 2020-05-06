@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218143"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010176"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Løsning – "Du har i øjeblikket ikke fået tildelt en Office-licens"
 
-Hvis du vil installere Office-klientprogrammer, skal du sikre dig, at du har et Office 365- eller Microsoft 365-abonnement, som [omfatter Office-klientprogrammer](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), f.eks. Office 365 Business Premium, Office 365 Business eller Office 365 ProPlus.
+Hvis du vil installere Office-klientprogrammer, skal du sikre dig, at du har et Office 365- eller Microsoft 365-abonnement, som [omfatter Office-klientprogrammer](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), f.eks. Microsoft 365 Business Premium, Microsoft 365 Apps for business eller Microsoft 365 Apps for enterprise.
 
 **Bemærk**: [Office Home and business](https://products.office.com/home-and-business) er et [Office til privat brug](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt, og er ikke en del af et abonnement til virksomheder. Project Online Essentials omfatter ikke en skrivebordsversion af Project, så der kræves ingen installation. Visio Plan 1-brugere kan få adgang til Visio på internettet, da planen ikke inkluderer Visio-skrivebordsprogrammet. Project- og Visio-skrivebordsprogrammer er ikke tilgængelige på Mac
 

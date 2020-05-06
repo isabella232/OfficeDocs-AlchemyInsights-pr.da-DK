@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713316"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010788"
 ---
 # <a name="office-activation-errors"></a>Office-aktiveringsfejl
 
-1. I **Kontrolpanel > Programmer og funktioner** skal du søge efter **Office**. Du bør kunne se **Microsoft Office 365 ProPlus** eller **Microsoft Office 365 Business**. Hvis du ser mere end én version af Office på listen, skal du fjerne den version, du ikke bruger. Hvis du ikke kan afinstallere via Kontrolpanel, skal du bruge Support- og genoprettelsesassistenten (SaRA) til at [afinstallere](https://aka.ms/SARA-OfficeUninstall-Alchemy) den version, du ikke bruger. Genstart derefter Office, og log på med din arbejds- eller skolekonto, hvis du bliver bedt om det. 
+1. I **Kontrolpanel > Programmer og funktioner** skal du søge efter **Office**. Du bør kunne se **Microsoft 365 for enterprise** eller **Microsoft 365 for business**. Hvis du ser mere end én version af Office på listen, skal du fjerne den version, du ikke bruger. Hvis du ikke kan afinstallere via Kontrolpanel, skal du bruge Support- og genoprettelsesassistenten (SaRA) til at [afinstallere](https://aka.ms/SARA-OfficeUninstall-Alchemy) den version, du ikke bruger. Genstart derefter Office, og log på med din arbejds- eller skolekonto, hvis du bliver bedt om det. 
 
 2. Hvis Office stadig er uden licens, skal du gå tilbage til **Kontrolpanel > Programmer og funktioner**, højreklikke på den resterende installation af Office, klikke på **Ændre** (eller **Skift**) og derefter klikke på **Onlinereparation**. Onlinereparationen kan tage et stykke tid. Genstart derefter Office, og log på med din arbejds- eller skolekonto, hvis du bliver bedt om det. 
 
