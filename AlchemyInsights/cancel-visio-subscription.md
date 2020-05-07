@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: bad7c8b3503800101d758fbcdd0429fc097bd2a0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552754"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061592"
 ---
 # <a name="cancel-visio-subscription"></a>Annullere Visio-abonnement
 
-Administratorer kan annullere Visio-abonnementet for deres organisation fra **Microsoft 365 Administration**. 
+Administratorer kan annullere Visio-abonnementet for deres organisation fra **Microsoft 365 Administration**.
 
-1. Vælg indstillingen **Fakturering.**
+1. Gå til siden **Fakturering > [dine produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
 
-2. Klik på [Produkter & tjenester](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions) for at få vist alle abonnementer for din organisation.
+2. Find den Visio-plan, der skal annulleres.
 
-3. Find den Visio-plan, der skal annulleres.
+3. Klik på **Annuller abonnement**.
 
-4. Klik på **Annuller abonnement**.
+**Refusion: Enhver forholdsmæssig kredit vil blive returneret til dig inden for den næste faktureringsperiode.**
 
-**Refusion: Enhver forholdsmæssig kredit vil blive returneret til dig inden for den næste faktureringsperiode.** 
+**Bemærk:** Hvis du ikke kan se muligheden for at annullere, skal du klikke på abonnementet for at se detaljerne, og du bør se indstillingen **Annuller abonnement** i Indstillinger **& Handlinger**.
 
-**Bemærk:** Hvis du ikke kan se muligheden for at annullere, skal du klikke på abonnementet for at se detaljerne, og du bør se indstillingen **Annuller abonnement** i Indstillinger **& Handlinger**. 
-
-Du kan få mere at vide under [Annullere dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Du kan få mere at vide under [Annullere dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

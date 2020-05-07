@@ -1,5 +1,5 @@
 ---
-title: Produkter & tjenester
+title: Dine produkter
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758784"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062855"
 ---
-# <a name="products--services"></a>Produkter & tjenester
+# <a name="your-products"></a>Dine produkter
 
-Du kan finde de abonnementer, der ejes af din organisation, på siden **Faktureringsprodukter** > [**& tjenester.**](https://go.microsoft.com/fwlink/p/?linkid=842054) Her er nogle af højdepunkterne på denne side sammen med links til mere info om hver funktion:
+Du kan finde de abonnementer, der ejes af din organisation, på siden **Fakturering af** > **[produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Her er nogle af højdepunkterne på denne side sammen med links til mere info om hver funktion:
 
 1. Administrer antallet af licenser, der er købt for hvert abonnement, sammen med hvor mange der er i brug.  **Bemærk:** Licenser, der ikke er i brug (ikke tildelt en bruger), debiteres stadig.  Hvis du ikke vil betale for ubrugte licenser, skal du reducere antallet af købte licenser. Du kan finde oplysninger om, hvordan du tilføjer eller fjerner licenser fra et abonnement, [under Sådan tilføjer eller reducerer du licenser](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
