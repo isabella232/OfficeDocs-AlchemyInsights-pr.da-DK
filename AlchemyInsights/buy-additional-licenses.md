@@ -12,16 +12,16 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712165"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061701"
 ---
 # <a name="buy-additional-licenses"></a>Køb yderligere licenser
 
-1. I Administration skal du gå til siden **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Gå til siden Fakturering **af** \> **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
 
 2. Find det abonnement, du vil føje licenser til, og vælg derefter **Tilføj/fjern licenser**.
 
@@ -34,6 +34,6 @@ ms.locfileid: "43712165"
 
 Du kan få mere at vide under [Købe licenser til dit Abonnement på Microsoft 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
-**Yderligere ressourcer**
+**Flere ressourcer**
 
 - [Tildele licenser til brugere i Microsoft 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

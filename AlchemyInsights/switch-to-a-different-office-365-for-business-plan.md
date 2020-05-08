@@ -12,18 +12,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789152"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064351"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Skifte til et andet Abonnement på Microsoft 365 til virksomheder
 
 Når din virksomhed ændres, eller du har brug for flere funktioner, kan du opgradere til en ny plan.
   
-1. Gå til ** \> [Faktureringsprodukter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
+1. Gå til siden Fakturering **af** \> **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
 
 2. Vælg det abonnement, du vil opgradere.
 

@@ -1,5 +1,5 @@
 ---
-title: Aktivér og Tildel software-as-a-service-app-licenser
+title: Aktivere og tildele software-as-a-service applicenser
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766309"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062134"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivér og Tildel software-as-a-service-app-licenser 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivere og tildele software-as-a-service applicenser 
 
-## <a name="to-activate-apps"></a>For at aktivere apps
+## <a name="to-activate-apps"></a>Sådan aktiveres apps
 
-1. Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) i Admin Center, og vælg derefter fanen **apps** .
+1. Gå til siden Fakturering **af** > **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration, og vælg derefter fanen **Apps.**
 
 2. Find og vælg den app, du vil administrere.
 
-3. Vælg **Konfigurer konto**under **licenser**.  
+3. Vælg Konfigurer **konto under** **Licenser**.  
 
-## <a name="to-assign-app-licenses"></a>Sådan tildeles app-licenser
+## <a name="to-assign-app-licenses"></a>Sådan tildeles applicenser
 
-1. Gå til siden **fakturerings** > [produkter & tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) i Admin Center, og vælg derefter fanen **apps** .
+1. Gå til siden Fakturering **af** > **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration, og vælg derefter fanen **Apps.**
 
 2. Find og vælg den app, du vil administrere.  
 
-3. Under **indstillinger & handlinger**skal du vælge det link, du vil **administrere, i udgiverens Portal**.
+3. Vælg linket til **Administrer i udgiverens portal**under Indstillinger & **handlinger**.

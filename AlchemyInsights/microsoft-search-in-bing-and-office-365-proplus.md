@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762311"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043031"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Søg i Bing og Microsoft 365 Apps for enterprise
 
-Fra og med version 2002 af Microsoft 365 Apps for enterprise installeres en udvidelse til Microsoft Søg i Bing, der gør Bing til standardsøgemaskinen for Google Chrome-browseren på enheder på bestemte placeringer.
+Der er en Microsoft Søg i Bing-udvidelse til Google Chrome tilgængelig for Microsoft 365 Apps for enterprise (tidligere kaldet Office 365 ProPlus) fra og med version 2005 (***valgfrit***). Udvidelsen er tilgængelig på visse placeringer for domænetilknyttede enheder, der kører Windows. Hvis du beslutter dig for at installere udvidelsen, indstilles Bing som standardsøgemaskine.
 
-**Hvis du ikke vil have udvidelsen installeret, skal du [følge disse trin](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Hvis du vil installere udvidelsen, skal du ***tilmelde dig*** ved at konfigurere en indstilling i afsnittet Microsoft Søg i Microsoft 365 Administration.
 
-Selvom udvidelsen er installeret, kan brugerne nemt stoppe med at bruge Bing som standardsøgemaskine ved hjælp af en [til/fra-](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome)knap, eller du kan [fjerne udvidelsen](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) fra flere enheder i organisationen.
+Installation af denne ***valgfri*** udvidelse afhænger også af en baggrundstjeneste, som følger med Microsoft 365 Apps for enterprise fra og med version 2005. Hvis baggrundstjenesten ikke er installeret, installeres udvidelsen ikke.
 
-Vi har en detaljeret hjælp-artikel, som kan hjælpe dig med at forstå mere om ændringen [her](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+Brugerne kan nemt holde op med at bruge Bing som standardsøgemaskine, også efter at udvidelsen er installeret, blot ved at slå den til eller fra ved hjælp af en knap.
+
+Du kan få mere at vide om, hvordan du installerer denne ***valgfri*** udvidelse, under [Microsoft Søg i Bing og Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/microsoft-search-bing).

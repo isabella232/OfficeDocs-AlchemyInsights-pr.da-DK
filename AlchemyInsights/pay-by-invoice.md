@@ -1,9 +1,9 @@
 ---
-title: Betaling af faktura
+title: Betal med faktura
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "492"
 - "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: f9f9090eeb2770a8ccb82b3c34a46f2446fc4c55
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e4291e4c16b1edb68efd97ca7fbb4ae03685fa37
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555299"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062386"
 ---
-# <a name="pay-by-invoice"></a>Betaling af faktura
+# <a name="pay-by-invoice"></a>Betal med faktura
 
-Hvis dit Office 365-abonnement koster over en vis mængde penge (beløbet varierer efter placering), har du mulighed for at betale via en faktura ved hjælp af en check eller elektronisk PENGEOVERFØRSEL. En kreditkontrol kan være påkrævet ved større fakturabetalinger. Hvis en kreditkontrol er påkrævet, får du besked, når du køber dit abonnement. Hvis du accepterer at blive kontaktet, modtager du desuden en mail, der indeholder flere oplysninger om at ansøge om kreditgodkendelse. Kreditkontroller gennemføres normalt inden for to arbejdsdage.
+Hvis dit Microsoft 365-abonnement koster over et bestemt beløb (dette beløb varierer efter tjenesteplacering), har du mulighed for at betale via faktura ved hjælp af en check eller elektronisk pengeoverførsel. En kreditkontrol kan være påkrævet ved større fakturabetalinger. Hvis en kreditkontrol er påkrævet, får du besked, når du køber dit abonnement. Hvis du accepterer at blive kontaktet, modtager du desuden en mail, der indeholder flere oplysninger om at ansøge om kreditgodkendelse. Kreditkontroller gennemføres normalt inden for to arbejdsdage.
   
-Hvis du betaler for dit abonnement via faktura, får du tilsendt en mail, der angiver, at din faktureringsopgørelse er klar til at blive vist. Denne mail indeholder ikke en kopi af din faktureringsopgørelse. Du kan dog også vælge at [modtage en kopi af din faktureringsopgørelse i en e-mail](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Din faktureringsopgørelse indeholder detaljer om dine betalingsmuligheder. Hvis du angiver et indkøbsordrenummer, når du køber et abonnement, vises nummeret på din faktureringsopgørelse. Finde oplysninger om adgang til faktureringsspørgsmål, [få vist en stykliste eller en faktura til Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Hvis du betaler for dit abonnement via faktura, får du tilsendt en mail, der angiver, at din faktureringsopgørelse er klar til at blive vist. Denne mail indeholder ikke en kopi af din faktureringsopgørelse. Du kan dog også vælge at [modtage en kopi af din faktureringsopgørelse via mail](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). Din faktureringsopgørelse indeholder detaljer om dine betalingsmuligheder. Hvis du angiver et indkøbsordrenummer, når du køber et abonnement, vises nummeret på din faktureringsopgørelse. Se [Få vist din regning eller faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) for at få flere oplysninger om at få adgang til faktureringsopgørelser.
   
-Du kan finde mere om betaling af faktura i [løn for dit Office 365-business abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+Hvis du vil have mere at vide om betaling via faktura, skal du se [Betal for dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
   
-Hvis du ønsker for at ændre se betalingsmetoder, [ændre din betalingsmetode til Office 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method).
+Hvis du vil ændre betalingsmetoder, skal du se [Ændre din betalingsmetode](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
