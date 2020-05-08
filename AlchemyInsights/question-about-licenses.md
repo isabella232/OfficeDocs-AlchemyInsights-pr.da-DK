@@ -12,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 0d3d788d913137d1083326ee5b69ce4ce5d4178d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 03fb25b88b06f85ea4d2dfe53b123ce77c39aaf4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698268"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062674"
 ---
-# <a name="questions-about-your-microsoft-365-license"></a><span data-ttu-id="6612a-102">Spørgsmål om din Microsoft 365-licens</span><span class="sxs-lookup"><span data-stu-id="6612a-102">Questions about your Microsoft 365 license</span></span>
+# <a name="questions-about-your-microsoft-365-license"></a><span data-ttu-id="62d69-102">Spørgsmål om din Microsoft 365-licens</span><span class="sxs-lookup"><span data-stu-id="62d69-102">Questions about your Microsoft 365 license</span></span>
 
-<span data-ttu-id="6612a-103">Hvis du vil vide, hvor mange licenser du har købt, eller hvor mange licenser der er tildelt fra et abonnement:</span><span class="sxs-lookup"><span data-stu-id="6612a-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="62d69-103">Hvis du vil vide, hvor mange licenser du har købt, eller hvor mange licenser der er tildelt fra et abonnement:</span><span class="sxs-lookup"><span data-stu-id="62d69-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="6612a-104">I Administration skal du gå til siden **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="6612a-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="62d69-104">Gå til siden Fakturering **af** \> **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.</span><span class="sxs-lookup"><span data-stu-id="62d69-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="6612a-105">Find det abonnement, du vil vide mere om.</span><span class="sxs-lookup"><span data-stu-id="6612a-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="6612a-106">Du kan se antallet af licenser, du betaler for, og hvor mange der kan tildeles.</span><span class="sxs-lookup"><span data-stu-id="6612a-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
+2. <span data-ttu-id="62d69-105">Find det abonnement, du vil vide mere om.</span><span class="sxs-lookup"><span data-stu-id="62d69-105">Find the subscription you want to know more about.</span></span> <span data-ttu-id="62d69-106">Du kan se antallet af licenser, du betaler for, og hvor mange der kan tildeles.</span><span class="sxs-lookup"><span data-stu-id="62d69-106">You can see the number of licenses you are paying for and how many are available to be assigned.</span></span>
 
-<span data-ttu-id="6612a-107">Hvis du vil tilføje flere licenser, eller hvis du har for mange, skal du vælge **Tilføj/fjern licenser** for at justere det købte beløb.</span><span class="sxs-lookup"><span data-stu-id="6612a-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+<span data-ttu-id="62d69-107">Hvis du vil tilføje flere licenser, eller hvis du har for mange, skal du vælge **Tilføj/fjern licenser** for at justere det købte beløb.</span><span class="sxs-lookup"><span data-stu-id="62d69-107">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
