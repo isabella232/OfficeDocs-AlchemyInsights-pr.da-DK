@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 6a020a9e944b2df85719db3f9fde84897764e36b
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045390"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163775"
 ---
-# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="1fc1d-102">Samarbejde om Excel-dokumenter</span><span class="sxs-lookup"><span data-stu-id="1fc1d-102">Collaborate on Excel documents</span></span>
+# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="ded0c-102">Samarbejde om Excel-dokumenter</span><span class="sxs-lookup"><span data-stu-id="ded0c-102">Collaborate on Excel documents</span></span>
 
-<span data-ttu-id="1fc1d-103">For at samarbejde med kolleger på Excel-dokumenter, kan du bruge funktionen til samtidig redigering.</span><span class="sxs-lookup"><span data-stu-id="1fc1d-103">To collaborate with colleagues on Excel documents, use the co-authoring feature.</span></span> <span data-ttu-id="1fc1d-104">Få mere at vide om aktivering og bruger denne funktion på [samarbejde i Excel-projektmapper på samme tid med samtidig redigering](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span><span class="sxs-lookup"><span data-stu-id="1fc1d-104">Learn about enabling and using this feature at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>
+<span data-ttu-id="ded0c-103">Hvis du vil samarbejde med kolleger om **Excel-dokumenter,** skal du bruge funktionen til samtidig redigering .</span><span class="sxs-lookup"><span data-stu-id="ded0c-103">To collaborate with colleagues on Excel documents, use the **co-authoring feature**.</span></span> 
+
+<span data-ttu-id="ded0c-104">Få mere at vide om aktivering og brug af denne funktion ud over at se svar på ofte stillede spørgsmål om delings- og samtidigredigering ser på [Excel-projektmapper på samme tid med samtidig samtidig redigering](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span><span class="sxs-lookup"><span data-stu-id="ded0c-104">Learn about enabling and using this feature, in addition to seeing answers to frequently asked questions about sharing and co-authoring scenarios, at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>
