@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417680"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061773"
 ---
 # <a name="billing-and-payment"></a>Fakturering og betaling
 
@@ -24,7 +24,7 @@ Dine regninger kan findes under fanen >  **Faktureringsregninger**[& betalinger.
 
 **Modtag fakturaer via e-mail**
 
-På siden > [Faktureringsmeddelelser](https://go.microsoft.com/fwlink/p/?linkid=853212) kan du slå denne funktion **til** og administrere de brugere, der modtager fakturaen, som en vedhæftet fil i en mail. **** Fakturaen sendes til brugernes e-mailadresser på listen Underretningsmodtagere. Listen omfatter alle fakturerings- og globale administratorer.  Du kan administrere, hvem der modtager fakturameddelelserne, ved at ændre rollen.  Hvis du fjerner den globale administrator- eller faktureringsadministratorrolle, fjernes den pågældende bruger fra modtagerlisten, og hvis du tilføjer rollen global administrator eller fakturering, føjes brugeren til modtagerlisten.
+På siden > [Faktureringsmeddelelser](https://go.microsoft.com/fwlink/p/?linkid=853212) kan du slå denne funktion **til** og administrere de brugere, der modtager fakturaen, som en vedhæftet fil i en mail. **Billing** Fakturaen sendes til brugernes e-mailadresser på listen Underretningsmodtagere. Listen omfatter alle fakturerings- og globale administratorer.  Du kan administrere, hvem der modtager fakturameddelelserne, ved at ændre rollen.  Hvis du fjerner den globale administrator- eller faktureringsadministratorrolle, fjernes den pågældende bruger fra modtagerlisten, og hvis du tilføjer rollen global administrator eller fakturering, føjes brugeren til modtagerlisten.
 
 **Bemærk:** Du vil modtage to separate e-mails: en, der fortæller dig, at din regning er klar, med instruktioner til at logge på Administration for at se den, og en anden e-mail, der indeholder faktureringsopgørelsen som en vedhæftet fil.
 
@@ -34,13 +34,13 @@ Hvis du betaler med kreditkort eller bankkonto, debiteres den betalingsmetode, d
 
 Hvis du har tilføjet et nyt kort, og du stadig får en afvisningsmeddelelse på det gamle kreditkort, skal du muligvis knytte det nye kort til abonnementet.
 
-1. Gå til **Faktureringsprodukter** > [& tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Gå til **Fakturering af** > **[dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Vælg det abonnement, du vil betale med det nye kort eller den nye bankkonto. Klik på **Rediger**ud for betalingsmetoden under sektionen **Fakturering.**
+2. Vælg det abonnement, du vil betale med det nye kort eller bankkontoen. Klik på **Rediger** ud for betalingsmetoden under sektionen **Fakturering**.
 
 3. Klik på **Skift** ud for den aktuelle betalingsmetode.
 
-4. Vælg en alternativ betalingsmetode i rullemenuen, eller tilføj en ny betalingsmetode.
+4. I rullemenuen skal du vælge en anden betalingsmetode eller tilføje en ny betalingsmetode.
 
 Se [Tilføje, opdatere eller fjerne dine betalingsmetoder](https://go.microsoft.com/fwlink/?linkid=2118133).
 

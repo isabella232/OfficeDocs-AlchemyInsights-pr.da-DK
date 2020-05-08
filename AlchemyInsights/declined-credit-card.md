@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705079"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062278"
 ---
 # <a name="declined-credit-card"></a>Afvist kreditkort
 
-Hvis du betaler med kreditkort, og dit kreditkort afvises, modtager du en e-mail, der fortæller dig, at vi ikke kunne behandle betalingen. Dobbelttjek, at [kreditkortoplysninger](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortnummer, udløbsdato, navn på kreditkortet og adresse, herunder by, stat og postnummer - vises nøjagtigt som de gør på kreditkortet og dit kreditkortudtog. Du kan opdatere dine kreditkortoplysninger og straks sende betalingen ved hjælp af indstillingen **Udlign saldo** på siden [Produkter & tjenester.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
+Hvis du betaler med kreditkort, og dit kreditkort afvises, modtager du en e-mail, der fortæller dig, at vi ikke kunne behandle betalingen. Dobbelttjek, at [kreditkortoplysninger](https://go.microsoft.com/fwlink/p/?linkid=842054) - kortnummer, udløbsdato, navn på kreditkortet og adresse, herunder by, stat og postnummer - vises nøjagtigt som de gør på kreditkortet og dit kreditkortudtog. Du kan opdatere dine kreditkortoplysninger og straks sende betalingen ved hjælp af indstillingen **Udlign saldo** på siden **[Dine produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** 
 
 Hvis du vil have mere at vide, skal du se "Hvad nu, hvis mit kreditkort er udløbet, og min betaling er forfalden?" i [Betal for dit Microsoft 365-abonnement til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   

@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708753"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062026"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivering af et Microsoft-volumenlicensabonnement
 
@@ -32,4 +32,4 @@ ms.locfileid: "43708753"
 
 5. Log på Microsoft 365 Administration[https://admin.microsoft.com](https://admin.microsoft.com)( ) ved hjælp af dine eksisterende administratorlegitimationsoplysninger. Når du er logget på, modtager du en anden e-mail, der bekræfter dit køb.
 
-6. Når du er logget ind, kan du gå til siden **Faktureringsprodukter** \> [& tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054) for at bekræfte, at dine købte abonnementer er aktiveret i din lejer. (Du kan også vælge fanen **Abonnement** i VLSC for at få vist oplysninger om, at dit abonnement er blevet deponeret).
+6. Når du er logget ind, kan du gå til siden **Fakturering af** \> [produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) for at bekræfte, at dine købte abonnementer er aktiveret i din lejer. (Du kan også vælge fanen **Abonnement** i VLSC for at få vist oplysninger om, at dit abonnement er blevet deponeret).

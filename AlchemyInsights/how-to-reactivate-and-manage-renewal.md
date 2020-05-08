@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763427"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064079"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Sådan genaktiveres og administreres tilbagevendende fakturering
 
 Det ser ud til, at du har et abonnement, der er udløbet. Hvis du ønsker at genaktivere den, her er hvordan.
   
-1. I Administration skal du gå til siden **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Gå til siden Fakturering **af** \> **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
 
 2. Find det abonnement, du vil genaktivere. Vælg **Genaktiver**i sektionen **Fakturering** .
 
@@ -36,7 +36,7 @@ Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.mi
 
 Hvis du vil administrere månedlig eller årlig fakturering, kan du slå **Tilbagevendende fakturering** til eller fra.
   
-1. I Administration skal du gå til siden **Fakturering** \> [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Gå til siden Fakturering **af** \> **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
 
 2. Vælg det abonnement, som du vil administrere tilbagevendende fakturering for.
 

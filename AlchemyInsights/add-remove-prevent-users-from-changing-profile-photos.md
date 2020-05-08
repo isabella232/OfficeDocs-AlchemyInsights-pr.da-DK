@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671487"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061990"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Tilføje, fjerne eller forhindre brugere i at ændre profilbilleder
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671487"
 
 - **Fjernelse af profilbilleder:** Profilbilleder kan fjernes af en administrator i [Azure Active Directory User Management](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) eller af en bruger i deres Microsoft Teams-brugerprofil.
 
-- **Blokering af ændringer i profilbillede:** Billedændringer kan blokeres for hele Microsoft 365* ved at tilføje en Outlook Web App-politik pr. artikel, [Låse billeder eller begrænse tilladelser til at ændre Microsoft 365-profilbillede](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Blokering af ændringer i profilbillede:** Billedændringer kan blokeres for hele Microsoft 365* ved at tilføje en Outlook Web App-politik pr. artikel, [Låse billeder eller begrænse tilladelser til at ændre Microsoft 365-profilbillede](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 *Bemærk, at Microsoft Teams i øjeblikket ikke understøtter Outlook Web App-politikken for at blokere fotoændringer, men planlægger at tilføje understøttelse af denne funktion i begyndelsen af 2020.
