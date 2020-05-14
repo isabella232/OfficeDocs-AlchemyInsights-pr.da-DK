@@ -14,10 +14,10 @@ ms.custom:
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063467"
 ---
 # <a name="expired-subscription"></a>Udløbet abonnement
@@ -26,7 +26,7 @@ Det ser ud til, at du har et eller flere udløbne abonnementer. Hvis du vil fort
   
 **Genaktivere**
   
-1. Gå til siden Fakturering **af** \> **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
+1. Gå til siden Fakturering **af** produkter i \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
 
 2. Find det abonnement, du vil genaktivere. I sektionen **Fakturering** skal du vælge **Genaktiver**.
 
@@ -38,7 +38,7 @@ Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.mi
 
 **Foretag et nyt køb**
   
-1. Gå til siden \> **[Faktureringskøb](https://go.microsoft.com/fwlink/p/?linkid=868433)** i Administration. **Billing**
+1. Gå til siden **Billing** \> **[Faktureringskøb](https://go.microsoft.com/fwlink/p/?linkid=868433)** i Administration.
 
 2. Vælg det abonnement, du vil købe, og vælg derefter **Køb**.
 

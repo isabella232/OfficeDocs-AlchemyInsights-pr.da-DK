@@ -13,15 +13,15 @@ ms.custom:
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
 ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061701"
 ---
 # <a name="buy-additional-licenses"></a>Køb yderligere licenser
 
-1. Gå til siden Fakturering **af** \> **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
+1. Gå til siden Fakturering **af** produkter i \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
 
 2. Find det abonnement, du vil føje licenser til, og vælg derefter **Tilføj/fjern licenser**.
 

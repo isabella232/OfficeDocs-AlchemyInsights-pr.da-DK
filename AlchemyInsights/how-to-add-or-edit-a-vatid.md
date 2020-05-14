@@ -13,10 +13,10 @@ ms.custom:
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
 ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063575"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Sådan tilføjer eller redigerer du et VatID
@@ -25,7 +25,7 @@ ms.locfileid: "44063575"
 
 **Tilføje eller redigere et VatID**
 
-1. Gå til siden **Fakturering af** \> [produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i Microsoft 365 Administration.
+1. Gå til siden **Fakturering af** produkter i Microsoft 365 \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) Administration.
 
 2. Find abonnementskortet til det abonnement, du vil opdatere.
 

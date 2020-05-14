@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062098"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivere eller genaktivere et abonnement
@@ -33,7 +33,7 @@ ms.locfileid: "44062098"
 
 Hvis dit abonnement udløber, er blevet deaktiveret af Microsoft, eller du har annulleret det midt i en abonnementsperiode, kan du genaktivere det i Administration.
   
-1. Gå til siden **Fakturering af** > [produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i Microsoft 365 Administration.
+1. Gå til siden **Fakturering af**produkter i Microsoft 365  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) Administration.
 
 2. Vælg det abonnement, du vil genaktivere, og vælg derefter **Genaktiver**. Hvis **Genaktiver** ikke vises som en tilgængelig valgmulighed, [skal du ringe til support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) for at genaktivere dit abonnement.
 

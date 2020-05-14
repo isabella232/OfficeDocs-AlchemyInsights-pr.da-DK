@@ -13,17 +13,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063791"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Tilføje eller fjerne licenser til dit abonnement
 
 Sådan tilføjer/fjerner du licenser.
   
-1. Gå til siden Fakturering **af** \> **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
+1. Gå til siden Fakturering **af** produkter i \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
 
 2. Vælg det abonnement, du vil tilføje/fjerne licenser til.
 

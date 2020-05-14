@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062458"
 ---
 # <a name="find-and-activate-my-product-key"></a>Finde og aktivere min produktnøgle
@@ -32,7 +32,7 @@ Hvis du har købt Microsoft 365 Business Premium Standard i en detailbutik, skal
 
 **Bemærk:** Hvis du vil bruge en produktnøgle til at forlænge udløbsdatoen eller føje en licens til dit eksisterende Microsoft 365 Business Premium Standard-abonnement, skal du bruge en ny og ubrugt nøgle til det samme Microsoft 365-abonnement.  Det fungerer ikke at angive din oprindelige Microsoft 365-produktnøgle, fordi en nøgle, der allerede er blevet indløst, ikke kan bruges igen.
 
-1. Gå til siden Fakturering **af** > **[produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
+1. Gå til siden Fakturering **af**produkter i  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
 
 2. Find det abonnement, du vil forlænge udløbsdatoen for, eller tilføj licenser.  Klik på [Forlænge slutdatoen,](https://go.microsoft.com/fwlink/p/?linkid=842054) eller [tilføj flere licenser](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
