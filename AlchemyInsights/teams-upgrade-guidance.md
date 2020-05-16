@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908770"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254743"
 ---
 # <a name="microsoft-teams-upgrade"></a>Opgradering af Microsoft Teams
 
-**Vigtigt**: Vi kan hjælpe med at løse dette problem for dig ved hjælp af en supportdiagnosticering, men det ser ud til, at du ikke bruger New Administration. Hvis du vil bruge Den Nye Administration, skal du skubbe til/fra-knappen øverst til højre, hvor der står **ny Administration** til højre. Brug af den nye Administration, klik på widgetten **Har du brug for hjælp?**
+**Vigtigt:** Hvis du er blevet opgraderet fra Skype for Business Online til Microsoft Teams i tilstanden Kun teams, men finder ud af, at du ikke er klar endnu, kan vi hjælpe med at løse dette problem for dig ved hjælp af en supportdiagnosticering. Sørg for, at du bruger den nye Administration ved at skubbe til/fra-knappen øverst til højre, hvor der står **ny Administration**til højre. Brug den nye Administration til at klikke på**Teams Upgrade** **widgetten Har du brug for hjælp?**
 
 Uanset om du lige er startet med Teams, bruger allerede Teams sammen med Skype for Business eller er klar til at opgradere, vil vi sikre, at du har alt, hvad du behøver for at navigere på en vellykket rejse til Teams. For mere information kan du besøge nedenstående links.
 
