@@ -12,16 +12,14 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711373"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278814"
 ---
 # <a name="cannot-access-sharepoint"></a>Kan ikke få adgang til SharePoint
-
-**Vigtigt**: I disse hidtil usete tider bestræber vi os på at sikre, at SharePoint Online- og OneDrive-tjenesterne fastholder sin høje tilgængelighed. Hvis du ønsker flere oplysninger, skal du besøge [Midlertidige funktionsjusteringer i SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 Der kan være flere årsager til, at Microsoft SharePoint eller Microsoft OneDrive kan blive utilgængelig. Hvis du ikke kan få adgang til SharePoint Online, kan du bruge følgende vejledning til at foretage fejlfinding af problemet.
 
