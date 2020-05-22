@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742041"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343075"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Meddelelser om SharePoint-beskeder er ikke leveret
 
@@ -33,15 +33,6 @@ Ofte stillede spørgsmål om advarsler:
 
 - Det er ikke muligt at sende beskeder til distributionsgruppen, kun sikkerheds- og O365-grupper understøttes.
 - Du kan ikke tilpasse mailskabeloner til påmindelser. Du skal bruge Microsoft FLOW eller SharePoint Designer Workflow for at opnå disse.
-
-Flere oplysninger:
-
-- **Konfiguration af beskeder**: Du kan finde flere oplysninger om konfiguration af beskeder under [Oprette en besked for at få besked, når en fil eller mappe ændres i SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Fejlfinding af beskeder**: Du kan finde flere oplysninger om fejlfinding af advarsler under [Brugere modtager ikke Meddelelser om Beskeder om SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Avancerede O365-politikker for overholdelse af regler og standarder**: Du kan finde flere oplysninger om konfiguration af disse påmindelser under Politikker for overholdelse af regler for overholdelse af regler for [overholdelse](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint- og OneDrive-overvågningslogfiler**: Du kan finde flere oplysninger om, hvordan du henter disse hændelser, [under Søge i overvågningsloggen](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Beskeder, der sendes af Avanceret trusselsbeskyttelse:** Se [ATP for SharePoint og OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Advarsler sendt af datatab forebyggelse politikker**: Se [E-mail-meddelelser for DLP politikker](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Relaterede emner
 
