@@ -1,5 +1,5 @@
 ---
-title: Administrere synkroniseret bruger
+title: Administrer synkroniseret bruger
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541979"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407344"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a><span data-ttu-id="fd0aa-102">Kunne ikke indstille primær e-mail-adresse eller ændre brugerattributter</span><span class="sxs-lookup"><span data-stu-id="fd0aa-102">Unable to set primary email address or change user attributes</span></span>
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a><span data-ttu-id="b2c8b-102">Der kan ikke angives primær mailadresse, ændre brugerattributter eller fjerne/slette en synkroniseret bruger</span><span class="sxs-lookup"><span data-stu-id="b2c8b-102">Unable to set primary email address, change user attributes, or remove/delete a synchronized user</span></span>
 
-<span data-ttu-id="fd0aa-103">Hvis directory-synkronisering er aktiveret for miljøet, vil nogle bruger- eller attributter kan ikke ændres ved hjælp af Microsoft 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="fd0aa-103">If directory synchronization is enabled for your environment, some user or object attributes cannot be changed using the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="b2c8b-103">Hvis katalogsynkronisering er aktiveret for dit miljø, kan nogle bruger- eller objektattributter ikke ændres ved hjælp af Microsoft 365 Administration.</span><span class="sxs-lookup"><span data-stu-id="b2c8b-103">If directory synchronization is enabled for your environment, some user or object attributes cannot be changed using the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="fd0aa-104">For at administrere fuldt synkroniserede brugere og deres attributter, skal du bruge dit lokale active directory-brugere og -grupper administrationskonsollen (adsiedit.msc).</span><span class="sxs-lookup"><span data-stu-id="fd0aa-104">To fully manage synchronized users and all their attributes, use your local active directory users and groups management console (adsiedit.msc).</span></span>  
+<span data-ttu-id="b2c8b-104">Hvis du vil administrere synkroniserede brugere og alle deres attributter fuldt ud, skal du bruge dine lokale active directory-brugere og gruppeadministrationskonsol (adsiedit.msc).</span><span class="sxs-lookup"><span data-stu-id="b2c8b-104">To fully manage synchronized users and all their attributes, use your local active directory users and groups management console (adsiedit.msc).</span></span>  
 
-<span data-ttu-id="fd0aa-105">Du kan også ændre individuelle brugere eller attributter for synkroniserede brugere ved hjælp af powershell, som vist i følgende almindelige eksempler:</span><span class="sxs-lookup"><span data-stu-id="fd0aa-105">Alternatively, you can change individual users or attributes for synchronized users using powershell such as shown in these common examples:</span></span> 
-- <span data-ttu-id="fd0aa-106">Set-MsolUser - UserPrincipalName user@yourdomain.onmicrosoft.com - AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="fd0aa-106">Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com</span></span>
-- <span data-ttu-id="fd0aa-107">Set-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com" - DisplayName "testbruger" - Efternavn "Bruger"-afsnit "Chef"-afdeling "T"</span><span class="sxs-lookup"><span data-stu-id="fd0aa-107">Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"</span></span>
-- <span data-ttu-id="fd0aa-108">Fjern-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="fd0aa-108">Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com</span></span>
+<span data-ttu-id="b2c8b-105">Du kan også ændre individuelle brugere eller attributter for synkroniserede brugere ved hjælp af powershell, f.eks.</span><span class="sxs-lookup"><span data-stu-id="b2c8b-105">Alternatively, you can change individual users or attributes for synchronized users using powershell such as shown in these common examples:</span></span> 
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`
