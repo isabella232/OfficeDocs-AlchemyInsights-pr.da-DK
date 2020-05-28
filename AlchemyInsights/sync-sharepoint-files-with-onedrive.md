@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767027"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343187"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Foretag fejlfinding af "Åbn med Stifinder" i SharePoint Online
 
@@ -28,9 +28,6 @@ Følg trinnene og bedste praksis i følgende artikler for at fejlfinde problemer
 - [Kopiér eller flyt biblioteksfiler ved hjælp af Åbn med Stifinder](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Bemærk!**
+>- Åbn med Stifinder understøttes kun i Internet Explorer 10 eller 11. Åbn med Stifinder fungerer ikke i Windows med Microsoft Edge, Google Chrome, Mozilla Firefox eller på Mac-platformen. Stifinder-visning kan af disse grunde være nedtonet.
 >
 >- Knappen Åbn med Stifinder vises ikke i den nye biblioteksoplevelse. Vælg rullemenuen **Vis** øverst til højre (navnet på rullemenuen afhænger af, hvilken visning du i øjeblikket bruger), og vælg derefter **Vis i Stifinder**.
->
->- Åbn med Stifinder understøttes kun i Internet Explorer 10 eller 11. Åbn med Stifinder fungerer ikke i Windows med Microsoft Edge, Google Chrome, Mozilla Firefox eller på Mac-platformen. Stifinder-visning kan af disse grunde være nedtonet.
-
-

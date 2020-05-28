@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953762"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343059"
 ---
 # <a name="list-view-threshold"></a>Grænseværdi for listevisning
 
-SharePoint-lister og -biblioteker kan indeholde op til 30 millioner elementer, men når de indeholder flere end 5.000 elementer, vises der muligvis en grænseværdifejl for listevisning, når du forsøger at arbejde med dem. Denne grænseværdi er der for at opretholde tjenestens ydeevne. Den kan ikke ændres. Du kan også få denne fejl, når du forsøger at dele eller bryde nedarvningen af en mappe.
+Grænsen for listevisning er på plads for at opretholde tjenestens ydeevne. Tærsklen kan ikke ændres i SharePoint Online. Hvis du vil undgå at ramme denne grænse, skal du se [Administrere store lister og biblioteker i SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Hvis du vil undgå at ramme denne grænseværdi, skal du besøge:
-
-- [Administrer store lister og biblioteker i SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Fejl ved deling/brud af nedarvning](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Du kan også få denne fejl, når du forsøger at dele eller bryde nedarvningen af en mappe. Se [Fejl i deling/afbrydelse af opdeling](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).
