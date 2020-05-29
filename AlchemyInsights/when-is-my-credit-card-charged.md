@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765263"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418066"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Hvornår debiteres mit kreditkort?
 
-Med et første køb kan det tage op til to dage, før gebyret finder sted.
+Med et indledende køb kan det tage op til to dage, før gebyret opstår.
   
-Tilbagevendende gebyrer sker inden for en dag efter, at fakturaen er oprettet.
+Tilbagevendende gebyrer sker inden for én dag efter, at fakturaen er oprettet.
   
-Hvis afgiften mislykkes, vil systemet fortsætte med at forsøge at udligne saldoen i løbet af de næste par uger. Du kan til enhver tid foretage opdateringer af dine betalingsoplysninger for at sikre, at det næste debiteringsforsøg lykkes. Yderligere oplysninger finder du i [Add, update eller remove a kreditkort eller bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Hvis opkrævningen mislykkes, vil systemet fortsætte med at forsøge at udligne saldoen i løbet af de næste par uger. Du kan når som helst opdatere dine betalingsoplysninger for at sikre, at det næste opkrævningsforsøg lykkes. Du kan finde flere oplysninger under [Administrere betalingsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

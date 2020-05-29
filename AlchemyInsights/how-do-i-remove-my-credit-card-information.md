@@ -13,18 +13,18 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: dbe971468add6cc7278b5d5aa4511408ae33b296
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709969"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417274"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Hvordan fjerner jeg mine kreditkortoplysninger?
 
 1. I Microsoft 365 Administration skal du gå til siden **Fakturering** \> [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Vælg det kreditkort eller bankkonto, der skal slettes, på siden **Betalingsmetoder.**
+2. Vælg det kreditkort eller den bankkonto, der skal slettes, på siden **Betalingsmetoder.**
 
 3. Hvis du vil fjerne kreditkortet eller bankkontoen, skal du vælge **Slet betalingsmetode.**
 
@@ -33,4 +33,4 @@ ms.locfileid: "43709969"
 
 4. Vælg **Slet** i ruden **Delete**Slet betalingsmetode .
 
-Du kan få mere at vide under [Tilføje, opdatere eller fjerne et kreditkort eller en bankkonto](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Du kan få mere at vide under [Administrere betalingsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

@@ -1,5 +1,5 @@
 ---
-title: Kreditkort for faktureringscyklus
+title: Rullecyklus kreditkort
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: bf93f9f9c82d05a4dc7d41260a1cf40376d39ef3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1fbf68cf83567f2d6d9024f5a2d8d83e4e7198bc
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712309"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417562"
 ---
-# <a name="payment-methods-for-microsoft-for-business"></a>Betalingsmetoder for Microsoft til virksomheder
+# <a name="payment-methods-for-microsoft-for-business"></a>Betalingsmetoder til Microsoft til virksomheder
 
-Når du køber et Microsoft 365 til virksomheder-abonnement direkte fra Microsoft, kan du betale med et kredit- eller debetkort. I nogle lande eller områder kan du også betale med en bankkonto.
+Når du køber et Abonnement på Microsoft 365 til virksomheder direkte hos Microsoft, kan du betale med et kredit- eller debetkort. I nogle lande eller områder kan du også betale med en bankkonto.
   
-Hvis du vælger at bruge et kreditkort som betalingsmetode, kan du få mere at vide om, hvordan du administrerer og foretager fejlfinding af [tilføjelses-, opdaterings- eller fjernet et kreditkort eller en bankkonto](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Hvis du vælger at bruge et kreditkort som betalingsmetode, kan du få mere at vide om, hvordan du administrerer og foretager fejlfinding fra [Administrer betalingsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
   
-Denne artikel indeholder også fejlfindingsforslag til, hvornår dit kreditkort afvises, og oplysninger om ændring af kreditkortoplysninger, så kortet accepteres.
+Denne artikel indeholder også forslag til fejlfinding af, hvornår dit kreditkort afvises, og oplysninger om ændring af kreditkortoplysninger, så kortet accepteres.
