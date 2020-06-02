@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059838"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511430"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="e49e3-102">Nulstille eller ændre adgangskoder</span><span class="sxs-lookup"><span data-stu-id="e49e3-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="e090f-102">Nulstille eller ændre adgangskoder</span><span class="sxs-lookup"><span data-stu-id="e090f-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="e49e3-103">En bruger kan ændre sin egen adgangskode fra **Min konto** > [sikkerhed & beskyttelse af personlige oplysninger](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="e49e3-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="e090f-103">En bruger kan ændre sin egen adgangskode fra **Sikkerhed**& min egen konto  >  [Security & privacy](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="e090f-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="e49e3-104">Hvis brugeren har glemt sin adgangskode, kan en administrator nulstille adgangskoden ved at gå til[Aktive](https://portal.office.com/adminportal/home#/users) **brugere** > , vælge brugeren/brugeren/brugeren og klikke på **Nulstil adgangskode**.</span><span class="sxs-lookup"><span data-stu-id="e49e3-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="e090f-104">Hvis brugeren har glemt sin adgangskode, kan en **Users**administrator nulstille adgangskoden ved at gå til  >  [Aktive](https://portal.office.com/adminportal/home#/users)brugere, vælge brugeren(e) og klikke på **Nulstil adgangskode**.</span><span class="sxs-lookup"><span data-stu-id="e090f-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="e49e3-105">[Klik her for at få mere](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)at vide eller for at lade brugerne nulstille deres egne glemte adgangskoder.</span><span class="sxs-lookup"><span data-stu-id="e49e3-105">[Click here to learn more](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="e090f-105">[Klik her for at få mere](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)at vide , eller lad brugerne nulstille deres egne glemte adgangskoder.</span><span class="sxs-lookup"><span data-stu-id="e090f-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
