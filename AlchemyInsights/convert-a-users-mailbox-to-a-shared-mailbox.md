@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f484126e83a30ebcf00e42a4fb155532b19b337
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705547"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507688"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="a0961-102">Konvertere en brugerpostkasse til en delt postkasse</span><span class="sxs-lookup"><span data-stu-id="a0961-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="b8728-102">Konvertere en brugerpostkasse til en delt postkasse</span><span class="sxs-lookup"><span data-stu-id="b8728-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="a0961-103">Når du konverterer en enkelt brugers postkasse til en delt postkasse, bevares alle eksisterende mail- og kalenderelementer i en delt postkasse, hvor flere personer kan få adgang til dem.</span><span class="sxs-lookup"><span data-stu-id="a0961-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="a0961-104">Du kan også konvertere en delt postkasse tilbage til en brugerpostkasse (privat).</span><span class="sxs-lookup"><span data-stu-id="a0961-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="b8728-103">Når du konverterer en individuel brugers postkasse til en delt postkasse, bevares alle de eksisterende mail- og kalenderelementer i en delt postkasse, hvor flere personer kan få adgang til den.</span><span class="sxs-lookup"><span data-stu-id="b8728-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="b8728-104">Du kan også konvertere en delt postkasse tilbage til en brugerpostkasse (privat).</span><span class="sxs-lookup"><span data-stu-id="b8728-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-<span data-ttu-id="a0961-105">Yderligere oplysninger finder du i [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="a0961-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
+<span data-ttu-id="b8728-105">Du kan finde flere oplysninger under [Konvertere en brugerpostkasse til en delt postkasse](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="b8728-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
   
