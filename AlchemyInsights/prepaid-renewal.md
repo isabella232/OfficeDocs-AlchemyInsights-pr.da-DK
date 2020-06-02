@@ -13,20 +13,20 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: bafaee929a668b918fef6858c24c308602e10307
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062891"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509918"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>Forudbetalt Microsoft 365 fornyelse
+# <a name="prepaid-microsoft-365-renewal"></a>Forudbetalt Microsoft 365-fornyelse
 
-1. Gå til siden Fakturering **af** produkter i \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
+1. Gå til siden Fakturering **Billing** \> **[af dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
 
 2. Find det abonnement, du vil udvide. Vælg **Udvid slutdato**i sektionen **Fakturering** .
 
-3. Vælg **Brug en ny og ubrugt produktnøgle**i ruden **Udvid abonnement,** og vælg derefter **Næste**.
+3. Vælg **Brug en ny og ubrugt produktnøgle**i ruden **Forlæng abonnement** , og vælg derefter **Næste**.
 
 4. Angiv produktnøglen, og vælg derefter **Næste**.
 
@@ -35,4 +35,4 @@ ms.locfileid: "44062891"
 
 5. Gennemse dine ordreoplysninger, og vælg derefter **Indløs**.
 
-Du kan få mere at vide under [Føje licenser til eller udvide et abonnement, der er betalt for, ved hjælp af en produktnøgle](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Hvis du vil have mere at vide, skal du se [Føje licenser til eller udvide et abonnement, der er betalt for ved hjælp af en produktnøgle](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).

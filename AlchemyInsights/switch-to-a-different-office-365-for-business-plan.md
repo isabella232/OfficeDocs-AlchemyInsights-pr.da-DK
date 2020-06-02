@@ -12,18 +12,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 35a2f888a340f50f38b79d8b81262edc6d850e5d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064351"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509810"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Skifte til et andet Abonnement på Microsoft 365 til virksomheder
 
 Når din virksomhed ændres, eller du har brug for flere funktioner, kan du opgradere til en ny plan.
   
-1. Gå til siden Fakturering **af** produkter i \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
+1. Gå til siden Fakturering **Billing** \> **[af dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
 
 2. Vælg det abonnement, du vil opgradere.
 
@@ -31,6 +31,6 @@ Når din virksomhed ændres, eller du har brug for flere funktioner, kan du opgr
 
 4. Find den plan, du vil opgradere til, og vælg derefter knappen **Opgrader.**
 
-5. Angiv det antal licenser, du skal bruge, vælg, om du vil betale hver måned eller for hele året, og vælg derefter **Betaling**.
+5. Angiv det antal licenser, du skal bruge, vælg, om du vil betale hver måned eller for hele året, og vælg derefter **Kassen**.
 
-Du kan få mere at vide under [Opgradere til en anden plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Hvis du vil have mere at vide, skal du se [Opgradere til en anden plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).

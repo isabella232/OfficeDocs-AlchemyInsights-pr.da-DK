@@ -1,5 +1,5 @@
 ---
-title: Hvor skal Office installeres fra
+title: Hvor kan du installere Office fra
 ms.author: janellem
 author: janellem
 ms.audience: ITPro
@@ -11,22 +11,22 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: f525cd085d3691c100df6ed6c3c1a06685fcc6b9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 71f6df27d6cecc08286562b14e4e219b99df289d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765155"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509522"
 ---
 # <a name="install-office"></a>Installere Office
 
-Hvis du vil installere Office, skal brugerne have et [Microsoft 365-produkt til virksomheder,](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) der indeholder skrivebordsprogrammerne og en [tildelt licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Hvis du vil installere Office, skal brugerne have et [Microsoft 365 til virksomheder-produkt,](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) der omfatter skrivebordsprogrammer og en [tildelt licens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
   
-Office kan derefter installeres ved at følge nedenstående trin:
+Office kan derefter installeres på følgende trin:
   
 1. Gå til [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
 
-2. Vælg det ønskede sprog på Office-startsiden, og vælg derefter **Avanceret** for at vælge mellem 64-bit eller 32-bit versionen.
+2. Vælg det ønskede sprog på Office-startsiden, og vælg derefter **Avanceret** for at vælge mellem 64-bit- eller 32-bit-versionen.
 
 3. Vælg **Installer Office**.
 
