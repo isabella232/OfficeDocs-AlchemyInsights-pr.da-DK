@@ -1,5 +1,5 @@
 ---
-title: ATP til SharePoint, OneDrive og Microsoft Teams
+title: ATP til SharePoint-, OneDrive- og Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,25 +10,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e9437d04815d4ca2f55cf9133ef6a4b429cd2476
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712452"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508406"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP til SharePoint, OneDrive og Microsoft Teams
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP til SharePoint-, OneDrive- og Microsoft Teams
 
-Følg disse trin for at aktivere Avanceret trusselsbeskyttelse:
+Følg disse trin for at aktivere avanceret trusselsbeskyttelse:
 
-1. Gå [https://protection.office.com](https://protection.office.com) til og log på med en global administrator- eller sikkerhedsadministratorkonto.
+1. Gå til [https://protection.office.com](https://protection.office.com) og log på med en global administrator- eller sikkerhedsadministratorkonto.
 
-2. Vælg **Politiksikre** \> vedhæftede filer i venstre navigationsrude under **Trusselsstyring**. **Safe Attachments**
+2. Vælg Vedhæftede filer, der er tillid til, **i** venstre navigationsrude under **Trusselsstyring** \> **Safe Attachments**.
 
 3. Vælg **Slå ATP til for SharePoint, OneDrive og Microsoft Teams**.
 
-4. [Opret en politik](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) for aktivitetsadvarsler for at modtage meddelelser, når vi registrerer skadelige filer.
+4. [Opret en politik for aktivitetsbesked](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) for at modtage meddelelser, når vi registrerer skadelige filer.
 
-Du kan finde komplette instruktioner i dette [emne](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
+Du kan finde flere instruktioner i dette [emne](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Bemærk:** Efter design scanner ATP ikke hver eneste fil i SharePoint Online, OneDrive for Business eller Microsoft Teams. Filer scannes asynkront af en proces, der bruger delingsaktivitet, gæsteaktivitet og trusselssignaler til at identificere ondsindede filer. Yderligere oplysninger finder du i dette [emne](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+**Bemærk:** Efter design scanner ATP ikke hver enkelt fil i SharePoint Online, OneDrive for Business eller Microsoft Teams. Filer scannes asynkront af en proces, der bruger delingsaktivitet, gæsteaktivitet og trusselssignaler til at identificere skadelige filer. Yderligere oplysninger finder du i dette [emne](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

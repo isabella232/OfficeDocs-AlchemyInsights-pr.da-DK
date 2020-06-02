@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44492961"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508370"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automatisk klassificering, der ikke fungerer som forventet med AIP-klienten
 
 Automatisk klassificering ikke opfører sig som forventet, skal du bruge følgende anbefalede retningslinjer:
 
-1. Hvis du har problemer med automatisk mærkning, skal du se [Sådan konfigureres betingelserne for automatisk og anbefalet klassificering af Azure Information Protection,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) og [hvad de følsomme oplysningstyper søger efter](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+1. Hvis du har problemer med automatisk mærkning, skal du se [Sådan konfigureres betingelserne for automatisk og anbefalet klassificering af Azure Information Protection,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) og [hvad de følsomme oplysningstyper søger efter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 2. Kontrollér, om du bruger scoped-politikker, der ikke er konfigureret korrekt: [Sådan konfigureres politikken for Azure Information Protection for bestemte brugere ved hjælp af politikker for omfang](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Hvis automatisk mærkning ikke fungerer for Outlook, når du vedhæfter et navngivet dokument, skal du kontrollere, at det `DRMEncryptProperty` ikke er defineret som beskrevet her: [IRM-registreringsdatabaseindstillinger for sikkerhed](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Hvis du har brugt de [indbyggede oplysningstyper til](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) din politik til Beskyttelse af Azure Information, skal du kontrollere, at dit indhold svarer til det forventede format.

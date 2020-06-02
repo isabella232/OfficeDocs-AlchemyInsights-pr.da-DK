@@ -13,18 +13,18 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 63cdc58d6c0474c66295cc5c4547dd04b0f50ad7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5ee6de184726a5aab29004a901f0aa13c1657392
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706519"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508046"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Ændre den alternative mailadresse til faktureringsmeddelelse
 
-Det er nemt at ændre den alternative e-mailadresse til faktureringsmeddelelse. Bare følg disse trin:
+Det er nemt at ændre den alternative mailadresse til faktureringsmeddelelse. Du skal blot følge disse trin:
   
-1. Gå til siden \> [Faktureringsmeddelelser](https://go.microsoft.com/fwlink/p/?linkid=853212) i **Billing** Microsoft 365 Administration.  
+1. Gå til siden **Billing** \> [Faktureringsmeddelelser](https://go.microsoft.com/fwlink/p/?linkid=853212) for fakturering i Microsoft 365 Administration.  
 
 2. Vælg et navn på listen.
 
@@ -32,5 +32,5 @@ Det er nemt at ændre den alternative e-mailadresse til faktureringsmeddelelse. 
 
 4. Vælg **Gem,** og du er færdig!
 
-Du kan finde flere oplysninger og trin med skærmbilleder under [Ændre dine faktureringsadresser](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
+Du kan finde flere oplysninger og trin med [skærmbilleder under Ændre dine faktureringsadresser](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
   

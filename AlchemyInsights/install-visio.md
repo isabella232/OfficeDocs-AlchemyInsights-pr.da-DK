@@ -1,5 +1,5 @@
 ---
-title: Installere Visio
+title: Installer Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765983"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508658"
 ---
-# <a name="install-visio"></a>Installere Visio
+# <a name="install-visio"></a>Installer Visio
 
-Visio sælges som et enkeltstående program, så hvis du ikke har det endnu, skal du [købe eller prøve Visio](https://products.office.com/visio). 
+Visio sælges som et enkeltstående program, så hvis du ikke har det endnu, [kan du købe eller prøve Visio](https://products.office.com/visio). 
 
-**Bemærk:** Visio Online Plan 1 indeholder ikke en skrivebordsversion af Visio, så det er ikke muligt at installere.
+**Bemærk:** Visio Online Plan 1 indeholder ikke en computerversion af Visio, så det er ikke muligt at installere den.
 
-Hvis du har et abonnement på Visio Online Plan 2, skal du [tildele en licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) til en bruger, ellers har vedkommende ikke mulighed for at installere Visio fra Mine **installationer** på [min kontoportal](https://portal.office.com/account#installs). 
+Hvis du har et abonnement på Visio Online Plan 2, skal du [tildele en licens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) til en bruger, ellers har vedkommende ikke mulighed for at installere Visio fra Mine **installationer** på [min kontoportal](https://portal.office.com/account#installs). 
 
 Ikke-volumenlicensversioner af Visio Standard eller Visio Professional er knyttet til Microsoft-konti og kan ikke administreres i Administration. Hvis du vil installere disse versioner, skal brugerne logge på [account.microsoft.com](https://account.microsoft.com) med den Microsoft-konto, der er knyttet til denne version af Visio.
 
-Du kan finde mere detaljeret hjælp [under Installere Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) og følge trinnene til din version af Visio.
+Du kan finde mere detaljeret hjælp under [Installere Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) og følge trinnene til din version af Visio.
 
-Du kan finde flere oplysninger i:<br>
+Du kan finde flere oplysninger på:<br>
 [Installationsvejledning til Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
 [Understøttede scenarier til installation af forskellige versioner af Office, Project og Visio på den samme computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Visio-licenser](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+[Visio-licensering](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

@@ -1,5 +1,5 @@
 ---
-title: Annullere dit abonnement?
+title: Vil du annullere dit abonnement?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086668"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508154"
 ---
-# <a name="canceling-your-subscription"></a>Annullere dit abonnement?
+# <a name="canceling-your-subscription"></a>Vil du annullere dit abonnement?
 
-Vi beklager at se dig gå, men hvis du ønsker at annullere dit abonnement, her er dine muligheder:
+Vi vil være kede af at se dig gå, men hvis du ønsker at annullere dit abonnement, her er dine muligheder:
   
 - Hvis du er prøvekunde, er der intet at annullere. Prøveabonnementer udløber automatisk, medmindre du angiver en betalingsmetode.
 
-- Hvis du har færre end 25 tildelte licenser, kan du opsige dit abonnement online. Gå til siden **Fakturering af** \> **[produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Vælg **Annuller abonnement**i sektionen Indstillinger **& handlinger** .
+- Hvis du har færre end 25 tildelte licenser, kan du opsige dit abonnement online. Gå til siden **Fakturering** \> **[af dine produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Vælg **Annuller** **abonnement**i sektionen Indstillinger & Handlinger .
 
 - Hvis du har mere end 25 tildelte licenser, kan du fjerne brugere, indtil du har færre end 25.
   
-**Refusion: Enhver forholdsmæssig kredit vil blive returneret til dig inden for den næste faktureringsperiode.** 
+**Refusion: Enhver forholdsmæssig kredit vil blive returneret til dig inden for den næste faktureringscyklus.** 
 
-**Bemærk:** Hvis du ikke kan se muligheden for at annullere, skal du klikke på abonnementet for at se detaljerne, og du bør se indstillingen **Annuller abonnement** i Indstillinger **& Handlinger**. 
+**Bemærk:** Hvis du ikke kan se muligheden for at annullere, skal du klikke på abonnementet for at få vist detaljerne, og du bør se **indstillingen Annuller abonnement** i **Indstillinger & handlinger**. 
 
-Du kan få mere at vide under [Annullere dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Hvis du vil have mere at vide, skal du se [Annullere dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

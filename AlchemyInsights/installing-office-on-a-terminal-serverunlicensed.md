@@ -1,5 +1,5 @@
 ---
-title: Installation af kontor på en Terminal Server - Uden licens
+title: Installation af kontor på en Terminal Server – Uden licens
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,47 +10,47 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010608"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508622"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installere Office på en Terminal Server
 
-Til installation af Microsoft 365 Apps til virksomheder på en Windows Server ved hjælp af RDS (Remote Desktop Services), der tidligere hed Terminal Services:
+Til installation af Microsoft 365 Apps til virksomheder på en Windows Server ved hjælp af RDS (Remote Desktop Services), tidligere kaldet Terminal Services:
   
-- Du skal have et Microsoft 365-abonnement, der omfatter Microsoft 365 Apps til virksomheder, f.eks. Microsoft 365 Apps til virksomheder og Microsoft 365 Apps til business Premium-planer omfatter ikke Microsoft 365 Apps til virksomheder.
+- Du skal have et Microsoft 365-abonnement, der omfatter Microsoft 365 Apps til virksomheder, f.eks. Microsoft 365 Apps til virksomheder og Microsoft 365 Apps til virksomheder Premium-planer omfatter ikke Microsoft 365 Apps til virksomheder.
 
-- Du skal aktivere [aktivering af delt computer](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
+- Du skal aktivere aktivering af [delt computer](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
-Hvis du vil installere Microsoft 365 Apps til virksomheder på RDS fra Microsoft 365 Administration, ***som bruger standardinstallationsindstillinger,*** skal du benytte følgende trin.
+Hvis du vil installere Microsoft 365 Apps til virksomheder på RDS fra Microsoft 365 Administration, ***som bruger standardinstallationsindstillinger***, skal du benytte følgende trin.
 
 > [!TIP]
-> Du kan også hente og køre [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) for at installere Microsoft 365 Apps til virksomheder i aktiveringstilstand for delt computer.
+> Du kan også hente og køre [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) for at installere Microsoft 365 Apps til virksomheder i aktiveringstilstand for delte computere.
   
-1. Se, hvilket Microsoft 365-abonnement du har. [Lære](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Se, hvilket Microsoft 365-abonnement du har. [Lære](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Skift om nødvendigt til et andet Microsoft 365-abonnement. [Lære](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Skift om nødvendigt til et andet Microsoft 365-abonnement. [Lære](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Hvis Office allerede er installeret på RDS-serveren ved hjælp af andre Microsoft 365-abonnementer, skal du fjerne det. Ved at gå til \> Kontrolpanel Fjern et program. Fjern ved hjælp af [Microsoft Support and Recovery Assistant,](https://aka.ms/SARA-OfficeUninstall-Alchemy) hvis du løber ind i problemer.
+3. Hvis Office allerede er installeret på RDS-serveren ved hjælp af andre Microsoft 365-abonnementer, skal du fjerne det. For eksempel ved at gå til Kontrolpanel \> Fjern et program. Fjern ved hjælp af [Microsoft Support and Recovery Assistant,](https://aka.ms/SARA-OfficeUninstall-Alchemy) hvis du løber ind i problemer.
 
-4. Log på Microsoft 365 Administration med din administratorkonto på RDS-serveren, og [installer Microsoft 365 Apps til virksomheder](https://portal.office.com/OLS/MySoftware.aspx).
+4. På RDS-serveren skal du logge på Microsoft 365 Administration med din administratorkonto og [installere Microsoft 365 Apps](https://portal.office.com/OLS/MySoftware.aspx)til virksomheder .
 
-5. Når Office er installeret, ***skal du ikke åbne eller logge på*** Office-programmer.
+5. Når Office er installeret, ***må du ikke åbne eller logge på*** nogen Office-programmer.
 
-6. På RDS-serveren skal du aktivere delt computeraktivering ved at redigere registreringsdatabasen ved at følge disse trin:
+6. Aktiver aktivering af delt computer på RDS-serveren ved at redigere registreringsdatabasen ved at fÃ ̧lge disse trin:
 
-1. Højreklik på Windows-knappen i nederste venstre hjørne af skærmen, og vælg Kør. Skriv **regedit**i feltet Åbn , og vælg derefter OK.
+1. Højreklik på windows-knappen i nederste venstre hjørne af skærmen, og vælg Kør. Skriv **regedit**i feltet Åbn , og vælg derefter OK.
 
-2. Vælg Ja, når du bliver bedt om at tillade Registreringseditor at foretage ændringer på din enhed.
+2. Vælg Ja, når du bliver bedt om at tillade, at Registreringseditor foretager ændringer på enheden.
 
-3. Tilføj en strengværdi af **SharedComputerLicensing** med en indstilling på 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration i Registreringseditor.
+3. Tilføj en strengværdi i **SharedComputerLicensing** i Registreringseditor med en indstilling på 1 under HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Log på som ***slutbruger på*** RDS-serveren, og [kontroller, at aktivering af den delte computer er aktiveret for Microsoft 365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+7. På RDS-serveren skal ***du logge på som slutbruger*** og kontrollere, at aktivering af delt computer er aktiveret for Microsoft [365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
-Yderligere oplysninger om forudsætninger, installationsvejledning og vejledning i tilpassede installationer ved hjælp af Office Deployment Tool finder du under [Installere Microsoft 365 Apps til virksomheder ved hjælp af Fjernskrivebord-tjenester](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
+Du kan finde flere oplysninger om forudsætninger, konfigurationsinstruktioner og vejledning om tilpassede installationer ved hjælp af Office-installationsværktøjet under [Installere Microsoft 365 Apps til virksomheder ved hjælp af Fjernskrivebord-tjenester](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
   
-Hvis du vil rette fejl i forbindelse med aktivering af delte computere, skal du se [Fejlfinding af problemer med aktivering af delt computer for Microsoft 365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
+Hvis du vil rette fejl i forbindelse med aktivering af delt computer, skal du se [Fejlfinding af problemer med aktivering af delte computere til Microsoft 365 Apps til virksomheder](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   

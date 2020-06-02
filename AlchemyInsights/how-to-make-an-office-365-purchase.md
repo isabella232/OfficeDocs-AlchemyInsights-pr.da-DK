@@ -1,5 +1,5 @@
 ---
-title: Sådan foretager du et Køb fra Microsoft 365
+title: Sådan foretager du et Microsoft 365-køb
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063539"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509198"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Sådan foretager du et Køb fra Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Sådan foretager du et Microsoft 365-køb
 
 Køb i Microsoft 365 kan foretages i Administration.
   
-- Hvis du vil købe **Billing** en plan, skal du gå til siden \> [Faktureringskøb.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+- Hvis du vil købe **Billing** en plan, skal du gå til siden \> [Faktureringskøbstjenester.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-- Hvis du vil købe flere licenser, skal du gå til siden **Fakturering** \> **[af produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Vælg det abonnement, du vil føje licenser til, og vælg derefter **Tilføj/fjern licenser**.
+- Hvis du vil købe yderligere licenser, skal du gå til siden **Fakturering** \> **[af dine produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Vælg det abonnement, du vil føje licenser til, og vælg derefter **Tilføj/fjern licenser**.
   
-Du kan få mere at vide under [Købe licenser til dit Abonnement på Microsoft 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Hvis du vil have mere at vide, skal du se [Købe licenser til dit Abonnement på Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Fejlfinding**
 
@@ -35,6 +35,6 @@ Hvis du har problemer med indlæsning af siden, kan du prøve at åbne websiden 
 
 **Flere ressourcer**
   
-- [Tildele licenser til brugere i Microsoft 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Tildele licenser til brugere i Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Annuller Microsoft 365 til virksomheder](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Annuller Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

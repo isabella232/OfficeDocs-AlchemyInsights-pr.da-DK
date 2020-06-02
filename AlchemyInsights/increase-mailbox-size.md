@@ -1,5 +1,5 @@
 ---
-title: Øg postkassens størrelse
+title: Forøg postkassens størrelse
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064223"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508730"
 ---
-# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Skift abonnement for at øge postkassens størrelse
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Skift abonnementer for at øge postkassens størrelse
 
 Hvis postkassens størrelse allerede er 100 GB, kan du ikke øge den.
   
-Hvis postkassens størrelse er 50 GB, kan du øge den til 100 GB ved at skifte til [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Her er trinnene til at skifte til et andet abonnement:
+Hvis postkassestørrelsen er 50 GB, kan du øge den til 100 GB ved at skifte til [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) eller [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Her er de trin, du skal gøre for at skifte til et andet abonnement:
   
-1. Gå til siden **Fakturering af** produkter i Microsoft 365 \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
+1. Gå til siden **Fakturering** af dine produkter i Microsoft 365 \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
 
 2. Vælg det abonnement, du vil opgradere.
 
@@ -33,8 +33,8 @@ Hvis postkassens størrelse er 50 GB, kan du øge den til 100 GB ved at skifte t
 
 4. Find den plan, du vil opgradere til, og vælg derefter knappen **Opgrader.**
 
-5. Angiv det antal licenser, du skal bruge, vælg, om du vil betale hver måned eller for hele året, og vælg derefter **Betaling**.
+5. Angiv det antal licenser, du skal bruge, vælg, om du vil betale hver måned eller for hele året, og vælg derefter **Kassen**.
 
-Yderligere oplysninger finder du under [Opgradere til en anden plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Du kan finde flere oplysninger under [Opgradere til en anden plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Hvis du har et [abonnement, der understøtter et arkiv ,](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)kan du også få yderligere maillagerplads ved at aktivere en arkivpostkasse. En arkivpostkasse giver dig ekstra lagerplads og giver dig mulighed for at flytte, kopiere og søge efter meddelelser i både den primære postkasse og arkivpostkassen. Du kan finde trin til, hvordan du aktiverer en arkivpostkasse, under [Aktivere en arkivpostkasse](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Hvis du har et [abonnement, der understøtter et lokale arkiv](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), kan du også få yderligere maillager ved at aktivere en arkivpostkasse. En arkivpostkasse giver dig ekstra lagerplads og giver dig mulighed for at flytte, kopiere og søge efter meddelelser i både den primære postkasse og arkivpostkassen. Du kan finde flere oplysninger om, hvordan du aktiverer en arkivpostkasse, under [Aktivere en arkivpostkasse](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).

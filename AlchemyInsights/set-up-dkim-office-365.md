@@ -1,5 +1,5 @@
 ---
-title: DKIM-opsætning
+title: Opsætning DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645666"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509378"
 ---
-# <a name="setup-dkim"></a>DKIM-opsætning
+# <a name="setup-dkim"></a>Opsætning DKIM
 
-Den komplette vejledning til konfiguration af DKIM til brugerdefinerede domæner i Microsoft 365 findes [.](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)
+Den komplette vejledning til konfiguration af DKIM for brugerdefinerede domæner i Microsoft 365 findes [her](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-1. For **hvert** brugerdefineret domæne skal du oprette **to** DKIM CNAME-poster på domænets DNS-hostingtjeneste (typisk domæneregistratoren). contoso.com og fourthcoffee.com kræve fire DKIM CNAME-poster: to for contoso.com og to for fourthcoffee.com.
+1. For **hvert** brugerdefineret domæne skal du oprette **to** DKIM CNAME-poster hos domænets DNS-hostingtjeneste (typisk domæneregistratoren). for eksempel kræver contoso.com og fourthcoffee.com fire DKIM CNAME-poster: to for contoso.com og to for fourthcoffee.com.
 
    DKIM CNAME-posterne for **hvert** brugerdefineret domæne bruger følgende formater:
 
@@ -36,16 +36,16 @@ Den komplette vejledning til konfiguration af DKIM til brugerdefinerede domæner
 
      **TTL**: 3600
 
-   \<DomainGUID\> er teksten til `.mail.protection.outlook.com` venstre for i den tilpassede MX-post `contoso-com` for det brugerdefinerede domæne (f.eks. for domænet contoso.com). \<InitialDomain\> er det domæne, du brugte, da du tilmeldte dig Microsoft 365 (f.eks. contoso.onmicrosoft.com).
+   \<DomainGUID\>er teksten til venstre for `.mail.protection.outlook.com` i den tilpassede MX-post for det brugerdefinerede domæne (f.eks. `contoso-com` for det contoso.com domæne). \<InitialDomain\>er det domæne, du brugte, da du tilmeldte dig Microsoft 365 (f.eks. contoso.onmicrosoft.com).
 
-2. Når du har oprettet CNAME-posterne for dine brugerdefinerede domæner, skal du udføre følgende instruktioner:
+2. Når du har oprettet CNAME-posterne for dine brugerdefinerede domæner, skal du udfylde følgende instruktioner:
 
-   A. [log på Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) med din arbejds- eller skolekonto.
+   a. [logge på Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) med din arbejds- eller skolekonto.
 
-   B. Vælg ikonet for appstarteren øverst til venstre, og vælg **Administrator**.
+   b. Vælg ikonet for appstarteren øverst til venstre, og vælg **Administrator**.
 
-   C. Udvid **Administrator** i navigationen nederst til venstre, og vælg **Exchange**.
+   c. I navigationen nederst til venstre skal du udvide **Administrator** og vælge **Exchange**.
 
-   D. Gå til **Beskyttelse DKIM** > **DKIM**.
+   D. Gå til **Beskyttelse**  >  **DKIM**.
 
-   E. Vælg domænet, og vælg derefter **Aktivér** for **signeringsmeddelelser for dette domæne med DKIM-signaturer**. Gentag dette trin for hvert brugerdefineret domæne.
+   E. Vælg domænet, og vælg derefter **Aktivér** for **Signer meddelelser for dette domæne med DKIM-signaturer**. Gentag dette trin for hvert brugerdefineret domæne.
