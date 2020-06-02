@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761162"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511718"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Udgående mail til mappen Uønsket mail
 
-Hvis du får vist udgående meddelelser, der markeres som Uønsket mail, skal du gøre følgende:
+Hvis du ser udgående meddelelser blive markeret som Uønsket mail, skal du gøre følgende:
 
-- Hvis du ikke allerede har gjort det, kan du overveje [at konfigurere udgående meddelelser om spampolitik](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
+- Hvis du ikke allerede har udarbejdet det, kan du overveje [at konfigurere meddelelser om udgående spampolitik](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Brug [meddelelsessporing](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) til at se, om den udgående meddelelse har hændelsesværdien **Spam** med de ekstra detaljer: Brug pulje til levering af **høj risiko**.
+- Brug [meddelelsessporing](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) til at se, om den udgående meddelelse har hændelsesværdien **Spam** med de ekstra detaljer: **Brug leveringspulje med høj risiko**.
 
-  For disse meddelelser skal du kontrollere meddelelsens indhold for at se, hvad der kan betragtes som spam. Signaturer kan f.eks.
+  I forbindelse med disse meddelelser skal du kontrollere meddelelsens indhold for at se, hvad der kan betragtes som spam. Signaturer kan f.eks.
 
-  Hvis du har flere eksempler på legitime udgående meddelelser, der markeres som uønsket e-mail, skal du åbne en supportbillet og bede supportmedarbejderen om at sende dine meddelelser som falske positiver til vores spamanalytikere. Vær forberedt på at levere eksempelmeddelelser, der indeholder alle brevhoveder.
+  Hvis du har flere eksempler på legitime udgående meddelelser, der markeres som uønsket, skal du åbne en supportbillet og bede supportmedarbejderen om at indsende dine meddelelser som falske positiver til vores spamanalytikere. Vær forberedt på at levere eksempelmeddelelser, der omfatter alle brevhoveder.

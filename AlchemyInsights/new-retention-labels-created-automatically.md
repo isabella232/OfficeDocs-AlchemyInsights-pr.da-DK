@@ -1,5 +1,5 @@
 ---
-title: Nye opbevaringsetiketter oprettet automatisk
+title: Nye opbevaringsetiketter, der oprettes automatisk
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713496"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511754"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nye opbevaringsetiketter oprettet automatisk
+# <a name="new-retention-labels-created-automatically"></a>Nye opbevaringsetiketter, der oprettes automatisk
 
-Du kan se [tre nye opbevaringsetiketter,](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) der oprettes automatisk i organisationen under **Fastholdelsesetiketter** i Administration af sikkerhed eller overholdelse af regler og standarder. Etiketnavnene er:
+Du kan muligvis se [tre nye opbevaringsetiketter,](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) der oprettes automatisk i din organisation under **Opbevaringsetiketter** i Sikkerheds- eller Overholdelsesadministration. Etiketnavnene er:
 
-- Operationel procedure
-- Generelt erhvervsarbejde
+- Driftsprocedure
+- Erhverv generelt
 - Kontraktaftale
 
-Dette sker, første gang du vælger **Filplan,** hvis der ikke oprettes andre opbevaringsetiketter. Disse etiketter oprettes automatisk og kan om nødvendigt fjernes, hvis de endnu ikke er anvendt på indhold. Sådan fjernes etiketterne:
+Dette sker første gang, du vælger **Filplan,** hvis der ikke er oprettet andre opbevaringsetiketter. Disse etiketter oprettes automatisk og kan om nødvendigt fjernes, hvis de endnu ikke er anvendt på indhold. Sådan fjernes etiketterne:
 
-1. Vælg Fanen**Opbevaring** af **klassifikationsetiketter** > **Labels** > i administration af sikkerheds- eller overholdelsesregler.
+1. I Administration for sikkerhed eller overholdelse af regler og standarder skal du vælge fanen Opbevaring **af klassifikationsmærker.**  >  **Labels**  >  **Retention**
 
-1. Vælg de opbevaringsetiketter, du vil fjerne > **Slet etiket** > **Ja** for at slette etiketten.
+1. Vælg de opbevaringsetiketter, du vil fjerne > **Slet etiketten**  >  **Ja** for at slette etiketten.
 
-Med Filplanstyring kan du administrere opbevaringsetiketter og politikker i organisationen – du kan finde flere oplysninger [under Oversigt over Filplanstyring](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+Med Filplanstyring kan du administrere opbevaringsetiketter og -politikker i organisationen – du kan finde flere oplysninger [under Oversigt over Filplanstyring](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).

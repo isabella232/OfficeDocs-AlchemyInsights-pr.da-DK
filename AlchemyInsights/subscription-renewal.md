@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: b0e845a3426ec3b8594cb82730fe559d08126e0c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063251"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511466"
 ---
-# <a name="subscription-recurring-billing"></a>Tilbagevendende fakturering af abonnement
+# <a name="subscription-recurring-billing"></a>Fakturering af abonnement
 
 Hvis du vil vide, hvornår dit månedlige eller årlige abonnement faktureres (hvis **Tilbagevendende fakturering** er slået til) eller udløber (hvis **Tilbagevendende fakturering** er slået fra):
   
-1. Gå til siden Fakturering **af** produkter i \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
+1. Gå til siden Fakturering **Billing** \> **[af dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.
 
-2. Du kan finde flere oplysninger om det abonnement under **Fakturering**under Fakturering i datoen **Fornys eller** **Udløber.**
+2. For det abonnement, du vil vide mere om, skal du se datoen **For Fornyelser på** eller **Udløbsdato** under **Fakturering.**
 
-4. Hvis du vil foretage en ændring, skal du vælge **Rediger** og derefter vælge **Slå fra** i ruden Indstillinger for **tilbagevendende fakturering** for at slå den fra. Hvis tilbagevendende fakturering allerede er slået fra, skal du vælge **Månedlig** eller **Én gang** for at slå den til.
+4. Hvis du vil foretage en ændring, skal du vælge **Rediger** og derefter vælge **Slå fra** i ruden Indstillinger for **tilbagevendende fakturering** for at slå den fra. Hvis tilbagevendende fakturering allerede er slået fra, skal du vælge **Månedlig eller** **Én** gang for at slå den til.
 
-For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

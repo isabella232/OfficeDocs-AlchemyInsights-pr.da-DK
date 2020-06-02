@@ -1,5 +1,5 @@
 ---
-title: 1490-troubleshooting-eDiscovery-fejl
+title: 1490-fejlfinding-eDiscovery-fejl
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759578"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512548"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Fejlfinding i forbindelse med indholdssøgning
+# <a name="troubleshoot-content-search-errors"></a>Fejlfinding i forbindelse med fejl i forbindelse med indholdssøgning
 
-Har du problemer med indholdssøgning eller får fejl, når du eksporterer søgeresultater?
+Oplever du problemer med indholdssøgning eller fejl, når du eksporterer søgeresultater?
 
-Modtager du f.eks.
+Modtager du f.eks., når du kører søgninger?
 
 - CS008- eller CS012-fejl
 
-- Fejl i serveroptaget/timeout
+- Fejl i serverens optaget/timeout
 
-- Programfejl opstod
+- Der opstod en programfejl
 
-Eller når du søger eller eksporterer resultater fra et stort antal postkasser (over 100.000 postkasser), får du eksportfejl?
+Eller når du søger eller eksporterer resultater fra et stort antal postkasser (over 100.000 postkasser), får du så eksportfejl?
 
-For disse typer fejl skal du prøve at søge efter de indholdsplaceringer, der er mislykkedes. Se [denne artikel](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for at få flere oplysninger.
+I disse typer fejl skal du forsøge at søge efter de indholdsplaceringer, der mislykkedes. Se [denne artikel](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) for at få flere oplysninger.

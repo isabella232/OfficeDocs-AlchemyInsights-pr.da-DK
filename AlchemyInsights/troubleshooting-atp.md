@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding i forbindelse med avanceret trusselsbeskyttelse i Office 365
+title: Fejlfinding i forbindelse med avanceret beskyttelse mod office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,25 +10,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732396"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512584"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Fejlfinding i forbindelse med avanceret trusselsbeskyttelse i Office 365
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Fejlfinding i forbindelse med avanceret beskyttelse mod office 365
 
-- Bemærker du forsinkelser i leveringen af meddelelser? Brug indstillingen [Dynamisk levering](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) i politikken for vedhæftede filer, der er tillid til ATP. Dette vil hjælpe med at undgå forsinkelser i meddelelserne, samtidig med at modtagerne beskyttes mod skadelige filer.
+- Bemærker du forsinkelser i leveringen af meddelelser? Brug indstillingen [Dynamisk levering](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) i din politik om attponere for sikre bilag i ATP. Dette vil hjælpe med at undgå beskedforsinkelser og samtidig beskytte modtagerne mod skadelige filer.
 
 - Vil du rapportere falske positiver eller falske negativer til Microsoft? Brug dette [link](https://www.microsoft.com/wdsi/filesubmission/) til at sende filer til analyse.
 
-- Vidste du, at du kan aktivere Safe Links-beskyttelse for interne mails, der sendes mellem modtagere i organisationen? Følg disse trin:
+- Vidste du, at du kan aktivere beskyttelse af sikre links for interne mails, der sendes mellem modtagere i organisationen? Følg disse trin:
 
-  1. Gå [https://protection.office.com](https://protection.office.com) til og log på med en global administrator- eller sikkerhedsadministratorkonto.
+  1. Gå til [https://protection.office.com](https://protection.office.com) og log på med en global administrator- eller sikkerhedsadministratorkonto.
 
-  2. Vælg **Politiksikre** \> **links**i venstre navigationsrude under **Trusselsstyring**.
+  2. Vælg **Policy** Politiksikre links i venstre navigationsrude under **Trusselsstyring** \> **Safe Links**.
 
   3. Vælg politikken i sektionen **Politikker, der gælder for hele organisationen,** og klik på **Rediger**.
 
-  4. Aktiver **Anvend sikre links til meddelelser, der sendes i organisationen ,** under **Indstillinger**.
+  4. Under **Indstillinger**skal du aktivere **Anvend sikre links på meddelelser, der sendes i organisationen**.
