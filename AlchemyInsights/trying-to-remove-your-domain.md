@@ -11,18 +11,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: 3401b2faaf15867801f8a4c0462e5b43d609e5d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 01d347bc6d2fc08321baf32e75f615eb49b34c23
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759434"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504941"
 ---
 # <a name="trying-to-remove-your-domain"></a>Forsøger du at fjerne dit domæne?
 
-Hvis du vil fjerne dit domæne fra Microsoft, skal du følge trinnene i denne artikel: [Fjern et domæne](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+Hvis du vil fjerne dit domæne fra Microsoft, skal du følge trinnene i denne artikel: [Fjerne et domæne](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   
-Du skal opdatere alle brugere eller grupper, der er tildelt domænenavnet, før du fjerner domænet.
+Du skal opdatere alle brugere eller grupper, der er tildelt det pågældende domænenavn, før du fjerner domænet.
   
-[Se artiklen om domæner](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for at finde andre almindelige løsninger.
+[Se artiklen om domæner](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for at få andre almindelige løsninger.
   

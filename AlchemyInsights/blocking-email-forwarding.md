@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: da1ca874e436afb8753fa046478f08563c8f19ef
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 844ffee613c566fd0e6bc6e7a79b728a31428298
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712273"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506329"
 ---
 # <a name="block-email-forwarding"></a>Blokere videresendelse af mail
 
-Hvis du vil deaktivere videresendelse af mail for en bestemt postkasse, skal du se [Konfigurere videresendelse af mail](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
+Hvis du vil deaktivere videresendelse af mail for en bestemt postkasse, skal du se [Konfigurere videresendelse af mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Hvis du vil blokere videresendelse af e-mails for hele organisationen, [de mange måder at blokere automatisk videresendelse af e-mail i Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/)på .
+At blokere videresendelse af mail for hele organisationen, [De mange måder at blokere automatisk videresendelse af e-mail i Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
