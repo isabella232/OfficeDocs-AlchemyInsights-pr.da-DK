@@ -13,23 +13,23 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 5d118036398d8d9f9a56e8a96e44d81ceccf6573
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: 9b9008dca74e6aa8e6a05010361359a078dbd590
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225190"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44498929"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hvordan skifter jeg fra kreditkortbetalinger til faktura?
 
 > [!NOTE]
-> Muligheden for at betale via faktura er kun tilgængelig, hvis dit abonnement koster over et bestemt beløb (som varierer efter servicested). Der kræves muligvis en kreditkontrol for større fakturabetalinger. Hvis du vil have mere at vide, skal du se [Betal for dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+> Muligheden for at betale via faktura er kun tilgængelig, hvis dit abonnement koster over et bestemt beløb (som varierer efter serviceplacering). Der kan være behov for en kreditkontrol for større fakturabetalinger. Hvis du vil have mere at vide, skal du se [Betal for dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
-1. Gå til siden Fakturering **af**produkter i  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) Administration.
+1. Gå til siden Fakturering **Billing**  >  [af dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i Administration.
 
 2. Find det abonnement, du vil ændre. Vælg **Rediger**ud for betalingsmetoden under **Fakturering**.
 
-3. Vælg **Skift**ud for din eksisterende betalingsmetode.
+3. Vælg **Skift**ud for din eksisterende betalingsmetode .
 
 4. Vælg **Faktura eller bankoverførsel**i rullemenuen .
 
@@ -39,4 +39,4 @@ ms.locfileid: "44225190"
 
 7. Kontroller, at den valgte betalingsmetode er korrekt, og vælg derefter **Gem**.
 
-Du kan få mere at vide under [Ændre din betalingsmetode](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Hvis du vil have mere at vide, skal du se [Ændre din betalingsmetode](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).

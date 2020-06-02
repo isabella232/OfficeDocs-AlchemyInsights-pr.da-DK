@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: c68fc2381432a9681ed60dac4e8c8fde3c303b8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0d7bc37cd2b418883142c760ad2bfdb504c1c679
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710185"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499037"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Har du problemer med at få Outlook til at oprette forbindelse?
 
@@ -21,6 +21,6 @@ Vi har registreret, at Outlook ikke er konfigureret til at fungere korrekt under
   
 {HealthCheckString}
   
-NS- eller CNAME-posterne for domæneindstillingerne (DNS) er ikke konfigureret korrekt. Du kan se [Opret DNS-poster hos enhver DNS-udbyder](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for at få detaljerede instruktioner. 
+NS- eller CNAME-posterne for domæneindstillingerne (DNS) er ikke konfigureret korrekt. Du kan se [Opret DNS-poster hos en hvilken som helst DNS-hostingudbyder](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for en mere detaljeret vejledning. 
   
 For at rette problemet skal du gå til siden [Domæner](https://admin.microsoft.com/adminportal/home#/Domains) i Microsoft 365 Administration, og så hjælper vi dig med det. 

@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding af problemer med synkronisering af OneNote
+title: Fejlfinding i forbindelse med synkronisering af OneNote
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,26 +12,26 @@ ms.custom:
 - "9000555"
 - "2405"
 ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559403"
 ---
-# <a name="troubleshoot-onenote-sync-issues"></a>Fejlfinding i forbindelse med OneNote synkroniseringsfejl
+# <a name="troubleshoot-onenote-sync-issues"></a>Fejlfinding i forbindelse med synkroniseringsproblemer i OneNote
 
-* Til at løse de mest almindelige problemer, der er relateret til synkronisering af OneNote, skal du bruge trinene i at [løse problemer, når du ikke kan synkronisere OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+* Hvis du vil løse de mest almindelige problemer i forbindelse med OneNote-synkronisering, skal du bruge trinnene i [Løs problemer, når du ikke kan synkronisere OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-Hvis notesbogen, ikke kan synkroniseres, gemmes på OneDrive eller nyere versioner af SharePoint, kan du prøve at åbne notesbogen i OneNote til World Wide web (ved www.onenote.com). Dette kan hjælpe med at finde ud af, hvis problemet er forårsaget af serveren eller af OneNote.
+Hvis den notesbog, der ikke synkroniseres, er gemt på OneDrive eller på nyere versioner af SharePoint, kan du prøve at åbne notesbogen i OneNote til internettet (på www.onenote.com). Dette kan hjælpe med at afgøre, om problemet skyldes serveren eller OneNote.
 
-1. I OneNote, skal du klikke på **filen** > **Info**.
+1. Klik på **File**  >  **Filoplysninger i**OneNote.
 
-2. Højreklik på den URL-adresse, der vises under navnet på den berørte notesbog, og klik på **Kopier**.
+2. Højreklik på den URL-adresse, der vises under navnet på den berørte notesbog, og klik på **Kopiér**.
 
-3. Klik i boksen adresse i Web-browseren, og tryk derefter på **Ctrl + V** at indsætte den kopierede URL-adresse.
+3. Klik på feltet Adresse i webbrowseren, og tryk derefter **på Ctrl + V** for at indsætte den kopierede URL-adresse.
 
-4. Tryk på **Enter** for at indlæse derefter notesbog i OneNote til World Wide web.
+4. Tryk **på Enter** for at indlæse og derefter notesbog i OneNote til internettet.
 
-Hvis du ikke har kunnet åbne notesbogen i OneNote til World Wide web, og ændringerne vises, kan problemet være forårsaget af desktop-versionen af OneNote. Lukke og åbne notesbogen igen rydder normalt og nulstiller korrekt forbindelsen.
+Hvis du ikke kan åbne notesbogen i OneNote til internettet, og ændringerne vises, kan problemet skyldes computerversionen af OneNote. Lukning og genåbning af den bærbare pc rydder og nulstiller normalt forbindelsen.
 
-* Vi anbefaler følgende trin i at [installere Office-opdateringer](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) til at installere de nyeste opdateringer til OneNote på din PC. Hvis du er på en Mac, skal du følge trinnene i [søge efter Office til Mac-opdateringer automatisk](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
+* Vi anbefaler, at du følger trinnene i [Installer Office-opdateringer](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) for at installere de nyeste OneNote-opdateringer på din pc. Hvis du bruger en Mac, skal du følge trinnene i Opdateringer til [Check til Office til Mac automatisk](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
