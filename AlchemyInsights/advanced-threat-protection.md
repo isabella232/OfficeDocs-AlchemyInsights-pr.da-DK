@@ -1,5 +1,5 @@
 ---
-title: Avanceret trusselsbeskyttelse i Office 365
+title: Avanceret beskyttelse mod office 365-trusler
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710329"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506588"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Avanceret trusselsbeskyttelse i Office 365
+# <a name="office-365-advanced-threat-protection"></a>Avanceret beskyttelse mod office 365-trusler
 
-- Sikre vedhæftede filer, sikre links og anti-phishing er en del af Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 og Microsoft 365 Business Premium omfatter ATP. Alle andre abonnementer kræver et ATP-abonnement med tilføjelsesprogram.
+- Sikre vedhæftede filer, sikre links og anti-phishing er en del af Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 og Microsoft 365 Business Premium omfatter ATP. Alle andre abonnementer kræver et ATP-tilføjelsesabonnement.
 
-- Du skal tildele de relevante licenser for at beskytte dine brugere med Office 365 ATP. Se [dette emne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) for at få oplysninger om, hvordan du anvender licenser til dine brugere i massesalg.
+- Du skal tildele de relevante licenser for at beskytte dine brugere med Office 365 ATP. Se [dette emne](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) for at få vejledning i, hvordan du anvender licenser på dine brugere.
 
-- Globale administratorer eller sikkerhedsadministratorer kan få adgang til Office 365 ATP-funktioner i Security & Compliance Center hos **Threat Managmeent** \> **Policy**.
+- Globale administratorer eller sikkerhedsadministratorer kan få adgang til Office 365 ATP-funktioner i Security & Compliance Center på **Threat Managmeent** \> **Policy**.
 
-- Sikre vedhæftede filer og politikker for sikker tilknytning kan omfattes af hele organisationen, bestemte domæner eller mindre grupper af brugere.
+- Sikre vedhæftede filer og politikker for sikre links kan få plads til hele organisationen, bestemte domæner eller mindre brugergrupper.
 
-- Der findes ingen standardpolitik for sikker vedhæftet fil i ATP. Du skal [oprette en politik](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) og anvende den på dine brugere.
+- Der er ingen standardpolitik for at sikre vedhæftede filer i ATP. Du skal [oprette en politik](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) og anvende den på dine brugere.
 
-- Der findes en standardpolitik for at-tillidstillidstillid, der gælder for alle i organisationen. Hvis du vil redigere denne politik eller oprette brugerdefinerede politikker, skal du se [dette emne](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Der findes en standardpolitik for at sikre links til at gøre det sikkert at pÃ ̧re for alle i organisationen. Hvis du vil redigere denne politik eller oprette brugerdefinerede politikker, skal du se [dette emne](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

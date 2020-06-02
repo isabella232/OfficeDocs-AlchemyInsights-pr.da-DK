@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 307b738c40c620d057e68eff7d218c8c9b5eb665
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8122b409a731a5fcc46c718aff1eeda07e26890b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676491"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506437"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Løs problemer med levering af mail, fejlkode 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Løs problemer med levering af e-mail for fejlkode 5.7.23
 
-Kontroller SPF DNS-posten for dit domæne på en offentligt tilgængelig SPF- eller DNS-postkontrol på internettet.
+Kontroller SPF DNS-posten for dit domæne ved en offentligt tilgængelig SPF- eller DNS-postkontrol på internettet.
 
-Kontroller, at den udgående meddelelse ikke blev identificeret som spam af Microsoft og dirigeret gennem [puljen til levering med høj risiko](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Meddelelser i puljen til levering af høj risiko består ikke SPF-checks og accepteres derfor ikke af destinationsmailorganisationen.
+Kontroller, at den udgående meddelelse ikke blev identificeret som spam af Microsoft og dirigeret gennem [high risk-leveringspuljen](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages). Meddelelser i højrisikoleveringspuljen består ikke SPF-kontroller og accepteres derfor ikke af destinationsmailorganisationen.
 
-Hvis problemet fortsætter, skal du muligvis kontakte administratoren af den mailvært, du forsøger at sende e-mail til. Noter den detaljerede eksterne fejl, der er tilgængelig i afvisningsmeddelelsen. Microsoft-support kan muligvis ikke hjælpe yderligere.
+Hvis problemet fortsætter, skal du muligvis kontakte administratoren af den mailvært, som du forsøger at sende e-mail til. Gør opmærksom på den detaljerede eksterne fejl, der er tilgængelig i afvisningsmeddelelsen. Microsoft-support kan muligvis ikke hjælpe yderligere.

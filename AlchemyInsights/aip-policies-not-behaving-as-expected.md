@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 7926ff9ebbd54969fb5b3ae5d909baffe96a4292
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44492955"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506552"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: Politikker, der ikke fungerer som forventet
 
 Azure Information Protection: Politikker, der ikke fungerer som forventet, kan se følgende for at få anbefalede retningslinjer for forskellige politikproblemer:
 
 1. Hvis du har problemer med visuelle markeringer, skal du gennemse [Når der anvendes visuelle markeringer](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Hvis du har problemer med automatisk mærkning, skal du se Sådan konfigurerer du [betingelser for automatisk og anbefalet klassificering af Azure Information Protection,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) og hvad de følsomme [oplysningstyper søger efter](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+2. Hvis du har problemer med automatisk mærkning, skal du se Sådan konfigurerer du [betingelser for automatisk og anbefalet klassificering af Azure Information Protection,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) og hvad de følsomme [oplysningstyper søger efter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 3. Hvis du har problemer med indbygget/p-fil-beskyttelse, skal du gennemse [Fil-API-konfigurationen](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
 4. Kontrollér, om du bruger scoped-politikker, der ikke er konfigureret korrekt: [Sådan konfigureres politikken for Azure Information Protection for bestemte brugere ved hjælp af politikker for omfang](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 5. Hvis automatisk mærkning ikke fungerer for Outlook, når du vedhæfter et navngivet dokument, skal du kontrollere, at DRMEncryptProperty ikke er defineret som beskrevet her: [IRM-registreringsdatabaseindstillinger for sikkerhed](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).

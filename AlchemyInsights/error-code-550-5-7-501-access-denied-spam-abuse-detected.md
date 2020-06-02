@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9fd4f14798f27e7bf93daceb3620aff9b7f9e8ed
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703020"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506804"
 ---
 # <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Adgang nægtet, spam misbrug opdaget
 
-Denne meddelelse vises typisk, når brugerne sender mails fra IP-adresser ved hjælp af det oprindelige *.onmicrosoft.com-domæne,* der er tildelt nye lejere i Microsoft 365. Den nemmeste måde at løse dette problem på er at:
+Denne meddelelse vises typisk, når brugere sender mails fra IP-adresser ved hjælp af det første *.onmicrosoft.com-domæne,* der er tildelt til nye lejere i Microsoft 365. Den nemmeste måde at løse dette problem på er at:
 
-1. [Føj et domæne til din lejer](https://docs.microsoft.com//office365/admin/setup/add-domain).
+1. [Føj et domæne til din lejer](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
 
-2. [Skift dine brugeres primære mailadresse](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) til det nye brugerdefinerede domæne, du lige har tilføjet.
+2. [Skift dine brugeres primære mailadresse](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) til det nye brugerdefinerede domæne, du lige har tilføjet.

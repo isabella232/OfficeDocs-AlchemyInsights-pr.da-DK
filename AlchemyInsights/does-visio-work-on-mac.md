@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: 26c4381f86b547af3f0da5617fd7a7bfd7edaf9d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c198e12f996f298f05d81694f69a37931e1878dd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715308"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507210"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Fungerer Visio på en Mac?
+# <a name="does-visio-work-on-a-mac"></a>Virker Visio på en Mac?
 
-Der er intet Visio-skrivebordsprogram til Mac. Men så længe den bruger, der har brug for appen, har fået tildelt en [Visio Online-licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), kan vedkommende [få vist, oprette og redigere diagrammer i Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) i en webbrowser.
+Der er intet Visio-skrivebordsprogram til Mac. Men så længe den bruger, der har brug for appen, har fået tildelt en [Visio Online-licens,](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)kan vedkommende [få vist, oprette og redigere diagrammer i Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) i en webbrowser.
   
   

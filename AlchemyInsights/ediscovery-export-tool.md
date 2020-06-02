@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714764"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507164"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kan du ikke installere eller køre eDiscovery Export Tool?
 
-Hvis du ikke kan installere eller køre eDiscovery Export Tool for at hente søgeresultater, skal du kontrollere følgende:
+Hvis du ikke kan installere eller køre eDiscovery-eksportværktøjet for at hente søgeresultater, skal du kontrollere følgende:
   
 - Den computer, du bruger, opfylder disse forudsætninger:
 
@@ -39,11 +39,11 @@ Hvis du ikke kan installere eller køre eDiscovery Export Tool for at hente søg
 
   - Internet Explorer 10 og nyere versioner
 
-    Andre browsere, såsom Google Chrome og Mozilla Firefox understøttes ikke.
+    Andre browsere, f.eks.
 
-- Din organisation kan oprette forbindelse til slutpunktet i Azure, som er ** \*.blob.core.windows.net** (jokertegnet repræsenterer et entydigt id for dit eksportjob).
+- Din organisation kan oprette forbindelse til slutpunktet i Azure, som er ** \* .blob.core.windows.net** (jokertegnet repræsenterer et entydigt id for dit eksportjob).
 
-- Du tildeles rollen Eksporter i Microsoft &amp; 365 Security Compliance Center. Denne rolle tildeles som standard kun til rollegruppen eDiscovery Manager. Se [Tildele eDiscovery-tilladelser](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Du tildeler eksportrollen i Microsoft 365 Security &amp; Compliance Center. Denne rolle tildeles som standard kun til rollegruppen eDiscovery Manager. Se [Tildele eDiscovery-tilladelser](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Yderligere oplysninger finder du i [Export Content Search Results](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Du kan finde flere oplysninger under [Eksportere søgeresultater for indhold](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   

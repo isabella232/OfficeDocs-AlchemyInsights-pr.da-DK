@@ -1,5 +1,5 @@
 ---
-title: Indstillinger for E-registrering
+title: Indstillinger for Ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911142"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507092"
 ---
-# <a name="ediscovery-settings"></a>Indstillinger for E-registrering
+# <a name="ediscovery-settings"></a>Indstillinger for Ediscovery
 
-eDiscovery/Content-søgninger giver dig mulighed for at søge efter, opbevare og eksportere indhold fra Exchange Online-postkasser, SharePoint Online- og OneDrive for Business-websteder, Skype for Business-samtaler, Microsoft Teams og Microsoft 365-grupper.
+eDiscovery/Content-søgninger giver dig mulighed for at søge, opbevare og eksportere indhold fra Exchange Online-postkasser, SharePoint Online- og OneDrive for Business-websteder, Skype for Business-samtaler, Microsoft Teams og Microsoft 365 Grupper.
 
-- Hvis du leder efter menuindstillingerne eDiscovery eller Indholdssøgning, skal du se [eDiscovery-problemer](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Hvis du leder efter menupunkterne eDiscovery eller Indholdssøgning, skal du se [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Få mere at vide om de tilladelser, der er nødvendige for at udføre eDiscovery-søgninger fra [tilladelser, der kræves til eDiscovery-søgninger](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Hvis din søgning ikke returnerer de forventede resultater, skal du se [Søg, der ikke returnerer forventede resultater](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Hvis søgningen ikke returnerer de forventede resultater, skal du se [Søg, der ikke returnerer forventede resultater](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Yderligere oplysninger om ediscovery finder du i [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Yderligere oplysninger om ediscovery finder du i [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
