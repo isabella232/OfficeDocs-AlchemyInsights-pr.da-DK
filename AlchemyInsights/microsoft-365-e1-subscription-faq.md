@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002870"
 - "5407"
-ms.openlocfilehash: e57815e9e1e751dc8a53699bbc5d7e07f455288b
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 90534a403eee1232bfe7eab92472ea60cb2b0371
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912074"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511826"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Ofte stillede spørgsmål om Microsoft 365 E1-abonnement og licensstyring
 
@@ -25,7 +25,7 @@ ms.locfileid: "43912074"
 - Hvis du vil **skifte planer**, skal du se [Skift Microsoft 365-abonnementer for virksomheder manuelt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Hvis du vil **tildele** brugere E1-licenser, skal du gå til **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Du kan finde flere oplysninger under [Tildel licenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Hvis du vil **tilføje/fjerne** E1-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**, og klikke på **Tilføj/fjern licenser**. Du kan finde flere oplysninger under [Tilføj/fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Hvis du vil **annullere** E1-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vælge **Indstillinger og handlinger**, og klikke på **Annuller abonnementet**. Du kan finde flere oplysninger under [Annuller dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Hvis du vil **annullere** E1-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vælge **Indstillinger og handlinger**, og klikke på **Annuller abonnementet**. Du kan finde flere oplysninger under [Annuller dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Hvis du vil **aktivere** E1-abonnement, skal du se [Aktiver dit abonnement](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Hvis du vil **genaktivere** E1-abonnement, skal du se [Genaktiver dit abonnement](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Hvis du vil forlænge din E1-prøveperiode, skal du se [Forlæng prøveperiode](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).

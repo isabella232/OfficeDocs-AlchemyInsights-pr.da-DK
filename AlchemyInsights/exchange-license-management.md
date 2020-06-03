@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-ms.openlocfilehash: 296b77e6b1596732c58e5caa21954225eb31e3ec
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: f653fefccc435b80198ea6097d845549ccec56bf
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991160"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505609"
 ---
 # <a name="exchange-license-management"></a>Exchange-licensstyring
 
@@ -27,6 +27,6 @@ Exchange-licensstyring kan udføres i **Microsoft 365 Administration**.
 - Hvis du vil **skifte planer**, skal du gå til [Skift Microsoft 365-abonnementer for virksomheder manuelt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Hvis du vil **tildele** Exchange-licenser, skal du gå til **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**, vælge abonnementet, vælge brugerne og klikke på **Tildel licenser**. Du kan finde flere oplysninger under [Tildel licenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Hvis du vil **tilføje/fjerne** Exchange-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)** og klikke på **Tilføj/fjern licenser**. Du kan finde flere oplysninger under [Tilføj/fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Hvis du vil **annullere** Exchange-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054),** vælge **Indstillinger og handlinger** og klikke på **Opsig abonnement**. Du kan finde flere oplysninger under [Opsig dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Hvis du vil **annullere** Exchange-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054),** vælge **Indstillinger og handlinger** og klikke på **Opsig abonnement**. Du kan finde flere oplysninger under [Opsig dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Hvis du vil have mere at vide, skal du gå til [Administrer abonnementslicenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

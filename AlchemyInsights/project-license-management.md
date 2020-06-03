@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991039"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512404"
 ---
 # <a name="project-license-management"></a>Project-licensstyring
 
@@ -27,6 +27,6 @@ Project-licensstyring kan udføres i **Microsoft 365 Administration**.
 - Hvis du vil **skifte planer**, skal du se [Skift Microsoft 365-abonnementer for virksomheder manuelt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Hvis du vil **tildele** Project-licenser, skal du gå til **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Du kan finde flere oplysninger under [Tildel licenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Hvis du vil **tilføje/fjerne** licenser til Project, skal du gå til **Fakturering > [Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Du kan finde flere oplysninger under [Tilføj/fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Hvis du vil **annullere** Project-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054),** vælge **Indstillinger og handlinger** og klikke på **Annuller abonnement**. Du kan finde flere oplysninger under [Annuller dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Hvis du vil **annullere** Project-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054),** vælge **Indstillinger og handlinger** og klikke på **Annuller abonnement**. Du kan finde flere oplysninger under [Annuller dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Hvis du vil have mere at vide, skal du gå til [Administrer abonnementslicenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

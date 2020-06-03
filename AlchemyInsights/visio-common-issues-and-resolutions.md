@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722557"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505193"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Almindelige problemer og løsninger i Visio
 
@@ -30,7 +30,7 @@ Her er nogle af de mest almindelige emner for Microsoft Visio:
 
 **Download, installer og aktiver Visio**
 
-- Hvis du vil installere og aktivere Visio-skrivebordsprogrammet med Visio Online Plan 2, skal der være tildelt en bruger en [Visio-licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Hvis du vil installere og aktivere Visio-skrivebordsprogrammet med Visio Online Plan 2, skal der være tildelt en bruger en [Visio-licens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Installér Visio fra din Min konto-portal, hvis det ikke allerede er installeret. Hvis du vil have hjælp, kan du se [Installer Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +40,7 @@ Her er nogle af de mest almindelige emner for Microsoft Visio:
 
 **Visio på en Mac**
 
-Der er intet Visio-skrivebordsprogram til Mac. Brugere med en gyldig [Visio Online-licens](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) kan dog [få vist, oprette og redigere diagrammer](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) i Visio Online i en webbrowser.
+Der er intet Visio-skrivebordsprogram til Mac. Brugere med en gyldig [Visio Online-licens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) kan dog [få vist, oprette og redigere diagrammer](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) i Visio Online i en webbrowser.
 
 **Diagrammer, skabeloner, figurer og forbindelser**
 

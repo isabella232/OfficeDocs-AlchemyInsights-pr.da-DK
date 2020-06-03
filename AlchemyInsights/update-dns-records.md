@@ -12,16 +12,16 @@ ms.custom:
 - "39"
 - "41"
 - "100001"
-ms.openlocfilehash: 63889b05c3755e80b381f38dc14827f4a96e5ef8
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
-ms.translationtype: HT
+ms.openlocfilehash: ca580e981036d3c830e55d67f2a79272fe4f27e4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36818708"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508514"
 ---
 # <a name="update-dns-records"></a>Opdater DNS-poster
 
-Det er vigtigt, at du konfigurerer dine DNS-poster for at få dit Office 365-abonnement til at fungere med dit brugerdefinerede domænenavn. Brug nedenstående links til at tilføje eller opdatere dine DNS-poster.
+Det er vigtigt at konfigurere dine DNS-poster for at få dit abonnement til at fungere med dit brugerdefinerede domænenavn. Brug nedenstående links til at tilføje eller opdatere dine DNS-poster.
   
-- [Opret DNS-poster for Office 365 hos enhver DNS-udbyder](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
-- [Tilføj eller rediger brugerdefinerede DNS-poster](https://docs.microsoft.com/office365/admin/dns/add-or-edit-custom-dns-records)
+- [Oprette DNS-poster hos enhver DNS-udbyder](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [Tilføj eller rediger brugerdefinerede DNS-poster](https://docs.microsoft.com/microsoft-365/admin/dns/add-or-edit-custom-dns-records)
