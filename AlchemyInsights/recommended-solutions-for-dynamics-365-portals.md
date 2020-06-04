@@ -12,26 +12,26 @@ ms.custom:
 - "1456"
 - "6200009"
 ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36745499"
 ---
 # <a name="dynamics-365-portals-recommended-solutions"></a>Anbefalede løsninger til Dynamics 365-portaler
 
-* [Sådan vises detaljeret server fejl vist på min portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Sådan får du vist detaljeret serverfejl, der vises på min portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Sådan nulstiller du en portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Sådan nulstilles en portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [Sådan ryddes cachen på serversiden for en portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Sådan ændres målgruppen og typen af en Dynamics 365-Portal](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Sådan ændrer du målgruppen og typen af en Dynamics 365-portal](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Sådan ændres basis-URL-adressen for en portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Sådan ændres basis-URL-adressen på en portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Sådan konfigureres ekstern identitetsudbyder med Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Sådan konfigureres ekstern identitetsprovider med portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Ofte stillede spørgsmål](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Kom godt i gang med min Dynamics 365-Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Introduktion til Min Dynamics 365 Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

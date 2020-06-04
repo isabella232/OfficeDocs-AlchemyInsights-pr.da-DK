@@ -1,5 +1,5 @@
 ---
-title: 611 Deling af kalendere
+title: 611- kalenderdeling
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom:
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
 ms.openlocfilehash: 1739621bedc408cfd13da7b194964f8441d6b245
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665574"
 ---
-# <a name="calendar-sharing-in-outlook"></a>Deling i Outlook kalender
+# <a name="calendar-sharing-in-outlook"></a>Kalenderdeling i Outlook
 
 Du kan finde oplysninger om deling af en Outlook-kalender i disse artikler:
   

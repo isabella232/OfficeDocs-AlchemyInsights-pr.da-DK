@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding i forbindelse med opsætningen af Stream - API-tilgængelighed
+title: Fejlfinding i forbindelse med installation af stream - API-tilgængelighed
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.custom:
 - "2800001"
 - "1338"
 ms.openlocfilehash: bd08dce9f6b037478e653bd61ad8cfa0a334bc5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559295"
 ---
 # <a name="api-availability"></a>API-tilgængelighed
 
-API'er til streamen er ikke tilgængelige i dag.
-Yderligere oplysninger:https://stream.microsoft.com/support/
+API'er til Stream er ikke tilgængelige i dag.
+Du kan få flere oplysninger på følgende måde:https://stream.microsoft.com/support/
