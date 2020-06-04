@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666294"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="633f2-102">Servicehændelse i gang</span><span class="sxs-lookup"><span data-stu-id="633f2-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="3a512-102">Servicehændelse i gang</span><span class="sxs-lookup"><span data-stu-id="3a512-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="633f2-103">Du kan være påvirket af en hændelse med tjenesten eller rådgivende, der er i øjeblikket ved at undersøge.</span><span class="sxs-lookup"><span data-stu-id="633f2-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="633f2-104">Du kan kontrollere den seneste status ved at gå til siden [Service sundhed](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="633f2-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="3a512-103">Du kan blive påvirket af en servicehændelse eller rådgivning, der i øjeblikket undersøges.</span><span class="sxs-lookup"><span data-stu-id="3a512-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="3a512-104">Du kan kontrollere den seneste status ved at gå til siden [Tjenestetilstand.](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="3a512-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="633f2-105">Du kan finde en oversigt over dette nedenfor for din bekvemmelighed:</span><span class="sxs-lookup"><span data-stu-id="633f2-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="3a512-105">For nemheds skyld kan du finde en oversigt over denne hændelse nedenfor:</span><span class="sxs-lookup"><span data-stu-id="3a512-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="633f2-106">**Hændelse nummer:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="633f2-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="3a512-106">**Hændelsesnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="3a512-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="633f2-107">Påvirke beskrivelse: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="633f2-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="3a512-107">Beskrivelse af effekt: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="3a512-107">Impact description: {ImpactDescription}</span></span>

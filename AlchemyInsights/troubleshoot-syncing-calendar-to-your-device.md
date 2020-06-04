@@ -1,5 +1,5 @@
 ---
-title: 3800017 fejlfinding i forbindelse med synkronisering af kalender til din enhed
+title: 3800017 Fejlfinding i forbindelse med synkronisering af kalender til din enhed
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,13 +13,13 @@ ms.custom:
 - "3800017"
 ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
 ms.openlocfilehash: cfde9c1d14f3c9a7e2149148a9a9c397c23b36fd
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36665790"
 ---
-# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="af126-102">Fejlfinding i forbindelse med synkronisering af din kalender til din enhed</span><span class="sxs-lookup"><span data-stu-id="af126-102">Troubleshoot syncing your calendar to your device</span></span>
+# <a name="troubleshoot-syncing-your-calendar-to-your-device"></a><span data-ttu-id="d1bb2-102">Fejlfinding i forbindelse med synkronisering af din kalender til din enhed</span><span class="sxs-lookup"><span data-stu-id="d1bb2-102">Troubleshoot syncing your calendar to your device</span></span>
 
-<span data-ttu-id="af126-103">Hvis du har synkroniseringsproblemer, mens du konfigurerer din mobilmail for første gang, skal du se under [kan ikke synkronisere kalender og kontakter med min telefon eller tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span><span class="sxs-lookup"><span data-stu-id="af126-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
+<span data-ttu-id="d1bb2-103">Hvis du har synkroniseringsproblemer, mens du konfigurerer din mobilmail for første gang, skal du se [Kan ikke synkronisere kalender og kontakter med min telefon eller tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span><span class="sxs-lookup"><span data-stu-id="d1bb2-103">If you're having sync issues while setting up your mobile email for the first time, see [Can't sync calendar and contacts with my phone or tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).</span></span>
   
