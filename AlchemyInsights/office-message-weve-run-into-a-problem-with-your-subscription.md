@@ -1,5 +1,5 @@
 ---
-title: Meddelelse om Office-apps – Vi er stødt på et problem med dit abonnement
+title: Microsoft 365-apps- Besked - Vi er stødt på et problem med dit abonnement
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512440"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581549"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meddelelse om Office-apps – Vi er stødt på et problem med dit abonnement
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365-apps- Besked - Vi er stødt på et problem med dit abonnement
 
 - Hvis du har skiftet abonnement/plan for nylig, skal du følge trinnene i ["Kontomeddelelse", der vises i Office, efter du har skiftet plan](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d), for at geninstallere eller opdatere Office.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512440"
 
 - Kør [Fejlfindingsværktøjet til aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy), og genstart computeren.
 
-- [Nulstil aktiveringstilstand for Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) på den berørte computer.
+- [Nulstil aktiveringstilstand for Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) på den berørte computer.
 
 Se følgende for en detaljeret vejledning: 
 

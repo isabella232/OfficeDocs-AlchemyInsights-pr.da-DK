@@ -1,5 +1,5 @@
 ---
-title: Meddelelse om Office-apps – Kunne ikke finde tilknyttede Office-licenser
+title: Microsoft 365-apps- Der blev ikke fundet Office-licenser tilknyttet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505085"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581645"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Meddelelse om Office-apps – Kunne ikke finde tilknyttede Office-licenser
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365-apps- Der blev ikke fundet Office-licenser tilknyttet
 
 Du kan rette fejlen ved at følge disse trin:
 
@@ -38,7 +38,7 @@ Hvis problemet fortsætter, skal du prøve følgende trin:
 
 - Nulstil aktiveringstilstand for Office. Se [Nulstil aktiveringstilstand for Microsoft 365-apps til store virksomheder](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Kontrollér din firewall, antivirussoftware og proxyindstillinger for at bekræfte, at de ikke blokerer internetadgangen for Office-apps. 
+- Kontroller din firewall, dit antivirusprogram og dine proxyindstillinger for at bekræfte, at de ikke blokerer microsoft 365-appss adgang til internettet. 
 
 Hvis du vil have yderligere fejlfindingsløsninger, skal du se:
 

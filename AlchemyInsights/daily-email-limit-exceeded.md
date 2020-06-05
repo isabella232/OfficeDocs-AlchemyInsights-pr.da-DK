@@ -1,5 +1,5 @@
 ---
-title: Den daglige e-mailgrænse er overskredet. Arbejdsprocessen er afbrudt.
+title: Den daglige e-mail-grænse er overskredet. Arbejdsprocessen er afbrudt.
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908698"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580327"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Daglig e-mail Grænse overskredet. Arbejdsprocessen er afbrudt.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Den daglige e-mail-grænse er overskredet. Arbejdsprocessen er afbrudt.
 
 Denne fejl kan modtages i følgende scenarier:
 
-- Du har en arbejdsproces i SharePoint Online, der bruger sharepoint 2010- eller SharePoint 2013-arbejdsprocesplatformtypen.
-- Arbejdsprocessen er konfigureret til at sende en brugerdefineret mail til mere end 200 brugere ad gangen, mere end 10.000 modtagere pr. dag eller mere end 30 meddelelser pr. minut.
+- Du har en arbejdsproces i SharePoint Online, der bruger statustypen SharePoint 2010- eller SharePoint 2013-arbejdsprocesplatform.
+- Arbejdsprocessen er konfigureret til at sende en brugerdefineret mail til mere end 200 brugere ad gangen, mere end 10.000 modtagere om dagen eller mere end 30 meddelelser i minuttet.
 - Når du kører arbejdsprocessen, sendes mailen ikke, og du bemærker følgende funktionsmåde:
-    - Hvis du vil have en arbejdsproces, der bruger SharePoint 2013-platformstypen, skal du gå til siden **Status for arbejdsproces.** På siden Status for arbejdsproces er den **interne status** angivet til **Startet**, og informationsboblen **vises, at der ikke kan sendes til en modtager**.
+    - For en arbejdsproces, der bruger sharepoint 2013-platformtypen, skal du gå til **siden Status for arbejdsproces.** På siden Status for arbejdsproces er den **interne status** angivet til **Startet**, og informationsboblen **viser, at den ikke kan sendes til en modtager**.
 
-Du kan lÃ ̧se dette problem ved at konfigurere arbejdsprocessen til at sende mails uden at overskride [grænserne for Exchange Online-afsendere](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Bruge en pause i arbejdsprocessen, sende mailen til en Microsoft 365-gruppe, en distributionsgruppe eller mailaktiveret sikkerhedsgruppe eller sende meddelelsen til færre end 200 modtagere ad gangen.
+Du kan løse dette problem ved at konfigurere arbejdsprocessen til at sende mails uden at overskride [grænserne for Exchange Online-afsenderen](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). bruge en pause i arbejdsprocessen, sende mailen til en Microsoft 365-gruppe, en distributionsgruppe eller en mailaktiveret sikkerhedsgruppe eller sende meddelelsen til færre end 200 modtagere ad gangen.
 
 
 Yderligere oplysninger finder du i følgende [artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511646"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581009"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Følsomhedsetiketter vises ikke
 
 Følsomhedsetiketter giver dig mulighed for at klassificere og hjælpe med at beskytte dit følsomme indhold. De kan oprettes i Microsoft 365 compliance center, Microsoft 365-sikkerhedscenter eller Microsoft 365-sikkerhedscenter & Compliance Center under Klassifikations- > følsomhedsetiketter. Hvis du vil have mere at vide om denne funktion, skal du se [Oversigt over følsomhedsetiketter](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Hvis du har konfigureret dine følsomhedsetiketter, men de ikke vises i Office-apps, skal du kontrollere følgende:
+Hvis du har konfigureret dine følsomhedsetiketter, men de ikke vises i Microsoft 365-apps, skal du kontrollere følgende:
 
 - Bekræft, at følsomhedsetiketten er [udgivet](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) for de brugere og grupper, du ønsker.
 

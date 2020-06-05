@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 172b1a144b892a35a915502b08cea2834eb85c94
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ab241752d969acab237779c514d89b2a0c30c222
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505969"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580579"
 ---
 # <a name="viewing-chat-history-in-microsoft-teams"></a>Visning af chathistorik i Microsoft Teams
 
-Hvis du vil se Teams-chathistorik, kan du bruge [Indholdssøgning](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [Sikkerheds- & Compliance Center](https://sip.protection.office.com/insightdashboard), hvor du kan søge i den postkasse, der er knyttet til en Microsoft 365-gruppe eller et Microsoft-team. 
+Hvis du vil se Teams-chathistorik, kan du bruge [Indholdssøgning](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [Sikkerhedscenter & Compliance Center](https://sip.protection.office.com/insightdashboard), hvor du kan søge i den postkasse, der er knyttet til en Microsoft 365-gruppe eller et Microsoft-team. 
 
 Se [Søge i Microsoft Teams og Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/compliance/content-search) for at få mere at vide om søgefunktionerne fra Sikkerheds- og Overholdelsescenter. 
 

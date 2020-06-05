@@ -1,5 +1,5 @@
 ---
-title: Avanceret installation fang alle regler
+title: Avanceret udrulning fanger alle regler
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710905"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580845"
 ---
-# <a name="deploy-office-apps"></a>Installere Office-apps
+# <a name="deploy-microsoft-365-apps"></a>Installere Microsoft 365-apps
 
-Hvis du vil installere Office-apps til flere slutbrugere via Office Deployment Tool, Microsoft Endpoint Configuration Manager, som en del af en diskafbildning af operativsystemet eller i et delt computerscenarie ved hjælp af Windows Server med RDS (Remote Desktop Services) eller Terminal Services, kan du overveje at bruge vejledningen trin for trin i **Microsoft 365 Apps for Enterprise Deployment Advisor**.
+Hvis du vil installere Microsoft 365-apps på flere slutbrugere via Office Installationsværktøj, Microsoft Slutpunktskonfigurationstyring, som en del af en diskafbildning af et operativsystem eller i et delt computerscenarie ved hjælp af Windows Server med RDS (Remote Desktop Services) eller Terminal Services, kan du overveje at bruge trinvis vejledning i **Microsoft 365 Apps til virksomhedsinstallationsrådgiver**.
   
-For at komme i gang skal du sørge for, at du er [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)logget på som lejeradministrator eller global administrator, og derefter klikke her: .
+For at komme i gang skal du sørge for, at du er logget på som lejeradministrator eller global administrator, og derefter klikke her: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   
