@@ -1,9 +1,9 @@
 ---
-title: 8000053 kunne ikke sende e-mails til gruppen
+title: 8000053 Kan ikke sende gruppe-e-mails
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: bcce81f304988e9f66512a19ec0ef0dcb6120eb5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1330164360445e9ac43a1c85e5bb01ebfda5a177
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533369"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582481"
 ---
-# <a name="unable-to-send-group-emails"></a>Kan ikke sende e-mails til gruppen
+# <a name="unable-to-send-group-emails"></a>Gruppemails kan ikke sendes
 
-Hvis du er i stand til at sende en e-mail til lister over kontaktpersoner eller kontaktpersongrupper i Outlook.com, skal du prøve følgende:
+Hvis du ikke kan sende mail til kontaktlister eller kontaktgrupper i Outlook.com, kan du prøve følgende:
   
-1. Brug Outlook.com beta. Yderligere oplysninger, [Få mere at vide om betaversionen af Outlook.com](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Brug Outlook.com beta. Du kan finde [flere oplysninger om Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     
-2. Hvis du stadig har problemer med at skrive en e-mail til din gruppe, gå til [personer](https://outlook.live.com/people/), vælge kontaktliste eller gruppen, og vælg derefter **Send e-mail**.
+2. Hvis du stadig har problemer med at oprette en mail til din gruppe, skal du gå til [Personer](https://outlook.live.com/people/), vælge listen over kontaktpersoner eller gruppen og derefter vælge **Send mail**.
     
- **Bemærkninger:**
+ **Noter:**
   
-1. Kontroller, at du ikke har en pop op-vinduer blokeret: sende en e-mail fra siden med listen over kontaktpersoner åbnes et nyt vindue.
+1. Sørg for, at du ikke har blokeret pop op-vinduer: Når du sender mails fra siden med listen over kontakter, åbnes et nyt vindue.
     
-2. Send post fra listen over kontaktpersoner automatisk placeres på listen på **linjen** . Hvis du vil skjule detaljer din liste over kontaktpersoner, skal du klikke på **BCC** i øverste højre hjørne, og derefter kopiere og indsætte listen over kontaktpersoner i **BCC** og slette posten **til** . 
+2. Send e-mail fra listen over kontaktpersoner placerer automatisk listen på linjen **TIL.** Hvis du vil skjule dine kontaktlisteoplysninger, skal du klikke på **BCC** i øverste højre hjørne og derefter kopiere og indsætte listen over kontaktpersoner i **BCC** og slette **INDTASTNINGSsætningen TIL.** 
     
-3. Når du bruger **BCC**, er det god ide altid at have noget på **linjen, for eksempel din egen "fra" adresse** . 
+3. Når du bruger **BCC,** er det god i praksis altid at have noget i **TO-linjen,** for eksempel din egen "fra"-adresse. 
     
 
