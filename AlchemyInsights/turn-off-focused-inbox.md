@@ -1,9 +1,9 @@
 ---
-title: 8000001 deaktivere fokuseret Indbakke
+title: 8000001 Slå fokuseret indbakke fra
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 12/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: 4d11dd687ee1408c4d747b7c01b22b1845e6eac9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 86c30e6b61b7246c5230604e7e16e1893a9195a7
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533441"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582265"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="6d195-102">Slå fokuseret Indbakke</span><span class="sxs-lookup"><span data-stu-id="6d195-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="a6bee-102">Slå fokuseret indbakke fra</span><span class="sxs-lookup"><span data-stu-id="a6bee-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="6d195-103">Vælg **Indstillinger for** \> **fokuseret Indbakke**.  </span><span class="sxs-lookup"><span data-stu-id="6d195-103">Select **Settings**  \> **Focused Inbox**.</span></span>
+1. <span data-ttu-id="a6bee-103">Vælg **Indstillinger** \> **fokuseret indbakke**.  </span><span class="sxs-lookup"><span data-stu-id="a6bee-103">Select **Settings**  \> **Focused Inbox**.</span></span>
 
-2. <span data-ttu-id="6d195-104">Marker under **Når e-mail modtages** **ikke sortere meddelelser**.</span><span class="sxs-lookup"><span data-stu-id="6d195-104">Under **When email is received**, select **Don't sort messages**.</span></span>
+2. <span data-ttu-id="a6bee-104">**Under Når mail modtages**, skal du vælge **Sortér ikke meddelelser**.</span><span class="sxs-lookup"><span data-stu-id="a6bee-104">Under **When email is received**, select **Don't sort messages**.</span></span>
 
-3. <span data-ttu-id="6d195-105">Klik på **OK**.</span><span class="sxs-lookup"><span data-stu-id="6d195-105">Select **OK**.</span></span>
+3. <span data-ttu-id="a6bee-105">Vælg **OK**.</span><span class="sxs-lookup"><span data-stu-id="a6bee-105">Select **OK**.</span></span>
 
-<span data-ttu-id="6d195-106">Hvis du vil vide mere, se [Fokuseret indbakke til Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="6d195-106">To learn more, see [Focused Inbox for Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="a6bee-106">Du kan få mere at vide under [Fokuseret indbakke til Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="a6bee-106">To learn more, see [Focused Inbox for Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

@@ -1,24 +1,24 @@
 ---
-title: Outlook.com-hvordan du får support
+title: Outlook.com Sådan får du support
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000080
-ms.openlocfilehash: 53d68ea75dd5ee92bd170001f4d5e8000b0cbb4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 50d4c1a47eb35cc2b9dce5a02dcc1054cbfca778
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536338"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581477"
 ---
-# <a name="how-to-get-outlookcom-support"></a><span data-ttu-id="c67ec-102">Sådan får du support til Outlook.com</span><span class="sxs-lookup"><span data-stu-id="c67ec-102">How to get Outlook.com support</span></span>
+# <a name="how-to-get-outlookcom-support"></a><span data-ttu-id="0a5d6-102">Sådan får du Outlook.com support</span><span class="sxs-lookup"><span data-stu-id="0a5d6-102">How to get Outlook.com support</span></span>
 
-<span data-ttu-id="c67ec-103">Hej!</span><span class="sxs-lookup"><span data-stu-id="c67ec-103">Hi!</span></span>
-<span data-ttu-id="c67ec-104">Jeg er ikke en chat-bot, men jeg vil forsøge at hjælpe dig.</span><span class="sxs-lookup"><span data-stu-id="c67ec-104">I'm not a chat bot, but I will try to help you.</span></span>
+<span data-ttu-id="0a5d6-103">Hej!</span><span class="sxs-lookup"><span data-stu-id="0a5d6-103">Hi!</span></span>
+<span data-ttu-id="0a5d6-104">Jeg er ikke en chat bot, men jeg vil forsøge at hjælpe dig.</span><span class="sxs-lookup"><span data-stu-id="0a5d6-104">I'm not a chat bot, but I will try to help you.</span></span>
 
 
