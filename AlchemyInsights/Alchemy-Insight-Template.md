@@ -1,5 +1,5 @@
 ---
-title: samme som filnavn et bedst
+title: samme som filnavn er bedst
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,30 +11,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676527"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750964"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Krævet Alkymi Header H1, H2's virker ikke.
-Bedste fremgangsmåder og retningslinjer for Alkymi authoring:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Krævede Alkymi Header H1, H2's virker ikke."
+Bedste fremgangsmåder og retningslinjer for alkymi authoring:
 
-1. **Må ikke reden Alchemy Insights i mapper**- dette vil bryde url struktur. Vi undersøger, hvordan vi løser det her.
-1. Filer i mappen **AlchemyInsights** skal have filnavne med små bogstaver med bindestreger til mellemrum f.eks. ***how-to-enable-litigation-hold***.
-    1. Medtag regel-id'et eller bucket-id'et fra [Alkymy Partner-portalen](https://alchemyportal.azurewebsites.net) i feltet ms.custom. Ex. ***ms.custom: 100021***
+1. **Må ikke indlejre Alchemy Insights i mapper**- dette vil bryde url struktur. Vi undersøger, om vi skal ordne det her.
+1. Filer i mappen **AlchemyInsights** skal have filnavne med små bogstaver med bindestreger til mellemrum ex. ***hvordan-til-aktivere-retssager-hold***.
+    1. Medtag regel-id'et eller bucket-id'et fra [alkymipartnerportalen](https://alchemyportal.azurewebsites.net) i ms.custom-feltet. Ex. ***ms.custom: 100021***
 1. Brug resten af metadataene øverst i denne fil som skabelon.
-1. I [Alchemy Partner-portalen](https://alchemyportal.azurewebsites.net)skal du navigere ned til afsnittet **Customer Insight-titel:** og bruge den som udgangspunkt for din H1-titel for indsigten. 
+1. På [Alchemy Partner-portalen skal](https://alchemyportal.azurewebsites.net)du navigere ned til afsnittet **Customer Insight Title:** og bruge det som udgangspunkt for din H1-titel til indsigten. 
     > [!NOTE]
-    > Alkymi Insights SKAL kun have en enkelt H1 øverst, eller de vil bryde i produktionen. H2'er gengives ikke, så brug **fed** eller andre konventioner til at betyde separate sektioner.
-1. Udfyld derefter brødteksten ved hjælp af kladdematerialet i afsnittet Kundeindsigt på siden Alkymiregel
+    > Alkymi Insights SKAL kun have en enkelt H1 i toppen, eller de vil bryde i produktionen. H2s ikke gøre enten så brug **fed** eller andre konventioner til at betyde separate sektioner.
+1. Udfyld derefter brødteksten ved hjælp af kladdematerialet i afsnittet Kundeindsigt på siden Alchemy Rule
     1. Punktopstillinger er fine
-    1. Nummererede lister også
+    1. Også opstilling af tal/bogstaver
     1. **Fed** og *kursiv* er a-ok
-    1. Links bør altid være enten **"links til web"/eksterne** eller **dybe links til elementer i brugergrænsefladen**, ikke interne links.
+    1. Links bør altid være enten **"links til web"/eksterne** eller **dybe links til UI elementer,** ikke interne links.
     1. Billeder er ikke officielt understøttet på nuværende tidspunkt, men det er på køreplanen.
 
 Og det er virkelig allerede lidt for længe. Bedste praksis er omkring 400 tegn ---------------------------------
 
-Når dit indhold er klar, skal du trække det til den levende gren. Gå derefter til [Alchemy Partner-portalen,](https://alchemyportal.azurewebsites.net) og angiv filnavnet i url-feltet. 
+Når dit indhold er klar, skal du trække det til live grenen. Gå derefter til [Alchemy Partner-portalen,](https://alchemyportal.azurewebsites.net) og indtast filnavnet i url-feltet. 
