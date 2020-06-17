@@ -1,5 +1,5 @@
 ---
-title: Aktivering af Office-apps
+title: Aktivering af Microsoft 365-apps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
+ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682511"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735206"
 ---
-# <a name="activating-office-apps"></a>Aktivering af Office-apps
+# <a name="activating-microsoft-365-apps"></a>Aktivering af Microsoft 365-apps
 
 Kan ikke aktivere Office. Se:
 
@@ -26,13 +26,16 @@ Kan ikke aktivere Office. Se:
 
 - [Aktivér Office på en Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
+**Bemærk:**  Sørg for, at du har et Office 365- eller Microsoft 365-abonnement, der [omfatter Office-klientapps,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)f.eks. Sørg desuden for, at den brugerkonto, du bruger til at logge på Office-apps, har [fået tildelt en licens](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+
 For at løse problemer med aktivering af office, skal du se:
 
+- Kør [Fejlfindingsværktøjet til aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy), og genstart computeren.
 - [Fejl i forbindelse med produkt uden licens og aktivering i Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Det kan du prøve, hvis du ikke kan installere eller aktivere Office til Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Hvis du for nylig har skiftet konti eller Office-abonnementer, skal du følge trinnene nedenfor for at løse aktiveringsproblemer:
+Hvis du ikke kan logge på Microsoft 365-apps, skal du følge nedenstående trin:
 
 1. Åbn en Office-app, og [Log ud](https://go.microsoft.com/fwlink/?linkid=2114082) fra alle eksisterende brugerkonti.
 
