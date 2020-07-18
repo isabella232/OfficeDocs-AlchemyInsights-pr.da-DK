@@ -19,16 +19,14 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
+ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506293"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45169702"
 ---
 # <a name="business-subscription-faq"></a>Ofte stillede spørgsmål om virksomhedsabonnement
-
-Ofte stillede spørgsmål om virksomhedsabonnement og licensstyring:
 
 - Hvis du vil have vist Microsoft 365 til virksomheder, skal du se [Sammenlign virksomhedsplaner](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Hvis du vil have flere oplysninger, skal du kontakte salgsafdelingen på 1-855-270-0615.
 - Hvis du vil **købe** en plan, skal du gå til **Fakturering > [Køb tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Vælg planen og antallet af brugere. Du kan finde flere oplysninger under [Køb abonnement](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
