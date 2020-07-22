@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705799"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205297"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Opret forbindelse til Exchange Online PowerShell, når MFA er aktiveret
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Oprette forbindelse til Exchange Online PowerShell, når MFA er aktiveret
 
-Hvis multifaktorgodkendelse (MFA) er aktiveret, skal du følge denne vejledning for at oprette forbindelse til Exchange Online PowerShell: [Opret forbindelse til Exchange Online PowerShell ved hjælp af multifaktorgodkendelse](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**Bemærk:** Selvom du tidligere har oprettet forbindelse til Exchange Online PowerShell ved hjælp af [de almindelige tilslutningsinstruktioner](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), skal du bruge vejledningen til MFA-forbindelse, når MFA er blevet aktiveret til din konto.
+Hvis din konto har MFA-aktiveret multifaktorgodkendelse (MFA), skal du følge disse instruktioner for at oprette forbindelse til Exchange Online PowerShell: [Brug Exchange Online PowerShell med moderne godkendelse ved hjælp af V2-modulet](https://aka.ms/exops-docs). Søg efter MFA / Multi Factor Authentication instruktioner på denne side.
