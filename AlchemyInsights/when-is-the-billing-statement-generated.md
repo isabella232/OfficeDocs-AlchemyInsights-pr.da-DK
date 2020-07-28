@@ -2,8 +2,8 @@
 title: Hvornår genereres faktureringsopgørelsen?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510386"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431211"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Hvornår genereres den genererede faktureringsopgørelse
+# <a name="when-is-the-billing-statement-generated"></a>Hvornår genereres faktureringsopgørelsen?
 
-Hver måned modtager du en mail, der fortæller dig, at din nye faktureringsopgørelse er tilgængelig i Microsoft 365 Administration. Fakturaen indeholder to sider. Side 1 er fakturaoversigten og indeholder generelle oplysninger om fakturaen, ordren, det skyldige beløb, hvordan du foretager en betaling, og hvordan du kontakter support. Side 2 indeholder oplysninger om faktureringsaktiviteten for hvert abonnement.
+Din kontoudtogsdato angives til den dag i måneden, efter at din konto blev oprettet. Hvis du for eksempel har oprettet din konto den 20.
+
+Yderligere gebyrer, der opstår i løbet af en aktiv faktureringscyklus, medtages i fakturaen for den følgende måned. Start- og slutdatoerne for faktureringscyklussen for hver faktura vises i **fakturaens** faktureringsoversigt.
+
+Betalinger på kreditkort- og/eller bankkontobetalinger (hvis relevant) udlignes dagen efter **fakturadatoen**.
   
-Hvis du vil have mere at vide om faktureringskoncepter, skal du se [Forstå din faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Du kan få mere at vide [under Forstå din faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
