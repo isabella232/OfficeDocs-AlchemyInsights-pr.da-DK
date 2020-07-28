@@ -2,8 +2,8 @@
 title: Hvornår genereres faktureringsopgørelsen?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510386"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431211"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="095a5-102">Hvornår genereres den genererede faktureringsopgørelse</span><span class="sxs-lookup"><span data-stu-id="095a5-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="82e3b-102">Hvornår genereres faktureringsopgørelsen?</span><span class="sxs-lookup"><span data-stu-id="82e3b-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="095a5-103">Hver måned modtager du en mail, der fortæller dig, at din nye faktureringsopgørelse er tilgængelig i Microsoft 365 Administration.</span><span class="sxs-lookup"><span data-stu-id="095a5-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="095a5-104">Fakturaen indeholder to sider.</span><span class="sxs-lookup"><span data-stu-id="095a5-104">Your invoice contains two pages.</span></span> <span data-ttu-id="095a5-105">Side 1 er fakturaoversigten og indeholder generelle oplysninger om fakturaen, ordren, det skyldige beløb, hvordan du foretager en betaling, og hvordan du kontakter support.</span><span class="sxs-lookup"><span data-stu-id="095a5-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="095a5-106">Side 2 indeholder oplysninger om faktureringsaktiviteten for hvert abonnement.</span><span class="sxs-lookup"><span data-stu-id="095a5-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="82e3b-103">Din kontoudtogsdato angives til den dag i måneden, efter at din konto blev oprettet.</span><span class="sxs-lookup"><span data-stu-id="82e3b-103">Your statement date is set to the day of month after your account was created.</span></span> <span data-ttu-id="82e3b-104">Hvis du for eksempel har oprettet din konto den 20.</span><span class="sxs-lookup"><span data-stu-id="82e3b-104">For example, if you created your account on the 20th of January, your statement date is set to the 21st for each subsequent month.</span></span>
+
+<span data-ttu-id="82e3b-105">Yderligere gebyrer, der opstår i løbet af en aktiv faktureringscyklus, medtages i fakturaen for den følgende måned.</span><span class="sxs-lookup"><span data-stu-id="82e3b-105">Additional charges that occur during an active billing cycle are included in the invoice for the following month.</span></span> <span data-ttu-id="82e3b-106">Start- og slutdatoerne for faktureringscyklussen for hver faktura vises i **fakturaens** faktureringsoversigt.</span><span class="sxs-lookup"><span data-stu-id="82e3b-106">The billing cycle start and end dates for each invoice are listed in the **Billing Summary** of the invoice.</span></span>
+
+<span data-ttu-id="82e3b-107">Betalinger på kreditkort- og/eller bankkontobetalinger (hvis relevant) udlignes dagen efter **fakturadatoen**.</span><span class="sxs-lookup"><span data-stu-id="82e3b-107">Credit card and/or bank account (where applicable) payments are settled the day after the **Invoice Date**.</span></span>
   
-<span data-ttu-id="095a5-107">Hvis du vil have mere at vide om faktureringskoncepter, skal du se [Forstå din faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="095a5-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="82e3b-108">Du kan få mere at vide [under Forstå din faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="82e3b-108">To learn more, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
