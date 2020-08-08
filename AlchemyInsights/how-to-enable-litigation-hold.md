@@ -1,5 +1,5 @@
 ---
-title: 976-how-to-enable-litigation-hold
+title: 976 – Sådan aktiverer du en retssag
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495802"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596741"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Placere en postkasse på juridisk tilbageholdelse
+# <a name="place-a-mailbox-on-legal-hold"></a>Ring til en postkasse i Legal-venteposition
 
-- Hvis du vil placere en postkasse på Retslig tilbageholdelse eller på plads, skal du have en Exchange Online Plan 2-licens til Exchange Online Plan 2 i Exchange [Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Hvis en postkasse er tildelt en Plan 1-licens, kan du tildele en separat Exchange Online-tilføjelsesprogramlicens [til Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Hvis du vil placere en postkasse i beholdende fald eller lokalt hold, skal du bruge en Exchange Online plan 2-licens til [Exchange Online plan 2-licens](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Hvis en postkasse er tildelt en plan 1-licens, kan du tildele en separat Exchange Online-tilføjelses tilføjelses licens til tilføjelsesprogram til Exchange Online [-arkivering.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
 
-- Følg [disse trin](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)for at aktivere Retslig tilbageholdelse for en enkelt bruger. Når Retslig tilbageholdelse er aktiveret, bevares alt indhold i postkassen.
+- [Følg disse trin](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)for at aktivere retssag-venteposition for en enkelt bruger. Når beholderen er aktiveret, bevares alt indhold i postkassen.
 
-- Hvis du vil bevare indhold i alle postkasser i organisationen, kan du bruge en [opbevaringspolitik for hele organisationen](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Bemærk, at nye brugere automatisk tildeles til politikken for opbevaringspolitikker for hele organisationen.
+- Hvis du vil bevare indhold i alle postkasser i organisationen eller oprette andre typer opbevarings ventepositioner, skal du bruge en opbevaringspolitik eller etiketter. Vær opmærksom på, at der automatisk tildeles nye brugere til politikken, hvis der er tale om globale opbevaringspolitikker. Du kan finde flere oplysninger i [få mere at vide om opbevaringspolitikker og etiketter til opbevaring](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
