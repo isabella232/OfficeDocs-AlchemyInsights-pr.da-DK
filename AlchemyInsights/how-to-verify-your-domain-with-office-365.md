@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509018"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634300"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="aaabb-102">Sådan bekræfter du dit domæne</span><span class="sxs-lookup"><span data-stu-id="aaabb-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="eb39d-102">Sådan bekræfter du dit domæne</span><span class="sxs-lookup"><span data-stu-id="eb39d-102">How to verify your domain</span></span>
 
-<span data-ttu-id="aaabb-103">Hvis du vil bekræfte dit domæne, skal du føje en TXT-post til domæneregistratoren for at bekræfte, at du ejer dit domæne.</span><span class="sxs-lookup"><span data-stu-id="aaabb-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="aaabb-104">Følg først [guiden Tilføj domæne](https://portal.office.com/adminportal/home#/Domains/Wizard) ved at klikke på **Setup** \> **Installationsdomæner**og derefter **på Tilføj domæne**.</span><span class="sxs-lookup"><span data-stu-id="aaabb-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
-  
-<span data-ttu-id="aaabb-105">Følg vejledningen i [Opret DNS-poster hos en DNS-udbyder](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for at tilføje en TXT-post for at bekræfte dit domæne.</span><span class="sxs-lookup"><span data-stu-id="aaabb-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="eb39d-103">Hvis du vil bekræfte et domæne, skal du følge [guiden Tilføj domæne](https://portal.office.com/adminportal/home#/Domains/Wizard)eller manuelt gå til **installations**  >  **domæner**  >  **Tilføj domæne**.</span><span class="sxs-lookup"><span data-stu-id="eb39d-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="aaabb-106">Hvis du har problemer med andre [domæner,](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)kan du prøve ofte stillede spørgsmål om domæner .</span><span class="sxs-lookup"><span data-stu-id="aaabb-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="eb39d-104">Hvis du vil have mere at vide om, hvordan du tilføjer en TXT-post for at bekræfte dit domæne, skal du se instruktionerne i [tilføje DNS-poster for at oprette forbindelse til dit domæne](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="eb39d-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="eb39d-105">Se [ofte stillede](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)spørgsmål om domæner for andre domæne spørgsmål.</span><span class="sxs-lookup"><span data-stu-id="eb39d-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
