@@ -1,7 +1,7 @@
 ---
-title: Hybrid og forenet søgning
-ms.author: v-todmc
-author: todmccoy
+title: Hybrid og sammenkædet søgning
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1570ab156ec9d2d973c270dc216985e6e2b5b0af
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768973"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787171"
 ---
-# <a name="hybrid-and-federated-searches"></a>Hybrid-og organisations søgninger 
+# <a name="hybrid-and-federated-searches"></a>Hybride og sammen kædede søgninger 
 
-Du finder oplysninger om hybrid søgning og organisations netværk i SharePoint Online under [hybrid søgning i SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+Du kan finde oplysninger om hybrid-og organisations søgning i SharePoint Online under [hybridsøgning i SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-Du finder oplysninger om planlægning af hybrid organisations søgning under [plan hybrid søgning efter SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+Hvis du vil have oplysninger om planlægning af hybridsøgning i organisationsnetværket, skal du se [plan lægge hybridsøgning i SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)
