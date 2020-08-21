@@ -1,5 +1,5 @@
 ---
-title: OneNote-tema fanger alle
+title: Indfange OneNote-tema
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: ee621d55537347d3bae836e2cf074b1ac0b8237a
+ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563576"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852882"
 ---
-# <a name="common-issues-and-resolutions-with-onenote"></a><span data-ttu-id="fa151-102">Almindelige problemer og løsninger med OneNote</span><span class="sxs-lookup"><span data-stu-id="fa151-102">Common issues and resolutions with OneNote</span></span>
+# <a name="common-issues-and-resolutions-with-onenote"></a><span data-ttu-id="40acf-102">Almindelige problemer og løsninger med OneNote</span><span class="sxs-lookup"><span data-stu-id="40acf-102">Common issues and resolutions with OneNote</span></span>
 
-<span data-ttu-id="fa151-103">Her er nogle ofte anmodede OneNote-emner:</span><span class="sxs-lookup"><span data-stu-id="fa151-103">Here are some frequently requested OneNote topics:</span></span>
+<span data-ttu-id="40acf-103">Her er nogle ofte anmodet om OneNote-emner:</span><span class="sxs-lookup"><span data-stu-id="40acf-103">Here are some frequently requested OneNote topics:</span></span>
 
-- <span data-ttu-id="fa151-104">[Løs synkroniseringsproblemer](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – hvis du vil løse de mest almindelige problemer i forbindelse med OneNote-synkronisering, skal du bruge trinnene i [Løs problemer, når du ikke kan synkronisere OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span><span class="sxs-lookup"><span data-stu-id="fa151-104">[Fix sync issues](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - to address most common issues related to OneNote sync, please use the steps in [Fix issues when you can't sync OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
+- <span data-ttu-id="40acf-104">[Løs synkroniseringsproblemer](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – for at løse de mest almindelige problemer, der er relateret til OneNote-synkronisering, skal du følge trinnene i [løse problemer, når du ikke kan synkronisere OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span><span class="sxs-lookup"><span data-stu-id="40acf-104">[Fix sync issues](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - to address most common issues related to OneNote sync, please use the steps in [Fix issues when you can't sync OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
 
-- <span data-ttu-id="fa151-105">Brug [OneNote i Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Bemærk:** I øjeblikket er OneNote i Teams skrivebeskyttet for lejere af erhvervs- og uddannelsesinstitutioner.</span><span class="sxs-lookup"><span data-stu-id="fa151-105">Use [OneNote in Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Note**: Currently, OneNote in Teams is read-only for commercial and education tenants.</span></span> <span data-ttu-id="fa151-106">Hvis du vil redigere, skal du bruge OneNote til internettet eller OneNote-skrivebordsappen.</span><span class="sxs-lookup"><span data-stu-id="fa151-106">To edit, please use OneNote for the web or the OneNote desktop app.</span></span>
+- <span data-ttu-id="40acf-105">Brug [OneNote i teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span><span class="sxs-lookup"><span data-stu-id="40acf-105">Use [OneNote in Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span></span> 
 
-- <span data-ttu-id="fa151-107">[Brug OneNote-klassenotesbog i Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) besvarer spørgsmål om opsætning af en klassenotesbog i Teams.</span><span class="sxs-lookup"><span data-stu-id="fa151-107">[Use OneNote Class Notebook in Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) answers questions about setting up a Class Notebook in Teams.</span></span>
+- <span data-ttu-id="40acf-106">[Brug OneNote-klassenotesbog i teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) besvarer spørgsmål om konfiguration af en klassenotesbog i teams.</span><span class="sxs-lookup"><span data-stu-id="40acf-106">[Use OneNote Class Notebook in Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) answers questions about setting up a Class Notebook in Teams.</span></span>
 
-- <span data-ttu-id="fa151-108">[Flyt notesbog til skyen](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span><span class="sxs-lookup"><span data-stu-id="fa151-108">[Move notebook to the cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span></span>
+- <span data-ttu-id="40acf-107">[Flyt notesbog til skyen](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span><span class="sxs-lookup"><span data-stu-id="40acf-107">[Move notebook to the cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span></span>
 
-- <span data-ttu-id="fa151-109">[Fejlfinding i forbindelse med flytning af notesbøger til skyen](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span><span class="sxs-lookup"><span data-stu-id="fa151-109">[Troubleshoot moving notebooks to the cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span></span>
+- <span data-ttu-id="40acf-108">[Fejlfinding i forbindelse med at flytte notesbøger til skyen](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span><span class="sxs-lookup"><span data-stu-id="40acf-108">[Troubleshoot moving notebooks to the cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span></span>
 
-- <span data-ttu-id="fa151-110">[Installer OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) – Fra og med marts 2020, når du installerer Office 365 eller Office 2019, installeres OneNote-skrivebordsappen sammen med Word-, PowerPoint- og Excel-skrivebordsapps.</span><span class="sxs-lookup"><span data-stu-id="fa151-110">[Install OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -  Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
+- <span data-ttu-id="40acf-109">[Installer onenote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) – starter i marts 2020, når du installerer Office 365 eller Office 2019, bliver OneNote-skrivebords programmet installeret sammen med Word, PowerPoint og Excel-skrivebordsprogrammer.</span><span class="sxs-lookup"><span data-stu-id="40acf-109">[Install OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -  Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
 
-- <span data-ttu-id="fa151-111">[Eksportere og importere OneNote-notesbøger](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span><span class="sxs-lookup"><span data-stu-id="fa151-111">[Export and import OneNote notebooks](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span></span>
+- <span data-ttu-id="40acf-110">[Eksportér og Importér OneNote-notesbøger](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span><span class="sxs-lookup"><span data-stu-id="40acf-110">[Export and import OneNote notebooks](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span></span>
