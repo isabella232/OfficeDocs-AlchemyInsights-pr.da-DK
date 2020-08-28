@@ -1,5 +1,5 @@
 ---
-title: Opret møde
+title: Planlæg et møde i teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 185024e40391b8a03d3cde5540eb1c18a950163c
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105341"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290049"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Planlægge et møde i teams
+# <a name="schedule-a-meeting-in-teams"></a>Planlæg et møde i teams
 
-**Vigtigt**: Hvis du har problemer med at oprette et møde eller ikke kan finde mødeindstillingen i Teams, skal du kontrollere, at berørte brugere [har licens til en Exchange Online-postkasse, og at postkassen er aktiveret](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
+**Vigtige** Hvis du har problemer med at oprette et møde eller ikke kan finde indstillingen møde i teams, skal du sikre dig, at de påvirkede brugere har en aktiveret Exchange-postkasse i en understøttet version af Microsoft teams. Når Exchange Online er anbefalet, understøttes Exchange-postkasser i det lokale miljø på Exchange Server 2016 CU3 eller nyere med OAuth, der er konfigureret mellem online og i det lokale miljø. Hvis du vil have mere at vide, skal du se [oprette brugerpostkasser i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) og [krav til postkasser, der er hostet i det lokale miljø](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
-Du kan planlægge et møde på to måder: 
+1. Du kan planlægge et møde ved at vælge:
 
-- Vælg ikonet **Planlæg et møde** i en chat (dette er under feltet Opret) for at booke et møde med personerne i chatten.
-- Vælg ikonet **Kalender** i venstre side af appen, og vælg enten **Nyt møde** øverst til højre, eller vælg et tidsinterval i kalenderen for at åbne en planlægningsformular.
+    - **Planlæg et møde** ikon i en chat under meddelelsesfeltet for at oprette et møde med personerne i chatten.
 
-På samme måde som planlægningen af et møde i Outlook giver du mødet en titel, inviterer personer og tilføjer mødeoplysninger.
+    - **Kalender** ikon i venstre side af appen. Du kan enten vælge **nyt møde** øverst til højre eller vælge et tidsinterval i din kalender for at åbne en planlægnings formular.
 
-I højre side af planlægningsformularen kan du tilføje en kanal eller individuelle personer eller lade begge være tomme for at planlægge en privat aftale.
+2. På samme måde som du planlægger et møde i Outlook, skal du give dit møde en titel, invitere personer og tilføje mødedetaljer.
 
-- Yderligere oplysninger om oprettelse og planlægning af møder i Microsoft Teams finder [du i Planlægge et møde i Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+3. I højre side af planlægnings formularen kan du tilføje en kanal eller enkelte personer eller lade begge være tomme for at planlægge en privat aftale.
 
-- Du kan finde grænser og specifikationer for møder under [Grænser og specifikationer for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Hvis du vil have mere at vide om at oprette og planlægge møder i Microsoft teams, skal du se [planlægge et møde i teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+Du kan finde flere oplysninger om begrænsninger og specifikationer for møder under [begrænsninger og specifikationer for Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+
+Hvis du vil have hjælp til at foretage fejlfinding af teams og Exchange interaktioner, især for problemer med planlægning af problemer, skal du se [fejlfinding af problemer med Microsoft teams](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
