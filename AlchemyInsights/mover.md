@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157547"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406320"
 ---
 # <a name="mover"></a>Mover
 
-oktober 2019 købte Microsoft **Mover**- en førende udbyder af overførsel af cloudfiler.
+Den 21. oktober 2019, Microsoft erhvervede  **flytte**maskine, en førende udbyder af skybaseret fil overførsel.
 
-Yderligere oplysninger om Mover henvises til følgende artikler:
+På nuværende tidspunkt [bedes du lede eventuelle supportanmodninger](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **her**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
 
-- [Vejledninger til overførsel af mover](https://mover.io/guides/)
-- [Ofte stillede spørgsmål om generel overførsel](https://mover.io/guides/general/)
-- [Mover-stik](https://mover.io/connectors/)
+Hvis du vil have mere at vide om mover, skal du henvise til følgende artikler:
 
-På nuværende tidspunkt **bedes du rette eventuelle supportanmodninger for at** [support@mover.io](mailto:support@mover.io) om hjælp til produktet. 
-
- 
+- [Overførsels vejledninger til flytte](https://mover.io/guides/)
+- [Ofte stillede spørgsmål om overførsel](https://mover.io/guides/general/)
