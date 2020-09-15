@@ -1,10 +1,11 @@
 ---
-title: Udvid din prøveversion til Microsoft 365 til virksomheder
+title: Forlæng din prøveversion af Microsoft 365 til virksomheder
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,23 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 458806ee36efdcab64d7544f0d3b7a7e7d753ee9
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: a98c3bc0290adb64a8f9ce18e2358f2f9386781e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063431"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708641"
 ---
-# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Udvid din prøveversion for Microsoft 365 til virksomheder
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Forlæng din prøveversion af Microsoft 365 til virksomheder
 
-Du kan forlænge din gratis prøveperiode med yderligere 30 dages periode. Efter at din retssag går ind i en 30-dages [afdragsfri periode](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Følg disse trin for at forlænge din prøveperiode:
+Du kan forlænge din gratis prøveperiode for én ekstra 30-dages periode. Efter at din prøveperiode går til en 30-dages [respitperiode](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Følg disse trin for at forlænge din prøveversion:
   
-1. Gå til siden Fakturering **af** produkter i \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
+1. I administration skal du gå til siden **Fakturering** \> **[af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Vælg det prøveabonnement, du vil forlænge.
 
-3. Klik på **Forlæng prøveversion,** og udfør trinnene i guiden.
+3. Klik på **Forlæng prøveperioden** , og fuldfør trinnene i guiden.
 
-4. Du skal angive kreditkortoplysninger for at forlænge prøveperioden. Vi debiterer ikke dit kreditkort for prøveperioden.
+4. Du skal angive kreditkortoplysninger for at udvide din prøveversion. Vi vil ikke opkræve dit kreditkort for prøveversionen.
 
-Hvis du vil have mere at vide om at forlænge din prøveversion eller for at få en trinvis vejledning, skal du se [Udvide prøveversionen af Office 365 til virksomheder](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+Hvis du vil have mere at vide om at udvide din prøveversion eller en trinvis vejledning, skal du se [udvide prøveversionen af Office 365 til virksomheder](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
