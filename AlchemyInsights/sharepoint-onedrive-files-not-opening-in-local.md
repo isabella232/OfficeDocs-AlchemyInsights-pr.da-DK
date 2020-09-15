@@ -5,29 +5,30 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 42435d6970a71b57f16188ce6c92b0471e7121f3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051311"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670898"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problemer med at åbne Office-filer fra SharePoint
 
-Hvis du har problemer med at åbne Office-filer og dokumenter fra SharePoint i dine lokale Office-klienter, skal du gennemse linkene nedenfor. 
+Hvis du har problemer med at åbne Office-filer og dokumenter fra SharePoint i dine lokale Office-klienter, skal du se nedenstående links. 
 
-- [Kontroller filbegrænsningerne for at sikre, at filen understøttes](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- [Kontrollér begrænsninger for filer for at sikre, at filen understøttes](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
-- [Slet Office-dokument cachen](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).
+- [Slet din Office-dokument cache](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).
 
-- [Kør en reparation på kontoret](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Kør en reparation på Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-For mere information eller detaljer henvises til artiklen, [løse problemer med at åbne dokumenter i SharePoint-biblioteker](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
+Du kan få mere at vide om eller flere oplysninger ved at henvise til artiklen, [løse problemer med at åbne dokumenter i SharePoint-biblioteker](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Bemærk:** Hvis du har problemer med dokumenter, der åbnes i browseren eller klienten som standard, skal du muligvis ændre Biblioteks indstillingen. For at gøre dette skal du navigere til biblioteket med problemer > tandhjulsikonet i øverste højre hjørne > **Biblioteksindstillinger** >  **Avancerede indstillinger** > **åbne dokumenter i browseren**.
+**Bemærk:** Hvis du har problemer med dokumenter, der er åbnet i browseren eller klienten som standard, skal du muligvis ændre indstillingen for biblioteket. Hvis du vil gøre dette, skal du gå til det bibliotek, der indeholder problemer, > gear-ikon i øverste højre hjørne > **Indstillinger for bibliotek**  >   ,**Avancerede indstillinger**for  >  **at åbne dokumenter i browseren**.
 
