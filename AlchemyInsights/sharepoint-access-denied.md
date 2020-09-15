@@ -1,41 +1,42 @@
 ---
-title: Fejlfinding i forbindelse med meddelelser om adgang nægtet
+title: Foretag fejlfinding af meddelelser om nægtet adgang
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510494"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691677"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Fejlfinding i forbindelse med meddelelser om adgang nægtet
+# <a name="troubleshoot-access-denied-messages"></a>Foretag fejlfinding af meddelelser om nægtet adgang
 
-Hvis du modtager en meddelelse om adgang, der nægtes, når du forsøger at gennemse et Sharepoint Online-websted, skal du se nedenstående artikler.
+Hvis du modtager en meddelelse om adgang nægtet, når du forsøger at gennemse et SharePoint Online-websted, skal du se nedenstående artikler.
 
-**Tilføj og giv brugeren licens**
+**Tilføje og licensere brugeren**
 
-Sørg for, at du [tildeler licenser til brugere i Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Kontrollér, at du [tildeler licenser til brugere i Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
-**Tildele tilladelser**
+**Tildel tilladelser**
 
-Hvis brugeren har fået tildelt en Sharepoint-licens og stadig modtager en meddelelse, der ikke er blevet afvist, skal du sikre dig, at brugeren har tildelt det [relevante tilladelsesniveau](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Hvis brugeren har fået tildelt en SharePoint-licens, og du stadig modtager en meddelelse om adgang nægtet, skal du sørge for, at de har de [relevante tilladelsesniveauer tildelt](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-**Overvej at bruge adgangsanmodningsfunktionen**
+**Overvej at bruge funktionen anmodning om adgang**
 
-[Adgangsanmodningsfunktionen](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) giver folk mulighed for at anmode om adgang til indhold, som de ikke har tilladelse til at se i øjeblikket. 
+[Adgangs anmodnings](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funktionen gør det muligt for personer at anmode om adgang til indhold, som de ikke aktuelt har tilladelse til at se. 
 
-**Tillad brugerdefineret script kan forårsage adgang nægtet problemer**
+**Tillad, at brugerdefineret script muligvis får adgang til at nægte problemer**
 
-Der er visse scenarier, hvor funktionen "Tillad brugerdefineret script" kan vise en adgang nægtet. For en liste over berørte funktioner, sikkerhedsovervejelser og evnen til at deaktivere funktionen. Besøg , [Tillad eller forbyd brugerdefineret script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Der er visse scenarier, hvor funktionen "Tillad brugerdefineret script" muligvis har adgang til at få adgang til at blive nægtet. Hvis du vil have en liste over funktioner, der er påvirket, sikkerhedsovervejelser og muligheden for at deaktivere funktionen. Besøg, [Tillad eller Forbyd brugerdefineret script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Bemærk: Hvis et OneDrive- eller SharePoint-websted ikke er tilgængeligt for flere brugere, der tidligere havde adgang, kan der være et midlertidigt tjenesteproblem. [Tjek dashboardet for tjenestetilstand](https://portal.office.com/adminportal/home#/servicehealth).
+Bemærk! Hvis et OneDrive-eller SharePoint-websted ikke er tilgængeligt for flere brugere, der tidligere har haft adgang, kan der være et midlertidigt tjeneste problem. [Se dashboardet for tjenestetilstand](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   
