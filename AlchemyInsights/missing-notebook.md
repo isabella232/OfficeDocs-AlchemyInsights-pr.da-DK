@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8556f2a7398792d39e82b554435649ba69fa59e5
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800276"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667152"
 ---
-# <a name="recover-missing-notebook"></a>Gendanne manglende notesbog
+# <a name="recover-missing-notebook"></a>Gendan manglende notesbog
 
-Hvis den bærbare pc på OneDrive blev slettet ved en fejltagelse, kan du gendanne det ved at følge trinnene i [gendanne slettede filer eller mapper i OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Hvis notesbogen på OneDrive er blevet slettet ved et uheld, kan du gendanne den ved at følge trinnene i [Gendan slettede filer eller mapper i OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Du kan gendanne notesbog på en slettet OneDrive inden for 30 dage som standard ved følgende trin i at [gendanne en slettet OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Du kan som standard gendanne notesbogen på et slettet OneDrive inden for 30 dage ved at følge trinnene i [gendanne et slettet onedrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote bruger muligvis en anden konto end forventet. Hvis du har en konto for forudsat skole eller arbejde ud over dine personlige Microsoft-konto, skal du tilføje din anden konto for at få vist alle notesbøger (der henvises til vejledning i at [Tilføje kontoen i OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+OneNote bruger muligvis en anden konto end forventet. Hvis du har en arbejds-eller skolekonto, ud over din personlige Microsoft-konto, skal du tilføje din anden konto for at få vist alle dine notesbøger (Se vejledningen om, hvordan du [tilføjer en konto i OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).

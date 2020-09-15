@@ -1,25 +1,26 @@
 ---
-title: Dit Apple MDM Push-certifikat er udløbet
+title: Dit Apple MDM-push-certifikat er udløbet
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 6d0b262e877487ed827496ca2a6e9e58a20a8422
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45141350"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668809"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Dit Apple MDM Push-certifikat er udløbet
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Dit Apple MDM-push-certifikat er udløbet
 
-Apple MDM Push-certifikatet er gyldigt i et år, og skal fornys årligt for at bevare iOS- og macOS-enhedsstyring. Hvis dit certifikat udløber, kan tilmeldte Apple-enheder ikke kontaktes, og nye enheder kan ikke tilmeldes.
+Apple MDM Push-certifikatet er gyldigt i et år, og skal fornys årligt for at bevare iOS- og macOS-enhedsstyring. Hvis dit certifikat udløber, kan registrerbare Apple-enheder ikke kontaktes, og nye enheder kan ikke tilmeldes.
 
-Du kan finde trin til fornyelse af dit Apple MDM Push-certifikat under [Forny Apple MDM-pushcertifikat .](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)
+Hvis du vil have trin til at forny dit Apple MDM-push-certifikat, skal du se [forny Apple MDM push-certifikatet](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
