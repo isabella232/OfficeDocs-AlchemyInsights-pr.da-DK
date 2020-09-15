@@ -1,11 +1,12 @@
 ---
-title: Adgangskoder til 500 apps
+title: adgangskoder til 500-appen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707833"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717031"
 ---
-# <a name="app-passwords"></a>Appadgangskoder
+# <a name="app-passwords"></a>App-adgangskoder
 
-En appadgangskode er en kode, der giver en app eller enhed tilladelse til at få adgang til din Microsoft-arbejds- eller skolekonto. Hvis din konto kræver multifaktorgodkendelse, og appen opretter forbindelse til din konto, skal du generere en appadgangskode, så appen kan oprette forbindelse til Microsoft. Outlook 2016 og tidligere versioner Outlook kræver f.eks.
+En appadgangskode er en kode, som giver en app eller enhed tilladelse til at få adgang til din Microsoft-arbejds-eller skolekonto. Hvis din konto kræver multi-Factor Authentication (MFA), og appen opretter forbindelse til din konto, skal du oprette en appadgangskode, så appen kan oprette forbindelse til Microsoft. Outlook 2016 og tidligere versioner af Outlook til at kræve en appadgangskode.
 
- **Bemærk:** Før du prøver følgende trin, skal du kontrollere med din Microsoft 365-administrator, at der kræves mfa til din konto. Hvis det ikke er tilfældet, vil de indstillinger, der er beskrevet i trinnene, ikke være tilgængelige for dig.
+ **Bemærk**! før du prøver følgende trin, skal du kontrollere, om der er en MFA, der er påkrævet for din konto i din Microsoft 365-administrator. Hvis det ikke er tilfældet, vil de indstillinger, der er beskrevet i trinnene, være tilgængelige for dig.
 
-1. Log på med din arbejds- eller skolekonto og din adgangskode.
+1. Log på med din arbejds-eller skolekonto og din adgangskode.
 
-2. Vælg **Konfigurer den nu**.
+2. Vælg **Konfigurer det nu**.
 
-3. Vælg godkendelsesmetoden, og følg instruktionerne.
+3. Vælg din godkendelsesmetode, og følg vejledningen.
 
-4. Når du har bekræftet din alternative kontaktmetode, skal du vælge **Næste**.
+4. Når du har bekræftet din alternative kontaktmetode, skal du vælge **næste**.
 
-5. Du får en appadgangskode, som du kan bruge sammen med Outlook, Apple Mail og andre apps, der kræver det. Vælg **Kopiér** for at kopiere adgangskoden, så du kan indsætte den et andet sted (du behøver ikke at huske den).
+5. Du får en app-adgangskode, som du kan bruge med Outlook, Apple mail og andre apps, der kræver det. Vælg **Kopiér** for at kopiere adgangskoden, så du kan indsætte den et andet sted (du behøver ikke at memorize den).
