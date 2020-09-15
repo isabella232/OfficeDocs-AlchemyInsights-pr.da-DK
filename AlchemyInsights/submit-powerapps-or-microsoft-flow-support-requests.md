@@ -1,10 +1,11 @@
 ---
-title: Send supportanmodninger til PowerApps eller Microsoft Flow
+title: Send anmodninger om PowerApps eller Microsoft flow support
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36559475"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653435"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Send supportanmodninger til PowerApps eller Microsoft Flow
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Send anmodninger om PowerApps eller Microsoft flow support
 
-Hvis du er **PowerApps** eller **Microsoft Flow-kunde,** skal du indsende din billet via den nye [Power-platform Administration](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Den nye portal giver en mere direkte vej til assisteret support, der er optimeret til PowerApps og andre Power-platformprodukter.
+Hvis du er en **PowerApps** eller **Microsoft-flow** kunde, bedes du indsende din billet via den nye [Power-platform administrations Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Den nye portal giver en mere direkte sti til assisteret support, der er optimeret til PowerApps og andre strøm platforms produkter.
 
-[Send microsoft Flow-supportanmodning](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Send anmodning om Microsoft flow support](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
