@@ -4,38 +4,39 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 22703dba5865cdac6c9df3e8c7ab2eeec44968cb
-ms.sourcegitcommit: 1361b2b37fd0201502a1a3547084961de284a3fc
+ms.openlocfilehash: 2bda15b7ebe4f3b71669b961a6e5bf36fd6260a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616820"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673780"
 ---
-# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="08588-102">Synkronisere en brugers profilbillede</span><span class="sxs-lookup"><span data-stu-id="08588-102">Sync a user's profile picture</span></span>
+# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="1e8a0-102">Synkronisere en brugers profilbillede</span><span class="sxs-lookup"><span data-stu-id="1e8a0-102">Sync a user's profile picture</span></span>
 
-<span data-ttu-id="08588-103">Du kan tilføje eller ændre dit profilbillede i Microsoft 365 fra Office.com, eller når du bruger Microsoft-programmer på din computer eller i en browser på din telefon.</span><span class="sxs-lookup"><span data-stu-id="08588-103">You can add or change your profile photo in Microsoft 365 from Office.com, or while using Microsoft applications on your computer or in a browser on your phone.</span></span> <span data-ttu-id="08588-104">Dit billede vises overalt, hvor der er en profilfoto cirkel i Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="08588-104">Your photo appears everywhere there's a profile photo circle in Microsoft 365.</span></span>
+<span data-ttu-id="1e8a0-103">Du kan tilføje eller ændre dit profilbillede i Microsoft 365 fra Office.com, eller når du bruger Microsoft-programmer på din computer eller i en browser på din telefon.</span><span class="sxs-lookup"><span data-stu-id="1e8a0-103">You can add or change your profile photo in Microsoft 365 from Office.com, or while using Microsoft applications on your computer or in a browser on your phone.</span></span> <span data-ttu-id="1e8a0-104">Dit billede vises overalt, hvor der er en profilfoto cirkel i Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="1e8a0-104">Your photo appears everywhere there's a profile photo circle in Microsoft 365.</span></span>
 
-<span data-ttu-id="08588-105">Sådan føjer du dit profilfoto til Microsoft 365 til virksomheder:</span><span class="sxs-lookup"><span data-stu-id="08588-105">To add your profile photo to Microsoft 365 for business:</span></span>
+<span data-ttu-id="1e8a0-105">Sådan føjer du dit profilfoto til Microsoft 365 til virksomheder:</span><span class="sxs-lookup"><span data-stu-id="1e8a0-105">To add your profile photo to Microsoft 365 for business:</span></span>
 
-1. <span data-ttu-id="08588-106">Find et billede, du vil bruge, og Gem det på din computer, OneDrive eller et andet sted, du kan få adgang til.</span><span class="sxs-lookup"><span data-stu-id="08588-106">Find a photo you want to use and store it on your computer, OneDrive, or other location you can get to.</span></span>
+1. <span data-ttu-id="1e8a0-106">Find et billede, du vil bruge, og Gem det på din computer, OneDrive eller et andet sted, du kan få adgang til.</span><span class="sxs-lookup"><span data-stu-id="1e8a0-106">Find a photo you want to use and store it on your computer, OneDrive, or other location you can get to.</span></span>
 
-2. <span data-ttu-id="08588-107">Log på Microsoft 365 med din arbejds-eller skolekonto på [Office.com](https://www.office.com).</span><span class="sxs-lookup"><span data-stu-id="08588-107">Sign into Microsoft 365 with your work or school account at [office.com](https://www.office.com).</span></span>
+2. <span data-ttu-id="1e8a0-107">Log på Microsoft 365 med din arbejds-eller skolekonto på [Office.com](https://www.office.com).</span><span class="sxs-lookup"><span data-stu-id="1e8a0-107">Sign into Microsoft 365 with your work or school account at [office.com](https://www.office.com).</span></span>
 
-3. <span data-ttu-id="08588-108">Markér cirklen i øverste højre hjørne af siden, der viser dine initialer eller et ikon for en person.</span><span class="sxs-lookup"><span data-stu-id="08588-108">Select the circle in the upper right-hand corner of the page that shows your initials or an icon of a person.</span></span>
+3. <span data-ttu-id="1e8a0-108">Markér cirklen i øverste højre hjørne af siden, der viser dine initialer eller et ikon for en person.</span><span class="sxs-lookup"><span data-stu-id="1e8a0-108">Select the circle in the upper right-hand corner of the page that shows your initials or an icon of a person.</span></span>
 
-4. <span data-ttu-id="08588-109">I ruden mine konti skal du markere cirklen, der viser dine initialer eller et ikon for en person.</span><span class="sxs-lookup"><span data-stu-id="08588-109">In the My accounts pane, select the circle that shows your initials or an icon of a person.</span></span> <span data-ttu-id="08588-110">Skift dit billede i pop op-vinduet, der vises.</span><span class="sxs-lookup"><span data-stu-id="08588-110">Change your photo in the pop-up that appears.</span></span>
+4. <span data-ttu-id="1e8a0-109">I ruden mine konti skal du markere cirklen, der viser dine initialer eller et ikon for en person.</span><span class="sxs-lookup"><span data-stu-id="1e8a0-109">In the My accounts pane, select the circle that shows your initials or an icon of a person.</span></span> <span data-ttu-id="1e8a0-110">Skift dit billede i pop op-vinduet, der vises.</span><span class="sxs-lookup"><span data-stu-id="1e8a0-110">Change your photo in the pop-up that appears.</span></span>
 
-<span data-ttu-id="08588-111">**Bemærk!** Hvis du allerede har overført et billede, kan det være en god ide at vælge feltet SharePoint-eller OneDrive-felt for at synkronisere billedet igen.</span><span class="sxs-lookup"><span data-stu-id="08588-111">**Note** If you already uploaded a picture, you might want to try selecting the SharePoint or OneDrive tile to re-sync that picture.</span></span>
+<span data-ttu-id="1e8a0-111">**Bemærk!** Hvis du allerede har overført et billede, kan det være en god ide at vælge feltet SharePoint-eller OneDrive-felt for at synkronisere billedet igen.</span><span class="sxs-lookup"><span data-stu-id="1e8a0-111">**Note** If you already uploaded a picture, you might want to try selecting the SharePoint or OneDrive tile to re-sync that picture.</span></span>
 
-<span data-ttu-id="08588-112">Hvis et brugerprofilbillede ser anderledes ud i SharePoint sammenlignet med andre Microsoft-programmer, skal du have brugeren til at udføre disse trin:</span><span class="sxs-lookup"><span data-stu-id="08588-112">If a users profile picture appears different in SharePoint compared to other Microsoft applications, have the user complete these steps:</span></span>
+<span data-ttu-id="1e8a0-112">Hvis et brugerprofilbillede ser anderledes ud i SharePoint sammenlignet med andre Microsoft-programmer, skal du have brugeren til at udføre disse trin:</span><span class="sxs-lookup"><span data-stu-id="1e8a0-112">If a users profile picture appears different in SharePoint compared to other Microsoft applications, have the user complete these steps:</span></span>
 
-1. <span data-ttu-id="08588-113">Åbn en privat browsersession (InPrivate/Incognito).</span><span class="sxs-lookup"><span data-stu-id="08588-113">Open a private (InPrivate/incognito) browser session.</span></span>
-2. <span data-ttu-id="08588-114">Gå til [https://www.office.com](https://www.office.com/) .</span><span class="sxs-lookup"><span data-stu-id="08588-114">Go to [https://www.office.com](https://www.office.com/).</span></span>
-3. <span data-ttu-id="08588-115">Vælg SharePoint-ikonet.</span><span class="sxs-lookup"><span data-stu-id="08588-115">Select the SharePoint icon.</span></span>
-4. <span data-ttu-id="08588-116">Gå til et websted eller en side, hvor billedet ikke er opdateret, eller en side, hvor brugeren er inkluderet i en webdel med personer.</span><span class="sxs-lookup"><span data-stu-id="08588-116">Browse to a site or page where the photo is not updated, or a page where the user is included in a People Web Part.</span></span>
+1. <span data-ttu-id="1e8a0-113">Åbn en privat browsersession (InPrivate/Incognito).</span><span class="sxs-lookup"><span data-stu-id="1e8a0-113">Open a private (InPrivate/incognito) browser session.</span></span>
+2. <span data-ttu-id="1e8a0-114">Gå til [https://www.office.com](https://www.office.com/) .</span><span class="sxs-lookup"><span data-stu-id="1e8a0-114">Go to [https://www.office.com](https://www.office.com/).</span></span>
+3. <span data-ttu-id="1e8a0-115">Vælg SharePoint-ikonet.</span><span class="sxs-lookup"><span data-stu-id="1e8a0-115">Select the SharePoint icon.</span></span>
+4. <span data-ttu-id="1e8a0-116">Gå til et websted eller en side, hvor billedet ikke er opdateret, eller en side, hvor brugeren er inkluderet i en webdel med personer.</span><span class="sxs-lookup"><span data-stu-id="1e8a0-116">Browse to a site or page where the photo is not updated, or a page where the user is included in a People Web Part.</span></span>
 
-<span data-ttu-id="08588-117">Hvis du vil have mere at vide, skal du se [oplysninger om synkronisering af profilbilleder i Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).</span><span class="sxs-lookup"><span data-stu-id="08588-117">For more information, see [Information about profile picture synchronization in Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).</span></span>
+<span data-ttu-id="1e8a0-117">Hvis du vil have mere at vide, skal du se [oplysninger om synkronisering af profilbilleder i Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).</span><span class="sxs-lookup"><span data-stu-id="1e8a0-117">For more information, see [Information about profile picture synchronization in Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).</span></span>
 
