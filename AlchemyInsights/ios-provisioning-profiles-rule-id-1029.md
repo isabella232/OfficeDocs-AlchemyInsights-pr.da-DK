@@ -1,26 +1,27 @@
 ---
-title: iOS-klargøringsprofiler Regel-id 1029
+title: iOS provisions profiler regel-id 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 07f98f96958e4897a3e14cef424cb0d7bd491dcc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765911"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695787"
 ---
-# <a name="ios-provisioning-profiles"></a>iOS-klargøringsprofiler
+# <a name="ios-provisioning-profiles"></a>provisions profilerne til iOS
 
-Apple iOS-branche bruger begrebet klargøringsprofil, som bruges til at validere programmets integritet og håndhæve politikker, der er defineret i profilen. Disse klargøringsprofiler udløber efter 12 måneder, og derfor skal der knyttes en ny profil til den installerede app, for at appsene fortsat kan køre.
+Apple iOS line of Business anvender konceptet med en provisions profil, der bruges til at bekræfte programmets integritet og gennemtvinge politikker, der er defineret i profilen. Disse provisions profiler udløber efter 12 måneder, og en ny profil skal være knyttet til den installerede app, for at appsene kan fortsætte med at køre.
   
-Følgende artikel beskriver, hvordan du opretter en ny klargøringsprofil med en iOS LOB-app, der er installeret via Intune: [Brug iOS-appklargøringsprofiler for at forhindre, at dine apps udløber](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+I følgende artikel beskrives det, hvordan du opretter Tilknyt en ny provisions profil med en iOS-LOB-app, der er installeret via Intune: [Brug provisions profilerne til iOS-appen for at forhindre dine apps i at udløbe](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   
