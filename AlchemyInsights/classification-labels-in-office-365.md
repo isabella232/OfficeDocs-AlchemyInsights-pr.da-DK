@@ -1,21 +1,22 @@
 ---
-title: Klassificeringsetiketter
+title: Klassificerings navne
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: 3d4ebee3a7aca37b3de14c8f4acd51f33881b55f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b81f2915a3b8674dcbe30b735fc10858956ba94e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505933"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681470"
 ---
-# <a name="classification-labels"></a><span data-ttu-id="b1ac0-102">Klassificeringsetiketter</span><span class="sxs-lookup"><span data-stu-id="b1ac0-102">Classification labels</span></span>
+# <a name="classification-labels"></a><span data-ttu-id="8b396-102">Klassificerings navne</span><span class="sxs-lookup"><span data-stu-id="8b396-102">Classification labels</span></span>
 
-<span data-ttu-id="b1ac0-103">Med følsomheds- eller klassificeringsetiketter kan du klassificere og hjælpe med at beskytte dit følsomme indhold, samtidig med at du sikrer dig, at dine medarbejderes produktivitet og evne til at samarbejde ikke hindres.</span><span class="sxs-lookup"><span data-stu-id="b1ac0-103">With sensitivity or classification labels, you can classify and help protect your sensitive content, while making sure that your people's productivity and ability to collaborate isn't hindered.</span></span>
+<span data-ttu-id="8b396-103">Med følsomhed eller klassificerings navne kan du klassificere og hjælpe med at beskytte dit følsomme indhold, mens du sikrer, at din persons produktivitet og evne til at samarbejde ikke hæmmes.</span><span class="sxs-lookup"><span data-stu-id="8b396-103">With sensitivity or classification labels, you can classify and help protect your sensitive content, while making sure that your people's productivity and ability to collaborate isn't hindered.</span></span>
 
-<span data-ttu-id="b1ac0-104">Du kan finde flere oplysninger i følgende [artikel](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).</span><span class="sxs-lookup"><span data-stu-id="b1ac0-104">For more information please review the following [article](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).</span></span>
+<span data-ttu-id="8b396-104">Du kan få mere at vide ved at læse følgende [artikel](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).</span><span class="sxs-lookup"><span data-stu-id="8b396-104">For more information please review the following [article](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).</span></span>
