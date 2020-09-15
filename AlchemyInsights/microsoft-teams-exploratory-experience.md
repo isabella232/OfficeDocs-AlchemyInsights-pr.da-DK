@@ -1,27 +1,28 @@
 ---
-title: Sonderende oplevelse af Microsoft Teams
+title: Microsoft teams-oplevelse
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612341"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674932"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Sonderende oplevelse af Microsoft Teams
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft teams-oplevelse
 
-Microsoft Teams-sonderende oplevelse giver brugere i din organisation, der har Azure Active Directory (AAD), og som ikke har licens til Teams, mulighed for at starte en sonderende oplevelse af Teams. Administratorer kan slå denne funktion til eller fra for brugere i deres organisation. (Den tidligere Microsoft Commercial Cloud Trial hedder nu The Teams Exploratory Experience.)
+Microsoft teams-oplevelsen kan bruges i din organisation, som har Azure Active Directory (AAD), og som ikke har licens til teams, der starter en forsøgs oplevelse af teams. Administratorer kan slå denne funktion til eller fra for brugere i deres organisation. (Den tidligere prøveversion af Microsoft Commercial-skyen hedder nu de hold, der udledes).
 
-Microsoft Teams-oplevelsen er tilgængelig uden ekstra omkostninger, før din næste virksomhedsaftale er årsdag eller fornyelse den næste virksomhedsaftale den næste virksomhedsaftale, eller som er blevet fornyet den næste virksomhed 2021. På det tidspunkt skal slutbrugere på en Microsoft Exploratory experience-licens flytte til en betalt licens, der omfatter Teams.
+Microsoft teams erfarings oplevelsen er tilgængelig uden yderligere omkostninger før din næste jubilæum eller fornyelse for din virksomheds aftale, eller den 2021. På det tidspunkt skal slutbrugeren af en licens til Microsoft-forsøgs licens flytte til en betalt licens, der omfatter teams.
 
-Yderligere oplysninger finder du [i Managing the Microsoft Teams Exploratory license](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+Hvis du vil have mere at vide, skal du se [administrere licensen til Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
