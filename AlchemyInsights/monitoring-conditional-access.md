@@ -5,36 +5,37 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6083fc427e3791fdb0907198b525337a0c987c4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713712"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702897"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Overvågning af betinget adgang til Exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>Overvågning af betinget adgang for Exchange
 
-Brugere, der er målrettet mod betinget adgang, modtager en e-mail med en meddelelse, hvis de ikke opfylder organisationens adgangskrav. Vi anbefaler en eller flere af følgende løsninger for at løse problemet:
+Brugere, der er målrettet med betinget adgang, modtager en mailbesked, hvis de ikke opfylder din organisations adgangs krav. Vi anbefaler en eller flere af følgende løsninger for at løse problemet:
   
-- Hvis enheden formodes at være tilmeldt, skal du råde brugeren til at gå til appen Firmaportal og bekræfte, at den vises i virksomhedsportalen. Hvis det ikke er tilfældet, skal brugeren tilmelde enheden.
+- Hvis enheden anses for at være tilmeldt, skal du bede brugeren om at gå til appen Firmaportal og bekræfte, at den vises på Firmaportalen. Hvis det ikke er den, skal brugeren tilmelde enheden.
     
-- I Azure-portalen skal du gå til **Intune \> Device Compliance**. Klik på **Enhedsoverholdelse af enhed**under **Skærm** . Få vist rapporten om overholdelse af enheden for at kontrollere, at brugerens enhed er markeret som kompatibel. 
+- I Azure-portalen skal du gå til **Intune \> Device Compliance**. Klik på **enheds overholdelse**under **overvågning** . Se din enheds kompatibilitetsrapport for at bekræfte, at brugerens enhed er markeret som kompatibel. 
     
-- I Azure-portalen skal du gå til **Intune \> Device Compliance**. Klik på **Politikker**under **Administrer**. På listen over overholdelsespolitikker skal du kontrollere, at der er tildelt en profil til din brugers enhed. Hvis der ikke er tildelt en profil, kan Intune ikke bekræfte enhedens overholdelsesstatus. 
+- I Azure-portalen skal du gå til **Intune \> Device Compliance**. Under **Administrer**skal du klikke på **politikker**. På listen over overholdelsespolitikker skal du kontrollere, at der er tildelt en profil til din brugers enhed. Hvis der ikke er tildelt nogen profil, vil Intune ikke kunne bekræfte enhedens overholdelses status. 
     
-- Rediger brugerens tildeling med betinget adgang.
+- Redigere brugerens betingede adgangs tildeling.
     
-1. På Azure-portalen skal du gå til **Intune-politikker \> for \> betinget adgang**
+1. I Azure-portalen skal du gå til ** \> \> politikker for betinget adgang til Intune**
     
 2. Vælg en politik på listen
     
-3. Klik på **Brugere og grupper**
+3. Klik på **brugere og grupper**
     
-4. Hvis du vil målrette mod en bestemt politik mod en person, skal du føje dem til listen **Medtag.** Hvis du vil sikre, at en person udelades fra politikken, skal du føje vedkommende til listen **Udeluk.** 
+4. Hvis du vil målrette en bestemt politik til en anden, skal du føje dem til listen **Medtag** . Hvis du vil sikre dig, at en person udelades fra politikken, skal du føje dem til listen **Udelad** . 
     
-Læs mere: [Sådan overvåges Betingede Access-enheder](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Læs mere: [Sådan overvåges enheder med betinget adgang](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3041"
 - "9000588"
-ms.openlocfilehash: 8dcbd1f9284af80d6b0b896ed74a45999dbd27a2
-ms.sourcegitcommit: 8004ee243b5c68ff9532224a2e6c69dda0abbd0b
+ms.openlocfilehash: cdb839c13edac4df1da3208930dd6c8f6814897c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37441265"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703763"
 ---
 # <a name="how-to-prepare-a-mail-merge"></a>Sådan forberedes en brevfletning
 
-Hvis du ønsker oplysninger om brevfletning på forskellige platforme, skal du følge instruktionerne i [Brug brevfletning til masse-e-mails, breve, etiketter og konvolutter](https://support.office.com/article/use-mail-merge-for-bulk-email-letters-labels-and-envelopes-f488ed5b-b849-4c11-9cff-932c49474705).
+Hvis du vil have mere at vide om brevfletning på forskellige platforme, skal du følge instruktionerne i [Brug brevfletning til masse mail, bogstaver, etiketter og konvolutter](https://support.office.com/article/use-mail-merge-for-bulk-email-letters-labels-and-envelopes-f488ed5b-b849-4c11-9cff-932c49474705).
  
-Du finder flere oplysninger om brug af Excel til en brevfletning under [Forbered din Excel-datakilde til brevfletning](https://support.office.com/article/prepare-your-excel-data-source-for-a-word-mail-merge-2d802b6b-a3a3-43e5-bb76-2cac7c68673e) og brev [fletning ved hjælp af et Excel-regneark](https://support.office.com/article/Mail-merge-using-an-Excel-spreadsheet-858c7d7f-5cc0-4ba1-9a7b-0a948fa3d7d3).
+Hvis du vil have mere at vide om at bruge Excel til brevfletning, skal du se [forberede din Excel-datakilde til brevfletning](https://support.office.com/article/prepare-your-excel-data-source-for-a-word-mail-merge-2d802b6b-a3a3-43e5-bb76-2cac7c68673e) og [Brevfletning ved hjælp af et Excel-regneark](https://support.office.com/article/Mail-merge-using-an-Excel-spreadsheet-858c7d7f-5cc0-4ba1-9a7b-0a948fa3d7d3).
  
