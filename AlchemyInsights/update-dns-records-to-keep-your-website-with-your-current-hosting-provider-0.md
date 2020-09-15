@@ -1,10 +1,11 @@
 ---
-title: Opdatere DNS-poster for at holde dit websted hos din nuværende udbyder
+title: Opdater DNS-poster for at beholde dit websted hos din nuværende udbyder
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,37 +14,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2f2d4f7c093d62267bb859e96493ec6d09452c7e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665754"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699513"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Opdatere DNS-poster for at holde dit websted hos din nuværende udbyder
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Opdater DNS-poster for at beholde dit websted hos din nuværende udbyder
 
-1. I Microsoft 365 Administration skal **Setup**du gå til siden  >  [Installationsdomæner,](https://portal.office.com/adminportal/home#/Domains) og vælg det domæne, du bruger til dit websted, på listen over domæner.
+1. I Microsoft 365 administration skal du gå til siden **konfigurations**  >  [domæner](https://portal.office.com/adminportal/home#/Domains) og vælge det domæne, du vil bruge til dit websted, på listen over domæner.
 
-2. Vælg **+ Ny brugerdefineret post,** og angiv følgende:
+2. Vælg **+ ny brugerdefineret post** , og angiv følgende:
 
-  - For **DNS-type** enter: **A (Adresse)**
+  - For **DNS-type** skal du skrive: **A (adresse)**
 
-  - Skriv følgende under **Værtsnavn eller Alias:****@**
+  - For **værtsnavn eller alias**skal du skrive følgende: **@**
 
-  - For **IP-adresse**skal du skrive den statiske IP-adresse for dit websted, hvor det aktuelt er hostet (f.eks. 172.16.140.1).
+  - For **IP-adresse**skal du skrive den statiske IP-adresse på dit websted, hvor den er hostet (f. eks. 172.16.140.1).
 
-    Dette skal være en *statisk* IP-adresse til webstedet, ikke en *dynamisk* IP-adresse. Check med websted, hvor dit websted er hostet for at sikre, at du kan få en statisk IP-adresse til dit offentlige websted.
+    Det skal være en  *statisk*  IP-adresse for webstedet, ikke en  *dynamisk*  IP-adresse. Kontrollér med det websted, hvor dit websted er hosted, for at sikre, at du kan få en statisk IP-adresse til dit offentlige websted.
 
 3. Vælg **Gem**.
 
-Derudover kan du oprette en CNAME-post for at hjælpe kunderne med at finde dit websted.
+Derudover kan du oprette en CNAME-post for at hjælpe kunder med at finde dit websted.
   
-1. Vælg **+ Ny brugerdefineret post,** og angiv følgende:
+1. Vælg **+ ny brugerdefineret post** , og angiv følgende:
 
-  - For **DNS-type** skal du indtaste: **CNAME (Alias)**
+  - For **DNS-type** skal du skrive: **CNAME (alias)**
 
-  - Skriv følgende under **Værtsnavn eller Alias:** **www:**
+  - For **værtsnavn eller alias**skal du skrive følgende: **www**
 
-  - For **point til adresse**skal du skrive det fuldt kvalificerede domænenavn (FQDN) for dit websted (f.eks. contoso.com).
+  - For **Point to Address skal du**skrive det fulde domænenavn (FQDN) til dit websted (f. eks. contoso.com).
 
 2. Vælg **Gem**.

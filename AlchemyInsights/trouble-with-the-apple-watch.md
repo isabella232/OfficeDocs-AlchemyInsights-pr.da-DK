@@ -5,31 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: 131b21469e189c0db2d4c88a1f90cecffe1315f4
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288171"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700017"
 ---
 # <a name="trouble-with-the-apple-watch"></a>Problemer med Apple Watch
 
 Hvis du har problemer med at bruge Outlook på Apple Watch, er her nogle fejlfindingstrin: 
 
-1. Gå til appen Watch på iPhone.
+1. Gå til Watch-appen på iPhone.
 
-2. Rul til Outlook-appen.
+2. Rul ned til Outlook-appen.
 
-3. Slå "Vis app på Apple Watch" til **OFF** for at fjerne.
+3. Slå "Vis appen på Apple Watch" til eller **fra** for at fjerne.
 
-4. Slå "Vis app på Apple Watch" til **TIL** for at geninstallere på uret.
+4. Slå "Vis appen på Apple Watch **" til for at geninstallere** på uret.
 
-5. Start Outlook-appen på Apple Watch, og vent på, at data synkroniseres til nyeste. 
+5. Start Outlook-appen på Apple Watch, og vent på, at data synkroniseres til seneste. 
 
-Hvis dit problem ikke er løst, vil supportteamet med glæde hjælpe. Gå til **Indstillinger > Hjælp & Feedback > Kontaktsupport**. 
+Hvis dit problem ikke er blevet løst, vil support teamet være glade for at kunne hjælpe. Gå til **indstillinger > hjælp & Feedback > kontakt support**. 
