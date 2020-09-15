@@ -1,29 +1,30 @@
 ---
-title: Grundregel
+title: Basisregel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: f28ef015b6f8d890cf6d679a43c45720aedd9ab1
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549651"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686348"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Fejlfinding i forbindelse med problemer med MDM-myndighed i Microsoft Intune
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Fejlfinding af problemer med MDM-autoritet i Microsoft Intune
 
-Her er nogle nyttige artikler om, hvordan du kommer i gang med Intune:
+Her er nogle nyttige artikler om at komme i gang med Intune:
 
 - [Hvad er Intune?](https://docs.microsoft.com/intune/what-is-intune)
-- [Sådan konfigureres Intune første gang](https://docs.microsoft.com/intune/setup-steps)
-- [Brug og navigering i Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [Sådan konfigurerer du Intune for første gang](https://docs.microsoft.com/intune/setup-steps)
+- [Bruge og navigere i Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Hvis du har problemer med din MDM-myndighed, henvises til for at [ændre Intune MDM Authority](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Hvis du har problemer med din MDM-myndighed, kan du se, hvordan du [ændrer INTUNE MDM-autoritet](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).

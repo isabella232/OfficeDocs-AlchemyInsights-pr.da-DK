@@ -1,10 +1,11 @@
 ---
-title: Rullecyklus kreditkort
+title: Kreditkort med faktureringscyklus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,17 +13,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 1fbf68cf83567f2d6d9024f5a2d8d83e4e7198bc
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: ce3cd7b592966399b5e79a8916e631cafcbb49fe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417562"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685988"
 ---
-# <a name="payment-methods-for-microsoft-for-business"></a>Betalingsmetoder til Microsoft til virksomheder
+# <a name="payment-methods-for-microsoft-for-business"></a>Betalingsmetoder for Microsoft for Business
 
-Når du køber et Abonnement på Microsoft 365 til virksomheder direkte hos Microsoft, kan du betale med et kredit- eller debetkort. I nogle lande eller områder kan du også betale med en bankkonto.
+Når du køber et Microsoft 365 til virksomheder-abonnement direkte fra Microsoft, kan du betale med et kredit-eller debetkort. I nogle lande eller områder kan du også betale med en bankkonto.
   
 Hvis du vælger at bruge et kreditkort som betalingsmetode, kan du få mere at vide om, hvordan du administrerer og foretager fejlfinding fra [Administrer betalingsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
   
-Denne artikel indeholder også forslag til fejlfinding af, hvornår dit kreditkort afvises, og oplysninger om ændring af kreditkortoplysninger, så kortet accepteres.
+Denne artikel indeholder også forslag til fejlfinding for, hvornår dit kreditkort er blevet afvist, og oplysninger om ændring af kreditkortoplysninger, så kortet accepteres.

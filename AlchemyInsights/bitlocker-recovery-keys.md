@@ -1,32 +1,33 @@
 ---
-title: BitLocker-genoprettelsesnøgler
+title: BitLocker-genoprettelses nøgler
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908809"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685880"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Adgang til BitLocker-genoprettelsesnøgler
+# <a name="accessing-bitlocker-recovery-keys"></a>Få adgang til BitLocker-genoprettelses nøgler
 
-Når du konfigurerer BitLocker-indstillinger Intune Endpoint Protection Policy, er det muligt at definere, om BitLocker-genoprettelsesoplysninger skal lagres i Azure Active Directory.
+Når du konfigurerer BitLocker-indstillinger Intune Endpoint Protection-politik, er det muligt at angive, om BitLocker-genoprettelsesoplysninger skal gemmes i Azure Active Directory.
 
-Hvis denne indstilling er konfigureret, skal de lagrede genoprettelses data være synlige for en Intune-administrator som en del af enhedens postdata i Intune Devices blade på to måder:
+Hvis denne indstilling er konfigureret, skal de gemte genoprettelses data være synlige for en Intune-administrator som en del af enhedens postdata i Intune Devices blade på to måder:
 
-Enheder-Azure AD-enheder-> "enhed" eller enheder-> alle enheder-> "enhed"-> genoprettelsesnøgler
+Enheder-Azure AD-enheder – > "enhed" eller enheder-> alle enheder-> "enhed"-> genoprettelses nøgler
 
-Alternativt, selv om der er administrativ adgang hen til den indretning sig, den opsving nøglen (password) kan set af løb den næste befale af en ophøjet befale lynhurtig:
+Hvis der er administratoradgang til selve enheden, kan du se genoprettelsesnøglen (adgangskode) ved at køre følgende kommando fra en kommandoprompt med administratorrettigheder:
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Hvis enheden blev krypteret, før du tilmeldingen i Intune, kan genoprettelsesnøglen være knyttet til den "Microsoft-konto" (MSA), der bruges til at logge på enheden under OOBE-processen. Hvis det var tilfældet, skulle adgang https://onedrive.live.com/recoverykey til og login med denne MSA vise de enheder, for hvilke genoprettelsesnøgler blev gemt.
+Hvis enheden blev krypteret før enrolment i Intune, kan genoprettelsesnøglen være blevet knyttet til "Microsoft-kontoen" (MSA), der bruges til at logge på enheden under OOBE-processen. Hvis det var tilfældet, skal du få adgang til  https://onedrive.live.com/recoverykey og logge på med den pågældende MSA for at vise de enheder, som genoprettelses nøgler blev gemt for.
  
-Hvis enheden blev krypteret som et resultat af konfigurationen via en domænebaseret Gruppepolitik, kan genoprettelsesoplysningerne blive gemt i det lokale Active Directory.
+Hvis enheden blev krypteret som et resultat af konfigurationen via domænebaseret Gruppepolitik, bliver genoprettelses oplysningerne muligvis gemt i det lokale Active Directory.
  
 
