@@ -1,27 +1,28 @@
 ---
-title: Stop automatisk logon for at Outlook.com
+title: Stop automatisk logon til Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 6e3ff70bb9f059790b127fa9da3265fa593f1d53
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3a5703d3040c9bac6e611902e27400b9212f65be
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722334"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666396"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="9f93a-102">Sådan stopper du automatisk med at logge på</span><span class="sxs-lookup"><span data-stu-id="9f93a-102">How to stop signing in automatically</span></span>
+# <a name="how-to-stop-signing-in-automatically"></a><span data-ttu-id="59d6a-102">Sådan holder du op med at logge på automatisk</span><span class="sxs-lookup"><span data-stu-id="59d6a-102">How to stop signing in automatically</span></span>
 
-<span data-ttu-id="9f93a-103">Hvis du vil stoppe med at logge på Outlook.com automatisk, skal du fjerne markeringen i afkrydsningsfeltet For **Hold mig logget på** på den side, hvor du indtaster din adgangskode.</span><span class="sxs-lookup"><span data-stu-id="9f93a-103">To stop signing in to Outlook.com automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span>
+<span data-ttu-id="59d6a-103">Hvis du vil stoppe med at logge på Outlook.com automatisk, skal du fjerne markeringen i afkrydsningsfeltet for **Lad mig være logget** på den side, hvor du angiver din adgangskode.</span><span class="sxs-lookup"><span data-stu-id="59d6a-103">To stop signing in to Outlook.com automatically, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span>
   
-<span data-ttu-id="9f93a-104">Hvis du vil have mere at vide, skal du se [Sådan logger du på eller ikke Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="9f93a-104">To learn more, see [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="59d6a-104">Hvis du vil have mere at vide, skal du se [Sådan logger du på eller af Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="59d6a-104">To learn more, see [How to sign in to or out of Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
