@@ -1,11 +1,12 @@
 ---
-title: 620 Juster tidszone og sprogindstilling i Outlook på internettet
+title: 620 justere tidszone og sprogindstilling i Outlook på internettet
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 9099628059ab11b30b4f44395fd3764331e84732
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709365"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686776"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="da8ff-102">Justere tidszone- og sprogindstillinger i Outlook på internettet</span><span class="sxs-lookup"><span data-stu-id="da8ff-102">Adjust time zone and language settings in Outlook on the web</span></span>
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="fda42-102">Justere indstillinger for tidszone og sprog i Outlook på internettet</span><span class="sxs-lookup"><span data-stu-id="fda42-102">Adjust time zone and language settings in Outlook on the web</span></span>
 
-<span data-ttu-id="da8ff-103">Hvis du vil justere tidszonen og sprogindstillingerne i Outlook på internettet, som du får adgang til ved hjælp af din arbejds- eller skolekonto, skal du se [Ændre tidszone- og sprogindstillingerne i Outlook på internettet](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span><span class="sxs-lookup"><span data-stu-id="da8ff-103">To adjust the time zone and language settings in Outlook on the web, which you access using your work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
+<span data-ttu-id="fda42-103">Hvis du vil justere tidszone og sprogindstillinger i Outlook på internettet, som du har adgang til via din arbejds-eller skolekonto, skal du se [ændre tidszone og sprogindstillinger i Outlook på internettet](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span><span class="sxs-lookup"><span data-stu-id="fda42-103">To adjust the time zone and language settings in Outlook on the web, which you access using your work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
   
