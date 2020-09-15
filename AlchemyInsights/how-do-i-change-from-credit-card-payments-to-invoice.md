@@ -1,11 +1,12 @@
 ---
-title: Hvordan skifter jeg fra kreditkortbetalinger til faktura?
+title: Hvordan kan jeg ændre fra kreditkort betalinger til fakturering?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 9b9008dca74e6aa8e6a05010361359a078dbd590
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4004ce468accad778e52b61bbab7e6c5dd1b13dd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44498929"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704969"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hvordan skifter jeg fra kreditkortbetalinger til faktura?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hvordan kan jeg ændre fra kreditkort betalinger til fakturering?
 
 > [!NOTE]
-> Muligheden for at betale via faktura er kun tilgængelig, hvis dit abonnement koster over et bestemt beløb (som varierer efter serviceplacering). Der kan være behov for en kreditkontrol for større fakturabetalinger. Hvis du vil have mere at vide, skal du se [Betal for dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> Det er kun muligt at betale via faktura, hvis dit abonnement koster over et bestemt beløb (som varierer efter serviceplacering). Det kan være nødvendigt med en kreditkontrol for større faktura betalinger. Hvis du vil have mere at vide, skal du se [betale for dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
-1. Gå til siden Fakturering **Billing**  >  [af dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) i Administration.
+1. I administration skal du gå til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Find det abonnement, du vil ændre. Vælg **Rediger**ud for betalingsmetoden under **Fakturering**.
+2. Find det abonnement, du vil ændre. Under **Fakturering**skal du ud for betalingsmetoden vælge **Rediger**.
 
-3. Vælg **Skift**ud for din eksisterende betalingsmetode .
+3. Vælg **Rediger**ud for den eksisterende betalingsmetode.
 
-4. Vælg **Faktura eller bankoverførsel**i rullemenuen .
+4. Fra rullemenuen skal du vælge **faktura eller overførsel af bank**.
 
-5. Angiv dit navn, din adresse og dit telefonnummer. Du kan også tilføje et INDKØBSORDRE-nummer, der skal vises på fakturaen.
+5. Skriv dit navn, din adresse og dit telefonnummer. Du kan også tilføje et REKVISITIONsnummer, der skal vises på fakturaen.
 
-6. Når du er færdig, skal du vælge **Gem**.
+6. Vælg **Gem**, når du er færdig.
 
-7. Kontroller, at den valgte betalingsmetode er korrekt, og vælg derefter **Gem**.
+7. Kontrollér, at den valgte betalingsmetode er korrekt, og vælg derefter **Gem**.
 
-Hvis du vil have mere at vide, skal du se [Ændre din betalingsmetode](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Hvis du vil have mere at vide, skal du se [ændre din betalingsmetode](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
