@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: df1b3dfc471c6b7644e90d27b8079fc95e034375
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910232"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695931"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPadOS-opdateringer til politik for betinget adgang
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13 +/iPadOS opdateringer til politikker for betinget adgang
 
-Hvis du oplever problemer i forbindelse med betinget adgang på iPads, der er opgraderet til iPadOS (iOS 13 eller nyere), skal du gennemgå følgende artikel fra AAD-teamet vedrørende de ændringer, du eventuelt skal foretage for at sikre, at betinget adgang fortsat fungerer som Ønskede:
+Hvis du oplever problemer, der er relateret til betinget adgang på iPads, som er blevet opgraderet til iPadOS (iOS 13 eller nyere), skal du gennemgå følgende artikel fra AAD-teamet angående ændringer, som du muligvis skal sørge for at sikre, at betinget adgang fortsat fungerer efter behov:
 
-[Handling påkrævet: Evaluer og Opdater politikker for betinget adgang som forberedelse til iPadOS-udgivelse](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Handling påkrævet: Evaluer og Opdater politikker for betinget adgang i forberedelse til iPadOS Release](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

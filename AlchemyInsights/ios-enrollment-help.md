@@ -1,31 +1,32 @@
 ---
-title: hjælp til tilmelding til iOS
+title: hjælp til iOS-tilmelding
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: d2f1a6192f58d9225e533da676b2ba588d25d1bc
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654368"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695895"
 ---
-# <a name="ios-enrollment-help"></a>hjælp til tilmelding til iOS
+# <a name="ios-enrollment-help"></a>hjælp til iOS-tilmelding
 
-Vi har bemærket, at du måske har nogle problemer med iOS tilmelding. Her er nogle artikler, vi tror kunne hjælpe: 
+Vi har bemærket, at du kan have problemer med tilmelding til iOS. Her er nogle artikler, som vi mener kan hjælpe: 
 
-[Fælles iOS-registreringsfejl og-løsninger](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Almindelige fejl og løsninger til iOS-tilmelding](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
 [Kom godt i gang med Intune og iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
 [Generel fejlfinding af tilmelding](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Brug af fejlfindings portalen Intune til at diagnosticere og løse almindeligt forekommende registreringsfejl](https://docs.microsoft.com/intune/help-desk-operators)
+[Brug af Intune-fejlfindings portalen til at diagnosticere og løse almindelige tilmeldings fejl](https://docs.microsoft.com/intune/help-desk-operators)
