@@ -1,11 +1,12 @@
 ---
-title: 1490-fejlfinding-eDiscovery-fejl
+title: 1490 – fejlfinding – eDiscovery-fejl
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512548"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658944"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Fejlfinding i forbindelse med fejl i forbindelse med indholdssøgning
+# <a name="troubleshoot-content-search-errors"></a>Fejlfinding af indholds søgefejl
 
-Oplever du problemer med indholdssøgning eller fejl, når du eksporterer søgeresultater?
+Oplever du problemer med at søge efter indhold eller få fejl, når du eksporterer søgeresultater?
 
-Modtager du f.eks., når du kører søgninger?
+For eksempel modtager du følgende, når du kører søgninger?
 
-- CS008- eller CS012-fejl
+- CS008-eller CS012-fejl
 
-- Fejl i serverens optaget/timeout
+- Fejl på serveren er optaget/timeout
 
 - Der opstod en programfejl
 
-Eller når du søger eller eksporterer resultater fra et stort antal postkasser (over 100.000 postkasser), får du så eksportfejl?
+Eller når du søger efter eller eksporterer resultater fra et stort antal postkasser (over 100.000-postkasser), får du eksport fejl?
 
-I disse typer fejl skal du forsøge at søge efter de indholdsplaceringer, der mislykkedes. Se [denne artikel](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) for at få flere oplysninger.
+For disse fejltyper kan du prøve at søge efter de indholdssteder, der er mislykket. Du kan finde flere oplysninger i  [denne artikel](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .

@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 02809440344fc9cd9329d56b1c67dd0b47947c82
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5edd62e7de77cba6d05da9272521e82d3ff81dce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726134"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664704"
 ---
 # <a name="verify-your-domain-with-11-ionos"></a>Bekræft dit domæne med 1&1 IONOS
 
-Hvis du vil bekræfte dit domæne, skal du føje en TXT-post til din domæneregistrator for at bekræfte, at du ejer dit domæne. 
+Hvis du vil bekræfte dit domæne, skal du tilføje en TXT-post til din domæneregistrator for at bekræfte, at du ejer dit domæne. 
 
-Følg først [guiden Tilføj domæne](https://portal.office.com/adminportal/home#/Domains) ved at vælge **Domæner**for **indstillinger** \> og derefter **Tilføj domæne**.
+Først skal du følge [guiden Tilføj domæne](https://portal.office.com/adminportal/home#/Domains) ved at vælge **Indstillinger for** \> **domæner**og derefter **tilføje domæne**.
   
-Se [Oprette DNS-poster på 1&1 IONOS til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for at få en trinvis vejledning.
+Se [oprette DNS-poster på 1&1 IONOS til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for at få en trinvis vejledning.
