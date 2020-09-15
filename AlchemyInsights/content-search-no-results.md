@@ -1,29 +1,30 @@
 ---
-title: Indhold søgeresultater ikke
+title: Indholdssøgning uden resultater
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516773"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680641"
 ---
-# <a name="no-results-from-content-searchexports"></a>Ingen resultater fra indhold Søg/eksport
+# <a name="no-results-from-content-searchexports"></a>Ingen resultater fra indholdssøgning/eksport
 
-Problemer med indhold Søg/eksport ikke returnere data, kan skyldes, at visse overholdelse sikkerhedsfilter, der var opsætning ved en bestemt Admin og kommunikerer ikke til alle administratorer.
+Problemer med indholdssøgning/eksport, der ikke returnerer nogen data, kan skyldes et bestemt sikkerheds filter for overholdelse, der blev konfigureret af en bestemt administrator og ikke kommunikerer med alle administratorer.
 
-Du kan løse dette ved at kontrollere for at se, om der er nogen overensstemmelse sikkerhedsfiltre, som kan forårsage dette:
-1. Oprette forbindelse til sikkerhed og Overholdelsescenter Powershell
-2. Kør følgende cmdlet'er:
+Hvis du vil løse dette, skal du kontrollere, om der er nogen sikkerhedsfiltre overholdelse, der kan forårsage dette:
+1. Opret forbindelse til sikkerheds-og overholdelses Center PowerShell
+2. Kør følgende commandlets:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-organisation $org
+<br>Få ComplianceSecurityFilter-organisation $org

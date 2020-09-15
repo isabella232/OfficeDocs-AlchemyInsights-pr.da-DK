@@ -1,36 +1,37 @@
 ---
-title: Løs problemer med levering af mail til mailaktiverede offentlige mapper
+title: Løs problemer med levering af mail til offentlige mapper, der er aktiveret til mail
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: da35ae4bd911fb75f23cc1c99aacbaa2392425dd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716346"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677922"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Løs problemer med levering af mail til mailaktiverede offentlige mapper
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Løs problemer med levering af mail til offentlige mapper, der er aktiveret til mail
 
-Hvis eksterne afsendere ikke kan sende meddelelser til dine e-mail-aktiverede offentlige mapper, og afsenderne får vist fejlen: **Blev ikke fundet (550 5.4.1),** skal du kontrollere, at maildomænet for den offentlige mappe er konfigureret som et internt relædomæne i stedet for et autoritativt domæne:
+Hvis eksterne afsendere ikke kan sende meddelelser til dine mailaktiverede offentlige mapper, og afsenderen modtager fejlen: **blev ikke fundet (550 5.4.1)**, skal du kontrollere, at mail domænet for den offentlige mappe er konfigureret som et internt Relay-domæne i stedet for et autoritativt domæne:
 
-1. Åbn [Exchange Administration (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Åbn [Exchange Admin Center (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
 
-2. Gå til **Mailflow** \> **Accepterede domæner**, vælg det accepterede domæne, og klik derefter på **Rediger**.
+2. Gå til **mail flow** \> **accepterede domæner**, Vælg det accepterede domæne, og klik derefter på **Rediger**.
 
-3. Hvis domænetypen er angivet til **Autoritativ**på siden egenskaber, der åbnes, skal du ændre værdien til **Internt relæ** og derefter klikke på **Gem**.
+3. På siden med egenskaber, der åbnes, hvis domæne typen er angivet til **autoritativ**, skal du ændre værdien til **intern relæ** og derefter klikke på **Gem**.
 
-Hvis eksterne afsendere får vist den **fejl, du ikke har tilladelse til (550 5.7.13),** skal du køre følgende kommando i [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) for at få vist tilladelserne for anonyme brugere i den offentlige mappe:
+Hvis eksterne afsendere modtager den fejl, **du ikke har tilladelse (550 5.7.13)**, skal du køre følgende kommando i [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) for at få vist tilladelserne for anonyme brugere i den offentlige mappe:
 
-`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous``Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`F.eks.
+`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` For eksempel `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` .
 
-Hvis du vil give eksterne brugere tilladelse til at sende mail til denne offentlige mappe, skal du føje adgangsrettigheden CreateItems til brugeren Anonym. `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`F.eks.
+Hvis du vil tillade, at eksterne brugere sender mails til denne offentlige mappe, skal du føje CreateItems adgang til anonyme brugere. For eksempel `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .

@@ -6,28 +6,29 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: e4718ffb672b9c0e5b78c52b2fcd3e15ae58f7dd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 03889c763a8ae9a49c83ef4532bbe788d011d293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705979"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680965"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>Konfigurere indstillinger for Overvågning af SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>Konfigurere indstillinger for SharePoint-overvågning
 
-Administratorer af gruppe af SharePoint-websteder kan spore brugerhandlinger på indhold ved at konfigurere overvågningsindstillinger.
+Administratorer af gruppe af SharePoint-websteder kan registrere brugerhandlinger for indhold ved at konfigurere overvågningsindstillinger.
   
 1. Åbn SharePoint-webstedet.
     
-2. Klik på ikonet Indstillinger, og klik derefter på **Indstillinger for websted**. Hvis du ikke kan se "Indstillinger for websted", skal du klikke på **Webstedsoplysninger**og derefter klikke på **Vis alle webstedsindstillinger**.
+2. Klik på ikonet indstillinger, og klik derefter på **Indstillinger for websted**. Hvis du ikke kan se "indstillinger for websted", skal du klikke på **websteds oplysninger**og derefter klikke på **Vis alle indstillinger for websted**.
     
-3. Vælg **Overvågningsindstillinger for grupper af websteder under Administration**af gruppe **af**websteder . (Hvis du ikke kan se den, skal du først klikke på Gå til indstillinger for webstedet på **øverste niveau).** 
+3. Under **administration af gruppe af websteder**skal du vælge **Indstillinger for overvågning af gruppe af websteder**. Hvis du ikke kan se den, skal du klikke på **gå til webstedsindstillingerne for øverste niveau** først. 
     
-Du kan finde oplysninger om, hvad der er inkluderet i SharePoint-overvågningslograpporter, og hvordan du får dem vist, under [Konfigurere overvågningsindstillinger for en gruppe af websteder](https://go.microsoft.com/fwlink/?linkid=404050).
+Hvis du vil have mere at vide om, hvad der er inkluderet i rapporterne for rapporter i SharePoint revisions logfiler, og hvordan du kan se dem, skal du se [konfigurere overvågningsindstillinger](https://go.microsoft.com/fwlink/?linkid=404050)
   
 

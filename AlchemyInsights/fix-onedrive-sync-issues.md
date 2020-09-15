@@ -1,27 +1,28 @@
 ---
-title: Løs synkroniseringsproblemer med OneDrive
+title: Løs OneDrive-synkroniseringsproblemer
 ms.author: matteva
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.custom:
 - "824"
 - "5800003"
-ms.openlocfilehash: b33e51e2f8c542afb8e37f88e7fe877e7feb78e5
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: fe47bff126ebb339888cf9145650d125af51cfc9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44840957"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677742"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Løs synkroniseringsproblemer med OneDrive
+# <a name="fix-onedrive-sync-problems"></a>Løs OneDrive-synkroniseringsproblemer
 
-Hvis OneDrive ikke synkroniserer, som du eller dine brugere forventer, skal du bruge følgende ressourcer til fejlfinding.
+Hvis OneDrive ikke synkroniserer den måde, du eller dine brugere forventer, kan du bruge følgende ressourcer til fejlfinding.
 
 - [Løs synkroniseringsproblemer med OneDrive for Business](https://support.microsoft.com/office/207e983e-146d-404c-a994-672ef29e1f90)
-- [Rette eller løse problemer i **de seneste** problemer i OneDrive](https://support.office.com/article/36110213-f3f6-490d-8cb7-3833539def0b)
+- [Løsninger eller midlertidige løsninger på de **seneste** problemer i OneDrive](https://support.office.com/article/36110213-f3f6-490d-8cb7-3833539def0b)
 - [Løs synkroniseringsproblemer med **SharePoint Online**](https://support.office.com/article/207e983e-146d-404c-a994-672ef29e1f90)
-- [**Der findes allerede en fil eller mappe** i OneDrive](https://support.microsoft.com/office/7b8044ad-438d-41db-bbbf-4f66b8890408)
+- [**Filen eller mappen findes allerede** i OneDrive](https://support.microsoft.com/office/7b8044ad-438d-41db-bbbf-4f66b8890408)
