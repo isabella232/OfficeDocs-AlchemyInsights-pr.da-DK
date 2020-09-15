@@ -1,22 +1,23 @@
 ---
-title: Overtagelse af Admin
+title: Administrator overtagelse
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: f347b36de5a2c05fa7d6c54a3858e1b5b4b7c275
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d85ba64091c7e244cb00a274884a096aacefd9e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505069"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696867"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="5ce18-102">Blive en admin</span><span class="sxs-lookup"><span data-stu-id="5ce18-102">Become an admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="b37f1-102">Blive administrator</span><span class="sxs-lookup"><span data-stu-id="b37f1-102">Become an admin</span></span>
 
-<span data-ttu-id="5ce18-103">For at antage rollen Administrator for denne organisation, skal du tage.</span><span class="sxs-lookup"><span data-stu-id="5ce18-103">To assume the admin role for this organization, you need take over.</span></span> <span data-ttu-id="5ce18-104">Følg instruktionerne i denne brugervejledning for detaljeret vejledning: [Sådan udføres en IT Admin overtagelse med O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span><span class="sxs-lookup"><span data-stu-id="5ce18-104">Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span></span>
+<span data-ttu-id="b37f1-103">Hvis du vil antage administratorrollen for denne organisation, skal du overtage dem.</span><span class="sxs-lookup"><span data-stu-id="b37f1-103">To assume the admin role for this organization, you need take over.</span></span> <span data-ttu-id="b37f1-104">Følg vejledningen i denne vejledning for at få detaljerede anvisninger: [Sådan udfører du en IT-administrator](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx) overtagelse med O365</span><span class="sxs-lookup"><span data-stu-id="b37f1-104">Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span></span>
