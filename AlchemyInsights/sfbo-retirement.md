@@ -1,25 +1,26 @@
 ---
-title: SFBO pensionering
+title: SFBO ophør
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000699"
 - "2596"
-ms.openlocfilehash: 8840e2b236627dba51e24d28f8ff19fe65157959
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 1945a7be3c4b2f4b926f754ff57dd1c25ae6d2e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316718"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739459"
 ---
-# <a name="skype-for-business-online-retirement"></a><span data-ttu-id="86496-102">Skype for Business online-pensionering</span><span class="sxs-lookup"><span data-stu-id="86496-102">Skype for Business Online retirement</span></span>
+# <a name="skype-for-business-online-retirement"></a><span data-ttu-id="89c75-102">Skype for Business online Pension</span><span class="sxs-lookup"><span data-stu-id="89c75-102">Skype for Business Online retirement</span></span>
 
-<span data-ttu-id="86496-103">Du kan finde oplysninger om pensionering af Skype for Business online i [denne artikel](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).</span><span class="sxs-lookup"><span data-stu-id="86496-103">For information regarding the retirement of Skype for Business Online, please see [this article](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).</span></span>
+<span data-ttu-id="89c75-103">Hvis du vil have mere at vide om pensionen af Skype for Business online, kan du læse [denne artikel](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).</span><span class="sxs-lookup"><span data-stu-id="89c75-103">For information regarding the retirement of Skype for Business Online, please see [this article](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833).</span></span>
 
-<span data-ttu-id="86496-104">Bemærk: Skype for Business On Premises er ikke berørt af denne meddelelse.</span><span class="sxs-lookup"><span data-stu-id="86496-104">Note: Skype for Business on premises is NOT affected by this announcement.</span></span> 
+<span data-ttu-id="89c75-104">Bemærk: Skype for Business On Premises påvirkes ikke af denne meddelelse.</span><span class="sxs-lookup"><span data-stu-id="89c75-104">Note: Skype for Business on premises is NOT affected by this announcement.</span></span> 
