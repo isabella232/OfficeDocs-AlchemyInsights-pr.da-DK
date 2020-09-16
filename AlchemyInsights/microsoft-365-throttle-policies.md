@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002322"
 - "4506"
-ms.openlocfilehash: 5e35683adb690236ec8f673d5c7b6b01a0a428eb
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
-ms.translationtype: HT
+ms.openlocfilehash: 30531093cbb6fa9cfc3ea0daac45d1c9cb0e4e4f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530133"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742485"
 ---
-# <a name="microsoft-365-throttle-policies"></a><span data-ttu-id="ece6e-102">Microsoft 365-begrænsningspolitikker</span><span class="sxs-lookup"><span data-stu-id="ece6e-102">Microsoft 365 throttle policies</span></span>
+# <a name="microsoft-365-throttle-policies"></a><span data-ttu-id="2c342-102">Microsoft 365-begrænsningspolitikker</span><span class="sxs-lookup"><span data-stu-id="2c342-102">Microsoft 365 throttle policies</span></span>
 
-<span data-ttu-id="ece6e-103">Microsoft 365 bruger begrænsning til at opretholde optimal ydeevne og pålidelighed.</span><span class="sxs-lookup"><span data-stu-id="ece6e-103">Microsoft 365 uses throttling to maintain optimal performance and reliability.</span></span> <span data-ttu-id="ece6e-104">Begrænsning begrænser antallet af brugerhandlinger eller samtidige kald (via script eller kode) for at forhindre overbelastning af ressourcer.</span><span class="sxs-lookup"><span data-stu-id="ece6e-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="ece6e-105">Få mere at vide om begrænsning:</span><span class="sxs-lookup"><span data-stu-id="ece6e-105">Learn more about throttling:</span></span>
+<span data-ttu-id="2c342-103">Microsoft 365 bruger begrænsning til at opretholde optimal ydeevne og pålidelighed.</span><span class="sxs-lookup"><span data-stu-id="2c342-103">Microsoft 365 uses throttling to maintain optimal performance and reliability.</span></span> <span data-ttu-id="2c342-104">Begrænsning begrænser antallet af brugerhandlinger eller samtidige kald (via script eller kode) for at forhindre overbelastning af ressourcer.</span><span class="sxs-lookup"><span data-stu-id="2c342-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="2c342-105">Få mere at vide om begrænsning:</span><span class="sxs-lookup"><span data-stu-id="2c342-105">Learn more about throttling:</span></span>
 
-- [<span data-ttu-id="ece6e-106">Office 365-ressourcegrænser</span><span class="sxs-lookup"><span data-stu-id="ece6e-106">Office 365 resource limits</span></span>](https://docs.microsoft.com/office365/Enterprise/office-365-resource-limits)
+- [<span data-ttu-id="2c342-106">Office 365-ressourcegrænser</span><span class="sxs-lookup"><span data-stu-id="2c342-106">Office 365 resource limits</span></span>](https://docs.microsoft.com/office365/Enterprise/office-365-resource-limits)
 
-- [<span data-ttu-id="ece6e-107">Bedste fremgangsmåder vedrørende begrænsning ved Office 365-mailoverførsel</span><span class="sxs-lookup"><span data-stu-id="ece6e-107">Office 365 email migration best practices regarding throttling</span></span>](https://docs.microsoft.com/exchange/mailbox-migration/office-365-migration-best-practices#office-365-throttling)
+- [<span data-ttu-id="2c342-107">Bedste fremgangsmåder vedrørende begrænsning ved Office 365-mailoverførsel</span><span class="sxs-lookup"><span data-stu-id="2c342-107">Office 365 email migration best practices regarding throttling</span></span>](https://docs.microsoft.com/exchange/mailbox-migration/office-365-migration-best-practices#office-365-throttling)
 
-- [<span data-ttu-id="ece6e-108">Undgå at blive begrænset eller blokeret i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ece6e-108">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [<span data-ttu-id="2c342-108">Undgå at blive begrænset eller blokeret i SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="2c342-108">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
