@@ -6,26 +6,27 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 0db8d9d523721a9e890f530a8bdc12890d98d333
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 532791077b30c3cc306ab15f87f9e1fc1fc4ffa1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765659"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721868"
 ---
 # <a name="recover-deleted-email-in-outlook-on-the-web"></a>Gendanne slettede mails i Outlook på internettet
 
-1. Vælg mappen Slettet post eller mappen Uønsket mail i venstre rude.
+1. I venstre rude skal du vælge mappen Slettet post eller mappen uønsket mail.
 
-2. BedfÃ ̧r en af følgende fremgangsmåder:
+2. Gør et af følgende:
 
-    - Mappen Slettet post: Vælg den meddelelse, du vil gendanne, og vælg **Gendan**. Hvis meddelelsen ikke findes i mappen Slettet post, skal du vælge **Gendan elementer, der er slettet fra denne mappe** øverst på meddelelseslisten, vælge den meddelelse, du vil gendanne, og vælge **Gendan**.
+    - Mappen Slettet post: Markér den meddelelse, du vil gendanne, og vælg **Gendan**. Hvis meddelelsen ikke er i mappen Slettet post, skal du vælge Gendan elementer, der er **slettet fra denne mappe** øverst på meddelelseslisten, markere den meddelelse, du vil gendanne, og vælge **Gendan**.
 
-    - Mappen Uønsket mail: Vælg den meddelelse, du vil gendanne, og vælg **Ikke uønsket**.
+    - Mappen uønsket mail: Markér den meddelelse, du vil gendanne, og vælg **ikke uønsket**.
 
-Hvis du vil have mere at vide, skal du se [Gendanne slettede mails i Outlook på internettet](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+Hvis du vil have mere at vide, skal du se [gendanne slettede mails i Outlook på internettet](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
