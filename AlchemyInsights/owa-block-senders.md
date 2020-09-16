@@ -1,39 +1,40 @@
 ---
-title: Blokere eller fjerne blokeringen af afsendere i Outlook på internettet
+title: Bloker eller fjern blokeringen af afsendere i Outlook på internettet
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: e15ac7a1f2c81121bf8fdb66a8872f79f9f227d6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0092ca78a075463c0574357861b41b15fefe59af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720354"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768745"
 ---
-# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a><span data-ttu-id="e311f-102">Blokere eller fjerne blokeringen af afsendere i Outlook på internettet</span><span class="sxs-lookup"><span data-stu-id="e311f-102">Block or unblock senders in Outlook on the web</span></span>
+# <a name="block-or-unblock-senders-in-outlook-on-the-web"></a><span data-ttu-id="86586-102">Bloker eller fjern blokeringen af afsendere i Outlook på internettet</span><span class="sxs-lookup"><span data-stu-id="86586-102">Block or unblock senders in Outlook on the web</span></span>
 
-<span data-ttu-id="e311f-103">**Fra din indbakke:**</span><span class="sxs-lookup"><span data-stu-id="e311f-103">**From your inbox:**</span></span>
+<span data-ttu-id="86586-103">**Fra din indbakke:**</span><span class="sxs-lookup"><span data-stu-id="86586-103">**From your inbox:**</span></span>
 
-- <span data-ttu-id="e311f-104">Vælg meddelelsen på meddelelseslisten, og vælg derefter **Uønsket** > **blok**.</span><span class="sxs-lookup"><span data-stu-id="e311f-104">In the message list, select the message and then select **Junk** > **Block**.</span></span>
+- <span data-ttu-id="86586-104">Markér meddelelsen på meddelelseslisten, og vælg derefter **uønsket**  >  **blok**.</span><span class="sxs-lookup"><span data-stu-id="86586-104">In the message list, select the message and then select **Junk** > **Block**.</span></span>
 
-<span data-ttu-id="e311f-105">**Fra indstillinger:**</span><span class="sxs-lookup"><span data-stu-id="e311f-105">**From Settings:**</span></span>
+<span data-ttu-id="86586-105">**Fra indstillinger:**</span><span class="sxs-lookup"><span data-stu-id="86586-105">**From Settings:**</span></span>
 
-1. <span data-ttu-id="e311f-106">Øverst på siden skal du vælge tandhjulsikonet</span><span class="sxs-lookup"><span data-stu-id="e311f-106">At the top of the page, select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="e311f-107">for at åbne indstillinger og derefter vælge **Vis alle Outlook-indstillinger**.</span><span class="sxs-lookup"><span data-stu-id="e311f-107">to open settings and then select **View all Outlook settings**.</span></span>
-2. <span data-ttu-id="e311f-108">Vælg **Mail** > **uønsket mail**.</span><span class="sxs-lookup"><span data-stu-id="e311f-108">Select **Mail** > **Junk email**.</span></span>
-3. <span data-ttu-id="e311f-109">Vælg **Tilføj**under **Blokerede afsendere og domæner**.</span><span class="sxs-lookup"><span data-stu-id="e311f-109">Under **Blocked senders and domains**, select **Add**.</span></span>
-4. <span data-ttu-id="e311f-110">Skriv mailadressen på det domæne, du vil blokere, og tryk på Enter.</span><span class="sxs-lookup"><span data-stu-id="e311f-110">Type the email address of domain that you want to block and press Enter.</span></span>
-5. <span data-ttu-id="e311f-111">Vælg **Gem**.</span><span class="sxs-lookup"><span data-stu-id="e311f-111">Select **Save**.</span></span>
+1. <span data-ttu-id="86586-106">Øverst på siden skal du vælge gear ikonet</span><span class="sxs-lookup"><span data-stu-id="86586-106">At the top of the page, select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="86586-107">for at åbne indstillinger og derefter vælge **Vis alle Outlook-indstillinger**.</span><span class="sxs-lookup"><span data-stu-id="86586-107">to open settings and then select **View all Outlook settings**.</span></span>
+2. <span data-ttu-id="86586-108">Vælg **Mail**  >  **uønsket mail**i mail.</span><span class="sxs-lookup"><span data-stu-id="86586-108">Select **Mail** > **Junk email**.</span></span>
+3. <span data-ttu-id="86586-109">Under **blokerede afsendere og domæner**skal du vælge **Tilføj**.</span><span class="sxs-lookup"><span data-stu-id="86586-109">Under **Blocked senders and domains**, select **Add**.</span></span>
+4. <span data-ttu-id="86586-110">Skriv mailadressen på det domæne, du vil blokere, og tryk på ENTER.</span><span class="sxs-lookup"><span data-stu-id="86586-110">Type the email address of domain that you want to block and press Enter.</span></span>
+5. <span data-ttu-id="86586-111">Vælg **Gem**.</span><span class="sxs-lookup"><span data-stu-id="86586-111">Select **Save**.</span></span>
 
-<span data-ttu-id="e311f-112">Hvis du vil fjerne blokeringen af en afsender, skal du vælge papirkurvikonet ud for den mailadresse eller det domæne, du vil fjerne blokeringen af.</span><span class="sxs-lookup"><span data-stu-id="e311f-112">To unblock a sender, select the trash icon next to the email address or domain you want to unblock.</span></span>
+<span data-ttu-id="86586-112">Hvis du vil fjerne blokeringen af en afsender, skal du vælge ikonet Papirkurv ud for den mailadresse eller det domæne, du vil fjerne blokeringen af.</span><span class="sxs-lookup"><span data-stu-id="86586-112">To unblock a sender, select the trash icon next to the email address or domain you want to unblock.</span></span>
 
-<span data-ttu-id="e311f-113">Hvis du vil have mere at vide, skal du se [Blokere afsendere eller fjerne blokeringen af afsendere i Outlook på internettet](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).</span><span class="sxs-lookup"><span data-stu-id="e311f-113">To learn more, see [Block senders or unblock senders in Outlook on the web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).</span></span>
+<span data-ttu-id="86586-113">Hvis du vil have mere at vide, skal du se [blokere afsendere eller fjerne blokering af afsendere i Outlook på internettet](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).</span><span class="sxs-lookup"><span data-stu-id="86586-113">To learn more, see [Block senders or unblock senders in Outlook on the web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).</span></span>
