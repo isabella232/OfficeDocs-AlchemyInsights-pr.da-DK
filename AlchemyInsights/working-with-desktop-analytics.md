@@ -1,28 +1,29 @@
 ---
-title: Sådan lukker du din Analytics-konto på computeren
+title: Sådan lukker du din desktop Analytics-konto
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771101"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725617"
 ---
-# <a name="working-with-desktop-analytics"></a>Arbejde med Desktop Analytics
+# <a name="working-with-desktop-analytics"></a>Arbejde med computer analyse
 
-Det ser ud til, at du spørger om Desktop Analytics. Vi kan måske hjælpe med et mere præcist svar, hvis du omformulerer dit spørgsmål.
+Det ser ud til, at du beder om computer analyse. Vi kan muligvis hjælpe dig med et mere præcist svar, hvis du omformulerer dit spørgsmål.
 
-- [Hvad er Desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Sådan konfigureres Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Hvad er computer analyse?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Sådan konfigurerer du computer analyse](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Ofte stillede spørgsmål](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Fejlfinding af skrivebordsanalyse](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Foretag fejlfinding af desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
