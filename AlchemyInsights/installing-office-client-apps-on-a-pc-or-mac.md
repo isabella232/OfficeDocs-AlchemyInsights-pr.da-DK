@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 6084b3b48b262b36dbab8d5924e271ad98678793
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789633"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667836"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Installation af Office-klientprogrammer på en PC eller MAC
 
@@ -24,9 +25,9 @@ Hvis du vil installere Office-klientprogrammer, skal du sikre dig, at du har et 
 
 **Bemærk**: [Office Home and business](https://products.office.com/home-and-business) er et [Office til privat brug](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt, og er ikke en del af et abonnement til virksomheder. Project Online Essentials omfatter ikke en skrivebordsversion af Project, så der kræves ingen installation. Visio Plan 1-brugere kan få adgang til Visio til internettet, da planen ikke inkluderer Visio-skrivebordsprogrammet. Project- og Visio-skrivebordsprogrammer er ikke tilgængelige på Mac.
 
-Hvis du har et abonnement, der omfatter Office-programmer, vil du ikke se en mulighed for at installere det, medmindre du har en [tildelt licens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Hvis du er Office 365-administratoren, der er ansvarlig for tildeling af licenser, kan du se [Tildel licenser til brugerne](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Desuden kan du bruge [indstillinger for download af Office-software](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) til at vælge, om brugerne kan installere Office-Apps på deres egne enheder.
+Hvis du har et abonnement, der omfatter Microsoft 365-apps, kan du ikke se en mulighed for at installere det, medmindre du har en [tildelt licens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Hvis du er Office 365-administratoren, der er ansvarlig for tildeling af licenser, kan du se [Tildel licenser til brugerne](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Desuden kan du bruge [indstillinger for download af Office-software](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) til at vælge, om brugerne kan installere Office-Apps på deres egne enheder.
 
-**Bemærk**: [Rapporten Aktivering af Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) giver dig en visning af, hvilke brugere der har aktiveret deres Office-abonnement på mindst én enhed.
+**Bemærk**! [Office-aktiverings rapporten](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) giver dig en oversigt over, hvilke brugere der har installeret og aktiveret deres Microsoft 365-apps på mindst én enhed.
 
 Få derefter hver bruger til at:
 
