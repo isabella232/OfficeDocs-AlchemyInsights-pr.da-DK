@@ -1,30 +1,31 @@
 ---
-title: 9000215 Outlook.com Abonnementer
+title: 9000215 Outlook.com-abonnementer
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 8968b278cb5e99c5ce6cae9c79e441546deb58ec
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722298"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722593"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Abonnementer og framelding
+# <a name="subscriptions-and-unsubscribing"></a>Abonnementer og abonnement
 
-Hvis du vil stoppe med at modtage nyhedsbreve eller kampagner, kan du afmelde dig Outlook.com:
+Hvis du vil stoppe med at modtage nyhedsbreve eller kampagner, er der to måder, hvorpå du kan opsige abonnementet på Outlook.com:
 
-1. Vælg et nyhedsbrev eller en reklamemail i din indbakke. Vælg **Afmeld**øverst i læseruden .
-2. Åbn dine [Outlook.com abonnementsindstillinger](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Indstillinger** > **Vis alle Outlook-indstillinger** > **Mailabonnementer** > **Subscriptions**), og vælg **Afmeld**.
+1. I din indbakke skal du vælge et nyhedsbrev eller en reklamemail. Øverst i læseruden skal du vælge **Ophæv abonnement**.
+2. Åbn dine [Outlook.com-abonnementsindstillinger](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Indstillinger**  >  **Vis alle**mail abonnementer i Outlook-indstillinger  >  **Email**  >  **Subscriptions**), og vælg **Ophæv abonnement**.
 
-Noter:
+Vejledningen
 
-- Det er ikke alle kunder, der kan drage fordel af denne funktion i øjeblikket.
-- Du kan kun se denne funktion, hvis du har modtaget en e-mail fra den virksomhed, der sender en e-mail, der abonneres på.
+- Ikke alle kunder kan drage fordel af denne funktion i øjeblikket.
+- Du får kun vist denne funktion, hvis du har modtaget en mail fra firmaet, der sender en mail med abonnement.
