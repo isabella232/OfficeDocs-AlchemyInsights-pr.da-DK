@@ -1,24 +1,25 @@
 ---
-title: Meddelelsen Kunne ikke bekræfte i Office-apps
+title: Kunne ikke bekræfte abonnements meddelelse i Microsoft 365-apps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 45a5ed79feb2e489af5b93caee29ca4709181d79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788768"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747509"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Meddelelsen "Kunne ikke bekræfte" i Office-apps
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Meddelelsen "vi kunne ikke bekræfte abonnementet" i Microsoft 365-apps
 
 - Kontrollér, at din [abonnementsstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) er gyldig, at den pågældende bruger har en [gyldig licens tildelt](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) og at denne har forbindelse til internettet.
 
@@ -28,7 +29,7 @@ ms.locfileid: "43788768"
 
 - Kør [Fejlfindingsværktøjet til aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy), og genstart computeren.
 
-- [Nulstil aktiveringstilstand for Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) på den berørte computer.
+- [Nulstil aktiveringstilstand for Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) på den berørte computer.
 
 Se følgende for en detaljeret vejledning: 
 

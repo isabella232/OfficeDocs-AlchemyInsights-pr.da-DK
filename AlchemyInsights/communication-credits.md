@@ -1,37 +1,30 @@
 ---
-title: Kommunikationskreditter
+title: Kommunikations kreditter
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: c22500656e8a1ffa20728699744a69c28b3b5159
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158539"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733393"
 ---
-# <a name="communication-credits"></a>Kommunikationskreditter
+# <a name="communication-credits"></a>Kommunikations kreditter
 
-Kommunikationskreditter er en nem måde at betale for minutter til Lydmøde og Opkaldsabonnement på.  Du skal konfigurere kommunikationskreditter, hvis du vil bruge gratisnumre i Skype for Business og Microsoft Teams.  Desuden anbefaler vi, at du konfigurerer kommunikationskreditter til dine brugere af opkaldsabonnementer (indland eller international) og lydmøder, som har brug for at kunne ringe ud til en vilkårlig destination.
+Kommunikations kreditter er en praktisk måde at betale for lydmøder og opkalds plans minutter. Du skal konfigurere kommunikationskreditter, hvis du vil bruge gratisnumre i Skype for Business og Microsoft Teams.
 
-Som administrator kan du indsætte penge manuelt, eller du kan indstille automatisk opfyldning, hvilket vi anbefaler.  Automatisk opfyldning føjer automatisk et beløb til din saldo, når den falder under det udløsningsbeløb, du angiver.  Du kan til enhver tid opdatere dine betalingsmåder. På siden **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)** skal du markere abonnementet Kommunikationskreditter og foretage dine opdateringer.
+- Hvis du vil konfigurere kommunikations kreditter, skal du se [konfigurere kommunikations kreditter for din organisation](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
 
-1. Hvis du vil indsætte flere penge uden at konfigurere automatisk opfyldning, skal du klikke på **Indsæt flere penge** i området Forbrug og angive det beløb, du vil tilføje.
+- Hvis du vil tilføje og administrere kommunikations penge, skal du se [tilføje penge og administrere kommunikations kreditter](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). 
 
-2. Hvis du vil konfigurere automatisk opfyldning eller ændre beløbet og udløseren for automatisk opfyldning, skal du klikke på **Rediger indstillinger for opfyldning** i sektionen Fakturering eller **Indstillinger for automatisk opfyldning** nederst på siden.  
-
-3. Angiv opfyldningsbeløbet.  Det er, hvor meget du vil indsætte med hver opfyldning.  
-
-4. Indtast en værdi i feltet **Når saldoen er under**.  Dette er den saldo, der vil udløse opfyldningen.
-
-5. Klik på **Gem ændringer**.
-
-Hvis du vil have mere at vide om at indsætte og administrere beløb for kommunikationskreditter, skal du se [Indsæt penge, og administrer kommunikationskreditter](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). Se også [Konfigurer kommunikationskreditter for din organisation](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).
+Hvis du vil have flere oplysninger, skal du se [Hvad er kommunikations kreditter?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

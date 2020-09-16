@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: e0043af0a0d67a00a7f165d73cacbd924623f080
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010176"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744692"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Løsning – "Du har i øjeblikket ikke fået tildelt en Office-licens"
 
@@ -24,7 +25,7 @@ Hvis du vil installere Office-klientprogrammer, skal du sikre dig, at du har et 
 
 **Bemærk**: [Office Home and business](https://products.office.com/home-and-business) er et [Office til privat brug](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt, og er ikke en del af et abonnement til virksomheder. Project Online Essentials omfatter ikke en skrivebordsversion af Project, så der kræves ingen installation. Visio Plan 1-brugere kan få adgang til Visio på internettet, da planen ikke inkluderer Visio-skrivebordsprogrammet. Project- og Visio-skrivebordsprogrammer er ikke tilgængelige på Mac
 
-Hvis du har et abonnement, der omfatter Office-programmer, vil du ikke se en mulighed for at installere det, medmindre du har en [tildelt licens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Hvis du er Office 365-administratoren, der er ansvarlig for tildeling af licenser, kan du se [Tildel licenser til brugerne](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Hvis du har et abonnement, der omfatter Microsoft 365-apps, kan du ikke se en mulighed for at installere det, medmindre du har en [tildelt licens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Hvis du er Office 365-administratoren, der er ansvarlig for tildeling af licenser, kan du se [Tildel licenser til brugerne](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Få hver bruger til at:
 

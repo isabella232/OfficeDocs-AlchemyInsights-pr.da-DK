@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 514bd6a448333c72776b387869c08915b637a3f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720059"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735049"
 ---
 # <a name="update-credit-card-information"></a>Opdater kreditkortoplysninger
 
@@ -40,4 +41,4 @@ ms.locfileid: "43720059"
 
 Hvis du har problemer med indlæsning af siden, kan du prøve at åbne websiden i en anden browser, eller du kan prøve at åbne siden i et privat browservindue, f.eks. et InPrivate-vindue i Microsoft Edge eller et inkognito-vindue i Google Chrome. 
 
-Vil du have flere oplysninger, skal du gå til [Tilføj, opdater eller fjern et kreditkort eller en bankkonto i Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) og [Fejlfinding af kreditkort og bankkonti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Du kan finde flere oplysninger i [Administrer betalingsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

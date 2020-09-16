@@ -5,6 +5,7 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
@@ -12,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: c5ea5d264b62e4c349623bd431776207b38da470
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742463"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751416"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Begræns SharePoint Online til klassisk tilstand
 
-Nogle organisationer kræver stadig den klassiske tilstandsoplevelse. Selvom der ikke er planer om at fjerne klassisk tilstand på et detaljeret niveau, er det ikke længere muligt at begrænse en hel organisation (lejer) til klassisk tilstand for lister og biblioteker.
+Nogle organisationer kræver stadig den klassiske oplevelse af tilstanden. Selvom der ikke er nogen planer om at fjerne klassisk tilstand på et detaljeret niveau, er det ikke længere muligt at begrænse en hel organisation (lejer) til klassisk tilstand for lister og biblioteker.
 
-Administratoren har følgende muligheder for at administrere individuelle lister og biblioteker i klassisk tilstand ved hjælp af detaljerede fravalgsparametre, som vi leverer på følgende niveauer:
+Administratoren har følgende muligheder for at administrere individuelle lister og biblioteker i klassisk tilstand med detaljerede afleverings parametre, som vi giver på følgende niveauer:
 
 - gruppe af websteder
-- Websted
-- Liste
-- Bibliotek
+- adresse
+- liste
+- bibliotek
 
-Derudover vil lister, der bruger bestemte funktioner og tilpasninger, der ikke understøttes af moderne, stadig automatisk blive skiftet til klassisk tilstand.
+Desuden vil lister, der bruger visse funktioner og tilpasninger, der ikke understøttes af moderne, stadig automatisk skifte til klassisk tilstand.
 
-april 2019 starter processen med at deaktivere lejerniveaufravalg af moderne liste og biblioteker frem til 31. maj 2019.  De lister og biblioteker, der er i klassisk tilstand som følge af lejer opt-out, vil automatisk blive flyttet til moderne.
+Startende 1, 2019, processen til deaktivering af det lejerniveau, du har logget af moderne liste og biblioteker, starter og fortsætter gennem maj 31, 2019.  De lister og biblioteker, der er i klassisk tilstand som resultat af lejerens lejer, bliver automatisk videre hævet til moderne.
 
-Hvis du har brug for klassisk tilstand kan du se mere information [her](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) og PnP Powershell instruktion [her,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) der beskriver muligheder og værktøjer, du kan bruge i dag til at bruge den klassiske tilstand oplevelse.
+Hvis du har brug for klassisk tilstand, skal du se flere oplysninger [her](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) og PnP PowerShell-instruktion [her](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) , der beskriver indstillinger og værktøjer, du kan bruge i dag for at bruge den klassiske oplevelse af tilstanden.

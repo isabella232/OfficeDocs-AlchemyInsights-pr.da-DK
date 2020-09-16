@@ -5,49 +5,50 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: b4854944d8cbd9bd83fdea609007c15d39c8eb75
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42408969"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751129"
 ---
 # <a name="startup-settings-in-windows-10"></a>Startindstillinger i Windows 10
 
 **Ændre, hvilke apps der kører automatisk ved start**
 
-1. Gå til [Indstillinger > Apps > Start](ms-settings:startupapps?activationSource=GetHelp).
+1. Gå til [indstillinger > Apps > start](ms-settings:startupapps?activationSource=GetHelp).
 
-2. Sørg for, at alle apps, du vil køre ved start, er **slået**til .
+2. Kontrollér, at alle de apps, du vil køre ved opstart, er slået **til.**
 
-**Tilføje en app for at køre automatisk ved start**
+**Tilføj en app til at køre automatisk ved start**
 
-1. Klik eller tryk på **Start,** og find den app, du vil køre ved start.
+1. Klik eller tryk på **Start** , og Find den app, du vil køre ved opstart.
 
-2. Højreklik på appen, klik på **Mere**, og klik derefter på **Åbn filplacering**. Dette åbner den placering, hvor genvejen til appen gemmes. Hvis der ikke er nogen indstilling for Placering af Åbn fil, betyder det, at appen ikke kan køre ved start.
+2. Højreklik på appen, klik på **flere**, og klik derefter på **Åbn filplacering**. Dette åbner den placering, hvor genvejen til appen er gemt. Hvis der ikke er nogen indstilling for åben filplacering, betyder det, at appen ikke kan køre ved start.
 
-3. Når filplaceringen er åben, skal du trykke på **Windows-tasten + R**, skrive **shell:startup**og derefter klikke på **OK**. Derved åbnes mappen Start.
+3. Når filplaceringen er åben, skal du trykke på **Windows-tasten + R**, skrive **Shell: Start**og derefter klikke på **OK**. Dette åbner mappen Start.
 
-4. Kopiér og indsæt genvejen til appen fra filplaceringen i mappen Start.
+4. Kopiér og Indsæt genvejen til appen fra filplaceringen til mappen Start.
 
 **Avancerede startindstillinger (herunder fejlsikret tilstand, UEFI-indstillinger og opstart fra en anden enhed)**
 
-1. Gem dit arbejde, og luk alle åbne dokumenter, da disse trin genstarter pc'en.
+1. Gem dit arbejde, og Luk alle åbne dokumenter, da disse trin vil genstarte din PC.
 
-2. Gå til [Indstillinger > Opdatering & Genoprettelse > sikkerhedsgendannelse](ms-settings:recovery?activationSource=GetHelp).
+2. Gå til [indstillinger > opdater & sikkerhed > genoprettelse](ms-settings:recovery?activationSource=GetHelp).
 
-3. Klik på **Genstart nu**under **Avanceret start**. 
+3. Under **Avanceret start**skal du klikke på **Genstart nu**. 
 
-4. Når din pc er genstartet til skærmbilledet Vælg en indstilling:
+4. Når din PC genstarter på skærmbilledet Vælg en indstilling:
 
     - Hvis du vil starte fra en enhed som et USB-drev, skal du klikke på **Brug en enhed**.
 
-    - Hvis du vil angive UEFI-indstillingerne (også kaldet BIOS-opsætning), skal du klikke **på Fejlfinding > Avancerede indstillinger > UEFI-firmwareindstillinger**. 
+    - Hvis du vil angive UEFI-indstillingerne (også kaldet BIOS-konfiguration), skal du klikke på **fejlfinding > avancerede indstillinger > UEFI-firmware indstillinger**. 
 
-    - Hvis du vil angive fejlsikret tilstand eller ændre avancerede startindstillinger, skal du klikke på **Fejlfinding > Avancerede indstillinger > Startindstillinger**og derefter klikke på **Genstart**. Du kan blive bedt om at angive [bitlockergenoprettelsesnøglen](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Når pc'en er genstartet igen, skal du klikke på den startindstilling, du vil bruge.
+    - Hvis du vil angive fejlsikret tilstand eller ændre avancerede startindstillinger, skal du klikke på **fejlfinding > avancerede indstillinger > startindstillinger**og derefter klikke på **Genstart**. Du bliver muligvis bedt om at angive din [BitLocker-genoprettelsesnøgle](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Når din PC genstartes igen, skal du klikke på den startindstilling, du vil bruge.
