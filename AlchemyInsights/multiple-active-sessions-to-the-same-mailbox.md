@@ -6,30 +6,31 @@ manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1836"
 - "9000248"
-ms.openlocfilehash: d2fd3f20346012baed21efd4900ca4cf73391d91
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: f4ae5c5afef9972ad4ffe74144d702ed58b2f437
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438934"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769717"
 ---
 # <a name="multiple-active-sessions-to-the-same-mailbox"></a>Flere aktive sessioner til den samme postkasse
 
-En postkasse har et "budget" til at styre brugen af Exchange-ressourcer.
+Hvis du vil styre brugen af Exchange-ressourcer, har en postkasse et "budget".
 
-Undtagelsen for overbudgettet kan udløses af, men er ikke begrænset til, følgende omstændigheder:
+Undtagelsen overskredet budget kan udløses af, men er ikke begrænset til, følgende omstændigheder:
 
-- Et par browserfaner åbnes i den samme Outlook Web App-session.
+- Nogle få browser faner åbnes i den samme Outlook Web App-session.
 
-- Nogle få aktive Outlook Web App-sessioner til den samme postkasse.
+- Et par aktive Outlook Web App-sessioner til den samme postkasse.
 
-- Et par andre klientprogrammer (Outlook, Outlook Mobile, en tredjepartsklientapp) får adgang til postkassen på samme tid.
+- Nogle andre klientprogrammer (Outlook, Outlook Mobile, en tredjeparts klient-app) får adgang til postkassen på samme tid.
 
-- Langvarige handlinger, f.eks.
+- Lange kørselshandlinger, såsom udførelse af søge anmodninger, udføres fra en anden aktiv postkasse session.
 

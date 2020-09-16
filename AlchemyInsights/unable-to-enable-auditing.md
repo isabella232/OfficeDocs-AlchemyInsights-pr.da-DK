@@ -1,34 +1,35 @@
 ---
-title: 2419-kan-ikke-aktivere-revision
+title: 2419 – kan ikke aktiveres-overvågning
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 23ad07a6dd943d61d1bd45453089a771cfd51b58
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510422"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767593"
 ---
-# <a name="unable-to-enable-unified-auditing"></a>Der kan ikke aktiveres en ensartet overvågning
+# <a name="unable-to-enable-unified-auditing"></a>Det er ikke muligt at aktivere Unified revisions
 
-NÃ¥r du forsÃ ̧ger at aktivere samlet overvågning for organisationen, kan du fÃ¥ vist en fejlmeddelelse, der ligner fÃ ̧lgende:
+Når du forsøger at aktivere Unified revisions for din organisation, får du muligvis en fejl, der ligner følgende:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
 ```
 
-Du kan lÃ ̧se problemet ved at fÃ ̧lge disse trin:
+Du kan løse dette problem ved at følge disse trin:
 
-1. [Opret forbindelse til Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Opret forbindelse til Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
 2. Kør følgende cmdlet:
 
@@ -36,7 +37,7 @@ Du kan lÃ ̧se problemet ved at fÃ ̧lge disse trin:
    Enable-OrganizationCustomization
    ```
 
-3. Vent i 60 minutter, før den forrige indstilling træder i kraft.
+3. Vent på 60 minutter, til den forrige indstilling træder i kraft.
 
 4. Kør følgende kommando i Exchange Online PowerShell:
 
@@ -44,8 +45,8 @@ Du kan lÃ ̧se problemet ved at fÃ ̧lge disse trin:
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
    ```
 
-Yderligere oplysninger finder du i følgende artikler:
+Du kan finde flere oplysninger i følgende artikler:
 
-- [Oprette forbindelse til Exchange Online PowerShell ved hjælp af multifaktorgodkendelse](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Opret forbindelse til Exchange Online PowerShell ved hjælp af multifaktorgodkendelse](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
 -  [Slå søgning i overvågningsloggen til eller fra](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)

@@ -5,31 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: ad4af2c0cb1a4e2186df89bcfc35d0ea0de3bbb3
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558919"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769501"
 ---
 # <a name="new-office-365-e1-trial"></a>Ny Office 365 E1-prøveversion
 
-Det nye i marts 2020, en gratis 6-måneders [Office 365 E1-prøveversion](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), herunder Microsoft Teams, er nu tilgængelig. Hvis du vil vide, hvad der er tilgængeligt med en E1-licens, skal du læse [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
+Nyhed i marts 2020, der er en gratis 6-måneders [Office 365 E1-prøveversion](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), herunder Microsoft teams, er nu tilgængelig. Læs [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software)for at få mere at vide om, hvad der er tilgængeligt med en E1-licens.
 
 **Hvem er berettiget?**
 
-Dette tilbud er beregnet til kunder, der administreres af en Microsoft-kontorepræsentant. Det er til organisationer, der ikke tidligere har aktiveret andre Office 365 E1-prøveversioner. Når du har brugt din E1 Trial-kampagnekode, kan du ikke bruge den igen, og du kan heller ikke aktivere en anden E1-prøvekode. I disse tilfælde kan du få dine medarbejdere til at aktivere en [Teams Exploratory-licens.](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)
+Dette tilbuddet er beregnet til kunder, der administreres af en Microsoft-konto-Rep. Det er for organisationer, der ikke har aktiveret andre Office 365 E1-prøveversioner. Når du har brugt din version af din E1-prøve kampagnekode, kan du ikke bruge den igen, og du kan ikke aktivere en anden E1 prøve kode. I disse tilfælde kan du få dine medarbejdere til at aktivere en [licens til teams](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
 
 **Hvem er ikke berettiget?**
 
-- Dette tilbud er ikke tilgængeligt for GCC-, GCC High-, DoD- eller EDU-kunder. Vi arbejder på en GCC-version af E1-prøveversionen - den vil snart være tilgængelig.
+- Dette produkt er ikke tilgængeligt for GCC, GCC høj, DoD eller EDU kunder. Vi arbejder på en GCC-version af E1-prøveversionen – den er snart tilgængelig.
 
- - EDU-kunder skal bruge den gratis Office 365 A1-licens.
+ - EDU-kunder skal bruge den gratis Office 365 a1-licens.
 
-Gå ikke glip af alle vores vejledning til [at støtte fjernarbejdere med Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)
+Du behøver ikke at gå glip af vores vejledning til [understøttelse af Fjern arbejdere med teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).

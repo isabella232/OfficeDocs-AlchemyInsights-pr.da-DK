@@ -1,31 +1,32 @@
 ---
-title: Indstillinger for organisationspolitik for eksterne brugere
+title: Organisations politikindstillinger for eksterne brugere
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43641994"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769429"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Indstillinger for organisationspolitik for eksterne brugere
+# <a name="organization-policy-settings-for-external-users"></a>Organisations politikindstillinger for eksterne brugere
 
 Brugerne får muligvis vist følgende advarselsmeddelelse, når de forsøger at dele med eksterne brugere i organisationen: 
 
-   **Organisationens politikker giver dig ikke mulighed for at dele med disse brugere. Gå til Ekstern deling i Microsoft 365 Administration for at aktivere den.** 
+   **Din organisations politikker tillader ikke, at du deler med disse brugere. Gå til ekstern deling i Microsoft 365 administration for at aktivere det.** 
 
-Dette sker ofte første gang forsøger at dele med eksterne brugere, eller når du deler med nye eksterne brugere. For mere information, se artiklen nedenfor:
+Dette sker ofte første gang, du forsøger at dele med eksterne brugere, eller når du deler med nye eksterne brugere. Hvis du vil have mere at vide, skal du se artiklen nedenfor:
 
-[Organisationens politikker giver dig ikke mulighed for at dele med disse brugere](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Din organisations politikker tillader ikke, at du deler med disse brugere](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 
