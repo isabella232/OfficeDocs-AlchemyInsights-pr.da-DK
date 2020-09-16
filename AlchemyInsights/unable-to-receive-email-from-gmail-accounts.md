@@ -1,33 +1,34 @@
 ---
-title: Der kan ikke modtages e-mail fra Gmail-konti
+title: Kan ikke modtage mail fra Gmail-konti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: dd3ebda3f835edd9f15fee096476273ad4249baf
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558930"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735445"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Der kan ikke modtages e-mail fra Gmail-konti
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Kan ikke modtage mail fra Gmail-konti
 
-**Spørgsmål**
+**GANG**
 
-Vi er klar over, at nogle brugere muligvis ikke kan modtage e-mail fra Gmail-konti. Vi undersøger et muligt problem.
+Vi er opmærksomme på, at nogle brugere muligvis ikke kan modtage mails fra Gmail-konti. Vi undersøger et potentielt problem.
 
-**Løsning**
+**VIRKER**
 
-Kontroller, at du ikke ved et uheld har blokeret Gmail-domænet, når du blokerer en Gmail-bruger.
+Kontrollér, at du ikke har blokeret for et uheld til at blokere for Gmail-domænet, når du blokerer én Gmail-bruger.
 
 1. Åbn [listen over blokerede afsendere](https://go.microsoft.com/fwlink/?linkid=2121010).
 
-2. Hvis Gmail.com er på listen, skal du klikke på papirkurvikonet ud for posten og trykke på **Gem**.
+2. Hvis Gmail.com er på listen, skal du klikke på ikonet for papirkurven ud for posten og trykke på **Gem**.

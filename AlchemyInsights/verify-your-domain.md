@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710437"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734300"
 ---
 # <a name="verify-your-domain"></a>Bekræfte dit domæne
 
- **Posten har sandsynligvis ikke opdateret på internettet.**
+ **Posten er sandsynligvis ikke blevet opdateret på internettet.**
   
-Det tager typisk kun et par minutter for os at kunne se den nye rekord, men lejlighedsvis kan det tage så lang tid som et par timer. 
+Det tager normalt kun et par minutter, før vi kan se den nye post, men nogle gange kan det tage op til et par timer. 
   
-- Hvis du allerede har ventet så længe, skal du dobbelttjekke, at du har kopieret og indsat den nøjagtige værdi i TXT-bekræftelsesposten hos din DNS-vært. Et almindeligt problem er ikke at medtage delen "MS=" af posten. Det har vi også brug for!
+- Hvis du har ventet på, at du allerede har gjort det, skal du dobbelttjekke, at du har kopieret og indsat den nøjagtige værdi i TXT-bekræftelses posten hos din DNS-vært. Et almindeligt problem omfatter ikke "MS ="-delen af posten. Vi har brug for!
 
-- På nogle DNS-værter skal du tage et ekstra skridt for at gemme zonefilen (hvor DNS-posten er gemt), så den opdateres via internettet. Sørg for, at du har gemt ændringerne, så Microsoft kan se og bekræfte posten.
+- På nogle DNS-værter skal du udføre et ekstra trin for at gemme zone filen (hvor DNS-posten er gemt), så den bliver opdateret på internettet. Sørg for, at du har gemt dine ændringer, så Microsoft kan se og bekræfte posten.
