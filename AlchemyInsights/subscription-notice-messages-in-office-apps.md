@@ -1,24 +1,25 @@
 ---
-title: Abonnementsmeddelelser i Office-apps
+title: Meddelelser om abonnements beskeder i Microsoft 365-apps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789188"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659232"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Abonnementsmeddelelser i Office-apps
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Meddelelser om abonnements beskeder i Microsoft 365-apps
 
 - Hvis Office var forudinstalleret på din nye enhed, skal du se [Aktivér Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) for at få hjælp til aktivering af Office på din nye enhed.
 
@@ -32,7 +33,7 @@ ms.locfileid: "43789188"
 
 - Kør [Fejlfindingsværktøjet til aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy), og genstart computeren.
 
-- [Nulstil aktiveringstilstand for Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) på den berørte computer.
+- [Nulstil aktiveringstilstand for Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) på den berørte computer.
 
 Se følgende for en detaljeret vejledning: 
 

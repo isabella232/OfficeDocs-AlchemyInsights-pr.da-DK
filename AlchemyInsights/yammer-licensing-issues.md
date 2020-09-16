@@ -1,36 +1,37 @@
 ---
-title: Problemer med Yammer-licenser
+title: Problemer med Yammer-licens
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: 6d9b2126dc1ed90968738ddb2e249dce9857f1db
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: f0a7625c7b77860e5ba0e29f2df47101749aace3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148201"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657270"
 ---
-# <a name="yammer-licensing-issues"></a>Problemer med Yammer-licenser
+# <a name="yammer-licensing-issues"></a>Problemer med Yammer-licens
 
-Alle brugere skal have licens til at bruge Yammer Enterprise-tjenesten, men Yammer kræver som standard ikke, at brugerne har licens til at få adgang til tjenesten. Når en administrator ændrer indstillingen for at blokere Microsoft 365-brugere uden Yammer-licenser, kan brugere, der ikke har fået tildelt en Yammer Enterprise-licens, ikke få adgang til Yammer-tjenesten. Du kan finde flere oplysninger under [Administrere Yammer-brugerlicenser i Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
+Alle brugere skal have en licens for at bruge Yammer Enterprise-tjenesten, men som standard kræver Yammer ikke, at brugere har en licens til at få adgang til tjenesten. Når en administrator ændrer indstillingen for at blokere Microsoft 365-brugere uden Yammer-licenser, har brugere, der ikke har fået tildelt en Yammer Enterprise-licens, ikke adgang til Yammer-tjenesten. Du kan finde flere oplysninger i [administrere Yammer-brugerlicenser i Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
 
-Når licenser fjernes fra brugere, vises Yammer-feltet ikke længere, og andre tjenester kan bruge fjernelse af licenser til at skjule funktioner. I andre tilfælde kan funktioner stadig vises, men kræver licenstildeling for at fungere.  
+Når licenser fjernes fra brugerne, vises Yammer-feltet ikke længere, og andre tjenester kan bruge Fjern licens til at skjule funktioner. I andre tilfælde kan funktioner stadig vises, men kræver licenstildeling for at fungere.  
 
-**Licensen opdateres ikke for brugeren**  
+**Licensen bliver ikke opdateret for brugeren**  
 
-Af og til tildeles en bruger en licens, men kan stadig ikke få adgang til Yammer. Der er større sandsynlighed for forsinkelser, når en masselicenstildeling er i gang. Yammer-brugere opdateres muligvis ikke i samme rækkefølge, som licenser ændres i Azure AD, fordi systemet kører asynkront. Vent op til 24 timer, før du åbner en supportsag for at rapportere licenssynkroniseringsproblemer.  
+Nogle gange tildeles en bruger en licens, men det er stadig ikke muligt at få adgang til Yammer. Der er større sandsynlighed for forsinkelser, når der er en masse licenstildeling i gang. Yammer-brugere opdateres muligvis ikke i samme rækkefølge, da licenser er ændret i Azure AD, fordi systemet kører asynkront. Vent op til 24 timer, før du åbner en support situation for at rapportere problemer med synkronisering af licenser.  
 
-**Masselicenstildeling**  
+**Masse licenstildeling**  
 
-Licenser kan tildeles via Administration eller PowerShell-scripting. Du kan finde flere oplysninger under [Tildele licenser til brugere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) og Tildele licenser til [brugerkonti med Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
+Licenser kan tildeles via Administrationscenter eller PowerShell-scripting. Du kan få mere at vide under [Tildel licenser til brugere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) og [Tildel licenser til brugerkonti med Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
 
-Microsoft Support hjælper ikke med at oprette scripts, men dokumentation om Yammer-licenstildeling er tilgængelig. Du kan finde flere oplysninger under [Administrere Yammer-licenser ved hjælp af Windows PowerShell](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).
+Microsoft Support yder ikke hjælp til oprettelse af scripts, men dokumentation til Yammer-licenstildeling er tilgængelig. Du kan finde flere oplysninger i [administrere Yammer-licenser ved hjælp af Windows PowerShell](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).

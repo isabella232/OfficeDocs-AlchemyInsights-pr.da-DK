@@ -1,47 +1,48 @@
 ---
-title: Fejlfinding af hændelser fra mail
+title: Fejlfinding af begivenheder fra mail
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569007"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658728"
 ---
-# <a name="troubleshooting-events-from-email"></a>Fejlfinding af hændelser fra mail
+# <a name="troubleshooting-events-from-email"></a>Fejlfinding af begivenheder fra mail
 
-1. Kontroller, at funktionen er aktiveret for postkassen: **Get-EventsFromEmailConfiguration -Identity <mailbox> **
+1. Kontrollér, at funktionen er aktiveret for postkassen: **Get-EventsFromEmailConfiguration- <mailbox> Identity**
 
-2. Så kig på 'Begivenheder fra e-mail' logger **Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
+2. Se derefter på "begivenheder fra mail"-logfilerne **Eksportér-MailboxDiagnosticLogs <mailbox> -komponent TimeProfile**
 
-3. Find det InternetMessageId, der svarer til elementet i postkassen, i logfilerne 'Hændelser fra e-mail'.  
+3. Find den InternetMessageId, der svarer til elementet i postkassen, i "hændelser fra mail"-logfilerne.  
 
-4. TrustScore bestemmer, om varen tilføjes eller ej. Hændelser tilføjes kun, hvis TrustScore = "Trusted".
+4. TrustScore bestemmer, om elementet er tilføjet eller ej. Hændelser tilføjes kun, hvis TrustScore = "betroet".
 
-TrustScore bestemmes af egenskaberne SPF, Dkim eller Dmarc, som findes i brevhovedet.
+TrustScore bestemmes af SPF, DKIM eller dMarc egenskaber, der er i meddelelsens brevhoved.
 
 Sådan får du vist disse egenskaber:
 
-**Outlook på computeren**
+**Skrivebord Outlook**
 
 - Åbne elementet
-- Egenskaber for fil -> -> Internetheads
+- File-> egenskaber – > Internet brevhoveder
 
-Eller
+eller
 
-**MFCMapi delte et eller flere**
+**MFCMapi**
 
 - Gå til elementet i indbakken
-- Kig efter PR_TRANSPORT_MESSAGE_HEADERS_W
+- Søg efter PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Disse egenskaber bestemmes og registreres under transport og ruteføring. For yderligere fejlfinding kan det være nødvendigt at følge op med Transport Support om fejl i SPF, DKIM og.eller DMARC.
+Disse egenskaber bestemmes og registreres under transport og routing. Hvis du vil foretage yderligere fejlfinding, skal du muligvis følge med transport support om fejlene i SPF, DKIM og. DMARC.

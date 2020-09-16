@@ -1,26 +1,27 @@
 ---
-title: Opdatere DNS-poster hos Bluehost
+title: Opdater DNS-poster på Bluehost
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: ceaa1901b2ab3cabd3df055815270d1c1471542f
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: a3468ea65de7c1a8b7469ef4859d1c832e16c821
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707722"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657711"
 ---
-# <a name="update-dns-records-at-bluehost"></a>Opdatere DNS-poster hos Bluehost
+# <a name="update-dns-records-at-bluehost"></a>Opdater DNS-poster på Bluehost
 
-Brug nedenstående links til at opdatere dine DNS-poster.
+Brug nedenstående links for at få hjælp til at opdatere dine DNS-poster.
 
-- [Oprette DNS-poster hos Bluehost](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
+- [Oprette DNS-poster på Bluehost](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
 - [Tilføje eller redigere brugerdefinerede DNS-poster i Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
