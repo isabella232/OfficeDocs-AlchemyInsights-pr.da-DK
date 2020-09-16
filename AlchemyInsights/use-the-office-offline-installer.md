@@ -1,27 +1,27 @@
 ---
-title: Bruge installationsprogrammet til Office offline
+title: Brug Office offline-installationsprogrammet
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726314"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770185"
 ---
-# <a name="use-the-office-offline-installer"></a>Bruge installationsprogrammet til Office offline
+# <a name="use-the-office-offline-installer"></a>Brug Office offline-installationsprogrammet
 
-Du skal have forbindelse til internettet for at hente installationsfilerne, men når det er gjort, kan du installere Office offline på en pc, når det passer dig, ved hjælp af ODT (Office Deployment Tool)
+Du skal have forbindelse til internettet for at downloade installationsfilerne, men når det er gjort, kan du så installere Office offline på en PC på din bekvemmelighed ved hjælp af Office udrulnings værktøj (ODT)
 
-ODT er udviklet til virksomhedsmiljøer og kører fra kommandolinjen, så trinene er mere komplicerede – men de fungerer stadig til installation på en enkelt enhed. Se [Bruge installationsprogrammet til Office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+ODT er udviklet til virksomhedsmiljøer og kører fra kommandolinjen, så trinnene er mere komplicerede – men de fungerer stadig til installation på en enkelt enhed. Se [brug af Office offline-installationsprogrammet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   
