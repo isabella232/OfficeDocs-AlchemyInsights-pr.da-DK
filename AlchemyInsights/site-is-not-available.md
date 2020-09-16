@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
-ms.openlocfilehash: 2739f446e4df2b7ea44f4f675f775e2d97b40796
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: eb5d13b60f7a8e23638a27f6be42422d0ceb0a95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767171"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738883"
 ---
-# <a name="site-is-not-available"></a><span data-ttu-id="717bf-102">Webstedet er ikke tilgængeligt</span><span class="sxs-lookup"><span data-stu-id="717bf-102">Site is not available</span></span>
+# <a name="site-is-not-available"></a><span data-ttu-id="6ed39-102">Webstedet er ikke tilgængeligt</span><span class="sxs-lookup"><span data-stu-id="6ed39-102">Site is not available</span></span>
 
-<span data-ttu-id="717bf-103">Hvis dit SharePoint- eller OneDrive-websted ikke er tilgængeligt for flere brugere, kan der være et midlertidigt tjenesteproblem.</span><span class="sxs-lookup"><span data-stu-id="717bf-103">If your SharePoint or OneDrive site is not available to multiple users, there may be a temporary service issue.</span></span> <span data-ttu-id="717bf-104">Tjek [dashboardet Tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din lejer er påvirket.</span><span class="sxs-lookup"><span data-stu-id="717bf-104">Check the [Service Health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your tenant is impacted.</span></span> 
+<span data-ttu-id="6ed39-103">Hvis dit SharePoint-eller OneDrive-websted ikke er tilgængeligt for flere brugere, kan der være et midlertidigt tjeneste problem.</span><span class="sxs-lookup"><span data-stu-id="6ed39-103">If your SharePoint or OneDrive site is not available to multiple users, there may be a temporary service issue.</span></span> <span data-ttu-id="6ed39-104">Markér [dashboardet for tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din lejer er påvirket.</span><span class="sxs-lookup"><span data-stu-id="6ed39-104">Check the [Service Health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your tenant is impacted.</span></span> 
   
 
