@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: 73e2faec9593bb0399056b614632a853f189ee65
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a39d58a8957879e28c6308936d7323e09edf8db9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705331"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746429"
 ---
-# <a name="credit-check-status-request"></a><span data-ttu-id="253cb-102">Anmodning om status for kreditkontrol</span><span class="sxs-lookup"><span data-stu-id="253cb-102">Credit check status request</span></span>
+# <a name="credit-check-status-request"></a><span data-ttu-id="886ff-102">Anmodning om status for kreditkontrol</span><span class="sxs-lookup"><span data-stu-id="886ff-102">Credit check status request</span></span>
 
-<span data-ttu-id="253cb-103">Din ordre afventer kreditbekræftelse.</span><span class="sxs-lookup"><span data-stu-id="253cb-103">Your order is pending credit verification.</span></span> <span data-ttu-id="253cb-104">Dette er normalt afsluttet på under 24 timer, men kan tage op til 48 timer.</span><span class="sxs-lookup"><span data-stu-id="253cb-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="253cb-105">Når din abonnementsstatus er fuldført, ændres den fra Afventer til Aktiv, og tjenester vil være tilgængelige til brug.</span><span class="sxs-lookup"><span data-stu-id="253cb-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
+<span data-ttu-id="886ff-103">Din ordre afventer bekræftelse på kredit.</span><span class="sxs-lookup"><span data-stu-id="886ff-103">Your order is pending credit verification.</span></span> <span data-ttu-id="886ff-104">Dette fuldføres normalt inden for 24 timer, men det kan tage op til 48 timer.</span><span class="sxs-lookup"><span data-stu-id="886ff-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="886ff-105">Når din abonnementsstatus er fuldført, ændres det fra afventer til aktiv, og tjenester vil være tilgængelige til brug.</span><span class="sxs-lookup"><span data-stu-id="886ff-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
 
-<span data-ttu-id="253cb-106">Du kan finde flere oplysninger [under, hvornår der kan være behov for en kreditkontrol](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span><span class="sxs-lookup"><span data-stu-id="253cb-106">For more info, see [when a credit check may be required](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span></span>
+<span data-ttu-id="886ff-106">Hvis du vil have mere at vide, skal du se [, hvornår der kan kræves en kreditkontrol](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span><span class="sxs-lookup"><span data-stu-id="886ff-106">For more info, see [when a credit check may be required](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span></span>
