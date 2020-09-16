@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
-ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
+ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163775"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739279"
 ---
-# <a name="collaborate-on-excel-documents"></a>Samarbejde om Excel-dokumenter
+# <a name="collaborate-on-excel-documents"></a>Samarbejd om Excel-dokumenter
 
-Hvis du vil samarbejde med kolleger om **Excel-dokumenter,** skal du bruge funktionen til samtidig redigering . 
+Hvis du vil samarbejde med kolleger om Excel-dokumenter, skal du bruge **funktionen samtidig redigering**. 
 
-Få mere at vide om aktivering og brug af denne funktion ud over at se svar på ofte stillede spørgsmål om delings- og samtidigredigering ser på [Excel-projektmapper på samme tid med samtidig samtidig redigering](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Få mere at vide om at aktivere og bruge denne funktion, og se også svar på ofte stillede spørgsmål om deling og samtidig redigering af scenarier, ved [at samarbejde om Excel-projektmapper på samme tid med samtidig redigering](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
