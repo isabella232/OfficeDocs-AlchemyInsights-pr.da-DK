@@ -1,36 +1,37 @@
 ---
-title: Tilmelding af Android-enheder til Intune
+title: Registrering af Android-enheder i Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: fdab7958e0dfea34fd1e113be09fff4cd3019401
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654365"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784301"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Tilmelding af Android-enheder til Intune
+# <a name="enrolling-android-devices-into-intune"></a>Registrering af Android-enheder i Intune
 
-Intune understøtter tilmelding af følgende Android-enheder:
-- Samsung Knox og Zebra
-- Android virksomhedens Arbejdsprofil
+Intune understøtter registreringen af følgende Android-enheder:
+- Samsung Knox og med zebraer
+- Android-Arbejdsprofil til virksomheder
 - Dedikeret Android-virksomhed
 - Android Enterprise fuldt administreret
 
-Før du konfigurerer tilmelding til Android-enheder, [gennemgå forudsætninger] (https://docs.microsoft.com/intune/enrollment/android-enroll.
+Før du konfigurerer tilmelding til Android-enheder, [Gennemse de forudsætninger] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
 
-Du finder oplysninger om fejlfinding af enheds tilmelding generelt og visse Android-registreringsfejl under [fejlfinding af enhedsregistrering i Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Hvis du vil have mere at vide om fejlfinding af enheds tilmelding generelt og nogle Android-tilmeldings fejl, skal du se [fejlfinding af enheds tilmelding i Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-Du kan også bruge det [indhold, der beskriver fejlfindings bladet Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , til at identificere, hvilke tilmeldingsproblemer dine brugere oplever.
+Du kan også bruge det indhold, der beskriver hjælp til [fejlfinding i Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , til at identificere, hvilke enrolment-problemer brugerne oplever.
 
 
 

@@ -1,10 +1,11 @@
 ---
-title: Konfigurere videresendelse af mail
+title: Konfigurer videresendelse af mail
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,23 +13,23 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 71a7b0ad6c19d9a93a2beb955ebf86f2663ac47f
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580973"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801070"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrollere indstillingerne for videresendelse af mail for en postkasse
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrollér indstillingerne for videresendelse af mail for en postkasse
 
 Det er nemt at bekræfte indstillingerne for videresendelse af mail i en Microsoft 365-postkasse. Du skal blot følge disse trin.
   
-> Hvis dette er en brugerpostkasse, skal du gå til **Aktive brugere** \> **Active users** og vælge den bruger, hvis postkasse du videresender. Under fanen **Mail** skal du vælge **Administrer videresendelse af mail**.
+> Hvis dette er en brugerpostkasse, skal du gå til **brugere** , der er \> **aktive brugere** , og vælge den bruger, du videresender postkassen til. På fanen **mail** skal du vælge **Administrer videresendelse af mail**.
 
-> Hvis dette er en delt **Groups** postkasse, skal du gå til \> **Delte grupper og** vælge den delte postkasse, du videresender. Vælg **Rediger** til videresendelse af mail.
+> Hvis dette er en delt postkasse, skal du gå til **grupper** , der er \> **delte postkasser** , og vælge den delte postkasse, du videresender. Vælg **Rediger** til videresendelse af mail.
 
-Yderligere oplysninger finder du i [Configure mail forwarding in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Hvis du vil have mere at vide, skal du se [konfigurere videresendelse af mail i Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
   
-Hvis du vil sende instruktioner til dine brugere, så de kan konfigurere videresendelse af mails på deres egne postkasser, skal du pege på [Videresend mail fra Microsoft 365 til en anden mailkonto](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Bemærk, at du kun kan videresende til én e-mailadresse. Hvis du har brug for at konfigurere videresendelse til en gruppe personer, skal du oprette en distributionsliste (under **Grupper**), føje dine brugere til den og derefter konfigurere videresendelse til den pågældende gruppe.
+Hvis du vil sende instruktioner til brugerne, så de kan konfigurere videresendelse af mail i deres egen postkasse, skal du pege dem for at [videresende mail fra Microsoft 365 til en anden mailkonto](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Bemærk, at du kun kan videresende til én mailadresse. Hvis du vil konfigurere viderestilling af en gruppe af personer, skal du oprette en distributionsliste (under **grupper**), føje brugerne til den og derefter konfigurere viderestilling til den pågældende gruppe.
   
-Har du en medarbejder, der rejser? Se [Fjerne en tidligere medarbejder fra Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) for at få de anbefalede trin.
+Har du en medarbejder, der forlader dig? Se [Fjern en tidligere medarbejder fra Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) for at få de anbefalede trin.

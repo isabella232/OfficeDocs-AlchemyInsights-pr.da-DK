@@ -1,32 +1,33 @@
 ---
-title: Administrere livetekster for uddannelsesorganisationer
+title: Administrere Live billedtekster til uddannelses organisationer
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: ae1e047863317863f4e6c0136200aba90a7032a0
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
-ms.translationtype: MT
+ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46555181"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812757"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Administrere livetekster for uddannelsesorganisationer
+# <a name="managing-live-captions-for-education-organizations"></a>Administrere Live billedtekster til uddannelses organisationer
 
-Vi anbefaler administratorer af uddannelsesorganisationer overveje at bruge politikpakker til elevers og underviseres sikkerhed og undervisere. For at få mere at vide, kan du se:  
+Vi anbefaler, at administratorer af uddannelses organisationer overvejer at bruge politik pakker til elev-og lærer sikkerhed og undervisere. For at få mere at vide, kan du se:  
 
-- [Politikpakker i Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Politik pakker i Microsoft teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Politikker, der skal tildeles for de studerendes sikkerhed](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Politikker, der skal tildeles til elev sikkerheden](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [Politikker, der skal tildeles til undervisere](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Politikker, der skal tildeles til lærere](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Hvis du kun vil administrere muligheden for at aktivere dynamiske billedtekster, skal du se [Aktivere direkte billedtekster](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Du kan finde flere oplysninger [under Administrere mødepolitikker i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Hvis du kun vil administrere muligheden for at aktivere Live billedtekster, skal du se [aktivere Live Caption](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Du kan finde flere oplysninger i [administrere møde politikker i teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
