@@ -1,25 +1,26 @@
 ---
-title: Blokere elementer i mappen Uønsket mail
+title: Blokering af elementer i mappen uønsket mail
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2682"
-ms.openlocfilehash: 0298ea22914ba2eb0b5046937553b1f23de16ca6
-ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
+ms.openlocfilehash: 7f372a623ead564a341e0b4abc0c26ffa6148f15
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43793913"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753397"
 ---
-# <a name="blocking-items-in-your-junk-email-folder"></a>Blokering af elementer i mappen Uønsket mail
+# <a name="blocking-items-in-your-junk-email-folder"></a>Blokering af elementer i mappen uønsket mail
 
-Hvis du blokerer et element, der allerede findes i mappen Uønsket mail, slettes det. Elementer i [mappen Uønsket mail](https://outlook.live.com/mail/junkemail) slettes automatisk efter 30 dage. Vælg et element i mappen Uønsket mail for at se, hvornår det vil blive slettet.
+Blokering af et element, der allerede findes i mappen uønsket mail, sletter det. Elementer i [mappen uønsket mail](https://outlook.live.com/mail/junkemail) slettes automatisk efter 30 dage. Vælg et element i mappen uønsket mail for at se, hvornår det bliver slettet.
 
-Få flere oplysninger om, hvordan du [blokerer afsendere eller markerer mail som uønsket mail](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Få mere at vide om, hvordan du [blokerer afsendere eller markerer mail som uønsket](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
