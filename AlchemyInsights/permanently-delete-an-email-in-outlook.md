@@ -1,33 +1,34 @@
 ---
-title: Slette en mail permanent i Outlook
+title: Slette en mail i Outlook permanent
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: d9b74b39c344559c87147d9f8efb6b6e6f8238b3
-ms.sourcegitcommit: e5e09d841fe397a6f841d617a9ae0a560d41a3f2
+ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42395715"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771679"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Slette en mail permanent i Outlook
+# <a name="permanently-delete-an-email-in-outlook"></a>Slette en mail i Outlook permanent
 
-- Tryk på en meddelelse i indbakkevisningen, og du kan se papirkurven. Tryk på dette ikon for at slette meddelelsen.
+- Fra visningen indbakke skal du trykke på en meddelelse, og du kan se ikonet Papirkurv. Tryk på dette ikon for at slette meddelelsen.
 
-- Du kan også angive "slet" som en strygeindstilling **(Indstillinger > Stryg indstillinger**); brug derefter fingeren til at stryge på den mail, du vil slette. 
+- Du kan også angive "Slet" som en stryge indstilling (**Indstillinger-> indstillinger for stryge**); Brug derefter fingeren til at stryge til den mail, du vil slette. 
 
-- Hvis du vil slette en meddelelse fra en åben mailvisning, skal du trykke på papirkurven øverst på skærmen. Slettede meddelelser flyttes til mappen Papirkurv. 
+- Hvis du vil slette en meddelelse fra en åben mail visning, skal du trykke på ikonet Papirkurv øverst på skærmen. Slettede meddelelser flyttes til mappen Papirkurv. 
 
 **Sådan slettes en mail permanent**
 
-- Få adgang til papirkurven mappen fra mail-visning, skal du trykke på ikonet for kontoen (3 linjer), og tryk på papirkurven mappe.
+- Få adgang til Papirkurv fra visningen mail, tryk på konto ikonet (3 linjer), og tryk på papirkurven.
 
-- Slet individuelle e-mails eller markér flere e-mails, og slet dem herfra; de vil blive slettet permanent.
+- Slet individuelle mails, eller Markér flere mails, og slet dem derfra. de vil blive slettet permanent.

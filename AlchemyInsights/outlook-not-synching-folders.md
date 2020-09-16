@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768683"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771859"
 ---
 # <a name="outlook-not-synching-folders"></a>Outlook synkroniserer ikke mapper
 
 Hvis Outlook ikke synkroniserer mapper som forventet, er der nogle ting, du kan prøve for at løse problemet.
 
-1. Reducer antallet af mapper i den primære eller delte postkasse. [Se Problemer med ydeevnen i Outlook, når der er for mange emner eller mapper i en cachelagret tilstand .ost- eller .pst-filmappe](https://support.microsoft.com/help/2768656).
+1. Reducer antallet af mapper i den primære eller delte postkasse. [Se problemer med ydeevnen i Outlook, når der er for mange elementer eller mapper i en cachelagret tilstand. ost-eller. pst-filmappe](https://support.microsoft.com/help/2768656).
 2. Deaktiver cachelagring af alle delte mapper.
-3. Skift konfigurationen af den sekundære Exchange-postkasse til en anden Exchange-konto i din profil.
+3. Ret konfigurationen af den sekundære Exchange-postkasse til en anden Exchange-konto i din profil.
 
-Yderligere oplysninger finder du i [Problemer med ydeevne og synkronisering, når du arbejder med mapper i en sekundær postkasse i Outlook](https://support.microsoft.com/help/3115602).
+Hvis du vil have mere at vide, skal du se [ydeevne-og synkroniseringsproblemer, når du arbejder med mapper i en sekundær postkasse i Outlook](https://support.microsoft.com/help/3115602).

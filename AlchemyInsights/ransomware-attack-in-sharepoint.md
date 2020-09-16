@@ -1,10 +1,11 @@
 ---
-title: Ransomware angreb i SharePoint eller OneDrive
+title: Ransomware-angreb i SharePoint eller OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
@@ -12,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: af5a9aed35297f334295a784603027d66ed8e898
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6c48ebc0bccba40398b64f7002291cf844e10fc9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511610"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771418"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware angreb i SharePoint eller OneDrive
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware-angreb i SharePoint eller OneDrive
 
-1.  Hvis du leder efter hjælp til, hvad du skal gøre, når der findes en skadelig fil på dit OneDrive eller Dine OnePoint eller Teams, skal du se [Hvad du skal gøre, når der findes en skadelig fil](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
-2. Hvis du er på udkig efter, hvordan du beskytter dine data mod ransomware, se:
+1.  Hvis du vil have hjælp til at finde ud af, hvad du skal gøre, når der findes en skadelig fil på dit OneDrive eller SharePoint eller teams, skal du se [hvad du skal gøre, når der findes en skadelig fil](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+2. Hvis du leder efter, hvordan du beskytter dine data mod ransomware, skal du se:
     - [Beskytte dine data i SharePoint og OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [Beskyttelse mod ransomware-trusler](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+    - [Ransomware trusselsbeskyttelse](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Er alle filerne på din OneDrive eller SharePoint påvirket af ransomware eller malware eller krypto virus? 
+3.  Er alle filer på dit OneDrive eller SharePoint blevet påvirket af ransomware eller malware eller krypterings virus? 
 
-Stop/pause, hvor eventuelt OneDrive Sync (hvis der er nogen), eller afbryd stifindervisningen, der er knyttet til biblioteket fra den berørte computer (hvis der er nogen), og derefter kan du gendanne hele dit OneDrive- eller SharePoint-bibliotek til et tidligere tidspunkt ved hjælp af funktionen til gendannelse af filer. 
+Du kan straks stoppe/midlertidigt afbryde OneDrive-synkronisering (hvis relevant) eller afbryde Stifindervisning, der er knyttet til biblioteket fra den pågældende computer (hvis relevant), og derefter kan du gendanne hele OneDrive-eller SharePoint-biblioteket til et tidligere tidspunkt ved hjælp af funktionen Gendan filer. 
 
-Du kan finde flere oplysninger om, hvordan du gendanner, under:
+Hvis du vil have mere at vide om, hvordan du gendanner, skal du se:
 
 - [Gendan et OneDrive-bibliotek](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 - [Gendan et dokumentbibliotek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-Du kan finde flere oplysninger om avanceret trusselsbeskyttelse (ATP) under:
-- [ATP til SharePoint, OneDrive og Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Visninger til Trusselsstifinder](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+Du kan finde flere oplysninger om Advanced Threat Protection (DTT) i:
+- [DTT til SharePoint, OneDrive og teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Trussels Stifinder-visninger](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 Flere oplysninger:
 
-- [Virusregistrering i SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Datakryptering i ODB og SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Virus identifikation i SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Data kryptering i ODB og SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
 - [Registrering af ransomware og gendannelse af filer](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Registreringer af trusler og realtidsregistreringer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Trussels Stifinder og realtids registreringer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
