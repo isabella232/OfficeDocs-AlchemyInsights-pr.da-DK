@@ -1,23 +1,24 @@
 ---
-title: Numerisk tastatur mangler fra Teams
+title: Numerisk tastatur mangler fra teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "5707"
-ms.openlocfilehash: 098dd889747fadcd404935c022bf1e75a283955a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 86fec9c33a0b90e97c4ce2c547db3d7819c1a0be
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357646"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730657"
 ---
-# <a name="dial-pad-missing-from-teams"></a>Numerisk tastatur mangler fra Teams
+# <a name="dial-pad-missing-from-teams"></a>Numerisk tastatur mangler fra teams
 
-Kan du ikke finde telefonblokken i Teams? Se [her](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) for mere information.
+Kan du ikke finde det numeriske tastatur i teams? Se [her](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) for at få flere oplysninger.

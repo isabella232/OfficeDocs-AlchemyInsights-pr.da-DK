@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
-ms.translationtype: HT
+ms.openlocfilehash: 4979375f098f65c703bad813feebcb5df6bd59ad
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231548"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713593"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Almindelige problemer og løsninger i Overholdelse
 
@@ -31,5 +32,7 @@ Her er nogle af de mest almindelige emner for overholdes:
 - Overvågning i O365: [Søg i overvågningsloggen i O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - Forebyggelse af datatab (DLP): Se [Oversigt over forebyggelse af datatab (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide) for flere oplysninger.
+ 
+- Følsomheds navne: Hvis du vil have mere at vide, skal du se [oprette og konfigurere følsomheds mærkater og deres politikker](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
 
 **Bemærk**: Hvis du ønsker et mere specifikt svar om et overholdelsesproblem, kan du prøve at omformulere dit spørgsmål, så det inkluderer de fejl, du oplever, eller de funktioner, du bruger.

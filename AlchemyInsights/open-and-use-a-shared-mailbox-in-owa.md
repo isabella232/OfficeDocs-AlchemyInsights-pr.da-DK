@@ -6,6 +6,7 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 6b4db67aab55f309c83aeddf7744cbd047881bea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682070"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729037"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Åbn og brug en delt postkasse i Outlook på internettet
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Åbne og bruge en delt postkasse i Outlook
 
-Delte postkasser, du har adgang til, vises ikke automatisk i Outlook på internettet (tidligere kaldet Outlook Web App).
+Delte postkasser gør det muligt for en gruppe af personer at overvåge og sende mails fra en almindelig mailadresse. 
 
-Du kan få vist den delte postkasse og din primære postkasse sammen eller åbne den delte postkasse i et separat browservindue. For at modtage nye meddelelser for den delte postkasse skal du åbne den delte postkasse i et separat browservindue. Hvis du vil have flere oplysninger, kan du se [Åbn og brug en delt postkasse i Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+**Bemærk**! din Microsoft 365-administrator skal oprette den delte postkasse og tilføje dig som medlem.
+
+Se følgende for at få mere at vide om, hvordan du åbner og bruger den delte postkasse:
+
+- [Tilføje en delt postkasse i Outlook på internettet](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [Åbne og bruge en delt postkasse i Outlook til Windows](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [Åbne en delt mappe eller postkasse i Outlook til Mac](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [Tilføj en delt postkasse til Outlook Mobile (Outlook til iOS & Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)

@@ -1,24 +1,25 @@
 ---
-title: Meddelelsen Abonnement udløbet i Office-apps
+title: Meddelelse om udløbet abonnement i Microsoft 365-apps
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: b13d5befc85295f625d1af0680407af885b28039
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789260"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719407"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Meddelelsen "Abonnement udløbet" i Office-apps
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Meddelelsen "abonnementen er udløbet" i Microsoft 365-apps
 
 - Se [siden Tjenestetilstand](https://docs.microsoft.com/office365/enterprise/view-service-health) for at finde ud af, om der er nogen kendte problemer med tjenesten.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789260"
 
 - Kør [Fejlfindingsværktøjet til aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy), og genstart computeren.
 
-- [Nulstil aktiveringstilstand for Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) på den berørte computer.
+- [Nulstil aktiveringstilstand for Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) på den berørte computer.
 
 Se følgende for en detaljeret vejledning: 
 

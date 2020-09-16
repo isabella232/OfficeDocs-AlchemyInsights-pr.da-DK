@@ -1,29 +1,30 @@
 ---
-title: Problemer opkald i Teams i Kina
+title: Problemer med at ringe op til teams i Kina
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3787"
 - "9001707"
-ms.openlocfilehash: 08625fe710da7f8e24c10c414d97fed7b6ffc355
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 42064703c997cdbda007bc07734c7453a54cbf21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438956"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695535"
 ---
-# <a name="issues-dialing-into-teams-in-china"></a>Problemer opkald i Teams i Kina
+# <a name="issues-dialing-into-teams-in-china"></a>Problemer med at ringe op til teams i Kina
 
-Microsoft er klar over, at nogle brugere i Kina-området oplever problemer med at ringe op til Skype for Business- eller Teams-møde-id'er. I de fleste tilfælde er disse problemer uden for systemer under vores kontrol. Ofte er problemet med lokale mobil- og telefoniselskaber.
+Microsoft er opmærksom på, at nogle brugere i det kinesiske område oplever problemer med at ringe op til Skype for Business-eller teams-møde-id'er. I de fleste tilfælde er disse problemer eksterne for systemer under vores kontrol. Problemet er ofte med lokale mobil-og telefoni udbydere.
 
-Vi anbefaler følgende, hvis du har problemer med lydmøder:
+Vi anbefaler følgende, hvis du har problemer med lyd-møder:
 
--   Bed den, der ringer op eller har mødt mødearrangøren, om at ringe til dit PSTN- eller mobilnummer.
--   Deltag i opkaldet eller mødet fra computer- eller mobilklienterne ved hjælp af VoIP.
+-   Bed den person eller mødearrangør om at ringe til PSTN-eller mobilnummeret.
+-   Deltag i opkaldet eller mødet fra computerne eller mobil klienterne ved hjælp af VoIP.

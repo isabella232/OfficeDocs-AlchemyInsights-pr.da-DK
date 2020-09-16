@@ -1,32 +1,33 @@
 ---
-title: Hent og del opdateringer
+title: Downloade og dele opdateringer
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1127"
 - "6700007"
-ms.openlocfilehash: b8ad8c703ec8d7d089fec90cb12eecb6ad84298e
-ms.sourcegitcommit: 07e56267dedfc4cec1143072c791670cbf81186b
+ms.openlocfilehash: a147983e4ac5ee5c1bc0a6b5932e00557e8d6c10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45423486"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712250"
 ---
-# <a name="download-and-share-updates"></a>Hent og del opdateringer
+# <a name="download-and-share-updates"></a>Downloade og dele opdateringer
 
-I stedet for at hente opdateringer enkeltvis gør downloadtilstanden Leveringsoptimering det muligt at dele mellem flere pc'er. Yderligere oplysninger finder du i [Delivery Optimization for Windows 10 updates](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization).  
+I stedet for at downloade opdateringer individuelt, kan overførsels optimerings tilstanden bruges til at dele mellem flere pc'er. Hvis du vil have mere at vide, skal du se [leveringsoptimering for Windows 10-opdateringer](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization).  
 
-Tilgængelige download tilstande omfatter:  
+Tilgængelige overførsels tilstande omfatter:  
 - Kun HTTP  
-- Lan  
+- LAN  
 - Gruppe  
 - Internet  
-- Simpel  
-- Omgå
+- Nemmeste  
+- Låse

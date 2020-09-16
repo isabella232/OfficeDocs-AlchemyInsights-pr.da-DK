@@ -1,28 +1,29 @@
 ---
-title: Apple-konfigurator
+title: Apple Configurator
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/29/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1570"
 - "9000085"
-ms.openlocfilehash: c6d4be92523c8d1ded0a0fbeb48b0773872f15ed
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 39719e04eabd4aa877ee53d08c31e7526f63ffab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46554888"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716995"
 ---
-# <a name="apple-configurator"></a>Apple-konfigurator
+# <a name="apple-configurator"></a>Apple Configurator
 
 Du kan finde flere oplysninger under: 
 
-- [Konfigurere tilmelding til iOS/iPadOS-enhed med Apple Configurator](https://docs.microsoft.com/intune/apple-configurator-enroll-ios)
+- [Konfigurere iOS/iPadOS-enheds tilmelding med Apple Configurator](https://docs.microsoft.com/intune/apple-configurator-enroll-ios)
 
-- [Bruge brugerdefinerede indstillinger til iOS- og iPadOS-enheder i Microsoft Intune](https://docs.microsoft.com/intune/custom-settings-ios)
+- [Brug brugerdefinerede indstillinger til iOS-og iPadOS-enheder i Microsoft Intune](https://docs.microsoft.com/intune/custom-settings-ios)

@@ -1,30 +1,31 @@
 ---
-title: Logonfejl under adressering af teams AADSTS9000411
+title: AADSTS9000411 for teams-logon fejl
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000744"
 - "5689"
-ms.openlocfilehash: b70f1320ea1dfa29e6fa489bd02acfcd1d92971b
-ms.sourcegitcommit: 88d2918aa51f4ba10771527380c3e0db0f5a9147
+ms.openlocfilehash: 8ca3793b8cd12b7ad2510ca0b3be58c32a61c14c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357399"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687032"
 ---
-# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Logonfejl under adressering af teams AADSTS9000411
+# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>AADSTS9000411 for teams-logon fejl
 
-Når du logger på Microsoft Teams, får du muligvis vist fejlen: **Beklager, men vi har problemer med at logge dig på AADSTS9000411: Anmodningen er ikke formateret korrekt. Parameteren "login_hint" duplikeres.**
+Når du logger på Microsoft teams, får du muligvis fejlen: **vi beklager, men vi har problemer med at logge på AADSTS9000411: anmodningen er ikke formateret korrekt. Parameteren "login_hint" er duplikeret.**
 
-Du kan løse dette problem ved at sikre dig, at dine Microsoft Teams-klienter er opdaterede. Yderligere oplysninger om opdatering af klienten finder du i [Update Microsoft Teams](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
+For at løse dette problem skal du kontrollere, at dine Microsoft teams-klienter er opdateret. Du kan finde flere oplysninger om opdatering af din klient i [opdatere Microsoft teams](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-Hvis du af en eller anden grund ikke kan opdatere klienten, rydder det de fleste cachelagrede data, hvis du logger af klienten. Men hvis du stadig har problemer efter logoff/logon, skal du afslutte Teams og rydde din klientcache ved at gøre følgende:
-1. Luk Microsoft Teams.
-2. Gå til: %appdata%\microsoft\teams, og slet alle filerne.
-3. Åbn Microsoft Teams igen.
+Hvis du ikke kan opdatere din klient af en eller anden grund, kan du logge af klienten for at rydde de fleste cachelagrede data. Men hvis du stadig har problemer efter logoff/logon, skal du afslutte teams og rydde din klientcache ved at gøre følgende:
+1. Luk Microsoft teams.
+2. Gå til:%AppData%\microsoft\teams og slet alle filerne.
+3. Åbn Microsoft teams igen.

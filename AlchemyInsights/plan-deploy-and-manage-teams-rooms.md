@@ -4,27 +4,24 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: a3e3a3d4a9de183826f51be1c10cf9d0ac687cbd
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
-ms.translationtype: HT
+ms.openlocfilehash: 8b3c887540062fffc0badb2c1bcba24ad8ad2df6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946656"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728641"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>Planlæg og udrul og administrer Teams-rum
 
-Konfigurer og brug Microsoft Teams-rum i din organisation ved at følge disse trin: 
+- [Plan](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan)  for Microsoft teams-rum. Dette inkluderer[License Rings opdatering](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing), [hardwarekrav og understøttede Microsoft teams-systemer](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements).
+- [Konfigurer konti](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts)  for Microsoft teams-rummet.
+- [Administrer enheder](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  ved hjælp af teams Administrationscenter (du skal have administrator af Team tjeneste eller en Global administratorrolle) og gennemse en [liste over kendte problemer](https://docs.microsoft.com/microsoftteams/rooms/known-issues).
 
-- [Planlæg dit miljø og gennemse kravene](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan).
-
-- [Konfigurer konti og udrul med dit miljø](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy).
-
-- [Administrer, udfør fejlfinding](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting) og vær opmærksom på [kendte problemer](https://docs.microsoft.com/microsoftteams/rooms/known-issues). 
-
-Hvis du vil have mere info, skal du se [Microsoft Teams-rum](https://docs.microsoft.com/microsoftteams/rooms/).
+Du kan finde flere oplysninger om planlægning, installation og administration af Microsoft teams-lokaler, i [Microsoft teams-rum](https://docs.microsoft.com/microsoftteams/rooms/).

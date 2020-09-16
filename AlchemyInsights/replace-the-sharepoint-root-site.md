@@ -1,29 +1,30 @@
 ---
-title: Erstat SharePoint Root-webstedet
+title: Erstatte SharePoint-rodwebstedet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 33ee85c305aa9daae0028ad2c0c79a003f9dc017
-ms.sourcegitcommit: 505a576cc0e2b20f8ea5ce0a2f26763a11463918
+ms.openlocfilehash: 47a8b8207a81bb4f22f1d739c963e5a9d468394e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44493094"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692613"
 ---
-# <a name="replace-the-sharepoint-root-site"></a>Erstat SharePoint Root-webstedet
-Hvis du ønsker at modernisere din rod site med et eksisterende websted eller blot ønsker at have et andet websted på rodwebsted niveau, kan du vælge at erstatte (swap) websteder.
+# <a name="replace-the-sharepoint-root-site"></a>Erstatte SharePoint-rodwebstedet
+Hvis du vil modernisere dit rodwebsted med et eksisterende websted eller blot vil have et andet websted på rodwebstedet, kan du vælge at erstatte (swap)-websted.
 
-1. Brug den nye SharePoint Administration til at gå til [Aktive websteder](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
+1. Ved hjælp af den nye SharePoint administration skal du gå til [aktive websteder](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
 2. Vælg det rodwebsted, du vil erstatte.
 3. Vælg **Erstat websted**.
-4. Angiv url'en for det eksisterende websted, der skal erstattes med. **Bemærk:** Du vil blive informeret om, hvis webstedet kan bruges som en erstatning rod site.
+4. Angiv URL-adressen på det eksisterende websted, der skal erstattes med. **Bemærk:** Du får besked, hvis webstedet kan bruges som et erstatnings rodwebsted.
 
-Du kan finde flere oplysninger om krav under [Modernisere dit rodwebsted](https://docs.microsoft.com/sharepoint/modern-root-site).
+Du kan finde flere oplysninger om krav i [modernisere på rodwebstedet](https://docs.microsoft.com/sharepoint/modern-root-site).

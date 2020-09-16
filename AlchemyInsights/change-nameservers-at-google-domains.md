@@ -1,26 +1,27 @@
 ---
-title: Ændre navneservere på Google Domæner
+title: Ændre navneservere på Google Domains
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5860"
 - "14"
-ms.openlocfilehash: a581bcca954586da38fef0bfc63b7ff03a1a930a
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 5ed811704be11aa8655788068df81974fffdab56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748762"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682478"
 ---
-# <a name="change-nameservers-at-google-domains"></a>Ændre navneservere på Google Domæner
+# <a name="change-nameservers-at-google-domains"></a>Ændre navneservere på Google Domains
 
-[Skift navneservere til opsætning af Microsoft 365 med Google Domæner](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-google-domains?view=o365-worldwide)
+[Skift navneservere for at konfigurere Microsoft 365 med Google Domains](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-google-domains?view=o365-worldwide)
 
-I forbindelse med andre domæneproblemer kan du prøve ofte stillede spørgsmål om [domæner](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+For andre domæne problemer skal du prøve [domænerne ofte stillede spørgsmål](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)

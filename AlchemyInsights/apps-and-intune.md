@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "5764"
-ms.openlocfilehash: 3fcac11807e0a5ba44a689ec5144a742e859f291
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 81d0e5e774596065410873a244b345b56af46905
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569002"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716491"
 ---
 # <a name="apps-and-intune"></a>Apps og Intune
 
-Hvis du vil have en oversigt over, hvordan Intune kan hjælpe med at administrere apps, skal du starte med [Hvad er Microsoft Intune-appadministration?](https://docs.microsoft.com/mem/intune/apps/app-management).
+Du kan finde en oversigt over, hvordan Intune kan hjælpe med at administrere apps, ved at starte med  [Hvad er Microsoft Intune app Management?](https://docs.microsoft.com/mem/intune/apps/app-management).
 
-Du kan finde flere oplysninger om overførsel af apps til Intune og implementering af dem på dine enheder ved at læse [Quickstart: Tilføje og tildele en klientapp](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app).
+Hvis du vil have mere at vide om at overføre apps til Intune og installere dem på dine enheder, skal du gennemse  [hurtig start: Tilføj og Tildel en klient app](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app).
 
-Hvis du vil beskytte virksomhedsdata i mobilapplikationer, skal du se [Hurtig introduktion: Oprette og tildele en appbeskyttelsespolitik](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy).
+Hvis du vil beskytte virksomhedsdata i mobilprogrammer, skal du se under [hurtigstarter: Opret og Tildel en politik for app-beskyttelse](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy).

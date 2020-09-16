@@ -1,36 +1,37 @@
 ---
-title: Apple MDM Push Certificate er ikke konfigureret
+title: Apple MDM push-certifikatet er ikke konfigureret
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2634"
 - "9000770"
-ms.openlocfilehash: 5888eeb9b1dfde0b1ac5e7569f00d812e3d9d1bb
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 5f95c9bee29db44a4153e0de0b8f6fb49b274920
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439015"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716851"
 ---
-# <a name="apple-mdm-push-certificate-has-not-been-set-up"></a>Apple MDM Push Certificate er ikke konfigureret
+# <a name="apple-mdm-push-certificate-has-not-been-set-up"></a>Apple MDM push-certifikatet er ikke konfigureret
 
-Der er ikke konfigureret et Apple MDM Push-certifikat (også kaldet et APNS-certifikat (Apple Push Notification Service) til dit abonnement. Uden et Apple MDM Push-certifikat konfigureret kan du ikke tilmelde og administrere iOS- og Mac OS-enheder. Når du har tilføjet certifikatet til Intune, kan brugerne installere appen Firmaportal for at tilmelde deres iOS-enheder.
+Et Apple MDM-push-certifikat (også kaldet et APNS-certifikat (Apple Push Notification Service) er ikke konfigureret til dit abonnement. Hvis du ikke har konfigureret et Apple MDM-push-certifikat, kan du ikke registrere og administrere iOS-og Mac OS-enheder. Når du har føjet certifikatet til Intune, kan brugerne installere appen firma Portal for at registrere deres iOS-enheder.
 
-1. Vælg **"Jeg accepterer".** for at give Microsoft tilladelse til at sende data til Apple.
+1. Vælg **"Jeg accepterer."** Hvis du vil give Microsoft tilladelse til at sende data til Apple.
 
-2. Vælg **Hent din CSR-anmodning** om at signere intune-certifikat, der kræves for at oprette et Apple MDM-pushcertifikat. Filen bruges til at anmode om et tillidsforholdscertifikat fra Apple Push-certifikatportalen.
+2. Vælg **Download din CSR** -anmodning om signering af Intune-certifikat for at oprette et Apple-MDM-push-certifikat. Filen bruges til at anmode om et certifikat for tillidsforhold fra Apple push Certificates-portalen.
 
-3. Vælg **Opret dit MDM-pushcertifikat** for at gå til Apple Push Certificates Portal. Log på med dit firmas Apple-id, og vælg derefter **Opret et certifikat**. Vælg **Vælg fil ,** gå til filen med anmodning om certifikatsignering, og vælg derefter **Overfør**. På siden Bekræftelse skal du vælge **Hent** for at hente certifikatfilen (.pem) og gemme filen lokalt.
+3. Vælg **Opret dit MDM-push-certifikat** for at gå til Apple push Certificates-portalen. Log på med dit firmas Apple-ID, og vælg derefter **Opret et certifikat**. Vælg **Vælg fil**, gå til filen med anmodning om certifikat signering, og vælg derefter **Overfør**. På bekræftelsessiden skal du vælge **download** for at downloade certifikatfilen (. PEM) og gemme filen lokalt.
  
-**Bemærk:** Certifikatet er knyttet til det Apple-id, der blev brugt til at oprette det. Som en bedste fremgangsmåde kan du bruge et apple-id til administrationsopgaver og sørge for, at postkassen overvåges af mere end én person eller ved hjælp af en distributionsliste. Brug aldrig et personligt Apple-id. Brug det samme Apple-id til at forny Apple Push-certifikatet hver 12.
+**Bemærk**! certifikatet er knyttet til det Apple-id, der bruges til at oprette det. Som en bedste fremgangsmåde skal du bruge et Apple-ID for en virksomhed til administrationsopgaver og sørge for, at postkassen overvåges af mere end én person eller ved hjælp af en distributionsliste. Brug aldrig et personligt Apple-ID. Brug samme Apple-ID til at forny Apple push-certifikatet hver tolvte måned.
  
-4. Angiv det Apple-id, der bruges til at oprette dit Apple MDM-pushcertifikat. Registrer dette id som en påmindelse om, hvornår du skal forny certifikatet.
+4. Angiv det Apple-ID, der bruges til at oprette dit Apple MDM push-certifikat. Registrer dette ID som en påmindelse, når du har brug for at forny certifikatet.
 
-5. Gå til certifikatfilen (.pem), vælg **Åbn**, og vælg derefter **Overfør**. Med push-certifikatet kan Intune tilmelde og administrere Apple-enheder.
+5. Gå til certifikatfilen (. PEM), Vælg **Åbn**, og vælg derefter **Overfør**. Med push-certifikatet kan Intune tilmelde og administrere Apple-enheder.

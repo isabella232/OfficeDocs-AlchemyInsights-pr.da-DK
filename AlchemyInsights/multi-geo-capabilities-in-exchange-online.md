@@ -1,24 +1,25 @@
 ---
-title: Multi-Geo-funktioner i Exchange Online
+title: Multi geografiske egenskaber i Exchange Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5695"
-ms.openlocfilehash: 7c002b523cb8f2b796f69dd0dfc2fb61a4594ff2
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: d3c189d29e36ec013c4a0ee08bf6d253cc00b4ff
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357411"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702501"
 ---
-# <a name="multi-geo-capabilities-in-exchange-online"></a>Multi-Geo-funktioner i Exchange Online
+# <a name="multi-geo-capabilities-in-exchange-online"></a>Multi geografiske egenskaber i Exchange Online
 
-I et multigeo-miljø kan du vælge placeringen af Exchange Online-postkasseindhold (data i hvile) pr. bruger.
-- [Multi-Geo-funktioner i Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+I et miljø med flere områder kan du vælge placeringen af Exchange Online-postkasse indhold (data til rest) på brugerbasis.
+- [Multi geografiske egenskaber i Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)

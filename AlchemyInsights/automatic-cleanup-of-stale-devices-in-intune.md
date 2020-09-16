@@ -1,42 +1,43 @@
 ---
-title: Automatisk oprydning af forældede enheder i Intune
+title: Automatisk oprydning af gamle enheder i Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1285"
 - "6700008"
-ms.openlocfilehash: 874ee290c59df3b5de1421369484a1a5a0ff7be4
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 49a15132253c59189e343aeaa1c11d450b344896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46554837"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715015"
 ---
-# <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Automatisk oprydning af forældede enheder i Intune
+# <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Automatisk oprydning af gamle enheder i Intune
 
-Intune gør det muligt for administratoren at konfigurere et tidsinterval mellem 90 og 270 dage, hvorefter forældede enheder fjernes fra tjenesten. Denne indstilling er hele organisationen, og når den er aktiveret, træder den i kraft med det samme. Alle enheder, der ikke er tjekket ind på Intune-serveren i en periode, der overstiger indstillingen, slettes permanent.
+Intune gør det muligt for administratoren at konfigurere et tidsinterval mellem 90 og 270 dage, hvorefter der fjernes fejl enheder fra tjenesten. Denne indstilling er organisations bredden, og når aktiveret træder i kraft med det samme. Enheder, der ikke er markeret i Intune-serveren for en periode, der overskrider indstillingen, slettes permanent.
 
-**Bemærk:** Det er kun MDM-enhedsobjekter, der er berettiget til denne oprydningshandling. Eas kun enhed objekter er udelukket.
+**Bemærk!** Kun MDM-enhedsobjekter er berettiget til denne oprydnings handling. Kun EA Device Objects er udeladt.
 
-Yderligere oplysninger om, hvornår en enhed bliver berettiget til sletning, er baseret på enhedens oprydningsindstilling og dens "tilstand":
+Du kan finde flere oplysninger om, hvornår en enhed bliver kvalificeret til at blive slettet baseret på indstillingen for oprydning af enheder og dens "tilstand":
 
-Indstilling: **Slet enheder efter sidste indtjekningsdato: Ja (en vis værdi (N) i angivne dage)**
+Indstilling: **Slet enheder efter sidste checkdato: Ja (nogle af værdierne (N) i dage angivet)**
 
-- Baseret på værdi (N), der er konfigureret i indstillingen, sletter intune-tjenesten enheden i de angivne dage, efter at den sidst er blevet checket ind.
+- Baseret på værdi (N), der er konfigureret i indstillingen, sletter tjenesten Intune enheden i de dage, efter den sidst blev gennemført.
 
-Indstilling: **Slet enheder efter sidste indtjekningsdato: Nej**
+Indstilling:  **Slet enheder efter sidste indtjekning-dato: Nej**
 
-- 180 dage efter, at enhedscertifikatet udløber og ikke fornys, slettes enheden.
+- 180 dage efter at enheds certifikatet udløber og ikke fornys, slettes enheden.
 
-**Bemærk:** I begge tilfælde skal enheden være registreret i Intune. Registrering sker under den første enheds checkin med Intune-tjenesten.
+**Bemærk!** I begge tilfælde skal enheden registreres korrekt i Intune. Registrering sker under første enheds indtjekning med Intune-tjenesten.
 
-Hvis en enhed tilmelder sig Intune, men ikke bliver Intune registreret, slettes enheden 270 dage efter tilmeldingen. (90 dage til at markere enheden som tilbagekaldt og derefter yderligere 180 dage til at slette posten).
+Hvis en enhed er tilmeldt Intune, men ikke bliver registreret som Intune, slettes enheden 270 dage efter tilmeldingen. (90 dage for at markere enheden som tilbagekaldt og derefter en anden 180 dage for at slette posten.)
 
-Der findes i øjeblikket ingen mekanisme i Intune-konsollen til at fastsætte udløbsdatoen for enhedscertificeringen for en given enhed.
+Der findes i øjeblikket ingen mekanisme i Intune-konsollen til at oprette udløbsdatoen for enheds certificeringen for en given enhed.

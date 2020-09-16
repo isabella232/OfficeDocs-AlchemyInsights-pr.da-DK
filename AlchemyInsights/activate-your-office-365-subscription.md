@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784001"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698055"
 ---
 # <a name="activate-your-subscription"></a>Aktivér dit abonnement
 
 **Aktivér et abonnement**
 
-- Hvis du vil give brugerne adgang til en tjeneste, skal du tildele dem en licens. For at få en vejledning om tildeling af licenser, skal du se [Tildel licenser til brugere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Hvis du vil give brugerne adgang til en tjeneste, skal du tildele dem en licens. For at få en vejledning om tildeling af licenser, skal du se [Tildel licenser til brugere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 - Hvis du allerede har fået tildelt en licens, kan du finde programmer, som du kan downloade fra siden [Min konto](https://portal.office.com/account/#installs). Denne side viser en liste over programmer, som du kan downloade, baseret på de licenser, der er blevet tildelt.
 
@@ -32,13 +33,13 @@ ms.locfileid: "43784001"
 
 Hvis dit abonnement udløber eller er blevet deaktiveret af Microsoft, eller hvis du har annulleret det midt i en abonnementsperiode, kan du genaktivere det i Microsoft 365 Administration.
 
-- I Microsoft 365 Administration skal du gå til siden [Abonnementer](https://go.microsoft.com/fwlink/p/?linkid=842054) eller (vælge **Fakturering > Abonnementer**).
+- I Microsoft 365 administration skal du gå til siden **Fakturering**  >  **[af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-- Vælg det abonnement, du vil genaktivere, og klik derefter på **Genaktiver**. Hvis **Genaktiver** ikke vises som en tilgængelig valgmulighed, [skal du ringe til support](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) for at genaktivere dit abonnement.
+- Vælg det abonnement, du vil genaktivere, og klik derefter på **Genaktiver**. Hvis **Genaktiver** ikke vises som en tilgængelig valgmulighed, [skal du ringe til support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) for at genaktivere dit abonnement.
 
-- Angiv dine betalingsoplysninger. Du kan også [opdatere dine eksisterende betalingsoplysninger](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) her.
+- Angiv dine betalingsoplysninger. Du kan også [opdatere dine eksisterende betalingsoplysninger](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) her.
 
-Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Aktivér et nyt abonnement med en produktnøgle**
 

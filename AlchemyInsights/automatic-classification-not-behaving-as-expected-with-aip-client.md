@@ -1,45 +1,46 @@
 ---
-title: Automatisk klassificering, der ikke fungerer som forventet med AIP-klienten
+title: Automatisk klassificering opfører sig ikke som forventet med AIP-klienten
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: d7a2246d78cbd6c4ab40c2a4e5a21807933b619a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508370"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715195"
 ---
-# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automatisk klassificering, der ikke fungerer som forventet med AIP-klienten
+# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automatisk klassificering opfører sig ikke som forventet med AIP-klienten
 
-Automatisk klassificering ikke opfører sig som forventet, skal du bruge følgende anbefalede retningslinjer:
+Automatisk klassificering opfører sig ikke som forventet, brug følgende anbefalede retningslinjer:
 
-1. Hvis du har problemer med automatisk mærkning, skal du se [Sådan konfigureres betingelserne for automatisk og anbefalet klassificering af Azure Information Protection,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) og [hvad de følsomme oplysningstyper søger efter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-2. Kontrollér, om du bruger scoped-politikker, der ikke er konfigureret korrekt: [Sådan konfigureres politikken for Azure Information Protection for bestemte brugere ved hjælp af politikker for omfang](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
-3. Hvis automatisk mærkning ikke fungerer for Outlook, når du vedhæfter et navngivet dokument, skal du kontrollere, at det `DRMEncryptProperty` ikke er defineret som beskrevet her: [IRM-registreringsdatabaseindstillinger for sikkerhed](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
-4. Hvis du har brugt de [indbyggede oplysningstyper til](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) din politik til Beskyttelse af Azure Information, skal du kontrollere, at dit indhold svarer til det forventede format.
-5. Kontroller, at etiketten er konfigureret korrekt til **Automatisk** eller **Anbefalet**. **(Automatisk** mærkning er tilgængelig for alle Office-apps, mens **Anbefalet** er tilgængelig for alle Office-apps undtagen Outlook).
-6. Du kan ikke bruge automatisk klassificering til dokumenter og mails, der tidligere var manuelt mærket eller tidligere automatisk mærket med en højere klassificering.  Du kan finde flere oplysninger under: [Sådan anvendes automatiske eller anbefalede etiketter](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
-7. Hvis du stadig oplever problemer, skal du indsamle Azure Information Protection-klientlogfiler og vedhæfte de eksporterede logfiler til din supportbillet. Sådan eksporteres Azure Information Protection-logfiler:
-    - Åbn et Office-dokument, eller opret en ny mail i Outlook.
-    - Klik på **Hjælp til beskyttelse/følsomhed**  >  **og feedback**.
+1. Hvis du har problemer med automatisk mærkning, kan du se, [hvordan du konfigurerer betingelser for automatisk og anbefalet klassificering til Azure information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) , og [hvad de følsomme oplysningstyper ser ud](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+2. Kontrollér, om du brugerområde politikker, der ikke er konfigureret korrekt: [Sådan konfigurerer du politikken for Azure-informations beskyttelse for bestemte brugere ved hjælp af område politikker](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+3. Hvis automatisk mærkning ikke fungerer i Outlook, når du vedhæfter et mærket dokument, skal du bekræfte, at det `DRMEncryptProperty` ikke er defineret som beskrevet her: [IRM-registreringsdatabaseindstillinger for sikkerhed](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
+4. Hvis du har brugt de [indbyggede oplysningstyper](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) til din Azure information Protection-politik, skal du bekræfte, at dit indhold passer til det forventede format.
+5. Kontrollér, at navnet er korrekt konfigureret til **automatisk** eller **anbefalet**. (**Automatisk** mærkning er tilgængelig for alle Microsoft 365-apps, hvorimod **anbefales** til alle Microsoft 365-apps undtagen til Outlook).
+6. Du kan ikke bruge automatisk klassificering for dokumenter og mails, der tidligere blev mærket manuelt, eller som automatisk blev mærket med en højere klassificering.  Du kan finde flere oplysninger i: [Sådan anvendes automatiske eller anbefalede etiketter](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
+7. Hvis du stadig har problemer, skal du indsamle en anmodning om at indsamle en klient og knytte de eksporterede logfiler til din support billet. Sådan eksporterer du Azure Data Protection-logfiler:
+    - Åbn et Office-dokument, eller Opret en ny mail i Outlook.
+    - Klik på **Beskyt/følsomhed**  >  **Hjælp og feedback**.
     - Klik på **Eksportér logfiler**.
-    - Gem logfilerne til dit valg af placering, og vedhæft dem til din serviceanmodning.
+    - Gem logfilerne til dit valg af placering, og knyt dem til din serviceanmodning.
 
-Yderligere oplysninger finder du i:
+Du kan finde flere oplysninger i:
 
-- [Sådan konfigureres betingelser for automatisk og anbefalet klassificering af Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
-- [Vejledninger til almindelige scenarier, der bruger Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)
-- [Gennemse dokumentationen til Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Gennemse Azure Information Protection-abonnementer og -funktioner](https://azure.microsoft.com/pricing/details/information-protection)
-- [Krav til Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Selvstudium til hurtig start til Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Download Azure Information Protection-klient](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Sådan konfigureres betingelserne for automatisk og anbefalet klassificering til Azure information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
+- [Vejledninger til almindelige scenarier, der bruger Azure information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)
+- [Gennemgå dokumentationen til Azure information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Gennemgå abonnementer og funktioner til Azure-informations beskyttelse](https://azure.microsoft.com/pricing/details/information-protection)
+- [Krav til Azure information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Startvejledning til hurtig start til Azure information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Hent Azure information Protection-klient](https://www.microsoft.com/download/details.aspx?id=53018)

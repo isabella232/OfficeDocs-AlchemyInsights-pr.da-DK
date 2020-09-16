@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001473"
 - "3501"
-ms.openlocfilehash: 5bd53d40f14a8116d2efa4a6a4bf0714381a2de4
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
-ms.translationtype: HT
+ms.openlocfilehash: 2793234c4601c20efb1510970608816c48de1a5e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034208"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696183"
 ---
 # <a name="install-windows-on-a-nonfunctional-pc"></a>Installer Windows på en pc, der ikke er funktionel
 

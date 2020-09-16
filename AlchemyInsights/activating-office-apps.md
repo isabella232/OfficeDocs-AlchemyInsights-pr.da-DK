@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735206"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697983"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivering af Microsoft 365-apps
 
@@ -26,7 +27,7 @@ Kan ikke aktivere Office. Se:
 
 - [Aktivér Office på en Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Bemærk:**  Sørg for, at du har et Office 365- eller Microsoft 365-abonnement, der [omfatter Office-klientapps,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)f.eks. Sørg desuden for, at den brugerkonto, du bruger til at logge på Office-apps, har [fået tildelt en licens](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Bemærk:**  Sørg for, at du har et Office 365-eller Microsoft 365-abonnement, der [omfatter Office-klientprogrammer](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), f. eks Microsoft 365 Business standard, Microsoft 365-apps til virksomheder eller Microsoft-365 apps til virksomheder. Du skal desuden sørge for, at den brugerkonto, du bruger til at logge på Office-Apps, har [fået tildelt en licens](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 For at løse problemer med aktivering af office, skal du se:
 

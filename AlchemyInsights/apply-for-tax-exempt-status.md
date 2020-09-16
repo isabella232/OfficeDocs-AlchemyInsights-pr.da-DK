@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
-ms.translationtype: HT
+ms.openlocfilehash: 0e84de8568adca684e4d2497438f54c9d31ea49e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286491"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716779"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Ansøg om momsfritagelse
 
-Hav følgende dokumentation klar. Du skal [starte en serviceanmodning](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) for at etablere momsfritagelsesstatus.
+Hav følgende dokumentation klar. Du skal [starte en serviceanmodning](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) for at etablere momsfritagelsesstatus.
 
 - **USA** – Hav **Sales Tax Exemption Certificate** klar.
 
@@ -32,4 +33,4 @@ Hav følgende dokumentation klar. Du skal [starte en serviceanmodning](https://d
 
 - **Puerto Rico** – Hav **Certificado de Compras Exentas** klar.
 
-Hvis du vil have mere at vide, skal du se [Momsoplysninger](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide).
+Hvis du vil have mere at vide, skal du se [Momsoplysninger](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
