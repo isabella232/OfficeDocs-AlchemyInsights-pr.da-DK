@@ -1,25 +1,26 @@
 ---
-title: Følge eller fortryde opfølgningen af et SharePoint-websted
+title: Følge eller fjerne et SharePoint-websted
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5b2a44422cc49b0f0e20a7ddd802a661d4fadc5e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720920"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744409"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Følge eller fortryde opfølgningen af et SharePoint-websted
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Følge eller fjerne et SharePoint-websted
 
-Hvis brugerne oplever problemer med at følge eller ikke følge SharePoint-ressourcer, skal du udføre disse trin:
+Hvis brugerne oplever problemer, der følger eller ikke følger SharePoint-ressourcer, skal du udføre disse trin:
 
-* Bed brugeren om at logge af og logge på SharePoint igen, og prøv de samme trin for at følge/holde op med at følge SharePoint-ressourcen.
-* Find ud af, om problemet skyldes et bestemt websted eller alle websteder. Hvis problemet opstår med bestemte websteder, skal du sørge for, at funktionen "Følgende indhold" er aktiv for webstedet ved at gå til **Indstillinger for websted > Administrer webstedsfunktioner > Følgende indhold**. Hvis funktionen er indstillet til Aktiv, kan du prøve at deaktivere og aktivere funktionen igen for webstedet.
-* Bed brugeren om at prøve en anden internetbrowser for at se, om problemet er specifikt for brugerens browser.
-* Hvis alle brugere og alle websteder oplever det samme problem, skal du kontrollere Dashboardet for [tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din organisation er påvirket.
+* Bed brugeren om at logge af og logge på SharePoint igen, og prøv at følge de samme trin for at følge/fravælge SharePoint-ressourcen.
+* Find ud af, om problemet er med et bestemt websted eller alle websteder. Hvis problemet opstår med bestemte websteder, skal du sikre dig, at funktionen "følger indhold" er aktiv for webstedet, ved at gå til websteds **indstillinger > Administrer webstedsfunktioner > efter indhold**. Hvis funktionen er angivet til aktiv, kan du prøve at deaktivere og aktivere funktionen igen for webstedet.
+* Bed brugeren om at prøve en anden internet browser for at se, om problemet er specifikt for brugerens browser.
+* Hvis alle brugere og alle websteder oplever det samme problem, skal du markere [dashboardet for tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din organisation er påvirket.
