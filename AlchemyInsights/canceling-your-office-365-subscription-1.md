@@ -1,11 +1,12 @@
 ---
-title: Vil du annullere dit Microsoft 365-abonnement?
+title: Annullerer du dit Microsoft 365-abonnement?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: a8443f0cdab72d8760ae72e9d20dd3f49870f585
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508226"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757222"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Vil du annullere dit Microsoft 365-abonnement?
+# <a name="canceling-your-microsoft-365-subscription"></a>Annullerer du dit Microsoft 365-abonnement?
 
-Vi beklager at se dig gå, men her er dine muligheder for at annullere dit abonnement:
+Vi er kede af, at du er på farten, men her er dine muligheder for at annullere dit abonnement:
   
-- **Baseret på dine organisationsdata mener vi, at alle dine nuværende abonnementer er prøveabonnementer. Der er ingen grund til udtrykkeligt at annullere et prøveabonnement, fordi prøveabonnementer ikke kræver betalinger, og der er ingen forpligtelse, når prøveperioden slutter.**
+- **Afhængigt af dine organisationsdata mener vi, at alle dine aktuelle abonnementer er prøve abonnementer. Der er ingen grund til at annullere et prøveabonnement eksplicit, da prøve abonnementer ikke kræver nogen betaling, og der ikke er nogen forpligtelse, når prøveperioden udløber.**
 
-- Du kan få mere at vide om annullering af et abonnement eller en trinvis vejledning i denne artikel: [Annullere dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- Hvis du vil vide mere om at annullere et abonnement eller få en trinvis vejledning, skal du se denne artikel: [annullere dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

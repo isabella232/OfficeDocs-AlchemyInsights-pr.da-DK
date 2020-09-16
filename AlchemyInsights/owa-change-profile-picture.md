@@ -6,23 +6,24 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: cce75481d3102aa6516fe18939e06fc9d5ff47bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d8357eae3d8765df454922c50a86308253406d32
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764758"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759141"
 ---
 # <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Ændre dit profilbillede i Outlook på internettet
 
 1. Øverst på siden skal du vælge dit navn eller profilbillede.
-1. Vælg dit profilbillede i ruden **Min konto.**
-1. Vælg **Overfør et nyt billede**i dialogboksen **Skift dit billede.**
-1. Vælg et billede, der skal overføres, og vælg **Anvend**.
+1. I ruden **min konto** skal du vælge dit profilbillede.
+1. I dialogboksen **Skift dit billede** skal du vælge **upload et nyt billede**.
+1. Vælg det billede, du vil overføre, og vælg **Anvend**.
 
 *Bemærk:* Dit nye billede vises, næste gang du logger på Microsoft 365.
 
-Du kan finde flere oplysninger under [Ændre dine foto- og kontooplysninger i Outlook på internettet](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Hvis du vil have mere at vide, skal du se [ændre dine foto-og kontooplysninger i Outlook på internettet](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

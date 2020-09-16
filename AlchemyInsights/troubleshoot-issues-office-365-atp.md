@@ -1,30 +1,31 @@
 ---
-title: Fejlfinding i forbindelse med problemer med Office 365 Advanced Threat Protection (ATP)
+title: Fejlfinding af problemer med Office 365 Advanced Threat Protection (DTT)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511106"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758059"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Fejlfinding i forbindelse med problemer med Office 365 ATP
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Fejlfinding af problemer med Office 365 DTT
 
-- **Meddelelse forsinkelser med levering af e-mail-besked?** Prøv at bruge indstillingen Dynamisk levering til dine politikker for safe attachments for ATP. Derved undgås forsinkelser i leveringen af e-mails, samtidig med at modtagerne beskyttes mod skadelige filer.
-- **Vil du rapportere falske positiver eller falske negativer?** Brug dette link til at sende filen til analyse:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Vidste du, at du kan aktivere BESKYTTELSE OM ATP Safe Links for mails, der sendes mellem personer i organisationen?** Følg disse trin:
+- **Oplever du forsinkelser med levering af mail**? Prøv at bruge indstillingen dynamisk levering for dine ATP-politikker for sikre vedhæftede filer. Dette vil undgå forsinkelser i levering af mails, når du beskytter modtagere fra ondsindede filer.
+- **Vil du rapportere falske positive eller falske negativer**? Brug dette link til at sende filen til analyse: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Vidste du, at du kan aktivere beskyttelse med ATP sikre links for mails, der sendes mellem personer i organisationen**? Følg disse trin:
     1. Gå til https://protection.office.com , og log på.
-    2. Gå til **Beskyttelseslinks til trusselshåndteringspolitik**  >  **Policy**  >  **Safe Links**.
-    3. Under **Politikker, der gælder for bestemte modtagere**, skal du redigere (eller tilføje) en politik.
-    4. Vælg **Anvend sikre links på meddelelser, der sendes i organisationen**.
-    5. Gem din politik, og giv dig ca. 30 minutter til, at ændringerne kan arbejde sig gennem dit datacenter.
-- Hvis du vil have mere hjælp til ATP, skal du se [Avanceret beskyttelse mod trusler i Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+    2. Gå til politik for sikre **trusler administration**  >  **Policy**  >  **Safe Links**.
+    3. Under **politikker, der gælder for bestemte modtagere**, skal du redigere (eller tilføje) en politik.
+    4. Vælg **Anvend sikre links til meddelelser, der sendes inden for organisationen**.
+    5. Gem din politik, og Tillad ca. 30 minutter, før dine ændringer fungerer på deres måde gennem dit datacenter.
+- Hvis du vil have mere hjælp til DTT, skal du se [Office 365 Advanced Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
