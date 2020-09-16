@@ -1,10 +1,11 @@
 ---
-title: Fejlfinding i forbindelse med livehændelser i Microsoft Stream
+title: Fejlfinding af live-begivenheder i Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: 1b981cb98f779fb16dff8d0b75daf65a29dab5cb
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 18ffe57c251db9c36f8c7ab56633fe3772f8aa4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282656"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749833"
 ---
-# <a name="troubleshooting-live-events-in-microsoft-stream"></a>Fejlfinding i forbindelse med livehændelser i Microsoft Stream
+# <a name="troubleshooting-live-events-in-microsoft-stream"></a>Fejlfinding af live-begivenheder i Microsoft Stream
 
-Der er forskellige områder, der skal kontrolleres for at sikre, at Live-begivenheder i Microsoft Stream kører problemfrit. Yderligere oplysninger finder du [i Troubleshooting live events in Microsoft Stream](https://docs.microsoft.com/stream/live-event-troubleshooting).
+Der er forskellige områder, der skal kontrolleres for at sikre, at Microsoft stream live-hændelser kører problemfrit. Hvis du vil have mere at vide, skal du se [fejlfinding af live-begivenheder i Microsoft Stream](https://docs.microsoft.com/stream/live-event-troubleshooting).

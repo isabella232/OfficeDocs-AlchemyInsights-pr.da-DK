@@ -1,26 +1,27 @@
 ---
-title: Aktiveringsproblem - Konto tillader ikke redigering på Mac
+title: Aktiverings problem – kontoen tillader ikke redigering på Mac
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 4f1c457f4f8f83da0b5146fd7189654428aa5ec4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576950"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748823"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Rettelse af Microsoft 365-apps "Din konto tillader ikke redigering på en Mac"
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Rettelse af Microsoft 365-apps "din konto tillader ikke redigering på en Mac"-meddelelse
 
-Hvis du modtager denne meddelelse, kan du prøve følgende:
+Hvis du får vist denne meddelelse, kan du prøve følgende:
 
 - Sørg for, at du har et abonnement, der tillader klientlicenser, og [sørg for, at brugeren har fået tildelt en licens](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Download og kør [værktøjet til fjernelse af licens](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
