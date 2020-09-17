@@ -1,30 +1,31 @@
 ---
-title: Oprette en ekstern skærm
+title: Konfigurere en ekstern skærm
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: b9ec34f420092d5ca46137739a848cf413253a6b
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738388"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773887"
 ---
-# <a name="set-up-one-monitor"></a>Oprette en skærm
+# <a name="set-up-one-monitor"></a>Konfigurere én skærm
 
-**Tjek din pc's projekt indstillinger**
+**Kontrollér din PC'S Projektindstillinger**
 
-1. Åbn dine projekt indstillinger ved at trykke på følgende taster på samme tid: Windows-tasten (Windows logo Start button) + P.
-2. Vælg **Dupliker**, **Udvid**eller **kun anden skærm**, afhængigt af dine præferencer.
+1. Åbn projektindstillingerne ved at trykke på følgende taster på samme tid: Windows-tasten (knappen Start i Windows-logoet) + P.
+2. Vælg kun **dublerede**, **udvidede**eller **andet skærmbillede**, afhængigt af dine præferencer.
 
-**Bemærk:** Hvis din PC kun har én skærmport (f. eks. HDMI eller VGA), skal du bruge en dockingstation eller en USB-adapter til at konfigurere flere skærme.
+**Bemærk:** Hvis din PC kun har én skærmport (f. eks. HDMI eller VGA), skal du bruge en dockingstation eller et USB-kort for at konfigurere flere skærme.
 
-Også, hvis du kan oprette en skærm, men ikke flere, din PC er muligvis ikke kompatibel med flere skærme. Tjek din pc's originale dokumenter for mere info.
+Hvis du også kan konfigurere én skærm, men ikke flere, er din PC muligvis ikke kompatibel med flere skærme. Kontrollér din PC'S originale dokumenter for at få flere oplysninger.

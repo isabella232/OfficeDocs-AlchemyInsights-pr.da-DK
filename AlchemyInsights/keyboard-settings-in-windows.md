@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 0359163206ef9ddf0bac7b0ee4b44ed3a016f918
-ms.sourcegitcommit: 4c64a8974c87fa69babaf920b0895f0c17c2d346
+ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415350"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772797"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Tastaturindstillinger i Windows 10
 
-**Tekstindstillinger**
+**Type indstillinger**
 
-Hvis du vil ændre Windows-indstillinger, der er relateret til stavekontrol, automatisk rettelse, forslag og andre aspekter af hardware- og berøringstastaturet, skal du gå til **Indstillinger > Enheder > Skrive**. 
+Hvis du vil ændre Windows-indstillinger, der er relateret til Stavekontrol, Autokorrektur, forslag og andre aspekter af dit hardware-og berøringstastatur, skal du gå til **indstillinger > enheder > at skrive**. 
 
-**Sprog- og tastaturindstillinger**
+**Indstillinger for sprog og tastatur**
 
-Hvis du vil ændre indstillinger, der er relateret til, hvilket tastatur eller hvilken inputmetode der skal bruges til et Windows-sprog, skal du gå til **Indstillinger > Tid & Sprog > Sprog**. Vælg sprog på listen **Foretrukne sprog,** og klik på **Indstillinger** for at tilføje/fjerne tastaturer eller inputmetoder (IME'er).
+Hvis du vil ændre indstillinger for, hvilket tastatur eller hvilken inputmetode der skal bruges til et Windows-sprog, skal du gå til **indstillinger > tids & sprog > sprog**. Vælg sprog på listen **foretrukne sprog** , og klik på **Indstillinger** for at tilføje/fjerne tastaturer eller inputmetoder (IME'er).

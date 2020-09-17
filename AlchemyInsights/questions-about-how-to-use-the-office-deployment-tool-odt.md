@@ -1,30 +1,31 @@
 ---
-title: Spørgsmål om, hvordan ODT (Office Deployment Tool) bruges
+title: Spørgsmål om, hvordan du bruger Office udrulnings værktøj (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 4aef42df4dde17d15863fca67e41f0ff23e506dc
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: e9f7581fd21cf5ca2d712038c4b73b67d08f3a76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010726"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774885"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Spørgsmål om, hvordan ODT (Office Deployment Tool) bruges
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Spørgsmål om, hvordan du bruger Office udrulnings værktøj (ODT)
 
-Hent Office-installationsværktøjet fra [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+Hent Office-udrulnings værktøjet fra [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Når du har hentet filen, skal du køre den selvudpakkende eksekverbare fil, som indeholder eksekverbar Office Deployment Tool (setup.exe) og en eksempelkonfigurationsfil (configuration.xml).
+Når du har downloadet filen, skal du køre den selvudpakkende eksekverbare fil, der indeholder Office-udrulnings værktøjet eksekverbar fil (setup.exe), og en eksempel konfigurations fil (configuration.xml).
   
- **Sådan udelukkes eller fjernes Microsoft 365 Apps til virksomhedsprodukter fra klientcomputere:**
+ **Hvis du vil udelade eller fjerne Microsoft 365-apps til virksomheds produkter fra klientcomputere, skal du gøre følgende:**
   
-Når du installerer Microsoft 365 Apps til virksomheder, kan du ekskludere bestemte produkter. Det kan du gøre ved at følge trinnene til installation af Office med ODT, men inkludere elementet ExcludeApp i konfigurationsfilen. Denne konfigurationsfil installerer f.eks.
+Når du installerer Microsoft 365-apps til Enterprise, kan du udelukke bestemte produkter. Hvis du vil gøre dette, skal du følge trinnene for at installere Office med ODT, men medtage ExcludeApp-elementet i konfigurationsfilen. For eksempel installerer konfigurationsfilen alle Microsoft 365-apps til virksomheds produkter undtagen Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +36,6 @@ Når du installerer Microsoft 365 Apps til virksomheder, kan du ekskludere beste
 </Add>
 ```
 
-[Oversigt over Office-installationsværktøjet](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[Oversigt over Office-udrulnings værktøjet](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 

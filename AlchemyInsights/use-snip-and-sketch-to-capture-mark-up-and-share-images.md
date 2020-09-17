@@ -1,39 +1,40 @@
 ---
-title: Brug Klip & Skitse til at optage, markere og dele billeder
+title: Brug klip & skitser til at tage, markere og dele billeder
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584471"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773193"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Brug Klip & Skitse til at optage, markere og dele billeder
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Brug klip & skitser til at tage, markere og dele billeder
 
-Skærm skitse kaldes nu **Snip & Sketch**. **Sådan tager du hurtigt et klip:**
+Skærm skitsen hedder nu **klip & skitser**. **Hvis du hurtigt vil tage et klip**:
 
-1. Tryk på **Windows-tasten + Skift + S**. Skærmen bliver mørkere, og markøren vises som et kryds. 
+1. Tryk på **Windows-tasten + Skift + S**. Du får vist din skærm mørkere, og markøren vises som et kryds. 
 
-2. Vælg et punkt i kanten af det område, du vil kopiere, og venstreklik på markøren. 
+2. Vælg et punkt på kanten af det område, du vil kopiere, og venstreklik på markøren. 
 
-3. Flyt markøren for at fremhæve det område, du vil hente. Det område, du optager, vises på skærmen.
+3. Flyt markøren for at fremhæve det område, du vil hente. Det område, du registrerer, vises på skærmen.
 
    ![billede af fremhævet markering](media/snipone.png)
 
-Det billede, du har klippet, gemmes i Udklipsholder, så du er klar til at indsætte i en mail eller et dokument. 
+Det billede, du har afklippet, gemmes i din Udklipsholder, som er klar til at indsætte i en mail eller et dokument. 
 
-**Hvis du vil redigere eller se billedet:** 
+**Hvis du vil redigere eller få vist billedet**: 
 
-- Klik på meddelelsesikonet yderst til højre på proceslinjen. klik derefter på det billede, du lige har taget. Dit klip åbnes i appen Klip & Skitse.
+- Klik på meddelelses ikonet yderst til højre på proceslinjen. Klik derefter på det billede, du lige har hentet. Dit klip åbnes i appen klip & skitser.
 
-   ![billede af billede, der vises i klippeapp](media/sniptwo.png)
+   ![billede af billede, der vises i klippe-app](media/sniptwo.png)
