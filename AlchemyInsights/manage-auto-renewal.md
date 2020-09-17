@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 903e4a83a00b2ab8d6068b3bc7ee88a73e6d5cdc
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 67c52866f683c6d14171ac8e96b82f75d821017a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063827"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778181"
 ---
 # <a name="manage-recurring-billing"></a>Administrere tilbagevendende fakturering
 
-Du kan slå tilbagevendende fakturering til eller fra i Microsoft 365 Administration.
+Du kan slå tilbagevendende fakturering til eller fra i Microsoft 365 administration.
   
-1. Gå til siden Fakturering **af** produkter i \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** Administration.
+1. I administration skal du gå til siden **Fakturering** \> **[af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Vælg **Billing**Rediger ud for **Forny** eller **Udløber på**under **Fakturering**.
+2. Under **Fakturering**skal du vælge **Rediger**ud for forekommende **nyheder om** eller **udløber den**.
 
-3. Vælg Slå fra i ruden **Indstillinger for tilbagevendende fakturering** for at slå den fra. **Turn OFF** Hvis tilbagevendende fakturering allerede er slået fra, skal du vælge **Månedlig** eller **Én gang** for at slå den til.
+3. I ruden **Indstillinger for tilbagevendende fakturering** skal du vælge **slå fra** for at slå den fra. Hvis tilbagevendende fakturering allerede er slået fra, skal du vælge **månedligt** eller **én gang** for at aktivere det.
 
 4. Vælg **Send ændring**.
 
