@@ -1,24 +1,25 @@
 ---
-title: Fejl i Office-apps – Produkterne, vi fandt på din konto, kan ikke bruges til at aktivere
+title: Microsoft 365 apps-meddelelse – de produkter, vi fandt på din konto, kan ikke bruges til at aktivere
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 6345f3acabb73f283c918cf7f3ca0c5c055f6186
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010716"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802735"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Fejl i Office-apps – Produkterne, vi fandt på din konto, kan ikke bruges til at aktivere
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Microsoft 365 apps-meddelelse – de produkter, vi fandt på din konto, kan ikke bruges til at aktivere
 
 - Kontrollér, at din [abonnementsstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) er gyldig, og at den pågældende bruger har en [gyldig licens tildelt](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) og har forbindelse til internettet. 
 
@@ -26,7 +27,7 @@ ms.locfileid: "44010716"
 
 - Kør [Fejlfindingsværktøjet til aktivering](https://aka.ms/SARA-OfficeActivation-Alchemy), og genstart computeren.
 
-- [Nulstil aktiveringstilstand for Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632) på den berørte computer.
+- [Nulstil aktiveringstilstand for Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state) på den berørte computer.
 
 Ved scenarier for delte computere skal du se [Fejlfinding af problemer med aktivering af delt computer for Microsoft 365-apps](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 
