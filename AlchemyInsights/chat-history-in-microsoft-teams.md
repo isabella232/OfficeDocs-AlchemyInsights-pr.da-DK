@@ -1,27 +1,28 @@
 ---
-title: Chathistorik i Microsoft Teams
+title: Chat oversigt i Microsoft teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: ab241752d969acab237779c514d89b2a0c30c222
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 3b2821f1ad12db70d5c52cbd8d763fe8a3c9c397
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580579"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812433"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a>Visning af chathistorik i Microsoft Teams
+# <a name="viewing-chat-history-in-microsoft-teams"></a>Få vist Chat oversigt i Microsoft teams
 
-Hvis du vil se Teams-chathistorik, kan du bruge [Indholdssøgning](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [Sikkerhedscenter & Compliance Center](https://sip.protection.office.com/insightdashboard), hvor du kan søge i den postkasse, der er knyttet til en Microsoft 365-gruppe eller et Microsoft-team. 
+Hvis du vil se chat oversigterne, kan du bruge [indholdssøgning](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) fra [sikkerheds & overholdelses Center](https://sip.protection.office.com/insightdashboard), hvor du kan søge efter den postkasse, der er knyttet til en Microsoft 365-gruppe eller et Microsoft-team. 
 
-Se [Søge i Microsoft Teams og Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/compliance/content-search) for at få mere at vide om søgefunktionerne fra Sikkerheds- og Overholdelsescenter. 
+Se [søgning i Microsoft teams og Microsoft 365-grupper](https://docs.microsoft.com/microsoft-365/compliance/content-search) for at få mere at vide om søgefunktionerne i sikkerheds-og overholdelses centeret. 
 
-**Bemærk:** Sikkerhedskopiering, eksport, udskrivning og arkivering af samtaleoversigt er i øjeblikket ikke tilgængelig direkte fra Microsoft Teams. Stem på denne funktion i [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 
+**Bemærk:** Det er i øjeblikket ikke muligt at sikkerhedskopiere, eksportere, udskrive og arkivere samtaleoversigten direkte fra Microsoft teams. Du kan stemme overens med denne funktion i [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 

@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 2f2d4f7c093d62267bb859e96493ec6d09452c7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699513"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815779"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Opdater DNS-poster for at beholde dit websted hos din nuværende udbyder
 
-1. I Microsoft 365 administration skal du gå til siden **konfigurations**  >  [domæner](https://portal.office.com/adminportal/home#/Domains) og vælge det domæne, du vil bruge til dit websted, på listen over domæner.
+1. I Microsoft 365 administration skal du gå til siden **konfigurations**  >  [domæner](https://admin.microsoft.com/Adminportal#/Domains) og vælge det domæne, du vil bruge til dit websted, på listen over domæner.
 
 2. Vælg **+ ny brugerdefineret post** , og angiv følgende:
 
