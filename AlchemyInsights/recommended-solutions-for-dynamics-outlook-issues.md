@@ -1,9 +1,10 @@
 ---
-title: Anbefalede løsninger for Dynamics 365 storageproblemer
+title: Anbefalede løsninger til lager problemer i Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,31 +14,31 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 7ab6d5b4ba468505b22ce5a4258cc962e9e3a268
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: c1abfd5a5f52e1a4ec77f319375dfe2cf53f76a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753177"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801466"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Anbefalede løsninger til Dynamics 365 storageproblemer
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Anbefalede løsninger til lager problemer i Dynamics 365
 
-* [App: Ikke returneret nogen søgeresultater i angående opslag](https://support.microsoft.com/help/4489111)
+* [App: der returneres ingen søgeresultater i forbindelse med opslag](https://support.microsoft.com/help/4489111)
 
-* [App: Fejlmeddelelse, når du åbner App til Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [App: der vises en fejl, når du åbner en app til Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [App: E-mail eller aftale vises som "Afventer spor"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [App: mail eller aftale vises som "Registrer afventende"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [App: Tom side vises, når du åbner App til Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [App: tom side vises, når du åbner app til Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [Fuld klient: Kan ikke oprette forbindelse D365 til Outlook version 8.x til en forekomst af version 9.x D365](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [Fuld klient: kan ikke oprette forbindelse mellem D365 til Outlook version 8. x til en version 9. x D365 forekomst](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [Fuld klient: "venter på en side, der skal hentes fra en CRM-serveren..." meddelelsen vises](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [Fuld klient: "venter på, at en side hentes fra en CRM-Server..." meddelelse vises](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [Fuld klient: Diagnosticere D365 til Outlook-problemer](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [Fuld klient: Diagnosticer D365 for Outlook-problemer](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [App: Fejlfinding i forbindelse med D365 App til Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [App: fejlfinding af D365-appen til Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [App: Sådan installeres](https://go.microsoft.com/fwlink/p/?linkid=857071)
+* [App: Sådan installerer du](https://go.microsoft.com/fwlink/p/?linkid=857071)
 
-* [App: Brugervejledningen](https://go.microsoft.com/fwlink/p/?linkid=857091)
+* [App: Brugervejledning](https://go.microsoft.com/fwlink/p/?linkid=857091)

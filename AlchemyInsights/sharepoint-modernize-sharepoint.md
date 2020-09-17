@@ -4,30 +4,31 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 46d482f7dfdded0dd5d777e3c6890dcef0a1ea5c
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: ede4bdc938627806bce0651d7811c5fb0ad1cdcc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912816"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800602"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Modernisere din klassiske SharePoint-oplevelse
 
-Hvis du vil skifte til den moderne brugergrænseflade, skal du gennemse følgende ressourcer:
+Hvis du vil skifte til den moderne brugergrænseflade, skal du gennemgå følgende ressourcer:
 
-- [Opret **moderne websteder** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (teamwebsted eller kommunikationswebsted). Brug [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) til at opbygge et smukt, kraftfuldt intranet, der forbinder arbejdspladsen. Se [eksempler,](https://lookbook.microsoft.com/) og få [designvejledning](https://spdesign.azurewebsites.net/).
-- [Forbind dit websted med en **Microsoft 365-gruppe** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) for at øge samarbejdet på tværs af Microsoft 365.
-- Transformer til den **moderne liste- og biblioteksoplevelse** ved [at gøre det muligt for lister og biblioteker at blive vist i den moderne brugergrænseflade](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-- Omdan **webstedssider** fra klassisk **wiki**, **webdel**og **startsider** til [moderne sider på klientsiden](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). [SharePoint-moderniseringsscanneren](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) indeholder oplysninger om brug af sider om de aktuelle wiki- og webdelssider, der kan hjælpe dig med at prioritere sidetransformation.
+- [Opret **moderne websteder** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (team websted eller kommunikationswebsted). Brug [SharePoint-udseende](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) til at opbygge et smuk, stærkt intranet, der forbinder arbejdspladsen. Se [eksempler](https://lookbook.microsoft.com/) , og få [designvejledning](https://spdesign.azurewebsites.net/).
+- [Forbind dit websted til en **Microsoft 365-gruppe** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) for at øge samarbejdet på tværs af Microsoft 365.
+- Omdan til den **moderne liste og Biblioteks** oplevelse ved at [aktivere lister og biblioteker, som vises i den moderne brugergrænseflade](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+- Transformere **webstedssider** fra klassisk **wiki**, **webdel**og **hjemme** sider til [moderne sider på klientsiden](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). I [SharePoint Modernization-scanneren](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) kan du se oplysninger om side forbrug for den aktuelle wiki og de aktuelle webdelssider, der kan hjælpe dig med at prioritere side transformeringen.
 
 Yderligere oplysninger:
 
-- Du kan finde en trinvis oversigt over, hvordan du moderniserer din klassiske SharePoint-oplevelse til det moderne, under [Modernisere din klassiske SharePoint-oplevelse.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
-- Se en guide til [moderne oplevelse.](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)
-- Se Oplevelser med [SharePoint Classic og Moderne](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
+- Hvis du vil have en trinvis oversigt over modernizing din klassiske SharePoint-oplevelse til moderne, skal du se [modernisere din klassiske SharePoint-oplevelse](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Se en vejledning til [moderne oplevelse](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Se [klassiske SharePoint-og moderne oplevelser](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
