@@ -1,22 +1,23 @@
 ---
-title: Spørgsmål om ind- og udtjekningsfiler
+title: Spørgsmål om at tjekke filer ind og ud
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
-ms.openlocfilehash: 3e744c70e890e63890a0488e73dcf5bca4e4e54c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 784b4c3e3375930a9391b4665f245f30a4567fe5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698304"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811929"
 ---
-# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="5d7a1-102">Spørgsmål om ind- og udtjekningsfiler</span><span class="sxs-lookup"><span data-stu-id="5d7a1-102">Questions about check in and out files</span></span>
+# <a name="questions-about-check-in-and-out-files"></a><span data-ttu-id="f54d0-102">Spørgsmål om at tjekke filer ind og ud</span><span class="sxs-lookup"><span data-stu-id="f54d0-102">Questions about check in and out files</span></span>
 
-<span data-ttu-id="5d7a1-103">Hvis du vil gennemgå nogle ofte stillede spørgsmål, herunder hvordan du tjekker filer ind og ud, og hvordan du kasserer en udtjekning i SharePoint Online, skal du se [De vigtigste spørgsmål om udtjekning, tjek ind.](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="5d7a1-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
+<span data-ttu-id="f54d0-103">Hvis du vil gennemgå nogle ofte stillede spørgsmål, herunder hvordan du tjekker filer ind og ud, og hvordan du kan se, hvordan du kan tjekke et Tjek ud i SharePoint Online, skal du se de [vigtigste spørgsmål om udtjekning, Tjek ind.](https://go.microsoft.com/fwlink/?linkid=2018786)</span><span class="sxs-lookup"><span data-stu-id="f54d0-103">To review some frequently asked questions including how to check files in and out, and how to discard a check out in SharePoint Online, see [Top questions about check out, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)</span></span>
   
 
