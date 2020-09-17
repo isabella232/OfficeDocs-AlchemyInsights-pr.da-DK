@@ -1,29 +1,30 @@
 ---
-title: Tjenestehændelse i gang
-ms.author: v-crytho
+title: Tjeneste hændelse i gang
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: 8f3cc2d96e981edf4f573d4a5c2ceb9750d11367
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 344507c74530f6f7b91fad68025554d0c6a6a004
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719604"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799054"
 ---
-# <a name="service-incident-in-progress"></a>Tjenestehændelse i gang
+# <a name="service-incident-in-progress"></a>Tjeneste hændelse i gang
 
-Du kan blive påvirket af en servicehændelse eller -meddelelse, der i øjeblikket undersøges. Du kan kontrollere den seneste status ved at gå til siden [Tjenestetilstand.](https://admin.microsoft.com/adminportal/home#/servicehealth)
+Du kan være berørt af en tjeneste hændelse eller en meddelelse, der i øjeblikket undersøges. Du kan kontrollere den seneste status ved at gå til siden [tjenestetilstand](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-For nemheds skyld kan du finde en oversigt over denne hændelse nedenfor:
+Du kan finde en oversigt over denne hændelse under:
   
 > **Hændelsesnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
 
-> Beskrivelse af effekt: {ImpactDescription}
+> Effekt Beskrivelse: {ImpactDescription}

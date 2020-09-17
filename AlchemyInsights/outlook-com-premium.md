@@ -6,17 +6,18 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 060c4e75961e77038ae3cfc4236d075e713ed521
-ms.sourcegitcommit: cd5283431f0b4ce289427c63cd27e5b36173a9da
+ms.openlocfilehash: 6858d989135fac55c6a15f79c3be0ce37e884a60
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44545764"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798082"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
@@ -27,4 +28,4 @@ ms.locfileid: "44545764"
 **Nye abonnenter**
 
 - Vi beklager, men Outlook.com Premium er nu lukket for nye abonnenter.
-- Mange af funktionerne [og fordelene](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) er nu inkluderet i [abonnementer på Microsoft 365 Home og Microsoft 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Mange af [funktionerne og fordelene](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) er nu inkluderet med [abonnementer på Microsoft 365 Home and Microsoft 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).

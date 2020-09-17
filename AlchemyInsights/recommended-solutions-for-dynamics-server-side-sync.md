@@ -1,9 +1,10 @@
 ---
-title: Anbefalede løsninger til synkronisering på Dynamics-serversiden
+title: Anbefalede løsninger til synkronisering på Dynamics server-siden
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3356ba938978573274b9d41e3e73f91807baf384
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36745463"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797902"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Anbefalede løsninger til synkronisering på Dynamics Server-side
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Anbefalede løsninger til synkronisering på Dynamics server-siden
 
-* [Sådan får du vist detaljeret serverfejl, der vises på min portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Sådan får du vist detaljerede server fejl, der vises på min portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
 * [Sådan nulstilles en portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [Sådan ryddes cachen på serversiden for en portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Sådan ændrer du målgruppen og typen af en Dynamics 365-portal](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Sådan ændres tilhøreren og typen af en Dynamics 365-Portal](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Sådan ændres basis-URL-adressen på en portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Sådan ændres en Portals grundlæggende URL-adresse](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Sådan konfigureres ekstern identitetsprovider med portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Sådan konfigureres ekstern identitetsudbyder med Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Ofte stillede spørgsmål](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Introduktion til Min Dynamics 365 Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Kom godt i gang med min Dynamics 365-Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
