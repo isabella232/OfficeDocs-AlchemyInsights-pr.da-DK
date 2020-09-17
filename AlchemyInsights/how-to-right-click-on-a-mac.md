@@ -1,27 +1,28 @@
 ---
-title: 8000063 Sådan højreklikker du på en Mac
+title: 8000063 sådan højreklikker du på en Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 8fbfb43cd50040f861ae9975f4703b49eb10f6ec
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763391"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779297"
 ---
 # <a name="how-to-right-click-on-a-mac"></a>Sådan højreklikker du på en Mac
 
-På Mac-computere kaldes højreklik sekundært klik eller klik på Kontrol. Hvis musen, pegefeltet eller en anden inputenhed ikke indeholder en højreklikknap eller en anden måde at udføre et højreklik på, skal du holde **ctrl-tasten** på tastaturet nede, mens du klikker.
+På Mac-computere kaldes det at højreklikke på et sekundært klik eller kontrolelement. Hvis din mus, pege feltet eller anden inputenhed ikke indeholder en Højreklik knap eller anden måde at foretage en Højreklik, skal du holde **CTRL-tasten** nede på tastaturet, mens du klikker.
   
-Du kan finde flere oplysninger på [Apple-support](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Hvis du vil have mere at vide, skal du gå til [Apple Support](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
   
