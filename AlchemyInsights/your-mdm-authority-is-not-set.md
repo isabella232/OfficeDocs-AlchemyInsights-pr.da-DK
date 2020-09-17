@@ -1,27 +1,28 @@
 ---
-title: Din MDM-myndighed er ikke indstillet
+title: Din MDM-myndighed er ikke angivet
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 1cb463e0300e432c2a06fa392b3d2b6e45b2d18e
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638208"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796282"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Din MDM-myndighed er ikke indstillet
+# <a name="your-mdm-authority-is-not-set"></a>Din MDM-myndighed er ikke angivet
 
-Den Mobile Device Management (MDM) myndighed i denne lejer er ikke indstillet. Du skal indstille en MDM-myndighed, før du indrulles og administrerer enheder via Intune MDM. Uden at indstille MDM-myndigheden kan du ikke bruge Intune MDM-funktioner. Indstillingen af MDM-myndigheden bestemmer, hvordan du administrerer dine enheder.
+MDM-autoriteten (Mobile Device Management) for denne lejer er ikke angivet. Du skal angive en MDM-myndighed, før du registrerer og administrerer enheder via Intune MDM. Uden at angive MDM-autoriteten kan du ikke bruge MDM-funktioner i Intune. Indstillingen for MDM-autoriteten bestemmer, hvordan du administrerer dine enheder.
 
 Anbefalede trin:
-1. Naviger til blade til Intune-tilmeldings oversigt for at indstille MDM-myndigheden.
-2. Vælg den relevante myndighed ud fra dine administrative behov. Du finder flere oplysninger under [angive artiklen om administration af mobilenheder](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Gå til oversigt over tilmelding til Intune for at angive MDM-autoriteten.
+2. Vælg den relevante myndighed ud fra dine administrative behov. Hvis du vil have mere at vide, skal du se [Angiv artiklen i administrations myndigheden for mobilenheder](https://docs.microsoft.com/intune/mdm-authority-set).
