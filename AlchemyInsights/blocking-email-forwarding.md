@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685448"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219849"
 ---
-# <a name="block-email-forwarding"></a>Bloker videresendelse af mail
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blokere eller fjerne blokeringen af videresendelse af mail
 
-Hvis du vil deaktivere videresendelse af mail for en bestemt postkasse, skal du se [konfigurere videresendelse af mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Hvis du vil aktivere eller deaktivere videresendelse af mail for en bestemt postkasse, skal du se [konfigurere videresendelse af mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Hvis du vil blokere for videresendelse af mail for hele organisationen, kan [du blokere for automatisk videresendelse af mails i Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+På lejerniveau foretages kontrol af ekstern videresendelse ved hjælp af udgående politik om uønsket post. Hvis den er indstillet til fra eller automatisk, kan det blokere for videresendelse af mails med "550 5.7.520 adgang nægtet, din organisation tillader ikke ekstern videresendelse". Hvis viderestilling blev angivet til at blive blokeret, så er den fejl, brugerne får vist.
+
+Hvis videresendelse blokeres, skal du kontrollere, at politikken er konfigureret til at aktivere ekstern Auto Forward. Du kan kontrollere politikken for udgående spam filter fra sikkerheds-og overholdelses Center eller ved at køre kommandoen Get-HostedOutboundSpamFilterPolicy | fl-navn, AutoForwardingMode. Hvis du vil konfigurere blokering af viderestilling af autoforward, vil den samme kommando fortælle dig, at politiktilstanden nu.
+
+Bemærk! det anbefales, at du holder den eksterne Auto Forward deaktiveret på standardpolitikken for udgående spam filter og kun aktiverer den for de brugere, der har brug for ekstern videresendelse, ved at oprette en brugerdefineret politik for disse brugere. Du kan læse mere om at [konfigurere ekstern videresendelse af mail i Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
