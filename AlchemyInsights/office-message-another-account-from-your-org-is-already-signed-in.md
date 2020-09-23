@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802807"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236011"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 apps-meddelelse-vi beklager, men en anden konto fra din organisation er allerede logget på
 
@@ -32,6 +32,8 @@ Du kan rette fejlen ved at følge disse trin:
 - Klik på ikonet **+** for at tilføje eller oprette forbindelse til din konto. Angiv dine legitimationsoplysninger, og vent, indtil processen er fuldført.
 
 - Start Office-appen, og log på igen, hvis det er nødvendigt. 
+
+**Tip!** På Windows-computere kan vi diagnosticere og automatisk rette flere almindelige problemer med logon til Office. Hent og Kør  **[Microsoft support-og genoprettelses assistent](https://aka.ms/SaRA-OfficeSignInScenario)** for at bruge vores automatiserede værktøj.
 
 Hvis problemet fortsætter, skal du prøve det følgende trin: 
 

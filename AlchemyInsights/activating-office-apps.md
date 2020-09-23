@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697983"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236047"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivering af Microsoft 365-apps
 
@@ -35,6 +35,8 @@ For at løse problemer med aktivering af office, skal du se:
 - [Fejl i forbindelse med produkt uden licens og aktivering i Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Det kan du prøve, hvis du ikke kan installere eller aktivere Office til Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**Tip!** På Windows-computere kan vi diagnosticere og automatisk rette flere almindelige problemer med logon til Office. Hent og Kør  **[Microsoft support-og genoprettelses assistent](https://aka.ms/SaRA-OfficeSignInScenario)** for at bruge vores automatiserede værktøj.
 
 Hvis du ikke kan logge på Microsoft 365-apps, skal du følge nedenstående trin:
 

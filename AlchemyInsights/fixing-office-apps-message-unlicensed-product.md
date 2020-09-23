@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744620"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236083"
 ---
 # <a name="unable-to-activate-office"></a>Kan ikke aktivere Office
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744620"
 - Sørg for, at brugeren logger på Office med den samme konto som den, der har fået licensen tildelt.
 - Se [siden Tjenestetilstand for Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) for at finde ud af, om der er nogen kendte problemer med tjenesten.
 - Kontrollér din firewall, antivirussoftware og proxyindstillinger for at bekræfte, at de ikke blokerer Microsoft 365-apps adgang til internettet. Se [URL-adresser og IP-adresseområder for Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365-URL-adresser og IP-adresseintervaller").
+
+**Tip!** På Windows-computere kan vi diagnosticere og automatisk rette flere almindelige problemer med logon til Office. Hent og Kør  **[Microsoft support-og genoprettelses assistent](https://aka.ms/SaRA-OfficeSignInScenario)** for at bruge vores automatiserede værktøj.
 
 Brug følgende fejlfindingshandlinger:
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676984"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236119"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemer med at logge på Microsoft 365-apps
 
@@ -25,6 +25,8 @@ Hvis du vil løse problemer med Microsoft 365-apps, skal du prøve følgende ind
 
 - For Windows skal du læse [anbefalinger til løsning af almindelige problemer med logon](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - For Mac skal du se  [kan du ikke logge på en Office 2016 til Mac-app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Tip!** På Windows-computere kan vi diagnosticere og automatisk rette flere almindelige problemer med logon til Office. Hent og Kør  **[Microsoft support-og genoprettelses assistent](https://aka.ms/SaRA-OfficeSignInScenario)** for at bruge vores automatiserede værktøj.
 
 **Bemærk:** Det  **anbefales ikke**at deaktivere moderne godkendelse (ADAL) eller webkonto administration (WAM) for at løse problemer med logon eller aktivering. Hvis der opstår fejl, mens du opretter forbindelse til Microsoft 365 med Office 2013, skal du sikre dig, at du [aktiverer moderne godkendelse](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  for Office-klient.
 
