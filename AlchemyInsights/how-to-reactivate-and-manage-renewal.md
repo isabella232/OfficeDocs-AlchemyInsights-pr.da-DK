@@ -2,8 +2,8 @@
 title: Sådan genaktiveres og administreres fornyelse
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,37 +14,30 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: ef035f1e75756342cce48de7d00adfee7c74caf0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779549"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307048"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="13fd3-102">Sådan genaktiveres og administreres tilbagevendende fakturering</span><span class="sxs-lookup"><span data-stu-id="13fd3-102">How to reactivate and manage recurring billing</span></span>
+# <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a><span data-ttu-id="e95eb-102">Sådan genaktiverer du et abonnement og administrerer tilbagevendende fakturering</span><span class="sxs-lookup"><span data-stu-id="e95eb-102">How to reactivate a subscription and manage recurring billing</span></span>
 
-<span data-ttu-id="13fd3-103">Det ser ud til, at du har et abonnement, der er udløbet.</span><span class="sxs-lookup"><span data-stu-id="13fd3-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="13fd3-104">Hvis du vil genaktivere det, skal du gøre følgende.</span><span class="sxs-lookup"><span data-stu-id="13fd3-104">If you would like to reactivate it, here's how.</span></span>
+<span data-ttu-id="e95eb-103">Det ser ud til, at du har et abonnement, der er udløbet.</span><span class="sxs-lookup"><span data-stu-id="e95eb-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="e95eb-104">Hvis du vil genaktivere det, skal du gøre følgende.</span><span class="sxs-lookup"><span data-stu-id="e95eb-104">If you would like to reactivate it, here's how.</span></span>
   
-1. <span data-ttu-id="13fd3-105">I administration skal du gå til siden **Fakturering** \> **[af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="13fd3-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="e95eb-105">I administration skal du gå til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="e95eb-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="e95eb-106">Find det abonnement, du vil genaktivere, under fanen **produkter** .</span><span class="sxs-lookup"><span data-stu-id="e95eb-106">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="e95eb-107">Vælg **flere handlinger** (tre prikker), og vælg derefter **Genaktiver dette abonnement**.</span><span class="sxs-lookup"><span data-stu-id="e95eb-107">Select **More actions** (three dots), then select **Reactivate this subscription**.</span></span>
+3. <span data-ttu-id="e95eb-108">I ruden **Genaktiver dette abonnement** skal du vælge en betalingsmetode på rullelisten eller vælge **Tilføj betalingsmetode**.</span><span class="sxs-lookup"><span data-stu-id="e95eb-108">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="e95eb-109">Vælg **Gem**.</span><span class="sxs-lookup"><span data-stu-id="e95eb-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="13fd3-106">Find det abonnement, du vil genaktivere.</span><span class="sxs-lookup"><span data-stu-id="13fd3-106">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="13fd3-107">I sektionen **Fakturering** skal du vælge  **Genaktiver**.</span><span class="sxs-lookup"><span data-stu-id="13fd3-107">In the **Billing** section, select  **Reactivate**.</span></span>
+<span data-ttu-id="e95eb-110">Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="e95eb-110">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span></span>
 
-    <span data-ttu-id="13fd3-108">Hvis **Genaktiver** ikke vises som en valgmulighed, skal du bruge knappen "kræver hjælp" for at tale med en supporttekniker om at genaktivere dit abonnement.</span><span class="sxs-lookup"><span data-stu-id="13fd3-108">If you do not see **Reactivate** as an option, use the "Need help" button to talk to a support engineer to reactivate your subscription.</span></span>
-
-3. <span data-ttu-id="13fd3-109">Bekræft dine betalingsoplysninger.</span><span class="sxs-lookup"><span data-stu-id="13fd3-109">Confirm your payment details.</span></span> <span data-ttu-id="13fd3-110">Du kan opdatere dine eksisterende betalingsoplysninger her.</span><span class="sxs-lookup"><span data-stu-id="13fd3-110">You can update your existing payment information here.</span></span> <span data-ttu-id="13fd3-111">Når du er færdig med at angive din betalingsmetode, skal du vælge **Genaktiver**.</span><span class="sxs-lookup"><span data-stu-id="13fd3-111">When you're finished entering your payment method, select **Reactivate**.</span></span>
-
-<span data-ttu-id="13fd3-112">Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="13fd3-112">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).</span></span> 
-
-<span data-ttu-id="13fd3-113">Hvis du vil administrere månedlig eller årlig fakturering, kan du slå **tilbagevendende fakturering** til eller fra.</span><span class="sxs-lookup"><span data-stu-id="13fd3-113">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span>
+<span data-ttu-id="e95eb-111">Hvis du vil administrere månedlig eller årlig fakturering, kan du slå **Tilbagevendende fakturering** til eller fra.</span><span class="sxs-lookup"><span data-stu-id="e95eb-111">To manage monthly or yearly billing, you can toggle **Recurring billing** on or off.</span></span>
   
-1. <span data-ttu-id="13fd3-114">I administration skal du gå til siden **Fakturering** \> **[af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="13fd3-114">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="e95eb-112">I administration skal du gå til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="e95eb-112">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="e95eb-113">Vælg det abonnement, du vil ændre, under fanen **produkter** .</span><span class="sxs-lookup"><span data-stu-id="e95eb-113">On the **Products** tab, select the subscription that you want to change.</span></span>
+3. <span data-ttu-id="e95eb-114">Vælg **Rediger tilbagevendende fakturering**under **Indstillinger for abonnements-og betalingsindstillinger**på siden Abonnementsoplysninger.</span><span class="sxs-lookup"><span data-stu-id="e95eb-114">On the subscription details page, under **Subscription and payment settings**, select **Edit recurring billing**.</span></span>
+4. <span data-ttu-id="e95eb-115">I ruden **Rediger indstillinger for tilbagevendende fakturering** skal du vælge **slået til**, **men forny én gang**eller **slå fra**.</span><span class="sxs-lookup"><span data-stu-id="e95eb-115">In the **Edit recurring billing settings** pane, select **On**, **On, but renew once**, or **Turn off**.</span></span>
+5. <span data-ttu-id="e95eb-116">Vælg **Gem**.</span><span class="sxs-lookup"><span data-stu-id="e95eb-116">Select **Save**.</span></span>
 
-2. <span data-ttu-id="13fd3-115">Vælg det abonnement, som du vil administrere tilbagevendende fakturering for.</span><span class="sxs-lookup"><span data-stu-id="13fd3-115">Choose the subscription for which you want to manage recurring billing.</span></span>
-
-3. <span data-ttu-id="13fd3-116">Under **Fakturering**skal du vælge **Rediger**ud for forekommende **nyheder om** eller **udløber den**.</span><span class="sxs-lookup"><span data-stu-id="13fd3-116">Under **Billing**, next to **Renews on** or **Expiring on**, select **edit**.</span></span>
-
-4. <span data-ttu-id="13fd3-117">I ruden **Indstillinger for tilbagevendende fakturering** skal du vælge **slå fra** for at slå den fra.</span><span class="sxs-lookup"><span data-stu-id="13fd3-117">In the **Recurring billing settings** pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="13fd3-118">Hvis tilbagevendende fakturering allerede er slået fra, skal du vælge **månedligt** eller **én gang** for at aktivere det.</span><span class="sxs-lookup"><span data-stu-id="13fd3-118">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
-
-5. <span data-ttu-id="13fd3-119">Vælg **Send ændring**.</span><span class="sxs-lookup"><span data-stu-id="13fd3-119">Select **Submit change**.</span></span>
-
-<span data-ttu-id="13fd3-120">For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="13fd3-120">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
+<span data-ttu-id="e95eb-117">For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="e95eb-117">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
