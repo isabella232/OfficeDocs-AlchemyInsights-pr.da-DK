@@ -1,8 +1,8 @@
 ---
 title: Annuller dit Microsoft-abonnement
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683252"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416457"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Annuller dit Microsoft-abonnement
 
-1. Gå til [Tjenester og abonnementer](https://account.microsoft.com/services/), og log på med den Microsoft-konto, du brugte, da du købte dit abonnement.
+Administratorer kan annullere abonnementet for deres organisation i Microsoft 365 administration.
 
-2. Find dit abonnement, og klik på **Administrer**. Hvis du kan se **Slå tilbagevendende fakturering til** i stedet for **Administrer**, skal du gå til afsnittet Fejlfinding. Ellers skal du gå videre til trin 3.
+1. Gå til siden **Fakturering** \> [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Find det abonnement, du vil annullere, under fanen **produkter** . Vælg **flere handlinger** (tre prikker), og vælg derefter **Annuller abonnement**.
+3. I ruden **Annuller abonnement** skal du vælge en årsag til, at du annullerer. Du kan også give feedback.
+4. Vælg **Gem**.
 
-3. På næste side skal du klikke på **Annuller** eller **Opgrader eller annuller**, afhængigt af din abonnementstype.
-
-4. Følg vejledningen på siden for at fortsætte med annulleringen.
+**Refundering:** Der tilbageføres penge til din Skype-konto inden for den næste faktureringscyklus.

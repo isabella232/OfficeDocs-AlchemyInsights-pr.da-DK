@@ -1,8 +1,8 @@
 ---
 title: Annuller avanceret trusselsbeskyttelse
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683684"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416286"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Annuller avanceret trusselsbeskyttelse
 
-Avanceret trusselsbeskyttelse kan annulleres i **Microsoft 365 administration**.
+Administratorer kan annullere det Advanced Threat Protection-abonnement for deres organisation i Microsoft 365 administration.
 
 1. Gå til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Find den avancerede trussels beskyttelses plan for at annullere.
-3. Klik på **Annuller abonnement**.
+2. Find den Advanced Threat Protection-plan, du vil annullere, under fanen **produkter** . Vælg **flere handlinger** (tre prikker), og vælg derefter **Annuller abonnement**.
+3. I ruden **Annuller abonnement** skal du vælge en årsag til, at du annullerer. Du kan også give feedback.
+4. Vælg **Gem**.
 
-Refundering: der tilbageføres penge til dig inden for den næste faktureringscyklus.
-
-**Bemærk**! hvis indstillingen Annuller ikke vises, skal du klikke på abonnementet for at få vist detaljerne, og så kan du se indstillingen **Annuller abonnement** under **Indstillinger & handlinger**.
+**Refundering:** Der tilbageføres penge til din Skype-konto inden for den næste faktureringscyklus.
 
 Hvis du vil have mere at vide, skal du se [Annuller dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

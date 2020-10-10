@@ -2,36 +2,32 @@
 title: Annuller Project-abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0a10e2de14bd42412097d94bb846b34db414cb00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683517"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416493"
 ---
 # <a name="cancel-project-subscription"></a>Annuller Project-abonnement
 
-Administratorer kan annullere projekt abonnementet for deres organisation fra **Microsoft 365 administration**.
+Administratorer kan annullere projekt abonnementet for deres organisation i Microsoft 365 administration.
 
-1. Gå til siden **fakturering > [dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+1. Gå til siden **Fakturering** \> [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Find det projekt abonnement, du vil annullere, under fanen **produkter** . Vælg **flere handlinger** (tre prikker), og vælg derefter **Annuller abonnement**.
+3. I ruden **Annuller abonnement** skal du vælge en årsag til, at du annullerer. Du kan også give feedback.
+4. Vælg **Gem**.
 
-2. Find projektplanen for at annullere.
-
-3. Klik på **Annuller abonnement**.
-
-**Refundering: der tilbageføres penge til dig inden for den næste faktureringscyklus.**
-
-**Bemærk**! hvis indstillingen Annuller ikke vises, skal du klikke på abonnementet for at få vist detaljerne, og så kan du se indstillingen **Annuller abonnement** under **Indstillinger & handlinger**.
+**Refundering:** Der tilbageføres penge til din Skype-konto inden for den næste faktureringscyklus.
 
 Hvis du vil have mere at vide, skal du se [Annuller dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
