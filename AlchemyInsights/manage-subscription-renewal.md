@@ -13,12 +13,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 17ec34814ffe59ba6370ea046494db6345eff499
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: c5f81c51ed73c70d98a02a0907fa394ddd1134db
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286916"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451349"
 ---
 # <a name="manage-subscription-renewal"></a>Administrer abonnementsfornyelse
 
@@ -30,3 +30,4 @@ Hvis du vil administrere månedlig eller årlig fakturering, kan du slå **Tilba
 4. Vælg **Gem**.
 
 For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+
