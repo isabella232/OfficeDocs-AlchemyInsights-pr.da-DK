@@ -14,14 +14,13 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: f30f4261ac2112a6d50dc2ea72d66a5f7d63fb48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c925d1dd6d11f1fbd31eaa05a2d876c84b3e23b7
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707057"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452258"
 ---
-# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="4ac74-102">Få support med Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="4ac74-102">Get support with Microsoft 365</span></span>
+# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="977a6-102">Få support med Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="977a6-102">Get support with Microsoft 365</span></span>
 
-<span data-ttu-id="4ac74-103">Hvis du vil finde de rigtige ressourcer til dit problem, skal vi bruge mere detaljerede oplysninger.</span><span class="sxs-lookup"><span data-stu-id="4ac74-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="4ac74-104">Angiv venligst dit problem, og Medtag bestemte produktnavne, funktioner eller fejl, og Send din søgeforespørgsel igen.</span><span class="sxs-lookup"><span data-stu-id="4ac74-104">Please restate your issue and include specific product names, features, or errors and submit your search query again.</span></span>
-
+<span data-ttu-id="977a6-103">Hvis du vil finde de rigtige ressourcer til dit problem, skal vi bruge mere detaljerede oplysninger.</span><span class="sxs-lookup"><span data-stu-id="977a6-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="977a6-104">Angiv venligst dit problem, og Medtag bestemte produktnavne, funktioner eller fejl, og Send din søgeforespørgsel igen.</span><span class="sxs-lookup"><span data-stu-id="977a6-104">Please restate your issue and include specific product names, features, or errors and submit your search query again.</span></span>
