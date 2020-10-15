@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724573"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48465998"
 ---
 # <a name="microsoft-lists"></a>Microsoft-lister
 
@@ -26,11 +26,15 @@ Microsoft starter første fase af Microsoft-lister, en Microsoft 365-app. Micros
   
 **Periode**  
 
-- Rul ud er startet for organisationer, der er aktiveret til målrettet udgivelse.
-- Frigiv til alle organisationer i midten af oktober 2020.
+- Rul ud er fuldført for organisationer, der er aktiveret til målrettet udgivelse.
+- Implementeringen af standard Release-organisationer er startet og fuldføres i slutningen af november 2020.
 
-Alle brugere med en SharePoint-licens kan få adgang til liste ikonet og begynde at bruge Microsoft-lister. Administratorer kan i øjeblikket ikke slå funktionen fra.
- 
-I Microsoft 365 app-starteren skal du vælge ikonet lister. Start en liste fra bunden eller med færdigbyggede skabeloner. Du kan også oprette nye lister fra eksisterende lister eller ved at importere Excel-data for at oprette en liste. Få vist favoritter og seneste lister, herunder lister, som du ejer, eller som er blevet delt med dig. Du kan oprette både personlige lister og team lister.  
+Alle brugere med en SharePoint-licens kan få adgang til liste ikonet og begynde at bruge Microsoft-lister.
+
+Som global eller SharePoint-administrator i Microsoft 365 kan du styre indstillinger for Microsoft-lister. Du kan:
+
+Deaktiver oprettelsen af personlige lister (forhindre brugere i at gemme nye lister til "mine lister").
+Deaktiver indbyggede listeskabeloner, der ikke er relevante for din organisation.
+Se [kontrollister](https://docs.microsoft.com/sharepoint/control-lists)
 
 Du kan finde flere oplysninger i [Microsoft-lister](https://aka.ms/microsoftlists).
