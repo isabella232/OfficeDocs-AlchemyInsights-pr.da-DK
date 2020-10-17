@@ -1,8 +1,8 @@
 ---
 title: Jeg kunne ikke få adgang til min konto
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 0a240bb0acea178a58fa5bc9a2d95808676ad272
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800026"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489163"
 ---
 # <a name="unable-to-access-my-account"></a>Jeg kunne ikke få adgang til min konto
 
@@ -25,14 +25,9 @@ Hvis dit abonnement udløber eller er blevet deaktiveret af Microsoft, eller hvi
 
 **Genaktiver et abonnement**
 
-1. I administration skal du gå til siden **Fakturering**  >  **[af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Find det abonnement, du vil genaktivere.
-
-3. I afsnittet **Fakturering** skal du klikke på **Genaktiver nu**. Hvis du er i **kort** visningen, skal du klikke på ellipsen mellem **navnet** og det **tilgængelige antal** og vælge **Genaktiver** i menuen.
-
-**Bemærk**: Hvis du ikke kan se det abonnement, du leder efter, skal du muligvis justere filteret **Abonnementsstatus** ved toppen af siden til **Alle**.
-
-4. Bekræft dine betalingsoplysninger for at opdatere dine eksisterende betalingsoplysninger. Når du er færdig med at angive din betalingsmetode, skal du klikke på **Genaktiver**.
+1. I administration skal du gå til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Find det abonnement, du vil genaktivere, under fanen **produkter** . Vælg **flere handlinger** (tre prikker), og vælg derefter **Genaktiver dette abonnement**.
+3. I ruden **Genaktiver dette abonnement** skal du vælge en betalingsmetode på rullelisten eller vælge **Tilføj betalingsmetode**.
+4. Vælg **Gem**.
 
 Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
