@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: df11effad3e8fafcf3d618b285cb024ca75f780a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0a0ee350c4c9a0f0204b4d077f17313f559a6a46
+ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741405"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "48753701"
 ---
 # <a name="recording-in-teams"></a>Optagelse i Teams
 
-Hvis du ikke kan optage i Teams, eller hvis du vil have at vide, hvordan du optager i Teams, kan du prøve en af følgende artikler.
+Microsoft teams-møde optagelse kan nu gemmes i OneDrive SharePoint, hvis du vil have mere at vide om og tilmelde dig, skal du se følgende meddelelses Center-post: [(opdateret) Microsoft teams: møde optagelser gemt i OneDrive og SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-Team optagelses egenskaber for teams er afhængige af en lokal streams og lands tilgængelighed.  Hvis du ikke kan optage en møde kontrol for at sikre, at [strømmen er tilgængelig i dit land eller område](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).  Hvis du vil have mere at vide, skal du se følgende meddelelses Center-post i administrations portalen:
+Hvis du flytter din lagerplacering til OneDrive og SharePoint, elimineres det tidligere krav om, at streamen er tilgængelig i dit område.
 
-- [Opdateret funktion: Microsoft Stream Cloud-optagelser regional lagerstyring](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Du kan få mere at vide om, hvordan du **aktiverer og konfigurerer optagelses funktionen** i teams for din organisation, **herunder indstillinger for at aktivere eller deaktivere møde optagelse for bestemte brugere**, ved at gennemgå [registreringen af teams Cloud-møder](https://docs.microsoft.com/microsoftteams/cloud-recording).
+
+Hvis du **ikke kan optage i teams, eller hvis du har brug for at vide, hvordan du optager** i teams, kan du prøve en af følgende artikler.
+
+Hvis du endnu ikke har tilmeldt dig OneDrive SharePoint-lager til Team optagelse af teams, er disse egenskaber afhængige af, at der er adgang til lokal strømmen. Hvis du ikke kan optage en møde kontrol for at sikre, at [strømmen er tilgængelig i dit land eller område](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Du kan få mere at vide om, hvordan du gennemgår følgende meddelelses Center-indlæg i administrations portalen: [opdateret funktion: Microsoft Stream Cloud-optagelser International lagerstyring](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
 Møde optagelse i teams [kræver bestemte licenser og politikker, der skal tildeles](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), herunder streaming-licenser for at overføre eller hente møde optagelser til Microsoft stream.
-
-Du kan få mere at vide om, hvordan du aktiverer og konfigurerer optagelses funktionen i teams for din organisation, herunder indstillinger for at aktivere eller deaktivere møde optagelse for bestemte brugere, ved at gennemgå [registreringen af teams Cloud-møder](https://docs.microsoft.com/microsoftteams/cloud-recording).
 
 Når du har bekræftet, at alle krav er opfyldt, herunder licenser, politikker og regionale tilgængelige streams, skal du gennemgå [Registrer et møde i teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
