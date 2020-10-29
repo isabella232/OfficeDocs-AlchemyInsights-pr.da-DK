@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding af Office 365 Advanced Threat Protection
+title: Fejlfinding af Microsoft Defender til Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658908"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801437"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Fejlfinding af Office 365 Advanced Threat Protection
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Fejlfinding af Microsoft Defender til Office 365
 
 - Bemærker du forsinkelser i meddelelseslevering? Brug indstillingen [dynamisk levering](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) i din politik for sikker sikkerhedstilknytning af DTT. Det hjælper med at undgå forsinkelser i meddelelser, mens du beskytter modtagere fra ondsindede filer.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658908"
 
   1. Gå til [https://protection.office.com](https://protection.office.com) og log på med en global administrator-eller sikkerhedsadministrator konto.
 
-  2. I venstre navigationsrude under **trussels styring**skal du **Policy** vælge \> **sikre links**til politik.
+  2. I venstre navigationsrude under **trussels styring** skal du **Policy** vælge \> **sikre links** til politik.
 
-  3. I de **politikker, der gælder for hele sektionen organisation** , skal du vælge politikken og klikke på **Rediger**.
+  3. I de **politikker, der gælder for hele sektionen organisation** , skal du vælge politikken og klikke på **Rediger** .
 
-  4. Under **Indstillinger**skal du aktivere **Anvend sikre links til meddelelser, der sendes inden for organisationen**.
+  4. Under **Indstillinger** skal du aktivere **Anvend sikre links til meddelelser, der sendes inden for organisationen** .

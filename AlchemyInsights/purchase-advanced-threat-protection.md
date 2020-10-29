@@ -1,5 +1,5 @@
 ---
-title: Køb Office 365 Advanced Threat Protection
+title: Køb Microsoft Defender til Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693549"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801141"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Køb Office 365 Advanced Threat Protection
+# <a name="purchase-microsoft-defender-for-office-365"></a>Køb Microsoft Defender til Office 365
 
-Office 365 Advanced Threat Protection (DTT) er inkluderet i visse abonnementer, såsom Microsoft 365 E5, Office 365 E5, Office 365 A5 og Microsoft 365 Business Premium. Hvis dit abonnement ikke omfatter Office 365 DTT, kan du købe [DTT-plan 1OR DTT-plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) som et tilføjelsesprogram til et bestemt abonnement. Sådan køber du i Microsoft 365 administration:
+Microsoft Defender for Office 365 (DTT) er inkluderet i visse abonnementer, såsom Microsoft 365 E5, Office 365 E5, Office 365 A5 og Microsoft 365 Business Premium. Hvis dit abonnement ikke omfatter Office 365 DTT, kan du købe [DTT-plan 1OR DTT-plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) som et tilføjelsesprogram til et bestemt abonnement. Sådan køber du i Microsoft 365 administration:
 
 1. Gå til **fakturerings**   >   [opkøbs tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433).
 2. Vælg siden med **tilføjelsesprogrammer**  fra **andre kategorier, der kan være interessante for dig.**
