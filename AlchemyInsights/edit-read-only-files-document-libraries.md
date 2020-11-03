@@ -9,26 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 5dce391568dd60b76c60c1e1573dcc95a017826c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78f2f33c4a5aea2e3d0d3ee4949e3e1670b9e644
+ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710657"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48840533"
 ---
 # <a name="edit-a-read-only-file"></a>Redigere en skrivebeskyttet fil
 
-Du kan finde frem til, at når du åbner filer, åbnes de som skrivebeskyttede. I nogle tilfælde er dette en ekstra sikkerhed, f. eks når du åbner filer fra internettet og andre gange, kan det skyldes en indstilling, der kan ændres. I artiklen, [Hvorfor har min fil åbnet i skrive](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) beskyttet vi skitser nogle scenarier, hvor en fil åbnes som skrivebeskyttet og nogle trin, du kan gøre for at ændre det.
+Du kan finde frem til, at når du åbner filer, åbnes de som skrivebeskyttede. I nogle tilfælde er dette en ekstra sikkerhed, f. eks når du åbner filer fra internettet og andre gange, kan det skyldes en indstilling, der kan ændres.
 
-Her kan du se, hvordan du åbner Office-filer til redigering.
-
-I stedet for at klikke på dokumentets titel, skal du klikke på **Åbn menu** (de tre prikker) og derefter klikke på **Rediger**.
-
-Vejledningen
-
-- Hvis du hellere vil have dokumenter åbnet til redigering i Office, når du klikker på titlen, kan du konfigurere biblioteket til at gøre det (så længe du har tilladelse til at ændre Biblioteks indstillingerne).
-
-- Hvis du har biblioteker med udtjekning, obligatoriske kolonner eller kun brugere, der kan redigere i et SharePoint-dokumentbiblioteks versionsindstillinger, synkroniseres disse elementer som skrivebeskyttede.
-
-- Et Office-dokument åbnes i beskyttet visning, selvom du aktiverer politikindstillingen "Åbn Office-dokumenter som læse-og skriveadgang". Hvis du vil have mere at vide, skal du se denne [artikel.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
-
+- [SharePoint-filer åbnes som skrivebeskyttede](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
