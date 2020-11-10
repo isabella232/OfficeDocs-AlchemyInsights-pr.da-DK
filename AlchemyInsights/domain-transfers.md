@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 551517b99f8f725f7034efdc73e866e296dec8b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2480a50c5cb017dfee4adda45704bf980080c6b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678750"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949667"
 ---
 # <a name="domain-transfers"></a>Domæneoverførsler
 
 [Sådan overfører du et købt Microsoft-domæne til en anden udbyder efter 60 dage](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-Selvom domæner, der er købt hos Microsoft, ikke understøtter ændring af NS-poster, skal du overveje at [opdatere DNS-posterne for dit websted](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) i stedet for at overføre din domæneregistrering til webhostingudbyderen.
+- Bemærk, at et Microsoft-købt domæne ikke kan overføres mellem Microsoft 365-lejere.
+- Selvom Microsoft-købte domæner ikke understøtter ændring af NS-poster, kan du overveje at [opdatere DNS-poster for dit websted](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) i stedet for at overføre din domæne registrering til webværten.
 
-Et domæne, der er købt hos Microsoft, kan ikke overføres mellem Microsoft 365-lejere.
+Brugerdefinerede domæner kan [bekræftes og bruges med Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
 
-Du kan dog overføre et tredjepartsdomæne mellem Microsoft 365-lejere ved [at fjerne domænet fra en lejer](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) og derefter bekræfte domænet i en anden lejer.
+- En tredjeparts brugerdefinerede domæner, der er registreret eller faktureres, kan ikke overføres til Microsoft.
 
-Registrering og fakturering af tredjepartsdomæner kan ikke overføres til Microsoft.
-
-Brugerdefinerede domæner kan  [bekræftes og bruges med Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide). Onmicrosoft.com-standarddomæner kan ikke overføres eller omdøbes.
+Onmicrosoft.com-standarddomæner kan ikke overføres eller omdøbes.
