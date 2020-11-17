@@ -12,25 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769501"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086078"
 ---
 # <a name="new-office-365-e1-trial"></a>Ny Office 365 E1-prøveversion
 
-Nyhed i marts 2020, der er en gratis 6-måneders [Office 365 E1-prøveversion](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), herunder Microsoft teams, er nu tilgængelig. Læs [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software)for at få mere at vide om, hvad der er tilgængeligt med en E1-licens.
-
-**Hvem er berettiget?**
-
-Dette tilbuddet er beregnet til kunder, der administreres af en Microsoft-konto-Rep. Det er for organisationer, der ikke har aktiveret andre Office 365 E1-prøveversioner. Når du har brugt din version af din E1-prøve kampagnekode, kan du ikke bruge den igen, og du kan ikke aktivere en anden E1 prøve kode. I disse tilfælde kan du få dine medarbejdere til at aktivere en [licens til teams](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
-
-**Hvem er ikke berettiget?**
-
-- Dette produkt er ikke tilgængeligt for GCC, GCC høj, DoD eller EDU kunder. Vi arbejder på en GCC-version af E1-prøveversionen – den er snart tilgængelig.
-
- - EDU-kunder skal bruge den gratis Office 365 a1-licens.
-
-Du behøver ikke at gå glip af vores vejledning til [understøttelse af Fjern arbejdere med teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Fra og med 1. juli 2020 er Office 365 E1-prøvelicensen ikke længere tilgængelig. Hvis du har brug for licens til Microsoft teams, skal du læse [beskrivelsen af Microsoft teams service](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) for at få en liste over betalte abonnementer, der omfatter teams. Du kan også bruge den [gratis version af teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), eller medarbejderne kan aktivere [holdets oplevelse.](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)
