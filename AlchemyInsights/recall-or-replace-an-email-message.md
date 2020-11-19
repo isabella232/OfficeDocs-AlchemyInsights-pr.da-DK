@@ -14,18 +14,19 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799198"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353500"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Tilbagekalde eller erstatte en e-mail-meddelelse i Microsoft 365
 
-- Du kan **kun tilbagekalde meddelelser, der sendes til personer i organisationen**. Hvis meddelelsen blev sendt til en Gmail-adresse, kan du for eksempel ikke tilbagekalde den.
-- Du kan **kun tilbagekalde meddelelser, der er sendt fra Outlook 2016 til PC**. Hvis en bruger sender en meddelelse ved hjælp af Outlook til Mac eller Outlook på internettet, kan du ikke tilbagekalde den.
-- Hvis du er administrator, kan du **tilbagekalde meddelelser på vegne af brugere ved hjælp af PowerShell**. Du kan ikke tilbagekalde meddelelser fra administrations centeret. Rul ned til "Søg efter og slet mails i organisationen" for at få flere oplysninger.
+- Du kan **kun tilbagekalde meddelelser, der sendes til personer i organisationen**. Hvis meddelelsen for eksempel blev sendt til en Gmail-adresse, kan du ikke tilbagekalde den.
+- Du kan **kun tilbagekalde meddelelser, der er sendt fra Outlook til PC**. Hvis en bruger sender en meddelelse ved hjælp af Outlook til Mac eller Outlook på internettet, kan du ikke tilbagekalde den.
+- Som lejeradministrator kan du **tilbagekalde meddelelser på vegne af brugere ved hjælp af PowerShell** (du kan få mere at vide under: [Søg efter og slet mails](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)).
+- Du kan ikke tilbagekalde meddelelser fra administrations centeret. Rul ned til "Søg efter og slet mails i organisationen" for at få flere oplysninger.
 
 **Tilbagekalde eller erstatte en mail, som du har sendt**
 
@@ -38,9 +39,9 @@ ms.locfileid: "47799198"
 
 Du kan finde flere oplysninger, herunder hvordan du kontrollerer tilbagekaldelsen, under [tilbagekald eller Erstat en mail, du har sendt](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Søg efter og slet mails i din organisation*** Hvis du vil søge efter og slette mails i organisationen, er det nemmest, hvis du er Global administrator. Hvis du ikke er en global administrator, skal din konto føjes til rollegruppen eDiscovery Manager eller for rollen overholdelses Search Management. Hvis du vil slette meddelelser, skal du være medlem af gruppen organisations administrations rolle eller rollen søgning og sletning af administration. Tilladelser til disse roller tildeles i [sikkerheds & Overholdelsescenter](https://protection.office.com/).
+Hvis du **_vil søge efter og slette mails i organisationen_**, er det nemmest, hvis du er Global administrator. Hvis du ikke er en global administrator, skal din konto føjes til rollegruppen eDiscovery Manager eller for rollen overholdelses Search Management. Hvis du vil slette meddelelser, skal du være medlem af gruppen organisations administrations rolle eller rollen søgning og sletning af administration. Tilladelser til disse roller tildeles i [sikkerheds & Overholdelsescenter](https://protection.office.com/).
 
 1. [Opret en indholdssøgning](https://docs.microsoft.com/microsoft-365/compliance/content-search) for at finde den besked, der skal slettes.
-2. [Opret forbindelse til sikkerheds & Compliance Center-PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+2. [Opret forbindelse til sikkerheds & Compliance Center-PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell).
 
-Hvis du bruger MFA, skal du se [oprette forbindelse til Microsoft 365 security & Compliance Center PowerShell med multifaktorgodkendelse](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Hvis du bruger MFA (multi-Factor Authentication), skal du se [oprette forbindelse til Microsoft 365 Security & Compliance Center PowerShell med multifaktorgodkendelse](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).
