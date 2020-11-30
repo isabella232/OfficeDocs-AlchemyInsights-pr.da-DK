@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947406"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477444"
 ---
 # <a name="lists-app-in-teams"></a>Liste-app i teams
 
@@ -27,10 +27,6 @@ Liste-appen i Microsoft teams gør lister i teams SharePoint-websteder til samar
 Lister er forudinstalleret for alle teams-brugere og er tilgængelige direkte i fane galleriet i alle teams og kanaler.
 
 Teams-administratorer kan kontrollere tilgængeligheden af appen ved hjælp af Microsoft teams-tilladelsespolitikker. Hvis du vil have mere at vide, skal du se [administrere app-tilladelsespolitikker i Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
-
-**Tidsindstilling:** Tidligste september og færdigt i midten af oktober 2020  
-
-**Udrulning:** Organisationsniveau  
 
 **Kontrolelementtype:**  Administrations kontrol for teams  
 
