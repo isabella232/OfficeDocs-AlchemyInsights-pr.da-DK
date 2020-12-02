@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733285"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529012"
 ---
 # <a name="contact-the-sales-team"></a>Kontakt salgsteamet
 
-Med Microsoft Graph-forbindelser kan din organisation indeksere tredjeparts data til at blive vist i Microsoft-søgeresultater.
+Der er flere måder at kontakte Microsoft 365-salgsteamet på.
 
-- [Forbindelser af Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Forbindelser af vores partnere](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Se [Oversigt over Microsoft Graph-forbindelser](https://docs.microsoft.com/microsoftsearch/connectors-overview)for at få flere oplysninger.
+- Brug formularen  [Kontakt os](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  for at få en Microsoft 365-salgs ekspert til at kontakte dig.
+- Hvis du vil kontakte en Enterprise Agreement Volume Licensing Expert, skal du starte med portalen  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) .
