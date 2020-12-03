@@ -1,5 +1,5 @@
 ---
-title: Dokument åbnet i skrivebeskyttet tilstand
+title: Dokument åbnes skrivebeskyttet
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088539"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528976"
 ---
-# <a name="documents-opening-in-read-only"></a>Dokumenter, der åbnes i skrivebeskyttet tilstand
+# <a name="documents-opening-in-read-only"></a>Dokumenter åbnes skrivebeskyttet
 
-Du kan finde de filer, du åbner, til at være skrivebeskyttede. I nogle tilfælde fungerer denne betingelse som en ekstra sikkerhed, f. eks når du åbner filer fra internettet og andre gange, kan denne betingelse skyldes en indstilling, der kan ændres.
+Du kan opleve at du åbner filer i skrivebeskyttet tilstand. I nogle tilfælde tjener dette som en tilføjet sikkerhed, f.eks. når du åbner filer fra internettet, og andre gange skyldes denne tilstand en indstilling, som du kan ændre.
 
-- [SharePoint-filer åbnes som skrivebeskyttede](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint-filer åbnes som skrivebeskyttet](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Hvis kunden mener, at de oplyste årsager til sikkerhedsforbedring eller en uændret indstilling ikke er et af de scenarier, der er defineret i [SharePoint-filer, som er skrivebeskyttede](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), er her andre almindelige løsninger på dokumenter, der åbner i skrivebeskyttet tilstand.
+Hvis kunden mener, at de erklærede årsager, f.eks. mekanismer for sikkerhedsforbedring eller en ikke-ændret indstilling, ikke er ét af de design scenarier, der er angivet i [SharePoint-filer åbnes som skrivebeskyttet](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), her er andre almindelige løsninger på dokumenter, der åbnes skrivebeskyttet.
 
 - Genstart computeren.
 - Installer Office-opdateringer.
-- Kontrollér dit antivirusprogram på computeren.
-- Sørg for, at webstedet er i zonen websteder, du har tillid til i Internet Explorer.
-- Udføre en reparation af Office.
-- Ryd [Office-dokument cachen](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Tjek computerens antivirusprogram.
+- Sørg for, at webstedet er i Internet Explorers zone for websteder, du har tillid.
+- Udfør en reparation af Office.
+- Ryd [Office-dokumentcachen](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
 
