@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754333"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569161"
 ---
 # <a name="onedrive-puid-mismatch"></a>Uoverensstemmelse i OneDrive PUID
-Det ser ud til, at du oplever en [PUID uoverensstemmelse](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) i OneDrive for Business. Følg trinnene nedenfor, så vi kan hjælpe dig så hurtigt som muligt:
 
-1. Klik på **Kontakt support**, og klik derefter på **ny service anmodning**.
-2. Behold titlen og beskrivelsen som **PUID uoverensstemmelse på OneDrive-webstedet**.
+Det ser ud til, at du oplever [id-uoverensstemmelser](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) i OneDrive for Business. Følg trinnene nedenfor, så vi kan hjælpe dig så hurtigt som muligt:
+
+1. Klik på  **Kontakt support**, og klik derefter på  **ny service anmodning**.
+2. Behold titlen og beskrivelsen som  **OneDrive-bruger-id**, der stemmer overens.
 3. Når billetten er blevet sendt, skal du opdatere den med følgende oplysninger:
     - URL-adresse til OneDrive-websted, der påvirkes.
     - Brugerens hovednavn (UPN) for den pågældende bruger.
-
-
-
