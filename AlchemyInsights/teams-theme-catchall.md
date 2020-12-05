@@ -1,5 +1,5 @@
 ---
-title: Ny bruger af Microsoft Teams
+title: Konfigurer Microsoft teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750409"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576227"
 ---
-# <a name="new-to-microsoft-teams"></a>Ny bruger af Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Konfigurer Microsoft teams
 
-Se  [Kom i gang med Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Sørg for at se kursusvideoerne til Microsoft Teams IT-administratorer, Bunker og flere oplysninger.
+[Konfigurationsvejledningen til Microsoft teams](https://aka.ms/teamsguidance) giver din organisation en vejledning i at konfigurere team arbejdsområder, der hoster realtids samtaler via chat, opkald og lyd-eller video møder for både team og privat kommunikation. Du får vejledning til at bestemme organisationens netværks krav ved hjælp af værktøjet netværks planlægger og teams Advisor i teams administration. Når installationen er fuldført, indeholder vejledningen nyttige ressourcer til at komme i gang med at bruge teams.
 
-Hvis du skal have hjælp til at implementere Teams for at yde support til eksterne arbejdere på grund af COVID-19, kan du se [Support til eksterne arbejdere, der bruger Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Du er muligvis også berettiget til at få hjælp til udrulning fra Microsoft 365 FastTrack-programmet – gå til [FastTrack Center](https://www.microsoft.com/fasttrack) for at sende en anmodning.
-
-**Vigtigt**! På grund af en nylig stigning i brugen af Teams kan det tage op til 24 timer, fra du tildeler en licens til en bruger, til denne er helt konfigureret. Indtil da kan du ikke tildele Teams-politikker til brugeren, og vedkommende har muligvis ikke adgang til nogle Teams-funktioner, f.eks. opkald og lydmøde.
+Hvis du vil have mere at vide, skal du se [Introduktion til Microsoft teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
