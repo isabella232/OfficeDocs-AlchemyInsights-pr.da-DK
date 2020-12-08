@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: b3577ac32be31b213feb172b76843ba884b42a03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
+ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705479"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49599014"
 ---
 # <a name="help-with-apple-dep"></a>Hjælp til Apple DEP
 
@@ -27,8 +27,8 @@ Hvis en DEP-enhed ikke kan registrere og MFA (multi-Factor Authentication) er ak
 
 [Almindelige fejl og løsninger til iOS-tilmelding](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
+[Sikkerhedskopiere og gendanne scenarier for registrerede iOS/iPadOS-enheder](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+
 [Generel fejlfinding af tilmelding](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
 [Brug fejlfindings portalen til Intune til at diagnosticere og løse almindelige tilmeldings fejl](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
-
-
