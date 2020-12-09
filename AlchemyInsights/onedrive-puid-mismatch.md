@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569161"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605703"
 ---
 # <a name="onedrive-puid-mismatch"></a>Uoverensstemmelse i OneDrive PUID
 
-Det ser ud til, at du oplever [id-uoverensstemmelser](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) i OneDrive for Business. Følg trinnene nedenfor, så vi kan hjælpe dig så hurtigt som muligt:
+Det ser ud til, at du oplever en [id-uoverensstemmelse](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) i OneDrive for Business. Hvis du vil gøre det muligt for os at hjælpe dig, skal du benytte følgende fremgangsmåde:
 
 1. Klik på  **Kontakt support**, og klik derefter på  **ny service anmodning**.
 2. Behold titlen og beskrivelsen som  **OneDrive-bruger-id**, der stemmer overens.
