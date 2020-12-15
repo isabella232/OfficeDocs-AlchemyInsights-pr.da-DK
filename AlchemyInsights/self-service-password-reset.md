@@ -12,23 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 693b051eb5f63a9b2eea8bce9321bbf435811269
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
+ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740180"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49676336"
 ---
-# <a name="self-service-password-reset-sspr"></a><span data-ttu-id="143bd-102">Selvbetjeningstjenesten til nulstilling af adgangskode (SSPR)</span><span class="sxs-lookup"><span data-stu-id="143bd-102">Self-service password reset (SSPR)</span></span>
+# <a name="self-service-password-reset-sspr"></a><span data-ttu-id="8eb2d-102">Selvbetjeningstjenesten til nulstilling af adgangskode (SSPR)</span><span class="sxs-lookup"><span data-stu-id="8eb2d-102">Self-service password reset (SSPR)</span></span>
 
-- <span data-ttu-id="143bd-103">Klik her for at [lade brugere nulstille deres egne adgangskoder](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr).</span><span class="sxs-lookup"><span data-stu-id="143bd-103">Click here to [Let users reset their own passwords](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr).</span></span>  <span data-ttu-id="143bd-104">SSPR er som standard aktiveret for administratorer.</span><span class="sxs-lookup"><span data-stu-id="143bd-104">SSPR is enabled by default for Admins.</span></span>
+- [<span data-ttu-id="8eb2d-103">Planlæg din selvbetjenings installation af adgangskode til nulstilling af adgangskode</span><span class="sxs-lookup"><span data-stu-id="8eb2d-103">Plan your self-service password reset deployment</span></span>](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
-- <span data-ttu-id="143bd-105">Klik her for at [registrere dine SSPR-kontaktoplysninger](https://go.microsoft.com/fwlink/?linkid=849451).</span><span class="sxs-lookup"><span data-stu-id="143bd-105">Click here to [register your SSPR contact info](https://go.microsoft.com/fwlink/?linkid=849451).</span></span>
+    <span data-ttu-id="8eb2d-104">eller</span><span class="sxs-lookup"><span data-stu-id="8eb2d-104">or</span></span>
+- <span data-ttu-id="8eb2d-105">[Registrere dine kontaktoplysninger for SSPR](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR er aktiveret som standard for administratorer)</span><span class="sxs-lookup"><span data-stu-id="8eb2d-105">[Register your SSPR contact info](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR is enabled by default for Admins)</span></span>
 
-<span data-ttu-id="143bd-106">Få flere oplysninger:</span><span class="sxs-lookup"><span data-stu-id="143bd-106">For more information:</span></span>
+    <span data-ttu-id="8eb2d-106">Du kan finde flere oplysninger under:</span><span class="sxs-lookup"><span data-stu-id="8eb2d-106">For more information, see:</span></span>
 
-<span data-ttu-id="143bd-107">Grundlæggende SSPR-konfiguration – [Lad brugerne nulstille deres egne adgangskoder](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="143bd-107">Basic SSPR setup - [Let users reset their own passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)</span></span>
+    <span data-ttu-id="8eb2d-107">Grundlæggende SSPR-konfiguration – [Lad brugerne nulstille deres egne adgangskoder](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)</span><span class="sxs-lookup"><span data-stu-id="8eb2d-107">Basic SSPR setup - [Let users reset their own passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)</span></span>
 
-[<span data-ttu-id="143bd-108">Ofte stillede spørgsmål om SSPR</span><span class="sxs-lookup"><span data-stu-id="143bd-108">SSPR FAQ</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
+    [<span data-ttu-id="8eb2d-108">Ofte stillede spørgsmål om SSPR</span><span class="sxs-lookup"><span data-stu-id="8eb2d-108">SSPR FAQ</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-[<span data-ttu-id="143bd-109">Fejlfindingsværktøj til SSPR</span><span class="sxs-lookup"><span data-stu-id="143bd-109">SSPR Troubleshooter</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [<span data-ttu-id="8eb2d-109">Fejlfindingsværktøj til SSPR</span><span class="sxs-lookup"><span data-stu-id="8eb2d-109">SSPR Troubleshooter</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
