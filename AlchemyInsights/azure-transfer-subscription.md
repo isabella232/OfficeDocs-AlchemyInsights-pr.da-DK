@@ -1,5 +1,5 @@
 ---
-title: Overfør Azure fakturerings ejerskab
+title: Overfør ejerskab af Azure Fakturering
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: e9a1e74b321e2c2dda5f7a4f69681a0acf0635d5
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
+ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922030"
+ms.lasthandoff: 12/29/2020
+ms.locfileid: "49736872"
 ---
-# <a name="transfer-azure-billing-ownership"></a>Overfør Azure fakturerings ejerskab
+# <a name="transfer-azure-billing-ownership"></a>Overfør ejerskab af Azure Fakturering
 
-Log på Azure- [portalen](https://portal.azure.com/) som administrator af faktureringskontoen med det abonnement, du vil overføre. Hvis du ikke er sikker på, om du er administrator, eller hvis du har brug for at finde ud af, hvem der er, skal du se [bestemme konto faktureringsadministrator](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
+Log på [Azure-portalen](https://portal.azure.com/) som administrator af faktureringskontoen med det abonnement, du vil overføre. Hvis du ikke er sikker på, om du er administrator, eller hvis du har brug for at finde ud af, hvem der er, skal du se [Bestem Administrator for faktureringskonto](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-- Søg efter **omkostningsstyring + fakturering**.
-- Vælg **abonnementer** i venstre rude. Afhængigt af Access skal du muligvis vælge et fakturerings område og derefter **abonnementer** eller Azure- **abonnementer**.
-- Vælg **Overfør fakturerings ejerskab** for det abonnement, du vil overføre
-- Angiv mailadressen for en bruger, der er faktureringsadministrator for den konto, der skal være den nye ejer af abonnementet, og vælg derefter **Send anmodning om overførsel**
-- Brugeren får en mail med instruktioner til at gennemgå din overførsels anmodning. Hvis du vil godkende overførselsanmodningen, skal brugeren vælge linket i mailen og følge vejledningen.
+1. Søg på _Cost Management + Fakturering_.
+1. Vælg **Abonnementer** fra venstre rude. Afhængigt af adgangen skal du muligvis vælge et faktureringsområde og derefter **Abonnementer** eller **Azure-abonnementer**.
+1. Vælg **Overfør faktureringsejerskab** for det abonnement, du vil overføre.
+1. Angiv mailadressen på den bruger, der er faktureringsadministrator for den konto, der skal være den nye ejer af abonnementet, og vælg derefter **Send anmodning om overførsel**.
+1. Brugeren får en mail med en vejledning i at gennemse anmodningen om overførsel. For at godkende anmodningen om overførsel, skal brugeren markere linket i mailen og følge vejledningen.
 
-**Bemærk** ! hvis du overfører fakturerings ejerskabet af dit abonnement til en brugerkonto i en anden Azure ad-lejer, fjernes alle [Rollebaserede adgangskontrol (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support)opgaver til administration af ressourcer i abonnementet permanent. Det er kun den nye ejer, der har adgang til at administrere ressourcer i abonnementet. Hvis du vil have mere at vide, skal du se [overføre abonnement til en bruger i en anden Azure ad-lejer](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Bemærk, at hvis du overfører faktureringsejerskabet for dit abonnement til en brugerkonto i en anden Azure AD-lejer, fjernes alle tildelinger af [rollebaseret adgangskontrol (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) til administration af ressourcer i abonnementet permanent. Det er kun den nye ejer, der har adgang til at administrere ressourcer i abonnementet. Hvis du vil have mere at vide om, hvordan du ændrer en mappe for et abonnement, skal du se [Sådan overfører du abonnement til en bruger i en anden Azure AD-lejer](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+_**Vigtig indvirkning på dine fakturaer**_: Hvis du har overført faktureringsejerskab for et Azure-abonnement, vil dine omkostninger være forholdsmæssigt beregnet. Du kan få adgang til fakturaer som følgende:  
+
+1. Vælg dit abonnement på siden [Abonnementer](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) i Azure-portalen som [en bruger med adgang til fakturaer](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), og vælg derefter **Fakturaer**.
+1. Klik på **Download faktura** for at få vist en kopi af din PDF-faktura. Hvis der står _Ikke tilgængelig_, kan du gå til [Hvorfor kan jeg ikke se en faktura for den seneste faktureringsperiode?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+1. Du kan også få vist dit daglige forbrug ved at klikke på **faktureringsperioden** for at få en PDF-fil med din faktura og en kopi af din detaljerede fil for dagligt forbrug (.csv). Hvis du vil have mere at vide, skal du se [Få oplysninger om fakturaer og brugsdata](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Anbefalede dokumenter**
 
-- [Overfør fakturerings ejerskabet af et Azure-abonnement til en anden konto](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
-- [Om overførsel af fakturerings ejerskab for et Azure-abonnement](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
-- [Overførsel af Visual Studio, Microsoft Partners Network (MPN) og betal efter din arbejde-dev/test abonnementer](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Overfør faktureringsejerskab for et Azure-abonnement til en anden konto](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer)
+- [Om overførsel af faktureringsejerskab for et Azure-abonnement](https://docs.microsoft.com//azure/cost-management-billing/understand/subscription-transfer)
+- [Overførsel af Visual Studio, Microsoft Partner Network (MPN) og Dev/Test-abonnementer betalt efter forbrug](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
 - [Ofte stillede spørgsmål om overførsel af ejerskab](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
 - [Fejlfinding af problemer med overførsel af ejerskab](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
