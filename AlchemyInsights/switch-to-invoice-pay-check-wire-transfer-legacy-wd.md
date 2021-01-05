@@ -1,5 +1,5 @@
 ---
-title: Skifte til faktura betaling (check/Bank Transfer) – ældre WD
+title: Skift til betaling via faktura (check/Bank Transfer)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726097"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755397"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Skifte til faktura betaling (check/Bank Transfer) – ældre WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Skift til betaling via faktura (check/Bank Transfer)
+
+Afhængigt af din problembeskrivelse har vi fundet en løsning til dig. De fleste kunder har kunnet løse deres problemer efter eget efter at have fulgt vores dokumentation.
 
 Hvis du skifter til at betale via faktura, betyder det, at du vil betale din faktura inden for 30 dage efter fakturadatoen. Hvis du vil være berettiget til at betale for dit Azure-abonnement via faktura, skal du indsende en anmodning til Azure support. Når anmodningen er godkendt, kan du skifte et abonnement til faktura betaling i Azure- [portalen](https://portal.azure.com/).
 

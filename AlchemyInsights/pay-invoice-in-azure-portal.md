@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714763"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755613"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Betalings faktura i Azure Portal – anbefalede trin
+
+Afhængigt af din problembeskrivelse har vi fundet en løsning til dig. De fleste kunder har kunnet løse deres problemer efter eget efter at have fulgt vores dokumentation.
 
 Du skal være administrator af faktureringskontoen for at betale fakturaer i Azure-portalen. Administrator af faktureringskonto er den bruger, der oprindeligt har tilmeldt sig Microsoft-kunde aftale kontoen. 
 
 Sådan betaler du din faktura i Azure-portalen: 
 
 1. Log på Azure- [portalen](https://portal.azure.com/).
-1. Søg efter **omkostningsstyring + fakturering**.
+1. Søg på **Cost Management + Fakturering**.
 1. Klik på **fakturaer** under **Fakturering** i venstre rude.
 1. Hvis en af dine fakturaer forfalder eller er forfaldne, får du vist en blå **betalings nu** -kæde for den pågældende faktura. Klik på **Betal nu**.
 1. I det nye blade skal du klikke på **Vælg en betalingsmetode** for at vælge et eksisterende kreditkort eller tilføje et nyt.

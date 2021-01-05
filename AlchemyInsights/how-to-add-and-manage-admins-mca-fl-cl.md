@@ -1,5 +1,5 @@
 ---
-title: Sådan tilføjer og administrerer du administratorer-MCA FL/CL
+title: Sådan tilføjer og administrerer du administratorer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692014"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755433"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Sådan tilføjer og administrerer du administratorer-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Sådan tilføjer og administrerer du administratorer
+
+Afhængigt af din problembeskrivelse har vi fundet en løsning til dig. De fleste kunder har kunnet løse deres problemer efter eget efter at have fulgt vores dokumentation.
 
 Hvis du vil administrere din faktureringskonto for en Microsoft-kunde aftale (MCA), kan du bruge forskellige roller med det ønskede adgangsniveau. Disse roller er sammen med de indbyggede Azure-tjeneste roller, der hjælper dig med at styre dine ressourcer.
 

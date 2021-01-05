@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714732"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755793"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>Foretag øjeblikkelige betalinger – anbefalede trin
+
+Afhængigt af din problembeskrivelse har vi fundet en løsning til dig. De fleste kunder har kunnet løse deres problemer efter eget efter at have fulgt vores dokumentation.
 
 Hvis du vil udføre en øjeblikkelig betaling, skal du sørge for at løse de forfaldne saldi. Hvis betalingen ikke modtages, eller hvis vi ikke kan behandle din betaling, kan du få en mail eller se en meddelelse om en forfaldent saldo besked i konto Center eller Azure-portalen. 
 

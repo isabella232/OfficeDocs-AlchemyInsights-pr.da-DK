@@ -1,5 +1,5 @@
 ---
-title: Skifte til faktura betaling (check/Bank Transfer) – moderne CL
+title: Skift til betaling via faktura (check/Bank Transfer)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706583"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755450"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Skifte til faktura betaling (check/Bank Transfer) – moderne CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Skift til betaling via faktura (check/Bank Transfer)
+
+Afhængigt af din problembeskrivelse har vi fundet en løsning til dig. De fleste kunder har kunnet løse deres problemer efter eget efter at have fulgt vores dokumentation.
 
 Hvis du skifter til at betale via faktura, betyder det, at du vil betale din faktura inden for 30 dage efter fakturadatoen. Hvis du vil være berettiget til at betale for dit Azure-abonnement via faktura, skal du indsende en anmodning til Azure support. Når anmodningen er godkendt, kan du skifte et abonnement til faktura betaling i Azure-portalen.
 
