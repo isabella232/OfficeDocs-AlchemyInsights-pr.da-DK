@@ -1,5 +1,5 @@
 ---
-title: Skift mailadresse på Microsoft 365-gruppe
+title: Skift mailadressen for en Microsoft 365-gruppe eller Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: f54ca5df09d0604f6d58c6c8a41dc907485e1f04
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
-ms.translationtype: MT
+ms.openlocfilehash: ff7abaf3d8e0ed977eba5712bdd19185738fa75c
+ms.sourcegitcommit: 8be59778b7d39213a27a471802eae7fc006eb1ff
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48461830"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49756551"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>Skift mailadresse for en Microsoft 365-gruppe
+# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>Skift mailadressen for en Microsoft 365-gruppe eller Microsoft Teams
 
-Du kan ændre mailadressen til en Microsoft 365-gruppe ved hjælp af administrations centeret. Du skal bare markere gruppen og vælge @edit mailadresse.
+Du kan ændre mailadressen for en Microsoft 365-gruppe eller Microsoft Teams ved at bruge [Microsoft 365 Administration](https://admin.microsoft.com/). Markér blot gruppen, og vælg @rediger mailadresse.
 
-Du kan også bruge følgende EXO PowerShell-kommando til at ændre den primære SMTP-adresse for en Microsoft 365-gruppe:
+Du kan også bruge følgende EXO PowerShell-kommando til at ændre den primære SMTP-adresse for en Microsoft 365-gruppe/Teams:
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-:
+Eksempel:
 
-`et-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
+`Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
