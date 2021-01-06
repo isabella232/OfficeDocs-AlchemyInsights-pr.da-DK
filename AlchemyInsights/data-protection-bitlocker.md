@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731233"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768811"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivere BitLocker-kryptering med Intune
 
@@ -30,10 +30,12 @@ Du kan finde oplysninger om fejlfinding af problemer [med BitLocker under fejlfi
  
 **Ofte stillede spørgsmål**
 
- Sp: hvilke udgaver af Windows understøtter enhedskryptering ved hjælp af Endpoint Protection-politikken?<br>
- A: indstillingerne i politikken for Intune Endpoint Protection implementeres ved hjælp af [BitLocker-CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ikke alle udgaver eller builds til Windows understøtter BitLocker-program til kryptografiske tjenester. <br><br>
-      På nuværende tidspunkt understøttes følgende versioner af Windows: Enterprise, Education, mobile, mobil virksomhed og Professional (build 1809 og nyere).
- 
+Sp: hvilke udgaver af Windows understøtter enhedskryptering ved hjælp af Endpoint Protection-politikken?<br>
+A: indstillingerne i politikken for Intune Endpoint Protection implementeres ved hjælp af [BitLocker-CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Ikke alle udgaver eller builds til Windows understøtter BitLocker-program til kryptografiske tjenester. <br><br>
+
+Sp: Hvordan kan BitLocker aktiveres på enheder uden at kræve slutbruger interaktion?<br>
+A: så længe de nødvendige forudsætninger er opfyldt, er det muligt at aktivere BitLocker "uovervåget kryptering" via Intune. Se detaljerne om enheds kravene og eksempel politikindstillinger for at aktivere uovervåget kryptering i følgende dokument: [aktivere BitLocker-kryptering automatisk](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 Sp: Hvis en enhed allerede er krypteret med BitLocker ved hjælp af standardindstillingerne for krypteringsmetode og krypteringsgrad (XTS-AES-128), vil en politik med andre indstillinger automatisk udløse genkryptering af drevet med de nye indstillinger?<br>
 Sv.: Nej. Hvis du vil anvende de nye krypteringsindstillinger, skal drevet først dekrypteres.<br><br>
 **Bemærk:** For enheder, der er tilmeldt autopilot, udløses den automatiske kryptering, der skulle forekomme under OOBE, ikke, før Intune-politikken evalueres, hvilket gør det muligt at bruge de politikbaserede indstillinger i stedet for OPERATIVSYSTEMETS standardindstillinger.
