@@ -13,16 +13,18 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801070"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847594"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrollér indstillingerne for videresendelse af mail for en postkasse
 
-Det er nemt at bekræfte indstillingerne for videresendelse af mail i en Microsoft 365-postkasse. Du skal blot følge disse trin.
+For det første skal videresendelse af mail være aktiveret på lejerniveau. Hvis du har konfigureret videresendelse af mail på en postkasse, men den ikke virker, skal du se [kontrollere automatisk ekstern mail videresendelse i Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+Det er nemt at bekræfte indstillingerne for videresendelse af mail i en postkasse! Du skal blot følge disse trin.
   
 > Hvis dette er en brugerpostkasse, skal du gå til **brugere** , der er \> **aktive brugere** , og vælge den bruger, du videresender postkassen til. På fanen **mail** skal du vælge **Administrer videresendelse af mail**.
 
