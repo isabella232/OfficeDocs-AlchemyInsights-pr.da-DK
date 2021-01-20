@@ -26,4 +26,4 @@ ms.locfileid: "49715627"
 - Telefonsystem med lokale miljøer: [Konfigurer tjenesten Voicemail i skyen for lokale brugere](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail) 
 - [Opkaldsplaner til Microsoft 365](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
 
-Hvis talebeskeder ikke leveres, kan du gå til [Talebeskeder leveres ikke i Teams eller Skype for Business-klienten](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered).
+Hvis talebeskederne ikke leveres, kan du se [Talebeskeder leveres ikke i Teams eller Skype for Business-klienten](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered).
