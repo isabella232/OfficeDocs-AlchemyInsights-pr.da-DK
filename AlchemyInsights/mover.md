@@ -12,20 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 9a50525540d7b591c9272bc39714105cd1aa121f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43868418752d9274aa0b30fc32fd233224a3bc61
+ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702753"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49986292"
 ---
 # <a name="mover"></a>Mover
 
-Den 21. oktober 2019, Microsoft erhvervede  **flytte**maskine, en førende udbyder af skybaseret fil overførsel.
+Du kan finde oplysninger om flytte udstyr i følgende artikler:
 
-På nuværende tidspunkt [bedes du lede eventuelle supportanmodninger](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **her**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
-
-Hvis du vil have mere at vide om mover, skal du henvise til følgende artikler:
-
-- [Overførsels vejledninger til flytte](https://mover.io/guides/)
-- [Ofte stillede spørgsmål om overførsel](https://mover.io/guides/general/)
+- [Planlæg din migrering med Mover](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [Administrere forbindelser](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
+- [Kørsel af flytte overførselsprogrammet](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
