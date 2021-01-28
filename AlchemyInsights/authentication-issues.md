@@ -13,89 +13,89 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 53bd0d8f8edaead519d0282239d3a6d338b297b9
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: da-DK
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974312"
+ms.locfileid: "49976843"
 ---
 # <a name="authentication-issues"></a>Godkendelsesproblemer
 
-**Leder du efter oplysninger om de AADSTS-fejlkoder, der returneres fra Azure Active Directory (Azure AD) sikkerhedstokentjenesten (STS)?** Se [Azure ad-godkendelse og godkendelsesfejl koder](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) for at finde AADSTS-fejlbeskrivelser, løsninger og nogle forslag til løsninger.
+**Leder du efter oplysninger om AADSTS-fejlkoder, der returneres fra Azure AD (Azure Active Directory) sikkerhedstokentjenesten (STS)?** Se [Azure AD-godkendelses- og autorisationsfejlkoder](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) for at finde AADSTS-fejlbeskrivelser, rettelser og nogle foreslåede midlertidige løsninger.
 
-Godkendelsesfejl kan skyldes flere forskellige problemer, hvoraf de fleste genererer en 401-eller 403-fejl. Følgende problemer kan for eksempel alle føre til godkendelsesfejl:
+Autorisationsfejl kan være et resultat af flere forskellige problemer, hvoraf de fleste genererer en 401- eller 403-fejl. F.eks. kan følgende problemer alle føre til autorisationsfejl:
 
-- Ukorrekte [erhvervelses flow](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) for adgangstoken 
-- Dårligt konfigurerede [omfang af tilladelser](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
-- Manglende [tilladelse](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
+- Forkerte [flows for erhvervelse af adgangstoken](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
+- Dårligt konfigurerede [rettighedsområder](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- Manglende [samtykke](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
 
-Hvis du vil løse almindelige godkendelsesfejl, skal du prøve nedenstående trin, der passer bedst til den fejl, du modtager. Der kan være flere trin, der gælder for en fejl, du modtager.
+For at løse almindelige autorisationsfejl kan du prøve de trin, der er angivet nedenfor, og som passer bedst til den fejl, du modtager. Der kan gælde mere end ét trin for en fejl, du modtager.
 
-- **401 uautoriseret fejl: er dit token gyldigt?**
+**401 Uautoriseret fejl: Er dit token gyldigt?**
 
-Kontrollér, at din app præsenterer et gyldigt adgangstoken til Microsoft Graph som en del af anmodningen. Denne fejl betyder ofte, at der muligvis mangler et adgangstoken i HTTP-godkendelses anmodningens overskrift, eller at tokenet er ugyldigt eller udløbet. Vi anbefaler på det kraftigste, at du bruger Microsoft-godkendelses bibliotek (MSAL) til hentning af adgangstoken. Denne fejl kan også opstå, hvis du forsøger at bruge en uddelegeret adgangstoken til en personlig Microsoft-konto for at få adgang til et API, der kun understøtter arbejds-eller skole konti (virksomhedskonti).
+Kontrollér, at din app præsenterer et gyldigt adgangstoken til Microsoft Graph som en del af anmodningen. Denne fejl betyder ofte, at adgangstokenet mangler i HTTP-godkendelsesanmodningens header, eller at tokenet er ugyldigt eller er udløbet. Vi anbefaler på det kraftigste, at du bruger MSAL (Microsoft Authentication Library) til erhvervelse af adgangstoken. Desuden kan denne fejl opstå, hvis du forsøger at bruge et delegeret adgangstoken tildelt en personlig Microsoft-konto til at få adgang til en API, der kun understøtter arbejds- eller skolekonti (organisationskonti).
 
-**403 forbudt fejl: har du valgt det rigtige sæt af tilladelser?**
+**403 Forbudt fejl: Har du valgt det korrekte sæt af tilladelser?**
 
-Kontrollér, at du har anmodet om det korrekte sæt tilladelser på baggrund af Microsoft Graph-API'erne til dine app-opkald. Der findes anbefalede tilladelser til færrest rettigheder i alle emner i Microsoft Graph API-referencemetoden. Desuden skal disse tilladelser tildeles til ansøgningen af en bruger eller en administrator. Tildeling af tilladelser normalt sker gennem en tilladelses side eller brugen af registrerings bladet Azure-Portal program. Fra bladet **Indstillinger** for programmet skal du klikke på **nødvendige tilladelser** og derefter klikke på **Giv tilladelser**. Du kan finde flere oplysninger under:
+Sørg for, at du har anmodet om det korrekte sæt tilladelser baseret på Microsoft Graph-API'er til dine app-opkald. Anbefalet at der gives færrest mulige rettigheder som vist i alle emner om Microsoft Graph API-referencemetode. Desuden skal disse tilladelser til programmet, tildeles af en bruger eller en administrator. Tildeling af tilladelser sker normalt via en samtykkeside eller brug af Azure Portal-programregistreringsbladet. Fra programmets **Indstillinger**-blad, skal du klikke på **Krævede tilladelser**, og derefter klikke på **Giv tilladelser**. Du kan finde flere oplysninger under:
 
 - [Microsoft Graph-tilladelser](https://docs.microsoft.com/graph/permissions-reference) 
-- [Om Azure AD-tilladelser og-samtykke](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
+- [Om azure AD-tilladelser og -samtykke](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
 
-**403 forbudt fejl: fik appen fat i et token, så det stemmer overens med de valgte tilladelser?**
+**403 Forbudt fejl: Modtog din app et token, svarende til de valgte tilladelser?**
 
-Sørg for, at de typer af tilladelser, der anmodes om eller tildeles, passer til den type adgangstoken, din app får. Du anmoder muligvis om og tildeler app-tilladelser, men bruger delegeret interaktiv kode-tokens i stedet for flow-tokens til klientlegitimationsoplysninger eller anmodning om og tildeling af delegerede tilladelser, men brug af tokens til flow af klientlegitimationsoplysninger i stedet for delegeret kode flow-tokens.
+Sørg for, at de tilladelsestyper, der anmodes om eller tildeles, svarer til adgangstokentypen, som din app modtager. Du anmoder måske om og tildeler apptilladelser, men bruger delegerede interaktive kodeflowtokens i stedet for klientlegitimationstokens, eller anmoder om og tildeler delegerede tilladelser, men bruger klientlegitimationsoplysninger til flowtokens i stedet for delegerede kodeflowtokens.
 
-Du kan finde flere oplysninger om erhvervende tokens i:
+Du kan finde flere oplysninger om at modtage tokens i:
 
-- [Få adgang på vegne af brugere og delegeret tilladelser](https://docs.microsoft.com/graph/auth-v2-user) 
-- [Azure AD v 2.0-OAuth 2,0 Authorization Code flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Få adgang uden en bruger (daemon-tjeneste) og program tilladelser](https://docs.microsoft.com/graph/auth-v2-service) 
-- [Azure AD v 2.0-OAuth 2,0-klientoplysninger flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
+- [Få adgang på vegne af brugere og delegerede tilladelser](https://docs.microsoft.com/graph/auth-v2-user) 
+- [Azure AD v2.0 – OAuth 2.0-godkendelseskodeflow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Få adgang uden en bruger (daemon-tjeneste) og programtilladelser](https://docs.microsoft.com/graph/auth-v2-service) 
+- [Azure AD v2.0 – OAuth 2.0 flow af legitimationsoplysninger](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
 
-**403 forbudt fejl: nulstilling af adgangskode**
+**403 Forbudt fejl: Nulstilling af adgangskode**
 
-Der er i øjeblikket ingen program rettigheds-daemon-tjenestetilladelser, der tillader nulstilling af brugeradgangskoder. Disse API'er understøttes kun ved hjælp af den interaktive Delegate-kode, der er logget på med en administrator. Du kan finde flere oplysninger i [Microsoft Graph-tilladelser](https://docs.microsoft.com/graph/permissions-reference).
+Der er i øjeblikket ingen programtilladelses-daemon-tjeneste-til-tjeneste-tilladelser, der tillader nulstilling af brugeradgangskoder. Disse API'er understøttes kun ved hjælp af de interaktive delegerede kodeflows med en administrator, der er logget på. Få mere at vide under [Microsoft Graph-tilladelser](https://docs.microsoft.com/graph/permissions-reference).
 
-**403 forbudt: har brugeren adgang, og er de givet i licens?**
+**403 Forbudt: Har brugeren adgang, og har de licens?**
 
-For delegeret kode-flow evaluerer Microsoft Graph, om anmodningen er blevet tilladt ud fra de tilladelser, der er tildelt til appen, og de tilladelser, som den bruger, der er logget på. Denne fejl tyder normalt på, at brugeren ikke er privilegeret nok til at udføre anmodningen, **eller** at brugeren ikke har licens til at få adgang til dataene. Det er kun brugere med de påkrævede tilladelser eller licenser, der kan udføre anmodningen.
+For delegerede kodeflows evaluerer Microsoft Graph, om anmodningen er blevet tilladt, på baggrund af de tilladelser, der er tildelt appen, og de tilladelser, som brugeren, der er logget på, har. Generelt indikerer denne fejl, at brugeren ikke har rettigheder nok til at udføre anmodningen **eller** at brugeren ikke har licens til de data, der fås adgang til. Kun brugere med de nødvendige tilladelser eller licenser kan foretage anmodningen.
 
-**403 forbudt: har du valgt den korrekte ressource-API?**
+**403 Forbudt: Har du valgt den korrekte ressource-API?**
 
-API-tjenester som Microsoft Graph Kontrollér, at *AUD* -kravet (publikum) i det modtagne adgangstoken stemmer overens med den værdi, det forventer for sig selv, og hvis det ikke er tilfældet, opstår der en 403 forbudt-fejl. En almindelig fejl, der medfører, at denne fejl forsøger at bruge et token, der er erhvervet til Azure AD Graph-API'er, Outlook-API'er eller SharePoint/OneDrive-API'er til at ringe til Microsoft Graph (eller omvendt). Kontrollér, at den ressource (eller omfanget), som din app henter et token for, passer til API'ET, som appen ringer til.
+API-tjenester som f.eks. Microsoft Graph kontrollerer, at *aud*-krav (målgruppe) i den modtagne adgangstoken svarer til den værdi, den forventer for sig selv, og hvis ikke, opstår der en 403 Forbudt fejl. En almindelig fejl, der medfører denne fejl, er at forsøge at bruge en token, der er mortaget til Azure AD Graph APIs, Outlook APIs eller SharePoint/OneDrive APIs til at kalde Microsoft Graph (eller omvendt). Sørg for, at ressourcen (eller omfanget) din app henter et token for svarer til den API, som appen kalder.
 
-**400 forkert anmodning eller 403 forbudt: bruger brugeren deres organisations politikker for betinget adgang (CAS)?**
+**400 Forkert anmodning eller 403 Forbudt: Overholder brugeren organisationens politikker for betinget adgang (Conditional Access – CA) ?**
 
-Baseret på en organisations politikker for betinget adgang (CAS) er en bruger, der har adgang til Microsoft Graph-ressourcer via din app, muligvis en udfordring for flere oplysninger, der ikke findes i den adgangstoken, din app oprindeligt har erhvervet. I dette tilfælde modtager din app en **400 med en *interaction_required*** fejl i forbindelse med erhvervelse af adgangstoken eller en **403 med *insufficient_claims*** fejl, når du ringer til Microsoft Graph. I begge tilfælde indeholder fejl svaret flere oplysninger, der kan præsenteres for det godkendte slutpunkt for at udfordre brugeren til yderligere oplysninger (som f. eks. multifaktorgodkendelse eller enheds tilmelding).
+Baseret på en organisations politikker for betinget adgang (CA) kan en bruger, der tilgår Microsoft Graph-ressourcer via din app, blive udfordret med yderligere oplysninger, der ikke findes i den adgangstoken, din app oprindeligt modtog. I dette tilfælde modtager din app en **400 med en *interaction_required***-fejl under modtagelsen af adgangstoken **403 med *insufficient_claims***-fejl, når du kalder Microsoft Graph. I begge tilfælde indeholder fejlsvaret yderligere oplysninger, der kan præsenteres for det autoriserede slutpunkt til at udfordre brugeren for at få yderligere oplysninger (f.eks. multifaktorgodkendelse eller enhedsregistrering).
 
-Hvis du vil have mere at vide om betinget adgang, skal du se:
+Du kan finde flere oplysninger om betinget adgang under:
 
-- [Håndtering af betingede adgangs udfordringer ved hjælp af MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
-- [Udvikler vejledning til betinget adgang til Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
+- [Håndtering af betinget adgang-udfordringer ved hjælp af MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
+- [Vejledning for udviklere om Azure Active Directory-betinget adgang](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Slutningen af understøttelse af Azure Active Directory-godkendelses bibliotek (ADAL) og Azure ad Graph API (Aad-graf)_* _
+**_Slutdato for support af ADAL (Azure Active Directory Authentication Library) og AAD Graph (Azure AD Graph API)_* _
 
-- Fra juni 30th, 2020, vil vi ikke længere tilføje nye funktioner til Azure Active Directory-godkendelses bibliotek (ADAL) og Azure AD graf API (AAD-graf). Vi vil fortsat yde teknisk support og sikkerhedsopdateringer, men vil ikke længere tilbyde FUNKTIONSOPDATERINGER.
-- Fra juni 30th, 2022, vi afslutter support til ADAL og AAD-grafen og vil ikke længere yde teknisk support eller sikkerhedsopdateringer.
-    - Apps, der bruger ADAL på eksisterende OS-versioner, vil fortsat fungere efter dette tidspunkt, men de får ikke teknisk support eller sikkerhedsopdateringer.
-    - Apps, der bruger AAD Graph efter dette tidspunkt, kan muligvis ikke længere modtage svar fra AAD-diagram slutpunktet.
+- Fra d. 30. juni 2020 tilføjer vi ikke længere nye funktioner til ADAL (Azure Active Directory Authentication Library) og AAD Graph (Azure AD Graph API). Vi yder fortsat teknisk support og sikkerhedsopdateringer, men vil ikke længere levere funktionsopdateringer.
+- Fra d. 30. juni 2022 afslutter vi supporten af ADAL og AAD Graph og yder ikke længere teknisk support eller sikkerhedsopdateringer.
+    - Apps, der bruger ADAL på eksisterende os-versioner, fungerer fortsat efter dette tidspunkt, men får ingen teknisk support eller sikkerhedsopdateringer.
+    - Apps, der bruger AAD Graph efter dette tidspunkt, modtager muligvis ikke længere svar fra AAD Graph-slutpunktet.
 
-_ *ADAL-overførsel**
+_ *ADAL-migrering**
 
-Vi anbefaler, at du opdaterer til [Microsoft-godkendelses bibliotek (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), som har de nyeste funktioner og sikkerhedsopdateringer. Denne anbefaling er i forbindelse med Microsoft overførsel af sine programmer til MSAL ved hjælp af deadline for ophør. Målsætningen for Microsoft-apps overføres til MSAL er at sikre, at de pågældende apps drager fordel af MSALs fortsatte sikkerheds-og funktionsforbedringer.
+Vi anbefaler, at du opdaterer [MSAL (Microsoft Authentication Library)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), som har de nyeste funktioner og sikkerhedsopdateringer. Denne anbefaling er i forbindelse med Microsofts migrering af deres programmer til MSAL ved deadline for slutdato for support. Formålet med Microsoft-apps migrering til MSAL er at sikre, at appsene drage fordel af MSAL's løbende forbedringer af sikkerhed og funktioner.
 
-- [Læs ADAL ofte stillede spørgsmål](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- [Få mere at vide om, hvordan du kan overføre apps på et enkelt platforms grundlag](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- Hvis du har brug for hjælp til at forstå, hvilke af dine apps der bruger ADAL, anbefaler vi, at du gennemgår alle dine apps-kildekode, og hvis det er relevant, kan du få adgang til alle uafhængige softwareleverandører eller app-udbydere. Microsoft Support kan også give dig en liste over alle ikke-Microsoft-ADAL-apps i din lejer.
+- [Læs ofte stillede spørgsmål om ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- [Få mere at vide om at migrere apps pr. platform](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- Hvis du har brug for hjælp til at forstå, hvilke af dine apps der bruger ADAL, anbefaler vi, at du gennemser alle dine apps' kildekode, og hvis det er relevant, skal du kontakte eventuelle ISV'er (uafhængige softwareleverandører) eller appudbydere. Microsoft-support kan også give dig en liste over alle ikke-Microsoft ADAL-apps i din lejer.
 
-**AAD-diagram overførsel**
+**AAD Graph Migration**
 
-For programmer, der bruger AAD-graf, skal du følge vores vejledning til at [overføre Azure ad Graph-apps til Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
+For programmer, der bruger AAD Graph, skal du følge vores vejledning i at [migrere Azure AD Graph-apps til Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
 
-- [Vores overflytnings checkliste giver et](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)introduktions point. 
-- Din Azure-app-registrerings Portal viser, hvilke programmer der bruger AAD-grafer. Vi anbefaler, at du gennemgår alle din apps-kildekode, og hvis det er relevant, så du kan få adgang til alle ISV'er-eller app-udbydere. Microsoft Support kan også give dig oplysninger om alle AAD-diagram brug i din lejer.
+- [Vores tjekliste til migrering indeholder et startpunkt](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+- Din registreringsportal til Azure-app viser, hvilke programmer der bruger AAD Graph. Vi anbefaler, at du gennemser kildekoden til alle dine apps og, hvis det er relevant, skal du kontakte alle internetudbydere eller appudbydere. Microsoft Support kan også give dig oplysninger om brug al AAD Graph-i din lejer.
 
  
 
