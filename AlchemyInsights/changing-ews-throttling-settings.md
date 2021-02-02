@@ -1,5 +1,5 @@
 ---
-title: Ændre indstillinger for EWS-begrænsning
+title: Ændring af indstillinger for begrænsning af EWS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 9accb3cb9d5d6e2eeed6e76452f3f1cff4f563f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f0bea884153dc1ed8699ce12e0d017d18f5e57c
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714133"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075891"
 ---
-# <a name="changing-ews-throttling-settings"></a>Ændre indstillinger for EWS-begrænsning
+# <a name="changing-ews-throttling-settings"></a>Ændring af indstillinger for begrænsning af EWS
 
-Kør vores automatiserede test, som giver dig mulighed for at ændre EWS-begrænsningspolitikken for overførsels varigheden.
+Kør vores automatiserede test, som giver dig mulighed for at ændre EWS-begrænsningspolitikken i hele overførslens varighed. Bemærk, at selv efter kørslen vil EWS-importerne stadig være begrænset til 150 mb pr. 5 minutter pr. postkasse. for at opnå højere overførselshastighed, skal du overføre flere brugere samtidigt.
 
-Bemærk, at EWS-begrænsningspolitik ændringer ikke har nogen indflydelse på følgende overførsels typer (ved hjælp af Microsoft-værktøjer): hybrid, komplet/fased (RPC/HTTP), IMAP, G suite, offentlig mappe eller PST import service.
+Bemærk, at ændringer af EWS-begrænsningspolitikken ikke har nogen indflydelse på følgende overførselstyper (ved hjælp af Microsoft-værktøjer): Hybrid, Cutover/Staged (RPC/HTTP), IMAP, G Suite, Offentlig mappe eller PST-importtjeneste.
