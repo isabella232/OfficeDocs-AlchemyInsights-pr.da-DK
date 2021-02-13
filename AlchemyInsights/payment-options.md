@@ -2,43 +2,39 @@
 title: Betalingsmuligheder
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce
 - "1639"
 - "9000134"
-ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: b85e96d98e9dead8609cfdc3dfb95552df550af0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 1ddff99967b62a151711a4c978f5fe35b2a99008
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510206"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152480"
 ---
-# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Betalingsmuligheder for abonnementer på Microsoft 365 til virksomheder
+# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Betalingsmuligheder for Microsoft 365-abonnementer
   
-Kreditkort, bankkonto (direkte debitering) og faktura (betal med check eller elektronisk pengeoverførsel) er alle betalingsmuligheder for Microsoft 365 til virksomhedsabonnementer.
+Kreditkort, debetkort, bankkonto (direkte debitering) og faktura (betaling med check eller elektronisk pengeoverførsel) er alle betalingsmuligheder for abonnementer på Microsoft 365 til virksomheder.
   
-**Betal med kreditkort og via bankkonto**
+**Betal med kreditkort eller debetkort eller via bankkonto**
   
-Når du betaler med kreditkort eller via bankkonto, vil du automatisk blive opkrævet betaling for abonnementet dagen efter fakturadatoen, indtil din abonnementsperiode udløber. Du kan [administrere betalingsmetoder,](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) når du har brug for det. Du kan også vælge at [modtage en kopi af din faktureringsopgørelse via mail](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
-  
-Hvis dit kreditkort er blevet afvist eller har en forfalden saldo, kan du vælge indstillingen **Afregn saldo** på siden **Fakturering** \> **[af dine produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-  
+Du kan betale for dit abonnement med et kreditkort eller debetkort eller en bankkonto. Når du betaler med en af disse betalingsmetoder, opkræver vi fortsat denne betalingsmetode, indtil abonnementet udløber eller annulleres. Du kan [administrere betalingsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods), når har brug for det. Du kan også vælge at [modtage en kopi af din faktureringsopgørelse via mail](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
+
+Hvis dit kreditkort er blevet afvist eller har en saldo med overskredet forfaldsdato, og du personligt har tilføjet betalingsmetoden, der har et forfaldent beløb, kan du bruge **Udlign saldo** for at betale. Den betalingsmetode, du bruger til at betale det forfaldne beløb, bliver den nye betalingsmetode for alle abonnementer, der har brugt den afviste betalingsmetode. Du kan få mere at vide under [Hvad nu, hvis jeg har en udestående saldo?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+
 **Betal via faktura (check eller elektronisk pengeoverførsel)**
   
 Hvis dit abonnement koster mere end et bestemt beløb (dette beløb varierer afhængigt af tjenesteplacering), har du mulighed for at betale via faktura ved hjælp af elektronisk overførsel eller check. En kreditkontrol kan være påkrævet ved større fakturabetalinger. Hvis en kreditkontrol er påkrævet, får du besked, når du køber dit abonnement. Hvis du accepterer at blive kontaktet, modtager du desuden en mail, der indeholder flere oplysninger om at ansøge om kreditgodkendelse. Kreditkontroller gennemføres normalt inden for to arbejdsdage.
-  
-Hvis du betaler for dit abonnement via faktura, får du tilsendt en mail, der angiver, at din faktureringsopgørelse er klar til at blive vist. Denne mail indeholder ikke en kopi af din faktureringsopgørelse. Du kan dog også vælge at [modtage en kopi af din faktureringsopgørelse via mail](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). Din faktureringsopgørelse indeholder detaljer om dine betalingsmuligheder. Hvis du angiver et indkøbsordrenummer, når du køber et abonnement, vises nummeret på din faktureringsopgørelse. Se [Få vist din regning eller faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) for at få flere oplysninger om at få adgang til faktureringsopgørelser.
-  
-**Skift den måde, du betaler på**
-  
-Hvis du vil ændre den måde, du betaler for et aktuelt abonnement på, kan du følge vejledningen [her](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+
+Hvis du betaler for dit abonnement via faktura, får du tilsendt en mail, når din faktureringsopgørelse er klar til at blive vist. Denne mail indeholder ikke en kopi af din faktureringsopgørelse. Du kan dog vælge at [modtage en kopi af din faktureringsopgørelse via mail](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Din faktureringsopgørelse indeholder detaljer om dine muligheder for at foretage en betaling, hvor den skal sendes. Hvis du angiver et indkøbsordrenummer, når du køber et abonnement, vises nummeret på din faktureringsopgørelse. Se [Få vist din regning eller faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) for at få flere oplysninger om at få adgang til faktureringsopgørelser.
   
 **Yderligere oplysninger**
   
-[Betal for dit abonnement på Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[Sådan kan du betale for dit abonnement på Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

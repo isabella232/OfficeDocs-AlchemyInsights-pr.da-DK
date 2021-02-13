@@ -1,9 +1,8 @@
 ---
-title: Administrer app-licenser
+title: Administrer applicenser
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778145"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232397"
 ---
-# <a name="manage-app-licenses"></a>Administrer app-licenser
+# <a name="manage-app-licenses"></a>Administrer applicenser
 
-## <a name="to-change-license-quantity"></a>Sådan ændres licensantallet
+## <a name="to-change-license-quantity"></a>Sådan ændrer du antal licenser
 
-1. Gå til siden **Fakturering**  >  **[af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** , og vælg derefter fanen **apps** .
+1. Gå til siden **Fakturering**  >  **[af dine](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
+2. Find **den** app, du **vil administrere,** i sektionen Apps under fanen Produkter. Vælg **Flere handlinger** (tre prik), og vælg derefter Køb **licenser.**
+3. Hvis du vil reducere antallet af licenser, skal du vælge Fjern licenser øverst i **ruden Køb** **licenser.**
+4. Hvis du vil købe eller fjerne  licenser, **skal** du angive det samlede antal licenser, du ønsker for dette abonnement, under Ny mængde i feltet Samlet antal licenser. Hvis du f.eks. har 100 licenser, og du vil tilføje fem mere, skal du angive 105. Hvis du vil fjerne fem af dem, skal du angive 95.
+5. Vælg **Gem.**
 
-2. Find og vælg den app, du vil administrere.  
+## <a name="to-assign-app-licenses"></a>Sådan tildeles applicenser
 
-3. Vælg **Tilføj/Fjern licenser**.
-
-4. Angiv det nye antal licenser, der kræves. Hvis du for eksempel har fem licenser, og du kun har brug for 4, skal du skrive 4 i feltet **Samlet antal licenser** . Hvis du i øjeblikket har 5 licenser og har brug for 10 samlet licenser, skal du skrive 10 i feltet **Samlet antal licenser** .
-
-## <a name="to-assign-app-licenses"></a>Sådan tildeles app-licenser
-
-1. Gå til siden **Fakturering**  >  **[af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** , og vælg derefter fanen **apps** .
-
-2. Find og vælg den app, du vil administrere.  
-
-3. Under **indstillinger & handlinger**skal du vælge linket til **Administrer i Publishers Portal**.
+1. Gå til siden **Fakturering**  >  **[af dine](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
+2. Find **og vælg** den app, du **vil administrere,** i sektionen Apps under fanen Produkter.
+3. Under **Indstillinger & skal** du vælge linket til Administrer i **publishers portal.**

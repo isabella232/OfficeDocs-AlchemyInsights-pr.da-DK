@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307129"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232278"
 ---
 # <a name="buy-additional-licenses"></a>Køb flere licenser
 
-1. I administration skal du gå til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Find det abonnement, du vil købe eller fjerne licenser for, under fanen **produkter** . Vælg **flere handlinger** (tre prikker), og vælg derefter **Køb licenser**.
-3. Hvis du vil reducere antallet af licenser, skal du vælge **Fjern licenser**øverst i ruden **Køb licenser** .
-4. Hvis du vil købe eller fjerne licenser, skal du angive det samlede antal licenser for dette abonnement under **nyt antal** i feltet **Samlet antal licenser** . Hvis du for eksempel har 100-licenser, og du vil tilføje 25 mere, skal du skrive 125. Hvis du vil fjerne 25 licenser, skal du skrive 75.
-5. Vælg **Gem**.
+**SE en video,** der viser, hvordan du gør dette: [Køb licenser](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-Hvis du vil have mere at vide, skal du se [købe licenser til dit Microsoft 365 til virksomheder-abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+1. I Administration skal du gå til siden **Fakturering**  >  [af dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. Find det **abonnement,** du vil købe licenser til, på fanen Produkter. Vælg **Flere handlinger** (tre prik), og vælg derefter Køb **licenser.**
+3. Under **Nyt antal** i feltet **Samlet** antal licenser skal du angive det samlede antal licenser, du ønsker for dette abonnement. Hvis du f.eks. har 100 licenser, og du vil tilføje 25 mere, skal du angive 125.
+4. Vælg **Gem.**
+
+Du kan få mere at vide [under Køb eller fjern licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Flere ressourcer**
 

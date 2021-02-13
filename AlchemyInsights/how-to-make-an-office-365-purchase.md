@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287132"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232361"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Sådan foretager du et Microsoft 365-køb
 
-Du kan købe et Microsoft 365-abonnement i administrations centeret.
+Du kan købe et Microsoft 365-abonnement i Administration.
   
-- Hvis du vil købe en plan, skal du gå til siden **Fakturering** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
-- Hvis du vil købe flere licenser, skal du gå til siden **Fakturering** \> [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) . Vælg det abonnement, du vil ændre, og vælg derefter **Køb licenser** eller **Fjern licenser**.
+- Hvis du vil købe en plan, skal du gå **til siden** \> **[faktureringskøbstjenester.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- Hvis du vil købe flere licenser, skal du gå **til siden Fakturering** af \> **[dine](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter. Vælg det abonnement, du vil ændre, og vælg derefter **Køb licenser**.\
+**SE en video,** der viser, hvordan du gør dette: [Køb nye licenser](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Hvis du vil have mere at vide, skal du se [købe licenser til dit Microsoft 365 til virksomheder-abonnement](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Du kan få mere at vide [under Køb eller fjern licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Fejlfinding**
 
