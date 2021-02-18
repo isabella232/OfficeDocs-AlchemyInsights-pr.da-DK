@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: f41d6cf8cb1bac471ca33d81a867a35080906ae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b22990f11bd229f206aa67f8793df3b605a4ba43
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732637"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291750"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>Opret et team for hele organisationen, der inkluderer alle i organisationen
 
 Du kan muligvis oprette et team, der inkluderer alle medlemmer af dit firma eller din organisation, som også kaldes et [team for hele organisationen](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
 
-- Har din organisation **færre end 5000 brugere**? Teams for hele organisationen er i øjeblikket begrænset til organisationer med 5000 eller færre brugere. Vi arbejder på at øge denne grænse fremover.
+- Har din organisation **færre end 10.000 brugere?** Teams for hele organisationen er i øjeblikket begrænset til organisationer med 10.000 eller færre brugere. Vi arbejder på at øge denne grænse fremover.
 
 - Teams for hele organisationen **er i øjeblikket utilgængelig** for **Teams for Education**.
 
