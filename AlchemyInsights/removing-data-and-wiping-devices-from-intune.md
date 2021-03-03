@@ -1,5 +1,5 @@
 ---
-title: Fjerne data og slette enheder fra Intune
+title: Fjern data og aftørring af enheder fra Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: 24330dffb38be14dd369960ff86d4650d60c55ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701277"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416307"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a>Fjerne data og slette enheder fra Intune
+# <a name="removing-data-and-wiping-devices-from-intune"></a>Fjern data og aftørring af enheder fra Intune
 
-Aflevering af enheden og fjernhandlinger til sletning af enheder kan bruges til at fjerne virksomhedsdata, der administreres af Intune, eller til at udføre en Fabriks nulstilling og sætte enheden tilbage til standardindstillingerne.
+Tilbagetrulning af enhed og fjernsletning af enhed kan bruges til at fjerne virksomhedsdata, der administreres af Intune, eller til at udføre en nulstilling til fabriksindstilling og returnere enheden til standardindstillingerne.
 
-1. Log på Microsoft 365-Enhedsadministration, og gå til **enheder**på  >  **alle enheder**.
+1. Log på Microsoft 365 Enhedshåndtering, og gå til **Enheder**  >  **på alle enheder.**
 2. Vælg den enhed, du vil slette.
-3. Vælg den type Fjern sletning, du vil udføre. Tilbagetrækning sletter kun organisationsoplysninger, mens alle sletninger gendanner enheden til fabriksindstillingerne.
-4. Vælg **Ja** for at bekræfte. Indtil sletningen er fuldført, vises status for enheds handlingen som afventer tilbagetrækning.</br>
+3. Vælg den type fjernsletning, du vil udføre. Tilbagetrækning sletter kun virksomhedsoplysninger, mens komplette sletninger gendanner enheden til fabriksindstillingerne.
+4. Vælg **Ja for** at bekræfte. Indtil sletningen afsluttes, vises status for enhedshandlingen som Tilbagetrækning *afventer.*
     Når handlingen er fuldført, kan du ikke længere se mobilenheden på listen over administrerede enheder.
 
-**Bemærk!** Firmadata kan ikke fjernes fra enheder, der er knyttet til Azure AD.
+> [!NOTE]
+> Firmadata kan ikke fjernes fra enheder, DER ER FORBUNDET til Azure AD. 
 
-Hvis du vil have detaljerede oplysninger om effekten af aftræks-og slette handlingerne, herunder hvad der bevares, og hvad der slettes, skal du se [fjerne enheder ved hjælp af slet, Fjern eller Fjern registreringen af enheden manuelt](https://docs.microsoft.com/intune/devices-wipe).
+Du kan finde detaljerede oplysninger om effekten af handlingerne Tilbagetrækning og Sletning, herunder hvad der bevares, og hvad der slettes, i følgende dokumentation:
 
-Hvis du vil slette alle data fra en macOS-enhed, skal du se [Slet alle data fra en macOS-enhed](https://docs.microsoft.com/intune/device-erase).
+- [Fjern enheder ved at slette, trække dem tilbage eller manuelt fjerne tilmeldingen af enheden.](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe)
+- [Sådan slettes kun virksomhedsdata fra Intune-administrerede apps](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Slet alle data fra en macOS-enhed.](https://docs.microsoft.com/mem/intune/remote-actions/device-erase)
