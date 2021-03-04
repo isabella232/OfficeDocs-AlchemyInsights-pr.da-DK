@@ -1,0 +1,52 @@
+---
+title: Fejlfinding af SSPR
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/04/2021
+ms.topic: article
+ms.audience: Admin
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003259"
+- "6128"
+ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
+ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.translationtype: MT
+ms.contentlocale: da-DK
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50429471"
+---
+# <a name="troubleshoot-sspr"></a><span data-ttu-id="ad48b-102">Fejlfinding af SSPR</span><span class="sxs-lookup"><span data-stu-id="ad48b-102">Troubleshoot SSPR</span></span>
+
+<span data-ttu-id="ad48b-103">**Jeg har problemer med at konfigurere nulstilling af adgangskode**</span><span class="sxs-lookup"><span data-stu-id="ad48b-103">**I'm having trouble configuring password reset**</span></span>
+
+- <span data-ttu-id="ad48b-104">Hvis du er administrator og leder efter, hvordan du aktiverer nulstilling af adgangskode via selvbetjening, skal du se Selvstudium aktivere [SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)for at konfigurere nulstilling af adgangskode for organisationen.</span><span class="sxs-lookup"><span data-stu-id="ad48b-104">If you are administrator and looking for how to enable self-service password reset, see [Tutorial enable SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), to configure password reset for your organization.</span></span> <span data-ttu-id="ad48b-105">Du kan også gennemse [licenskravene.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="ad48b-105">You may also want to review the [licensing requirements](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span> <span data-ttu-id="ad48b-106">Du skal have mindst én licens tildelt i organisationen.</span><span class="sxs-lookup"><span data-stu-id="ad48b-106">You must have at least one license assigned in your organization.</span></span>
+    - <span data-ttu-id="ad48b-107">**Kun brugere i skyen** – Alle Office 365 (O365) betalte SKU'er eller Azure AD Basic</span><span class="sxs-lookup"><span data-stu-id="ad48b-107">**Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic</span></span>
+    - <span data-ttu-id="ad48b-108">**Sky- og/eller** lokale brugere – Azure AD Premium P1 eller P2, Enterprise Mobility + Security (EMS) eller Secure Productive Enterprise (SPE)</span><span class="sxs-lookup"><span data-stu-id="ad48b-108">**Cloud and/or on-premises users** - Azure AD Premium P1 or P2, Enterprise Mobility + Security (EMS), or Secure Productive Enterprise (SPE)</span></span>
+- <span data-ttu-id="ad48b-109">Se vores ofte stillede spørgsmål om nulstilling af adgangskode via [selvbetjening.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="ad48b-109">For additional questions about self-service password reset, review [our FAQ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+<span data-ttu-id="ad48b-110">**Jeg får en fejlmeddelelse**</span><span class="sxs-lookup"><span data-stu-id="ad48b-110">**I'm getting an error message**</span></span>
+
+<span data-ttu-id="ad48b-111">Se denne artikel for at finde almindelige fejl og deres løsninger: Fejlfinding af nulstilling af [adgangskode via selvbetjening](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="ad48b-111">Review this article to find common errors and their solutions: [Troubleshoot self-service password reset](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="ad48b-112">**Jeg har et problem med min politik til nulstilling af adgangskode**</span><span class="sxs-lookup"><span data-stu-id="ad48b-112">**I'm having a problem with my password reset policy**</span></span>
+
+- <span data-ttu-id="ad48b-113">Hvis din politik for nulstilling af adgangskode ikke opfører sig som forventet, eller hvis du har spørgsmål om politikker til nulstilling af adgangskode, skal du læse denne artikel: Adgangskodepolitikker og begrænsninger [i Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="ad48b-113">If your password reset policy is not behaving as expected, or if you have questions about password reset policies, review this article: [Password policies and restrictions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+- <span data-ttu-id="ad48b-114">Politikker for nulstilling af adgangskode gælder ikke for administratorer.</span><span class="sxs-lookup"><span data-stu-id="ad48b-114">Password reset policies do not apply to administrators.</span></span> <span data-ttu-id="ad48b-115">Microsoft gennemtvinger en stærk standardpolitik for nulstilling af adgangskode til to porte for alle Azure-administratorroller.</span><span class="sxs-lookup"><span data-stu-id="ad48b-115">Microsoft enforces a strong default two-gate password reset policy for any Azure administrator role.</span></span> <span data-ttu-id="ad48b-116">Sørg for, at du tester med en bruger, der ikke er administrator.</span><span class="sxs-lookup"><span data-stu-id="ad48b-116">Make sure that you are testing with a user who is not an administrator.</span></span> <span data-ttu-id="ad48b-117">Du kan finde flere oplysninger om administratorens nulstillingspolitik i denne artikel: [Forskelle i administratornulstillingspolitik.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)</span><span class="sxs-lookup"><span data-stu-id="ad48b-117">For more information on the administrator reset policy, see this article: [Administrator reset policy differences](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span></span>
+
+<span data-ttu-id="ad48b-118">**Jeg ønsker ikke, at mine brugere skal registrere yderligere sikkerhedsoplysninger til nulstilling af adgangskode**</span><span class="sxs-lookup"><span data-stu-id="ad48b-118">**I don't want my users to register additional security info for password reset**</span></span>
+
+<span data-ttu-id="ad48b-119">Du kan forudindstille data (mail og telefonattributter) for dine brugere ved hjælp af en API, PowerShell eller Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="ad48b-119">You can pre-populate data (email and phone attributes) for your users using an API, PowerShell, or Azure AD Connect.</span></span> <span data-ttu-id="ad48b-120">Sådan lærer du at læse:</span><span class="sxs-lookup"><span data-stu-id="ad48b-120">To learn how read:</span></span>
+
+- [<span data-ttu-id="ad48b-121">Installation af nulstilling af adgangskode uden at kræve, at brugerne skal registrere sig</span><span class="sxs-lookup"><span data-stu-id="ad48b-121">Deploying password reset without requiring users to register</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [<span data-ttu-id="ad48b-122">Hvilke data bruges ved nulstilling af adgangskode</span><span class="sxs-lookup"><span data-stu-id="ad48b-122">What data is used by password reset</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+
+<span data-ttu-id="ad48b-123">**Jeg ønsker, at mine brugere skal registrere deres yderligere sikkerhedsoplysninger til nulstilling af adgangskode**</span><span class="sxs-lookup"><span data-stu-id="ad48b-123">**I want my users to register their additional security info for password reset**</span></span>
+
+1. <span data-ttu-id="ad48b-124">Få brugerne til at registrere deres sikkerhedsoplysninger til nulstilling af adgangskode til selvbetjening ved at dirigere dem [til aka.ms/ssprsetup.](https://mysignins.microsoft.com/security-info)</span><span class="sxs-lookup"><span data-stu-id="ad48b-124">Have your users register their security info for self service password reset by directing them to [aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).</span></span>
+1. <span data-ttu-id="ad48b-125">Når dataene er udfyldt for brugeren (af brugeren eller af administratoren), skal du dirigere brugeren til [aka.ms/sspr](https://passwordreset.microsoftonline.com/) så brugerne kan få mulighed for at nulstille deres egne adgangskoder.</span><span class="sxs-lookup"><span data-stu-id="ad48b-125">After data is populated for the user (by the user or by the admin), direct your user to [aka.ms/sspr](https://passwordreset.microsoftonline.com/) so your users can be empowered to reset their own passwords.</span></span>
+1. <span data-ttu-id="ad48b-126">Hvis brugerne stadig oplever problemer,  er de højst sandsynligt brugere, der er synkroniseret med organisationsnetværk eller **adgangskodehash.**</span><span class="sxs-lookup"><span data-stu-id="ad48b-126">If users are still experiencing problems they are most likely **federated** or **password hash synched** users.</span></span> <span data-ttu-id="ad48b-127">Det betyder, at der sandsynligvis er et problem med tjenesten Tilbageførsel af adgangskode.</span><span class="sxs-lookup"><span data-stu-id="ad48b-127">This means there is likely a problem with the Password Writeback service.</span></span>
