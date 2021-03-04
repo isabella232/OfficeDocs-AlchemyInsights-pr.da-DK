@@ -1,9 +1,10 @@
 ---
-title: Konfigurere Microsofts informationsstyring
+title: Konfigurer Microsofts informationsstyring
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.audience: Admin
+ms.date: 03/02/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004220"
 - "7428"
-ms.openlocfilehash: c404e541d54094c2189c38576399b1cbe04e32e2
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "9000273"
+- "9245"
+ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677415"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448752"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Konfigurere Microsofts informationsstyring
+# <a name="set-up-microsoft-information-governance"></a>Konfigurer Microsofts informationsstyring
 
-[Konfigurationsvejledningen til Microsoft information-styring](https://admin.microsoft.com/AdminPortal/Home#/modernonboarding/migsetupguide) giver dig de oplysninger, du skal bruge til at konfigurere og administrere din organisations styre strategi, for at sikre, at dine data klassificeres og administreres i henhold til de specifikke retningslinjer for livscyklus, du har angivet.
+Konfigurationsvejledningen til Microsoft Information [Governance](https://go.microsoft.com/fwlink/?linkid=2146529) giver dig de oplysninger, du skal bruge til at konfigurere og administrere organisationens styringsstrategi for at sikre, at dine data bliver klassificeret og administreret i henhold til de specifikke retningslinjer for livscyklus, du angiver.
 
-Med denne vejledning får du at vide, hvordan du opretter, automatisk anvender eller udgiver etiketter, etiket politikker og opbevaringspolitikker, der anvendes på organisationens indhold og overholdelses poster, der kan genbruges. Du får også oplysninger om at importere CSV-filer med en filplan til masse scenarier eller for at anvende dem manuelt på individuelle dokumenter.
+Med denne vejledning lærer du, hvordan du opretter, automatisk anvender eller publicerer navne, etiketpolitikker og opbevaringspolitikker, der anvendes til organisationens indhold, der kan genbruges, og overholdelsesposter. Du får også oplysninger om import af CSV-filer med en filplan til massescenarier eller til at anvende dem manuelt på individuelle dokumenter.

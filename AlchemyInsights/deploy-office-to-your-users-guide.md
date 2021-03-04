@@ -1,10 +1,10 @@
 ---
-title: Installere Office på din brugervejledning
+title: Installér Office til dine brugeres vejledning
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
 ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004198"
 - "7379"
-ms.openlocfilehash: 4eb1deb2326afc8cb7b54a7ee89cd5f8f7a540c9
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "2000022"
+- "871"
+ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677366"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448673"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Installere Office på din brugervejledning
+# <a name="deploy-office-to-your-users-guide"></a>Installér Office til din brugervejledning
 
-Installér Office-apps fra skyen med mulighed for at tilpasse din installation ved hjælp af Office-udrulnings værktøjet.
+Installér Office-apps fra skyen med mulighed for at tilpasse din installation ved hjælp af Office Udrulningsværktøj.
 
-Guiden "Installer Office til dine brugere" hjælper dig med at oprette en tilpasset Office-konfiguration med avancerede indstillinger, eller du kan bruge en foruddefineret anbefalet konfiguration. Uanset om dine brugere udfører en selv installation, eller du installerer til brugerne individuelt eller samlet, giver denne avancerede guide dig en trinvis vejledning til at give brugerne en Office-installation, der er tilpasset din organisation.
+Vejledningen [Installér Office til](https://go.microsoft.com/fwlink/?linkid=2146451) dine brugere hjælper dig med at oprette en tilpasset Office-konfiguration med avancerede indstillinger, eller du kan bruge en indbygget anbefalet konfiguration. Uanset om dine brugere udfører en selvinstallation, eller du installerer for dine brugere enkeltvis eller flere af dem, giver denne avancerede guide dig en trinvis vejledning i at give brugerne en Office-installation, der er skræddersyet til din organisation.
