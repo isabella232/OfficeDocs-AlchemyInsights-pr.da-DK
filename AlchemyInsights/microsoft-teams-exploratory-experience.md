@@ -1,5 +1,5 @@
 ---
-title: Microsoft teams-oplevelse
+title: Microsoft Teams Exploratory-oplevelse
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
+ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019541"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50480713"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Microsoft teams-oplevelse
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Exploratory-oplevelse
 
-- Hvad er [teams forsøg](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Microsoft teams-erfarings oplevelsen gør det muligt for brugerne i din organisation, der ikke har licens til teams, at starte en forsøgs oplevelse for teams. Hvis du vil have mere at vide, skal du se [, hvad der er i holdets undervisning](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Hvornår udløber min licens](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Microsoft teams erfarings oplevelsen er tilgængelig uden yderligere omkostninger før din næste jubilæum eller fornyelse på eller efter januar 2021.
-- Som administrator kan du [opgradere brugere fra teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) -licensen ved at købe et abonnement, der omfatter teams, fjerne abonnementet på teams-abonnementet fra brugeren og tildele den nyligt købte licens.
-- Hvis du vil have mere at vide, skal du se [Administrer teams licensen.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
+- Hvad er [Teams Exploratory?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Med Microsoft Teams Exploratory-oplevelsen kan brugere i din organisation, som ikke har licens til Teams, starte en forsøgsoplevelse af Teams. Du kan få flere oplysninger ved [at se, hvad der er i Teams Exploratory-oplevelsen.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Hvor lang tid varer Teams Exploratory-oplevelsen?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Microsoft Teams Exploratory-oplevelsen fås uden ekstra omkostninger i 12 måneder (fra den første bruger tilmelder sig) plus yderligere 30 dage.
+- Som administrator kan du opgradere brugere fra [Teams Exploratory-licensen](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) ved at købe et abonnement, der omfatter Teams, fjerne Teams-prøveabonnementet fra brugeren og tildele den netop købte licens.
+- Du kan få mere at vide [under Administrer licensen til Teams-forsøgsgrupper.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
