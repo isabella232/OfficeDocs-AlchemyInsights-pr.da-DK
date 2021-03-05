@@ -1,8 +1,8 @@
 ---
 title: Ofte stillede spørgsmål om Microsoft 365 F3-abonnement og licensstyring
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5472"
-ms.openlocfilehash: e3e8561351063493b032b468b64360555f61f491
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 0efc3353924a1c21f174d0d95071dad76b16e563
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743170"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469764"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Ofte stillede spørgsmål om Microsoft 365 F3-abonnement og licensstyring
 
 - Hvis du vil **vide mere og købe** et F3-abonnement, skal du gå til [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot%3aoverviewtab).
-- Hvis du vil **skifte planer**, skal du gå til [Skift Microsoft 365-abonnementer for virksomheder manuelt](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Hvis du vil **tildele** brugere F3-licenser, skal du gå til **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Du kan finde flere oplysninger under [Tildel licenser](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Hvis du vil **tilføje/fjerne** F3-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**, og klikke på **Tilføj/fjern licenser**. Du kan finde flere oplysninger under [Tilføj/fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Hvis du vil **annullere** F3-licenser, skal du gå til **Fakturering > [Produkter og tjenester](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vælge **Indstillinger og handlinger** og klikke på **Annuller abonnementet**. Du kan finde flere oplysninger under [Annuller dit abonnement](https://docs.microsoft.com/officF365/admin/subscriptions-and-billing/cancel-your-subscription).
-- Hvis du vil **aktivere** F3-abonnementet, skal du gå til [Aktivér dit abonnement](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Hvis du vil **genaktivere** F3-abonnementet, skal du gå til[Genaktiver dit abonnement](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Hvis du vil**forlænge** din F3-prøveperiode, skal du gå til[Forlæng prøveperiode](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Hvis du **vil ændre planer,** skal [du se Opgrader til en anden plan.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
+- Hvis **du vil** tildele F3-licenser til brugere, skal du gå til **faktureringslicenser > [licenser.](https://go.microsoft.com/fwlink/p/?linkid=842264)** Du kan få mere at vide [under Tildel licenser til brugere.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Hvis **du vil købe eller fjerne** F3-licenser, skal du gå til Fakturering > Dine **[produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Du kan finde flere oplysninger i [Køb eller fjern licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
+- Hvis **du vil** annullere F3-licenser, skal du gå til Fakturering  > Dine produkter, vælge abonnementet og vælge Annuller abonnement i sektionen Abonnements- og **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** **betalingsindstillinger.** Du kan finde flere oplysninger under [Annuller dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Hvis du **vil** aktivere et F3-abonnement, skal [du se Aktivere dit abonnement.](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)
+- Hvis **du vil genaktivere** et F3-abonnement, skal [du se Genaktiver dit abonnement.](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)
+- Hvis du **vil forlænge** et F3-prøveabonnement, skal du [se Forlæng dit prøveabonnement.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
 
-Hvis du vil have mere at vide, skal du gå til [Administrer abonnementslicenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Du kan finde flere oplysninger i [Køb eller fjern licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
