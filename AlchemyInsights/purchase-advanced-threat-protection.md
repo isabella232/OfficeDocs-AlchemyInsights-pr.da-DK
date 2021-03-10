@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-- commerce
-ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469800"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602106"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Køb Microsoft Defender til Office 365
 
@@ -27,7 +26,7 @@ Microsoft Defender til Office 365 er inkluderet i visse abonnementer, f.eks Micr
 1. Gå til siden Faktureringskøbstjenester **i**  >  [](https://go.microsoft.com/fwlink/p/?linkid=868433) Administration.
 2. Find tilføjelsesprogrammet  Microsoft Defender til  Office 365 nederst på siden Køb tjenester i sektionen Tilføjelser, og vælg **Detaljer.**
 3. Vælg Køb på siden med **produktoplysninger.**
-4. Udfyld eventuelle andre ordreoplysninger, hvis det er nødvendigt. Disse oplysninger kan omfatte at vælge det abonnement, tilføjelsesprogrammet er til, og antallet af brugere, der skal bruge det. Når du er færdig, skal du vælge **Tjek ud nu.**
+4. Hvis det er nødvendigt, skal du udfylde eventuelle andre ordreoplysninger. Disse oplysninger kan omfatte at vælge det abonnement, tilføjelsesprogrammet er til, og antallet af brugere, der skal bruge det. Når du er færdig, skal du vælge **Tjek ud nu.**
 5. Gennemse ordre- og prisoplysningerne, hvis det er nødvendigt, og vælg derefter **Næste.**
 6. Vælg en betalingsmetode, eller tilføj en ny, og vælg derefter **Afkrydsningsfeltet**  >  **Gå til startside for administrator.**
 

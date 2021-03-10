@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-- commerce
-ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50470000"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50600980"
 ---
 # <a name="suspend-or-pause-licenses"></a>Suspendere eller afbryde licenser
 
@@ -32,4 +31,4 @@ Hvis du vil suspendere eller midlertidigt afbryde dit licensforbrug, kan du fjer
 4. Vælg Fjern licenser på siden med **abonnementsoplysninger.**
 5. I feltet **Samlet antal** licenser i ruden Fjern **licenser** skal du angive det samlede antal licenser, du ønsker til dette abonnement, og derefter vælge **Gem.** Hvis du f.eks. har 100 licenser og vil suspendere eller sætte 25 på pause, skal du angive 75 som det samlede antal licenser for dit abonnement.
 
-Du kan finde flere oplysninger i [Køb eller fjern licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Du kan finde flere oplysninger under [Køb eller fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

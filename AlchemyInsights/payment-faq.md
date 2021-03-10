@@ -9,15 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
-- commerce
 - "9001669"
 - "5128"
-ms.openlocfilehash: 6368b0c19b84cfb9b55de2993a7beadd32d383fa
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 6a34af24ff3021f83edba85f0c7ece9c930a558a
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152444"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601340"
 ---
 # <a name="payment-faq"></a>Ofte stillede spørgsmål om betaling
 
@@ -28,7 +27,7 @@ Administrer betalinger i **Microsoft 365 Administration.**
 
 - **Betalingsmetoder** – Hvis der betales med kreditkort eller bankkonto, opkræves betalingsmetoden, der er knyttet til abonnement(er) inden for et par dage, efter fakturaen er oprettet. Hvis betalingen mislykkes, skal du opdatere din betalingsmetode. Du kan få mere at vide [under Administrer betalingsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-- **Meddelelser om udløb** – En betaling kan blive afvist af flere grunde, herunder når et kreditkort er udløbet. Du kan når som helst bruge funktionen **Afregn saldo** for at ændre dine kreditkortoplysninger og straks indsende betalingen igen. Du kan få mere at vide [under Hvad nu, hvis jeg har en udestående saldo?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- **Meddelelser om udløb** – En betaling kan blive afvist af flere grunde, herunder når et kreditkort er udløbet. Du kan når som helst bruge funktionen **Afregn saldo** for at ændre dine kreditkortoplysninger og straks indsende betalingen igen. Du kan få mere at vide [under Hvad hvis jeg har en udestående saldo?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
     **Vigtigt**: Når du har opdateret din betalingsmetode, kan du stadig opleve meddelelser om forfald eller afvist betaling, hvis du ikke har knyttet betalingsmetoden til dit abonnement. Du kan ændre betalingsmetoden for en enkelt eller flere abonnementer. Du kan få mere at vide [under Administrer betalingsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
