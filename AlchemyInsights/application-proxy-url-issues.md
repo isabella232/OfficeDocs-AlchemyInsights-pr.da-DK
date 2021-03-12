@@ -1,10 +1,10 @@
 ---
-title: Problemer med proxy-URL-adresse for program
+title: Problemer med programproxy URL
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+ms.date: 03/10/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7743"
 - "9004338"
-ms.openlocfilehash: 44c9f5d7970286cd0a8419b911f5c3e287fdfd70
-ms.sourcegitcommit: 28a79ef23c4a510397f4a8339ac2c5ff70eec713
-ms.translationtype: MT
+- "9199"
+- "9004356"
+ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50035870"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641476"
 ---
-# <a name="application-proxy-url-issues"></a>Problemer med proxy-URL-adresse for program
+# <a name="application-proxy-url-issues"></a>Problemer med programproxy URL
 
-Hvis du vil foretage fejlfinding af problemer i forbindelse med programmets proxy-URL, skal du se:
+Hvis du vil foretage fejlfinding af problemer relateret til programmets proxy-URL-adresse, skal du se:
 
-- [Links på siden fungerer ikke for](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  et programproxyprogram – Vejledning til fejlfinding af, hvorfor links i dit AZURE Active Directory-proxyprogram (AD) ikke fungerer korrekt.
+- [Links på siden virker ikke for et program til proxyprogrammet](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  – Vejledning til fejlfinding af, hvorfor links i dit programproxy til Azure Active Directory (AD) ikke fungerer korrekt.
 
-- [Konfigurer brugerdefinerede domæner med Azure AD-programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  – oplysninger om oprettelse af en ekstern URL-adresse til dine brugere.
+- [Konfigurer brugerdefinerede domæner med Azure AD programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  – oplysninger om oprettelse af en ekstern URL-adresse til brugerne.
 
-- [Omdiriger hard-coded links for apps, der er publiceret med Azure AD-programproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  – Oplysninger om oversættelse af indbyggede URL-adresser
+- [Omdiriger hard-coded links til apps, der er publiceret med Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  – oplysninger om konvertering af indbyggede URL-adresser
+
+- [Angiv en brugerdefineret startside for publicerede apps ved hjælp af Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) – Når du publicerer en app med programproxy, angiver du en intern URL-adresse, men nogle gange er det ikke den side, brugerne bør se først. Angiv en brugerdefineret startside, så brugerne får adgang til den rigtige side, når de får adgang til appen. Brugerne får vist den brugerdefinerede startside, som du angiver, uanset om de får adgang til appen fra Azure Active Directory My Apps eller Microsoft 365-appstarteren.
+
+- Har du spørgsmål til konfiguration af app proxy-URL? Se [Tilføj en app i det lokale miljø til Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+ 
 

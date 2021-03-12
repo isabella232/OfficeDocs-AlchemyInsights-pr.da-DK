@@ -1,5 +1,5 @@
 ---
-title: Oprette forbindelse til Project online
+title: Oprette forbindelse til Project Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2661"
 - "9000697"
-ms.openlocfilehash: 6970369c37b3772f28c5a98405836643d233464d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 019fedf90f44b629a41c8e6268566ddef774122a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681037"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704672"
 ---
-# <a name="connect-to-project-online"></a>Oprette forbindelse til Project online
+# <a name="connect-to-project-online"></a>Oprette forbindelse til Project Online
 
-Du kan oprette forbindelse til Project online ved hjælp af:
+Du kan oprette forbindelse til Project Online ved hjælp af:
 
-- Project online-skrivebords klient for at oprette forbindelse til Project online i dit Office 365-miljø. Hvis du vil have mere at vide, skal du se [oprette forbindelse til Project online med Project online-klienten på computeren](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client).  
-- Power BI-tjeneste for at låse op for indsigt fra Project Web App for at hjælpe med at administrere projekter, porteføljer og ressourcer. Du kan finde flere oplysninger i [oprette forbindelse til Project Web App med Power bi](https://docs.microsoft.com/power-bi/service-connect-to-project-online).  
+- Project Online Desktop-klienten til at oprette forbindelse til Project Online i dit Office 365-miljø. Du kan finde flere oplysninger [i Oprette forbindelse til Project Online med Project Online Desktop-klienten.](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)  
+- Power BI Service til at få indsigt fra Project Web App til at hjælpe med at administrere projekter, porteføljer og ressourcer. Du kan finde flere oplysninger [i Oprette forbindelse til Project Web App med Power BI.](https://docs.microsoft.com/power-bi/connect-data/service-connect-to-project-online)  

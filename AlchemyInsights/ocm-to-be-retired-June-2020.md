@@ -1,5 +1,5 @@
 ---
-title: OCM, der skal udgås juni 2020
+title: OCM udgå i juni 2020
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662751"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704816"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OCM, der skal udgås juni 2020
+# <a name="ocm-to-be-retired-june-2020"></a>OCM udgå i juni 2020
 
 
-Det gælder for **juni 30, 2020**, tilføjelsesprogrammet til Outlook Customer Manager og mobilappen bliver udgået. Du kan  **eksportere data**  fra det  **inden denne dato**.  
+Fra **og med d. 30. juni 2020** vil outlook Customer Manager-tilføjelsesprogrammet og mobilappen udgå. Du kan **eksportere data** fra dem før **denne dato.**  
 
-Du kan kontrollere, hvem i din organisation der har et Microsoft 365 Business standard (tidligere kaldet Office 365 Business Premium) eller Microsoft 365 Business Premium (tidligere kendt som Microsoft 365 Business) abonnements plan med rettigheder til Outlook Customer Manager ved at klikke [her](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
+Du kan kontrollere, hvem der i organisationen har et Abonnement på Microsoft 365 Business Standard (tidligere kaldet Office 365 Business Premium) eller Microsoft 365 Business Premium (tidligere kaldet Microsoft 365 Business) med rettigheder til Outlook Customer Manager ved at klikke [her.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
 
 Du kan finde flere oplysninger under:
 
-- [Eksportere eller slette dine Outlook Customer Manager-data](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
+- [Eksportér eller slet dine Outlook Customer Manager-data](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Ofte stillede spørgsmål om Outlook kunde administrator](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [Ofte stillede spørgsmål om Outlook Kundeadministrator](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)

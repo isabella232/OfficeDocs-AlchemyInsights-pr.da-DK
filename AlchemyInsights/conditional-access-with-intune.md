@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807653"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704780"
 ---
 # <a name="conditional-access-with-intune"></a>Betinget adgang med Intune
 
-Brug af  **betinget adgang**  med Intune kræver 3 trin:
+Brug  **af Betinget adgang**  med Intune kræver tre trin:
 
-- Opret en  **overholdelses politik**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) for at definere indstillinger, der skal opfyldes, før enheden anses for at være kompatibel. For eksempel skal en enhed have en pinkode på mindst 6 cifre, før den anses for at være kompatibel.
-- Opret en **politik for betinget adgang**  , der definerer, hvilke ressourcer der beskyttes, og hvilke betingelser der skal opfyldes for at få adgang til disse ressourcer.  [For eksempel](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  skal en enhed være kompatibel, før du kan få adgang til virksomhedens mail.
-- Sørg for, at både **overholdelsespolitikker**  og  **politikker for betinget adgang**  er målrettet til de ønskede grupper af brugere. Dette kan kræve, at du opretter bestemte grupper af brugere i Azure Active Directory.
+- Opret en  **politik for overholdelse**  af regler og standarder [(Android,](https://docs.microsoft.com/intune/compliance-policy-create-android)  [iOS,](https://docs.microsoft.com/intune/compliance-policy-create-ios)  [Windows)](https://docs.microsoft.com//intune/compliance-policy-create-windows)for at definere indstillinger, der skal opfyldes, før enheden betragtes som værende kompatibel. En enhed skal f.eks. have en pinkode på mindst 6 cifre, før den betragtes som værende kompatibel.
+- Opret en **politik for betinget adgang,**  der definerer, hvilke ressourcer der beskyttes, og hvilke betingelser der skal være opfyldt for at få adgang til disse ressourcer.  [Eksempelvis skal en enhed](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  være kompatibel, før den får adgang til virksomhedens mail.
+- Sørg **for, at både overholdelsespolitikker**  **og betingede**  adgangspolitikker er rettet mod de ønskede grupper af brugere. Dette kræver muligvis oprettelse af bestemte grupper af brugere i Azure Active Directory.
 
 **Nyttige links:**
 
-[Oversigt over enheds overholdelse](https://docs.microsoft.com/intune/device-compliance-get-started)
+[Oversigt over enhedsoverholdelse](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Fejlfindings NØGLECENTER](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Fejlfindings-nøglecenter](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Fejlfindings politik](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Fejlfindingspolitik](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-Hvis du vil beskytte mail (Exchange Online) fra Access fra ikke-kompatible enheder, skal begge dokumenter følges:
+For at beskytte mail (Exchange Online) mod adgang fra enheder, der ikke er lige så relevante, skal begge dokumenter følges:
 
-1. [Beskytte mail adgang fra enheder ved hjælp af EA](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Beskytte mail adgang fra enheder, der bruger moderne godkendelses klienter som Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [Beskyt mailadgang fra enheder, der bruger EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [Beskyt mailadgang fra enheder, der bruger moderne godkendelsesklienter som Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
