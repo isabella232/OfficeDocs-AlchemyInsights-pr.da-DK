@@ -1,5 +1,5 @@
 ---
-title: Oplysninger om bevarende venteposition eller lokalt hold
+title: Oplysninger om retslig venteposition eller direkte hold
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755449"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709316"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>Om beholdere og lokale ventepositioner
+# <a name="about-litigation-holds-and-in-place-holds"></a>Om retslige fast hold og in-place-ventende procesførelse
 
-- Hvis du vil anvende en retssag eller en lokal venteposition i en postkasse, skal du have en [Exchange Online-plan 2-licens](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Hvis du har en anden plan, skal du tildele en separat [Exchange Online-arkiverings](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) licens til kontoen. 
+- Hvis du vil anvende en retslig venteposition eller et direkte hold på en postkasse, kræves der en [Exchange Online Plan 2-licens.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Hvis du har en anden plan, skal du tildele [kontoen en separat Exchange Online-arkiveringslicens.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 
     
-- **Hvis du vil aktivere en retssag** for en enkelt bruger, skal du følge de trin, der er beskrevet [her](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Når beholderen er aktiveret, er alt indhold i postkassen sat i venteposition.
+- **Følg de trin, der er beskrevet** her, for at aktivere retslig venteposition for en enkelt [bruger.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Når retslig venteposition er aktiveret, sættes alt indhold i postkassen i venteposition.
     
-- Hvis du vil anvende en **direkte venteposition på enkelte brugere** eller en venteposition **i alle postkasser i hele organisationen**, kan du bruge opbevaringspolitikker i Microsoft 365 Security and Compliance Center ved at følge de trin, der skitseres [her]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Hvis du  vil anvende en venteposition på enkelte brugere eller en venteposition på alle postkasser i hele **organisationen,** kan du bruge Opbevaringspolitikker i Microsoft 365 Security and Compliance Center ved at følge de trin, der er beskrevet [her.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > For globale opbevaringspolitikker bliver nye brugere automatisk føjet til ventepositionen. 
+    > For hele organisationens opbevaringspolitikker føjes nye brugere automatisk til ventepositionen. 
   
-- Hvis du vil have vist eller finde det postkasse indhold, der er sat i venteposition, skal du bruge **eDiscovery-søgning og eksport**. Du kan finde oplysninger om brug af **eDiscovery-søgning og eksport**ved at følge de trin, der er beskrevet [her](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- Brug **eDiscovery-søgning** og eksport for at få vist eller finde postkasseindhold, der er sat i venteposition. Følg de trin, der er beskrevet her, for at få oplysninger om brug af **eDiscovery-søgning** og [-eksport.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

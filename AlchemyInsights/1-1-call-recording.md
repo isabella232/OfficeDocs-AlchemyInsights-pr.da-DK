@@ -1,5 +1,5 @@
 ---
-title: 1:1 opkalds optagelse
+title: 1:1 opkaldsoptagelse
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721832"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733843"
 ---
-# <a name="11-call-recording"></a>1:1 opkalds optagelse
+# <a name="11-call-recording"></a>1:1 opkaldsoptagelse
 
-1:1 opkalds politikændringer i teams kommer snart. Du kan finde flere oplysninger i følgende meddelelses Center-post:
+Administratorer skal handle nu for at fortsætte med at tillade brugere at optage 1:1-opkald.
+ 
+Fra og med 12. april 2021 begynder vi at håndhæve en ny indstilling for Teams-opkaldspolitik *AllowCloudRecordingForCalls.* 
 
-[Introduktion til politik for 1:1-opkalds optagelse](https://admin.microsoft.com/AdminPortal/Home)
+I øjeblikket styres 1:1-opkaldsoptagelsesfunktionerne af *indstillingen AllowCloudRecording* i Teams-mødepolitikker. Hvis dine brugere har tilladelse til at optage Teams-møder, kan de også optage 1:1-opkald.
+
+Hvis du foretrækker at blokere alle brugere fra at optage 1:1-opkald, behøver du ikke at foretage dig noget. *Indstillingen AllowCloudRecordingForCalls-opkaldspolitik* ændres $False som standard.
+
+Denne ændring er dokumenteret i følgende indlæg i Meddelelsescenter: [(Opdateret) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Introduktion til politik for optagelse af opkald For at konfigurere politikindstillingen for Teams-opkaldspolitik skal du bruge [Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+
+**Sådan aktiverer du opkaldsoptagelse i 1:1-opkald:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+
+**Sådan deaktiverer du opkaldsoptagelse i 1:1-opkald:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+

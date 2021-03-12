@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366422"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708668"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Overvågning af betinget adgang for Exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>Overvågning af betinget adgang til Exchange
 
-Brugere, der er målrettet med betinget adgang, modtager en mailbesked, hvis de ikke opfylder din organisations adgangs krav. Vi anbefaler en eller flere af følgende løsninger for at løse problemet:
+Brugere, der er målrettet betinget adgang, modtager en mail, hvis de ikke opfylder din organisations adgangskrav. For at løse dette anbefaler vi en eller flere af følgende løsninger:
 
-- Hvis enheden anses for at være tilmeldt, skal du bede brugeren om at gå til appen Firmaportal og bekræfte, at den vises på Firmaportalen. Hvis det ikke er den, skal brugeren tilmelde enheden.
-- I Azure-portalen skal du gå til Intune > enhedskompatibilitet. Klik på enheds overholdelse under overvågning. Se din enheds kompatibilitetsrapport for at bekræfte, at brugerens enhed er markeret som kompatibel.
-- I Azure-portalen skal du gå til Intune > enhedskompatibilitet. Under Administrer skal du klikke på politikker. På listen over overholdelsespolitikker skal du kontrollere, at der er tildelt en profil til din brugers enhed. Hvis der ikke er tildelt nogen profil, vil Intune ikke kunne bekræfte enhedens overholdelses status.
-- Redigere brugerens betingede adgangs tildeling.
+- Hvis enheden antages at være tilmeldt, skal du opfordre brugeren til at gå til appen Firmaportal og kontrollere, at den vises i firmaportalen. Hvis det ikke er muligt, skal brugeren tilmelde enheden.
+- I Azure-portalen skal du gå til Intune > overholdelse af enhed. Klik på Enhedsoverholdelse under Skærm. Få vist overholdelsesrapporten for enheden for at bekræfte, at brugerens enhed er markeret som kompatibel.
+- I Azure-portalen skal du gå til Intune > overholdelse af enhed. Klik på Politikker under Administrer. Kontrollér, at der er tildelt en profil til brugerens enhed på listen over politikker for overholdelse af regler og standarder. Hvis der ikke er tildelt nogen profil, vil Intune ikke kunne bekræfte enhedens status for overholdelse.
+- Rediger brugerens betingede adgangstildeling.
 
-1. Gå til politikker for **Intune**  >  **betinget adgang**til Intune i Azure-portalen  >  **Policies**.
+1. I Azure-portalen skal du gå til Politikker for betinget adgang i **Intune.**  >    >  
 2. Vælg en politik på listen.
-3. Klik på brugere og grupper.
-4. Hvis du vil målrette en bestemt politik til en anden, skal du føje dem til listen Medtag. Hvis du vil sikre dig, at en person udelades fra politikken, skal du føje dem til listen Udelad.
+3. Klik på Brugere og grupper.
+4. Hvis du vil målrette en bestemt politik mod en person, kan du føje dem til listen Medtag. For at sikre, at en person udelades fra politikken, kan du føje dem til listen Udelad.
 
 Nyttige links:
 
-[Oversigt over enheds overholdelse](https://docs.microsoft.com/intune/device-compliance-get-started)
+[Oversigt over enhedsoverholdelse](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Fejlfindings NØGLECENTER](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Fejlfindings-nøglecenter](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Fejlfindings politik](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Fejlfindingspolitik](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-[Overvåge Intune-enhedskompatibilitet](https://docs.microsoft.com/intune/compliance-policy-monitor)
+[Overvågning af overholdelse af intune-enhed](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Bemærk! disse trin er kun nyttige til fejlfinding af betinget adgang til Azure Active Directory-funktionen. Det er også muligt at sætte en enheds blokering for en enhed, at det er en mail adgang med Exchange-politik. Du kan finde flere oplysninger om administration af Exchange-enheder [her](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>).
+Bemærk! Disse trin er kun nyttige ved fejlfinding af funktionen Betinget adgang til Azure Active Directory. Det er også muligt at sætte en enhed i karantæne, der blokerer dens mailadgang med Exchange-politik. Du kan finde flere oplysninger om administration af exchange-enheder [her]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

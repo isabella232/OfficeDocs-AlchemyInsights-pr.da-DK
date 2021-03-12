@@ -1,5 +1,5 @@
 ---
-title: Konfiguration af Microsoft Defender til Office 365 (DTT)
+title: Konfiguration af Microsoft Defender til Office 365 (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801066"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708632"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender til Office 365 (DTT)
+# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender til Office 365 (ATP)
 
-Office 365 DTT omfatter [sikre vedhæftede filer](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [sikre links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [Avanceret anti-phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)og meget mere. 
+Office 365 ATP indeholder [sikre vedhæftede filer,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) [sikre links,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) [avanceret antiphishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)og meget mere. 
 
-DTT er inkluderet i abonnementer som Office 365 Enterprise E5, Office 365 Education A5 og Microsoft 365 Business Premium. Hvis dit abonnement ikke omfatter DTT, kan du muligvis købe DTT som et tilføjelsesprogram. Hvis du vil have mere at vide, skal du se [beskrivelsen af Office 365 DTT service](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP er inkluderet i abonnementer, f.eks Office 365 Enterprise E5, Office 365 Education A5 og Microsoft 365 Business Premium. Hvis dit abonnement ikke omfatter ATP, kan du købe ATP som et tilføjelsesprogrammet. Hvis du vil have mere at vide, [skal du se tjenestebeskrivelsen for Office 365 ATP.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-## <a name="set-up-office-365-atp"></a>Konfigurer Office 365 DTT
+## <a name="set-up-office-365-atp"></a>Konfigurer Office 365 ATP
 
-For at DTT-beskyttelse er aktiveret, skal du konfigurere politikker. Se [guiden hurtig start: Konfigurer Microsoft Defender til Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+For at ATP-beskyttelse kan være gældende, skal du konfigurere politikker. Se [Startvejledning: Konfigurer Microsoft Defender til Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
 

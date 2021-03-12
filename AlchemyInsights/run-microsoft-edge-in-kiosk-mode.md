@@ -1,5 +1,5 @@
 ---
-title: Køre Microsoft Edge i fuldskærmstilstand
+title: Kør Microsoft Edge i kiosktilstand
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003853"
 - "6903"
-ms.openlocfilehash: 634b2f3cabe4a802db740ecf7fc265cb42a88e61
-ms.sourcegitcommit: 2ff035d33e3277a268a5d88f1209dca77a87d689
+ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677672"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708524"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>Køre Microsoft Edge i fuldskærmstilstand
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Kør Microsoft Edge i kiosktilstand
 
-Du kan konfigurere tilstanden for fuld skærm i Microsoft Edge version 77 og nyere såvel som i Microsoft Edge Legacy version 45 og tidligere.
+Du kan konfigurere kiosktilstand i Microsoft Edge version 77 og nyere samt i de ældre versioner af Microsoft Edge 45 og tidligere versioner.
 
-Du kan konfigurere enheder, der kører på Windows 10, til at [køre i tilstanden for en enkelt eller flere apps](https://go.microsoft.com/fwlink/?linkid=2133659).
+Du kan konfigurere enheder, der kører på Windows 10, til at køre i kiosktilstand med en [eller flere apps.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Du kan finde flere oplysninger om konfiguration af tilstanden for fuld skærm i den nyeste version af Microsoft Edge-den stabile kanal og i Microsoft Edge Legacy under:
+Du kan finde flere oplysninger om konfiguration af kiosktilstand i den nyeste version af den stabile Microsoft Edge-kanal og i den ældre version af Microsoft Edge under:
 
-- [Microsoft Edge med tildelt adgang](https://go.microsoft.com/fwlink/?linkid=2133494)
-- [Kommandolinjeparameteren Microsoft Edge "-kiosk"](https://go.microsoft.com/fwlink/?linkid=2133724)
-- [Understøttelse af ældre versioner af Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2133725)
+- [Microsoft Edge med tildelt adgang](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Microsoft Edge-kommandolinjeparameteren "-kiosk"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Understøttelse af den ældre microsoft edge-kiosktilstand](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)

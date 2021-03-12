@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding af problemer med DEP-tilmelding i Microsoft Intune
+title: Fejlfinding af problemer med DEP-registrering i Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: 50aab6e1e3c0d74d2e305e0bdd47c92b3a27c79f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f76e47c2a3007175ae1bfbd9d20cb59513eb713b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797290"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708704"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Fejlfinding af problemer med DEP-tilmelding i Microsoft Intune
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Fejlfinding af problemer med DEP-registrering i Microsoft Intune
 
-Gennemse de ressourcer, der er anført nedenfor, for at løse problemet nu.
+Gennemse ressourcerne nedenfor for at løse problemet nu.
   
-1. Hvis DEP-enheden ikke kan registrere og MFA (multi-Factor Authentication) er aktiveret, skal du deaktivere MFA. Aktuelt MFA understøttes ikke for registrering af forhindring af datakørsel
+1. Hvis DEP-enheden ikke kan tilmeldes, og MFA (Multi-Factor Authentication) er aktiveret, skal du deaktivere MFA. MFA understøttes i øjeblikket ikke til DEP-registrering
 
-2. Brug [fejlfindings portalen til Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige tilmeldings fejl. Gennemse [dokumentet](https://docs.microsoft.com/intune/help-desk-operators) for at få flere oplysninger.
+2. Brug [Intune-fejlfindingsportalen](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) til at diagnosticere og løse almindelige registreringsfejl. Gennemgå [dette dokument for](https://docs.microsoft.com/intune/help-desk-operators) at få flere oplysninger.
 
-3. Gennemse disse dokumenter for at få en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver: [fejlfindingsvejledning](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) og [fejlfindings dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+3. Gennemgå disse dokumenter for at få en liste over almindelige fejl, der forhindrer registrering og løsninger til hver: [Fejlfindingsvejledning](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) og [fejlfindingsdokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-4. [Få mere at vide om tilmeldings programmet til enheder](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).
+4. [Få mere at vide om tilmeldingsprogram til enheder.](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios)
