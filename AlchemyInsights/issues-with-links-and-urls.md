@@ -3,7 +3,7 @@ title: Problemer med links og URL-adresser
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974301"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707876"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemer med links og URL-adresser
 
-Omdirigering af URI/svar-URL-adresser (begge udtryk kan erstattes) er de URL-adresser, der bruges af Microsoft Identity platform til at returnere app-anmodede tokens. Hvis du vil have mere at vide om disse URL-adresser, skal du se følgende artikler:
+Omdirigerings-URI'er/svar-URL-adresser (begge udtryk er synonyme) er de URL-adresser, der bruges af Microsoft-identitetsplatformen til at returnere tokens, der er forespurgt af en app. Du kan finde flere oplysninger om disse URL-adresser i følgende artikler:
 
-- [Godkendelses flow og programscenarier](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – oplysninger om omdirigerings-URI'erne på siden **app Registration** for hvert scenarie.
-- [URL-begrænsninger og-begrænsninger for omdirigering af URI/svar](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
+- [Godkendelsesflows og programscenarier](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – oplysninger om omdirigerings-URI'er på siden **Appregistrering** for hvert scenarie.
+- [Restriktioner og begrænsninger for omdirigerings-URI'er/svar-URL-adresser](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
 
-**Jeg ved ikke, hvordan jeg registrerer URL-adressen til højre omdirigering for min app**
+**Jeg ved ikke, hvordan jeg kan registrere den rigtige omdirigerings-URI/svar-URL-adresse til min app**
 
-Når du logger på med det program, du udvikler, skal du, hvis dialogboksen til logon viser **AADSTS50011: den URL-adresse for svar, der er angivet i anmodningen, ikke stemmer <your app ID> overens med URL-adresserne for det program, der er konfigureret for programmet**, skal du tilføje den omdirigerings URI, som din kode har brugt i anmodningen om token, til Microsoft Identity platform.
+Når du logger på med det program, du udvikler, skal du, hvis logondialogboksen viser **AADSTS50011: Svar-URL-adressen i den angivne anmodning tilsvarer ikke svar-URL-adresserne, der er konfigureret for programmet <your app ID>**, føje omdirigerings-URI'en, som din kode brugte i tokenanmodningenen til Microsoft-identitetsplatformen, til din programanmodning.
 
-Hvis du vil tilføje en svar-URL-adresse, skal du gå til fanen **godkendelse** på din **program registrerings** side i Azure-portalen og tilføje en post i sektionen **Redirect URI'er** . Omdirigerings-URI'er skrives (Web eller mobile/computer). Den værdi, du skal angive, afhænger af den type program, du er ved at opbygge, som beskrevet nedenfor:
+Hvis du vil tilføje en svar-URL-adresse, skal du gå til fanen **Godkendelse** på din side til **programregistrering** i Azure-portalen og tilføje en post i sektionen **Omdirigerings-URI'er**. Den værdi, du angiver, afhænger af den type program, du bygger, som beskrevet nedenfor:
 
-- For enkeltsidede programmer og web apps er svar-URL-adressen en URL-adresse i dit program. Se en [enkeltsidet programregistrering](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) eller [registrere en Web App-app ved hjælp af Azure-portalen](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
-- For skrivebordsapps er det den værdi, du skal vælge, afhænger af:
+- I programmer og webapps med en side er svar-URL-adressen en URL-adresse i dit program. Se [Registrering af et program med én side](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) eller [Registrer en webapp med Azure-portalen](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
+- For desktopapps afhænger den værdi, du skal vælge, af:
     - platformen (MacOS er forskellig fra Windows eller Linux)
-    - den måde, du køber tokenet på (interaktivt med Enhedskode strøm, med integreret Windows-godkendelse [IWA] eller med brugernavn/adgangskode).
-    Hvis du vil have mere at vide, skal du se [skrivebordsapps – registrering af app-omdirigering-URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
-- For mobilprogrammer afhænger omdirigerings URI'EN af:
+    - den måde, du får din token på (interaktivt, med enhedskodeflow, med integreret Windows-godkendelse [IWA] eller med brugernavn/adgangskode).
+    Du kan finde flere oplysninger i [Desktop-apps – Appregistrering – Omdirigerings-URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
+- For mobilprogrammer afhænger omdirigerings-URI'en af:
     - platformen (iOS/Android/UWP)
-    - de oplysninger, der bruges til at opbygge din app, såsom Bundle-id'et i iOS, og pakkens navn og signatur hash på Android-App til Azure-portalen vil hjælpe dig. Du kan få mere at vide under [platform konfiguration og omdirigering af URI'er](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
+    - de oplysninger, der bruges til at udvikle din app, f.eks. bundle-id'et i iOS og pakkenavnet og signaturhashen på Android. Azure-portalens appregistrering hjælper dig. Du kan finde flere oplysninger i [Platformskonfiguration og omdirigerings-URI'er](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
 > [!NOTE]
-> Webapi'erne og nogle af de bestillende metoder til at hente tokens (IWA og brugernavn/adgangskode) kræver ikke en omdirigerings URI.
+> Web-API'er og nogle af de diskrete måder at hente tokens på (IWA og brugernavn/adgangskode) kræver ikke noget omdirigerings-URI.
 
-**Jeg har installeret mit webprogram, og når jeg tester den installerede app, får jeg en meddelelse om uoverensstemmelse for svar URL**
+**Jeg har installeret mit webprogram, og når jeg tester den udrullede app, får jeg en besked om uoverensstemmelse for svar-URL-adressen**
 
-Tilføj omdirigerings URI'er for alle de placeringer, hvor du installerer dit webprogram. Du kan finde flere oplysninger i afsnittet [registrere en Web App-app ved hjælp af Azure-portalen](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
+Tilføj omdirigerings-URI'er for alle de placeringer, hvor du udruller dit webprogram. Du kan få flere oplysninger i [Registrer en webapp ved hjælp af Azure-portalen](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
 > [!NOTE]
-> Tilføj omdirigerings-URI for en placering, umiddelbart efter at du har installeret programmet på den placering.
+> Tilføj omdirigerings-URI'en for en placering, straks efter du har udrullet et program til den placering.
 
-**Jeg kan ikke registrere nok svar-URL-adresser**
+**Jeg kan ikke registrere tilstrækkeligt med svar-URL-adresser**
 
-Du er ISV og har en eller flere omdirigerings-URI'er til hver kunde. Du vil overføre fra ADAL/Azure AD v 1.0 til MSAL/Microsoft Identity platform, og du støder på det [maksimale antal omdirigerings URI'er](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). Du kan løse dette problem ved at [tilføje omdirigerings-URI'er til service konti](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) , der svarer til hver af dine kunder.
+Du er en uafhængig softwareleverandør, og du har en eller flere omdirigerings-URI'er for hver af dine kunder. Du ønsker at migrere fra ADAL/Azure Active Directory v1.0 til MSAL/Microsoft-identitetsplatformen, og du har nået det [maksimale antal omdirigerings-URI'er](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). Du kan løse dette problem ved at [tilføje omdirigerings-URI'er til de tjenesteprincipaler](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals), der tilsvarer hver enkelt af dine kunder.
