@@ -1,5 +1,5 @@
 ---
-title: problemer – deling – med Outlook – kundechef
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728245"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709244"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a><span data-ttu-id="e9c51-102">Problemer med at dele med Outlook Customer Manager</span><span class="sxs-lookup"><span data-stu-id="e9c51-102">Problems sharing with Outlook Customer Manager</span></span>
+# <a name="problems-sharing-with-outlook-customer-manager"></a><span data-ttu-id="b3b3f-102">Problemer med deling med Outlook Customer Manager</span><span class="sxs-lookup"><span data-stu-id="b3b3f-102">Problems sharing with Outlook Customer Manager</span></span>
 
-<span data-ttu-id="e9c51-103">Hvis du har problemer med deling med Outlook Customer Manager, anbefaler vi, at du først forsøger at rydde op i browsercachen.</span><span class="sxs-lookup"><span data-stu-id="e9c51-103">If you're having sharing issues with Outlook Customer Manager we recommend that you first try clearing your browser cache.</span></span> <span data-ttu-id="e9c51-104">For eksempel i Internet Explorer skal du gøre følgende:</span><span class="sxs-lookup"><span data-stu-id="e9c51-104">For example in Internet Explorer you would:</span></span>
+<span data-ttu-id="b3b3f-103">Hvis du har problemer med deling med Outlook Customer Manager, anbefaler vi, at du først forsøger at rydde din browsercache.</span><span class="sxs-lookup"><span data-stu-id="b3b3f-103">If you're having sharing issues with Outlook Customer Manager we recommend that you first try clearing your browser cache.</span></span> <span data-ttu-id="b3b3f-104">I Internet Explorer ville du f.eks.:</span><span class="sxs-lookup"><span data-stu-id="b3b3f-104">For example in Internet Explorer you would:</span></span>
 
-1. <span data-ttu-id="e9c51-105">Gå til **Indstillinger**  >  **Generelt** > indstillinger under **Browsing history**  >  **cacher og databaser**i gennemsyns oversigten.</span><span class="sxs-lookup"><span data-stu-id="e9c51-105">Go to **Settings** > **General** > Settings under **Browsing history** > **Caches and databases**.</span></span>
-2. <span data-ttu-id="e9c51-106">Slet cachefiler for webstedet "outlookapps.com."</span><span class="sxs-lookup"><span data-stu-id="e9c51-106">Delete cache files for the website "outlookapps.com."</span></span>
-3. <span data-ttu-id="e9c51-107">Genstart Outlook.</span><span class="sxs-lookup"><span data-stu-id="e9c51-107">Restart Outlook.</span></span>
+1. <span data-ttu-id="b3b3f-105">Gå til **Generelle indstillinger**  >  **>** under **Cacher og** databaser med  >  **browserdata.**</span><span class="sxs-lookup"><span data-stu-id="b3b3f-105">Go to **Settings** > **General** > Settings under **Browsing history** > **Caches and databases**.</span></span>
+2. <span data-ttu-id="b3b3f-106">Slet cachefiler for webstedet "outlookapps.com".</span><span class="sxs-lookup"><span data-stu-id="b3b3f-106">Delete cache files for the website "outlookapps.com."</span></span>
+3. <span data-ttu-id="b3b3f-107">Genstart Outlook.</span><span class="sxs-lookup"><span data-stu-id="b3b3f-107">Restart Outlook.</span></span>
 
-<span data-ttu-id="e9c51-108">Hvis du vil have mere at vide om deling, skal du se [dele oplysninger i Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).</span><span class="sxs-lookup"><span data-stu-id="e9c51-108">For more information about sharing, see [Share information in Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).</span></span>
+<span data-ttu-id="b3b3f-108">Du kan finde flere oplysninger om deling [i Del oplysninger i Outlook Customer Manager.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)</span><span class="sxs-lookup"><span data-stu-id="b3b3f-108">For more information about sharing, see [Share information in Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).</span></span>
