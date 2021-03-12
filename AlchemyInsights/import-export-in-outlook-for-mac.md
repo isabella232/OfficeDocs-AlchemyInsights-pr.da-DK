@@ -1,5 +1,5 @@
 ---
-title: import – eksport-i-Outlook-til-Mac
+title: import-export-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667908"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708092"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Importér/Eksportér i Outlook til Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Importér/eksportér i Outlook til Mac 
 
-Eksportfil
-1. På fanen **værktøjer** skal du vælge **Eksportér**.
-2. I feltet **Gem som** under **favoritter**skal du vælge mappen **overførsler** og vælge **Gem**.
-3. Når du ser meddelelsen om, at eksporten er fuldført, skal du vælge **Udfør**.
+Eksportér:
+1. Vælg **Eksportér** på fanen **Funktioner.**
+2. Vælg **mappen Overførsler** i feltet Gem **som** under Favoritter, **og** vælg **Gem.**
+3. Når du ser en meddelelse om, at eksporten er fuldført, skal du vælge **Udfør.**
 
-Importen
-1. På fanen **værktøjer** skal du vælge **Importér**.
-2. Vælg **Outlook til Windows-arkivfil (. pst)**  >  **Fortsæt**.
-3. Find. pst-filen på din Mac, og vælg derefter **Importér**.
-4. Når importprocessen er fuldført, skal du vælge **Udfør**.
-5. De importerede elementer vises i navigationsruden under **på denne computer**.
+Importér:
+1. Vælg **Importér** på fanen **Funktioner.**
+2. Vælg **Outlook til Windows arkivfil (.pst)**  >  **Fortsæt.**
+3. Find .pst-filen på din Mac, og vælg derefter **Importér.**
+4. Når importen er fuldført, skal du vælge **Udfør.**
+5. De importerede elementer vises i navigationsruden under **På denne computer.**
 
-Hvis du vil have det fulde sæt import-og eksport instruktioner til Outlook til Mac, skal du se [importere og eksportere Outlook-mail,-kontakter og-kalender](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+For at få et komplet sæt import- og eksportinstruktioner til Outlook til Mac skal du se [Importere og eksportere Outlook-mail, -kontakter og -kalender.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
 
-Hvis du vil modtage support i-app til Outlook til Mac-problemer, skal du åbne Outlook og vælge **Hjælp til at**  >  **kontakte support**. Skriv dit spørgsmål, og et medlem af supportteamet i Outlook til Mac får kontakt til dig. [Kontakt support i Outlook til Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Hvis du vil modtage support i appen til Outlook til Mac, skal du åbne Outlook og vælge **Hjælp til** at  >  **kontakte support.** Skriv dit spørgsmål, så vil et medlem af Outlook til Mac-supportteamet komme i kontakt med dig. [Kontakt support i Outlook til Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

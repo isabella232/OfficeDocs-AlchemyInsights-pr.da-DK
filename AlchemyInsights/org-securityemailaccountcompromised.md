@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 94d8eec4f10e3df5ccdd891b7ae12c97bbb4d594
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd03c7549cf7669f79a84ba7227239b8e6e73103
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724393"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707624"
 ---
 # <a name="compromised-email-accounts"></a>Kompromitterede mailkonti
 
 Der er flere trin, du kan udføre for at hjælpe med at øge sikkerheden i din organisation:
 
-- **Aktivér multifaktorgodkendelse**: Hvis en konto er blevet kompromitteret, er det en god idé at nulstille adgangskoden og derefter slå multifaktorgodkendelse til for at sikre, at det ikke sker igen. Hvis den kompromitterede konto blev brugt til at sende spam, er den sandsynligvis blokeret i at sende en mails (selv efter du har udført trin for at sikre den). Hvis du vil fjerne brugeren fra blokeringslisten, skal du se [dette emne](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
+- **Aktivér multifaktorgodkendelse**: Hvis en konto er blevet kompromitteret, er det en god idé at nulstille adgangskoden og derefter slå multifaktorgodkendelse til for at sikre, at det ikke sker igen. Hvis den kompromitterede konto blev brugt til at sende spam, er den sandsynligvis blokeret i at sende en mails (selv efter du har udført trin for at sikre den). Hvis du vil fjerne brugeren fra listen over blokerede afsendere, skal du [se Brug af listeportalen til at fjerne dig selv fra listen over blokerede afsendere.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis)
 
 - **Kør Office 365 Secure Score**: Secure Score laver en detaljeret analyse af sikkerhedsindstillingerne i din organisation og kommer med anbefalinger til at gøre den mere sikker.
 
