@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 8f8efc5e888560965bf65c67c82c7deb2043ed01
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010140"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708488"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Ingen mulighed for at installere Office, Visio eller Project
 
 Hvis du vil installere Office-klientprogrammer, skal du sikre dig, at du har et Office 365- eller Microsoft 365-abonnement, som [omfatter Office-klientprogrammer](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), f.eks. Microsoft 365 Business Premium, Microsoft 365 Apps for business eller Microsoft 365 Apps for enterprise.
 
-**Bemærk**: [Office Home and business](https://products.office.com/home-and-business) er et [Office til privat brug](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt, og er ikke en del af et abonnement til virksomheder. Project Online Essentials omfatter ikke en skrivebordsversion af Project, så der kræves ingen installation. Visio Plan 1-brugere kan få adgang til Visio på internettet, da planen ikke inkluderer Visio-skrivebordsprogrammet. Project- og Visio-skrivebordsprogrammer er ikke tilgængelige på Mac
+**Bemærk**: [Office Home and business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) er et [Office til privat brug](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-produkt, og er ikke en del af et abonnement til virksomheder. Project Online Essentials omfatter ikke en skrivebordsversion af Project, så der kræves ingen installation. Visio Plan 1-brugere kan få adgang til Visio på internettet, da planen ikke inkluderer Visio-skrivebordsprogrammet. Project- og Visio-skrivebordsprogrammer er ikke tilgængelige på Mac
 
-Hvis du har et abonnement, der omfatter Office-programmer, vil du ikke se en mulighed for at installere det, medmindre du har en [tildelt licens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Hvis du er Office 365-administratoren, der er ansvarlig for tildeling af licenser, kan du se [Tildel licenser til brugerne](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Hvis du har et abonnement, der omfatter Microsoft 365-apps, vil du ikke se en mulighed for at installere det, medmindre du har en [tildelt licens](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Hvis du er Office 365-administratoren, der er ansvarlig for tildeling af licenser, kan du se [Tildel licenser til brugerne](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 
 Få hver bruger til at:
