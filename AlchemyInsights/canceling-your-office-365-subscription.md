@@ -1,9 +1,9 @@
 ---
-title: Annullere dit abonnement?
+title: Vil du opsige dit abonnement?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348659"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837376"
 ---
-# <a name="canceling-your-subscription"></a>Annullere dit abonnement?
+# <a name="canceling-your-subscription"></a>Vil du opsige dit abonnement?
 
-Vi er kede af, at du er på farten, men hvis du vil annullere dit abonnement, er her dine muligheder:
+Vi er kede af, at du går videre, men hvis du vil opsige dit abonnement, har du følgende muligheder:
   
-- Hvis du er en prøve kunde, er der ikke noget at annullere. Prøve abonnementer udløber automatisk, medmindre du angiver en betalingsmetode.
-- Hvis du har færre end 25 tildelte licenser, kan du annullere dit abonnement online. Gå til siden **Fakturering** \> [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) , og Find det abonnement, du vil annullere. Vælg **flere handlinger** (tre prikker), og vælg derefter **Annuller abonnement**.
-- Hvis du har mere end 25 licenser tildelt til brugere, kan du [ringe til support for at annullere dit abonnement](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Hvis du har færre end 25 tildelte licenser, kan du annullere dit abonnement online. Gå til siden **Fakturering** \> **[af dine](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter, og find det abonnement, du vil opsige. Vælg **Flere handlinger** (tre prik), og vælg derefter **Annuller abonnement.**
+- Hvis du har tildelt flere end 25 licenser til brugere, skal du ringe til [support for at annullere dit abonnement.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
-**Refundering: der tilbageføres penge til dig inden for den næste faktureringscyklus.**
+**Refusion: Du får krediteret et forholdsmæssigt beløb inden for den næste faktureringscyklus.**
 
 > [!NOTE]
-> Hvis du ikke kan se indstillingen Annuller, skal du vælge abonnementet for at få vist siden med detaljer. I sektionen **Indstillinger for abonnements-og betalingsindstillinger** skal du vælge **Annuller abonnement**.
+> Hvis du ikke kan se muligheden for at annullere, skal du vælge abonnementet for at få vist detaljesiden. Vælg **Annuller abonnement i** sektionen Indstillinger for **abonnement og betaling.**
 
-Hvis du vil have mere at vide, skal du se [Annuller dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Du kan få mere at vide under [Annuller dit abonnement.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
