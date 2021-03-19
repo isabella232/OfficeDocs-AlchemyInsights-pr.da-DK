@@ -1,9 +1,9 @@
 ---
-title: Co-Management
+title: Samtidig administration
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681254"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896789"
 ---
-# <a name="co-management"></a>Co-Management
+# <a name="co-management"></a>Samtidig administration
 
-**Forudsætninger for overførsel fra config Manager hybrid til Intune**
+**Forudsætninger for overførsel fra Config Manager Hybrid til Intune**
 
-- Gennemse [denne artikel](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Føj en Intune-licens til dine brugere](https://docs.microsoft.com/intune/licenses-assign).
-- Brug [Edge-browseren](https://www.microsoft.com/windows/microsoft-edge) , når du konfigurerer Co-administration.
+- Læs [denne artikel.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Føj en Intune-licens til dine brugere.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Brug [Edge-browseren,](https://www.microsoft.com/edge) når du konfigurerer samtidig administration.
 
-**Sådan installerer jeg config Manager-klienten på Intune-administrerede enheder**
+En guidet, trinvis konfigurationsoplevelse med samtidig administration kan findes [her.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-Se [INTUNE MDM-administrerede Windows-enheder](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**Sådan installerer jeg Config Manager-klienten på Intune-administrerede enheder**
 
-**Hvad nu, hvis jeg bare vil ændre MDM-autoritet?**
+Se [Intune MDM-administrerede Windows-enheder.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-MDM-autoriteten kan ændres uden at åbne en support sag. Læs følgende dokumentation, der kan hjælpe med at ændre din MDM-myndighed:
+**Hvad nu, hvis jeg blot ønsker at ændre MDM-myndighed?**
 
-- [Skift MDM-myndighed fra Konfigurationsstyring til enkeltstående Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Skift MDM-myndighed fra Intune standalone til Konfigurationsstyring](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+MDM Authority kan ændres uden at åbne en supportsag. Gennemgå følgende dokumentation for at hjælpe dig med at ændre mdm-myndigheden:
+
+- [Skift MDM Authority fra Konfigurationsstyring til Enkeltstående Intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Skift MDM-myndighed fra enkeltstående Intune til Konfigurationsstyring](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
