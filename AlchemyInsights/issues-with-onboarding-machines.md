@@ -1,5 +1,5 @@
 ---
-title: Problemer med Onboarding-maskiner
+title: Problemer med onboarding-maskiner til Microsoft Defender til slutpunkter
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676876"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901561"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problemer med Onboarding-maskiner
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problemer med onboarding-maskiner til Microsoft Defender til slutpunkter
 
-Der kan være problemer med Onboarding af computere til MDATP-tjenesten. Hvis du har adgang til slutbrugerens maskine, skal du følge disse trin:
+Der kan være problemer med onboarding-maskiner til MDE-tjenesten. Hvis du kan få adgang til slutbrugerens maskine, skal du følge disse trin:
 
-1. Hent diagnosticeringsværktøjet til [klient forbindelses analyse](https://aka.ms/mdatpanalyzer) .
-2. Udpak og Kør MDATPAnalyzer. cmd.
-3. Find diagnosticeringslogfilen i den mappe, der hedder MDATPClientAnalyzerResult, den samme mappe, hvor Analyseværktøjet er hentet.
-4. Gennemse logfilen, MDATPClientAnalyzer.txt, for at finde problemer med forbindelse eller Internet proxyindstillinger.
+1. Hent den nyeste prøveversion af diagnosticeringsværktøjet [MDE Client Analyzer.](https://aka.ms/betamdeanalyzer)
+2. Højreklik på **MDEClientAnalyzer.cmd,** og vælg "Kør som administrator".
+3. Følg eventuelle retningslinjer, der foreslås **iMDEClientAnalyzer.htm.**
+4. Du kan finde flere detaljerede logfiler i den oprettede undermappe **MDEClientAnalyzerResult.**
+5. Hvis yderligere vejledning er nødvendig, skal du [kontakte support til Microsoft Defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) og angive den MDEClientAnalyzerResult.zip fil til analyse.
