@@ -1,5 +1,5 @@
 ---
-title: Find og aktivér min produktnøgle
+title: Microsoft Open License Program
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: bbe0ee6718e470e5d1d309a6e87f5312ef806599
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: da-DK
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200703"
+ms.locfileid: "51217927"
 ---
-# <a name="find-and-activate-my-product-key"></a>Find og aktivér min produktnøgle
+# <a name="microsoft-open-license-program"></a>Microsoft Open License Program
 
 Hvis du har købt Microsoft 365 til virksomheder via et [Microsoft Open-licensprogram,](https://go.microsoft.com/fwlink/p/?LinkID=613298)kan du se her, hvordan du finder og aktiverer din produktnøgle.
 
