@@ -1,5 +1,5 @@
 ---
-title: Logge på Microsoft Edge manuelt
+title: Log på Microsoft Edge manuelt
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677248"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398651"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Logge på Microsoft Edge manuelt
+# <a name="sign-in-to-microsoft-edge-manually"></a>Log på Microsoft Edge manuelt
 
-Hvis en bruger ikke automatisk bliver logget på under en første kørsels oplevelse, kan brugeren logge på manuelt via browserens indstillinger eller på fanen identitet. Hvis du vil administrere logon, skal du bruge følgende politikker:
+Hvis en bruger ikke logges på automatisk under første kørsel, kan brugeren logge på manuelt via browserens indstillinger eller pop op-menuen identitet. Brug følgende politikker til at administrere logon:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – for at sikre, at en bruger altid har en arbejdsprofil i Microsoft Edge.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – hvis du vil begrænse logon til et sæt pålidelige konti.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – til at deaktivere logon eller for at tvinge brugere til at logge på.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – Sådan sikrer du, at en bruger altid har en arbejdsprofil i Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – For at begrænse logon til et sæt af pålidelige konti.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – Deaktiver logon eller tving brugere til at logge på.
 

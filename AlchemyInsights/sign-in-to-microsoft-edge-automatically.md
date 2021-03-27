@@ -1,5 +1,5 @@
 ---
-title: Logge på Microsoft Edge automatisk
+title: Log automatisk på Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003848"
 - "6898"
-ms.openlocfilehash: 68a1119abd0a3f687b6448bb6e58c6485c239c0f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8333"
+- "9004625"
+ms.openlocfilehash: 6021991c125f5cb2a33ce8db8fe7717b528bf49b
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677233"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398723"
 ---
-# <a name="sign-in-to-microsoft-edge-automatically"></a>Logge på Microsoft Edge automatisk
+# <a name="sign-in-to-microsoft-edge-automatically"></a>Log automatisk på Microsoft Edge
 
-Microsoft Edge bruger OPERATIVSYSTEMETS standardkonto til automatisk at logge på en bruger, afhængigt af hvordan brugerens enhed er konfigureret. 
+Microsoft Edge bruger OS-standardkontoen til automatisk at logge en bruger på i overensstemmelse med, hvordan brugerens enhed er konfigureret. 
 
-Scenarierne for hver type enhedskonfiguration og den afhængige brugerlogon er beskrevet nedenfor:
+Scenarierne for hver type enhedskonfiguration og den afhængige brugers logonproces er beskrevet nedenfor:
 
-1. **Enheden er hybrid/Aad-J**: denne indstilling er tilgængelig på Windows 10, på et down-niveau-Windows og tilsvarende server versioner. Brugere logges automatisk på med deres Azure Active Directory-konti (AD).
-2. **Enheden er domæne tilmeldt**: denne indstilling er tilgængelig på Windows 10, på et down-niveau-Windows og tilsvarende server versioner. Brugere med domænekonti er som standard ikke logget på automatisk. Hvis du vil aktivere automatisk logon for dem, skal du bruge **ConfigureOnPremisesAccountAutoSignIn** -politikken. Hvis du vil aktivere automatisk logon for brugere med Azure AD-konti, skal du overveje at oprette en hybrid forbindelse til deres enheder.
-3. **Operativsystemets standardkonto er en Microsoft-konto**: denne indstilling er tilgængelig på Windows 10 RS3 (version 1709, Build 10.0.16299) og nyere versioner. Scenariet vil sandsynligvis ikke forekomme på virksomhedsenheder. Men hvis OPERATIVSYSTEMETS standardkonto er en Microsoft-konto, logger Microsoft Edge automatisk brugeren med Microsoft-kontoen.
+- **Enheden er hybrid/AAD-J: Denne** indstilling er tilgængelig i Windows 10, Windows på ned niveau og tilsvarende serverversioner. Brugere logges automatisk på med deres Azure Active Directory-konti (AD).
+- **Enheden er domæne-forbundet:** Denne indstilling er tilgængelig i Windows 10, Windows på ned niveau og tilsvarende serverversioner. Som standard er brugere med domænekonti ikke logget på automatisk. hvis du vil aktivere automatisk logon for dem, skal du bruge **politikken ConfigureOnPremisesAccountAutoSignIn.** Hvis du vil aktivere automatisk logon for brugere med Azure AD-konti, kan du overveje at deltage hybridt på deres enheder.
+- **Os-standardkontoen** er en Microsoft-konto: Denne indstilling er tilgængelig på Windows 10 RS3 (version 1709, build 10.0.16299) og nyere versioner. Scenariet er usandsynligt på virksomhedsenheder. Men hvis OS-standardkontoen er en Microsoft-konto, logger Microsoft Edge automatisk brugeren på med Microsoft-kontoen.
  
  

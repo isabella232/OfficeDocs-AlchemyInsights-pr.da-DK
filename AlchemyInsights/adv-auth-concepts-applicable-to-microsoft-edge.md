@@ -1,5 +1,5 @@
 ---
-title: Avancerede godkendelses koncepter, der gælder for Microsoft Edge
+title: Avancerede godkendelseskoncepter, der gælder for Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573330"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398550"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Avancerede godkendelses koncepter, der gælder for Microsoft Edge
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Avancerede godkendelseskoncepter, der gælder for Microsoft Edge
 
-Følgende er de avancerede godkendelses koncepter, der gælder for Microsoft Edge:
+Følgende er de avancerede godkendelseskoncepter, der gælder for Microsoft Edge:
 
-**Proaktiv godkendelse**
+**Proactive Authentication**
 
-Når du aktiverer [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) -politikken, forsøger Microsoft Edge proaktivt at godkende brugere, der er logget på, via Microsoft-tjenester. Med jævne mellemrum bruges en onlinetjeneste til at kontrollere, om der er et opdateret manifest, der indeholder konfigurationen til proaktiv godkendelse.
+Når du aktiverer [politikken ProactiveAuthEnabled,](https://go.microsoft.com/fwlink/?linkid=2134621) vil Microsoft Edge forsøge proaktivt at godkende brugere, der er logget på via Microsoft-tjenester. Med jævne mellemrum vil den bruge en onlinetjeneste til at kontrollere, om der er et opdateret manifest, der indeholder den konfiguration, der styrer Proaktiv godkendelse.
 
-Fordele: proaktiv godkendelse giver mulighed for godkendelse af nøgle tjenester, f. eks den nye faneside i Office. Hvis Bing også bruges som søgemaskine, forbedrer proaktiv godkendelse ydeevnen for adresselinjen og hjælper med at oprette søgeresultater, der er tilpasset din virksomheds behov.
+Fordele: Proaktiv godkendelse giver godkendelse adgang til vigtige tjenester, f.eks. siden ny fane i Office. Hvis Bing bruges som søgemaskine, forbedrer Proaktiv godkendelse også ydeevnen af adresselinjen og hjælper med at generere søgeresultater, der er tilpasset behovene i din virksomhed.
 
 **Windows Hello CredUI til NTLM-godkendelse**
 
-Hvis enkeltlogon (SSO) ikke er tilgængelig, når et websted forsøger at logge på brugeren via NTLM-eller Negotiate-mekanismen, giver brugeren mulighed for at dele OS-legitimationsoplysninger med webstedet og for at opfylde godkendelses udfordringen ved hjælp af BRUGERGRÆNSEFLADEN i Windows Hello-legitimationsoplysninger. Dette tilmeldings forløb vises kun i Windows 10 og kun for brugere, der ikke får SSO under en NTLM-eller en Negotiate-udfordring.
+Hvis enkelt-logon (SSO) ikke er tilgængelig, når et websted forsøger at logge på brugeren via mekanismen NTLM eller Forhandl, giver denne funktion brugeren mulighed for at dele os-legitimationsoplysningerne med webstedet og opfylde godkendelsesudfordringen ved hjælp af Windows Hello Cred-brugergrænsefladen. Dette logonflow vises kun i Windows 10 og kun for brugere, der ikke får SSO under en NTLM- eller en forhandl-udfordring.
 
 **Brug gemte adgangskoder til at logge på automatisk**
 
-Brugere, der gemmer adgangskoder i Microsoft Edge, kan aktivere automatisk logon på websteder, hvor de har gemt dine legitimationsoplysninger. Brugere kan slå denne funktion til eller fra i edge://settings/passwords, og du kan konfigurere den i politikker for [adgangskodestyring](https://go.microsoft.com/fwlink/?linkid=2134622) .
+Brugere, der gemmer adgangskoder i Microsoft Edge, kan aktivere automatisk logon på websteder, hvor de har gemt legitimationsoplysninger. Brugere kan slå denne funktion til eller fra i edge://settings/passwords, og du kan konfigurere den i [politikkerne for adgangskodestyring.](https://go.microsoft.com/fwlink/?linkid=2134622)
