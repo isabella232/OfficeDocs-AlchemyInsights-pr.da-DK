@@ -1,5 +1,5 @@
 ---
-title: Sådan hentes og installeres Microsoft
+title: Sådan downloader og installerer du Microsoft To Do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823027"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401937"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a>Sådan hentes og installeres Microsoft
+# <a name="how-to-download-and-install-microsoft-to-do"></a>Sådan downloader og installerer du Microsoft To Do
 
-Microsoft to do-appen til Win32-, iOS-, Android-og Mac-appen kan downloades fra relevant butik.
+Microsoft To Do-appen til Win32, iOS, Android og Mac kan downloades fra den relevante Store.
 
-Hvis du har begrænset lager adgang for din lejer, skal du se [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) til offline-installationsprogrammet
+Hvis du har begrænset adgang til Store for din lejer, skal du se under [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) om installationsprogrammet offline.
 
-Hvis du vil downloade en app fra store ved hjælp af din **arbejds** konto, skal appen publiceres til din virksomheds **private butik.** Hvis du vil have mere at vide, skal du se [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)
+Hvis du vil hente en app fra Store med din **arbejdskonto**, skal appen publiceres i din virksomheds **Private Store.** Du kan finde flere oplysninger i [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)
