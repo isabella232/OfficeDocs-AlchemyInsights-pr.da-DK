@@ -12,13 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004033"
 - "7103"
-ms.openlocfilehash: 2585bf257525fa346113f0e8822919cd0a9de479
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8296"
+- "9004617"
+ms.openlocfilehash: d9ad762c4c5c50990e94212c9bd00d8a5e8e3cf5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573335"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505700"
 ---
-# <a name="open-microsoft-edge-devtools"></a><span data-ttu-id="19d38-102">Åbn Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="19d38-102">Open Microsoft Edge DevTools</span></span>
+# <a name="open-microsoft-edge-devtools"></a><span data-ttu-id="2d901-102">Åbn Microsoft Edge DevTools</span><span class="sxs-lookup"><span data-stu-id="2d901-102">Open Microsoft Edge DevTools</span></span>
 
-<span data-ttu-id="19d38-103">Efterhånden som brugere har brug for at få hurtig adgang til forskellige dele af BRUGERGRÆNSEFLADEN i DevTools, er der forskellige måder at [åbne Microsoft Edge DevTools](https://go.microsoft.com/fwlink/?linkid=2135152)på.</span><span class="sxs-lookup"><span data-stu-id="19d38-103">As users want fast access to different parts of the DevTools UI, there are different ways to [Open Microsoft Edge DevTools](https://go.microsoft.com/fwlink/?linkid=2135152).</span></span>
+<span data-ttu-id="2d901-103">Da brugerne ønsker hurtig adgang til forskellige dele af brugergrænsefladen for DevTools, er der forskellige måder at [åbne Microsoft Edge DevTools på.](https://go.microsoft.com/fwlink/?linkid=2135152)</span><span class="sxs-lookup"><span data-stu-id="2d901-103">As users want fast access to different parts of the DevTools UI, there are different ways to [Open Microsoft Edge DevTools](https://go.microsoft.com/fwlink/?linkid=2135152).</span></span>

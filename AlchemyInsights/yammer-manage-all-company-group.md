@@ -1,5 +1,5 @@
 ---
-title: Yammer Administrer alle virksomhedsgrupper
+title: Yammer hele firmagruppen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688832"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505422"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="dba7c-102">Alle virksomhedsgruppe</span><span class="sxs-lookup"><span data-stu-id="dba7c-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="80061-102">Hele firmagruppen</span><span class="sxs-lookup"><span data-stu-id="80061-102">All Company Group</span></span>
 
-<span data-ttu-id="dba7c-103">Gruppen **alle virksomheder** oprettes automatisk, når du opretter et Yammer-netværk.</span><span class="sxs-lookup"><span data-stu-id="dba7c-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="dba7c-104">Det er en standardsystem gruppe, der ikke kan omdøbes eller slettes.</span><span class="sxs-lookup"><span data-stu-id="dba7c-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="dba7c-105">Alle kan sende til gruppen **alle virksomheder** , men det er kun Yammer-netværksadministratorer, der kan sende meddelelser til gruppen.</span><span class="sxs-lookup"><span data-stu-id="dba7c-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="dba7c-106">Brug **gruppe indsigt**til at få vist oplysninger om aftale i gruppen **alle virksomheder** .</span><span class="sxs-lookup"><span data-stu-id="dba7c-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="80061-103">Community'et For hele virksomheden understøtter nu lignende funktioner til andre community'er Yammer.</span><span class="sxs-lookup"><span data-stu-id="80061-103">The All Company community now supports similar capabilities to other communities in Yammer.</span></span> <span data-ttu-id="80061-104">Dette omfatter indstillinger som forsidebilleder og navngivning.</span><span class="sxs-lookup"><span data-stu-id="80061-104">This includes options such as cover photos and naming.</span></span> <span data-ttu-id="80061-105">Det er også muligt at begrænse alle virksomhedens indlæg i Yammer.</span><span class="sxs-lookup"><span data-stu-id="80061-105">It's also possible to restrict All Company posts in Yammer.</span></span> <span data-ttu-id="80061-106">Du kan finde flere oplysninger [under Hele virksomheden fungerer nu på samme måde som Yammer grupper.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)</span><span class="sxs-lookup"><span data-stu-id="80061-106">For more information, see [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span></span>
 
-<span data-ttu-id="dba7c-107">Hvis du vil have mere at vide, skal du se [administrere en gruppe i Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="dba7c-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+## <a name="common-issues-and-solutions"></a><span data-ttu-id="80061-107">Almindelige problemer og løsninger</span><span class="sxs-lookup"><span data-stu-id="80061-107">Common issues and solutions</span></span>
+
+- <span data-ttu-id="80061-108">Netværksadministratorer har ikke adgang til alle virksomhedens tilpasninger eller begrænsninger for opslag.</span><span class="sxs-lookup"><span data-stu-id="80061-108">All Company customization or posting restriction is not available to network admins.</span></span> <span data-ttu-id="80061-109">Åbn en serviceanmodning for at aktivere den moderne gruppe Hele virksomheden.</span><span class="sxs-lookup"><span data-stu-id="80061-109">Open a service request to enable the modern All Company group.</span></span>
+
+- <span data-ttu-id="80061-110">Communityindsigt viser ikke gamle data.</span><span class="sxs-lookup"><span data-stu-id="80061-110">Community Insights doesn't show old data.</span></span> <span data-ttu-id="80061-111">Nu hvor All Company er et rigtigt community, vises de tidligere data for netværket ikke.</span><span class="sxs-lookup"><span data-stu-id="80061-111">Now that All Company is a real community, the previous data for the network is not shown.</span></span>
+
+- <span data-ttu-id="80061-112">Hele virksomheden ser ud til at være slettet.</span><span class="sxs-lookup"><span data-stu-id="80061-112">All Company seems to be deleted.</span></span> <span data-ttu-id="80061-113">Når communityet er knyttet til en Microsoft 365-gruppe, kan den pågældende gruppe slettes.</span><span class="sxs-lookup"><span data-stu-id="80061-113">When the community is connected to an Microsoft 365 group, that group can be deleted.</span></span> <span data-ttu-id="80061-114">Microsoft 365-gruppen skal gendannes i lejeren.</span><span class="sxs-lookup"><span data-stu-id="80061-114">The Microsoft 365 group must be restored in the tenant.</span></span>
+
