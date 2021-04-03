@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "7600"
-ms.openlocfilehash: f14410c61fe5c9dd3a72124da12915bc4dbf7182
-ms.sourcegitcommit: aebf4e1ef31305c2219f0c2ac7c3f1e30f6f1e66
+ms.openlocfilehash: b467320d6c9dd0f9613752560b056028e864ee5b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50713483"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505386"
 ---
 # <a name="microsoft-threat-experts"></a>Microsofts trusselseksperter
 
 Microsoft Threat Experts er en administreret tjeneste til trusselssøgning i Microsoft Defender til Slutpunkt.  Vi samarbejder med dit Security Operations Center om at overvåge, analysere og yde support for at identificere og reagere på alvorlige trusler i dit unikke miljø.
 
-Denne administrerede tjeneste til trusselssøgning giver ekspertbaseret indsigt og data gennem disse to funktioner: målrettet meddelelse om angreb og adgang til eksperter efter behov. Se [microsoft Threat Experts-dokumentationen](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-threat-experts) for at få flere oplysninger.
+Denne administrerede tjeneste til trusselssøgning giver ekspertbaseret indsigt og data gennem disse to funktioner: målrettet meddelelse om angreb og adgang til eksperter efter behov. Hvis du vil have oplysninger om Microsoft Defender til Slutpunkt, skal du [se Microsoft Threat Experts.]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts)
+
+Hvis du vil have mere at vide om den administrerede trusselssøgningstjeneste i forbindelse med beskyttelse af din organisations slutpunkter, mail og identiteter, skal du se [Microsoft Threat Experts i Microsoft 365-oversigt.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide)

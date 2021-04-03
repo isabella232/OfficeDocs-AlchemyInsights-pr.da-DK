@@ -1,5 +1,5 @@
 ---
-title: BitLocker-genoprettelses nøgler
+title: BitLocker-genoprettelsesnøgler
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685880"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505062"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Få adgang til BitLocker-genoprettelses nøgler
+# <a name="accessing-bitlocker-recovery-keys"></a>Adgang til BitLocker-genoprettelsesnøgler
 
-Når du konfigurerer BitLocker-indstillinger Intune Endpoint Protection-politik, er det muligt at angive, om BitLocker-genoprettelsesoplysninger skal gemmes i Azure Active Directory.
+Når du konfigurerer Indstillinger for BitLocker, er det muligt at definere, om BitLocker-genoprettelsesoplysninger skal gemmes i Azure Active Directory.
 
-Hvis denne indstilling er konfigureret, skal de gemte genoprettelses data være synlige for en Intune-administrator som en del af enhedens postdata i Intune Devices blade på to måder:
+Hvis denne indstilling er konfigureret, skal de gemte gendannelsesdata være synlige for en Intune-administrator som en del af enhedens postdata i bladet for Intune-enheder på to måder:
 
-Enheder-Azure AD-enheder – > "enhed" eller enheder-> alle enheder-> "enhed"-> genoprettelses nøgler
+Enheder – Azure AD-enheder – > "Enhed" ELLER enheder –> Alle enheder – > "Enhed" – > genoprettelsesnøgler
 
-Hvis der er administratoradgang til selve enheden, kan du se genoprettelsesnøglen (adgangskode) ved at køre følgende kommando fra en kommandoprompt med administratorrettigheder:
+Hvis der er administrativ adgang til selve enheden, kan genoprettelsesnøglen (adgangskode) også ses ved at køre følgende kommando fra en kommandoprompt med administrator administrator:
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Hvis enheden blev krypteret før enrolment i Intune, kan genoprettelsesnøglen være blevet knyttet til "Microsoft-kontoen" (MSA), der bruges til at logge på enheden under OOBE-processen. Hvis det var tilfældet, skal du få adgang til  https://onedrive.live.com/recoverykey og logge på med den pågældende MSA for at vise de enheder, som genoprettelses nøgler blev gemt for.
+Hvis enheden blev krypteret før tilmelding i Intune, kan genoprettelsesnøglen være knyttet til den "Microsoft-konto" (MSA), der blev brugt til at logge på enheden under OOBE-processen. Hvis det var tilfældet, skulle adgang til og logge på med den pågældende MSA vise de  https://onedrive.live.com/recoverykey enheder, som genoprettelsesnøgler blev gemt på.
  
-Hvis enheden blev krypteret som et resultat af konfigurationen via domænebaseret Gruppepolitik, bliver genoprettelses oplysningerne muligvis gemt i det lokale Active Directory.
- 
+Hvis enheden blev krypteret som et resultat af konfiguration via domænebaseret gruppepolitik, kan genoprettelsesoplysningerne blive gemt i det lokale Active Directory.
+
+Hvis du har konfigureret en politik for slutpunktsbeskyttelse til at gemme genoprettelsesnøglen i Azure Active Directory, men nøglen til en bestemt enhed ikke er blevet overført, kan du udløse overførslen ved at rotere genoprettelsesnøglen for den pågældende enhed fra MEM-konsollen. Du kan få mere at vide [under Roter BitLocker-genoprettelsesnøgler.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 
