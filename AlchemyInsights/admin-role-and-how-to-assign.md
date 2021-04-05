@@ -14,21 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 1054297dd1f5ead61b150c967299ae54cf1bc6da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 116b92824b4046766d9c8b869ef0cfc655ee2395
+ms.sourcegitcommit: ce1a381ca3b24b8b4e60c5b83fae3ec7609eaf9d
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686672"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51585969"
 ---
 # <a name="admin-roles"></a>Administratorroller
 
-- Hvis du vil tildele eller få mere at vide om administratorroller, skal du vælge **roller** i [Administration](https://admin.microsoft.com/Adminportal/Home#/roles).
+- Hvis du vil tildele en **rolle, skal du** vælge [Aktive brugere i](https://admin.microsoft.com/Adminportal/Home#/users)Administration, vælge et brugernavn og derefter vælge Administrer **roller.**
 
-- Hvis du vil have mere at vide, skal du i Administrationscenter vælge rollenavnet/-navnene og vælge **Tildel rolle** eller **Sammenlign roller**.
-
-- Hvis du vil tildele en rolle, skal du vælge **aktive brugere** i [Administrationscenter](https://admin.microsoft.com/Adminportal/Home#/users), vælge et Brugernavn og derefter vælge  **Administrer roller**.
-
-- Hvis **du vil have** mere at vide om en rolle, skal du klikke på ud for rollen eller se [om administratorroller](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
-
-- Hvis du har brug for hjælp til at få adgang til en eksisterende administratorkonto, skal du gå [tilbage til din konto](https://passwordreset.microsoftonline.com/) eller [nulstille min administratoradgangskode](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password).
+- Du kan finde flere oplysninger om en rolle ved at **klikke på i** ud for rollen eller se Om [administratorroller.](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)
