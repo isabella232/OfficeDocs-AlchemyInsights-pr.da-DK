@@ -14,24 +14,24 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
+ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505680"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51597437"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Gendan en slettet Microsoft 365-gruppe
 
 Du kan gendanne en slettet Microsoft 365-gruppe eller Microsoft Teams inden for 30 dage efter sletningen.
 
-1. Hvis du vil logge på Microsoft 365 Administration og oprette en liste over slettede grupper og teams, skal du gå til [Microsoft 365 Administration.](https://aka.ms/RestoreDeletedGroup)
+1. Gå til [Microsoft 365 Administration for at logge](https://aka.ms/RestoreDeletedGroup) på og få vist de slettede grupper og teams.
 
-    **Bemærk!** Log på med den konto, der er tildelt til enten lejeradministratoren eller gruppeadministratorrollen.
+    **Bemærk!** Log på med den konto, der er tildelt administratorlejeren eller gruppeadministratorrollen.
 
-1. Vælg den slettede Microsoft 365-gruppe/Teams, der skal gendannes, og klik på **gendan gruppe.**
+1. Vælg den slettede Microsoft 365-gruppe/Teams, der skal gendannes, og klik på **Gendan gruppe.**
 
-    Hvis gruppen ikke kan gendannes på grund af en SMTP-adresse, der er i konflikt med hinanden, skal du bruge følgende kommando til at finde det objekt, der forårsager konflikter, og fjerne SMTP-adressen:
+    Hvis gruppen ikke kan gendannes på grund af en SMTP-adresse, der skaber konflikt, skal du bruge følgende kommando til at finde det objekt, der forårsager konflikter, og fjerne SMTP-adressen:
 
     `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
 
