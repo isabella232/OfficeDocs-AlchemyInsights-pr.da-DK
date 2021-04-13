@@ -1,5 +1,5 @@
 ---
-title: 'CSS: dyb link regel for PSTN-søjle'
+title: 'CSS: PSTN-søjlesøjle og Deep Link-regel'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: 60f35221fdc915a2a6c349de398d765ee69ebfa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e796094e8ca47b13a238a2523675530f92bbf7d1
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746213"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692424"
 ---
-# <a name="pstn-calling-with-microsoft-teams"></a>PSTN-opkald med Microsoft teams
+# <a name="pstn-calling-with-microsoft-teams"></a>PSTN-opkald med Microsoft Teams
 
-Hvis du vil have mere at vide om telefonsystem og PSTN-opkald i Microsoft teams, skal du se [Hvad er telefonsystemet i microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)
+Du kan få mere at vide om Telefon og PSTN-opkald i Microsoft Teams i Hvad [er Microsoft Teams Phone i Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)

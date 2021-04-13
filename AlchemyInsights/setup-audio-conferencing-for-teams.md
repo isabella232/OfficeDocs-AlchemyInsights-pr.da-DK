@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: 4cabc559d0f201fc2ad5004e459a871d0caaf545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739603"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692676"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Konfiguration af lydmøde til Teams
 
@@ -33,7 +33,7 @@ Sådan bekræfter du, at brugeren er licenseret til lydmøder og har et standard
 
 2. Afhængigt af din version af administrationscenteret skal du vælge enten **Licenser og apps** eller klikke på **Rediger** på **Produktlicenser**.
 
-3. Bekræft, at brugeren har licenser, der er valgt til **Lydmøde, Microsoft Teams**og **Skype for Business online (Plan 2)**.
+3. Bekræft, at brugeren har licenser, der er valgt til **Lydmøde, Microsoft Teams** og **Skype for Business online (Plan 2)**.
 
 4. I **administrationscentre** for brugere skal du klikke på **Vis alle** og derefter klikke på **Teams**.
 
@@ -43,4 +43,4 @@ Sådan bekræfter du, at brugeren er licenseret til lydmøder og har et standard
 
 7. Vælg den pågældende bruger, og bekræft, at brugeren har et **standard afgiftsbelagt nummer**.
 
-Du kan finde flere oplysninger under [Opkaldsabonnementer til Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe til Microsoft Commerce-faktureringsteamet for at få hjælp til licensrelaterede spørgsmål.
+Du kan finde flere oplysninger i Microsoft Teams-opkaldsplaner [til Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ved at ringe til Microsoft Commerce Billing-teamet for at få hjælp til licensrelaterede spørgsmål.

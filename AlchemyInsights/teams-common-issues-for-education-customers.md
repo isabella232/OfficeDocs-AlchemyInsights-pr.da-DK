@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737011"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692388"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Teams almindelige problemer for Education-kunder
 
@@ -46,7 +46,7 @@ Hvis du har brug for hjælp til at anvende Teams til at understøtte ekstern læ
     6. I Skype for Business Administration skal du klikke på **Lydmøde** og derefter på **Brugere**.
     7. Vælg den pågældende bruger, og bekræft, at brugeren har et standard afgiftsbelagt nummer.
 
-    Du kan finde flere oplysninger under [Opkaldsabonnementer](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe til Microsoft Commerce-faktureringsteamet for at få hjælp til licensrelaterede spørgsmål.
+    Du kan finde flere oplysninger i [opkaldsplaner i Microsoft Teams eller](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ved at ringe til Microsoft Commerce-faktureringsteamet for at få hjælp til licensrelaterede spørgsmål.
 
     Flere ressourcer
 
@@ -69,9 +69,9 @@ Hvis du har brug for hjælp til at anvende Teams til at understøtte ekstern læ
         - Deaktiver **Tillad whiteboard**.
         - Deaktiver **Tillad delte noter**.
 
-        Tildel derefter**politikken til brugerne**:
+        Tildel derefter **politikken til brugerne**:
 
-    1. I venstre navigationsrude i Microsoft Teams Administration skal du gå til **Brugere **og derefter klikke på brugeren.
+    1. I venstre navigationsrude i Microsoft Teams Administration skal du gå til **Brugere** og derefter klikke på brugeren.
     2. Markér brugeren ved at klikke til venstre for brugernavnet, og klik derefter på **Rediger indstillinger**.
     3. Under **Mødepolitik** skal du markere den politik, du vil tildele, og derefter klikke på **Tildel**. 
 
