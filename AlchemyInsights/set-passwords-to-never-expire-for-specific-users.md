@@ -2,7 +2,7 @@
 title: Konfigurer SPF
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295600"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788985"
 ---
-# <a name="set-passwords-to-never-expire"></a>Indstille adgangskoder til aldrig at udløbe
+# <a name="set-passwords-to-never-expire"></a>Indstil adgangskoder til aldrig at udløbe
 
-Hvis du vil indstille alle adgangskoder til aldrig at udløbe, skal du gå til gruppen Indstillinger i Microsoft 365 administration, gå til **Indstillinger**  >  **organisationsindstillinger > [sikkerhed og beskyttelse af personlige oplysninger om](https://portal.office.com/adminportal/home#/settings/security)  >  [adgangskodeudløb](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** og fjerne markeringen af "Angiv brugeradgangskoder til at udløbe efter et antal dage".
+Hvis du vil indstille ALLE adgangskoder til aldrig at udløbe, skal du i Microsoft 365 Administration gå til Indstillinger Org-indstillinger > Udløbspolitik for sikkerhed og beskyttelse af personlige oplysninger og fjerne en kontrol af"Angiv brugeradgangskoder til at udløbe efter et antal  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** dage".
   
-Du kan finde mere detaljerede oplysninger i:
+Du kan finde flere oplysninger under:
 
-- [Angiv politik for udløb af adgangskode for din organisation.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [Angiv udløbspolitikken for adgangskoder for organisationen.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Angiv adgangskoden til aldrig at udløbe for bestemte brugere](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [Indstil adgangskoden til aldrig at udløbe for bestemte brugere](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [Adgangskoden skal opfylde kompleksitetskravene](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [Adgangskoden skal opfylde krav til kompleksitet](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

@@ -2,7 +2,7 @@
 title: Bekræfte dit domæne
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a34de7fa2aaaae365cf4562d31590d4b5fb7544
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734300"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770985"
 ---
 # <a name="verify-your-domain"></a>Bekræfte dit domæne
 
- **Posten er sandsynligvis ikke blevet opdateret på internettet.**
+ **Posten er sandsynligvis ikke opdateret på hele internettet.**
   
-Det tager normalt kun et par minutter, før vi kan se den nye post, men nogle gange kan det tage op til et par timer. 
+Det tager typisk et par minutter for os at få vist den nye post, men nogle gange kan det tage op til et par timer. 
   
-- Hvis du har ventet på, at du allerede har gjort det, skal du dobbelttjekke, at du har kopieret og indsat den nøjagtige værdi i TXT-bekræftelses posten hos din DNS-vært. Et almindeligt problem omfatter ikke "MS ="-delen af posten. Vi har brug for!
+- Hvis du allerede har ventet i lang tid, skal du kontrollere, at du har kopieret og indsat den nøjagtige værdi i TXT-bekræftelsesposten hos din DNS-vært. Ét almindelige problem er ikke omfatter "MS = " delen af posten. Vi har også brug for den!
 
-- På nogle DNS-værter skal du udføre et ekstra trin for at gemme zone filen (hvor DNS-posten er gemt), så den bliver opdateret på internettet. Sørg for, at du har gemt dine ændringer, så Microsoft kan se og bekræfte posten.
+- Hos nogle DNS-værter skal du gemme zonefilen (hvor DNS-posten er gemt), så den bliver opdateret på hele internettet. Sørg for, at du har gemt dine ændringer, så Microsoft kan se og bekræfte posten.
