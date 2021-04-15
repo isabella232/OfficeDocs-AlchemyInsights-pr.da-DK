@@ -1,26 +1,30 @@
 ---
-title: 665 modtager du for meget Phish eller spam i din postkasse?
+title: 665 Modtager du for meget phish eller spam i din postkasse?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700233"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767931"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a><span data-ttu-id="0cba9-102">Modtager du for meget Phish eller spam i din postkasse?</span><span class="sxs-lookup"><span data-stu-id="0cba9-102">Are you receiving too much phish or spam in your mailbox?</span></span>
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a><span data-ttu-id="2d540-102">Modtager du for meget phish eller spam i din postkasse?</span><span class="sxs-lookup"><span data-stu-id="2d540-102">Are you receiving too much phish or spam in your mailbox?</span></span>
 
-<span data-ttu-id="0cba9-103">Som Microsoft 365-administrator er den bedste måde at finde ud af, hvorfor en phishing-eller spam meddelelse er blevet leveret, ved at sende eksemplet til Microsoft i udstedende [Stifinder](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="0cba9-103">As a Microsoft 365 admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="0cba9-104">Du får øjeblikkelig feedback i forbindelse med filtrering af meddelelser, og derfor er der problemer.</span><span class="sxs-lookup"><span data-stu-id="0cba9-104">You'll get immediate feedback related to message filtering and why there are issues.</span></span>
+> [!NOTE]
+> <span data-ttu-id="2d540-103">Du kan få adgang til Microsoft 365-sikkerhedscenteret [security.microsoft.com](https://security.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="2d540-103">You can access the Microsoft 365 security center at [security.microsoft.com](https://security.microsoft.com).</span></span>
 
-<span data-ttu-id="0cba9-105">Du kan gøre det nemmere for brugerne at rapportere direkte til Microsoft via [tilføjelsesprogrammet rapport meddelelse](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="0cba9-105">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+<span data-ttu-id="2d540-104">Som Microsoft 365-administrator er den bedste måde at afgøre, hvorfor en phishing- eller spammeddelelse blev leveret, at sende eksemplet til Microsoft [i Indsendelsesstifinder.](https://security.microsoft.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="2d540-104">As a Microsoft 365 admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://security.microsoft.com/reportsubmission).</span></span> <span data-ttu-id="2d540-105">Du får øjeblikkelig feedback i forbindelse med meddelelsesfiltrering, og hvorfor der er problemer.</span><span class="sxs-lookup"><span data-stu-id="2d540-105">You'll get immediate feedback related to message filtering and why there are issues.</span></span>
 
-<span data-ttu-id="0cba9-106">**Vidste du?**: du kan nu sende eksempler direkte fra [meddelelsessporing](https://protection.office.com/messagetrace) og E5/DTT plan 2-kunder kan sende samples fra [trussels Stifinder](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span><span class="sxs-lookup"><span data-stu-id="0cba9-106">**Did you know?**: You can now submit samples directly from [Message trace](https://protection.office.com/messagetrace) and E5/ATP Plan 2 customers can submit samples from [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span></span>
+<span data-ttu-id="2d540-106">For at gøre det mere brugervenligt kan du give dine brugere mulighed for at rapportere direkte til Microsoft via [tilføjelsesprogrammet Rapportmeddelelse](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="2d540-106">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+
+<span data-ttu-id="2d540-107">**Vidste du? :** Du kan nu [](https://security.microsoft.com/messagetrace) sende eksempler direkte fra Meddelelsessporing, og E5/ATP Plan 2-kunder kan sende eksempler fra [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span><span class="sxs-lookup"><span data-stu-id="2d540-107">**Did you know?**: You can now submit samples directly from [Message trace](https://security.microsoft.com/messagetrace) and E5/ATP Plan 2 customers can submit samples from [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span></span>
