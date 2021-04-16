@@ -1,8 +1,8 @@
 ---
-title: Bekræft dit domæne med 1&1 IONOS
+title: Bekræfte dit domæne med 1&1 IONOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b01c5647c506086b1ccfa97c13758df1906f1fbd
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 40a5fb44de76ed76b415b909718450c18ea24b50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816319"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808020"
 ---
-# <a name="verify-your-domain-with-11-ionos"></a>Bekræft dit domæne med 1&1 IONOS
+# <a name="verify-your-domain-with-11-ionos"></a>Bekræfte dit domæne med 1&1 IONOS
 
-Hvis du vil bekræfte dit domæne, skal du tilføje en TXT-post til din domæneregistrator for at bekræfte, at du ejer dit domæne. 
+Hvis du vil bekræfte dit domæne, skal du føje en TXT-post til din domæneregistrator for at bekræfte, at du ejer domænet. 
 
-Først skal du følge [guiden Tilføj domæne](https://admin.microsoft.com/Adminportal#/Domains) ved at vælge **Indstillinger for** \> **domæner**og derefter **tilføje domæne**.
+Først skal du følge [guiden Tilføj domæne ved](https://admin.microsoft.com/Adminportal#/Domains) at vælge **Indstillinger** \> **Domæner** og derefter **Tilføj domæne**.
   
-Se [oprette DNS-poster på 1&1 IONOS til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for at få en trinvis vejledning.
+Se [Opret DNS-poster på 1&1 IONOS til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) for at få en trinvis vejledning.

@@ -1,8 +1,8 @@
 ---
-title: Vis adgangskode til Wi-Fi-netværk i Windows 10
+title: Vis Wi-Fi adgangskoden til netværket i Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689084"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807372"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Vis adgangskode til Wi-Fi-netværk i Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Vis Wi-Fi adgangskoden til netværket i Windows 10
 
-1. Sørg for, at din Windows 10-PC har forbindelse til Wi-Fi-netværket.
+1. Sørg for, at din Windows 10-pc er tilsluttet Wi-Fi netværket.
 
-2. Gå til **indstillinger > status for Internet & Internet >**, eller klik eller tryk [her](ms-settings:network?activationSource=GetHelp) for at lade os tage dig ind nu.
+2. Gå til **Indstillinger > Netværksforbindelse & status** for > , eller [](ms-settings:network?activationSource=GetHelp) klik eller tryk her for at lade os tage dig dertil nu.
 
-3. Klik på **netværks-og delings Center**.
+3. Klik **på Netværks- og delingscenter**.
 
-    ![Netværks-og delings Center.](media/network-sharing-center.png)
+    ![Netværks- og delingscenter.](media/network-sharing-center.png)
 
-4. I **netværks-og delings Center**, ud for **forbindelser**, får du vist navnet på dit trådløse netværk. Hvis dit netværk for eksempel har navnet "ABC123", kan du få vist:
+4. I **Netværks- og delingscenter** ud **for Forbindelser** kan du se navnet på dit trådløse netværk. Hvis dit netværk f.eks. hedder "ABC123", får du muligvis vist:
 
     ![Netværksforbindelser.](media/network-connections.png)
 
-    Klik på navnet på det trådløse netværk for at åbne vinduet Wi-Fi-status. 
+    Klik på navnet på det trådløse netværk for at Wi-Fi statusvinduet. 
 
-5. I vinduet Wi-Fi-status skal du klikke på **trådløse egenskaber**, klikke på fanen **sikkerhed** og markere **Vis tegn**.
+5. I vinduet Wi-Fi skal du klikke på **Trådløse egenskaber,** klikke på **fanen** Sikkerhed og markere **Vis tegn**.
 
-    ![Vis Wi-Fi-adgangskode tegn.](media/show-password-characters.png)
+    ![Vis Wi-Fi adgangskodetegn.](media/show-password-characters.png)
 
