@@ -1,8 +1,8 @@
 ---
-title: Produktnøgle til Power BI-rapport server
+title: Power BI Report Server-produktnøgle
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801943"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800676"
 ---
-# <a name="power-bi-report-server-product-key"></a>Produktnøgle til Power BI-rapport server
+# <a name="power-bi-report-server-product-key"></a>Power BI Report Server-produktnøgle
 
-Hvis du har købt Power BI Premium, skal du på fanen **Premium Settings** i Power bi administration-portalen have adgang til din produktnøgle til Power bi-rapportserveren. Dette er kun tilgængeligt for globale administratorer eller brugere, der har fået tildelt rollen som Power BI-tjenesteadministrator.
+Hvis du har købt Power BI Premium, har du adgang til din Power BI Report Server-produktnøgle under fanen **Premium-indstillinger** på Power BI-administrationsportalen. Dette er kun tilgængeligt for globale administratorer eller brugere, der er tildelt rollen som Power BI-tjenesteadministrator.
 
-Når du vælger **Power bi Report Server-nøgle** , vises en dialogboks, der indeholder din produktnøgle. Du kan kopiere det og bruge det sammen med installationen.
+Når du **vælger Power BI Report Server-nøgle,** vises en dialogboks, der indeholder din produktnøgle. Du kan kopiere den og bruge den sammen med installationen.
 
-Hvis du har en Enterprise-sikkerhedsaftale fra SQL Server, kan du få din produktnøgle fra [volumen Licensing Service Center](https://www.microsoft.com/Licensing/servicecenter/).
+Hvis du har en SQL Server Enterprise SA-aftale, kan du få din produktnøgle fra [Volume Licensing Service Center.](https://www.microsoft.com/Licensing/servicecenter/)
 
-Få mere at vide: https://docs.microsoft.com/power-bi/report-server/install-report-server
+Du kan finde flere oplysninger: https://docs.microsoft.com/power-bi/report-server/install-report-server

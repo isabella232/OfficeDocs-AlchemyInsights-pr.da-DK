@@ -1,8 +1,8 @@
 ---
-title: Udskyd teams-opgradering
+title: Udskyd opgradering af Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741765"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801225"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Sådan udskydes det Microsoft-drevne teams-opgradering
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Sådan udskydes den Microsoft-drevne opgradering af Teams
 
-**Vigtigt**! vi kan hjælpe dig med at løse dette for dig ved hjælp af en support diagnosticering, men det ser ud til, at du ikke bruger den nye administrations Center. Hvis du vil bruge den nye administration, skal du trykke på til/fra-knappen i øverste højre hjørne, der siger det **nye Administrationscenter** til højre. Ved hjælp af det nye administrations Center skal du klikke på **Brug hjælp?** widget, skrive "Udskyd teams-opgradering" og derefter følge instruktionerne for at køre diagnosticeringen.
+**Vigtigt:** Vi kan hjælpe med at løse dette problem for dig ved hjælp af en supportdiagnosticering, men det ser ud til, at du ikke bruger Den nye Administration. Hvis du vil bruge den nye Administration, skal du skubbe til/fra-knappen øverst til højre, **hvor der står ny Administration** til højre. Ved hjælp af den nye Administration skal du klikke på widget'en Har du brug for **hjælp?** skrive "Udskyd opgradering af Teams" og derefter følge instruktionerne for at køre diagnosticeringen.
 
-Hvis du har modtaget kommunikation om en Microsoft-styret automatisk opgradering fra Skype for Business til Microsoft teams, og du vil udsætte den automatiske opgradering til en senere dato, kan din globale administrator logge på [teams-administrations portalen](https://admin.teams.microsoft.com/dashboard) og vælge knappen **Udskyd** , når du har valgt knappen **Opdater status** under opgradering af Microsoft teams. Hvis du vil have vist den nye dato for din lejers automatiske opgradering til Microsoft teams, skal du opdatere siden teams-administrations portalen.
+Hvis du har modtaget kommunikation om en Microsoft-dreven automatiseret opgradering fra Skype for Business til Microsoft Teams, og du ønsker at udskyde  den automatiske opgradering til et  senere tidspunkt, kan den globale administrator logge på Teams-administrationsportalen og, når du har valgt knappen Opdateringsstatus under Opgradering til Microsoft Teams, vælge knappen Udskyd. [](https://admin.teams.microsoft.com/dashboard) Hvis du vil se den nye dato for din lejers automatiske opgradering til Microsoft Teams, skal du opdatere siden med Teams-administratorportalen.
 
-**Bemærk:** Knappen **Udskyd** vil kun være tilgængelig, hvis du har modtaget meddelelses Center-beskeden om den automatiske opgradering. 
+**Bemærk!** Knappen **Udskyd** er kun tilgængelig, hvis du har modtaget meddelelse fra meddelelsescenteret vedrørende den automatiserede opgradering. 
 
 Globale administratorer kan også køre [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) for at få mere at vide om deres aktuelle opgraderingsstatus.
