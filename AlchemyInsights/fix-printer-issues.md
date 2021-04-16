@@ -1,8 +1,8 @@
 ---
-title: Løs problemer med printeren
+title: Løs printerproblemer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4700ba896d5101562bd78cf76ec61e47da29894
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677670"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812674"
 ---
 # <a name="troubleshoot-your-printer"></a>Fejlfind din printer
 
-Hvis du har printerproblemer, skal du først prøve at udføre en **printers Power-cyklus**. Følg disse trin:
+Hvis du har printerproblemer, skal du først prøve at udføre en **printercyklus.** Følg disse trin:
 
 1. Sluk din printer og frakobl dens strømkabel.
 2. Vent 30 sekunder.
 3. Tilslut din printer igen, og tænd den.
 
-Hvis det ikke løser problemet, skal du køre printerfejlfinding ved at gå til **Start**  >  **Indstillinger**  >  **Opdater & sikkerheds**  >  **fejlfinding**. Vælg **printer**, og vælg derefter **Kør fejlfindingsværktøjet**.
+Hvis det ikke løser problemet, skal du køre fejlfindingsværktøjet til printeren ved at gå til **Start** indstillinger  >    >  **opdatering &**  >  **Sikkerhedsfejlfinding.** Vælg **Printer**, og vælg derefter **Kør fejlfindingsværktøjet**.

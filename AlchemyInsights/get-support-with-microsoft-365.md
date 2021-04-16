@@ -2,7 +2,7 @@
 title: Få support med Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +14,13 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: c925d1dd6d11f1fbd31eaa05a2d876c84b3e23b7
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: f5b3f6aaaeef8931ef04c61baedde02ff35679b6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452258"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812098"
 ---
 # <a name="get-support-with-microsoft-365"></a>Få support med Microsoft 365
 
-Hvis du vil finde de rigtige ressourcer til dit problem, skal vi bruge mere detaljerede oplysninger. Angiv venligst dit problem, og Medtag bestemte produktnavne, funktioner eller fejl, og Send din søgeforespørgsel igen.
+Hvis du vil finde de rigtige ressourcer til dit problem, skal vi bruge mere detaljerede oplysninger. Omdeaktiver problemet, og medtag specifikke produktnavne, funktioner eller fejl, og indsend din søgeforespørgsel igen.

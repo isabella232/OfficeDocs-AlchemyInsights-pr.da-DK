@@ -1,8 +1,8 @@
 ---
-title: Hjælp til tilmelding til Intune
+title: Hjælp til Intune-tilmelding
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 516ec77ac29b17509f39bc03cbea8fb7a5a8adbb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705185"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811558"
 ---
-# <a name="help-with-intune-enrollment"></a>Hjælp til tilmelding til Intune
+# <a name="help-with-intune-enrollment"></a>Hjælp til Intune-tilmelding
 
 
-- [Få mere at vide om tilmelding til enheder med Intune](https://docs.microsoft.com/intune/device-enrollment)
+- [Få mere at vide om tilmelding af enheder med Intune](https://docs.microsoft.com/intune/device-enrollment)
 
-- [Konfigurere iOS-enheds tilmelding med Intune](https://docs.microsoft.com/intune/ios-enroll)
+- [Konfigurer tilmelding til iOS-enhed med Intune](https://docs.microsoft.com/intune/ios-enroll)
 
-- [Konfigurere Android-enheds tilmelding med Intune](https://docs.microsoft.com/intune/android-enroll)
+- [Konfigurer tilmelding til Android-enhed med Intune](https://docs.microsoft.com/intune/android-enroll)
 
 - [Konfigurere tilmelding til Windows-enhed med Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-**Fejlfinding af enheds tilmelding**
+**Fejlfinding af enhedsregistrering**
 
-1. Brug fejlfindings portalen til Intune til at diagnosticere og løse almindelige tilmeldings fejl. Gennemse [dokumentet for at få flere](https://docs.microsoft.com/intune/help-desk-operators) oplysninger.
+1. Brug Intune-fejlfindingsportalen til at diagnosticere og løse almindelige registreringsfejl. Gennemgå [dette dokument](https://docs.microsoft.com/intune/help-desk-operators) for at få flere oplysninger.
 
-2. Gennemse disse dokumenter for at få en liste over almindelige fejl, der forhindrer tilmelding og løsninger til hver: [fejlfindingsvejledning](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) og [fejlfindings dokument](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Gennemse disse dokumenter for at få en liste over almindelige fejl, der forhindrer registrering og løsninger på hver enkelt: [Fejlfindingsvejledning](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) og [Fejlfinding af dokument.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)

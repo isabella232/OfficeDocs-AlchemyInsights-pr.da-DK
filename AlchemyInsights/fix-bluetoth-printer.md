@@ -1,8 +1,8 @@
 ---
-title: Ret Bluetooth-printer
+title: Løs problemer med Bluetooth-printeren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744908"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812890"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Ret problemer med Bluetooth-printerforbindelse
+# <a name="fix-bluetooth-printer-connection-issues"></a>Løs problemer med Bluetooth-printerforbindelsen
 
-Prøv disse fejlfindingstrin for at få Bluetooth-printeren til at fungere igen:
+Prøv disse fejlfindingstrin for at få din Bluetooth-printer til at fungere igen:
 
 
 1. Kontrollér, at Bluetooth er slået til:
-    1. Vælg **Start**  >  **Indstillinger for**  >  **enheder**  >  **Bluetooth & andre enheder**.
-    2. Slå **Bluetooth til eller fra.**
-2. Kør Bluetooth-fejlfinding. <br>
-    Vælg **Start**, Skriv **fejlfinding af indstillinger**, og vælg derefter indstillingen **Foretag fejlfinding af indstillinger** . Vælg **Bluetooth** i menuen, og **Kør fejlfindingen**.
+    1. Vælg **Start**  >  **indstillinger**  >  **Enheder**  >  **Bluetooth & andre enheder**.
+    2. Slå Bluetooth **til/fra-knappen Til**.
+2. Kør Bluetooth-fejlfindingsværktøjet. <br>
+    Vælg **Start**, skriv **fejlfindingsindstillinger**, og vælg derefter **indstillingen Fejlfindingsindstillinger.** Vælg **Bluetooth** i menuen, og **Kør fejlfindingsværktøjet**.
 
-Hvis det ikke virker, kan du prøve at fjerne og geninstallere din Bluetooth-printer:
+Hvis det ikke virker, kan du prøve at fjerne og geninstallere Bluetooth-printeren:
 
-1. Fjern printeren i indstillinger:
-    1. Vælg **Start**  >  **Indstillinger for**  >  **enheder**-  >  **printere & scannere**.
-    2. Under **printere & scannere**skal du vælge den printer, du foretager fejlfinding på. Vælg **Fjern enhed**. Følg vejledningen for at fjerne printeren helt.
-2. Fjern tredjeparts printerproducent software:
-    1. Vælg apps til **Start**  >  **Indstillinger**  >  **Apps**.
-    2. Under **Apps & funktioner**skal du rulle ned for at finde software, der er installeret fra printerens producent (f. eks HP, Canon eller Epson).
+1. Fjern printeren i Indstillinger:
+    1. Vælg **Start**  >  **indstillinger**  >    >  **Enheder, & scannere.**
+    2. Under **Printere & skal du vælge** den printer, du foretager fejlfinding af. Vælg **Fjern enhed**. Følg vejledningen for at fjerne printeren helt.
+2. Fjern tredjepartssoftware fra printerproducenten:
+    1. Vælg **Start Indstillinger**  >    >  **Apps**.
+    2. Under **Apps & skal** du rulle for at finde den software, der er installeret fra producenten af printeren (f.eks. HP, Canon eller Epson).
 3. Sluk og genstart printeren.
    1. Sluk din printer og frakobl dens strømkabel. Vent 30 sekunder. 
    2. Tilslut din printer igen, og tænd den.
-4. Geninstaller printeren under indstillinger:
-    1. Vælg **Start**  >  **Indstillinger for**  >  **enheder**-  >  **printere & scannere**.
+4. Geninstaller printeren i Indstillinger:
+    1. Vælg **Start**  >  **indstillinger**  >    >  **Enheder, & scannere.**
     2. Vælg linket **Tilføj printer eller scanner** øverst på skærmen, og følg vejledningen for at geninstallere printeren.

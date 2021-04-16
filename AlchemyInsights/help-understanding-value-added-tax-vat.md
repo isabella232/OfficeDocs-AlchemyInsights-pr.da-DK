@@ -1,8 +1,8 @@
 ---
-title: Hjælp til merværdiafgift (moms)
+title: Få hjælp til at forstå moms (moms)
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7222f1e9b53504f34f5136c815c1dff8e2d2e7cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705483"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811630"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Hjælp til merværdiafgift (moms)
+# <a name="help-understanding-value-added-tax-vat"></a>Få hjælp til at forstå moms (moms)
 
-Hvis du befinder dig i et land, der bruger moms (moms), som er det Forenede Kongerige, beregner Microsoft fakturerer momsen for dig og anvender beløbet på dine fakturaer.
+Hvis du er i et land, der anvender moms (moms), f.eks. Storbritannien, beregner Microsoft Invoicing momsen for dig og anvender beløbet på dine fakturaer.
   
-Af afgifts årsager skal du også angive det CVR-nummer, der er angivet i indstillingerne for fakturering.
+Af momsgrunde skal du også angive dit momsregistreringsnummer i indstillingerne for Invoicing.
   
-Du kan ikke tilføje eller fjerne momssatser, men du kan ændre standardmomssatsen i indstillinger. Fakturering bruger som standard en service til at validere momsregistreringsnumre, men vi anbefaler, at du læser [ansvarsfraskrivelse](https://go.microsoft.com/fwlink/?LinkID=841741) , der offentliggøres af Europa-Kommissionen. Hvis du vælger at deaktivere tjenesten, skal du bekræfte alle momsregistrerings numre.
+Du kan ikke tilføje eller fjerne momssatser, men du kan ændre standardmomssatsen under Indstillinger. Som standard bruger Invoicing en tjeneste til at validere momsregistreringsnumrene, men vi anbefaler, at du læser VIES-ansvarsfraskrivelsen udgivet af EU-provision. [](https://go.microsoft.com/fwlink/?LinkID=841741) Hvis du vælger at deaktivere tjenesten, skal du bekræfte alle momsregistreringsnumrene.
