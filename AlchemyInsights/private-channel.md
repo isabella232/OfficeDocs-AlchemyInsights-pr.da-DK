@@ -2,7 +2,7 @@
 title: Privat kanal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801799"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790398"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Private kanaler i Microsoft teams
+# <a name="private-channels-in-microsoft-teams"></a>Private kanaler i Microsoft Teams
 
-Private kanaler i Microsoft teams opretter fokuserede områder til samarbejde inden for dine teams. Kun de brugere på teamet, der er ejere eller medlemmer af den private kanal, kan få adgang til kanalen. Alle, herunder gæster, kan tilføjes som medlemmer af en privat kanal, så længe de allerede er medlemmer af teamet.
+Private kanaler i Microsoft Teams skaber fokuserede områder til samarbejde i dine teams. Kun de brugere på teamet, der er ejere eller medlemmer af den private kanal, kan få adgang til kanalen. Alle, herunder gæster, kan tilføjes som medlemmer af en privat kanal, så længe de allerede er medlemmer af teamet.
 
-Hvis du vil have mere at vide, skal du starte med [private kanaler i Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Dette omfatter oplysninger som [oprettelse af private kanaler og medlemskaber](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) og [private kanalers SharePoint-websteder](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+Hvis du vil have mere at vide, skal [du starte med Private kanaler i Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Dette omfatter oplysninger som oprettelse [af private kanaler og medlemskab og](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [SharePoint-websteder for privat kanal](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-**Har du brug for en ny team ejer?**
+**Har du brug for en ny teamejer?**
 
-Hvis din private kanal ejer forlader din organisation eller er blevet fjernet fra gruppen, bliver et medlem af den private kanal automatisk fremmet for at være ejeren af den private kanal.
+Hvis ejeren af din private kanal forlader din organisation eller fjernes fra gruppen, forfremmes et medlem af den private kanal automatisk til at være ejer af den private kanal.
 
-Administratorer kan også se [administrere livscyklussen for private kanaler i Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) for at få mere at vide om politikker til at administrere, hvem der kan oprette private kanaler, samt hvordan du kan opbygge forespørgsler til eDiscovery eller juridiske ventepositioner.
+Administratorer kan også se Administrer livscyklussen for private kanaler i [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) for at få mere at vide om politikker for at administrere, hvem der kan oprette private kanaler, samt måder at hjælpe med at opbygge forespørgsler til eDiscovery eller juridiske fasthold.
