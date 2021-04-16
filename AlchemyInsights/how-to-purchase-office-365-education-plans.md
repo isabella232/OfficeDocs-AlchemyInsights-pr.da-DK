@@ -2,7 +2,7 @@
 title: Sådan køber du Office 365 Education-planer
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,25 +15,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 7199f8321d68ad9641dda265adba804216dede92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8546be7dc2ab569fe0beb3150ead687d3a96c83a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703330"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810730"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="78611-102">Sådan køber du Office 365 Education-planer</span><span class="sxs-lookup"><span data-stu-id="78611-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="d5708-102">Sådan køber du Office 365 Education-planer</span><span class="sxs-lookup"><span data-stu-id="d5708-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="78611-103">Du er blevet godkendt til Office 365 Education.</span><span class="sxs-lookup"><span data-stu-id="78611-103">You have been approved for Office 365 Education.</span></span>  <span data-ttu-id="78611-104">Sådan køber du:</span><span class="sxs-lookup"><span data-stu-id="78611-104">To purchase:</span></span>
+<span data-ttu-id="d5708-103">Du er blevet godkendt til Office 365 Education.</span><span class="sxs-lookup"><span data-stu-id="d5708-103">You have been approved for Office 365 Education.</span></span>  <span data-ttu-id="d5708-104">Sådan køber du:</span><span class="sxs-lookup"><span data-stu-id="d5708-104">To purchase:</span></span>
 
-1. <span data-ttu-id="78611-105">Gå til **[Fakturering > Købstjenester](https://portal.office.com/AdminPortal/Home#/catalog)**.</span><span class="sxs-lookup"><span data-stu-id="78611-105">Navigate to **[Billing > Purchase Services](https://portal.office.com/AdminPortal/Home#/catalog)**.</span></span>
+1. <span data-ttu-id="d5708-105">Gå til **[Fakturering > Købstjenester](https://portal.office.com/AdminPortal/Home#/catalog)**.</span><span class="sxs-lookup"><span data-stu-id="d5708-105">Navigate to **[Billing > Purchase Services](https://portal.office.com/AdminPortal/Home#/catalog)**.</span></span>
 
-2. <span data-ttu-id="78611-106">Vælg fra listen under **Education-planer**.</span><span class="sxs-lookup"><span data-stu-id="78611-106">Choose from the list under **Education Plans**.</span></span>
+2. <span data-ttu-id="d5708-106">Vælg fra listen under **Education-planer**.</span><span class="sxs-lookup"><span data-stu-id="d5708-106">Choose from the list under **Education Plans**.</span></span>
 
-3. <span data-ttu-id="78611-107">Hold markøren over det abonnement, du vil købe, og klik derefter på **Køb nu**.</span><span class="sxs-lookup"><span data-stu-id="78611-107">Hover over the subscription you would like to purchase and click **Buy Now**.</span></span>
+3. <span data-ttu-id="d5708-107">Hold markøren over det abonnement, du vil købe, og klik derefter på **Køb nu**.</span><span class="sxs-lookup"><span data-stu-id="d5708-107">Hover over the subscription you would like to purchase and click **Buy Now**.</span></span>
 
-<span data-ttu-id="78611-108">**Fjernundervisning og -læring**</span><span class="sxs-lookup"><span data-stu-id="78611-108">**Remote teaching and learning**</span></span>
+<span data-ttu-id="d5708-108">**Fjernundervisning og -læring**</span><span class="sxs-lookup"><span data-stu-id="d5708-108">**Remote teaching and learning**</span></span>
 
-- <span data-ttu-id="78611-109">Se [Fjernundervisning og læring i Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) for at se den mest opdaterede vejledning i, hvordan du konfigurerer din skole, planlægning af lektioner, virtuelle møder og deling af indhold med studerende.</span><span class="sxs-lookup"><span data-stu-id="78611-109">Please see [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up to date guidance on setting up your school lesson planning, meeting virtually and sharing content with students.</span></span>
+- <span data-ttu-id="d5708-109">Se [Fjernundervisning og læring i Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) for at se den mest opdaterede vejledning i, hvordan du konfigurerer din skole, planlægning af lektioner, virtuelle møder og deling af indhold med studerende.</span><span class="sxs-lookup"><span data-stu-id="d5708-109">Please see [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up to date guidance on setting up your school lesson planning, meeting virtually and sharing content with students.</span></span>
 
-- <span data-ttu-id="78611-110">Der er en yderligere it-vejledning under [Introduktion til Microsoft Teams til fjernlæring](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) og [Gennemførelse af overgangen til fjernlæring](https://www.microsoft.com/education/remote-learning).</span><span class="sxs-lookup"><span data-stu-id="78611-110">There is additional IT guidance in [Get started with Microsoft Teams for remote learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>
+- <span data-ttu-id="d5708-110">Der er en yderligere it-vejledning under [Introduktion til Microsoft Teams til fjernlæring](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) og [Gennemførelse af overgangen til fjernlæring](https://www.microsoft.com/education/remote-learning).</span><span class="sxs-lookup"><span data-stu-id="d5708-110">There is additional IT guidance in [Get started with Microsoft Teams for remote learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>
