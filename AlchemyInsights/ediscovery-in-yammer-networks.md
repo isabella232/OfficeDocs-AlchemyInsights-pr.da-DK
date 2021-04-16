@@ -1,8 +1,8 @@
 ---
-title: eDiscovery i Yammer-netværk
+title: eDiscovery i Yammer Networks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710910"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814474"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery i Yammer-netværk
+# <a name="ediscovery-in-yammer-networks"></a>eDiscovery i Yammer Networks
 
-Du kan nu udføre eDiscovery-søgninger for Yammer-indhold.  Hvis du udfører eDiscovery-søgninger eller eksporterer på Yammer-indhold, skal du gøre følgende:
+Du kan nu udføre eDiscovery-søgninger efter Yammer indhold.  Udførelse af eDiscovery-søgninger eller eksport på Yammer indhold kræver følgende:
 
-1. Du skal først overføre dit Yammer Enterprise-netværk til oprindelig tilstand for at få dine Yammer-meddelelser og filer synlige. **Bemærk: Hvis du er ny kunde frem til Jan. 9.2020, og dit Yammer-netværk er allerede i oprindelig tilstand, og dine data er nu synlige med eDiscovery**.
+1. Du skal først overføre dit Yammer Enterprise-netværk til oprindelig tilstand for at gøre dine Yammer meddelelser og filer synlige. Bemærk! Hvis du er ny kunde **pr. 9. januar 2020,** og dit Yammer-netværk allerede er i indbygget tilstand, er dine data nu tilgængelige med eDiscovery.
 
-2. For at forlade kunder vil eDiscovery for Yammer være tilgængelig, når værktøjet til justering af original tilstand er frigivet, og overførslen af den oprindelige tilstand er gennemført for Yammer i lejeren.
+2. For kunder, der forlader os, vil eDiscovery til Yammer være tilgængelig, når værktøjet Justering i oprindelig tilstand frigives, og overførslen i oprindelig tilstand fuldføres for Yammer i lejeren.
 
-Få mere at vide om:
+Du kan finde flere oplysninger om:
 
-- Oprindelig tilstand i Yammer skal du se: [Oversigt over oprindelig tilstand](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery i Yammer-netværk skal du se: [Oversigt over eDiscovery i yammer-netværk](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery i Microsoft 365, se [eDiscovery i microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Native Mode in Yammer, se: [Oversigt over oprindelig tilstand](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- eDiscovery i Yammer Networks skal du se: [Oversigt over eDiscovery i Yammer-netværk.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- eDiscovery i Microsoft 365, se [eDiscovery i Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

@@ -1,8 +1,8 @@
 ---
-title: Angive IMAP-portnumre
+title: Angiv IMAP-portnumre
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709433"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813826"
 ---
-# <a name="enter-imap-port-numbers"></a>Angive IMAP-portnumre
+# <a name="enter-imap-port-numbers"></a>Angiv IMAP-portnumre
 
-Log på via skærmbilledet forudindstillinger for forudindstillinger, og Tilføj dine portindstillinger bag et kolon på linje med dine indgående og udgående serveradresser. Du kan få disse oplysninger fra din mailtjeneste udbyder. 
+Log på via skærmen for avanceret konfiguration, og tilføj dine portoplysninger bag et kolon på linje med dine indgående og udgående serveradresser. (Du kan få disse oplysninger fra din serviceudbyder.) 
 
-Gå til **Indstillinger**  >  **Tilføj konto**  >  **IMAP** > og klik på **Vis avancerede indstillinger**, og angiv derefter dine oplysninger. 
+Gå til **Indstillinger**  >  **Tilføj**  >  **konto-IMAP->** klik på **Vis avancerede indstillinger**, og angiv derefter dine oplysninger. 
 
-*Server til indgående post*: IMAP.servername.com:000 (sædvanligvis 993 eller 143) 
+*Server til indgående* post: imap.servername.com:000 (normalt 993 eller 143) 
 
-*Server til udgående post*: SMTP.servername.com:000 (sædvanligvis 465 eller 25) 
+*Server til udgående* post: smtp.servername.com:000 (normalt 465 eller 25) 
 
-Vær opmærksom på, at kolonet er vigtigt. 
+Husk, at kolonet er vigtigt. 

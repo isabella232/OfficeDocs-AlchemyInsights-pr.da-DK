@@ -1,8 +1,8 @@
 ---
-title: Aktivér Send med det samme, når du har forbindelse
+title: Aktivér Send med det samme, når forbindelsen er oprettet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709577"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813970"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Aktivér Send med det samme, når du har forbindelse
+# <a name="enable-send-immediately-when-connected"></a>Aktivér Send med det samme, når forbindelsen er oprettet
  
-1. Klik på **Indstillinger**under fanen filer.
+1. På fanen Filer skal du klikke på **Indstillinger**.
 
-2. Klik på **Avanceret**i dialogboksen Indstillinger for Outlook.
+2. Klik på Avanceret i dialogboksen **Indstillinger** for Outlook.
 
-3. I afsnittet Send og modtag skal du klikke for at aktivere **Send med det samme, når du har forbindelse**. Klik på **OK**.
+3. I sektionen Send og modtag skal du klikke for at aktivere **Send straks, når der er oprettet forbindelse**. Klik på **OK**.
 
-Du kan få mere at vide under:
-- [Video: sende eller slette en fast mail](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Mail forbliver i mappen Udbakke, indtil du manuelt starter en Send/modtag-handling i Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Du kan finde flere oplysninger i:
+- [Video: Sende eller slette en fastlåst mail](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [Mails forbliver i udbakkemappen, indtil du manuelt starter en send/modtag-handling i Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

@@ -1,8 +1,8 @@
 ---
-title: Aktivér Microsoft teams
+title: Aktivér Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -16,15 +16,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: b29db4001f0e60bf714a856d80bb1eca19db3d93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b638f12ca90edba3150c6e75d9653cf507e37af
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710009"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814078"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>Aktivere og bruge Microsoft teams
+# <a name="enable-and-use-microsoft-teams"></a>Aktivér og brug Microsoft Teams
 
-Hvis du slet ikke har adgang til Microsoft teams, skal du se [Hvordan får jeg adgang til Microsoft teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+Hvis du slet ikke har adgang til Microsoft Teams, kan du se [Hvordan får jeg adgang til Microsoft Teams.](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
 
-Hvis du allerede har Microsoft teams og har brug for at vide, hvordan du konfigurerer og administrerer det, skal du se [administrere indstillinger for Microsoft teams for din organisation](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).
+Hvis du allerede har Microsoft Teams og vil vide, hvordan du konfigurerer og administrerer det, skal du [se Administrer indstillinger for Microsoft Teams for din organisation.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)

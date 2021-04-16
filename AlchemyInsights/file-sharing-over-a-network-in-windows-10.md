@@ -2,7 +2,7 @@
 title: Fildeling via et netværk i Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745385"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813142"
 ---
 # <a name="file-sharing-over-a-network-in-windows-10"></a>Fildeling via et netværk i Windows 10
 
-**Bemærk**! hvis du tidligere har brugt Hjemmegruppe til fildeling, skal du være opmærksom på, at hjemmegruppen er blevet fjernet fra Windows 10 (version 1803). Du kan nu dele printere og filer ved hjælp af indbyggede funktioner i Windows 10.
+**Bemærk!** Hvis du tidligere har brugt Hjemmegruppe til fildeling, skal du være opmærksom på, at Hjemmegruppe er blevet fjernet fra Windows 10 (version 1803). Du kan nu dele printere og filer ved hjælp af indbyggede funktioner i Windows 10.
 
 **Sådan deler du filer eller mapper via et netværk**
 
-- I **Stifinder**skal du vælge en fil > klikke på fanen **del** øverst > i sektionen **del med** , klik på **bestemte personer**.
+- I **Stifinder** skal du vælge en  > klikke på fanen Del øverst > sektionen Del med **og** klikke på Bestemte **personer**.
 
-    ![Dele en fil med bestemte personer.](media/share-with-specific-people.png)
+    ![Del en fil med bestemte personer.](media/share-with-specific-people.png)
           
 - Hvis du markerer flere filer på én gang, kan du dele dem alle på samme måde. Det fungerer også for mapper.
 
-**Sådan får du vist enheder på det netværk, der deler filer**
+**Sådan får du vist enheder på netværket, der deler filer**
 
-- I **Stifinder**skal du gå til **netværk**. Hvis netværksregistrering ikke er aktiveret, får du vist en fejlmeddelelse om, at netværksgenkendelse er slået fra... "
+- I **Stifinder** skal du gå til **Netværk**. Hvis Netværksregistrering ikke er aktiveret, får du vist fejlmeddelelsen "Netværksregistrering er slået fra..."
 
-- Klik på **netværksgenkendelse er slået fra** , og klik derefter på **Slå netværksregistrering og fildeling til**.
+- Klik på **banneret Netværksregistrering er slået fra,** og klik derefter **på Slå netværksregistrering og fildeling til.**
 
     ![Slå netværksregistrering og fildeling til.](media/turn-on-network-discovery.png)
 

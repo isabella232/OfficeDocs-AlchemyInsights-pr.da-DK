@@ -1,8 +1,8 @@
 ---
-title: Eksportere brugerkontooplysninger
+title: Eksportere oplysninger om brugerkonto
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 0a1978610d1293cd1de3bae114594cb5ef7865e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c50f10adb47827428002db36371a7c2370b201f9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708857"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813358"
 ---
-# <a name="export-user-account-information"></a>Eksportere brugerkontooplysninger
+# <a name="export-user-account-information"></a>Eksportere oplysninger om brugerkonto
 
-Hvis du vil eksportere brugerkontooplysninger i Microsoft 365 administration, herunder oplysninger om licenser, adgangskodepolitik, blokerede konti, Aad-synkroniseringsstatus og meget mere, skal du gå til siden **brugere**  >  [aktive brugere](https://go.microsoft.com/fwlink/p/?linkid=834822) og derefter vælge **Eksportér brugere**.
+Hvis du vil eksportere oplysninger om brugerkonti i Microsoft 365 Administration, herunder oplysninger om licenser, adgangskodepolitik, blokerede konti, AAD-synkroniseringsstatus og meget mere, skal du gå til siden Aktive brugere for brugere og derefter vælge   >  [](https://go.microsoft.com/fwlink/p/?linkid=834822) **Eksportér brugere**.

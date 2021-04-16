@@ -1,8 +1,8 @@
 ---
-title: Hent rapporter om deltagelse i teams
+title: Download fremmøderapporter i Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: cf2f1852112fa28d209e2929bda23318e9b545af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f52c57e7ec09a0c52dfbc1e3c63fab80c97e9ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712106"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814691"
 ---
-# <a name="download-attendance-reports-in-teams"></a>Hent rapporter om deltagelse i teams
+# <a name="download-attendance-reports-in-teams"></a>Download fremmøderapporter i Teams
 
-Mødearrangører kan downloade fremmøde rapporter under møder. Som administrator kan du kontrollere, om mødearrangører kan downloade møde fremmøde rapporter ved at angive en team politik for teams. Muligheden for at downloade rapporten er som standard deaktiveret. Du kan se, hvordan du aktiverer denne funktion, under  [Indstillinger for møde politik – rapport om mødedeltagelse](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
+Mødearrangører kan hente fremmøderapporter under møder. Som administrator styrer du, om mødearrangører kan hente rapporter om fremmøde ved at angive en politik for Teams-møder. Muligheden for at hente rapporten er som standard slået fra. Du kan finde en vejledning til, hvordan du aktiverer denne funktion, under  [Indstillinger for mødepolitik – Rapport over mødedeltagelse](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
 
-Når dette er aktiveret under mødet, kan mødearrangører vælge  **Vis deltagere**  og vælge  **Hent deltagerliste**. Hvis du vil have mere at vide, skal du se [download fremmøde rapporter i teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) og [Microsoft teams-møde fremmøde](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)rapporter.
+Når dette er aktiveret, kan mødearrangører under mødet vælge  **Vis deltagere og**  vælge Download  **deltagerliste**. Du kan finde flere oplysninger i [Download fremmøderapporter i Teams og](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) Microsoft [Teams-mødedeltagelsesrapport](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).
 
-**Vigtigt**! du kan kun downloade en fremmøde rapport, mens mødet er i gang, og der stadig er deltagere.
+**Vigtigt!** Du kan kun hente fremmøderapporten, mens mødet er i gang, og deltagerne er stadig til stede.

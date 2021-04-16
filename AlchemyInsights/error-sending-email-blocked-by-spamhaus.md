@@ -1,8 +1,8 @@
 ---
-title: Fejl under afsendelse af mail, der er blokeret af spam Haus
+title: Fejl under afsendelse af mails blokeret af SpamHaus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: a0c2f4be0b2d8ba6fd3dadbdf306e6ce623ad380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b5ac1df0b6a07a475345235a8b4b555d6881147
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783797"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813718"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Fejl ved afsendelse af mail: klient vært blokeret ved hjælp af spam Haus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Fejl under afsendelse af mail: Klientvært blokeret ved hjælp af Spamhaus
 
-Den IP-adresse, der sendte meddelelsen, er på en blokliste, der ejes af [spam Haus](https://go.microsoft.com/fwlink/p/?linkid=123245). Grunde til at blive blokeret af spam Haus omfatter skadede konti, kompromitterede maskiner, der deler en offentlig IP-adresse og en internetudbyder (ISP)-politikker. Mulige rettelser:
+IP-adressen, der sendte meddelelsen, er på en liste over blokerede afsendere, der ejes [af Spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245) Grunde til at blive blokeret af Spamhaus omfatter kompromitterede konti, kompromitterede computere, deling af en offentlig IP-adresse og politikker for internetudbydere. De mulige rettelser er:
   
-- For blokerede indgående meddelelser, hvor du styrer kilde mailserveren, skal du finde årsagen og fjerne blokken fra spam Haus websted.
+- For blokerede indgående meddelelser, hvor du styrer kildemailserveren, skal du bestemme årsagen og fjerne blokeringen fra Spamhaus-webstedet.
 
-- For blokerede indgående meddelelser, hvor kildens IP-adresse tilhører en anden, skal adresse ejeren fjerne blokken fra spam Haus websted. Hvis IP-adressen er på listen politik blok (PBL), kan ejeren tildele en anden statisk IP-adresse eller fjerne adressen fra PBL.
+- For blokerede indgående meddelelser, hvor kilde-IP-adressen tilhører en anden, skal adressens ejer fjerne blokeringen fra Spamhaus-webstedet. Hvis IP-adressen er på listen over blokerede politikker (Policy Block List – PBL), kan ejeren tildele en anden statisk IP-adresse eller fjerne adressen fra PBL.
 
-- For blokerede udgående meddelelser fra dit domæne, der er knyttet til Microsoft, kan du få denne fejl, hvis meddelelserne sendes via en tredjepartstjeneste. Du kan bruge et WHOIS-opslagsværktøj til at finde den blokerede IP-adresse ejer.
+- For blokerede udgående meddelelser fra dit domæne, der er forbundet til Microsoft, kan du få vist denne fejl, hvis meddelelserne sendes via en tredjepartstjeneste. Du kan bruge et WHOIS-opslagsværktøj til at finde ejeren af den blokerede IP-adresse.
