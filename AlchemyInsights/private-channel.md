@@ -2,7 +2,7 @@
 title: Privat kanal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801799"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790398"
 ---
-# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="a4613-102">Private kanaler i Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="a4613-102">Private channels in Microsoft Teams</span></span>
+# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="8a9df-102">Private kanaler i Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="8a9df-102">Private channels in Microsoft Teams</span></span>
 
-<span data-ttu-id="a4613-103">Private kanaler i Microsoft teams opretter fokuserede områder til samarbejde inden for dine teams.</span><span class="sxs-lookup"><span data-stu-id="a4613-103">Private channels in Microsoft Teams create focused spaces for collaboration within your teams.</span></span> <span data-ttu-id="a4613-104">Kun de brugere på teamet, der er ejere eller medlemmer af den private kanal, kan få adgang til kanalen.</span><span class="sxs-lookup"><span data-stu-id="a4613-104">Only the users on the team who are owners or members of the private channel can access the channel.</span></span> <span data-ttu-id="a4613-105">Alle, herunder gæster, kan tilføjes som medlemmer af en privat kanal, så længe de allerede er medlemmer af teamet.</span><span class="sxs-lookup"><span data-stu-id="a4613-105">Anyone, including guests, can be added as a member of a private channel as long as they are already members of the team.</span></span>
+<span data-ttu-id="8a9df-103">Private kanaler i Microsoft Teams skaber fokuserede områder til samarbejde i dine teams.</span><span class="sxs-lookup"><span data-stu-id="8a9df-103">Private channels in Microsoft Teams create focused spaces for collaboration within your teams.</span></span> <span data-ttu-id="8a9df-104">Kun de brugere på teamet, der er ejere eller medlemmer af den private kanal, kan få adgang til kanalen.</span><span class="sxs-lookup"><span data-stu-id="8a9df-104">Only the users on the team who are owners or members of the private channel can access the channel.</span></span> <span data-ttu-id="8a9df-105">Alle, herunder gæster, kan tilføjes som medlemmer af en privat kanal, så længe de allerede er medlemmer af teamet.</span><span class="sxs-lookup"><span data-stu-id="8a9df-105">Anyone, including guests, can be added as a member of a private channel as long as they are already members of the team.</span></span>
 
-<span data-ttu-id="a4613-106">Hvis du vil have mere at vide, skal du starte med [private kanaler i Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span><span class="sxs-lookup"><span data-stu-id="a4613-106">To learn more, start with [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> <span data-ttu-id="a4613-107">Dette omfatter oplysninger som [oprettelse af private kanaler og medlemskaber](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) og [private kanalers SharePoint-websteder](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span><span class="sxs-lookup"><span data-stu-id="a4613-107">This includes information such as [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span></span>
+<span data-ttu-id="8a9df-106">Hvis du vil have mere at vide, skal [du starte med Private kanaler i Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels)</span><span class="sxs-lookup"><span data-stu-id="8a9df-106">To learn more, start with [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> <span data-ttu-id="8a9df-107">Dette omfatter oplysninger som oprettelse [af private kanaler og medlemskab og](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [SharePoint-websteder for privat kanal](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span><span class="sxs-lookup"><span data-stu-id="8a9df-107">This includes information such as [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span></span>
 
-<span data-ttu-id="a4613-108">**Har du brug for en ny team ejer?**</span><span class="sxs-lookup"><span data-stu-id="a4613-108">**Need a new team owner?**</span></span>
+<span data-ttu-id="8a9df-108">**Har du brug for en ny teamejer?**</span><span class="sxs-lookup"><span data-stu-id="8a9df-108">**Need a new team owner?**</span></span>
 
-<span data-ttu-id="a4613-109">Hvis din private kanal ejer forlader din organisation eller er blevet fjernet fra gruppen, bliver et medlem af den private kanal automatisk fremmet for at være ejeren af den private kanal.</span><span class="sxs-lookup"><span data-stu-id="a4613-109">If your private channel owner leaves your organization or is removed from the group, a member of the private channel is automatically promoted to be the private channel owner.</span></span>
+<span data-ttu-id="8a9df-109">Hvis ejeren af din private kanal forlader din organisation eller fjernes fra gruppen, forfremmes et medlem af den private kanal automatisk til at være ejer af den private kanal.</span><span class="sxs-lookup"><span data-stu-id="8a9df-109">If your private channel owner leaves your organization or is removed from the group, a member of the private channel is automatically promoted to be the private channel owner.</span></span>
 
-<span data-ttu-id="a4613-110">Administratorer kan også se [administrere livscyklussen for private kanaler i Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) for at få mere at vide om politikker til at administrere, hvem der kan oprette private kanaler, samt hvordan du kan opbygge forespørgsler til eDiscovery eller juridiske ventepositioner.</span><span class="sxs-lookup"><span data-stu-id="a4613-110">Admins can also see [Manage the life cycle of private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) to learn more about policies to manage who can create private channels, as well as ways to help build queries for eDiscovery or legal holds.</span></span>
+<span data-ttu-id="8a9df-110">Administratorer kan også se Administrer livscyklussen for private kanaler i [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) for at få mere at vide om politikker for at administrere, hvem der kan oprette private kanaler, samt måder at hjælpe med at opbygge forespørgsler til eDiscovery eller juridiske fasthold.</span><span class="sxs-lookup"><span data-stu-id="8a9df-110">Admins can also see [Manage the life cycle of private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) to learn more about policies to manage who can create private channels, as well as ways to help build queries for eDiscovery or legal holds.</span></span>
