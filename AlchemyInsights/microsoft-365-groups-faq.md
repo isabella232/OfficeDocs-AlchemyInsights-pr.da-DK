@@ -2,7 +2,7 @@
 title: Ofte stillede spørgsmål om Microsoft 365-grupper
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: 2000616a1be6e0a38f791cc09b36dff6e79e6fc0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b116957864ea1ff7d09850df56177f765fe12cff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742882"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794538"
 ---
-# <a name="microsoft-365-groups-faq"></a><span data-ttu-id="b2beb-102">Ofte stillede spørgsmål om Microsoft 365-grupper</span><span class="sxs-lookup"><span data-stu-id="b2beb-102">Microsoft 365 Groups FAQ</span></span>
+# <a name="microsoft-365-groups-faq"></a><span data-ttu-id="e2073-102">Ofte stillede spørgsmål om Microsoft 365-grupper</span><span class="sxs-lookup"><span data-stu-id="e2073-102">Microsoft 365 Groups FAQ</span></span>
 
-<span data-ttu-id="b2beb-103">Markér **[Microsoft 365-gruppe ofte stillede spørgsmål](https://aka.ms/M365GroupsFAQ)** for at få de bedste administratoropgaver i forbindelse med Microsoft 365-grupper.</span><span class="sxs-lookup"><span data-stu-id="b2beb-103">Please check **[Microsoft 365 Group FAQ](https://aka.ms/M365GroupsFAQ)** for top admin tasks related to Microsoft 365 Groups.</span></span>
+<span data-ttu-id="e2073-103">Se Ofte stillede **[spørgsmål om Microsoft 365-gruppe](https://aka.ms/M365GroupsFAQ)** for at se de vigtigste administratoropgaver, der er relateret til Microsoft 365-grupper.</span><span class="sxs-lookup"><span data-stu-id="e2073-103">Please check **[Microsoft 365 Group FAQ](https://aka.ms/M365GroupsFAQ)** for top admin tasks related to Microsoft 365 Groups.</span></span>
 
-- <span data-ttu-id="b2beb-104">Problemer med mail flow</span><span class="sxs-lookup"><span data-stu-id="b2beb-104">Mail flow issues</span></span>
-- <span data-ttu-id="b2beb-105">Administration af mailadresse</span><span class="sxs-lookup"><span data-stu-id="b2beb-105">Email address management</span></span>
-- <span data-ttu-id="b2beb-106">Scripts til eksport af gruppemedlems oplysninger</span><span class="sxs-lookup"><span data-stu-id="b2beb-106">Scripts to export group member information</span></span>
-- <span data-ttu-id="b2beb-107">Send-som og anden delegering</span><span class="sxs-lookup"><span data-stu-id="b2beb-107">Send-As and other delegation</span></span>
-- <span data-ttu-id="b2beb-108">Grupper, der ikke vises/er tilgængelige fra Outlook-klient</span><span class="sxs-lookup"><span data-stu-id="b2beb-108">Groups not showing/accessible from Outlook client</span></span>
+- <span data-ttu-id="e2073-104">Problemer med mailflow</span><span class="sxs-lookup"><span data-stu-id="e2073-104">Mail flow issues</span></span>
+- <span data-ttu-id="e2073-105">Administration af mailadresser</span><span class="sxs-lookup"><span data-stu-id="e2073-105">Email address management</span></span>
+- <span data-ttu-id="e2073-106">Scripts til at eksportere oplysninger om gruppemedlem</span><span class="sxs-lookup"><span data-stu-id="e2073-106">Scripts to export group member information</span></span>
+- <span data-ttu-id="e2073-107">Send-As og anden delegering</span><span class="sxs-lookup"><span data-stu-id="e2073-107">Send-As and other delegation</span></span>
+- <span data-ttu-id="e2073-108">Grupper, der ikke vises/er tilgængelige fra Outlook-klienten</span><span class="sxs-lookup"><span data-stu-id="e2073-108">Groups not showing/accessible from Outlook client</span></span>
