@@ -1,8 +1,8 @@
 ---
-title: Hvorfor softwareopdateringer installeres ikke?
+title: Hvorfor softwareopdateringerne ikke bliver installeret?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461754"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805680"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a>Hvorfor softwareopdateringer installeres ikke?
+# <a name="why-software-updates-are-not-being-deployed"></a>Hvorfor softwareopdateringerne ikke bliver installeret?
 
-Se følgende, hvis du har konfigureret softwareopdateringer via en Windows 10-opdaterings ring, men opdateringerne installeres ikke:  
+Gennemgå følgende, hvis du har konfigureret softwareopdateringer via en Windows 10-opdateringscirkel, men opdateringerne ikke installeres:  
 
-- Overvej at ændre Windows-behandling fra en  **halvårlig kanal**  versionstype til en strengere, hyppige versionstype  
-- Kontrollér afkrydsnings perioden for opdatering af  **kvalitet**  og  **funktionsopdatering**. Afleverings perioden kan føre til forsinkelse i opdateringer i op til 180 dage.
+- Overvej at ændre Windows-servicering fra udgivelsestypen  **Halvårlig kanal**  til en strengere, mere hyppigt forekommende udgivelsestype  
+- Kontrollér udsættelsesperioden for  **Kvalitetsopdatering**  og  **Funktionsopdatering**. Udsættelsesperioden kan føre til forsinkelse i opdateringer i op til 180 dage.

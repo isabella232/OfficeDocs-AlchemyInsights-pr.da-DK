@@ -1,8 +1,8 @@
 ---
-title: Få vist dine brugeres Microsoft 365-apps aktivitet
+title: Få vist dine brugeres Microsoft 365-appsaktivitet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664632"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806616"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a>Få vist dine brugeres Microsoft 365-apps aktivitet
+# <a name="view-your-users-microsoft-365-apps-activity"></a>Få vist dine brugeres Microsoft 365-appsaktivitet
 
-[Office-aktiverings rapporten](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) giver dig en oversigt over, hvilke brugere der har installeret og aktiveret deres Microsoft 365-apps på mindst én enhed.
+[Office-aktiveringsrapporten](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) giver dig en visning af hvilke af brugerne, der har installeret og aktiveret deres Microsoft 365-apps på mindst én enhed.
 
-Derudover kan du få en visning i dine brugeres Microsoft 365-apps aktivitet ved hjælp af [microsoft 365](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)-bruger rapporten.
+Desuden kan du få et indblik i dine brugeres aktivitet for Microsoft 365-apps ved hjælp af anvendelsesrapporten [for Microsoft 365-apps.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)

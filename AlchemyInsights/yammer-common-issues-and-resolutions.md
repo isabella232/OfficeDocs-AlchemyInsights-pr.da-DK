@@ -2,7 +2,7 @@
 title: Almindelige problemer og løsninger i Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: 4ecd8b34830f53670145068398f28d16e820efd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d4856271c7cdb4993dce90bdee7086e440b72ac9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657558"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805464"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Almindelige problemer og løsninger i Yammer
 
@@ -29,7 +29,7 @@ Her er nogle af de mest forespurgte emner for Yammer:
 
 - **Live-begivenheder**: Bring dit community sammen med en [Live-begivenhed](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events). Få [ekstra hjælp og vejledning](https://resources.techcommunity.microsoft.com/live-events/assistance/) for at sikre en vellykket begivenhed. 
 
-- **eDiscovery**: Kør[Justeringsværktøjet til oprindelig tilstand](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) for at forberede til [eDiscovery i Yammer-netværk](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery). 
+- **eDiscovery**: Kør [Justeringsværktøjet til oprindelig tilstand](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) for at forberede til [eDiscovery i Yammer-netværk](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery). 
 
 - **Overholdelse**: Konfigurer en [brugspolitik](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy) for brugere, [eksportér Yammer-data](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data), forstå [hvordan du skal håndtere GDPR-forespørgsler](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) for Yammer, og [find ud af, hvor Yammer-data hostes](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency). Slå Yammer-adgang [fra](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access), hvis det er påkrævet.
 
