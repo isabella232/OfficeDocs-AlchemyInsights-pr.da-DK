@@ -1,8 +1,8 @@
 ---
-title: Projekt til en PC
+title: Projicer til en pc
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: e527feec0b695b3e966ed627ca23cb1fc8f2fd34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801610"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809938"
 ---
-# <a name="project-to-a-pc"></a>Projekt til en PC
+# <a name="project-to-a-pc"></a>Projicer til en pc
 
-På din destinationsenhed (projektering) skal du søge efter "projektions indstillinger" for at åbne siden med indstillinger for at **projicere til denne pc**. Kontrollér derefter, at:
-- "Nogle Windows-og Android-enheder kan projicere til denne PC, når du siger, at rullemenuen" er indstillet til altid at være **slået fra**.
-- Rullemenuen "Spørg efter projekt til denne PC" er indstillet til **hver gang, der kræves en forbindelse**.
-- Rullemenuen "Kræv pinkode til parring" er indstillet til **aldrig**.
+På din destinationsenhed (projicering til) skal du søge efter "Projektion-indstillinger" for at åbne siden Indstillinger **for Projicering til denne pc.** Sørg derefter for, at:
+- "Nogle Windows- og Android-enheder kan projicer til denne pc, når du siger, at det er OK"-rullemenuen er indstillet til **Altid slået fra**.
+- Rullemenuen "Bed om at projice til denne pc" er indstillet **til Hver gang der kræves en forbindelse.**
+- Rullemenuen "Kræv pinkode til parring" er indstillet til **Aldrig.**
 
-På din destinationsenhed skal du starte **Connect** -appen ved at gå til **Start** og søge efter "Opret forbindelse".
+På destinationsenheden skal du starte **Forbind-appen** ved at gå **til Start** og søge efter "Opret forbindelse".
 
-Derefter skal du på din kildeenhed, du forsøger at projicere fra:
+Derefter skal du på din kildeenhed, du forsøger at projice fra:
 
-1. Tryk på **Windows-tasten + A** for at åbne løsnings Center.
-2. Klik på **Opret forbindelse**.
-3. Klik på den enhed, du vil projicere skærmen til.
+1. Tryk **på Windows-tasten + A** for at åbne Handlingscenter.
+2. Klik **på Opret forbindelse**.
+3. Klik på den enhed, du vil projicer skærmen til.
 
-![Projekt til en PC](media/project-to-a-pc.png)
+![Projicer til en pc](media/project-to-a-pc.png)
 
-Efter ovenstående trin skal destinationsenheden vise skærmbilledet af kildeenheden, som om det er en sekundær skærm.
+Efter ovenstående trin bør destinationsenheden vise skærmbilledet for kildeenheden, som om det var en sekundær skærm.

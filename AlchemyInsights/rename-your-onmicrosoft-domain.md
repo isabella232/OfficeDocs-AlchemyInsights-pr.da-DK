@@ -1,8 +1,8 @@
 ---
-title: Omdøb dit onmicrosoft-domæne
+title: Omdøb domænet onmicrosoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701313"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810226"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Omdøb dit onmicrosoft.com-domæne
+# <a name="rename-your-onmicrosoftcom-domain"></a>Omdøb dit onmicrosoft.com domæne
 
- **Du kan ikke omdøbe onmicrosoft-domænet efter tilmeldingen.** Hvis det initialt domæne, du valgte, var  *fourthcoffee.onmicrosoft.com*, kan du ikke ændre det til  *fabrikam.onmicrosoft.com*. Hvis du vil bruge et andet onmicrosoft.com-domæne, skal du starte et nyt abonnement med Microsoft 365.
+ **Du kan ikke omdøbe onmicrosoft-domænet efter tilmelding.** Hvis det første domæne, du valgte,  *f.eks. fourthcoffee.onmicrosoft.com,* kan du ikke ændre det til at  *fabrikam.onmicrosoft.com*. Hvis du vil bruge onmicrosoft.com domæne, er du nødt til at oprette et nyt abonnement med Microsoft 365.
   
-Hvis du vil bruge et brugerdefineret domæne som  *contoso.com*  , kan du [tilføje et, du ejer](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) , eller [købe et fra Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
+Hvis du vil bruge et brugerdefineret domæne som  *f.eks. contoso.com*  , kan du tilføje [et, du](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) [ejer, eller købe et fra Microsoft](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
   

@@ -1,8 +1,8 @@
 ---
-title: Gendanne en slettet offentlig mappe
+title: Gendan en slettet offentlig mappe
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774525"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809433"
 ---
-# <a name="restore-a-deleted-public-folder"></a>Gendanne en slettet offentlig mappe
+# <a name="restore-a-deleted-public-folder"></a>Gendan en slettet offentlig mappe
 
-**Sådan gendanner du slettede elementer fra en offentlig mappe**:
+**Sådan gendanner du slettede elementer fra en offentlig mappe:**
 
-- Se [du kan ikke gendanne slettede elementer fra en offentlig mappe, der ikke er mail i Outlook 2016](https://aka.ms/pfrec).
+- Se [Du kan ikke gendanne slettede elementer fra en offentlig mappe, der ikke er en mail, i Outlook 2016.](https://aka.ms/pfrec)
  
-**Sådan gendannes en slettet offentlig mappe (af en hvilken som helst type)**: 
+**Sådan gendanner du en slettet offentlig mappe (af enhver type)**: 
 
-- Du kan bruge følgende EXO PowerShell-kommando:
+- Brug følgende EXO PowerShell-kommando:
 
-    Stave
+    Syntaks:
 
      `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
-    Eksempel: følgende kommando gendanner Subfolder1 og placerer den under \Parent1:
+    Eksempel: Følgende kommando gendanner Undermappe1 og placerer den under \Parent1:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
-Se [gendanne en slettet offentlig mappe](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) for at få flere oplysninger.
+Se [Gendan en slettet offentlig mappe](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) for at få mere at vide.

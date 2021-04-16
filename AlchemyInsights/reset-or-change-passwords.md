@@ -2,7 +2,7 @@
 title: Nulstille eller ændre adgangskoder
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692145"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810190"
 ---
 # <a name="reset-or-change-passwords"></a>Nulstille eller ændre adgangskoder
 
-En bruger kan ændre sin egen adgangskode fra **min konto**  >  [sikkerheds & beskyttelse af personlige oplysninger](https://portal.office.com/account/#security).
+En bruger kan ændre sin egen adgangskode fra Sikkerhed **på min konto og**& beskyttelse af personlige  >  [oplysninger.](https://portal.office.com/account/#security)
   
-Hvis brugeren har glemt sin adgangskode, kan en administrator nulstille adgangskoden ved at gå til **brugere**, der er  >  [aktive brugere](https://portal.office.com/adminportal/home#/users), vælge brugeren/ **Nulstil adgangskode**.
+Hvis brugeren har glemt sin adgangskode, kan en administrator nulstille adgangskoden ved at gå til Aktive brugere , vælge  >  [](https://portal.office.com/adminportal/home#/users)brugeren/brugerne og klikke på **Nulstil adgangskode**.
   
-[Klik her for at få mere at vide](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), eller for at lade brugere nulstille deres egne glemt adgangskoder.
+[Klik her for at få mere](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)at vide , eller lad brugerne nulstille deres egne glemte adgangskoder.

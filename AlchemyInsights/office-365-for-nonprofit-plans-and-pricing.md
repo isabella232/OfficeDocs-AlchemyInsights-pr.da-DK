@@ -1,8 +1,8 @@
 ---
-title: Office 365 til non-profit-planer og priser
+title: Planer og priser for Office 365 til nonprofitorganisationer
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 120428310815dd90b1fa0e4a32a4ee2f1eccc588
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 683995071a6902276e041e914453df211cf54fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803095"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810298"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 til non-profit-planer og priser
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Planer og priser for Office 365 til nonprofitorganisationer
 
-Kvalificerede non-profit kan modtage Office 365-non-profit som en donation eller opgradering til avancerede funktioner til en betydelig rabat. Hvis du vil kvalificere en plan for planlægning af Office 365, skal du have [anerkendt velgørende status](https://go.microsoft.com/fwlink/p/?LinkID=330253) i dit land og underskrive Microsofts politik for ikke-diskriminering. Microsoft forbeholder sig ret til når som helst at bekræfte berettigelse og suspendere tjenesten for ikke-kvalificerede organisationer.
+Berettigede nonprofitorganisationer kan modtage Office 365 til nonprofitorganisationer som en donation, eller de kan opgradere til avancerede funktioner med en betydelig rabat. For at være berettiget til en plan til Office 365 til nonprofitorganisationer skal du have anerkendt status som [velgørende](https://go.microsoft.com/fwlink/p/?LinkID=330253) organisation i dit land og underskrive Microsofts politik for ikke-velgørende organisationer. Microsoft forbeholder sig retten til når som helst at få bekræftet berettigelsen og til at suspendere tjenesten for organisationer, der ikke er berettigede.
   
-Se [ofte stillede](https://products.office.com/nonprofit/office-365-nonprofit) spørgsmål om dette tilbuddet.
+Se ofte [stillede spørgsmål](https://products.office.com/nonprofit/office-365-nonprofit) om yderligere spørgsmål om dette tilbud.
   
-- [Gennemgå de non-profit planer](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Gennemgå nonprofitplanerne](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
 - [Sammenlign alle Microsoft 365-abonnementer](https://products.office.com/business/compare-more-office-365-for-business-plans)

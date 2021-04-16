@@ -1,8 +1,8 @@
 ---
-title: Annullere eller geninstallere
+title: Tilbagefør eller geninstaller
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: 4a5c613cecf9287ca4a7ac709fc5993a480d8bd8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 51ec547d99c6d13ddc14bc1b3288ff54fb1cd056
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560506"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809217"
 ---
-# <a name="reinstall-or-roll-back-office"></a>Geninstallere eller rulle tilbage til Office
+# <a name="reinstall-or-roll-back-office"></a>Geninstaller eller geninstaller Office
 
-Hvis du oplever generelle problemer efter en nylig opdatering til Office-pakken, kan du muligvis løse problemet ved at foretage en geninstallation af Office eller gå tilbage til den tidligere version af Office.
+Hvis du oplever generelle problemer efter en nylig opdatering af Office-pakken, kan du muligvis løse problemet ved at udføre en geninstallation af Office eller gå tilbage til den tidligere version af Office.
 
-Hvis du vil udføre en **geninstallation** af Office, skal du gennemse [downloade og installere eller geninstallere Office 365 eller Office 2019 på en pc eller Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
+Hvis du vil **foretage en** geninstallation af Office, skal du læse Download og installér eller geninstaller [Office 365 eller Office 2019](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)på en pc eller Mac.
 
-Hvis du vil udføre en **tilbageførsel** af Office, skal du gennemgå, [hvordan du vender tilbage til en tidligere version af Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).
+Hvis du vil udføre **en annullering af** Office, skal du se Sådan [gendannes en tidligere version af Office.](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic)

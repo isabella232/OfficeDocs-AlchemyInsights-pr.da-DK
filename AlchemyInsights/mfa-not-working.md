@@ -2,7 +2,7 @@
 title: Problemer med MFA
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 718af9bfbc0a64cdfc96528e5062fb96c8d0f2d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2fed99ebf553a9bfda436d81797c841987759e98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755125"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810478"
 ---
 # <a name="issues-with-azure-mfa"></a>Problemer med Azure MFA
-Der er et par ting, du skal kontrollere, hvis brugerne ikke kan logge på ved hjælp af multifaktorgodkendelse (MFA)
+Der er et par ting, der skal kontrolleres, hvis brugerne ikke kan logge på med multifaktorgodkendelse (MFA)
 
-1. Den pågældende bruger kan være blokeret i Azure Active Directory-portalen. Hvis det er tilfældet, bliver godkendelsesforsøg for den pågældende bruger automatisk afvist. [Følg trinnene i denne artikel for at fjerne blokeringen af dem.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Den pågældende bruger kan blive blokeret i Azure Active Directory Portal. Hvis det er tilfældet, nægtes godkendelsesforsøg for den pågældende bruger automatisk. [Følg trinnene i denne artikel for at fjerne blokeringen af dem.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Hvis det ikke hjælper at fjerne blokeringen af brugeren, eller brugeren ikke er blokeret, kan du prøve at nulstille MFA for brugeren, og den gennemgår processen igen. [Følg trinnene i denne artikel.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Hvis det ikke virkede at fjerne blokeringen af brugeren, eller brugeren ikke er blokeret, kan du prøve at nulstille MFA for brugeren, så vil brugeren gå gennem tilmeldingsprocessen igen. [Følg trinnene i denne artikel.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Hvis dette er første gang, du aktiverer MFA, og dine brugere ikke kan logge på ikke-browser-klienter, såsom Outlook, Skype osv., kan ADAL (Active Directory Authentication Library) ikke være aktiveret på dit O365-abonnement. I dette tilfælde skal du oprette forbindelse til Exchange Online PowerShell og køre denne cmdlet:  *Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Hvis det er første gang, du har aktiveret MFA, og dine brugere ikke kan logge på klienter, der ikke er i en browser, f.eks. Outlook, Skype osv., er ADAL (Active Directory Authentication Library) ikke aktiveret på dit O365-abonnement. I dette tilfælde skal du oprette forbindelse til Exchange Online Powershell og køre denne cmdlet:  *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*

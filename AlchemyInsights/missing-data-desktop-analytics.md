@@ -2,7 +2,7 @@
 title: Kan ikke oprette en kompatibilitetsvurdering
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 9843afe5392778993a2197f2ce76761dcf732d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a42872d1685782abc86b55674e84ad1ace338c88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674068"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810334"
 ---
 # <a name="cant-create-a-compatibility-assessment"></a>Kan ikke oprette en kompatibilitetsvurdering
 
-Microsoft Endpoint Configuration Manager har konfigureret enheden, men computer analyser kan ikke oprette en kompatibilitetsvurdering. Der er ikke angivet et komplet datasæt for enhedens konfiguration (optælling) eller installerede apps (lager).
+Microsoft Endpoint Konfigurationsstyring konfigureret enheden, men Desktop Analytics kan ikke oprette en kompatibilitetsvurdering. Den har ikke et komplet datasæt til enhedens konfiguration (installation) eller installerede apps (lager).
 
-Dette problem løses ofte automatisk, når enheden bliver forsøgt igen. Hvis den fortsætter, skal du sørge for, at enheden kan kommunikere med tjenesten. Hvis du vil have mere at vide, skal du se [slutpunkter](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) og [manglende data](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).
+Dette problem er ofte rettet automatisk, når enhedens indtastninger. Hvis det fortsætter, skal du kontrollere, at enheden kan kommunikere med tjenesten. Du kan finde flere oplysninger [under Slutpunkter](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) og [Manglende data](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).
