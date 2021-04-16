@@ -1,8 +1,8 @@
 ---
-title: Der findes en nyere version
+title: En nyere version er tilgængelig
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: a9e89f4c1548cb018cbb9c8f3063634ba35effa0
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: aa0d233209827b387a9ee23aaf828794ed3cfc90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598978"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804267"
 ---
-# <a name="delete-the-office-document-cache"></a>Slet Office-dokument cachen
+# <a name="delete-the-office-document-cache"></a>Slet Office-dokumentcachen
 
-Hvis du har modtaget en Excel-besked om, at **en nyere version af filen er tilgængelig**, kan du prøve at slette Office-dokument cachen ved at følge instruktionerne i [slette din Office-dokument cache](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d). Prøv derefter at åbne filen igen.
+Hvis du har modtaget en Excel-meddelelse om, at der findes en nyere **version** af filen, kan du prøve at slette Office-dokumentcachen ved at følge vejledningen i Slet din [Office-dokumentcache.](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d) Prøv derefter at genåbne filen.
