@@ -1,8 +1,8 @@
 ---
-title: eDiscovery i Yammer-netværk
+title: eDiscovery i Yammer Networks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710910"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814474"
 ---
-# <a name="ediscovery-in-yammer-networks"></a><span data-ttu-id="58d5e-102">eDiscovery i Yammer-netværk</span><span class="sxs-lookup"><span data-stu-id="58d5e-102">eDiscovery in Yammer Networks</span></span>
+# <a name="ediscovery-in-yammer-networks"></a><span data-ttu-id="1f706-102">eDiscovery i Yammer Networks</span><span class="sxs-lookup"><span data-stu-id="1f706-102">eDiscovery in Yammer Networks</span></span>
 
-<span data-ttu-id="58d5e-103">Du kan nu udføre eDiscovery-søgninger for Yammer-indhold.</span><span class="sxs-lookup"><span data-stu-id="58d5e-103">You can now perform eDiscovery searches for Yammer content.</span></span>  <span data-ttu-id="58d5e-104">Hvis du udfører eDiscovery-søgninger eller eksporterer på Yammer-indhold, skal du gøre følgende:</span><span class="sxs-lookup"><span data-stu-id="58d5e-104">Performing eDiscovery searches or export on Yammer content requires the following:</span></span>
+<span data-ttu-id="1f706-103">Du kan nu udføre eDiscovery-søgninger efter Yammer indhold.</span><span class="sxs-lookup"><span data-stu-id="1f706-103">You can now perform eDiscovery searches for Yammer content.</span></span>  <span data-ttu-id="1f706-104">Udførelse af eDiscovery-søgninger eller eksport på Yammer indhold kræver følgende:</span><span class="sxs-lookup"><span data-stu-id="1f706-104">Performing eDiscovery searches or export on Yammer content requires the following:</span></span>
 
-1. <span data-ttu-id="58d5e-105">Du skal først overføre dit Yammer Enterprise-netværk til oprindelig tilstand for at få dine Yammer-meddelelser og filer synlige.</span><span class="sxs-lookup"><span data-stu-id="58d5e-105">You must first migrate your Yammer Enterprise Network to Native Mode to make your Yammer messages and files discoverable.</span></span> <span data-ttu-id="58d5e-106">**Bemærk: Hvis du er ny kunde frem til Jan. 9.2020, og dit Yammer-netværk er allerede i oprindelig tilstand, og dine data er nu synlige med eDiscovery**.</span><span class="sxs-lookup"><span data-stu-id="58d5e-106">**Note: if you are a new customer as of Jan. 9th 2020 and your Yammer network is already in Native Mode, your data is now discoverable with eDiscovery**.</span></span>
+1. <span data-ttu-id="1f706-105">Du skal først overføre dit Yammer Enterprise-netværk til oprindelig tilstand for at gøre dine Yammer meddelelser og filer synlige.</span><span class="sxs-lookup"><span data-stu-id="1f706-105">You must first migrate your Yammer Enterprise Network to Native Mode to make your Yammer messages and files discoverable.</span></span> <span data-ttu-id="1f706-106">Bemærk! Hvis du er ny kunde **pr. 9. januar 2020,** og dit Yammer-netværk allerede er i indbygget tilstand, er dine data nu tilgængelige med eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="1f706-106">**Note: if you are a new customer as of Jan. 9th 2020 and your Yammer network is already in Native Mode, your data is now discoverable with eDiscovery**.</span></span>
 
-2. <span data-ttu-id="58d5e-107">For at forlade kunder vil eDiscovery for Yammer være tilgængelig, når værktøjet til justering af original tilstand er frigivet, og overførslen af den oprindelige tilstand er gennemført for Yammer i lejeren.</span><span class="sxs-lookup"><span data-stu-id="58d5e-107">For exiting customers, eDiscovery for Yammer will be available once the Native Mode Alignment tool is released and the Native Mode migration completes for Yammer in the tenant.</span></span>
+2. <span data-ttu-id="1f706-107">For kunder, der forlader os, vil eDiscovery til Yammer være tilgængelig, når værktøjet Justering i oprindelig tilstand frigives, og overførslen i oprindelig tilstand fuldføres for Yammer i lejeren.</span><span class="sxs-lookup"><span data-stu-id="1f706-107">For exiting customers, eDiscovery for Yammer will be available once the Native Mode Alignment tool is released and the Native Mode migration completes for Yammer in the tenant.</span></span>
 
-<span data-ttu-id="58d5e-108">Få mere at vide om:</span><span class="sxs-lookup"><span data-stu-id="58d5e-108">For more information on:</span></span>
+<span data-ttu-id="1f706-108">Du kan finde flere oplysninger om:</span><span class="sxs-lookup"><span data-stu-id="1f706-108">For more information on:</span></span>
 
-- <span data-ttu-id="58d5e-109">Oprindelig tilstand i Yammer skal du se: [Oversigt over oprindelig tilstand](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span><span class="sxs-lookup"><span data-stu-id="58d5e-109">Native Mode in Yammer, see: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span></span>
-- <span data-ttu-id="58d5e-110">eDiscovery i Yammer-netværk skal du se: [Oversigt over eDiscovery i yammer-netværk](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).</span><span class="sxs-lookup"><span data-stu-id="58d5e-110">eDiscovery in Yammer Networks, see: [Overview of eDiscovery in Yammer networks](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).</span></span>
-- <span data-ttu-id="58d5e-111">eDiscovery i Microsoft 365, se [eDiscovery i microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="58d5e-111">eDiscovery in Microsoft  365, see [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).</span></span>
+- <span data-ttu-id="1f706-109">Native Mode in Yammer, se: [Oversigt over oprindelig tilstand](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span><span class="sxs-lookup"><span data-stu-id="1f706-109">Native Mode in Yammer, see: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span></span>
+- <span data-ttu-id="1f706-110">eDiscovery i Yammer Networks skal du se: [Oversigt over eDiscovery i Yammer-netværk.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)</span><span class="sxs-lookup"><span data-stu-id="1f706-110">eDiscovery in Yammer Networks, see: [Overview of eDiscovery in Yammer networks](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).</span></span>
+- <span data-ttu-id="1f706-111">eDiscovery i Microsoft 365, se [eDiscovery i Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)</span><span class="sxs-lookup"><span data-stu-id="1f706-111">eDiscovery in Microsoft  365, see [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).</span></span>
