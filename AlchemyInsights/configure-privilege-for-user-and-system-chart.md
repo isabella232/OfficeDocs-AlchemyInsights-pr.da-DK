@@ -1,8 +1,8 @@
 ---
-title: Konfigurere rettigheder til bruger-og systemdiagram
+title: Konfigurere rettigheder for bruger- og systemdiagram
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002928"
 - "5607"
-ms.openlocfilehash: 4d8518242b98d580c2a88d6dc3c00e5a1096e2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb88ce45b2cd786e90e5d87713400e150787ec25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713484"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817130"
 ---
-# <a name="configure-privilege-for-user-and-system-chart"></a>Konfigurere rettigheder til bruger-og systemdiagram
+# <a name="configure-privilege-for-user-and-system-chart"></a>Konfigurere rettigheder for bruger- og systemdiagram
 
-**Symptom**: der er ingen læserettigheder til et diagram.
+**Symptom:** Ingen læserettigheder for et diagram.
 
-**Årsag**: ikke nok rettighed eller ikke rummer de nødvendige rettigheds fejl.
+**Årsag:** Fejlene er ikke nok eller indeholder ikke de nødvendige rettigheder.
 
-**Løsning**: Konfigurer rettighed for diagram
+**Løsning:** Konfigurer rettigheder for Diagram
 
-**Trin**:
+**Trin:**
 
-1. Gå til **Indstillinger – > tilpasning – > tilpasse sikkerhedsroller for System >**.
+1. Gå til **Indstillinger -> Tilpasning > Tilpas system- og > sikkerhedsroller.**
 
 2. Dobbeltklik på rollen.
 
-    - Konfiguration af rettighed til brugerdiagram er under fanen **Kerneposter** .
-    - Konfiguration af rettigheder til system diagrammer er under fanen **tilpasning** .
+    - Konfiguration af brugerdiagramrettigheder findes under **fanen Kerneposter.**
+    - Konfiguration af systemdiagramrettigheder findes under **fanen** Tilpasning.

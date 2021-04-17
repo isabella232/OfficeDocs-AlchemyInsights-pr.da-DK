@@ -1,8 +1,8 @@
 ---
-title: 'Beskyttelse mod ændring af Defender Client '
+title: 'Defender Client Tamper Protection '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680498"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815573"
 ---
-# <a name="defender-tamper-protection"></a>Beskyttelse mod ændringer af Defender 
+# <a name="defender-tamper-protection"></a>Defender Tamper Protection 
 
-Med manipulations beskyttelse forhindres ondsindede apps i at udføre handlinger som disse:
+Med Tamper Protection forhindres skadelige apps i at udføre handlinger som disse:
 
-- Deaktivere virus-og trusselsbeskyttelse
+- Deaktivere virus- og trusselsbeskyttelse
 - Deaktivere beskyttelse i realtid
-- Slå funktions overvågning fra
-- Deaktivering af Antivirus (f. eks. IOfficeAntivirus (IOAV))
-- Deaktivere skybaseret beskyttelse
-- Fjerne opdateringer til sikkerhedsopdateringer
+- Slå overvågning af funktionsmåder fra
+- Deaktivere antivirus (f.eks IOfficeAntivirus (IOAV))
+- Deaktivering af skybaseret leveringsbeskyttelse
+- Fjernelse af sikkerhedsintelligensopdateringer
 
-Hvis du vil have mere at vide, skal du se [beskytte sikkerhedsindstillinger med beskyttelse mod uautoriseret](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)adgang.
+Du kan få mere at vide [under Beskyt sikkerhedsindstillinger med Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).

@@ -1,8 +1,8 @@
 ---
-title: Overholdelses score
+title: Overholdelsesscore
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785453"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817310"
 ---
-# <a name="compliance-score"></a>Overholdelses score
+# <a name="compliance-score"></a>Overholdelsesscore
 
-Microsoft-kompatibilitets score (Preview) er en funktion i Microsoft 365, som kan hjælpe dig med at måle din organisations overholdelses Posture. Det bruger et risikobaseret resultat baseret på din status for implementering af kompatibilitets relaterede handlinger.   Overholdelses score er en forenklet version af [overholdelses styring](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) , og det er en nemmere måde at undersøge stance og implementere handlinger for at forbedre det. 
+Microsoft Compliance Score (Preview) er en funktion i Microsoft 365, der hjælper dig med at måle din organisations overholdelsesoverholdelse. Den anvender et risikobaseret resultat, der er baseret på dine fremskridt med implementering af overholdelsesrelaterede handlinger.   Overholdelsesscore er en forenklet version af [Overholdelsesstyring](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) og tilbyder en nemmere måde at undersøge dine resultater af overholdelse af regler og standarder på og implementere handlinger, der forbedrer det. 
 
-Den globale administrator skal konfigurere de rette [tilladelser](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) i Microsoft Compliance Center for at få adgang til kompatibilitets scoren.  Alle tilladelser, der tidligere er konfigureret for overholdelses styring, overfører ikke til kompatibilitets score.
+Den globale administrator skal konfigurere de rette tilladelser i Microsoft Compliance Center for at få adgang til [Overholdelsesscore.](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center)  Eventuelle tilladelser, der tidligere er konfigureret til Overholdelsesstyring, overføres ikke til Overholdelsesscore.
 
-**Hvis du vil have adgang til kompatibilitets score**
+**Sådan får du adgang til Overholdelsesscore**
 
-1. Gå til Microsoft 365 Compliance Center, og **Log på** med din globale administratorkonto til Microsoft 365.
+1. Gå til Microsoft 365 Overholdelsescenter, **og log på** med din globale administratorkonto til Microsoft 365.
 
-2. Vælg **kompatibilitets resultat** i venstre navigationsrude. Derefter skal du se [dashboardet for overholdelses score med din score](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. Vælg **Overholdelsesscore** i venstre navigationsrude. Du bør derefter se [dashboardet Overholdelsesscore med din score.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
  
 
-**Få mere**at vide om:
+**Du kan finde flere oplysninger om:**
 
-- Konfiguration af adgangstilladelser for overholdelses score Se [Giv brugere adgang til Microsoft 365 Security & overholdelses Centre](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Arbejde med forbedrings handlinger i overensstemmelses score under  [arbejde med resultat score](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- Se, hvordan overholdelses score beregnes, i [overensstemmelses score metodik](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- Overholdelses score i forhold til Compliance Manager, se [relation til overholdelses administrator](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Konfiguration af adgangstilladelser til overholdelsesscore i Giv brugere adgang til [Microsoft 365 Security & Compliance Centers.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Hvis du arbejder med forbedringshandlinger i Overholdelsesscore, skal  [du se Arbejde med Overholdelsesscore](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
+- Se Metodologi til overholdelsesscore (Compliance Score) for at finde ud af, hvordan Resultat af [overholdelse af angivne standarder beregnes.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)
+- Overholdelsesscore vs. Overholdelsesstyring skal du [se Relation til Overholdelsesstyring](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 

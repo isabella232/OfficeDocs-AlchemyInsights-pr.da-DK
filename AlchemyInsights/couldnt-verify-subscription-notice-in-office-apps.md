@@ -1,8 +1,8 @@
 ---
-title: Kunne ikke bekræfte abonnements meddelelse i Microsoft 365-apps
+title: Abonnementsmeddelelsen kunne ikke bekræftes i Microsoft 365-apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 45a5ed79feb2e489af5b93caee29ca4709181d79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a1823ed1080f0dc7adcf19b40b8e28256415ba5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747509"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816446"
 ---
-# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Meddelelsen "vi kunne ikke bekræfte abonnementet" i Microsoft 365-apps
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Meddelelsen "Abonnementet kunne ikke bekræftes" i Microsoft 365-apps
 
 - Kontrollér, at din [abonnementsstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) er gyldig, at den pågældende bruger har en [gyldig licens tildelt](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) og at denne har forbindelse til internettet.
 

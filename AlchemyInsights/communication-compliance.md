@@ -1,8 +1,8 @@
 ---
-title: Kommunikations overholdelse
+title: Kommunikationsoverholdelse
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875118"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817490"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Kommunikation, der er kompatibel med Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Kommunikationsoverholdelse i Microsoft 365
 
-Kommunikations kompatibilitet er en ny Microsoft 365-kompatibilitets løsning, der hjælper virksomheder med at overholde tilsyns kravene og minimere kommunikations risici. Den er baseret på tilsyns funktionen og indeholder nye forbedringer, herunder:
+Kommunikationsoverholdelse er en ny Microsoft 365-overholdelsesløsning, der hjælper organisationer med at opfylde krav til overholdelse af regler og standarder samt minimere kommunikationsrisici. Den er baseret på funktionen Overvågning og indeholder nye forbedringer, herunder:
 
 - Intelligente skabeloner, der kan tilpasses
-- Fleksible arbejdsprocesser til afhjælpning
-- Handlings indsigt
+- Fleksible afhjælpningsarbejdsprocesser
+- Brugbar indsigt
 
-Hvis du i øjeblikket bruger [tilsyns politikker](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), anbefaler vi, at du nu bruger den nye kommunikation, som opfylder kravene til at imødekomme kravene.
+Hvis du aktuelt bruger [Overvågningspolitikker, anbefaler](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)vi, at du nu bruger den nye kommunikationsoverholdelse til at imødekomme lovmæssige behov.
 
-Hvis du vil konfigurere kommunikationen, skal du se [konfigurere kommunikations kompatibilitet](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Se Konfigurer kommunikationsoverholdelse for at [konfigurere overholdelse af regler og standarder for kommunikation.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-Hvis du vil undersøge, gennemse og afhjælpe kommunikationen, skal du se under [søge og afhjælpe beskeder om overholdelse af kommunikation](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Hvis du vil undersøge, gennemse og afhjælpe overholdelse af kommunikation, skal du [se Undersøg og afhjulpet beskeder om kommunikationsoverholdelse](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
 
-Hvis du vil have en oversigt over funktionen kommunikations overholdelse, skal du se kommunikation, der [opfylder Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Du kan få et overblik over funktionen til overholdelse af kommunikation i [Kommunikationsoverholdelse i Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
-Licenskrav: de brugere, der overvåges af kommunikations politikker, skal have et af følgende:
+Licenskrav: Brugere, der overvåges af kommunikationspolitikker, skal have et af følgende:
 
-- Microsoft 365 E5-kompatibilitets licens
-- Office 365 Enterprise E3-licens med tilføjelsesprogram til avanceret overholdelse
+- Microsoft 365 E5 Compliance License
+- Office 365 Enterprise E3-licens med tilføjelsesprogrammet Avanceret overholdelse
 - Office 365 Enterprise E5-abonnement
 
-Hvis du ikke har nogen af ovenstående og ønsker at prøve at kommunikere, skal du **[tilmelde dig en prøveversion af Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Hvis du ikke har noget af ovenstående og vil prøve overholdelse af regler og standarder i kommunikation, kan du tilmelde dig en prøveversion af **[Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Det kan tage op til 24 timer, før mails er fuldt behandlet i en politik. Kommunikationen i Microsoft teams, Yammer og tredjeparts platforme kan tage op til 48 timer for at behandle en politik.
+> Det kan tage op til 24 timer, før mails behandles fuldt ud i en politik. Kommunikation i Microsoft Teams, Yammer og tredjepartsplatforme kan tage op til 48 timer, før en politik behandles fuldt ud.

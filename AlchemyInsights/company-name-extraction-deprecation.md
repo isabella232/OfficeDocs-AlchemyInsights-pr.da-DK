@@ -1,8 +1,8 @@
 ---
-title: Udtrækning af firmanavn frarådes
+title: Udtræk af firmanavn
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681002"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817382"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Ændringer af udtrækning af firmanavn i SharePoint Online
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Ændringer i udtrækning af firmanavn i SharePoint Online
 
-Fra den 15th, 2019, fjerner vi en [udtrækning af firmanavne fra SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). Udtrækning af firmanavn i SharePoint gør det muligt for søgesystemet at udtrække firmanavne fra indhold under et bestemt sæt af betingelser ved hjælp af en forudindstillet ordbog eller ved hjælp af listerne firma medtagelse eller firma udelukkelse. Mens udtrækning af firmanavn er blevet en løsning med en løsning på et eller flere virksomhedsnavne fra indhold i SharePoint Online, er både ordbogen og dens underliggende funktion blevet forældet.
+Fra og med d. 15. november 2019 vil vi fjerne udtræk af firmanavn [fra SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) Udtræk af firmanavn i SharePoint gør det muligt for søgesystemet at udtrække firmanavne fra indhold under et bestemt sæt betingelser ved hjælp af en allerede udfyldt ordbog eller ved hjælp af listerne Firma inklusioner eller Firmafraslutninger. Mens udtræk af firmanavn er blevet en afhængig løsning til at udlede et eller flere firmanavne fra indhold i SharePoint Online, er både ordbogen og dens underliggende funktionssæt blevet forældet.
 
 - [Hvordan ved jeg, om udtrækning af firmanavn er aktiveret for en egenskab?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 

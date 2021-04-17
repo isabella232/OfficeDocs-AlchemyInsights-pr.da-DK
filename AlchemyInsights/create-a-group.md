@@ -2,7 +2,7 @@
 title: Opret en gruppe
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: b8cb3f1de991bfe7197607d5e8964a018e31c122
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088688"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816342"
 ---
 # <a name="create-a-group"></a>Opret en gruppe
 
-I dette emne beskrives gruppe oprettelse.
+I dette emne beskrives oprettelse af grupper.
 
 **Tilladelse til at oprette en gruppe**
 
-Sørg for, at du har tilladelse til at oprette en ny gruppe. Globale administratorer kan deaktivere gruppe oprettelse i Azure-portalen eller Access-panelet. Du skal muligvis have en administrator for at oprette den nye gruppe for dig, eller for at give dig de relevante tilladelser.
+Sørg for, at du er godkendt til at oprette en ny gruppe. Globale administratorer kan deaktivere oprettelse af grupper i Azure-portalen eller adgangspanelet. Du skal muligvis have en administrator for at oprette den nye gruppe for dig eller for at give dig de relevante tilladelser.
 
-**Administrer tilladelser til gruppe oprettelse**
+**Administrere tilladelser til oprettelse af grupper**
 
-1. Globale administratorer kan administrere tilladelser til gruppe oprettelse (for sikkerhedsrelaterede årsager) eller Office 365-grupper, der er oprettet i Azure-portalen eller Access-panelet, ved at vælge "brugerne kan oprette sikkerhedsgrupper i Azure-portaler" eller "brugerne kan oprette Office 365-grupper i Azure-portaler" i **alle grupperne**  >  **Generelt (indstillinger)**.
-2. Du kan også begrænse oprettelse af gruppe for at vælge en gruppe af brugere, hvis du har en Azure Active Directory P1 Premium-licens.
+1. Globale administratorer kan administrere tilladelser til oprettelse af grupper (af sikkerhedsrelaterede årsager) eller Office 365-grupper, der er oprettet i Azure-portalen eller adgangspanelet, ved at vælge indstillingerne "Brugere kan oprette sikkerhedsgrupper i Azure-portaler" eller "Brugere kan oprette Office 365-grupper i Azure-portaler" i Alle grupper Generelt  >  **(Indstillinger).**
+2. Du kan også begrænse oprettelse af grupper for at vælge en gruppe af brugere, hvis du har en Azure Active Directory P1 Premium-licens.
 
-**Deaktivering af velkomstmeddelelse for nye Office 365-gruppemedlemmer**
+**Deaktivere velkomstmeddelelse for nye Office 365-gruppemedlemmer**
 
-Den velkomstmeddelelse, der sendes til brugere, der er føjet til Office 365-grupper, kan deaktiveres ved at angive **UnifiedGroupWelcomeMessageEnabled** til falsk i PowerShell. Få mere at vide om denne indstilling [her](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
+Velkomstmeddelelsen, der sendes til brugere, der er føjet til Office 365-grupper, kan deaktiveres ved at angive **UnifiedGroupWelcomeMessageEnabled** til False i Powershell. Få mere at vide om denne [indstilling her](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
 

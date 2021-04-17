@@ -1,8 +1,8 @@
 ---
-title: Kontrollér synkroniserings gennemløb
+title: Kontrollere synkroniseringshastigheden
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5839"
-ms.openlocfilehash: 90ba01b761a88443ac35e6b149f3443c470f2abb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e45f55efac556d2d9c4f1ebd837db61dfa5422f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747653"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816662"
 ---
-# <a name="control-sync-throughput"></a>Kontrollér synkroniserings gennemløb
+# <a name="control-sync-throughput"></a>Kontrollere synkroniseringshastigheden
 
-Hvis du har brug for at kontrollere synkronisere app-trafik, anbefaler vi, at du bruger politikker for netværkstjenestekvalitet (QoS) eller Windows QoS-politikker, når det er muligt. Du kan finde oplysninger om de netværksindstillinger, du kan stille til rådighed for dine brugere, under [Skift overførsels-eller overførselshastighed for OneDrive-synkroniserings appen.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)
+Hvis du har brug for at styre synkroniseringsapptrafik, anbefaler vi, at du bruger politikkerne for din tjenestekvalitet (servicekvalitet) eller Politikker for servicekvalitet i Windows, når det er muligt. Hvis du vil have oplysninger om de netværksindstillinger, du kan gøre tilgængelige for dine brugere, skal du se Skift upload- eller [downloadhastighed for OneDrive-synkroniseringsappen.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)

@@ -1,8 +1,8 @@
 ---
-title: Oprette forbindelse mellem et SharePoint-websted og en gruppe
+title: Knytte et SharePoint-websted til en gruppe
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: f2276ad3dcdc0426bbd255b7d07f2b9a74927bec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713304"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817058"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Oprette forbindelse mellem et SharePoint-websted og en gruppe
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Knytte et SharePoint-websted til en gruppe
 
-Brug guiden gruppe-forbindelse til at oprette forbindelse mellem et SharePoint-websted og en Microsoft 365-gruppe.
+Brug guiden gruppeforbindelse til at oprette forbindelse mellem et SharePoint-websted og en Microsoft 365-gruppe.
 
-1. Fra det websted, du vil oprette forbindelse til en gruppe, skal du vælge  **Indstillinger (gear ikon)**.
-2. Vælg  **Opret forbindelse til en ny Microsoft 365-gruppe**.
-3. Følg guiden for at fuldføre forbindelsen.
+1. Vælg Indstillinger  **(tandhjulsikonet)** fra det websted, du vil oprette forbindelse til en gruppe.
+2. Vælg **Opret forbindelse til en ny Microsoft 365-gruppe.**
+3. Følg guiden for at oprette forbindelsen.
 
-**Bemærk:**  Hvis Opret forbindelse til en ny Microsoft 365-gruppe ikke er tilgængelig, understøtter webstedet ikke en gruppe forbindelse.
+**Bemærk!**  Hvis Opret forbindelse til en ny Microsoft 365-gruppe ikke er tilgængelig, understøtter webstedet ikke en gruppeforbindelse.
 
-Du kan finde flere oplysninger i  [Opret forbindelse til en Office 365-gruppe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+Du kan få mere at vide [under Opret forbindelse til en Office 365-gruppe.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
