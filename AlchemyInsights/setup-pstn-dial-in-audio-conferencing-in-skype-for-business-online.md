@@ -1,8 +1,8 @@
 ---
-title: Konfigurer PSTN-telefonmøder med manuelt opkald i Skype for Business online
+title: Konfigurere PSTN-lydmøder med manuelt opkald i Skype for Business Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739531"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835481"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Konfigurer PSTN-telefonmøder med manuelt opkald i Skype for Business online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Konfigurere PSTN-lydmøder med manuelt opkald i Skype for Business Online
 
-Hvis du vil konfigurere lydmøder for Skype for Business online, skal du gøre et par ting. 
+Hvis du vil konfigurere lydmøder til Skype for Business Online, skal du gøre et par ting. 
 
-- Find ud af, om lydmøder er tilgængelige i dit land/område.
+- Find ud af, om lydmøde er tilgængeligt i dit land/område.
 
-- Få og Tildel licenser til dine brugere.
+- Hent og tildel licenser til dine brugere.
 
-- Hent og Tildel service numre.
+- Hent og tildel servicenumre.
 
-- Afslut tjek listen i [Konfigurer lydmøder til Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Udfyld tjeklisten [i Konfigurer lydmøder til Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).

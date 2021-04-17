@@ -2,7 +2,7 @@
 title: Konfigurere en ekstern skærm
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773887"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835517"
 ---
-# <a name="set-up-one-monitor"></a>Konfigurere én skærm
+# <a name="set-up-one-monitor"></a>Konfigurer én skærm
 
-**Kontrollér din PC'S Projektindstillinger**
+**Kontrollér din pc's projektindstillinger**
 
-1. Åbn projektindstillingerne ved at trykke på følgende taster på samme tid: Windows-tasten (knappen Start i Windows-logoet) + P.
-2. Vælg kun **dublerede**, **udvidede**eller **andet skærmbillede**, afhængigt af dine præferencer.
+1. Åbn projektindstillingerne ved at trykke på følgende taster på samme tid: Windows-tast (Windows-logo Start-knap) + P.
+2. Vælg **Dupliker**, Udvid **eller Kun anden skærm**, afhængigt af dine præferencer. 
 
-**Bemærk:** Hvis din PC kun har én skærmport (f. eks. HDMI eller VGA), skal du bruge en dockingstation eller et USB-kort for at konfigurere flere skærme.
+**Bemærk!** Hvis din pc kun har én skærmport (f.eks. HDMI eller VGA), skal du bruge en dockingstation eller en USB-adapter for at konfigurere flere skærme.
 
-Hvis du også kan konfigurere én skærm, men ikke flere, er din PC muligvis ikke kompatibel med flere skærme. Kontrollér din PC'S originale dokumenter for at få flere oplysninger.
+Hvis du kan konfigurere én skærm, men ikke flere, er din pc muligvis ikke kompatibel med flere skærme. Kontrollér din pc's oprindelige dokumenter for at få flere oplysninger.

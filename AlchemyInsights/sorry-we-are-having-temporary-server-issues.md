@@ -1,8 +1,8 @@
 ---
-title: Rettelse af Microsoft 365-apps vi beklager, men vi har midlertidige serverproblemer-meddelelse
+title: Vi beklager, men vi har midlertidige serverproblemer i forbindelse med Microsoft 365-apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758239"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835265"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Hvis du retter Microsoft 365-apps, kan vi desværre ikke få besked om midlertidige serverproblemer
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Vi rettelse af meddelelsen "Vi beklager, men vi har midlertidige serverproblemer" i Microsoft 365-apps
 
-Hvis du får vist denne meddelelse, kan du prøve følgende:
+Hvis du modtager denne meddelelse, kan du prøve følgende:
 
-1. Kontrollér din firewall, antivirussoftware og proxyindstillinger for at bekræfte, at de ikke blokerer Internet adgang til Microsoft 365-apps. Se [URL-adresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Kontrollér din firewall, din antivirussoftware og dine proxyindstillinger for at bekræfte, at de ikke blokerer internetadgang til Microsoft 365-apps. Se [URL-adresser og IP-adresseintervaller](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Gå til **Start**  >  **Run**, og Skriv **Services. msc**. Sørg for, at følgende tjenester alle kører:
+2. Gå til **Start**  >  **Kør**, og skriv **services.msc**. Sørg for, at følgende tjenester kører alle:
     - Automatisk konfiguration af netværksforbundne enheder
-    - Netværksliste tjeneste
-    - Netværks placerings bevidsthed
-    - Logbog i Windows
+    - Netværklistetjeneste
+    - Kendskab til netværksplacering
+    - Windows-hændelseslog
 
-Hvis en af disse tjenester ikke kører, skal du prøve at starte det. Hvis du har problemer med at starte tjenesten, skal du køre følgende kommando ved at åbne en kommandoprompt med administratorrettigheder:
+Hvis en af disse tjenester ikke kører, kan du prøve at starte den. Hvis du har problemer med at starte tjenesten, skal du køre følgende kommando ved at åbne en kommandoprompt med administratorrettigheder:
 
-**sfc/scannow**
+**sfc /scannow**
 
-Genstart computeren, når denne kommando er færdig.
+Når denne kommando er fuldført, skal du genstarte computeren.
 
-Hvis du vil have mere at vide, skal du se ["beklager, vi kan ikke oprette forbindelse til din konto. Prøv igen senere "-fejl, når du aktiverer](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Du kan finde flere oplysninger [i "Vi beklager, men vi kan ikke oprette forbindelse til din konto. Prøv igen senere"-fejlen, når du aktiverer](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

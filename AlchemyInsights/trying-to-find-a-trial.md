@@ -1,8 +1,8 @@
 ---
-title: Forsøger du at finde en prøveversion?
+title: Prøver du på at finde en prøveversion?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658368"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834689"
 ---
-# <a name="trying-to-find-a-trial"></a>Forsøger du at finde en prøveversion?
+# <a name="trying-to-find-a-trial"></a>Prøver du på at finde en prøveversion?
 
-Hvis du vil prøve en ny tjeneste, kan du finde en liste over abonnementer, der er tilgængelige for prøve i Microsoft 365 administration.
+Hvis du gerne vil prøve en ny tjeneste, kan du finde en liste over abonnementer, der er tilgængelige til prøveversionen, i Microsoft 365 Administration.
   
-1. I administration skal du gå til siden **Fakturering** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. I Administration skal du  gå til siden \> [Faktureringskøb](https://go.microsoft.com/fwlink/p/?linkid=868433) af tjenester.
 
-2. Vælg det abonnement, der opfylder dine behov, og vælg derefter  **få gratis prøveversion**.
+2. Vælg det abonnement, der opfylder dine behov, og vælg  **derefter Få gratis prøveversion**.
 
     > [!NOTE]
-    > Ikke alle abonnementer er tilgængelige som en prøveversion. Hvis du ikke kan se knappen **få gratis prøveversion** , når du peger på et abonnement, betyder det, at en prøveversion ikke er tilgængelig.
+    > Ikke alle abonnementer er tilgængelige som prøveversion. Hvis du ikke kan se knappen Få gratis **prøveversion,** når du holder musen over et abonnement, betyder det, at prøveversionen ikke er tilgængelig.
   
-3. Du kan blive bedt om at angive et kreditkort eller en anden betalingsmetode for at give yderligere bekræftelse som en sikkerhedsforanstaltning. Du vil ikke blive opkrævet betaling for denne gratis prøveversion. Vi sørger for, at dine betalingsoplysninger bevares, og at de ikke kan bruges til køb uden din godkendelse.
+3. Du bliver muligvis bedt om at angive et kreditkort eller en anden betalingsmetode, så der kan foretages yderligere kontrol af sikkerhedsmæssige krav. Du bliver ikke opkrævet for denne gratis prøveversion. Vi opbevarer dine betalingsoplysninger, men bruger dem ikke til at foretage et køb uden din godkendelse.
 
-4. Vælg **Prøv nu**.
+4. Vælg **Prøv nu.**

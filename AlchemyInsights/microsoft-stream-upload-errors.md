@@ -1,8 +1,8 @@
 ---
-title: Overførselsfejl i Microsoft Stream
+title: Microsoft Stream-uploadfejl
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5094"
-ms.openlocfilehash: 25adfcf9df258c29b21f78e37ce4247ba5bdc61b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6f0f9cc6a65be912b72431b4b4824011faef0f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675256"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833897"
 ---
-# <a name="microsoft-stream-upload-errors"></a>Overførselsfejl i Microsoft Stream
+# <a name="microsoft-stream-upload-errors"></a>Microsoft Stream-uploadfejl
 
-Hvis du modtager overførselsfejl i Microsoft stream, skal du se [overførselsfejl i Stream](https://docs.microsoft.com/stream/portal-understanding-upload-errors).
+Hvis du modtager overførselsfejl i Microsoft Stream, skal du se [Stream-uploadfejl.](https://docs.microsoft.com/stream/portal-understanding-upload-errors)

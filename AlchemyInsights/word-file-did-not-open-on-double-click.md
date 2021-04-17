@@ -1,8 +1,8 @@
 ---
-title: Word-filen åbnes ikke ved Dobbeltklik
+title: Word-filen blev ikke åbnet ved dobbeltklik
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794797"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834113"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument åbnet i den forkerte app eller åbnet ikke
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument åbnet i den forkerte app eller ikke åbnet
 
 Prøv et af disse forslag:
 
 **Vælg Word som standard**
 
-- Højreklik på dokumentet, Vælg **Åbn med**, og vælg derefter **Word**
+- Højreklik på dokumentet, vælg Åbn med , **og** vælg derefter **Word**
 
 **Kør en hurtig reparation**
 
-1. Gå til **Kontrol Panel > programmer > programmer og funktioner**.
+1. Gå til **Kontrolpanel > programmer > programmer og funktioner**.
 
-2. Vælg det Office-produkt, du vil reparere, og vælg derefter **Rediger**.
+2. Vælg det Office-produkt, du vil reparere, og vælg derefter **Skift**.
 
-3. Vælg indstillingen **hurtig reparation** , og vælg derefter **Reparer**.
+3. Vælg indstillingen **Hurtig reparation,** og vælg derefter Reparer . 
 
 **Fjerne versioner af Office, du ikke bruger**
 
-1. Gå til **Kontrol Panel > Fjern et program**, og vælg derefter den version af Office, du vil fjerne.
+1. Gå til **Kontrolpanel > Fjern et Program,** og vælg derefter den version af Office, du vil fjerne.
 
-2. Klik på **Fjern**.
+2. Klik **på Fjern.**
 
 3. Genstart computeren.
 
-**Kør dette fejlfindingsværktøj for at angive, at Office-filtyper skal åbnes i Office**
+**Kør dette fejlfindingsværktøjet for at indstille Office-filtypenavne til at åbne i Office**
 
-1. Kør denne fejlfinding: https://aka.ms/diag_officefile .
+1. Kør dette fejlfindingsværktøjet: https://aka.ms/diag_officefile .
 
-2. Afhængigt af din browser skal du **åbne** eller **gemme** fejlfindingen på skrivebordet og derefter **køre** det.
+2. Afhængigt af din browser **skal** du **åbne eller** gemme fejlfindingsværktøjet på skrivebordet og derefter **køre** det.

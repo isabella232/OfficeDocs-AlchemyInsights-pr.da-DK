@@ -1,8 +1,8 @@
 ---
-title: Fejlfindings konfiguration til streaming-administration af streaming-licenser
+title: Fejlfinding i forbindelse med konfiguration af Stream – Administration af Stream-licensering
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 43d0a04194214a9630958ad80707187d9f8f3270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749652"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834761"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Administrere Microsoft Stream-licenser
+# <a name="managing-microsoft-stream-licenses"></a>Administration af Microsoft Stream-licenser
 
-**Vigtigt!** Du skal være i rollen som Lejeradministrator for at udføre handlinger, der er beskrevet i dette emne.
+**Vigtigt!** Du skal være i rollen Lejeradministrator for at udføre handlinger, der er beskrevet i dette emne.
 
-Du skal enten være global administrator eller en administrator af brugeradministrationen. Hvis du vil have mere at vide, skal du se [om administratorroller](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+Du skal enten være global administrator eller administrator for brugerstyring. Du kan få mere at vide [under Om administratorroller.](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)
 
-Du kan tildele [licenser til brugerkonti med Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Du kan tildele [licenser til brugerkonti med Office 365 PowerShell.](https://go.microsoft.com/fwlink/p/?linkid=850410)

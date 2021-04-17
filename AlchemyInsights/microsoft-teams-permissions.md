@@ -1,8 +1,8 @@
 ---
-title: Microsoft teams-tilladelser
+title: Microsoft Teams-tilladelser
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777706"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833753"
 ---
-# <a name="microsoft-teams-permissions"></a>Microsoft teams-tilladelser
+# <a name="microsoft-teams-permissions"></a>Microsoft Teams-tilladelser
 
-Microsoft teams indeholder to brugerroller: ejer og medlem. Som standard får en bruger, der opretter et nyt team, tildelt ejerstatussen. Derudover kan ejere og medlemmer have redaktør egenskaber for en kanal (hvis der er konfigureret indstilling). Hvis et team er oprettet fra en eksisterende Microsoft 365-gruppe, arves tilladelser. Du kan finde flere oplysninger under:
+Microsoft Teams har to brugerroller: ejer og medlem. Som standard får en bruger, der opretter et nyt team, tildelt ejerstatussen. Desuden kan ejere og medlemmer have redaktørfunktioner til en kanal (hvis redigering er blevet konfigureret). Hvis et team oprettes ud fra en eksisterende Microsoft 365-gruppe, nedarves tilladelser. Du kan finde flere oplysninger under:
 
-- [Tildel team ejere og medlemmer i Microsoft teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Tilladelser og overvejelser for Microsoft teams-apps](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Angive gæste tilladelser for kanaler i teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Tildel teamejere og -medlemmer i Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Tilladelser og overvejelser i forbindelse med apps til Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Angiv gæstetilladelser for kanaler i Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

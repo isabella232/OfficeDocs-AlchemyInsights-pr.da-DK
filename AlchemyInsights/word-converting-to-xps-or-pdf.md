@@ -1,8 +1,8 @@
 ---
-title: Word – konvertering til XPS eller PDF
+title: Word – Konvertering til XPS eller PDF
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794833"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834185"
 ---
-# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Løse problemer med konvertering af et Word-dokument til XPS eller PDF
+# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Løse problemer med at konvertere et Word-dokument til XPS eller PDF
 
 Her er nogle løsninger på almindelige problemer. 
 
-**Sådan eksporteres eller gemmes et Word-dokument som PDF eller XPS:**
+**Sådan eksporterer eller gemmer du et Word-dokument som PDF eller XPS:**
 
-1. I Word-dokumentet skal du **vælge**  >  **eksport**  >  **Opret PDF/XPS-dokument**  >  **Opret PDF/XPS**.
+1. I dit Word-dokument skal du vælge   >  **Fileksport**  >  **Opret PDF/XPS-dokument**  >  **Opret PDF/XPS.**
 
-2. I vinduet **Udgiv som PDF eller XPS** skal du gå til placeringen for filen, ændre filnavnet, hvis du har lyst, og derefter vælge **Udgiv**.
+2. I vinduet **Udgiv som PDF** eller XPS skal du gå til filens placering, ændre filnavnet, hvis du vil, og derefter vælge **Publicer.**
 
 **Sådan forbedrer du billedkvaliteten i en PDF-fil, der genereres af Word:**
 
-1. I Word-dokumentet skal du **vælge**  >  **eksport**  >  **Opret PDF/XPS-dokument**  >  **Opret PDF/XPS**.
+1. I dit Word-dokument skal du vælge   >  **Fileksport**  >  **Opret PDF/XPS-dokument**  >  **Opret PDF/XPS.**
 
-2. I vinduet **Udgiv som PDF eller XPS** skal du vælge **Indstillinger**  >  **optimerer for billedkvalitet**. Angiv de ønskede indstillinger, og vælg **OK**. 
+2. I vinduet **Udgiv som PDF eller XPS** skal du vælge **Indstillinger**  >  **Optimer til billedkvalitet.** Angiv eventuelt andre ønskede indstillinger, og vælg **OK.** 
 
-**Sådan føjer du tilgængeligheds mærker til en PDF-fil, der genereres af Word:**
+**Sådan føjer du mærker for tilgængelighed til en PDF-fil, der er oprettet af Word:**
  
-1. I Word-dokumentet skal du **vælge**  >  **eksport**  >  **Opret PDF/XPS-dokument**  >  **Opret PDF/XPS**.
+1. I dit Word-dokument skal du vælge   >  **Fileksport**  >  **Opret PDF/XPS-dokument**  >  **Opret PDF/XPS.**
 
-2. I vinduet **Udgiv som PDF eller XPS** skal du vælge **Indstillinger**  >  **for dokumentstruktur mærker til hjælp til handicappede**. Angiv de ønskede indstillinger, og vælg **OK**.
+2. I vinduet **Udgiv som PDF eller XPS** skal du vælge **Indstillinger For koder** til  >  **dokumentstrukturering for hjælp til handicappede.** Angiv eventuelt andre ønskede indstillinger, og vælg **OK.**
 
-Du kan finde flere oplysninger om indstillinger for konvertering af Office-filer til XPS eller PDF i [Gem eller Konverter til PDF eller XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+Du kan finde flere oplysninger om muligheder for at konvertere Office-filer til XPS eller PDF under [Gem eller konvertér til PDF eller XPS.](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110)

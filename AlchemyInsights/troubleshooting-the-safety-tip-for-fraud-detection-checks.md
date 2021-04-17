@@ -1,8 +1,8 @@
 ---
-title: Fejlfinding af sikkerheds tips til kontrol af registrering af svindel
+title: Fejlfinding af sikkerhedstip ved registrering af svindelkontroller
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: e42b498070bf5d9bfc36110667da8cc0fd431524
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658404"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834725"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Fejlfinding af sikkerheds tips til kontrol af registrering af svindel
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Fejlfinding af sikkerhedstip ved registrering af svindelkontroller
 
-Hvis du får et sikkerheds-tip om, at der står "afsenderen mislykkede vores kontrol af svindel registrering og måske ikke, hvem de ser ud til at være", har afsenderen ikke bestået DKIM-eller SPF-godkendelseskontrol. Den bedste metode til at løse dette er, at afsenderen godkender sig selv. Hvis afsenderen sender på dine vegne, skal du godkende dem ved at føje afsenderens IP-adresse til din SPF-post.
+Hvis du får et sikkerhedstip, hvor der står, at "Afsenderen kunne ikke vores kontroller til registrering af svindel og er muligvis ikke den, de ser ud til at være", så kunne afsenderen ikke bestå enten DKIM- eller SPF-godkendelseskontrollerne. Den bedste metode til at løse dette er, at afsenderen godkender sig selv. Hvis afsenderen sender på dine vegne, skal du godkende vedkommende ved at føje afsenderens IP-adresse til SPF-posten.
   
-Se [fejlfinding af det røde (mistænkelige) sikkerheds tip til registrering af svindel](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) numre for at få flere oplysninger.
+Se [Fejlfinding af det røde (mistænkelige) sikkerhedstip til registrering af svindel](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) for at få flere oplysninger.
   
 Her er nogle andre links, der kan hjælpe:
   
-- [Hvordan Microsoft bruger SPF (afsender politik Framework) til at forhindre forfalskning](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
+- [Sådan bruger Microsoft SPF (Sender Policy Framework) til at forhindre spoofing](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [Konfigurere SPF for at forhindre forfalskning](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Konfigurer SPF for at forhindre spoofing](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)

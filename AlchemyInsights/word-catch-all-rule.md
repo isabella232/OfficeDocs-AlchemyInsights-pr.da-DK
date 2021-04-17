@@ -1,8 +1,8 @@
 ---
-title: Word-catch-all-regel
+title: Catch-all-regel i Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3481"
 - "9001466"
-ms.openlocfilehash: 9cb582ab66e6236effbec968a8e7dae54270cfe3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 538bf292b5baa51a6a24ae4c2d060848cea97695
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698646"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834221"
 ---
-# <a name="common-issues-and-resolutions-with-word"></a>Almindelige problemer og løsninger med Word
+# <a name="common-issues-and-resolutions-with-word"></a>Almindelige problemer og løsninger i Word
 
-Her er nogle af de mest populære artikler, der kan hjælpe med at løse almindelige problemer i Word:
+Her er nogle af de artikler, du ofte efterspurgt, som kan være med til at løse almindelige problemer i Word:
 
-- [Ret fejl ved åbning eller lagring af Word-filer](https://docs.microsoft.com/alchemyinsights/errors-opening-or-saving-files)
-- [Hvorfor blev min fil åbnet i skrivebeskyttet tilstand?](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)
+- [Løs fejl under åbning eller lagring af Word-filer](https://docs.microsoft.com/alchemyinsights/errors-opening-or-saving-files)
+- [Hvorfor blev min fil åbnet som skrivebeskyttet?](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)
 - [Samarbejd om Word-dokumenter med samtidig redigering i realtid](https://support.office.com/article/collaborate-on-word-documents-with-real-time-co-authoring-7dd3040c-3f30-4fdd-bab0-8586492a1f1d?wt.mc_id=fsn_word_share_and_coauthor)
-- [Fejlfinding af udskrifts fejl i Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word)
+- [Fejlfinding af udskriftsfejl i Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word)
 
-Du kan finde flere oplysninger i [Hjælp-center til Word](https://support.office.com/word).
+Du kan finde flere oplysninger i [Word Hjælp-center.](https://support.office.com/word)
