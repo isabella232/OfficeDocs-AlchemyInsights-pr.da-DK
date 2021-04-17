@@ -1,8 +1,8 @@
 ---
-title: Fang alle synkroniseringsproblemer
+title: Opfang alle synkroniseringsproblemer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757042"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819398"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="56824-102">Grundlæggende fejlfinding af synkronisering af Outlook</span><span class="sxs-lookup"><span data-stu-id="56824-102">Basic Outlook sync troubleshooting</span></span>
+# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="f597c-102">Fejlfinding af grundlæggende outlook-synkronisering</span><span class="sxs-lookup"><span data-stu-id="f597c-102">Basic Outlook sync troubleshooting</span></span>
 
-<span data-ttu-id="56824-103">Hvis du har synkroniseringsproblemer, kan du prøve følgende:</span><span class="sxs-lookup"><span data-stu-id="56824-103">If you're having sync issues, try the following:</span></span>
+<span data-ttu-id="f597c-103">Hvis du har synkroniseringsproblemer, kan du prøve følgende:</span><span class="sxs-lookup"><span data-stu-id="f597c-103">If you're having sync issues, try the following:</span></span>
 
-- <span data-ttu-id="56824-104">Kør [Dette diagnosticeringsværktøj](https://aka.ms/sara-outlooksendreceive) på den berørte computer.</span><span class="sxs-lookup"><span data-stu-id="56824-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
-- <span data-ttu-id="56824-105">Reducer antallet af mapper i den primære eller delte postkasse.</span><span class="sxs-lookup"><span data-stu-id="56824-105">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="56824-106">Se [problemer med ydeevnen i Outlook, når der er for mange elementer eller mapper i en cachelagret tilstand. ost-eller. pst-filmappe](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).</span><span class="sxs-lookup"><span data-stu-id="56824-106">See [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).</span></span>
-- <span data-ttu-id="56824-107">Deaktiver cachelagring af alle delte mapper.</span><span class="sxs-lookup"><span data-stu-id="56824-107">Disable caching of all shared folders.</span></span>
-- <span data-ttu-id="56824-108">Ret konfigurationen af den sekundære Exchange-postkasse til en anden Exchange-konto i din profil.</span><span class="sxs-lookup"><span data-stu-id="56824-108">Change the configuration of the secondary Exchange mailbox to a second Exchange account in your profile.</span></span>
-- <span data-ttu-id="56824-109">Sørg for, at brugeren kan oprette forbindelse til internettet.</span><span class="sxs-lookup"><span data-stu-id="56824-109">Make sure the user can connect to the Internet.</span></span> 
-- <span data-ttu-id="56824-110">[Kontrollér, at du er online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="56824-110">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
-- <span data-ttu-id="56824-111">[Find ud af, om der er anvendt en regel](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="56824-111">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
-- <span data-ttu-id="56824-112">Kontrollér, at **download af delte mapper** er aktiveret, ved at gå til indstillinger for **fillager**kontoindstillinger  >  **Account Settings**  >  **Account Settings**  >  **flere indstillinger**  >  **Avanceret**.</span><span class="sxs-lookup"><span data-stu-id="56824-112">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
+- <span data-ttu-id="f597c-104">Kør [dette diagnosticeringsværktøj](https://aka.ms/sara-outlooksendreceive) på den pågældende computer.</span><span class="sxs-lookup"><span data-stu-id="f597c-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
+- <span data-ttu-id="f597c-105">Reducer antallet af mapper i den primære eller delte postkasse.</span><span class="sxs-lookup"><span data-stu-id="f597c-105">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="f597c-106">Se Ydeevneproblemer i Outlook, når der er for mange elementer eller mapper i en [Cachelagret tilstand .ost- eller .pst-filmappe.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)</span><span class="sxs-lookup"><span data-stu-id="f597c-106">See [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).</span></span>
+- <span data-ttu-id="f597c-107">Deaktiver cachelagring af alle delte mapper.</span><span class="sxs-lookup"><span data-stu-id="f597c-107">Disable caching of all shared folders.</span></span>
+- <span data-ttu-id="f597c-108">Rediger konfigurationen af den sekundære Exchange-postkasse til en anden Exchange-konto i din profil.</span><span class="sxs-lookup"><span data-stu-id="f597c-108">Change the configuration of the secondary Exchange mailbox to a second Exchange account in your profile.</span></span>
+- <span data-ttu-id="f597c-109">Sørg for, at brugeren kan oprette forbindelse til internettet.</span><span class="sxs-lookup"><span data-stu-id="f597c-109">Make sure the user can connect to the Internet.</span></span> 
+- <span data-ttu-id="f597c-110">[Kontrollér, at du er online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="f597c-110">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
+- <span data-ttu-id="f597c-111">[Afgør, om en regel skal anvendes.](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)</span><span class="sxs-lookup"><span data-stu-id="f597c-111">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
+- <span data-ttu-id="f597c-112">Kontrollér, **at Hent delte mapper er** aktiveret ved at gå til **Filkontoindstillinger**  >    >  **Kontoindstillinger Flere** indstillinger  >    >  **Avanceret**.</span><span class="sxs-lookup"><span data-stu-id="f597c-112">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>

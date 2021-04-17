@@ -1,8 +1,8 @@
 ---
-title: Skift navneservere på NameCheap
+title: Skift navneservere på Namecheap
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5865"
 - "14"
-ms.openlocfilehash: 550cd3a9ec8b6e9f647a423ed35e2a249847a308
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fed42cddb6a786bc9c8836ec3eec195f1a12919b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682226"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818678"
 ---
-# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="05585-102">Skift navneservere på NameCheap</span><span class="sxs-lookup"><span data-stu-id="05585-102">Change nameservers at Namecheap</span></span>
+# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="118df-102">Skift navneservere på Namecheap</span><span class="sxs-lookup"><span data-stu-id="118df-102">Change nameservers at Namecheap</span></span>
 
-[<span data-ttu-id="05585-103">Skift navneservere for at konfigurere Microsoft 365 med NameCheap</span><span class="sxs-lookup"><span data-stu-id="05585-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
+[<span data-ttu-id="118df-103">Skift navneservere for at konfigurere Microsoft 365 med Namecheap</span><span class="sxs-lookup"><span data-stu-id="118df-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
 
-<span data-ttu-id="05585-104">For andre domæne problemer skal du prøve [domænerne ofte stillede spørgsmål](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="05585-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="118df-104">Hvis du har andre problemer med domæner, kan du prøve [ofte stillede spørgsmål om domæner](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="118df-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
