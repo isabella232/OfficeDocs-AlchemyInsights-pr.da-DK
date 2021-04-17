@@ -2,7 +2,7 @@
 title: Teams-licenser til studerende
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001723"
 - "3822"
-ms.openlocfilehash: 56f090440b2dc22dd829019da22f47484fe7e6b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a30f1d02d8560e9aad27597de44cb206671f09e9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750589"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833357"
 ---
 # <a name="teams-student-licenses"></a>Teams-licenser til studerende
 
@@ -25,7 +25,7 @@ Hvis du har en EDU-lejer, skal du aktivere Microsoft Teams manuelt:
 
 1. Gå til Microsoft 365 Administration **Indstillinger > Indstillinger > Microsoft Teams**. 
 
-2. Hvis du ikke kan se Microsoft Teams i listen Tjenester, skal du deaktivere **Prøv den nye Administration** for at finde **Indstillinger > Tjenester og tilføjelsesprogrammer > Microsoft Teams**. 
+2. Hvis du ikke kan se Microsoft Teams på listen Tjenester, skal du deaktivere **Prøv den nye Administration** for at finde **Indstillinger > Tjenester og tilføjelsesprogrammer > Microsoft Teams**. 
 
 Hvis du vil have mere at vide, kan du læse [Aktivér Microsoft Teams for din skole](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
 

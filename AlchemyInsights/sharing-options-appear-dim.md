@@ -1,8 +1,8 @@
 ---
-title: Indstillinger for deling vises nedtonede eller ikke tilgængelige
+title: Indstillinger for deling vises som Nedtonet eller Ikke tilgængelig
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 86d14adff3967a11fadf057302233764512e5b46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 217c18ddaf12d688f61f030f4c650183aa1e2a2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758527"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832592"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a>Indstillinger for deling vises nedtonede eller er ikke tilgængelige
+# <a name="sharing-options-appear-dim-or-are-not-available"></a>Delingsindstillinger vises nedtonet eller er ikke tilgængelige
 
-Hvis nogle af indstillingerne for deling eller ikke er tilgængelige, når du forsøger at dele fra SharePoint Online eller OneDrive, skal du se [Indstillinger for deling er nedtonet, når du deler fra SharePoint Online eller onedrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).
+Hvis nogle delingsindstillinger eller ikke er tilgængelige, når du forsøger at dele fra SharePoint Online eller OneDrive, skal du se Delingsindstillinger er nedtonet, når du deler fra [SharePoint Online eller OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).

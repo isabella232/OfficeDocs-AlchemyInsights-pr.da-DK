@@ -2,7 +2,7 @@
 title: Fejlfinding af lydproblemer i Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750301"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833285"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Fejlfinding af lydproblemer i Windows 10
 
-**Kør fejlfindingsværktøjet lyd**
+**Kør lydfejlfinding**
 
-1.  Åbne [fejlfindingsindstillingerne](ms-settings:troubleshoot).
+1.  Åbn indstillingerne [for fejlfinding.](ms-settings:troubleshoot)
 
-2.  Vælg **afspilning af lyd**  >  **Kør fejlfindingen**.
+2.  Vælg **Afspilning af lyd** Kør  >  **fejlfindingsværktøjet**.
 
-**Angive standardenheden**
+**Angiv standardenheden**
 
-Hvis du opretter forbindelse til en lydenhed med USB eller HDMI, skal du muligvis angive den pågældende enhed som standard:
+Hvis du opretter forbindelse til en lydenhed ved hjælp af USB eller HDMI, skal du muligvis angive den pågældende enhed som standardenhed:
 
-1. Åbn **Start**  >  **lyd**, og vælg derefter **lyd** eller **Skift systemlyde** på listen over resultater.
+1. Åbn **Start**  >  **lyd**, og vælg derefter **Lyd** eller **Skift systemlyde** på listen over resultater.
 
-2.  På fanen **afspilning** skal du vælge en enhed, vælge **Angiv standard**og derefter vælge **OK**.
+2.  På fanen **Afspilning** skal du vælge en enhed, **vælge Angiv standard** og derefter vælge **OK**.
 
-**Kontrollér kabler, lydstyrke, højttalere og hovedtelefoner**
+**Tjek kabler, lydstyrke, højttalere og hovedtelefoner**
 
-1. Kontrollér din højttaler og dine hovedtelefon forbindelser for løse kabler, og sørg for, at de er tilsluttet til det rigtige stik.
+1. Kontrollér dine højttaler- og hovedtelefonforbindelser for løse kabler, og sørg for, at de er forbundet til det rigtige stik.
 
-2. Kontrollér dine strøm-og lydstyrkeniveauer, og prøv at tænde for alle lydstyrkeindstillingerne.
+2. Kontrollér strøm og lydstyrkeniveauer, og prøv at skrue op for alle lydstyrkeknapper.
 
-3. Nogle højttalere og apps har deres egen lydstyrkekontrol. Du skal muligvis kontrollere dem alle for at sikre, at de er på de rigtige niveauer.
+3. Nogle højttalere og apps har deres egne lydstyrkeknapper. skal du muligvis kontrollere dem alle for at sikre dig, at de er på de rigtige niveauer.
 
-4. Prøv at oprette forbindelse ved hjælp af en anden USB-port.
+4. Prøv at tilslutte ved hjælp af en anden USB-port.
 
-**Bemærk**: Husk, at dine højttalere muligvis ikke fungerer, når hovedtelefoner er tilsluttet.
+**Bemærk:** Husk, at dine højttalere muligvis ikke fungerer, når hovedtelefonerne er tilsluttet.
 
 **Kontrollér Enhedshåndtering**
 
-Sådan sikres det, at driverne er opdaterede:
+Sådan sikrer du, at driverne er opdaterede:
 
-1. Vælg **Start**, Skriv **Enhedshåndtering**, og vælg derefter **Enhedshåndtering** på listen over resultater.
+1. Vælg **Start**, skriv **Enhedshåndtering**, og vælg **derefter Enhedshåndtering** på listen over resultater.
 
-2. Under **enheder til lydoptagelse, video og spil**skal du vælge dit lydkort, åbne det, vælge fanen **driver** og vælge **Opdater driver**.
+2. Under **Lyd, video og spilcontrollere** skal du vælge dit lydkort, åbne det, vælge fanen **Driver** og vælge **Opdater driver**.
 
-**Bemærk**! hvis Windows ikke finder en ny driver, kan du søge efter en på enhedsproducentens websted og følge vejledningen.
+**Bemærk!** Hvis Windows ikke finder en ny driver, skal du søge efter en på webstedet for enhedsproducenten og følge instruktionerne.
 
 **Geninstaller driveren**
 
 Hvis du ikke kan opdatere via Enhedshåndtering eller finde en ny driver på producentens websted, kan du prøve disse trin:
 
-1. I Enhedshåndtering skal du højreklikke (eller trykke og holde) på lyddriveren og vælge **Fjern**. Genstart din enhed, og Windows vil forsøge at geninstallere driveren.
+1. I Enhedshåndtering skal du højreklikke (eller trykke og holde nede) på lyddriveren og vælge **Fjern.** Genstart enheden, så forsøger Windows at geninstallere driveren.
 
-2. Hvis geninstallation af driveren ikke virker, kan du prøve at bruge den generiske lyddriver, der følger med Windows. I Enhedshåndtering skal du højreklikke (eller trykke og holde) på lyddriveren > **Opdater driversoftware**  >  **Gennemse min computer for driversoftware**  >  **Lad mig vælge fra en liste over enhedsdrivere på min computer**, Vælg **næste**, og følg vejledningen for at installere den. **High Definition Audio Device**
+2. Hvis det ikke virker at geninstallere driveren, kan du prøve at bruge den generiske lyddriver, der leveres med Windows. I Enhedshåndtering skal du højreklikke (eller trykke og holde) på din lyddriver > Opdater **driversoftware** Gennemse computeren efter driversoftware Lad mig vælge på en liste over enhedsdrivere på computeren , vælg Lydenhed med HD , vælg Næste , og følg vejledningen for at installere  >    >  den.  

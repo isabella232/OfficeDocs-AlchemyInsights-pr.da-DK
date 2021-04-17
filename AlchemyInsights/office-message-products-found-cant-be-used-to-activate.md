@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 apps-meddelelse – de produkter, vi fandt på din konto, kan ikke bruges til at aktivere
+title: Meddelelsen Microsoft 365-apps – De produkter, vi fandt på din konto, kan ikke bruges til at aktivere
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 6345f3acabb73f283c918cf7f3ca0c5c055f6186
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b44c63c3e56b5c748e4d4d4d5bb54a74c32561c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802735"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832916"
 ---
-# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Microsoft 365 apps-meddelelse – de produkter, vi fandt på din konto, kan ikke bruges til at aktivere
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Meddelelsen Microsoft 365-apps – De produkter, vi fandt på din konto, kan ikke bruges til at aktivere
 
 - Kontrollér, at din [abonnementsstatus](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) er gyldig, og at den pågældende bruger har en [gyldig licens tildelt](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) og har forbindelse til internettet. 
 

@@ -1,8 +1,8 @@
 ---
-title: Meddelelser fra Microsoft 365-apps – vi er stødt på et problem med dit abonnement
+title: Meddelelse om Microsoft 365-apps – Vi er løbet ind i et problem med dit abonnement
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 43a0bae34c22fc99b3bebdc4999f325d76f9d0c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c7907c43fcaa74146c379c2a1cae3f43416ae7d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802699"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832880"
 ---
-# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meddelelser fra Microsoft 365-apps – vi er stødt på et problem med dit abonnement
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meddelelse om Microsoft 365-apps – Vi er løbet ind i et problem med dit abonnement
 
 - Hvis du har skiftet abonnement/plan for nylig, skal du følge trinnene i ["Kontomeddelelse", der vises i Office, efter du har skiftet plan](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d), for at geninstallere eller opdatere Office.
 
