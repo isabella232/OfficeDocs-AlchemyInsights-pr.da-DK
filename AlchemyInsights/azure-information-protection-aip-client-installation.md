@@ -2,7 +2,7 @@
 title: 'Azure information Protection: AIP-klientinstallation'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 97316befa65bad54d5de603aae804a22af7688c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714898"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820748"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure information Protection: AIP-klientinstallation
 
@@ -34,8 +34,8 @@ Hvis du installerer AIP-klienten, skal du følge disse trin:
 
 4. Hvis du stadig oplever problemer, når du installerer klienten selv efter at have kørt værktøjet herover, skal du finde mappen **%temp%** og angive de klientinstallationslogfiler, der starter med Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.
 
-For at få flere oplysninger:
+Hvis du vil have mere at vide:
 
-- Gennemse [dokumentationen til Azure information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), konfigurations [krav](https://docs.microsoft.com/azure/information-protection/get-started/requirements) og placering for at [downloade AIP-klienten](https://www.microsoft.com/download/details.aspx?id=53018).
+- Gennemse [Dokumentation til Azure Information Protection (AIP),](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)konfigurationskrav [og](https://docs.microsoft.com/azure/information-protection/get-started/requirements) placering for at [downloade AIP-klienten.](https://www.microsoft.com/download/details.aspx?id=53018)
 
-- Hvis du vil have oplysninger om Azure-abonnement, skal du se [abonnementer og funktioner i Azure-informations beskyttelse](https://azure.microsoft.com/pricing/details/information-protection).
+- Du kan finde oplysninger om Azure-abonnement [i Azure Information Protection-abonnementer og -funktioner](https://azure.microsoft.com/pricing/details/information-protection).

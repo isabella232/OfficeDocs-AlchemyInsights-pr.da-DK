@@ -2,7 +2,7 @@
 title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685592"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820172"
 ---
-# <a name="blocking-legacy-authentication"></a>Blokere Legacy-godkendelse
+# <a name="blocking-legacy-authentication"></a>Blokering af ældre godkendelse
 
-Ældre godkendelse er et udtryk, der refererer til en anmodning om godkendelse, der er oprettet af:
+Ældre godkendelse er et udtryk, der refererer til en godkendelsesanmodning, der er foretaget af:
 
-- Ældre Office-klienter, der ikke bruger moderne godkendelse (f. eks. Office 2010-klient).
+- Ældre Office-klienter, der ikke bruger moderne godkendelse (f.eks. Office 2010-klient).
 
-- Alle klienter, der bruger ældre mail protokoller som IMAP/SMTP/POP3.
+- Alle klienter, der bruger ældre mailprotokoller, f.eks. IMAP/SMTP/POP3.
 
-Hvis du vil have mere at vide om at blokere for ældre godkendelse og aktivere moderne godkendelse, skal du se [blokere for ældre godkendelse](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+Du kan finde flere oplysninger om at blokere ældre godkendelse og aktivere moderne godkendelse under [Blokering af ældre godkendelse.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)
 
-Sikkerhedsstandarder i Azure Active Directory (Azure AD) gør det nemmere at være sikkert og hjælpe med at beskytte din organisation. Sikkerhedsstandarder indeholder forudkonfigurerede sikkerhedsindstillinger for almindelige angreb.
-Hvis du vil have mere at vide om sikkerhedsstandarder, skal du se [Hvad er sikkerhedsstandarder?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+Sikkerhedsstandarden i Azure Active Directory (Azure AD) gør det nemmere at være sikker og beskytte din organisation. Sikkerhedsstandarden indeholder forudkonfigurerede sikkerhedsindstillinger for almindelige angreb.
+Du kan finde flere oplysninger om sikkerhedsstandard i [Hvad er sikkerhedsstandard?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
-**Bemærk**! hvis din lejer blev oprettet på eller efter oktober 22nd, 2019, er det muligt, at du oplever den nye sikre-og standardfunktionsmåde, og at der allerede er aktiveret sikkerhedsstandarder i din lejer.  Med henblik på at beskytte alle vores brugere bliver sikkerhedsstandarder udrullet til alle nye lejere, der oprettes.
+**Bemærk!** Hvis din lejer blev oprettet den 22. oktober 2019, er det muligt, at du oplever den nye, sikre funktionsmåde som standard og allerede har aktiveret sikkerhedsstandardindstillinger i din lejer.  For at beskytte alle vores brugere rulles der sikkerhedsstandard ud til alle nye lejere, der oprettes.

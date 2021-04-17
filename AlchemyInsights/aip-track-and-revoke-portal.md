@@ -1,8 +1,8 @@
 ---
-title: 'AIP: registrere og tilbagekalde portalen'
+title: 'AIP: Spore og tilbagekalde portal'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663147"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821585"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AIP: registrere og tilbagekalde portalen
+# <a name="aip-track-and-revoke-portal"></a>AIP: Spore og tilbagekalde portal
 
-Brug **webstedet til dokumentsporing** i Azure-portalen til at registrere og tilbagekalde dokumenter ved hjælp af Azure information Protection. Office-programmerne (Word, Excel og PowerPoint) og Stifinder kan også bruges til at registrere og tilbagekalde dokumenter.
+Brug webstedet **til dokumentsporing i** Azure-portalen til at spore og tilbagekalde dokumenter, når du bruger Azure Information Protection. Office-programmerne (Word, Excel og PowerPoint) og Stifinder kan også bruges til at spore og tilbagekalde dokumenter.
 
-1. Klik på **Tilbagekald adgang**på webstedet dokumentsporing. Hvis du tilbagekalder et dokument, fjernes adgangen fra autoriserede brugere. dokumentet slettes ikke.
+1. Klik på Tilbagekald adgang på webstedet til **dokumentsporing.** Tilbagekaldelse af et dokument fjerner adgangen fra autoriserede brugere. dokumentet slettes ikke.
 2. I Office-programmet:
-    - Åbn det beskyttede dokument, du vil registrere eller tilbagekalde.
-    - Klik på **beskyt > registrere og tilbagekalde**i gruppen **beskyttelse** under fanen **hjem** .
+    - Åbn det beskyttede dokument, som du vil registrere eller tilbagekalde.
+    - På fanen **Hjem** i gruppen Beskyttelse **skal du klikke** på **Beskyt, > registrer og tilbagekald**.
 
-- Hvis du vil have mere at vide om at registrere og tilbagekalde et dokument, skal du se [registrere og tilbagekalde](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- Du kan finde flere oplysninger om registrering og tilbagekaldelse af et dokument i [Spore og tilbagekalde](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
 
-Du kan finde oplysninger om, hvordan du bruger PowerShell til at administrere webstedet for dokumentsporing, oplysninger om logføring i følgende:
-- [Brugervejledning: registrere og tilbagekalde dine dokumenter, når du bruger Azure information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Administratorvejledning: konfigurere og bruge dokumentsporing til Azure information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Licenser til brug af rettighedsadministration](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Gennemgå abonnementer og funktioner til Azure-informations beskyttelse](https://azure.microsoft.com/pricing/details/information-protection)
-- [Krav til Azure information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Startvejledning til hurtig start til Azure information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+Du kan finde oplysninger om brug af PowerShell til at administrere webstedet til dokumentsporing og logføring af oplysninger i følgende:
+- [Brugervejledning: Registrere og tilbagekalde dine dokumenter, når du bruger Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Administratorvejledning: Konfiguration og brug af dokumentsporing for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Rettighedsstyringsbrugslicens](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Gennemse Azure Information Protection-abonnementer og -funktioner](https://azure.microsoft.com/pricing/details/information-protection)
+- [Krav til Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Quick Start-selvstudium til Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

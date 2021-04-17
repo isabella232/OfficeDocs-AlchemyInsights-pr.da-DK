@@ -1,8 +1,8 @@
 ---
-title: Spam-5.7.23
+title: Antispam - 5.7.23
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 7b3a322c8241f24d30d36cfd1a4440737466b58f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9abbff56570e27b2ad7308860be32ad6586cf4f7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717283"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821369"
 ---
-# <a name="banned-sending-ip"></a>Forbudt afsendelse af IP
+# <a name="banned-sending-ip"></a>Forbudt afsendelses-IP
 
-Når du sender til en Office 365-modtager, kan en afsender opleve denne fejl. Afsenderen skal besøge [Office 365-afleverings portalen for IP-spam](https://sender.office.com/) og angive deres mailadresse og IP-adresse, der skal opdeles. Hvis de ikke modtager en bekræftelse via mail fra portalen, skal de kontrollere mappen spam og/eller prøve med en anden mailadresse. 
+Når der sendes til en Office 365-modtager, kan en afsender opleve denne fejl. Afsenderen skal besøge [Office 365 Anti-Spam IP Delist Portal](https://sender.office.com/) og angive sin mailadresse og IP-adresse, der skal findes på listen. Hvis de ikke modtager en bekræftelsesmail fra portalen, skal du få dem til at kontrollere mappen med uønsket post og/eller prøve med en anden mailadresse. 
 
-- Hvis du vil have mere at vide, skal du se [brug af listen over afsendere på listen over blokerede afsendere](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
+- Hvis du vil have detaljeret vejledning, [skal du se Brug aflisteportalen til at fjerne dig selv fra listen over blokerede afsendere.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide)
