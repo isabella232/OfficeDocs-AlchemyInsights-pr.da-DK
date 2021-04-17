@@ -1,8 +1,8 @@
 ---
-title: Private teams
+title: Private Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: d81ac4790ab62f882bd35f0b8b4ea95a4b789abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803603"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835985"
 ---
-# <a name="managing-discovery-of-private-teams"></a>Administrere registrering af private teams
+# <a name="managing-discovery-of-private-teams"></a>Administrer registrering af private Teams
 
 **Nye teams**
 
-Når en gruppeejer opretter et privat team, kan de vælge at få det til at registrere sig ved at konfigurere gruppens Registreringsindstillinger. Som standard er nye private teams søgbare og synlige. Hvis team ejeren ikke ønsker, at det private team skal vises i søgeresultater og forslag, kan ejeren slå indstillingen fra ved at vælge Skift indstilling ud for dette team kan søges og registreres.  
+Når en teamejer opretter et privat team, kan de vælge at gøre det synligt ved at konfigurere indstillingen for teamregistrering. Nye private teams er som standard søgbare og søgbare. Hvis teamejeren ikke ønsker, at det private team vises i søgeresultater og forslag, kan ejeren deaktivere indstillingen ved at vælge Skift indstilling ud for Dette team er søgbart og synligt.  
 
 **Eksisterende teams**
 
-Team ejere kan angive indstillingen for registrering af et eksisterende privat team direkte i team indstillingerne, og administratorer kan gøre det ved hjælp af PowerShell.  
+Teamejere kan indstille Discovery-indstillingen for et eksisterende privat team direkte i teamindstillingerne, og administratorer kan gøre det ved hjælp af PowerShell.  
 
-Du kan finde flere oplysninger i  [administrere registrering af private teams i Microsoft teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).
+Få mere at vide [under Administrer registrering af private teams i Microsoft Teams.](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)

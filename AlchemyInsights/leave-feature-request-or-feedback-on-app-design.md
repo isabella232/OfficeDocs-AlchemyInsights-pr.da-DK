@@ -1,8 +1,8 @@
 ---
-title: Gemme en funktions anmodning eller feedback på App-design
+title: Indlad en funktionsanmodning eller feedback på appdesign
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676516"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836525"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Gemme en funktions anmodning eller feedback på App-design
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Indlad en funktionsanmodning eller feedback på appdesign
 
-Vi sætter pris på, at du deler dine tanker, når vi fortsat arbejder på Outlook. *UserVoice* er et forum, hvor du kan give feedback og stemme på andres ideer.  
+Vi sætter pris på, at du deler dine tanker, når vi fortsætter med at arbejde på Outlook. *UserVoice* er et forum, hvor du kan give feedback og stemme på andres idéer.  
 
-Sådan forlader du os en ide: 
+Så kan du give os en ide: 
 
-**Indstillinger > hjælp & feedback > foreslå en funktion > sende en ide** 
+**Indstillinger > Hjælp & feedback > Foreslå en funktion, > slå en idé op** 
 
-**Skal du være opmærksom på, hvordan dit navn/min mail vises?**
+**Er du ide om, hvordan dit navn/din mail vises?**
 
-Når du føjer en kommentar til en eksisterende funktions anmodning, udfylder appen automatisk dit navn eller din mailadresse fra din primære konto, der er konfigureret i appen. Hvis du vil vælge, hvilket navn der vises, skal du sende en **ny** funktions anmodning. 
+Når du tilføjer en kommentar til en eksisterende funktionsanmodning, udfylder appen automatisk enten dit navn eller din mailadresse fra din primære konto, der er konfigureret i appen. Hvis du vil vælge, hvilket navn der skal vises, skal du sende en **anmodning om** ny funktion. 
 
-Afsendelse af en anmodning er en simpel 3-trins proces. På den tredje og sidste side får du vist en linje til din mailadresse (påkrævet) og en linje til dit navn. Her kan du vælge, hvordan dit navn skal vises, eller du kan sende ideen anonymt. 
+Det er en enkel tretrinsproces at sende en anmodning. På tredje og sidste side vises der en linje til din mailadresse (påkrævet) og en linje til dit navn. Her kan du vælge, hvordan dit navn skal vises, eller du kan indsende idéen anonymt. 
 
-**Bemærk:** Du skal muligvis også ændre, hvilken mailadresse der automatisk udfyldes på denne side. Hvis dit navn er konfigureret på en bestemt måde inden for din mail klients indstillinger, kan ændring af feedback til anonyme tilsidesættes af dine indstillinger. 
+**Bemærk!** Du skal muligvis også ændre, hvilken mailadresse der udfyldes automatisk på denne side. Hvis dit navn er konfigureret på en bestemt måde i indstillingerne for din mailklient, tilsidesættes din indstilling muligvis, hvis du ændrer indsendelsen af feedback til anonym. 

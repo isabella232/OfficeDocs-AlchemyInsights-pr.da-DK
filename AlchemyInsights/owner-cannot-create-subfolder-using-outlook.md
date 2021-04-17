@@ -2,7 +2,7 @@
 title: Ejeren kan ikke oprette en undermappe ved hjælp af Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665712"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836129"
 ---
 # <a name="owner-cannot-create-sub-folder-using-outlook"></a>Ejeren kan ikke oprette en undermappe ved hjælp af Outlook
 
-**Der er et vedvarende problem med ejere af offentlige mapper, som opretter undermapper ved hjælp af Outlook. Problemet kan snart rettes.**
+**Der er i øjeblikket et problem med ejere af offentlige mapper, der opretter undermapper ved hjælp af Outlook. Problemet vil snart blive rettet.**
 
 I mellemtiden kan du bruge en af følgende løsninger:
 
-1. Brug Outlook til MAC til at oprette under mappen som et problem påvirker kun Outlook til stationære Windows (alle versioner)
-2. Få administratoren til at oprette under mappen ved hjælp af EXO shell eller EAC
-3. Ændre DefaultPublicFolderMailbox/EffectivePublicFolderMailbox på brugeren til en anden postkasse end indholds postkassen for mappen årsag til problemet  
-    - *Set-postkasse User1 DefaultPublicFolderMailbox PubMBX3*
-4. Vent en time, Genstart Outlook-klient
+1. Brug Outlook til MAC til at oprette undermappen, da problemet kun påvirker Outlook til skrivebordsvinduer (alle versioner)
+2. Få administratoren til at oprette undermappen ved hjælp af EXO Shell eller EAC
+3. Skift DefaultPublicFolderMailbox/EffectivePublicFolderMailbox på brugeren til en anden postkasse end indholdspostkassen for mappen, der forårsager problemer  
+    - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
+4. Vent en time, genstart Outlook-klienten

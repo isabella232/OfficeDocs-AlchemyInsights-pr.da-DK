@@ -1,8 +1,8 @@
 ---
-title: Har du brug for hjælp til mail i karantæne?
+title: Har du brug for hjælp til mailkarantæne?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 32e587e07694af32551f23d9249ce9affc75b3db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729901"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836309"
 ---
-# <a name="need-help-with-email-quarantine"></a>Har du brug for hjælp til mail i karantæne?
+# <a name="need-help-with-email-quarantine"></a>Har du brug for hjælp til mailkarantæne?
 
-- Hvis du vil **have vist og frigive mails fra karantæne**, skal du gå til [siden quarantine i Office 365 Security & Compliance Center](https://protection.office.com/quarantine). Du kan finde detaljerede anvisninger [her](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
-- Hvis meddelelsen er **sat i karantæne (falsk positiv)**, skal du klikke på "rapporter meddelelser til Microsoft for at analysere", når meddelelsen er markeret på siden Quarantine. 
-- Find årsagen til, **at meddelelsen blev sat i karantæne** under feltet "årsag til karantæne".
-- **Mangler du mails i karantæne?** Nogle karantæne mails kan ikke frigives af slutbrugere. Dette er sandsynlige meddelelser, der er klassificeret som phishing-mails med høj sikkerhed, malware eller en transport handling. Administratorer kan [få vist, udgive eller slette disse meddelelser](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide). 
+- Hvis **du vil have vist og slippe mails fra karantæne,** skal du gå til siden Karantæne i Office [365 Security & Compliance Center](https://protection.office.com/quarantine). Detaljerede instruktioner er [her](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
+- Hvis meddelelsen er blevet sat i forkert karantæne **(falsk positiv),** skal du klikke på "Rapportér meddelelser til Microsoft til analyse", når du har fundet meddelelsen, der er markeret på siden Karantæne. 
+- Find **årsagen til, at meddelelsen var i karantæne** under feltet "Årsagen til karantæne".
+- **Mangler du mails i karantæne?** Nogle af de mails, der er sat i karantæne, kan ikke frigives af slutbrugere. Disse er sandsynligvis meddelelser, der er klassificeret som sikre phishingmails, malware eller ved en transporthandling. Administratorer kan [få vist, slippe eller slette disse meddelelser.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 

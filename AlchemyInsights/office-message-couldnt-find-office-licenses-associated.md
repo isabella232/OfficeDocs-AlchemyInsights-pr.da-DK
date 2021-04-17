@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365-apps meddelelse – kunne ikke finde Office-licenser knyttet
+title: Meddelelsen Microsoft 365-apps – Kunne ikke finde de Office-licenser, der er knyttet til
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802771"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836201"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365-apps meddelelse – kunne ikke finde Office-licenser knyttet
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Meddelelsen Microsoft 365-apps – Kunne ikke finde de Office-licenser, der er knyttet til
 
 Du kan rette fejlen ved at følge disse trin:
 
@@ -39,10 +39,10 @@ Hvis problemet fortsætter, skal du prøve følgende trin:
 
 - Nulstil aktiveringstilstand for Office. Se [Nulstil aktiveringstilstand for Microsoft 365-apps til store virksomheder](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Kontrollér din firewall, antivirussoftware og proxyindstillinger for at bekræfte, at de ikke blokerer Microsoft 365-apps adgang til internettet. 
+- Kontrollér din firewall, din antivirussoftware og dine proxyindstillinger for at bekræfte, at de ikke blokerer adgangen til Microsoft 365-apps til internettet. 
 
 Hvis du vil have yderligere fejlfindingsløsninger, skal du se:
 
 [Fejl i forbindelse med produkt uden licens og aktivering i Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Microsoft 365-URL-adresser og IP-adresseområder](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[URL-adresser og IP-adresseintervaller for Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
