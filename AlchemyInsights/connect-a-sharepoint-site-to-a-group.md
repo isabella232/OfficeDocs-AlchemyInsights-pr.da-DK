@@ -1,8 +1,8 @@
 ---
-title: Oprette forbindelse mellem et SharePoint-websted og en gruppe
+title: Knytte et SharePoint-websted til en gruppe
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: f2276ad3dcdc0426bbd255b7d07f2b9a74927bec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713304"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817058"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a><span data-ttu-id="758da-102">Oprette forbindelse mellem et SharePoint-websted og en gruppe</span><span class="sxs-lookup"><span data-stu-id="758da-102">Connect a SharePoint Site to a Group</span></span>
+# <a name="connect-a-sharepoint-site-to-a-group"></a><span data-ttu-id="35599-102">Knytte et SharePoint-websted til en gruppe</span><span class="sxs-lookup"><span data-stu-id="35599-102">Connect a SharePoint Site to a Group</span></span>
 
-<span data-ttu-id="758da-103">Brug guiden gruppe-forbindelse til at oprette forbindelse mellem et SharePoint-websted og en Microsoft 365-gruppe.</span><span class="sxs-lookup"><span data-stu-id="758da-103">Use the group-connection wizard to connect a SharePoint Site to a Microsoft 365 Group.</span></span>
+<span data-ttu-id="35599-103">Brug guiden gruppeforbindelse til at oprette forbindelse mellem et SharePoint-websted og en Microsoft 365-gruppe.</span><span class="sxs-lookup"><span data-stu-id="35599-103">Use the group-connection wizard to connect a SharePoint Site to a Microsoft 365 Group.</span></span>
 
-1. <span data-ttu-id="758da-104">Fra det websted, du vil oprette forbindelse til en gruppe, skal du vælge  **Indstillinger (gear ikon)**.</span><span class="sxs-lookup"><span data-stu-id="758da-104">From the site you'd like to connect to a group, select  **Settings (gear icon)**.</span></span>
-2. <span data-ttu-id="758da-105">Vælg  **Opret forbindelse til en ny Microsoft 365-gruppe**.</span><span class="sxs-lookup"><span data-stu-id="758da-105">Select  **Connect to new Microsoft 365 Group**.</span></span>
-3. <span data-ttu-id="758da-106">Følg guiden for at fuldføre forbindelsen.</span><span class="sxs-lookup"><span data-stu-id="758da-106">Follow the wizard to complete the connection.</span></span>
+1. <span data-ttu-id="35599-104">Vælg Indstillinger  **(tandhjulsikonet)** fra det websted, du vil oprette forbindelse til en gruppe.</span><span class="sxs-lookup"><span data-stu-id="35599-104">From the site you'd like to connect to a group, select  **Settings (gear icon)**.</span></span>
+2. <span data-ttu-id="35599-105">Vælg **Opret forbindelse til en ny Microsoft 365-gruppe.**</span><span class="sxs-lookup"><span data-stu-id="35599-105">Select  **Connect to new Microsoft 365 Group**.</span></span>
+3. <span data-ttu-id="35599-106">Følg guiden for at oprette forbindelsen.</span><span class="sxs-lookup"><span data-stu-id="35599-106">Follow the wizard to complete the connection.</span></span>
 
-<span data-ttu-id="758da-107">**Bemærk:**  Hvis Opret forbindelse til en ny Microsoft 365-gruppe ikke er tilgængelig, understøtter webstedet ikke en gruppe forbindelse.</span><span class="sxs-lookup"><span data-stu-id="758da-107">**Note:**  If Connect to new Microsoft 365 Group isn't available, the site will not support a group connection.</span></span>
+<span data-ttu-id="35599-107">**Bemærk!**  Hvis Opret forbindelse til en ny Microsoft 365-gruppe ikke er tilgængelig, understøtter webstedet ikke en gruppeforbindelse.</span><span class="sxs-lookup"><span data-stu-id="35599-107">**Note:**  If Connect to new Microsoft 365 Group isn't available, the site will not support a group connection.</span></span>
 
-<span data-ttu-id="758da-108">Du kan finde flere oplysninger i  [Opret forbindelse til en Office 365-gruppe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span><span class="sxs-lookup"><span data-stu-id="758da-108">For more info, see  [Connect to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
+<span data-ttu-id="35599-108">Du kan få mere at vide [under Opret forbindelse til en Office 365-gruppe.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)</span><span class="sxs-lookup"><span data-stu-id="35599-108">For more info, see  [Connect to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>

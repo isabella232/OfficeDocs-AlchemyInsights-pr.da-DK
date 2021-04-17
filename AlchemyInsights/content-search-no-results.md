@@ -2,7 +2,7 @@
 title: Indholdssøgning uden resultater
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680641"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816842"
 ---
-# <a name="no-results-from-content-searchexports"></a><span data-ttu-id="a73c9-102">Ingen resultater fra indholdssøgning/eksport</span><span class="sxs-lookup"><span data-stu-id="a73c9-102">No results from Content Search/Exports</span></span>
+# <a name="no-results-from-content-searchexports"></a><span data-ttu-id="6b324-102">Ingen resultater fra indholdssøgning/eksporter</span><span class="sxs-lookup"><span data-stu-id="6b324-102">No results from Content Search/Exports</span></span>
 
-<span data-ttu-id="a73c9-103">Problemer med indholdssøgning/eksport, der ikke returnerer nogen data, kan skyldes et bestemt sikkerheds filter for overholdelse, der blev konfigureret af en bestemt administrator og ikke kommunikerer med alle administratorer.</span><span class="sxs-lookup"><span data-stu-id="a73c9-103">Issues with Content Search/Exports not returning any data may be due to certain Compliance Security Filter that was setup by a specific Admin and not communicating it to all Admins.</span></span>
+<span data-ttu-id="6b324-103">Problemer med indholdssøgning/eksporter, der ikke returnerer nogen data, kan skyldes et bestemt sikkerhedsfilter til overholdelse, der er konfigureret af en bestemt administrator og ikke kommunikerer det til alle administratorer.</span><span class="sxs-lookup"><span data-stu-id="6b324-103">Issues with Content Search/Exports not returning any data may be due to certain Compliance Security Filter that was setup by a specific Admin and not communicating it to all Admins.</span></span>
 
-<span data-ttu-id="a73c9-104">Hvis du vil løse dette, skal du kontrollere, om der er nogen sikkerhedsfiltre overholdelse, der kan forårsage dette:</span><span class="sxs-lookup"><span data-stu-id="a73c9-104">To resolve this, check to see if there are any Compliance Security Filters that may be causing this:</span></span>
-1. <span data-ttu-id="a73c9-105">Opret forbindelse til sikkerheds-og overholdelses Center PowerShell</span><span class="sxs-lookup"><span data-stu-id="a73c9-105">Connect to Security and Compliance Center Powershell</span></span>
-2. <span data-ttu-id="a73c9-106">Kør følgende commandlets:</span><span class="sxs-lookup"><span data-stu-id="a73c9-106">Run the following commandlets:</span></span>
-<br><span data-ttu-id="a73c9-107">$org = "yourdomain.com"</span><span class="sxs-lookup"><span data-stu-id="a73c9-107">$org = “yourdomain.com”</span></span>
-<br><span data-ttu-id="a73c9-108">Få ComplianceSecurityFilter-organisation $org</span><span class="sxs-lookup"><span data-stu-id="a73c9-108">Get-ComplianceSecurityFilter -Organization $org</span></span>
+<span data-ttu-id="6b324-104">For at løse dette skal du kontrollere, om der er nogen sikkerhedsfiltre til overholdelse af regler og standarder, der kan være skyld i dette:</span><span class="sxs-lookup"><span data-stu-id="6b324-104">To resolve this, check to see if there are any Compliance Security Filters that may be causing this:</span></span>
+1. <span data-ttu-id="6b324-105">Opret forbindelse til Security and Compliance Center Powershell</span><span class="sxs-lookup"><span data-stu-id="6b324-105">Connect to Security and Compliance Center Powershell</span></span>
+2. <span data-ttu-id="6b324-106">Kør følgende kommandoletter:</span><span class="sxs-lookup"><span data-stu-id="6b324-106">Run the following commandlets:</span></span>
+<br><span data-ttu-id="6b324-107">$org = "yourdomain.com"</span><span class="sxs-lookup"><span data-stu-id="6b324-107">$org = “yourdomain.com”</span></span>
+<br><span data-ttu-id="6b324-108">Get-ComplianceSecurityFilter – $org</span><span class="sxs-lookup"><span data-stu-id="6b324-108">Get-ComplianceSecurityFilter -Organization $org</span></span>
