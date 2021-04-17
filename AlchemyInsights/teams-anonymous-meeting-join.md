@@ -1,8 +1,8 @@
 ---
-title: Tillad eller Forbyd anonyme brugere at deltage i team møder
+title: Tillad eller forbyd anonyme brugere at deltage i Teams-møder
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669890"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824753"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Tillad eller Forbyd anonyme brugere at deltage i team møder
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Tillad eller forbyd anonyme brugere at deltage i Teams-møder
 
-Du kan kontrollere indstillingerne for anonyme mødedeltagelse i teams administration.
+Du kan styre indstillingerne for anonym mødeindkaldelse i Teams Administration.
 
 **Det kan tage op til 24 timer, før denne ændring træder i kraft.**
 
-1.  Gå til [teams Administrationscenter](https://admin.teams.microsoft.com)
-2.  Gå til indstillinger for møde **møder**i venstre navigationsrude   >   **Meeting settings**.
-3.  Slå **anonyme brugere til for at deltage i et møde**under **deltagere**.
+1.  Gå til [Teams Administration](https://admin.teams.microsoft.com)
+2.  I venstre navigationsrude skal du gå **til**   >   **Mødemødeindstillinger**.
+3.  Under  **Deltagere skal** du aktivere  **Anonyme brugere kan deltage i et møde**.

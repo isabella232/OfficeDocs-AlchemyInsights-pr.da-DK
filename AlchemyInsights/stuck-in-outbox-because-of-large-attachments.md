@@ -2,7 +2,7 @@
 title: Sidder fast i udbakken på grund af store vedhæftede filer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 2185c1439d84a3beea00fe6849c1dae456131b96
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451826"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825005"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Løs de meddelelser, der sidder fast i udbakken med SaRA
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Løs meddelelser, der sidder fast i udbakken med SaRA
 
-Vi anbefaler, at du starter ved at køre scenariet ["Jeg har problemer med at sende, modtage eller finde mails"](https://aka.ms/SaRA-OutlookSendReceive) på den udstedende maskine fra [Microsoft support-og genoprettelses assistent-værktøjet (SaRa)](https://diagnostics.office.com/#/) .
+Vi [anbefaler,](https://aka.ms/SaRA-OutlookSendReceive) at du starter med at køre scenariet "Jeg har problemer med at sende, modtage eller finde mails" på den på effekten maskine fra værktøjet Microsoft Support- og genoprettelsesassistent [(SaRa).](https://diagnostics.office.com/#/)

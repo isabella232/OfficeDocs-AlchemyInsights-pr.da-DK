@@ -1,8 +1,8 @@
 ---
-title: Kan ikke få adgang til SharePoint-eller OneDrive-administrations centeret
+title: Kan ikke få adgang til SharePoint eller OneDrive Administration
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: a70b0708b325c5feaefec3d97c957086d7f62cc6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ba4a9c6995c03dd21e0e1aa387e407d41a08fb1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749472"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824429"
 ---
-# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Kan ikke få adgang til SharePoint-eller OneDrive-administrations centeret
+# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Kan ikke få adgang til SharePoint eller OneDrive Administration
 
-- Hvis dit SharePoint-eller OneDrive-Administrationscenter-websted ikke er tilgængeligt eller tilgængeligt, kan der være et midlertidigt tjeneste problem, hvor brugerne oplever uregelmæssige forsinkelser eller navigerings fejl ved adgang til SharePoint-websteder eller OneDrive-indhold. Se [dashboardet for tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din organisation er påvirket.
+- Hvis dit websted i SharePoint eller OneDrive Administration ikke er tilgængeligt eller utilgængeligt, kan der være et midlertidigt tjenesteproblem, hvor brugerne oplever forbigående forsinkelser eller navigationsfejl, når de åbner SharePoint-websteder eller OneDrive-indhold. Kontrollér [dashboardet Tjenestetilstand for](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) at se, om din organisation påvirkes.
 
-- Globale og SharePoint-administratorer skal have tildelt en SharePoint-licens. Nyoprettede konti, der kun er tildelt en SharePoint-licens eller administratorrolle, kan opleve problemer med at få adgang til SharePoint, som "adgang nægtet" eller "brugeren blev ikke fundet". Du skal angive mindst 24 timer, før synkroniseringen er gennemført på tværs af vores systemer. Vi forstår, at 24 timer kan virke som lang tid. I mange tilfælde arbejder vi allerede på en løsning.
+- Globale administratorer og SharePoint-administratorer skal have tildelt en SharePoint-licens. Nyligt oprettede konti, der netop er tildelt en SharePoint-licens eller en administratorrolle, kan opleve problemer med at få adgang til SharePoint, f.eks. "adgang nægtet" eller "brugeren blev ikke fundet". Giv mindst 24 timer, før synkroniseringen er fuldført på tværs af vores systemer. Vi forstår, at 24 timer kan se ud som lang tid. I mange tilfælde arbejder vi allerede på en løsning.
 
-- Priviligeret Identitetsstyring ([PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user?tabs=new)-brugere) kan få adgang nægtet, hvis der er meget små adgangs tider-vindue, under  [adgang nægtet til PIM-konti](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts).
+- Brugere af den privilegerede[identitetsadministration (PIM)](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user?tabs=new)kan få adgang nægtet adgang, hvis den tilladte adgangsvindue er meget lille, se  [Adgang nægtet til PIM-konti](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts).

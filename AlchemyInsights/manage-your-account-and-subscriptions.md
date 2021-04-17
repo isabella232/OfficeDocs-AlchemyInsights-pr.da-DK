@@ -2,7 +2,7 @@
 title: Administrer din konto og dine abonnementer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: c17485c40af22dd30339d819a08818d02e4ac737
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6af9e73bd88d1c4f37a1b7d408f8f89b9423f70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703077"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823889"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Administrer din konto og dine abonnementer
 
@@ -34,7 +34,7 @@ ms.locfileid: "47703077"
 
 - [Fjernundervisning og-læring i Office 365 Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**I Microsoft 365 administration kan du**: 
+**I Microsoft 365 Administration kan du:** 
 
 - [Få vist din faktura](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
