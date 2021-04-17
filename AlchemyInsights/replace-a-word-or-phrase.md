@@ -1,8 +1,8 @@
 ---
-title: Erstat et ord eller en sætning
+title: Erstatte et ord eller udtryk
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: 47a631bd045d3a3ae889d00d8e4ac615948a0d0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e278b15f552639332e576389ce10dbb0dc2d34fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692685"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835733"
 ---
-# <a name="replace-a-word-or-phrase"></a>Erstat et ord eller en sætning
+# <a name="replace-a-word-or-phrase"></a>Erstatte et ord eller udtryk
 
-Sådan erstattes flere forekomster af et ord eller udtryk i et Word-dokument:
+Sådan erstatter du flere forekomster af et ord eller udtryk i et Word-dokument:
 
-1. Gå til **Home**  >  **Replace**, eller tryk på CTRL + H.
-2. I feltet **Søg efter** skal du skrive det ord eller den sætning, du vil erstatte. 
-3. Skriv den nye tekst i feltet **Erstat med** .
-3. Vælg **Erstat alle** for at ændre alle forekomster af ordet eller sætningen, eller Vælg **Find næste** , indtil du finder den eller de (t), du vil opdatere, og vælg derefter **Erstat**.
+1. Gå til **Hjem**  >  **erstat,** eller tryk på Ctrl+H.
+2. Skriv det **ord eller** den sætning, du vil erstatte, i feltet Søg efter. 
+3. Skriv den **nye tekst** i feltet Erstat med.
+3. Vælg **Erstat alle** for at ændre alle forekomster af ordet eller sætningen, eller vælg **Find** næste, indtil du finder den eller de forekomster, du vil opdatere, og vælg derefter **Erstat**.

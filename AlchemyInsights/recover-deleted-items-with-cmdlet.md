@@ -1,8 +1,8 @@
 ---
-title: Gendan slettede elementer med cmdlet'en
+title: Gendan slettede elementer med cmdlet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 91a9bcf75b13881b903a1d3b6f2da53f65811c9c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741297"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835805"
 ---
-# <a name="recover-deleted-items-with-cmdlet"></a>Gendan slettede elementer med cmdlet'en
+# <a name="recover-deleted-items-with-cmdlet"></a>Gendan slettede elementer med cmdlet
 
-- Brug cmdlet'en [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) til at få vist slettede elementer i postkasser. Når du har fundet de slettede elementer, skal du bruge [gendannelses-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) -cmdlet til at gendanne dem.
+- Brug [cmdlet'en Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) til at få vist slettede elementer i postkasser. Når du har fundet de slettede elementer, kan du bruge cmdlet'en [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) til at gendanne dem.
 
-- Se alle detaljer i [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
+- Se alle oplysninger i [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
 
-- Du skal have tildelt eksport rollen postkasse import, før du kan køre denne cmdlet. Læs mere [-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) for at få flere oplysninger.
+- Du skal have tildelt rollen Postkasse Import Eksport, før du kan køre denne cmdlet. Se [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) for at få flere oplysninger.
