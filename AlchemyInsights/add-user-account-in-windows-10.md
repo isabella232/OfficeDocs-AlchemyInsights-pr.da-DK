@@ -2,7 +2,7 @@
 title: Tilføj brugerkonto i Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: acb32edbda28669ce388c54dbe445523849d1da6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687536"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822305"
 ---
-# <a name="add-a-user-account-in-windows-10"></a>Tilføje en brugerkonto i Windows 10
+# <a name="add-a-user-account-in-windows-10"></a>Tilføj en brugerkonto i Windows 10
 
 Sådan tilføjer du en konto i Windows 10:
 
-1. Gå til **Start**  >  **Indstillinger**  >  **konti**  >  **familie & andre personer** (eller **andre personer**, hvis du bruger Windows 10 Enterprise) > **føje en anden til denne pc**.
-2. Følg instruktionerne for at tilføje en Microsoft-konto eller en lokal konto.
+1. Gå til **Start** indstillinger Konti Familie & andre personer (eller Andre personer, hvis du bruger  >    >    >   Windows 10 Enterprise) > Føj en **anden til denne pc.**
+2. Følg vejledningen for at tilføje en Microsoft-konto eller en lokal konto.
 
 [Få mere at vide om konfiguration af konti](https://support.microsoft.com/help/17197/)

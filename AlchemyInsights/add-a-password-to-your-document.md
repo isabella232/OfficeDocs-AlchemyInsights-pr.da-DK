@@ -2,7 +2,7 @@
 title: Føj en adgangskode til dit dokument
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 439b18c025d4ef8defccece24557493fce4af8cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 171c1716012240bd79f77148086adfee2d324667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688508"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822701"
 ---
 # <a name="add-a-password-to-a-word-document"></a>Føj en adgangskode til et Word-dokument
 
-1. Gå til **Filoplysninger**  >  **Info**  >  **Beskyt dokument**  >  **Kryptér med adgangskode**.
-2. Skriv den adgangskode, du vil bruge, og vælg derefter **OK**.
-3. Indtast adgangskoden igen, og vælg derefter **OK**.
+1. Gå til **Beskyt**  >  **dokumentkryptér**  >  **med**  >  **adgangskode for filoplysninger**.
+2. Angiv den adgangskode, du vil bruge, og vælg derefter **OK.**
+3. Angiv adgangskoden igen, og vælg derefter **OK**.

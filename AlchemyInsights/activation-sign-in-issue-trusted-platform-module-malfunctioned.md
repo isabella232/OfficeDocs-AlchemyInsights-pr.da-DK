@@ -1,8 +1,8 @@
 ---
-title: Problem med aktivering/logon – Trusted Platform modul fungerer ikke
+title: Aktivering/logonproblem – fejlbetroede platformsmoduler
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 13e6fcd18047e511452f0180dc2e4677466d4db3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697515"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822881"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Rettelse af Microsoft 365-apps "din computers Trusted Platform-modul fungerer ikke korrekt"-meddelelse
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Vi rettelse af meddelelsen "Computerens platform, der er tillid til, fungerer ikke korrekt" i Microsoft 365-appsene
 
 Du kan rette fejlen ved at følge disse trin:
 
 1. Åbn en Office-app, og [Log ud](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) fra alle eksisterende brugerkonti.   
-2. Brug af Windows- **indstillings**  >  **konti**  >  **mail & konti**, Fjern eksisterende arbejds konti. 
-3. Brug af Windows- **indstillings**  >  **konti**  >  **adgang til arbejde eller skole**, Afbryd forbindelsen til eksisterende konti. 
-4. Nulstil aktiveringstilstand for Office. [Lær hvordan](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
-).
-5. Prøv [genoprettelsesprocessen for brugeren](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) for at løse TPM-fejl (Trusted Platform Module).
+2. Ved hjælp **af**  >  **Windows-indstillinger**  >  **& konti til** mailkonti , fjerne eksisterende arbejdskonti. 
+3. Ved hjælp af **Windows-indstillinger**  >    >  **konti Adgang til arbejde eller skole**, afbryd forbindelsen til eksisterende konti. 
+4. Nulstil aktiveringstilstand for Office. [Lær hvordan.](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+)
+5. Prøv processen [for brugergendannelse for](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) at løse problemer med fejl i et platformsmodul (Trusted Platform Module).

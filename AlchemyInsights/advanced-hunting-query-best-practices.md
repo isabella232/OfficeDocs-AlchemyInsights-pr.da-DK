@@ -1,8 +1,8 @@
 ---
-title: Bedste fremgangsmåder for avanceret jagt forespørgsel
+title: Bedste fremgangsmåder for avanceret forespørgselsforespørgsel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696651"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821729"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>Bedste fremgangsmåder for avanceret jagt forespørgsel
+# <a name="advanced-hunting-query-best-practices"></a>Bedste fremgangsmåder for avanceret forespørgselsforespørgsel
 
-Se de [bedste fremgangsmåder](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for at få detaljerede anbefalinger og vejledning om:
-- Optimer forespørgsels ydeevnen.
-- Tip til forespørgsel og fejl.
+Læs hele artiklen Avanceret forespørgsel [om bedste fremgangsmåder](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) for forespørgsel for detaljerede anbefalinger og vejledning til:
+- Optimere ydeevnen for forespørgsler.
+- Tip til forespørgsler og fejl.
 - Forespørgsler med kommandolinjer.
 
 
