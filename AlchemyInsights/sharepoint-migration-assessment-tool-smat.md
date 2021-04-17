@@ -2,7 +2,7 @@
 title: SharePoint Migration Assessment Tool (SMAT)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5035"
-ms.openlocfilehash: 6e8ad270af42c78638038e991d35b3c03a43af3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c6cc5a2b0500a5e83f70c015e3cd55320c1fa89
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661950"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828362"
 ---
-# <a name="sharepoint-migration-assessment-tool-smat"></a><span data-ttu-id="9c05b-102">SharePoint Migration Assessment Tool (SMAT)</span><span class="sxs-lookup"><span data-stu-id="9c05b-102">SharePoint Migration Assessment Tool (SMAT)</span></span>
+# <a name="sharepoint-migration-assessment-tool-smat"></a><span data-ttu-id="50daf-102">SharePoint Migration Assessment Tool (SMAT)</span><span class="sxs-lookup"><span data-stu-id="50daf-102">SharePoint Migration Assessment Tool (SMAT)</span></span>
 
-<span data-ttu-id="9c05b-103">SharePoint migration Assessment-værktøjet (SMAT) er en enkelt eksekverbar kommandolinje, der scanner indholdet af din SharePoint-farm for at hjælpe med at identificere virkningen af overførsel af din server til SharePoint Online med Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="9c05b-103">The SharePoint Migration Assessment Tool (SMAT) is a simple command-line executable that will scan the contents of your SharePoint farm to help identify the impact of migrating your server to SharePoint Online with Microsoft 365.</span></span>
+<span data-ttu-id="50daf-103">SMAT (SharePoint Migration Assessment Tool) er en simpel eksekverbar kommandolinje eksekverbar, der scanner indholdet af din SharePoint-farm for at identificere virkningen af at overføre din server til SharePoint Online med Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="50daf-103">The SharePoint Migration Assessment Tool (SMAT) is a simple command-line executable that will scan the contents of your SharePoint farm to help identify the impact of migrating your server to SharePoint Online with Microsoft 365.</span></span>
 
-[<span data-ttu-id="9c05b-104">Oversigt over SharePoint Migration Assessment Tool</span><span class="sxs-lookup"><span data-stu-id="9c05b-104">Overview of the SharePoint Migration Assessment Tool</span></span>](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
+[<span data-ttu-id="50daf-104">Oversigt over SharePoint Migration Assessment Tool</span><span class="sxs-lookup"><span data-stu-id="50daf-104">Overview of the SharePoint Migration Assessment Tool</span></span>](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)

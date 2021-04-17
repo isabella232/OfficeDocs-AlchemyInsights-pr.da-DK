@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 support-telefonnummer
+title: Telefonnummer til Microsoft 365-support
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002926"
 - "5599"
-ms.openlocfilehash: 3b9069dd172beb81fdffe2b5a90868376cda9015
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e6c0cfb8e7bccdf8a420b53970da43f65ca5a992
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742629"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829955"
 ---
-# <a name="microsoft-365-support-phone-number"></a><span data-ttu-id="76a91-102">Microsoft 365 support-telefonnummer</span><span class="sxs-lookup"><span data-stu-id="76a91-102">Microsoft 365 support phone number</span></span>
+# <a name="microsoft-365-support-phone-number"></a><span data-ttu-id="83117-102">Telefonnummer til Microsoft 365-support</span><span class="sxs-lookup"><span data-stu-id="83117-102">Microsoft 365 support phone number</span></span>
 
-- <span data-ttu-id="76a91-103">Hvis du vil have løsninger til selvhjælp eller bede om et opkald tilbage fra support, skal du angive en mere specifik problembeskrivelse.</span><span class="sxs-lookup"><span data-stu-id="76a91-103">For self-help solutions or to request a call back from support, please type a more specific problem description.</span></span>  <span data-ttu-id="76a91-104">Hvis du stadig har brug for at åbne en supportanmodning, skal du klikke på **Kontakt support** nederst på denne side.</span><span class="sxs-lookup"><span data-stu-id="76a91-104">If you still need to open a support ticket, click **Contact Support** at the bottom of this page.</span></span>
+- <span data-ttu-id="83117-103">For selvhjælpsløsninger eller for at anmode om et opkald fra support, skal du skrive en mere specifik problembeskrivelse.</span><span class="sxs-lookup"><span data-stu-id="83117-103">For self-help solutions or to request a call back from support, please type a more specific problem description.</span></span>  <span data-ttu-id="83117-104">Hvis du stadig har brug for at åbne en supportanmodning, skal **du klikke** på Kontakt support nederst på denne side.</span><span class="sxs-lookup"><span data-stu-id="83117-104">If you still need to open a support ticket, click **Contact Support** at the bottom of this page.</span></span>
 
-- [<span data-ttu-id="76a91-105">Telefonnumre til Microsoft 365 Business Support</span><span class="sxs-lookup"><span data-stu-id="76a91-105">Phone numbers for Microsoft 365 business support</span></span>](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)
+- [<span data-ttu-id="83117-105">Telefonnumre til support til Microsoft 365 til virksomheder</span><span class="sxs-lookup"><span data-stu-id="83117-105">Phone numbers for Microsoft 365 business support</span></span>](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)
