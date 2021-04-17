@@ -1,8 +1,8 @@
 ---
-title: 'Synkroniseringsadvarsel: senest synkroniseret for mere end 3 dage siden'
+title: 'Synkroniseringsadvarsel: Blev sidst synkroniseret for mere end 3 dage siden'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 0263dd1e7490e5fecb461fecaff875194acb9e60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 786178b1cea84d1e01a43ce4c84df0a3846953c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737083"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831080"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>Synkroniseringsadvarsel: senest synkroniseret for mere end 3 dage siden
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>Synkroniseringsadvarsel: Blev sidst synkroniseret for mere end 3 dage siden
 
-Du kan finde flere oplysninger om fejlfinding i [løse problemer med Katalogsynkronisering](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).
+Du kan finde yderligere fejlfinding under [Løse problemer med katalogsynkronisering.](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization)
 
-Du kan kontrollere status for synkronisering i Office-administratorportalen ved at følge vejledningen i [få vist status for katalogsynkronisering](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).
+Du kan kontrollere synkroniseringsstatus i Office-administrationsportalen ved at følge vejledningen i Vis [katalogsynkroniseringsstatus](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).
 

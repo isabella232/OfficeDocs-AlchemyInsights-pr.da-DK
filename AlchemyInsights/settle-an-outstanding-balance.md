@@ -1,8 +1,8 @@
 ---
-title: Udligne en udestående saldo
+title: Afregn en udestående saldo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5606"
-ms.openlocfilehash: 0f7c048218864757517090db20ec68203d85eff9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1efe2de3331d161c8344a78f28c6e39e027b8dc6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739639"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831260"
 ---
-# <a name="settle-an-outstanding-balance"></a>Udligne en udestående saldo
+# <a name="settle-an-outstanding-balance"></a>Afregn en udestående saldo
 
-Hvis du har en udestående saldo, kan du udligne saldoen fra **Microsoft 365 administration**.
+Hvis du har en udestående saldo, kan du afregne saldoen **fra Microsoft 365 Administration.**
 
-1. Gå til **fakturering > [dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Gå til **Fakturering > [Dine produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Find abonnementet med den udestående saldo. Klik på **Udlign saldo**ud for **et abonnement har en forfaldent betaling**i sektionen fakturering.
+2. Find abonnementet med den udestående saldo. I afsnittet Fakturering ud for Abonnement har en **forfalden betaling , skal du klikke** på **Afregningssaldo**.
 
-3. Hvis du er kreditkortets ejer, kan du ændre udløbsdatoen for kortet, vælge et andet kort eller [tilføje et nyt kort](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+3. Hvis du ejer kreditkortet, kan du ændre udløbsdatoen for kortet, vælge et andet kort eller [tilføje et nyt kort.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
 
-4. Hvis du ikke er kreditkortets ejer, kan du vælge et andet kreditkort eller [tilføje et nyt kort](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+4. Hvis du ikke ejer kreditkortet, kan du vælge et andet kreditkort eller [tilføje et nyt kort.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
 
-5. Når du har opdateret kreditkortoplysningerne eller ændret kreditkortet, skal du klikke på **Gem**.
+5. Når du har opdateret kreditkortoplysningerne eller ændret kreditkortet, skal du klikke på **Gem.**
 
-Du kan få mere at vide under [løn til dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide).
+Du kan få mere at vide [under Betal for dit abonnement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide)

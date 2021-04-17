@@ -1,8 +1,8 @@
 ---
-title: SharePoint-dokumenter kan ikke åbnes i lokal klient
+title: SharePoint-dokumenter kan ikke åbnes i den lokale klient
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: d11746b40e1fa4403bbfc45b760e21d453881d75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c08f119b878b5a9e0987f5440e17f43f3a6cc8ef
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699693"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830423"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>SharePoint-dokumenter kan ikke åbnes i lokal klient
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>SharePoint-dokumenter kan ikke åbnes i den lokale klient
 
-På tidspunkter kan du have problemer med at åbne Office-filer og dokumenter fra SharePoint eller OneDrive fra dine lokale Office-klienter.
+Nogle gange kan du have svært ved at åbne Office-filer og dokumenter fra SharePoint eller OneDrive fra dine lokale Office-klienter.
 
 - [Kan ikke åbne Office-filer fra SharePoint eller OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)

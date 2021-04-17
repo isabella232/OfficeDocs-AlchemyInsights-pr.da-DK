@@ -2,7 +2,7 @@
 title: Indholdsfortegnelse
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c44e18d349624d9fed172bc3ffecc59b41717dda
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758023"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831044"
 ---
 # <a name="table-of-contents"></a>Indholdsfortegnelse
 
-Du kan finde oplysninger om at oprette en indholdsfortegnelse i Word i [indsætte en](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)indholdsfortegnelse eller hente vores [selvstudier til](https://go.microsoft.com/fwlink/?linkid=2065106)indholdsfortegnelse.
+Hvis du vil have mere at vide om at oprette en indholdsfortegnelse i Word, skal du se Indsætte en indholdsfortegnelse [eller](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)hente vores selvstudium [i Indholdsfortegnelse](https://go.microsoft.com/fwlink/?linkid=2065106).
 
 **Løsninger på almindelige problemer**
 
-- Indholdsfortegnelsen indeholder ikke den overskrift, du lige har føjet til dit dokument.
-  1. Markér overskrifts teksten, gå til **hjemme**  >  **typografier**, og kontrollér, at der er anvendt en typografi på overskriften.
-  2. Gå til **References**  >  **Opdateringstabel** for referencer for at opdatere indholdsfortegnelsen.
+- Indholdsfortegnelsen indeholder ikke den overskrift, du lige har føjet til dokumentet.
+  1. Markér overskriftsteksten, gå til   >  **Startsidetypografier**, og bekræft, at der er anvendt en typografi på overskriften.
+  2. Gå til **Referencer**  >  **Opdater tabel for** at opdatere indholdsfortegnelsen.
 
 - Indholdsfortegnelsen viser for meget tekst. 
-  1. Markér afsnits teksten, og gå derefter til **Start**  >  **typografier**.
-  2. Vælg en typografi som **normalt**, der ikke er inkluderet i indholdsfortegnelsen.
+  1. Markér afsnitsteksten, og gå derefter til Typografier **for**  >  **hjem**.
+  2. Vælg en typografi, f.eks. **Normal,** der ikke er inkluderet i indholdsfortegnelsen.
