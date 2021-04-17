@@ -2,7 +2,7 @@
 title: Din betaling er blevet afvist
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 9951ca12fab132a7720a12d8cc9ea4a5695db9cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742017"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829046"
 ---
 # <a name="your-payment-was-declined"></a>Din betaling er blevet afvist
 
@@ -27,29 +27,29 @@ Microsoft forsøger at opkræve beløbet på dit kort flere gange i løbet af 3-
 
 **Erstat betalingsmetode for alle varer**
 
-1. I administration skal du gå til siden **fakturerings**  >  **regninger &**  >  [betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806) for betaling.
+1. I Administration skal du gå til siden  >  **Faktureringsfakturering &**  >  [betalingsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
-2. Markér rækken med betalingsmetoden, der skal erstattes. I højre rude vises alle fakturerings profiler og individuelle abonnementer, der bruger den valgte betalingsmetode.
+2. Markér rækken for den betalingsmetode, der skal erstattes. I højre rude vises alle faktureringsprofiler og individuelle abonnementer, der bruger den valgte betalingsmetode.
 
-3. I højre rude skal du vælge **Erstat betalingsmetode for alle elementer**.
+3. I højre rude skal du vælge **Erstat betalingsmetode for alle elementer.**
 
-4. Hvis du vil bruge en eksisterende betalingsmetode, skal du vælge en på rullelisten og derefter vælge **Erstat**.
+4. Hvis du vil bruge en eksisterende betalingsmetode, skal du vælge en på rullelisten og derefter vælge **Erstat.**
 
     > [!NOTE]
-    > Hvis du har abonnementer knyttet til en fakturerings profil, kan du kun bruge et kredit-eller debetkort til at betale for dem. Hvis du har bankkonti, der er angivet på siden **betalingsmetoder** , kan du ikke vælge dem på rullelisten.
+    > Hvis du har abonnementer, der er knyttet til en faktureringsprofil, kan du kun bruge et kredit- eller debetkort til at betale for dem. Hvis du har bankkonti, der **er angivet** på siden Betalingsmetoder, kan de ikke vælges på rullelisten.
 
-5. Hvis du vil tilføje en ny betalingsmetode, skal du vælge **Tilføj betalingsmetode**.
+5. Hvis du vil tilføje en ny betalingsmetode, skal **du vælge Tilføj betalingsmetode.**
 
-6. Angiv kontooplysningerne i ruden **Tilføj en betalingsmetode** , og vælg derefter **Gem**. Du skal bruge en betalingsmetode fra samme land som din lejer.
+6. I **ruden Tilføj en betalingsmetode** skal du angive kontooplysningerne og derefter vælge **Gem**. Du skal bruge en betalingsmetode fra det samme land som din lejer.
 
 7. Den nye betalingsmetode er allerede valgt på rullelisten. Vælg **Erstat**.
 
-**Opdater betalingsmetode oplysninger**
+**Opdater oplysninger om betalingsmetode**
 
-1. I administration skal du gå til siden **fakturerings**  >  **regninger &**  >  [betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806) for betaling.
+1. I Administration skal du gå til siden  >  **Faktureringsfakturering &**  >  [betalingsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
-2. Markér rækken med betalingsmetoden, der skal opdateres. I højre rude skal du vælge **Rediger**.
+2. Vælg rækken med den betalingsmetode, der skal opdateres. I højre rude skal du vælge **Rediger**.
 
-3. Opdater dine betalingsmetode oplysninger, herunder navnet på kredit-eller debetkort, faktureringsadresse eller udløbsdato, og vælg derefter **Gem**.
+3. Opdater oplysninger om din betalingsmetode, herunder navnet på kreditkortet eller debetkortet, faktureringsadressen eller udløbsdatoen, og vælg derefter **Gem**.
 
-Hvis du vil have mere at vide, skal du se [administrere betalingsmetoder](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Du kan få mere at vide [under Administrer betalingsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 support-telefonnummer
+title: Telefonnummer til Microsoft 365-support
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002926"
 - "5599"
-ms.openlocfilehash: 3b9069dd172beb81fdffe2b5a90868376cda9015
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e6c0cfb8e7bccdf8a420b53970da43f65ca5a992
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742629"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829955"
 ---
-# <a name="microsoft-365-support-phone-number"></a>Microsoft 365 support-telefonnummer
+# <a name="microsoft-365-support-phone-number"></a>Telefonnummer til Microsoft 365-support
 
-- Hvis du vil have løsninger til selvhjælp eller bede om et opkald tilbage fra support, skal du angive en mere specifik problembeskrivelse.  Hvis du stadig har brug for at åbne en supportanmodning, skal du klikke på **Kontakt support** nederst på denne side.
+- For selvhjælpsløsninger eller for at anmode om et opkald fra support, skal du skrive en mere specifik problembeskrivelse.  Hvis du stadig har brug for at åbne en supportanmodning, skal **du klikke** på Kontakt support nederst på denne side.
 
-- [Telefonnumre til Microsoft 365 Business Support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)
+- [Telefonnumre til support til Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)
