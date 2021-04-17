@@ -1,8 +1,8 @@
 ---
-title: Opdater DNS-poster på Cloudflare
+title: Opdatere DNS-poster på Cloudflare
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5807"
-ms.openlocfilehash: 2faa5c37b57e4c49da2cdd212e1bebba76276eb1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db97091ebad06bab69900d33c6af269bcb350b25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657675"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827606"
 ---
-# <a name="update-dns-records-at-cloudflare"></a>Opdater DNS-poster på Cloudflare
+# <a name="update-dns-records-at-cloudflare"></a>Opdatere DNS-poster på Cloudflare
 
-Brug nedenstående links for at få hjælp til at opdatere dine DNS-poster.
+Brug nedenstående links til at opdatere dine DNS-poster.
 
 - [Oprette DNS-poster på Cloudflare](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
 - [Tilføje eller redigere brugerdefinerede DNS-poster i Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

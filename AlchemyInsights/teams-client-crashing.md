@@ -2,7 +2,7 @@
 title: Går Teams-klient ned?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691101"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826265"
 ---
 # <a name="teams-client-crashing"></a>Går Teams-klient ned?
 
@@ -25,21 +25,21 @@ Hvis din Teams-klient går ned, kan du prøve følgende:
 
 - Hvis du bruger Teams-skrivebordsapp, [skal du sørge for, at appen er helt opdateret](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Sørg for, at alle [Microsoft 365-URL-adresser og adresseområder](https://docs.microsoft.com/microsoftteams/connectivity-issues) er tilgængelige.
+- Sørg for, at alle [URL-adresser og adresseintervaller for Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) er tilgængelige.
 
-- Log på med din lejeradministrator konto, og Kontrollér dit [tjeneste tilstands Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) for at bekræfte, at der ikke er nogen afbrydelse eller tjeneste forringelse.
+- Log på med din lejeradministratorkonto, og kontrollér dit Dashboard for [tjenestetilstand](https://docs.microsoft.com/office365/enterprise/view-service-health) for at bekræfte, at der ikke er nogen forringelse af tjenesten eller strømsvigt.
 
-- Fjern og geninstaller teams-programmet (link)
-    - Gå til mappen%appdata%\Microsoft\teams\ på computeren, og slet alle filer i den pågældende mappe.
-    - [Download og installér teams-appen](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), og hvis det er muligt, skal du installere teams som administrator (Højreklik på teams Installer, og vælg "Kør som administrator", hvis det er muligt).
+- Fjern og geninstaller Teams-programmet (link)
+    - Gå til mappen %appdata%\Microsoft\teams\ på computeren, og slet alle filer i mappen.
+    - [Download og installér Teams-appen](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), og hvis det er muligt, skal du installere Teams som administrator (højreklik på Teams-installationsprogrammet, og vælg "Kør som administrator", hvis det er tilgængeligt).
 
-Hvis dine teams-klient stadig går ned, kan du genskabe problemet? Hvis det er tilfældet:
+Hvis din Teams-klient stadig går ned, kan du så genskabe problemet? Hvis det er sådan:
 
 1. Brug Trinoptager til at registrere dine trin.
-    - Luk alle unødvendige eller fortrolige programmer.
-    - Start Trinoptager, og Genskab problemet, mens du er logget på med den pågældende brugerkonto.
-    - [Indsaml de team logfiler, der henter de registrerede repro-trin](https://docs.microsoft.com/microsoftteams/log-files). **Bemærk**: Sørg for, at du registrerer logonnavnet for den påvirkede bruger.
-    - Indsaml oplysninger om lagring og/eller fejl-buckets (Windows). Start Windows PowerShell på den computer, hvor crashet opstår, og Kør følgende kommandoer:
+    - Luk ALLE unødvendige eller fortrolige programmer.
+    - Start Trinoptager, og genskab problemet, mens du er logget på med den pågældende brugerkonto.
+    - [Indsaml de teamlogfiler, der registrerer de registrerede genpropro trin](https://docs.microsoft.com/microsoftteams/log-files). **Bemærk!** Sørg for at registrere logonadressen på den pådrede bruger.
+    - Indsaml oplysninger om dumpet og/eller Bucket (Windows). Start Windows Powershell på den computer, hvor nedbruddet sker, og kør følgende kommandoer:
 
         `
         PS C:\Users\user01> cd $env:temp
@@ -47,4 +47,4 @@ Hvis dine teams-klient stadig går ned, kan du genskabe problemet? Hvis det er t
         PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
         `
     
-2. Vedhæft filen til din support-sag.
+2. Vedhæft filen til din supportsag.

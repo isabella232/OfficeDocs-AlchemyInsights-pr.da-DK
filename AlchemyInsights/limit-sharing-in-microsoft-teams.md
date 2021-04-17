@@ -1,8 +1,8 @@
 ---
-title: Begræns deling i Microsoft teams
+title: Begræns deling i Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "5577"
-ms.openlocfilehash: 819323c7a5bfc135c3e382887e3ec3e924c559f2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6e1133dd1ab01efb23d6ae41bd77d1a33256298
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675904"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825581"
 ---
-# <a name="limit-sharing-in-microsoft-teams"></a>Begræns deling i Microsoft teams
+# <a name="limit-sharing-in-microsoft-teams"></a>Begræns deling i Microsoft Teams
 
-Hvis du vil vide, hvordan du begrænser deling i teams og Microsoft 365 generelt, kan du gennemse [Begræns deling i Microsoft 365](https://docs.microsoft.com/microsoft-365/solutions/microsoft-365-limit-sharing?view=o365-worldwide).
+For at forstå, hvordan du begrænser deling i Teams og Microsoft 365 generelt, skal du gennemse Begræns [deling i Microsoft 365.](https://docs.microsoft.com/microsoft-365/solutions/microsoft-365-limit-sharing?view=o365-worldwide)
 
-Hvis du vil vide, hvordan du kontrollerer adgang via politikker for betinget adgang, skal du se:
+Hvis du vil vide, hvordan du styrer adgang via politikker for betinget adgang, skal du se:
 
-- [Kontrollér adgang fra ikke-administrerede enheder](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
-- [Selvstudium: Bloker hentning af følsomme oplysninger](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad)
+- [Kontrollere adgang fra enheder, der ikke er administrerede](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Selvstudium: Bloker download af følsomme oplysninger](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad)
 - [Konfigurere politikker for betinget adgang](https://docs.microsoft.com/microsoft-365/business/set-up-conditional-access-policies?view=o365-worldwide)

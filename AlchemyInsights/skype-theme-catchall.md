@@ -1,8 +1,8 @@
 ---
-title: Catchall til Skype-tema
+title: Skype-tema, opfang
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 96f5a34707d469e3651d3868058a156182ff4021
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d83f029910532bf7c7485e237c1d094d83657fca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726913"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826481"
 ---
-# <a name="skype-for-business-common-issues-and-resolutions"></a>Almindelige problemer og løsninger til Skype for Business 
+# <a name="skype-for-business-common-issues-and-resolutions"></a>Almindelige problemer og løsninger i Skype for Business 
 
-Hvis du vil have specifikke spørgsmål om Skype for Business, kan du kort omformulere dit spørgsmål for at beskrive dit problem, herunder fejl, funktioner, du bruger osv. 
+Hvis du har specifikke spørgsmål om Skype for Business, skal du kort omformulere dit spørgsmål for at beskrive problemet, herunder fejl, funktioner, du bruger osv. 
 
-Her er nogle ofte forespurgte emner:
+Her er nogle emner, der ofte anmodes om:
 
-**Fejlfinding af logon til Skype for Business:** Først skal du sørge for, at [Skype for Business-tjenesten](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) er i orden. Hvis det er, skal du gennemgå [fejlfindingen af problemer med Skype for Business online](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) for at fjerne almindelige årsager til problemer med logon.
+**Fejlfinding af logon i Skype for Business:** Først skal du sørge for, [at Skype for Business-tjenesten](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) er sund. Hvis det er, skal du gennemse Fejlfinding i forbindelse med Skype [for Business Online-logonfejl](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/troubleshooting-sign-in-errors-for-admins#check-for-common-causes-of-skype-for-business-online-sign-in-errors) for at eliminere almindelige årsager til logonproblemer.
  
-**Fejlfinding af lyd og video i Skype for Business:** Gennemse [løsninger på almindelige lyd-og videoproblemer i Skype for Business](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc). 
+**Fejlfinding af lyd og video i Skype for Business:** Se [løsningerne på almindelige problemer med lyd og video i Skype for Business.](https://support.office.com/article/Troubleshoot-audio-and-video-in-Skype-for-Business-62777bc6-c52b-47ae-84ba-a8905c3b71dc) 
 
-**Fejlfinding af forbindelsesproblemer i Skype for Business:** Gennemse [løsninger på almindelige forbindelsesproblemer i Skype for Business](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771).
+**Fejlfinding af forbindelsesproblemer i Skype for Business:** Se [løsningerne på almindelige forbindelsesproblemer i Skype for Business.](https://support.office.com/article/troubleshoot-connection-issues-in-skype-for-business-ca302828-783f-425c-bbe2-356348583771)
 
-**Kommuniker med eksterne Skype for Business-kontakter (organisations netværk):** konfigurere [Skype for Business til at kontakte eksterne Skype for Business-brugere](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
+**Kommunikere med eksterne Skype for Business-kontakter (sammenslutning): Konfigurere** [Skype for Business til at kontakte eksterne Skype for Business-brugere.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-**Kommuniker med Skype-kontakter:** [Lad Skype for Business-brugere tilføje Skype-kontakter](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).
+**Kommuniker med Skype-kontakter:** [Lad Skype for Business-brugere tilføje Skype-kontakter.](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
 
-**Opgrader Skype for Business til Microsoft teams:** Gennemse [Introduktion til Microsoft teams-opgraderingen](https://docs.microsoft.com/microsoftteams/upgrade-start-here) , og få mere at vide om [sameksistens](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) med Microsoft teams, når du vedtager teams i din organisation. 
+**Opgrader Skype for Business til Microsoft Teams:** Gennemgå Introduktion til din opgradering til [](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence) [Microsoft Teams,](https://docs.microsoft.com/microsoftteams/upgrade-start-here) og få mere at vide om sameksistens med Microsoft Teams, når du indfører Teams i din organisation. 

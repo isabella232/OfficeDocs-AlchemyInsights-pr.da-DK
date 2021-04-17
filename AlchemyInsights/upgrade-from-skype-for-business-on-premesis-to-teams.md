@@ -1,8 +1,8 @@
 ---
-title: Opgrader fra Skype for Business til virksomheder til teams
+title: Opgrader fra Skype for Business lokalt til Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734761"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827354"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Opgrader fra Skype for Business til virksomheder til teams
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Opgrader fra Skype for Business lokalt til Teams
 
-Hvis du har installeret Skype for Business eller Microsoft Lync på dit lokale miljø, og din organisation vil opgradere til teams, skal du følge vejledningen i artiklen nedenfor. Du skal konfigurere hybrid forbindelse med din lejer og derefter flytte dine brugere til teams og tildele dem de rette sameksistens-og opgraderings tilstande. 
+Hvis du har installeret Skype for Business eller Microsoft Lync lokalt, og din organisation ønsker at opgradere til Teams, skal du følge vejledningen i artiklen nedenfor. Du skal konfigurere hybridforbindelse med din lejer og derefter flytte dine brugere til Teams og tildele dem den relevante sameksistens- og opgraderingstilstand. 
 
-[Opgrader fra Skype for Business lokalt til teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Opgrader fra den lokale Skype for Business til Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

@@ -2,7 +2,7 @@
 title: Teams Administration
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670358"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826373"
 ---
 # <a name="teams-admin-center"></a>Teams Administration
 
@@ -32,5 +32,5 @@ Hvis brugere ikke vises i Teams Administration, skal du kontrollere følgende el
 
 - Har du oprettet brugere eller tildelt licenser inden for de seneste 24 timer? Sørg for at vente mindst 24 timer, før du åbner en supportanmodning.
 - Skal du bekræfte, at du har tildelt passende licenser?
-- Hvis du har et lokalt Active Directory, skal du kontrollere, at [værdien af msRTCSIP-PrimaryUserAddress eller SIP-adressen i proxyAddresses-feltet i dit lokale Active Directory er entydigt, og formatet stemmer](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) overens med SIP: bruger**navn** fra [Microsoft 365 administration](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Hvis du har tænkt dig at beholde en Skype for Business Server-installation og har brugere, der har hjem, online, skal du følge indstillingen **"konfigurere hybrid med teams og Skype for Business online"** i din Skype for Business Server-kontrol panel og flytte brugere online.
+- Hvis du har et lokalt Active Directory, skal du bekræfte, at værdien af [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) eller SIP-adressen i feltet ProxyAddresses i dit lokale Active Directory er entydigt, og formatet svarer til **sip:** Brugerens brugernavn fra [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)Administration.
+- Hvis du vil beholde en Skype for Business Server-installation og have brugere lokalt og online: Følg "Konfigurer hybrid med Teams og **Skype for Business Online"** i kontrolpanelet i Skype for Business Server, og flyt brugere online.

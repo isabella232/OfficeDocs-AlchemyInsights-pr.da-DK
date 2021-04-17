@@ -1,8 +1,8 @@
 ---
-title: Team udløb og-fornyelse i Microsoft teams
+title: Teamudløb og -fornyelse i Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6666"
 - "9003760"
-ms.openlocfilehash: 4514f06282f33a5dc360c2214cedf714633b34f0
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 8b82ef216903502e589c6b01cd7fe946e84cd54c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364611"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827894"
 ---
-# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Team udløb og-fornyelse i Microsoft teams
+# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Teamudløb og -fornyelse i Microsoft Teams
 
-Gruppe udløb og-fornyelse i Microsoft teams kan hjælpe dig med at administrere ubrugte teams. Som administrator kan du bruge politik for  [Microsoft 365-gruppe udløb](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  til automatisk at rydde op i ubrugte grupper. Da teams understøttes af grupper, gælder reglerne for gruppe udløb automatisk for teams.
+Teamudløb og -fornyelse i Microsoft Teams kan hjælpe med at administrere ubrugte teams. Som administrator kan du bruge udløbspolitikken  [for Microsoft 365-gruppen til](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  automatisk at rydde op i ubrugte teams. Da teams understøttes af grupper, gælder udløbspolitikker for grupper også automatisk for teams.
 
-For at forhindre utilsigtet sletning er automatisk fornyelse automatisk aktiveret for et team i politikken for gruppe udløb. Når politikken for gruppe udløb er konfigureret, er alle de teams, der har mindst én kanal besøg fra et teammedlem, før dets udløbsdato automatisk fornyet uden en manuel indgriben fra Team ejeren.  
+For at forhindre utilsigtet sletning aktiveres automatisk fornyelse for et team i gruppens udløbspolitik. Når udløbspolitikken for gruppen er konfigureret, vil et team, der har mindst ét kanalbesøg fra et teammedlem før udløbsdatoen, automatisk blive fornyet uden manuel handling fra teamejeren.  
 
-Du kan finde flere oplysninger under  [udløb og fornyelse af teams i Microsoft teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .
+Se  [Udløb og fornyelse af team i Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  for at få flere oplysninger.

@@ -1,8 +1,8 @@
 ---
-title: Sådan aktiveres problemfrit SSO
+title: Sådan aktiveres Seamless SSO
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: f3581549823e1ec650a3717780bc07e9944d4c1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780521"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825725"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Sådan aktiveres problemfrit SSO
+# <a name="how-to-enable-seamless-sso"></a>Sådan aktiveres Seamless SSO
 
-Aktivér problemfrit SSO via [Azure ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Aktivér problemfri SSO via [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Hvis du foretager en ny installation af Azure AD Connect, skal du vælge den [brugerdefinerede](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)installationssti. På logonsiden til **brugere** skal du vælge indstillingen **Aktivér enkeltlogon** .
+Hvis du foretager en ny installation af Azure AD Connect, skal du vælge den [brugerdefinerede installationssti](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). På **siden Bruger-logon** skal du vælge **indstillingen Aktivér enkelt** logon.
   
-Sådan kontrollerer du, at du har aktiveret problemfrit SSO korrekt:
+Sådan kontrollerer du, at du har aktiveret Seamless SSO korrekt:
   
-1. Log på [Azure Active Directory administration](https://aad.portal.azure.com) som global administrator.
+1. Log på [Azure Active Directory Administration som](https://aad.portal.azure.com) global administrator.
 
 2. Vælg **Azure Active Directory** i venstre rude.
 
-3. Kontrollér, at problemfrit enkeltlogon er **aktiveret**.
+3. Kontrollér, at Seamless single sign-on er **aktiveret**.
 
-Hvis du vil have mere at vide, skal du se [Azure Active Directory problemfrit enkeltlogon: hurtig start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Du kan få mere at [vide under Azure Active Directory Seamless Single Sign-On: Hurtig start.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
