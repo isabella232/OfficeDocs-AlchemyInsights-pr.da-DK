@@ -2,7 +2,7 @@
 title: Bluetooth-lydkvaliteten er dårlig
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685376"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820100"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>Løs problem med Bluetooth-lydkvalitet
+# <a name="fix-bluetooth-audio-quality-issue"></a>Løs problem med Bluetooth-lydkvaliteten
 
-Hvis din Bluetooth-enhed er forbundet, men lydkvaliteten er dårlig, kan du prøve følgende:
+Hvis din Bluetooth-enhed er tilsluttet, men lydkvaliteten er dårlig, kan du prøve følgende:
 
-- Sørg for, at lyden afspilles via Bluetooth-enheden. Vælg **Start**  >  **Indstillinger for**  >  **system**  >  **lyde**. Vælg Bluetooth-lydenhed under **Vælg din outputenhed**.
-- Afbryd andre ting, der muligvis bruger Bluetooth, f. eks fildeling med Bluetooth. Hvis du vil have mere at vide, skal du se [løs lydproblemer i Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
-- Kontrollér, at stereo er valgt for Bluetooth-enheden for at sikre den bedste lydkvalitet. Sådan gør du: 
-    1. I højre side af proceslinjen skal du vælge **lydstyrke**og derefter vælge vinkel ikonet for at vælge en afspilningsenhed.
-    2. Vælg Bluetooth-enheden, og sørg for, at indstillingen **stereo** er markeret. Det **er ikke**muligt at vælge indstillingen lavere lydkvalitet.
-    3. Hvis stereo ikke er tilgængelig som en indstilling, skal du fjerne enheden i **Settings**  >  **Devices**  >  **Bluetooth & andre enheder**og derefter tilføje enheden igen. Derefter skal du kontrollere skærm **lydstyrken** igen for at sikre, at stereo er markeret.
+- Sørg for, at lyden afspilles via Bluetooth-enheden. Vælg **Start Indstillinger**  >    >  **Systemlyd**  >  . Vælg **Bluetooth-lydenhed** under Vælg outputenhed.
+- Afbryd andre ting, der muligvis bruger Bluetooth, f.eks fildeling via Bluetooth. Få mere at vide under [Løs lydproblemer i Windows 10.](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems)
+- Kontrollér, at stereo er valgt til Bluetooth-enheden, for at sikre den bedste lydkvalitet. Sådan gør du: 
+    1. I højre side af proceslinjen skal du vælge **Lydstyrke** og derefter vælge vinkelikonet for at vælge en afspilningsenhed.
+    2. Vælg Bluetooth-enheden, og sørg for, at **indstillingen Stereo** er valgt. (Indstillingen lavere lydkvalitet er **håndfri).**
+    3. Hvis stereo ikke er tilgængeligt, skal du fjerne enheden i Indstillinger – enheder Bluetooth & andre enheder og  >    >  derefter tilføje enheden igen. Kontrollér derefter panelet Lydstyrke **igen** for at sikre, at stereo er markeret.
 

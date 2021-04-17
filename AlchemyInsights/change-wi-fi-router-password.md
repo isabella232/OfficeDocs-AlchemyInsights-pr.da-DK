@@ -1,8 +1,8 @@
 ---
-title: Adgangskode til at ændre W-Fi-router
+title: Skift adgangskode til W-Fi-router
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733429"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818174"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Ændre adgangskoden til Wi-Fi-routeren
+# <a name="change-your-wi-fi-router-password"></a>Skift adgangskoden Wi-Fi routeren
 
-Hvis du vil ændre din Wi-Fi-routers adgangskode, skal du følge disse trin:
+Hvis du vil ændre Wi-Fi routerens adgangskode, skal du følge disse trin:
 
-1. Vælg **Start**  >  **Indstillinger**  >  **netværk & Internet**  >  **netværks-og delings Center**.
+1. Vælg **Start**  >  **indstillinger**&  >  **Internet** Network and Sharing  >  **Center**.
 
-2. Se efter det netværk, du har forbindelse til, under **få vist dine aktive netværk**. Markér det blå link ud for **forbindelser**.<br>
+2. Under **Vis dine aktive netværk** skal du se efter det netværk, du har forbindelse til. Vælg det blå link ud **for Forbindelser**.<br>
 
-   **Bemærk:** Hvis du ikke har forbindelse til Wi-Fi, skal du oprette forbindelse, før du kan ændre adgangskoden.
+   **Bemærk!** Hvis du ikke har forbindelse til Wi-Fi, skal du oprette forbindelse, før du kan ændre adgangskoden.
 
-3. Vælg **detaljer**.
+3. Vælg **Detaljer**.
 
-4. Søg efter din IPv4-standard gateway, og Vær opmærksom på denne streng med tal, herunder punktummer. F. eks.: 192.168.0.1, 192.168.1.1, 10.0.0.1 eller 10.0.1.1
+4. Søg efter din IPv4-standardgateway, og vær opmærksom på denne streng med tal inklusive perioder. Eksempel: 192.168.0.1, 192.168.1.1, 10.0.0.1 eller 10.0.1.1
 
-5. Åbn en browser, Angiv denne streng af tal, herunder perioderne, og tryk på ENTER for at gå til konfigurationssiden for routeren.
+5. Åbn en browser, angiv denne streng med tal inklusive punkterne på adresselinjen, og tryk på Enter for at gå til routerens konfigurationsside.
 
-6. Når konfigurationssiden for routeren åbnes, skal du angive dit Brugernavn og din adgangskode.<br>
-   - Hvis du aldrig har ændret standardbrugernavn og-adgangskode for routeren, kan du sandsynligvis finde disse oplysninger i din routers manual.
+6. Når routerens konfigurationsside åbnes, skal du angive dit brugernavn og din adgangskode.<br>
+   - Hvis du aldrig har ændret standard brugernavnet og adgangskoden til routeren, vil du sandsynligvis kunne finde disse oplysninger i routerens manual.
 
-   - Kontakt producenten af routeren, hvis du har brug for yderligere understøttelse af logon til denne webside.
+   - Kontakt producenten af din router, hvis du har brug for yderligere support til at logge på denne webside.
 
-7. Når du er logget på, skal du finde trådløse indstillinger. Du bør nu kunne ændre din Wi-Fi-adgangskode.
+7. Når du er logget på, skal du finde Indstillinger for trådløst netværk. Du bør nu kunne ændre din Wi-Fi adgangskode.

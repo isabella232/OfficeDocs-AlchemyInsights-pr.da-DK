@@ -1,8 +1,8 @@
 ---
-title: Ændre mine Microsoft-kontooplysninger
+title: Rediger mine Microsoft-kontooplysninger
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002956"
 - "5658"
-ms.openlocfilehash: c1df53e9ab0c34065b7bed32ecad3be673f07033
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0ca49e7946ebe16dff961eb7e1cce8e428ec41c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682855"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819002"
 ---
-# <a name="change-my-microsoft-account-information"></a>Ændre mine Microsoft-kontooplysninger
+# <a name="change-my-microsoft-account-information"></a>Rediger mine Microsoft-kontooplysninger
 
-Gå til [https://account.microsoft.com](https://account.microsoft.com/) og log på, hvis det er nødvendigt. Dette fører dig til dit konto Dashboard.  
+Gå til og [https://account.microsoft.com](https://account.microsoft.com/) log på, hvis det er nødvendigt. Dette vil tage dig til dit kontodashboard.  
 
 **Rediger mit navn og personlige oplysninger**
 
-1. På dit konto Dashboard skal du ud for dit kontobillede og navn klikke på **flere handlinger > Rediger profil**.
-2. På siden **Rediger profil** skal du bruge linkene til at ændre dit profilbillede, navn, dato for fødselsdato, placering og visningssprog. Bemærk links til dine Xbox-eller Skype-kontoprofiler, hvor du kan ændre detaljer, der er specifikke for disse konti.
+1. På dit kontodashboard skal du ud for dit kontobillede og navn klikke **på Flere handlinger > Rediger profil**.
+2. På siden **Rediger profil** skal du bruge de links, der er angivet til at ændre dit profilbillede, navn, fødselsdato, placering og indstillinger for visningssprog. Bemærk de links til dine Xbox- eller Skype-kontoprofiler, hvor du kan ændre de oplysninger, der er specifikke for disse konti.
 
 **Administrere mailadresser og telefonnumre**
 
-En Microsoft-konto har en eller flere e-mail-adresser eller telefonnumre, der er knyttet til det som "aliaser". Sådan administreres disse:
+En Microsoft-konto har en eller flere mailadresser eller telefonnumre, der er knyttet til den som "aliasser". Sådan administreres disse:
 
-1. På dit konto Dashboard skal du ud for dit kontobillede og navn klikke på **flere handlinger > Rediger profil**.
-2. Klik på **Administrer, hvordan du logger på Microsoft**, på siden **Rediger profil** . 
-3. Du får vist en liste over konto aliasser, og du kan administrere listen, herunder tilføje og slette mailadresser og telefonnumre. Her kan du også vælge, hvilke aliasser der kan bruges til at logge på kontoen, og hvilket alias opfattes som "primær", som vises på din Windows 10-enhed.
+1. På dit kontodashboard skal du ud for dit kontobillede og navn klikke **på Flere handlinger > Rediger profil**.
+2. På siden **Rediger profil** skal du klikke på **Administrer, hvordan du logger på Microsoft.** 
+3. Du får vist en liste over kontoaliasser, og du kan administrere listen, herunder tilføje og slette mailadresser og telefonnumre. Her kan du også vælge, hvilke aliasser der kan bruges til at logge på kontoen, og hvilket alias der betragtes som "primær", som vises på dine Windows 10-enheder.
 
-**Administrere betalingsmetoder samt navn og adresse til fakturering** 
+**Administrer betalingsmetoder samt navn og adresse for fakturering** 
 
-1. På dit konto Dashboard skal du ud for dit kontobillede og navn klikke på **flere handlinger > Rediger profil**.
-2. Klik på **Administrer**Under **betaling & fakturering** .
+1. På dit kontodashboard skal du ud for dit kontobillede og navn klikke **på Flere handlinger > Rediger profil**.
+2. Klik **på & under** **Fakturering**.
 
     ![Administrer betaling og fakturering](media/manage-account.png)
 

@@ -2,7 +2,7 @@
 title: Kan ikke få adgang til offentlige mapper
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812541"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819506"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook kan ikke oprette forbindelse til offentlige mapper
 
 Hvis adgang til offentlige mapper ikke fungerer for nogle brugere, kan du prøve følgende:
 
-Opret forbindelse til EXO PowerShell, og Konfigurer parameteren DefaultPublicFolderMailbox på den problem brugerkonto, så den svarer til parameteren på en arbejds brugerkonto.
+Opret forbindelse til EXO PowerShell, og konfigurer DefaultPublicFolderMailbox-parameteren på problembrugerkontoen, så den matcher parameteren på en arbejdsbrugerkonto.
 
-:
+Eksempel:
 
-Hent postkasser WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Get-Mailbox WorkingUser-| ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 
-Vent mindst én time, før ændringen træder i kraft.
+Vent mindst en time, indtil ændringen træder i kraft.
 
-Hvis problemet fortsætter, skal du følge [denne fremgangsmåde](https://aka.ms/pfcte) for at foretage fejlfinding af offentlige mappe adgangsproblemer ved hjælp af Outlook.
+Hvis problemet fortsætter, skal du følge denne [fremgangsmåde for at foretage fejlfinding](https://aka.ms/pfcte) af problemer med adgang til offentlige mapper ved hjælp af Outlook.
  
-**Sådan styrer du, hvilke brugere der har adgang til offentlige mapper ved hjælp af Outlook**:
+**Sådan styrer du, hvilke brugere der kan få adgang til offentlige mapper ved hjælp af Outlook:**
 
-1.  Brug set-CASMailbox <mailboxname> -PublicFolderClientAccess $true eller $FALSE  
+1.  Brug Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true eller $false  
       
-    $true: Tillad brugere at få adgang til offentlige mapper i Outlook  
+    $true: Giv brugere adgang til offentlige mapper i Outlook  
       
-    $false: undgå bruger adgang til offentlige mapper i Outlook. Dette er standardværdien.  
+    $false: Forebyd brugeradgang til offentlige mapper i Outlook. Dette er standardværdien.  
         
-2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Bemærk!** Denne fremgangsmåde kan kun styre forbindelser med Outlook-klient til Windows-klienter. En bruger kan fortsat få adgang til offentlige mapper ved hjælp af OWA eller Outlook til Mac.
+**Bemærk!** Denne fremgangsmåde kan kun styre forbindelser med Outlook-skrivebord til Windows-klienter. En bruger kan fortsætte med at få adgang til offentlige mapper ved hjælp af OWA eller Outlook til Mac.
  
-Hvis du vil have mere at vide, skal du se Sådan får du [support til kontrollerede forbindelser til offentlige mapper i Outlook](https://aka.ms/controlpf).
+Du kan få mere [at vide under Meddelelse om understøttelse af kontrollerede forbindelser til offentlige mapper i Outlook.](https://aka.ms/controlpf)

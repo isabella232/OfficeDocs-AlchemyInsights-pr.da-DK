@@ -1,8 +1,8 @@
 ---
-title: Ændre din låse skærms baggrund
+title: Ændre baggrunden for din låseskærm
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714466"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818102"
 ---
-# <a name="change-your-lock-screen-background"></a>Ændre din låse skærms baggrund
+# <a name="change-your-lock-screen-background"></a>Ændre baggrunden for din låseskærm
 
-- Gå til **Settings**  >  **Personalization**  >  **låseskærmen**indstillinger for tilpasning af indstillinger. Eller klik eller tryk [her](ms-settings:lockscreen?activationSource=GetHelp).
+- Gå til **Indstillinger**  >  **Personlig tilpasning**  >  **Låseskærm**. Eller klik eller tryk [her](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Hvis du vil angive et brugerdefineret baggrundsbillede, skal du vælge **billede** på rullelisten **baggrund** og vælge eller **gå** til billedet.
+- Hvis du vil angive et brugerdefineret **baggrundsbillede,** **skal** du vælge Billede på rullelisten Baggrund og vælge **eller** Gennemse til billedet.
 
-  ![Angive et brugerdefineret baggrundsbillede.](media/set-custom-background-pic.png)
+  ![Angiv et brugerdefineret baggrundsbillede.](media/set-custom-background-pic.png)
 
-- Hvis du vil konfigurere et slideshow af brugerdefinerede billeder, skal du vælge **slideshow** på rullelisten **baggrund** og vælge et album eller tilføje en mappe, der indeholder billederne til slideshowet.
+- Hvis du vil konfigurere et slideshow med  brugerdefinerede billeder, skal du vælge **Slideshow** på rullelisten Baggrund og vælge et album eller tilføje en mappe, der indeholder billederne til slideshowet.
 
-  ![Opret et slideshow med brugerdefinerede billeder.](media/set-up-slideshow-background.png)
+  ![Konfigurer et slideshow med brugerdefinerede billeder.](media/set-up-slideshow-background.png)

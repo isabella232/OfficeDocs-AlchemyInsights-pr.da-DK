@@ -1,8 +1,8 @@
 ---
-title: Kan ikke oprette forbindelse til internettet
+title: Der kan ikke oprettes forbindelse til internettet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794256"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819434"
 ---
-# <a name="fix-network-connection"></a>Løs netværksforbindelse
+# <a name="fix-network-connection"></a>Løs problemer med netværksforbindelsen
 
-Hvis du vil løse problemer med netværksforbindelsen, skal du først prøve at køre netværksfejlfinding. 
+Hvis du vil løse problemer med netværksforbindelsen, skal du først prøve at køre fejlfindingsværktøjet Netværk. 
 
-1. [Åbne fejlfindingsindstillingerne](ms-settings:troubleshoot).
+1. [Åbn indstillingerne for fejlfinding.](ms-settings:troubleshoot)
 
-2. Under **Internet forbindelser**skal du vælge **Kør fejlfindingsværktøjet**.
+2. Under **Internetforbindelser skal** du vælge **Kør fejlfindingsværktøjet**.
 
-Hvis du bruger en Wi-Fi-forbindelse, skal du sørge for, at Wi-Fi er slået til for din enhed (herunder en hvilken som helst fysisk Wi-Fi-switch), og at Flytilstand ikke er slået til.
+Hvis du bruger en Wi-Fi-forbindelse, skal du kontrollere, at Wi-Fi er slået til for din enhed (herunder eventuelle fysiske Wi-Fi-omskift), og at flytilstanden ikke er slået til.
 
-Hvis du bruger en Ethernet-forbindelse, skal du sikre dig, at kablet er korrekt tilsluttet din PC og din router eller dit modem.
+Hvis du bruger en Ethernet-forbindelse, skal du sikre dig, at kablet er sikkert tilsluttet din pc og router eller modem.
 
-Hvis det ikke virker, kan du prøve at genstarte din PC, dit modem og din router (hvis du har en):
+Hvis det ikke virker, kan du prøve at genstarte pc, modem og router (hvis du har en):
 
-1. Fjern strømmen fra dit modem og din router. Hvis dit modem har en sikkerhedskopi af batteriet, skal du fjerne batteriet for helt at slukke for strømmen.
+1. Træk stikket til modemmet og routeren ud. Hvis dit modem har en sikkerhedskopi af batteriet, skal du fjerne batteriet for at slukke for batteriet helt.
 
-2. Vent 30 sekunder. Hvis du har fjernet batteriet fra modemmet, skal du sætte det ind igen.
+2. Vent ca. 30 sekunder. Hvis du har fjernet batteriet fra modemmet, skal du sætte det i igen.
 
 3. Tilslut strømkablet til modemmet og routeren.
 
-4. Når du venter på, at modemmet og routeren har fuldmagt, skal du genstarte din PC: **Start**  >  **Power**-  >  **Genstart**.
+4. Mens du venter på, at modemmet og routeren er fuldt tændt, skal du genstarte pc'en: **Start**  >  **genstart**  >  **af strøm.**
 
 **Avanceret fejlfinding**
 
-Hvis du vil have mere at vide om fejlfinding, skal du se [ret Wi-Fi-forbindelsesproblemer i Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+Du kan finde mere avancerede fejlfindingstrin [under Løse Wi-Fi forbindelsesproblemer i Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-Hvis du ikke er fortrolig med de mere tekniske fejlfindingstrin, kan du [kontakte os](https://support.microsoft.com/contactus).
+Hvis du ikke føler dig tryg ved at bruge de mere tekniske fejlfindingstrin, skal [du kontakte os.](https://support.microsoft.com/contactus)

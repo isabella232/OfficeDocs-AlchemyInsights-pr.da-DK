@@ -1,8 +1,8 @@
 ---
-title: Opkalds kvalitet eller mistede opkald
+title: Opkaldskvalitet eller afbrudte opkald
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000675"
 - "5987"
-ms.openlocfilehash: b5bd7544dd219b32d563c0c375de70122297fb47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d41775a74f61dfaaac1052c00e9f6efd84cfee68
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734401"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819866"
 ---
-# <a name="call-quality-or-dropped-calls"></a>Opkalds kvalitet eller mistede opkald
+# <a name="call-quality-or-dropped-calls"></a>Opkaldskvalitet eller afbrudte opkald
 
-Hvis du oplever problemer med opkaldskvaliteten som dårlig lyd eller mistede opkald, skal du gå til: [fejlfinding af problemer med opkaldskvaliteten ved hjælp af Opkalds analyse](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)
+Hvis du oplever problemer med opkaldskvaliteten, f.eks. dårlig lyd eller afbrudte opkald, skal du se: Fejlfinding af problemer med [opkaldskvaliteten ved hjælp af Opkaldsanalyse](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)
