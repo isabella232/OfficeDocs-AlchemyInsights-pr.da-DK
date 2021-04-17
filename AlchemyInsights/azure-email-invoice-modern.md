@@ -1,8 +1,8 @@
 ---
-title: Moderne Azure-mail fakturering
+title: Moderne Azure fakturering per email
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922024"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820820"
 ---
-# <a name="email-invoicing-in-azure"></a>Mail fakturering i Azure
+# <a name="email-invoicing-in-azure"></a>Fakturering per email i Azure
 
-Du skal have rollen ejer eller bidragyder på fakturerings profilen eller dens faktureringskonto for at opdatere dens mail faktura indstilling. Når du har tilmeldt dig, får alle brugere med en rolle som ejer, bidragyder, læsere og faktura administrator på en fakturerings profil sin faktura i en mail.
+Du skal have en ejer- eller en bidragsyder rolle på faktureringsprofilen eller dens faktureringskonto for at opdatere dens indstillinger for fakturering med email. Når du har tilmeldt dig, får alle brugere med en ejer-, bidragsyder-, læser- og fakturaadministrator roller på en faktureringsprofil sin faktura pr. mail.
 
-1. Log på Azure- [portalen](https://portal.azure.com/).
-2. Søg efter **omkostningsstyring + fakturering**.
-3. Vælg **fakturaer** fra venstre side, og vælg derefter **mail faktura** øverst på siden.
-4. Hvis du har flere fakturerings profiler, skal du vælge en fakturerings profil og derefter vælge **Tilmeld**.
+1. Log på portalen[Azure](https://portal.azure.com/).
+2. Søg efter **Omkostningsstyring + Fakturering**.
+3. Vælg **Fakturaer** i venstre side, og vælg derefter **Faktura pr. mail** øverst på siden.
+4. Hvis du har flere faktureringsprofiler, skal du vælge en faktureringsprofil og derefter vælge **Tilmeld dig**.
 
 5. Vælg **Opdater**.
-6. Hvis du har flere fakturerings profiler, skal du vælge en fakturerings profil og derefter vælge **Tilmeld**.
+6. Hvis du har flere faktureringsprofiler, skal du vælge en faktureringsprofil og derefter vælge **Tilmeld dig**.
 
-Du giver andre adgang til at få vist, downloade og betale fakturaer ved at tildele dem rollen faktura administrator til en MCA-eller MPA-fakturerings profil. Hvis du har valgt at få din faktura i en mail, får brugerne også fakturaen i mail.
+Du giver andre adgang til at få vist, downloade og betale fakturaer ved at tildele dem rollen som fakturaadministrator for en MCA- eller MPA-faktureringsprofil. Hvis du har tilvalgt at få din faktura via mail, får brugerne også fakturaer via mail.
 
-1. Log på Azure- [portalen](https://portal.azure.com/).
-2. Søg efter **omkostningsstyring + fakturering**.
-3. Vælg **fakturerings profiler** fra venstre side. Vælg en fakturerings profil, som du vil tildele en faktura administratorrolle, på listen fakturerings profiler.
-4. Vælg **adgangskontrol (IAM)** fra venstre side, og vælg derefter **Tilføj** fra toppen af siden.
+1. Log på portalen[Azure](https://portal.azure.com/).
+2. Søg efter **Omkostningsstyring + Fakturering**.
+3. Vælg **faktureringsprofiler** du vælger fra venstre side. Fra listen over faktureringsprofier vælg en faktureringsprofill, som du vil tildele en rolle som fakturaadministrator.
+4. Vælg **Adgangskontrol (IAM)** i venstre side, og vælg derefter **Tilføj** øverst på siden.
 
-Vælg **faktura administrator** på rullelisten rolle. Indtast mailadressen på den bruger, der skal give adgang. Vælg **Gem** for at tildele rollen.
+I rullemenuen skal du vælge **Fakturaadministrator på**. Indtast brugerens mailadresse for at give adgang. Vælg **Gem** for at tildele rollen.

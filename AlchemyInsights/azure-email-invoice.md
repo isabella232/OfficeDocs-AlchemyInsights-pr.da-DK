@@ -1,8 +1,8 @@
 ---
-title: Azure-mail fakturering
+title: Azure-fakturering via mail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922021"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820784"
 ---
-# <a name="azure-email-invoicing"></a>Azure-mail fakturering
+# <a name="azure-email-invoicing"></a>Azure-fakturering via mail
 
-Du skal have en kontoadministrator rolle på et abonnement eller en supportplan for at tilmelde dig sin faktura via mail. Mail fakturaer er kun tilgængelige for abonnementer og supportplaner, ikke for reservationer eller Azure Marketplace-Køb. Når du har tilmeldt dig, kan du tilføje yderligere modtagere, der også modtager fakturaen via mail. Skal du følge disse trin.
+Du skal have en kontoadministrator rolle på et abonnement eller en supportplan for at tilmelde dig for at modtage sin faktura via mail. Mailfakturaer er kun tilgængelige for abonnementer og supportplaner, ikke for reservationer eller Azure Marketplace-køb. Når du har tilmeldt dig, kan du tilføje flere modtagere, som også modtager fakturaen via mail. Følg disse trin.
 
-1. Log på Azure- [portalen](https://portal.azure.com/).
-2. Søg efter **omkostningsstyring + fakturering**.
+1. Log på portalen[Azure](https://portal.azure.com/).
+2. Søg efter **Omkostningsstyring + Fakturering**.
 3. Vælg **fakturaer** fra venstre side.
-4. Vælg dit abonnement på Azure-abonnement eller-abonnements plan, og vælg derefter **Modtag faktura via mail**.
-5. Klik på **mail faktura** , og Accepter betingelserne.
-6. Fakturaen sendes til din foretrukne kommunikations mail. Vælg **Opdater profil** for at opdatere mailen.  
+4. Vælg dit Azure-abonnement eller din supportplan abonnement, og vælg **Modtag faktura via mail**.
+5. Klik på **Mail fakturering** og acceptér betingelserne.
+6. Fakturaen sendes til din foretrukne kommunikationsmail. Vælg **Opdater profil** for at opdatere mailen.  
 
-    Det kan være en god ide at dele fakturaerne til dit abonnement og supportplan hver måned med dit regnskabs team eller sende dem til en af dine andre mailadresser.  
+    Det kan være en ide at dele fakturaer for dit abonnement og din supportplan hver måned med dit regnskabsteam eller sende dem til en af dine andre mailadresser.  
 
-7. Følg trinnene ovenfor for at aktivere faktura via e-mail først, og vælg derefter  **Konfigurer modtagere.**
+7. Følg trinnene ovenfor for først at aktivere faktura via mail, og vælg derefter  **Konfigurer modtagere.**
 8. Angiv en mailadresse, og vælg derefter **Tilføj modtager**. Du kan tilføje flere mailadresser.
-9. Når du har tilføjet alle mailadresserne, skal du vælge **udført** fra bunden af skærmen.
+9. Når du har tilføjet alle mailadresserne, skal du vælge **Udført** nederst på skærmen.
