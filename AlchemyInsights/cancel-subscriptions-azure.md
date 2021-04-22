@@ -3,7 +3,7 @@ title: Annuller abonnement i Azure
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
+ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819578"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51936148"
 ---
 # <a name="cancel-subscription"></a>Annuller abonnement
 
-Kun kontoadministratoren eller ejeren direkte på abonnementet. Du kan annullere dit Azure-abonnement i Azure-portalen, hvis du ikke længere har brug for abonnementet. Følg trinene nedenfor.
+Hvis du ikke længere har brug for dit Azure-abonnement, kan du annullere det i Azure-portalen. Azure-abonnementer kan kun annulleres af kontoadministratoren eller af brugere med ejerrettigheder i abonnementet.
 
 1. Vælg dit abonnement fra [siden Abonnement i Azure-portalen](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Vælg det abonnement, du ønsker at annullere.
