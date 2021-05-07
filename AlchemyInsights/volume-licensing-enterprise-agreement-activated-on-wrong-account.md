@@ -1,5 +1,5 @@
 ---
-title: Enterprise Agreement-volumenlicens aktiveret på forkert konto
+title: Enterprise Agreement-volumenlicens aktiveret på en forkert konto
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.openlocfilehash: e8414dbbe27ee6c2e19c5d562e3a82a6abba43ef
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 7f0bd783afac9726e223de74c7ef286a4d971d02
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602574"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261838"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Enterprise Agreement-volumenlicens aktiveret på den forkerte konto eller ved overførsel af licenser fra én konto til en anden
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Enterprise Agreement-volumenlicens aktiveret på den forkerte konto eller overførsel af licenser fra én konto til en anden
 
-Hvis du finder ud af, at dine abonnementer, der er købt via en  Enterprise Agreement-volumenlicens, er blevet aktiveret på den forkerte **lejer,** eller du gerne vil overføre licenser fra én lejer til en anden, skal du kontakte [support.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) 
+Hvis du finder ud af, at dine abonnementer, der er købt via en **volumenlicens Enterprise Agreement** er blevet aktiveret på den forkerte lejer **,** eller du vil overføre licenser fra én lejer til en anden, skal du [kontakte support.](/microsoft-365/admin/contact-support-for-business-products) 

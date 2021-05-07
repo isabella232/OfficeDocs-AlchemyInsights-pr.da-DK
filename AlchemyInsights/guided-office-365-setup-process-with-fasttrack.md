@@ -1,5 +1,5 @@
 ---
-title: Guidet Office 365-konfigurationsproces med FastTrack
+title: Guidet Office 365 konfigurationsprocessen med FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6939"
-ms.openlocfilehash: 563d6c252740f577d9093febf2985f3cb65662e1
-ms.sourcegitcommit: c0b8e17c8696632e321e69b617aaff2958201e9b
+- "9419"
+ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194492"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233744"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Guidet Office 365-konfigurationsproces med FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>Guidet Office 365 konfigurationsprocessen med FastTrack
 
-Hvis du er berettiget til Office 365 FastTrack-hjælp, kan du anmode om hjælp via portalen. Hvis du leder efter selvbetjeningshjælp eller vejledning fra en partner, kan vores Office 365-konfigurationsguider eller en kvalificeret partner hjælpe dig i processen.
+Hvis du er berettiget til Office 365 FastTrack-hjælp, kan du anmode om hjælp via portalen. Hvis du leder efter selvbetjeningshjælp eller vejledning fra en partner, kan vores Office 365 konfigurationsguider eller en kvalificeret partner hjælpe dig i processen.
 
-1. For at få hjælp via FastTrack-portalen skal du logge på [FastTrack-portalen](https://go.microsoft.com/fwlink/?linkid=2125443) og følge trinnene for at udfylde anmodningen om hjælp med Microsoft 365-formularen.
+- For at få hjælp via FastTrack-portalen skal du logge på [FastTrack-portalen](https://go.microsoft.com/fwlink/?linkid=2125443) og følge trinnene for at udfylde formularen Anmodning om hjælp Microsoft 365 hjælp.
 
     > [!NOTE]
-    > Hvis du har problemer med at logge på eller har brug for yderligere hjælp, kan du sende en [mail til ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
+    > Hvis du har problemer med at logge på, eller du har brug for yderligere hjælp, kan du sende en mail [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
-2. Du kan finde selvbetjeningshjælp til Office 365 under [Konfigurationsvejledning.](https://go.microsoft.com/fwlink/?linkid=2125827)
-3. Hvis du vil finde en løsningsudbyder, [kan du se, jeg leder efter en løsningsudbyder.](https://go.microsoft.com/fwlink/?linkid=2125918)
+- Du kan finde selvbetjeningshjælp til Office 365 i [Konfigurationsvejledning](https://go.microsoft.com/fwlink/?linkid=2125827).
+- Hvis du vil finde en løsningsudbyder, [skal du se Jeg leder efter en løsningsudbyder.](https://go.microsoft.com/fwlink/?linkid=2125918)
