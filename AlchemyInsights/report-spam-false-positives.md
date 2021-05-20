@@ -1,5 +1,5 @@
 ---
-title: 975 vil du rapportere et spam-falsk-positivt til Microsoft?
+title: 975 Vil du rapportere en falsk spam positive til Microsoft?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692325"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540394"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a><span data-ttu-id="f0b65-102">Vil du gerne rapportere en spam-falsk til Microsoft?</span><span class="sxs-lookup"><span data-stu-id="f0b65-102">Would you like to report a spam false positive to Microsoft?</span></span>
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a><span data-ttu-id="4017c-102">Vil du rapportere en falsk spam positiv til Microsoft?</span><span class="sxs-lookup"><span data-stu-id="4017c-102">Would you like to report a spam false positive to Microsoft?</span></span>
 
-<span data-ttu-id="f0b65-103">Som administrator er den bedste måde at finde ud af, hvorfor en phishing-eller spam meddelelse er blevet leveret, ved at sende eksemplet til Microsoft i en [opgave Stifinder](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="f0b65-103">As an admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="f0b65-104">Du kan gøre det nemmere for brugerne at rapportere direkte til Microsoft via [tilføjelsesprogrammet rapport meddelelse](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="f0b65-104">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+<span data-ttu-id="4017c-103">Den bedste måde at afgøre, hvorfor en phishing- eller spammeddelelse blev leveret, er som administrator at sende eksemplet til Microsoft i [Stifinder.](https://protection.office.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="4017c-103">As an admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="4017c-104">For at gøre det mere brugervenligt kan du give dine brugere mulighed for at rapportere direkte til Microsoft via [tilføjelsesprogrammet Rapportmeddelelse](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="4017c-104">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
 
-<span data-ttu-id="f0b65-105">Vi anbefaler, at du er forsigtig, hvis du beslutter dig for at [omgå Microsoft 365-spamfiltre](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span><span class="sxs-lookup"><span data-stu-id="f0b65-105">We advise caution if you decide to [bypass the Microsoft 365 spam filters](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span></span>
+<span data-ttu-id="4017c-105">Vær forsigtig, hvis du beslutter [dig for at Microsoft 365 spamfiltrene.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)</span><span class="sxs-lookup"><span data-stu-id="4017c-105">We advise caution if you decide to [bypass the Microsoft 365 spam filters](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).</span></span>
 
-<span data-ttu-id="f0b65-106">**Vidste du?**: du kan nu sende eksempler direkte fra [meddelelsessporing](https://protection.office.com/messagetrace) og E5/DTT plan 2-kunder kan sende samples fra [trussels Stifinder](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span><span class="sxs-lookup"><span data-stu-id="f0b65-106">**Did you know?**: You can now submit samples directly from [Message trace](https://protection.office.com/messagetrace) and E5/ATP Plan 2 customers can submit samples from [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span></span>
+<span data-ttu-id="4017c-106">**Vidste du?**: Du kan nu [](https://protection.office.com/messagetrace) sende eksempler direkte fra Meddelelsessporing, og E5/Microsoft Defender til Office 365 Plan 2-kunder kan sende eksempler fra [Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).</span><span class="sxs-lookup"><span data-stu-id="4017c-106">**Did you know?**: You can now submit samples directly from [Message trace](https://protection.office.com/messagetrace) and E5/Microsoft Defender for Office 365 Plan 2 customers can submit samples from [Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).</span></span>

@@ -1,5 +1,5 @@
 ---
-title: Abonnements fornyelse
+title: Fornyelse af abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286844"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539962"
 ---
-# <a name="subscription-recurring-billing"></a><span data-ttu-id="2afbb-102">Tilbagevendende fakturering af abonnement</span><span class="sxs-lookup"><span data-stu-id="2afbb-102">Subscription recurring billing</span></span>
+# <a name="subscription-recurring-billing"></a><span data-ttu-id="62986-102">Tilbagevendende fakturering af abonnement</span><span class="sxs-lookup"><span data-stu-id="62986-102">Subscription recurring billing</span></span>
 
-<span data-ttu-id="2afbb-103">Hvis du vil vide, hvornår det månedlige eller årlige abonnement faktureres (hvis **tilbagevendende fakturering** er slået til), eller når den udløber (hvis **tilbagevendende fakturering** er slået fra), skal du følge disse trin:</span><span class="sxs-lookup"><span data-stu-id="2afbb-103">If you want to know when your monthly or yearly subscription is billed (if **Recurring billing** is turned on) or when it expires (if **Recurring billing** is turned off), use the following steps:</span></span>
+<span data-ttu-id="62986-103">Hvis du vil vide, hvornår dit månedlige  eller årlige abonnement faktureres (hvis Tilbagevendende  fakturering er slået til), eller hvornår det udløber (hvis Tilbagevendende fakturering er slået fra), skal du følge disse trin:</span><span class="sxs-lookup"><span data-stu-id="62986-103">If you want to know when your monthly or yearly subscription is billed (if **Recurring billing** is turned on) or when it expires (if **Recurring billing** is turned off), use the following steps:</span></span>
   
-1. <span data-ttu-id="2afbb-104">I administration skal du gå til siden **Fakturering** \> [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="2afbb-104">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="2afbb-105">Find det abonnement, du vil vide mere om, under fanen **produkter** .</span><span class="sxs-lookup"><span data-stu-id="2afbb-105">On the **Products** tab, find the subscription that you want to know more about.</span></span> <span data-ttu-id="2afbb-106">Kolonnen **abonnementsstatus** viser fornyelses-eller udløbsdato.</span><span class="sxs-lookup"><span data-stu-id="2afbb-106">The **Subscription status** column shows the renewal or expiration date.</span></span>
-3. <span data-ttu-id="2afbb-107">Hvis du vil ændre en ændring, skal du vælge **flere handlinger** (tre prikker) og derefter vælge **Rediger tilbagevendende fakturering**.</span><span class="sxs-lookup"><span data-stu-id="2afbb-107">To make a change, select **More actions** (three dots), then select **Edit recurring billing**.</span></span>
-4. <span data-ttu-id="2afbb-108">I ruden **Rediger tilbagevendende fakturering** skal du vælge **slået til**, **på, forny én gang**eller **fra**.</span><span class="sxs-lookup"><span data-stu-id="2afbb-108">In the **Edit recurring billing** pane, select **On**, **On, renew once**, or **Off**.</span></span>
-5. <span data-ttu-id="2afbb-109">Vælg **Gem**.</span><span class="sxs-lookup"><span data-stu-id="2afbb-109">Select **Save**.</span></span>
+1. <span data-ttu-id="62986-104">I Administration skal du gå til **siden Fakturering** \> [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.</span><span class="sxs-lookup"><span data-stu-id="62986-104">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="62986-105">Find det **abonnement,** du vil vide mere om, under fanen Produkter.</span><span class="sxs-lookup"><span data-stu-id="62986-105">On the **Products** tab, find the subscription that you want to know more about.</span></span> <span data-ttu-id="62986-106">Kolonnen **Abonnementsstatus** viser fornyelses- eller udløbsdatoen.</span><span class="sxs-lookup"><span data-stu-id="62986-106">The **Subscription status** column shows the renewal or expiration date.</span></span>
+3. <span data-ttu-id="62986-107">Hvis du vil foretage en ændring, skal du vælge de tre prik (flere handlinger) og derefter vælge **Rediger tilbagevendende fakturering.**</span><span class="sxs-lookup"><span data-stu-id="62986-107">To make a change, select the three dots (more actions), then select **Edit recurring billing**.</span></span>
+4. <span data-ttu-id="62986-108">I **ruden Rediger tilbagevendende fakturering** skal du **vælge Til**, **Til, forny én gang** eller **Fra**.</span><span class="sxs-lookup"><span data-stu-id="62986-108">In the **Edit recurring billing** pane, select **On**, **On, renew once**, or **Off**.</span></span>
+5. <span data-ttu-id="62986-109">Vælg **Gem**.</span><span class="sxs-lookup"><span data-stu-id="62986-109">Select **Save**.</span></span>
 
-<span data-ttu-id="2afbb-110">For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="2afbb-110">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).</span></span>
+<span data-ttu-id="62986-110">For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](/microsoft-365/commerce/subscriptions/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="62986-110">To learn more, see [Turn recurring billing off or on](/microsoft-365/commerce/subscriptions/renew-your-subscription).</span></span>
