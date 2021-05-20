@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286952"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542779"
 ---
 # <a name="subscription-status"></a>Abonnementsstatus
 
-Abonnementsstatus, udløbsdato og antal licenser kan findes på siden **produkter** i Microsoft 365 administration.
+Abonnementsstatus, udløbsdato og antal licenser kan findes **på** siden Dine produkter i Microsoft 365 Administration.
 
-1. I administration skal du gå til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. På fanen **produkter** kan du som standard se alle abonnementer og deres status (aktiv, udløbet, deaktiveret eller slettet). Hvis du vil have vist et undersæt af alle abonnementer, skal du vælge filterikonet og derefter vælge den **abonnementsstatus** , du vil se.
-3. Hvis du vil genaktivere et udløbet eller deaktiveret abonnement, skal du vælge **flere handlinger** (tre prikker) og derefter vælge **Genaktiver dette abonnement**.
-4. På siden **produkter** vises også følgende oplysninger:
-    - Antallet af licenser, der er tildelt brugere, vises i kolonnen **tildelte licenser** .
-    - Det samlede antal licenser, der er omfattet af abonnementet, vises i kolonnen **købt antal** .
-    - Udløbsdatoen eller fornyelses datoen i kolonnen **abonnementsstatus** .
-    - Den betalingsmetode, der bruges til at betale for hvert abonnement, vises i kolonnen **betalt med** .
-    - Den faktureringskonto, der er knyttet til hvert abonnement, vises i kolonnen **faktureringskonto** .
-5. Hvis du vil tilføje eller fjerne kolonner, skal du vælge **Vælg kolonner**.
+1. I Administration skal du gå til **siden Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. På fanen **Produkter** kan du som standard se alle abonnementer og deres status (Aktiv, Udløbet, Deaktiveret eller Slettet). Hvis du vil se et undersæt af alle abonnementer, skal du vælge filterikonet og derefter vælge den **Abonnementsstatus,** du vil have vist.
+3. Hvis du vil genaktivere et udløbet eller deaktiveret abonnement, skal du vælge de tre prik (flere handlinger) og derefter vælge **Genaktiver dette abonnement**.
+4. Siden **Dine produkter** viser også følgende oplysninger:
+    - Antallet af licenser, der er tildelt til brugere, vises i **kolonnen Tildelte** licenser.
+    - Det samlede antal licenser, der er inkluderet i abonnementet, vises i **kolonnen Købt** antal.
+    - Udløbsdatoen eller fornyelsesdatoen i **kolonnen Abonnementsstatus.**
+    - Betalingsmetoden, der bruges til at betale for hvert abonnement, vises i **kolonnen Betalt med.**
+    - Den faktureringskonto, der er knyttet til hvert abonnement, vises i **kolonnen Faktureringskonto.**
+5. Hvis du vil tilføje eller fjerne kolonner, skal du **vælge Vælg kolonner**.

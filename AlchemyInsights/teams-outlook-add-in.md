@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook-tilføjelsesprogram
+title: Teams Outlook (Del med andre Teams, Møde nu, Nyt møde Teams, Deltag Teams møde)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835013"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542743"
 ---
-# <a name="teams-outlook-add-in"></a>Teams Outlook-tilføjelsesprogram
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook -tilføjelsesprogrammet (Del Teams, Møde nu, Nyt Teams, Deltag Teams møde)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Fejlfinding af manglende Teams-Outlook-tilføjelsesprogram
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Sådan foretager du fejlfinding af Teams Outlook tilføjelsesprogrammet
 
-1. Kør Service Diagnostic på administrationsportalen. 
-2. Hvis Service Diagnostic ikke angiver nogen problemer, skal du diagnosticere og rette eventuelle klientproblemer på de berørte brugercomputere ved at downloade og køre Outlook-tilføjelsesprogrammet [Microsoft Support-](https://aka.ms/SaRA-TeamsAddInScenario)og genoprettelsesassistentteams  >  .
+1. Kør diagnosticeringsværktøjet "Team-tilføjelsesprogrammet mangler i Outlook", som validerer, om en bruger har de korrekte politikker for at aktivere tilføjelsesprogrammet Teams Outlook tilføjelsesprogrammet. For at få adgang til diagnosticeringen **skal du skrive Diag: Teams tilføjelsesprogrammet mangler Outlook** i søgefeltet.
 
-Hvis du manuelt vil foretage fejlfinding af manglende Teams-Outlook-tilføjelsesprogram, skal du gennemgå listen over potentielle faktorer, der kan medføre, at dit Teams-tilføjelsesprogram ikke vises på listen. Du kan få mere at [vide under Tilføjelsesprogrammet Teams-møde i Outlook til Windows vises ikke](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. Hvis Service Diagnostic ikke angiver nogen problemer, skal du diagnosticere og rette eventuelle klientproblemer på de berørte brugercomputere ved at downloade og køre [tilføjelsesprogrammet Microsoft Support- og genoprettelsesassistent](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook**.
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Sådan foretager du fejlfinding af planlægning af et Teams-møde på vegne af en anden person (stedfortræder)
+Hvis du manuelt vil foretage fejlfinding af manglende Teams Outlook tilføjelsesprogrammet, skal du gennemgå listen over potentielle faktorer, der kan medføre, at dit Teams-tilføjelsesprogram ikke vises på listen. Du kan få mere at [vide Teams tilføjelsesprogrammet Møde i Outlook for Windows, der ikke vises.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-Hvis du vil planlægge et Teams-møde på en andens vegne, skal du [se Fejlfinding i forbindelse med Microsoft Teams Exchange Server interaktionsproblemer.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Sådan foretager du fejlfinding af Teams et møde på vegne af en anden (stedfortræder)
+
+Hvis du vil Teams et møde på en andens vegne, skal du se [Fejlfinding Microsoft Teams og Exchange Server interaktionsproblemer.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
