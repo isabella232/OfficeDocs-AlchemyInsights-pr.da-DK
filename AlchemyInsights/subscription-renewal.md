@@ -1,5 +1,5 @@
 ---
-title: Abonnements fornyelse
+title: Fornyelse af abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286844"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539962"
 ---
 # <a name="subscription-recurring-billing"></a>Tilbagevendende fakturering af abonnement
 
-Hvis du vil vide, hvornår det månedlige eller årlige abonnement faktureres (hvis **tilbagevendende fakturering** er slået til), eller når den udløber (hvis **tilbagevendende fakturering** er slået fra), skal du følge disse trin:
+Hvis du vil vide, hvornår dit månedlige  eller årlige abonnement faktureres (hvis Tilbagevendende  fakturering er slået til), eller hvornår det udløber (hvis Tilbagevendende fakturering er slået fra), skal du følge disse trin:
   
-1. I administration skal du gå til siden **Fakturering** \> [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Find det abonnement, du vil vide mere om, under fanen **produkter** . Kolonnen **abonnementsstatus** viser fornyelses-eller udløbsdato.
-3. Hvis du vil ændre en ændring, skal du vælge **flere handlinger** (tre prikker) og derefter vælge **Rediger tilbagevendende fakturering**.
-4. I ruden **Rediger tilbagevendende fakturering** skal du vælge **slået til**, **på, forny én gang**eller **fra**.
+1. I Administration skal du gå til **siden Fakturering** \> [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. Find det **abonnement,** du vil vide mere om, under fanen Produkter. Kolonnen **Abonnementsstatus** viser fornyelses- eller udløbsdatoen.
+3. Hvis du vil foretage en ændring, skal du vælge de tre prik (flere handlinger) og derefter vælge **Rediger tilbagevendende fakturering.**
+4. I **ruden Rediger tilbagevendende fakturering** skal du **vælge Til**, **Til, forny én gang** eller **Fra**.
 5. Vælg **Gem**.
 
-For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](/microsoft-365/commerce/subscriptions/renew-your-subscription).

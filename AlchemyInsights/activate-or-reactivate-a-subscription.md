@@ -13,20 +13,20 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: d8cba59f38760edd9ebb693bd5d5e63576966ae3
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: fbf80520625322c30a41f90333ec47ee3528bee2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261658"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540250"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivere eller genaktivere et abonnement
 
 **Aktivér et abonnement**
 
-- Hvis du vil give brugerne adgang til en tjeneste, skal du tildele dem en licens. Se Tildel licenser til brugere [for at lære hvordan.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Hvis du vil give brugerne adgang til en tjeneste, skal du tildele dem en licens. Se Tildel licenser til brugere [for at lære hvordan.](/microsoft-365/admin/manage/assign-licenses-to-users)
 - Hvis du allerede har fået tildelt en licens, kan du finde programmer, du kan hente, fra [siden Min konto.](https://portal.office.com/account/#installs) Denne side indeholder en liste over programmer, der er tilgængelige til download, baseret på de tildelte licenser.
-- Hvis du allerede har downloadet Office-programmerne, skal du muligvis logge på programmerne med din arbejds- eller skolekonto. Det kan du gøre i Office program (Word, Excel osv.) ved at klikke på  >  **Filer Office Konto** (næsten nederst). Under **Brugeroplysninger** skal du **vælge Skift konto**. Du kan finde flere oplysninger [under Installere Office programmer](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Hvis du allerede har downloadet Office-programmerne, skal du muligvis logge på programmerne med din arbejds- eller skolekonto. Det kan du gøre i Office program (Word, Excel osv.) ved at klikke på  >  **Filer Office Konto** (næsten nederst). Under **Brugeroplysninger** skal du **vælge Skift konto**. Du kan finde flere oplysninger [under Installere Office programmer](/microsoft-365/admin/setup/install-applications).
 
 **Genaktiver et abonnement**
 
@@ -34,15 +34,15 @@ Hvis dit abonnement udløber, er deaktiveret af Microsoft, eller hvis du har ann
   
 1. I Administration skal du gå til **siden Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
 2. Find det **abonnement,** du vil genaktivere, under fanen Produkter.
-3. Vælg **Flere handlinger** (tre prik), og vælg derefter **Genaktiver dette abonnement**.
+3. Vælg de tre prik (flere handlinger), og vælg derefter **Genaktiver dette abonnement**.
     > [!IMPORTANT]
-    > Hvis Genaktiver dette abonnement ikke vises **som en** tilgængelig handling, skal du ringe til [Support for](/microsoft-365/admin/contact-support-for-business-products) at genaktivere dit abonnement.
+    > Hvis Genaktiver dette abonnement ikke vises **som en** tilgængelig handling, skal du ringe til [Support for](https://go.microsoft.com/fwlink/p/?linkid=518322) at genaktivere dit abonnement.
 4. I **ruden Genaktiver dette abonnement** skal du vælge en eksisterende betalingsmetode eller **vælge Tilføj betalingsmetode.**
 5. Vælg **Genaktiver**.
 
-Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Du kan finde flere oplysninger under [Genaktiver dit abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Aktivér et nyt abonnement med en produktnøgle**
 
 1. Hvis du vil aktivere et Microsoft 365-abonnement med din produktnøgle, skal du se [Hvor skal du Office produktnøglen?](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
-2. Angiv din produktnøgle til Microsoft 365, og følg vejledningen for at aktivere dit abonnement. Hvis du har problemer med aktiveringen, kan du se denne [liste over almindelige fejl i forbindelse med produktnøgler og løsninger.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+2. Angiv din produktnøgle til Microsoft 365, og følg vejledningen for at aktivere dit abonnement. Hvis du har problemer med aktiveringen, kan du se denne [liste over almindelige fejl i forbindelse med produktnøgler og løsninger.](/microsoft-365/commerce/product-key-errors-and-solutions)

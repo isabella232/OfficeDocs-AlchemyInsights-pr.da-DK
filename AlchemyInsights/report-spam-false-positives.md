@@ -1,5 +1,5 @@
 ---
-title: 975 vil du rapportere et spam-falsk-positivt til Microsoft?
+title: 975 Vil du rapportere en falsk spam positive til Microsoft?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692325"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540394"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Vil du gerne rapportere en spam-falsk til Microsoft?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Vil du rapportere en falsk spam positiv til Microsoft?
 
-Som administrator er den bedste måde at finde ud af, hvorfor en phishing-eller spam meddelelse er blevet leveret, ved at sende eksemplet til Microsoft i en [opgave Stifinder](https://protection.office.com/reportsubmission). Du kan gøre det nemmere for brugerne at rapportere direkte til Microsoft via [tilføjelsesprogrammet rapport meddelelse](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Den bedste måde at afgøre, hvorfor en phishing- eller spammeddelelse blev leveret, er som administrator at sende eksemplet til Microsoft i [Stifinder.](https://protection.office.com/reportsubmission) For at gøre det mere brugervenligt kan du give dine brugere mulighed for at rapportere direkte til Microsoft via [tilføjelsesprogrammet Rapportmeddelelse](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-Vi anbefaler, at du er forsigtig, hvis du beslutter dig for at [omgå Microsoft 365-spamfiltre](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+Vær forsigtig, hvis du beslutter [dig for at Microsoft 365 spamfiltrene.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Vidste du?**: du kan nu sende eksempler direkte fra [meddelelsessporing](https://protection.office.com/messagetrace) og E5/DTT plan 2-kunder kan sende samples fra [trussels Stifinder](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Vidste du?**: Du kan nu [](https://protection.office.com/messagetrace) sende eksempler direkte fra Meddelelsessporing, og E5/Microsoft Defender til Office 365 Plan 2-kunder kan sende eksempler fra [Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).

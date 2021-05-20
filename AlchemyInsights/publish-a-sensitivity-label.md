@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233780"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539638"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Sådan publicerer du en følsomhedsmærkat
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233780"
 
 1. Gentag disse trin, hvis du har brug for forskellige politikindstillinger for forskellige brugere eller placeringer. Du vil f.eks. have flere etiketter til en gruppe af brugere eller en anden standardetiket til et undersæt af brugere.
 
-1. Hvis du opretter mere end én etiketpolitik, der kan medføre en konflikt for en bruger eller placering, skal du gennemse politikrækkefølgen og om nødvendigt flytte dem op eller ned. Hvis du vil ændre rækkefølgen af en etiketpolitik, skal du **vælge ...** for **Flere handlinger** og derefter vælge Flyt **op** eller **Flyt ned**.
+1. Hvis du opretter mere end én etiketpolitik, der kan medføre en konflikt for en bruger eller placering, skal du gennemse politikrækkefølgen og om nødvendigt flytte dem op eller ned. Hvis du vil ændre rækkefølgen af en etiketpolitik, skal du vælge de tre prik (flere handlinger) og derefter **vælge Flyt op** eller Flyt **ned.**
 
 Når du gennemfører guiden, publicerer etiketpolitikken automatisk.
