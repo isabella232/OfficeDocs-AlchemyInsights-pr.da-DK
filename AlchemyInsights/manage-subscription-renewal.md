@@ -13,21 +13,21 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: c5f81c51ed73c70d98a02a0907fa394ddd1134db
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: cefdc227b9a9c7151dc2ec9d5075db2f29134840
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451349"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545514"
 ---
 # <a name="manage-subscription-renewal"></a>Administrer abonnementsfornyelse
 
 Hvis du vil administrere månedlig eller årlig fakturering, kan du slå **Tilbagevendende fakturering** til eller fra.
 
-1. I administration skal du gå til siden **Fakturering**  >  **[af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Find det abonnement, du vil administrere, under fanen **produkter** , Vælg **flere handlinger** (tre prikker), og vælg derefter **Rediger tilbagevendende fakturering**.
-3. I ruden **Rediger tilbagevendende fakturering** skal du vælge **slået til**, **på, forny én gang**eller **fra**.
+1. I Administration skal du gå til **siden Fakturering**  >  **[dine](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
+2. På fanen **Produkter** skal du finde det abonnement, du vil administrere, vælge de tre d'er (flere handlinger) og derefter vælge **Rediger tilbagevendende fakturering**.
+3. I **ruden Rediger tilbagevendende fakturering** skal du **vælge Til**, **Til, forny én gang eller** **Fra**.
 4. Vælg **Gem**.
 
-For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 

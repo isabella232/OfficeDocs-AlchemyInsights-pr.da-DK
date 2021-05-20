@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding af autosvar (Fra start)
+title: Fejlfinding uden for Office autosvar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832232"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573704"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Fejlfinding af autosvar (Fra start)
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Fejlfinding uden for Office autosvar
 
-Der kan være en lang række mulige årsager til problemerne, afhængigt af hvordan du har konfigureret autosvar med Ikke til office.
+Der kan være en lang række mulige årsager til problemerne, afhængigt af hvordan du har konfigureret antallet af Office autosvar.
 
-Du kan få en dybere forståelse af, hvor problemet kan være, ved at læse Forstå og foretage fejlfinding af fraflytningssvar  [(OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
+Du kan få en dybere forståelse af, hvor problemet kan være, ved at læse Forstå og fejlfinding Office svar [(Out of Office).](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)

@@ -1,5 +1,5 @@
 ---
-title: Teams-tilføjelsesprogram til Mac
+title: Teams-tilføjelsesprogrammet til Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670322"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582064"
 ---
-# <a name="teams-add-in-for-mac"></a>Teams-tilføjelsesprogram til Mac
+# <a name="teams-add-in-for-mac"></a>Teams-tilføjelsesprogrammet til Mac
 
-Hvis du vil foretage fejlfinding af et manglende teams-tilføjelsesprogram til Mac-operativsystem, skal du følge disse trin:
+Hvis du vil foretage fejlfinding Teams til tilføjelsesprogrammet til Mac-operativsystemets brugere, skal du følge disse trin:
 
-**Trin 1:** Hvis du har hybrid Exchange i det lokale miljø (2016 CU3 eller senere påkrævet), skal du bruge Test-HMA.ps1s værktøjet til at bekræfte, at hybrid moderne godkendelse er konfigureret korrekt. Hvis du vil have mere at vide, skal du se [validere hybrid installation af moderne godkendelse til Outlook til iOS og Android](https://aka.ms/AA980zq).  
+**Trin 1:** Hvis du har en Exchange lokal (2016 CU3 eller nyere påkrævet), skal du bruge værktøjet Test-HMA.ps1 til at bekræfte, at hybrid moderne godkendelse er konfigureret korrekt. Du kan få mere at vide [under Validering af konfiguration af hybrid moderne godkendelse Outlook til iOS og Android.](https://aka.ms/TestHMAEAS)  
 
-**Bemærk!** Brug UPN-adresseformatet (f. eks. [username@contoso.com](mailto:username@contoso.com)), ikke DOMAIN\USERNAME. Gør dette selv for brugere med Exchange Online-postkasser.
+**Bemærk!** Brug UPN-adresseformatet (f.eks. [username@contoso.com](mailto:username@contoso.com)), ikke domæne\brugernavn. Gør dette selv for brugere med Exchange Online postkasser.
 
-**Trin 2:** Få brugeren til at gå til **værktøjer**-  >  **konti**... i Outlook til Mac og finde og vælge kontoen. Bekræft, at det Brugernavn, der er angivet, er i UPN-formatet (f. eks. [username@contoso.com](mailto:username@contoso.com)).
+**Trin 2:** Få brugeren til at gå **til**  >  **Værktøjskonti**... i Outlook til Mac, og find og vælg kontoen. Bekræft, at det angivne brugernavn er i UPN-format (f.eks. [username@contoso.com](mailto:username@contoso.com)).
 
-**Trin 3:** Bekræft, at brugeren er licenseret af Microsoft teams-brugere. Brugeren skal bruge Office 365 til Mac-abonnement, produktversion 16,24 eller nyere.
+**Trin 3:** Bekræft, at brugeren er en Microsoft Teams bruger. Brugeren skal bruge abonnementet Office 365 til Mac, produktversion 16.24 eller nyere.

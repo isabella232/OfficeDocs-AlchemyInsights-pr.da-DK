@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822233"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569681"
 ---
 # <a name="add-a-user"></a>Tilføj en bruger
 
@@ -26,6 +26,6 @@ ms.locfileid: "51822233"
 
 2. Klik på **Tilføj bruger**.
 
-3. Udfyld oplysningerne for brugeren. Vælg **Udfør tilføjelse**, når du er færdig.
+3. Følg guiden for at tilføje brugeroplysninger, pProduct-licenser, valgfri roller og profiloplysninger.
 
-Du kan få mere at vide under [Tilføj brugere enkeltvist eller flere ad gangen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Du kan få mere at vide under [Tilføj brugere enkeltvist eller flere ad gangen](/microsoft-365/admin/add-users/add-users).
