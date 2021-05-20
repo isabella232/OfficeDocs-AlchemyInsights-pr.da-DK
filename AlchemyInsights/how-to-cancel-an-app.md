@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 2006de9e9789dd080a45fa4962109690eb41d923
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488839"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544608"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Sådan annulleres software-som et-tjeneste-apps
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Sådan annullerer du software-as-a-service-apps
 
-1. I administration skal du til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. På siden **produkter** skal du rulle ned til sektionen **apps** og finde det abonnement, du vil annullere. 
-3. Vælg **flere handlinger** (tre prikker), og vælg derefter **Annuller abonnement**.
-4. I ruden **Annuller abonnement** skal du vælge en årsag til, at du annullerer. Du kan også give feedback.
+1. I Administration på siden **Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. Rul **ned** til sektionen Apps på siden **Produkter,** og find det abonnement, du vil annullere. 
+3. Vælg de tre d'er (flere handlinger), og vælg derefter **Annuller abonnement**.
+4. I **ruden Annuller** abonnement skal du vælge en årsag til, hvorfor du annullerer. Du kan også give feedback.
 5. Vælg **Gem**.

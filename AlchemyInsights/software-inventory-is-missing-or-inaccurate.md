@@ -1,5 +1,5 @@
 ---
-title: Software oversigt mangler eller er unøjagtig
+title: Softwarelager mangler eller er unøjagtigt
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665280"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543958"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Software oversigt mangler eller er unøjagtig
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Softwarelager mangler eller er unøjagtigt
 
-Softwareoversigt i Microsoft Defender DTT-tjenesten viser produktnavn eller leverandør, det nyeste versionsnummer og registrerede svagheder og svagheder. Hvis du vil have mere at vide, skal du se [software Inventory-trusler og administration af sårbarhed](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Softwarelageret i Microsoft Defender ATP leverer produktnavnet eller leverandøren, det nyeste versionsnummer og registrerede sikkerhedsrisici. Du kan finde flere oplysninger [i Softwarelager – Håndtering af trusler og sikkerhedsrisici](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Du kan rapportere vague-eller ufuldstændige oplysninger, unøjagtige versionsnumre eller afafhjælpe software oversigtsoplysninger ved at følge disse trin.  
+Du kan rapportere vage eller ufuldstændige oplysninger, unøjagtige versionsnumre eller afhjælpede lageroplysninger for software ved at følge disse trin.  
 
-1. Åbn softwarens pop op-vindue, og vælg programmet på siden softwareoversigt.
-2. Vælg **rapport rigtighed**, og vælg en kategori i rullemenuen fra pop op-ruden.
-3. Udfyld din mailadresse, og få oplysninger om rigtigheden.
+1. Åbn pop op-programmet til softwaren, og vælg programmet på siden Softwarelager.
+2. Vælg **Unøjagtighed for rapport**, og vælg en kategori i rullemenuen i pop op-ruden.
+3. Udfyld din mailadresse og oplysningerne om unøjagtigheden.
 4. Vælg **Send**.</br>
-    Din feedback sendes straks til trusler & eksperter til sikkerhedsadministration.
+    Din feedback sendes straks til eksperter inden & til administration af trusselssikkerhedsrisiko.

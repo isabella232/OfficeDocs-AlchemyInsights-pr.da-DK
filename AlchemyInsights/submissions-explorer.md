@@ -1,5 +1,5 @@
 ---
-title: 2554 ny funktion til at diagnosticere EOP og DTT
+title: 2554 Ny funktion til at diagnosticere EOP og Microsoft Defender Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726481"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544896"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a>Ny funktion til at diagnosticere EOP og DTT
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>Ny funktion til at diagnosticere EOP og Microsoft Defender for Office 365
 
-Som administrator kan du nu let rapportere mistænkelige mails, URL-adresser og indhold til Microsoft i udbyderes [Stifinder](https://protection.office.com/reportsubmission). Du kan også bruge det til at forstå, hvorfor en legitim meddelelse er markeret forkert. Du kan finde flere oplysninger i denne [meddelelse](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+Som administrator kan du nu nemt rapportere mistænkelige mails, URL-adresser og indhold til Microsoft i [Stifinder til indsendelser.](https://protection.office.com/reportsubmission) Du kan endda bruge den til at forstå, hvorfor en legitim meddelelse blev markeret forkert. Du kan finde flere oplysninger i denne [meddelelse](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).

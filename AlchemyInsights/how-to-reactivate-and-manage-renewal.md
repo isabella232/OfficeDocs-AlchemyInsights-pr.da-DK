@@ -1,5 +1,5 @@
 ---
-title: Sådan genaktiverer og administrerer du fornyelser
+title: Sådan genaktiverer du og administrerer fornyelse
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,30 +14,30 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 9d5a05387a686b4e49c9ca14c7f5c6a76913fd23
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 88e152e1e06ae8035c635117fbfa63b50c6c9d92
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709136"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544320"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Sådan genaktiverer du et abonnement og administrerer tilbagevendende fakturering
 
 Det ser ud til, at du har et abonnement, der er udløbet. Hvis du vil genaktivere den, kan du se her, hvordan du gør.
   
-1. I Administration skal du gå til siden **Fakturering**  >  [af dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
-2. Find det **abonnement,** du vil genaktivere, på fanen Produkter. Vælg **Flere handlinger** (tre prik), og vælg derefter **Genaktiver dette abonnement.**
+1. I Administration skal du gå til **siden Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. Find det **abonnement,** du vil genaktivere, under fanen Produkter. Vælg de tre prik (flere handlinger), og vælg derefter **Genaktiver dette abonnement**.
 3. Vælg **en betalingsmetode på rullelisten** i ruden Genaktiver dette abonnement, eller vælg **Tilføj betalingsmetode.**
-4. Vælg **Gem.**
+4. Vælg **Gem**.
 
-Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Du kan finde flere oplysninger under [Genaktiver dit abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Hvis du vil administrere månedlig eller årlig fakturering, kan du slå **Tilbagevendende fakturering** til eller fra.
   
-1. I Administration skal du gå til siden **Fakturering**  >  [af dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
-2. Vælg det **abonnement,** du vil ændre, på fanen Produkter.
-3. Vælg Rediger tilbagevendende fakturering under Indstillinger for **abonnement og betaling** på siden med **abonnementsoplysninger.**
-4. Vælg **Til, Til,** men forny én gang, eller slå det fra i ruden Rediger **tilbagevendende** **faktureringsindstillinger.**
-5. Vælg **Gem.**
+1. I Administration skal du gå til **siden Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. Vælg **det abonnement,** du vil ændre, under fanen Produkter.
+3. På siden med abonnementsoplysninger under **Abonnements- og betalingsindstillinger** skal du vælge **Rediger tilbagevendende fakturering.**
+4. I **ruden Rediger tilbagevendende faktureringsindstillinger** skal du **vælge Til** **, Til, men forny én gang** eller Slå **fra**.
+5. Vælg **Gem**.
 
-For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

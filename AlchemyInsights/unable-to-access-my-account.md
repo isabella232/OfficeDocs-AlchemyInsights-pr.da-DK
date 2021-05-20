@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 4ab3fb7929fe9c00c2e07985e95b9cc821579576
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489163"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545442"
 ---
 # <a name="unable-to-access-my-account"></a>Jeg kunne ikke få adgang til min konto
 
@@ -25,9 +25,9 @@ Hvis dit abonnement udløber eller er blevet deaktiveret af Microsoft, eller hvi
 
 **Genaktiver et abonnement**
 
-1. I administration skal du gå til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Find det abonnement, du vil genaktivere, under fanen **produkter** . Vælg **flere handlinger** (tre prikker), og vælg derefter **Genaktiver dette abonnement**.
-3. I ruden **Genaktiver dette abonnement** skal du vælge en betalingsmetode på rullelisten eller vælge **Tilføj betalingsmetode**.
+1. I Administration skal du gå til **siden Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. Find det **abonnement,** du vil genaktivere, under fanen Produkter. Vælg de tre prik (flere handlinger), og vælg derefter **Genaktiver dette abonnement**.
+3. Vælg **en betalingsmetode på rullelisten** i ruden Genaktiver dette abonnement, eller vælg **Tilføj betalingsmetode.**
 4. Vælg **Gem**.
 
-Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Du kan finde flere oplysninger under [Genaktiver dit abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824609"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544824"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Modtager du for meget phish eller spam i din postkasse?
 
-**Bemærk!** Du kan få adgang til Microsoft 365-sikkerhedscenteret på [https://security.microsoft.com](https://security.microsoft.com) .
+**Bemærk!** Du kan få adgang Microsoft 365 sikkerhedscenter på [https://security.microsoft.com](https://security.microsoft.com) .
 
-Som Microsoft 365-administrator er den bedste måde at afgøre, hvorfor en phishing- eller spammeddelelse blev leveret, at sende eksemplet til Microsoft [i Indsendelsesstifinder.](https://security.microsoft.com/reportsubmission) Du får øjeblikkelig feedback i forbindelse med meddelelsesfiltrering, og hvorfor der er problemer.
+Som administrator Microsoft 365, er den bedste måde at afgøre, hvorfor en phishing- eller spammeddelelse blev leveret, at sende eksemplet til Microsoft [i Indsendelsesstifinder.](https://security.microsoft.com/reportsubmission) Du får øjeblikkelig feedback i forbindelse med meddelelsesfiltrering, og hvorfor der er problemer.
 
 For at gøre det mere brugervenligt kan du give dine brugere mulighed for at rapportere direkte til Microsoft via [tilføjelsesprogrammet Rapportmeddelelse](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-**Vidste du? :** Du kan nu [](https://security.microsoft.com/messagetrace) sende eksempler direkte fra Meddelelsessporing, og E5/ATP Plan 2-kunder kan sende eksempler fra [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Vidste du?**: Du kan nu [](https://security.microsoft.com/messagetrace) sende eksempler direkte fra Meddelelsessporing, og E5/Microsoft Defender til Office 365 Plan 2-kunder kan sende eksempler fra [Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).

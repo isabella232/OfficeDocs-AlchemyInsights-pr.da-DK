@@ -1,5 +1,5 @@
 ---
-title: Abonnementet er udløbet
+title: Udløbet abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "456"
 - "1500020"
-ms.openlocfilehash: 39ac3c49e6d065cef3d40f7dffeaa66027045b62
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f8e317f5911105e495d17f1242da86fe590651f9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416163"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544176"
 ---
-# <a name="expired-subscription"></a>Abonnementet er udløbet
+# <a name="expired-subscription"></a>Udløbet abonnement
 
-Det ser ud til, at du har et eller flere udløbne abonnementer. Hvis du vil fortsætte tjenesten, skal du genaktivere abonnementet eller foretage et nyt køb.
+Det ser ud til, at du har et eller flere udløbne abonnementer. Hvis du vil fortsætte med tjenesten, skal du genaktivere abonnementet eller foretage et nyt køb.
   
 **Genaktivere**
   
-1. I administration skal du gå til siden **Fakturering** \> [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Find det abonnement, du vil genaktivere, under fanen **produkter** . Vælg **flere handlinger** (tre prikker), og vælg derefter **Genaktiver dette abonnement**.
+1. I Administration skal du gå til **siden Fakturering** \> [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. Find det **abonnement,** du vil genaktivere, under fanen Produkter. Vælg de tre prik (flere handlinger), og vælg derefter **Genaktiver dette abonnement**.
     > [!NOTE]
-    > Hvis du ikke kan se **Genaktiver dette abonnement**, kan du ringe til support.
-3. I ruden **Genaktiver dette abonnement** skal du vælge en betalingsmetode på rullelisten eller vælge **Tilføj betalingsmetode**.
+    > Hvis du ikke kan se **Genaktiver dette abonnement, skal du** ringe til support.
+3. Vælg **en betalingsmetode på rullelisten** i ruden Genaktiver dette abonnement, eller vælg **Tilføj betalingsmetode.**
 4. Vælg **Gem**.
 
-Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Du kan finde flere oplysninger under [Genaktiver dit abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-**Opret et nyt køb**
+**Foretag et nyt køb**
   
-1. I administration skal du gå til siden **Fakturering** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. I Administration skal du  gå til siden \> [Faktureringskøb](https://go.microsoft.com/fwlink/p/?linkid=868433) af tjenester.
 2. Vælg det abonnement, du vil købe, og vælg derefter **Køb**.
-3. Angiv det antal licenser, du har brug for, og vælg, om du vil betale hver måned eller for hele året. Vælg, om du vil tildele licenser automatisk til alle, der ikke aktuelt har en licens. Vælg derefter **Tjek ud nu**.
-4. Følg de resterende trin for at fuldføre udtjekningen.
+3. Angiv antallet af licenser, du skal bruge, og vælg, om du vil betale hver måned eller for hele året. Vælg, om du automatisk vil tildele licenser til alle, der i øjeblikket ikke har en licens. Vælg derefter **Tjek ud nu.**
+4. Følg de resterende trin for at fuldføre tjek ud.
 
-Hvis du vil have mere at vide, skal du se [købe et andet abonnement](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
+Du kan få mere at vide under [Køb et andet abonnement](/microsoft-365/commerce/buy-another-subscription).
