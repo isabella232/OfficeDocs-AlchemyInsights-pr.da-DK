@@ -2,34 +2,32 @@
 title: Sådan genaktiverer du et abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "441"
 - "1500017"
-ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 10a38f9234d969e8729211b56cd7d3a90bf05de3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2260ee6053cbb728167a36fb019f0500fe49732d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509126"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544356"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="be42a-102">Sådan genaktiverer du et abonnement</span><span class="sxs-lookup"><span data-stu-id="be42a-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="ff4b1-102">Sådan genaktiverer du et abonnement</span><span class="sxs-lookup"><span data-stu-id="ff4b1-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="be42a-103">Hvis dit abonnement er udløbet, blevet annulleret eller deaktiveret af Microsoft, kan du genaktivere det i Microsoft 365 Administration.</span><span class="sxs-lookup"><span data-stu-id="be42a-103">If your subscription has expired, been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="ff4b1-103">Hvis dit abonnement er udløbet, blevet annulleret eller deaktiveret af Microsoft, kan du genaktivere det i Microsoft 365 Administration.</span><span class="sxs-lookup"><span data-stu-id="ff4b1-103">If your subscription has expired, been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="be42a-104">Gå til siden Fakturering **Billing** \> **[af dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)** i Administration.</span><span class="sxs-lookup"><span data-stu-id="be42a-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="ff4b1-104">I Administration skal du gå til **siden Fakturering** \> [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.</span><span class="sxs-lookup"><span data-stu-id="ff4b1-104">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="ff4b1-105">Find det **abonnement,** du vil genaktivere, under fanen Produkter.</span><span class="sxs-lookup"><span data-stu-id="ff4b1-105">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="ff4b1-106">Vælg de tre prik (flere handlinger), og vælg derefter **Genaktiver dette abonnement**.</span><span class="sxs-lookup"><span data-stu-id="ff4b1-106">Select the three dots (more actions), then select **Reactivate this subscription**.</span></span>
+    <span data-ttu-id="ff4b1-107">Hvis Genaktiver dette abonnement ikke **vises som en** tilgængelig handling, skal du ringe til support.</span><span class="sxs-lookup"><span data-stu-id="ff4b1-107">If you don't see **Reactivate this subscription** as an available action, call support.</span></span>
+3. <span data-ttu-id="ff4b1-108">Vælg **en betalingsmetode på rullelisten** i ruden Genaktiver dette abonnement, eller vælg **Tilføj betalingsmetode.**</span><span class="sxs-lookup"><span data-stu-id="ff4b1-108">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="ff4b1-109">Vælg **Gem**.</span><span class="sxs-lookup"><span data-stu-id="ff4b1-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="be42a-105">Find det abonnement, du vil genaktivere.</span><span class="sxs-lookup"><span data-stu-id="be42a-105">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="be42a-106">I sektionen **Fakturering** skal du vælge **Genaktiver**.</span><span class="sxs-lookup"><span data-stu-id="be42a-106">In the **Billing** section, choose **Reactivate**.</span></span>
-
-    <span data-ttu-id="be42a-107">Hvis **Genaktiver** ikke vises som en tilgængelig handling, skal du ringe til support for at genaktivere dit abonnement.</span><span class="sxs-lookup"><span data-stu-id="be42a-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
-
-3. <span data-ttu-id="be42a-108">Bekræft dine betalingsoplysninger.</span><span class="sxs-lookup"><span data-stu-id="be42a-108">Confirm your payment details.</span></span> <span data-ttu-id="be42a-109">Du kan opdatere dine eksisterende betalingsoplysninger her.</span><span class="sxs-lookup"><span data-stu-id="be42a-109">You can update your existing payment information here.</span></span> <span data-ttu-id="be42a-110">Når du er færdig med at angive din betalingsmetode, skal du vælge **Genaktiver**.</span><span class="sxs-lookup"><span data-stu-id="be42a-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
-
-<span data-ttu-id="be42a-111">Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="be42a-111">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
+<span data-ttu-id="ff4b1-110">Du kan finde flere oplysninger under [Genaktiver dit abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="ff4b1-110">To learn more, see [Reactivate your subscription](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
