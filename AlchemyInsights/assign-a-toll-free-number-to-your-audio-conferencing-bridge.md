@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821108"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626071"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Tildel et gratisnummer til lydkonferencebroen
 
 Sådan tildeler du et nyt telefonnummer til lydkonferencebroen:
 
-1. Log på Office 365 med din arbejdskonto.
-2. Gå til **Microsoft 365 Administration > Administrationer > Teams og Skype > Ældre portal > Stemme > Telefonnumre**.
-3. Vælg telefonnummeret på listen, og i ruden **Handling** skal du klikke på **Tildel**.
-4. Klik på **Gem** på siden **Tildel**.
+1. Gå til Microsoft Teams Administration.
+1. I venstre navigationsrude skal du gå til  >  **Mødemødebroer**.
+1. Markér det gratis servicenummer, du vil konfigurere som standard.
+1. Klik på **Angiv som standard**.
 
-Hvis du vil have mere at vide, skal du gå til [Skift telefonnumre på lydkonferencebroen](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+Hvis du vil have mere at vide, skal du gå til [Skift telefonnumre på lydkonferencebroen](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
