@@ -1,5 +1,5 @@
 ---
-title: SharePoint-lagerplads
+title: Administrer din SharePoint Onlinelagerplads
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773733"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689852"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Administrere dit SharePoint Online-lager
+# <a name="manage-your-sharepoint-online-storage"></a>Administrer din SharePoint Onlinelagerplads
 
-Få mere at vide om [, hvordan lejer lager beregnes](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) ud fra din plan.
+For de fleste organisationer administreres SharePoint lagerplads automatisk, så du ikke behøver at angive grænser pr. gruppe af websteder. Du kan finde flere oplysninger om, hvordan lejerlager beregnes baseret på din plan, under [Grænser efter plan.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)
 
-For de fleste organisationer administreres SharePoint-lager automatisk, så du behøver ikke at angive begrænsninger for hver gruppe af websteder.
+Du kan finde flere oplysninger under:
 
-Få mere at vide om, hvordan du [får vist den samlede og tilgængelige lagerplads for din organisation](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Administrer lagergrænser for websteder](/sharepoint/manage-site-collection-storage-limits)
 
-Få mere at vide om at [administrere individuelle Lagergrænser for grupper af websteder](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Administrere individuelle lagergrænser for websteder](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Hvis der ikke er mere plads på dit websted, eller hvis du vil have mere at vide om, hvilket bibliotek eller hvilken liste der anvender pladsen, skal du gå til indstillinger for lagring af **Webstedsindstillinger**  >  **Storage Metrics** (administratortilladelser for gruppen af websteder).
+Hvis dit websted er løbet tør for plads, eller du vil vide, hvilket bibliotek eller hvilken liste der bruger pladsen, skal du gå til Websted **Indstillinger**  >  **Storage Metrikværdier** (administratortilladelser for gruppe af websteder er påkrævede).
 
-Få mere at vide om, hvordan du [overvåger lagergrænsen for websteder ved hjælp af PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+Du kan finde flere oplysninger under:
 
-Få mere at vide om, hvordan du [køber ekstra lagerplads](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Overvåg lagergrænser for websteder ved hjælp af PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Tilføj lagerplads til dit abonnement](/microsoft-365/commerce/add-storage-space) 
   
