@@ -1,5 +1,5 @@
 ---
-title: Gendan slettede elementer fra Exchange Administration
+title: Gendan slettede elementer Exchange Administration
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bf44c6f283a52fdcef2f231143177dc880b06d8a
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809721"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694734"
 ---
-# <a name="recover-deleted-items-from-exchange-admin-center"></a>Gendan slettede elementer fra Exchange Administration
+# <a name="recover-deleted-items-from-exchange-admin-center"></a>Gendan slettede elementer Exchange Administration
 
-Inden for den [forenklede og opdaterede oplevelse](https://admin.exchange.microsoft.com/#/mailboxes)for postkasseadministration i Exchange Administration (EAC) kan du vælge de brugere, som er specifikke postkasser og gendanne elementer.
+I den forenklede [og](https://admin.exchange.microsoft.com/#/mailboxes)opdaterede oplevelse for postkasseadministration i Exchange Administration (EAC) kan du vælge de brugere, som er specifikke for postkassen, og gendanne elementer.
 
 1. Vælg **postkasser** under **Modtagere**.
 2. Vælg den bruger, du vil gendanne mails fra.
 3. Vælg **Gendan slettede elementer**.
     - Du skal muligvis kigge under **... rullelisten** flere for at **se, hvordan du gendanner slettede elementer.**
 4. Brug filterindstillingerne til at finde de elementer, du skal gendanne.
+
+Få mere at vide under [Brug af nyt EAC til at gendanne slettede meddelelser](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).

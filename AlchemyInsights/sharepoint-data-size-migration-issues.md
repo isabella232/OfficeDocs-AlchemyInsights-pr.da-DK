@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700881"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694770"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemer under overførsel af data til SharePoint Online
 
-**Overføre data via 100TB**
+**Overførsel af mere end 100 TB data**
 
-Det ser ud til, at du overfører 100TB af data til SharePoint Online. Følg trinnene nedenfor, så vi kan hjælpe dig så hurtigt som muligt. 
+Det ser ud til, at du overfører over 100 TB data til SharePoint Online. Følg nedenstående trin, så vi kan hjælpe dig så hurtigt som muligt. 
 
-1. Vælg **ny serviceanmodning**og derefter **ny serviceanmodning**. 
-2. Lad titlen og beskrivelsen stå som **SharePoint-overførsel over 100TB**.
-3. Når billetten er blevet sendt, skal du opdatere den med følgende oplysninger: 
+1. Vælg **Kontakt support** og derefter Ny **serviceanmodning**. 
+2. Lad titlen og beskrivelsen være, **SharePoint over 100 TB**.
+3. Når billeten er blevet indsendt, skal du opdatere den med følgende oplysninger: 
 
-    - Anslået størrelse af overførslen.
-    - Et skøn over, hvornår du gerne vil starte og afslutte overførslen.
-    - Beskriv, hvor du overfører dit indhold fra, f. eks. SharePoint Server, box, GDrive, filshares osv.
+    - Anslået størrelse på din overførsel.
+    - Et estimat over, hvornår du vil starte og fuldføre overførslen.
+    - Beskriv, hvor du overfører dit indhold fra, f.eks. SharePoint Server, Box, GDrive, Fil-shares osv.
