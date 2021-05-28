@@ -1,5 +1,5 @@
 ---
-title: Kan ikke finde Teams-mødeoptagelsen
+title: Kan ikke finde Teams mødeoptagelsen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294151"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696930"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Kan ikke finde Teams-mødeoptagelsen
+# <a name="cant-find-the-teams-meeting-recording"></a>Kan ikke finde Teams mødeoptagelsen
 
-Hvis du ikke kan finde eller finde en Teams-mødeoptagelse, kan du se følgende fejlfindingsdokumentation:
+Hvis du ikke kan finde eller finde en Teams-mødeoptagelse, skal du først køre køre Diagnosticering af manglende mødeoptagelse ved at skrive **Diag:** Manglende optagelse i feltet ovenfor. 
 
-[Fejlfinding af problemer med optagelse af Teams-møder – Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Optagelser findes i Stream, OneDrive eller SharePoint afhængigt af, hvordan din lejer er konfigureret, og om optagelsen var til et kanalmøde. Du kan finde en vejledning til manuelt at finde mødeoptagelsen i: 
 
-Din mødeoptagelse vil enten være placeret i Stream, OneDrive eller SharePoint, afhængigt af hvordan din lejer er konfigureret.
+[Problem 2: Linket til mødeoptagelsen er ikke synligt i et chatvindue](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Hvis du vil have vejledning i, hvordan du finder mødeoptagelsen, skal du se:
-
-**[Problem 2: Linket til mødeoptagelsen er ikke synligt i et chatvindue](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Du kan få mere at vide [under Problemer med mødeoptagelser.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
