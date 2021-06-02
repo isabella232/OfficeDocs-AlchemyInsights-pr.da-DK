@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470241"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721630"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Importér tjeneste
 
-Tjenesten Microsoft 365 import giver dig mulighed for masseimport af flere PST-filer til Exchange Online postkasser.
-
 Sådan får du adgang til importtjenesten og starter importprocessen:
 
-1. Gå til [Security & Compliance Center,](https://protection.office.com) og log på med legitimationsoplysningerne til en administratorkonto i organisationen.
+1. Gå til [M365 Compliance Center](https://compliance.microsoft.com/), og log på med legitimationsoplysningerne til en administratorkonto i organisationen.
 
-2. I venstre rude i **Security & Compliance Center skal du** klikke på > **Importér.**
+1. I venstre rude i M365 Compliance Center under Løsninger **skal du** vælge Import **af informationsstyring**  >  .
 
-3. På siden **Importér** skal du klikke **på Nyt importjob.**
+1. På siden **Importér** skal du vælge **Nyt importjob**.
 
-4. Følg denne trinvise vejledning for at fuldføre trinnene [i guiden.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
+1. For at fuldføre trinnene i guiden skal du se [Brug netværksupload til at importere din organisations PST-filer til Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
-**Vigtigt!** For at få **adgang** til siden Import i Security & Compliance Center har du fået [tildelt de relevante tilladelser.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
+For at få **adgang til** siden Importér skal du sørge for, at du har fået tildelt de relevante tilladelser. Få mere at vide under Brug [netværksupload til at importere PST-filer.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
-Hvis du blot ønsker at importere en PST til din postkasse, skal du se [denne artikel](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Hvis du vil importere en PST-fil til din postkasse, skal du se Importér mail, kontakter og [kalender fra en Outlook .pst-fil.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+
+Hvis du har problemer med en import, skal du se Problemer, [der påvirker PST-importjob.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+
