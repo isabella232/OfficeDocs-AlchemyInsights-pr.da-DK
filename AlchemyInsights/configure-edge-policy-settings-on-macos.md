@@ -1,5 +1,5 @@
 ---
-title: Brug Syltefod til at konfigurere politikindstillinger for Microsoft Edge på macOS
+title: Brug Sylte til at konfigurere Microsoft Edge politikindstillinger på macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003852"
 - "9004632"
+- "9006494"
 - "6901"
 - "8360"
-ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11115"
+ms.openlocfilehash: 2a8f01ba2224ab118dce332edd863a8c6f1122e6
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403449"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989783"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Brug Syltefod til at konfigurere politikindstillinger for Microsoft Edge på macOS
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Brug Sylte til at konfigurere Microsoft Edge politikindstillinger på macOS
 
-Hvis du vil konfigurere Microsoft Edge (stabil kanal 81 eller nyere) på macOS, skal du bruge en Microsoft Edge-politik manifestfil på Sylf Pro 10.19.
+For at Microsoft Edge (stabil kanal 81 eller nyere) på macOS skal du bruge en Microsoft Edge-politik manifestfil på Syltef Pro 10.19.
 
-Du kan få mere at vide [under Konfigurer politikindstillinger for Microsoft Edge på macOS med Jamf.](https://go.microsoft.com/fwlink/?linkid=2134761)
+Få mere at vide under [Konfigurer Microsoft Edge politikindstillinger på macOS med Sylte.](https://go.microsoft.com/fwlink/?linkid=2134761)

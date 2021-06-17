@@ -1,5 +1,5 @@
 ---
-title: Planlæg din installation af Microsoft Edge
+title: Planlæg din udrulning af Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035480"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989927"
 ---
-# <a name="plan-your-deployment-of-microsoft-edge"></a>Planlæg din installation af Microsoft Edge
+# <a name="plan-your-deployment-of-microsoft-edge"></a>Planlæg din udrulning af Microsoft Edge
 
-Det kan være overvældende at installere en ny browser til en gruppe brugere. Vi kan hjælpe dig med at indbryde den i trin og hjælpe dig gennem hver enkelt. Hvis du følger disse syv trin, har du en vellykket Installation af Microsoft Edge med minimal bruger frustration:
+Det kan være overvældende at installere en ny browser til en gruppe brugere. Vi kan hjælpe dig med at indbryde den i trin og hjælpe dig gennem hver enkelt. Hvis du følger disse syv trin, har du en vellykket Microsoft Edge med minimal bruger frustration:
 
 1. Vurder dit eksisterende browsermiljø og dine behov.
-2. Fastlægge din installationsmetode.
+2. Bestem din installationsmetode.
 3. Do site discovery.
 4. Fastlægge din kanalstrategi.
 5. Definere og konfigurere politikker.
 6. Udføre test af appkompatibilitet.
-7. Installér Microsoft Edge til en pilotgruppe, og valider den.
+7. Installér Microsoft Edge en pilotgruppe, og valider den.
 
-Hvis du selv vil arbejde med disse trin, skal du [se Planlægge din installation af Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2129990)
+Hvis du selv vil arbejde med disse trin, skal [du se Planlæg din installation af Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).
