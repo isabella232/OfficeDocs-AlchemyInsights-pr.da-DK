@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721630"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023097"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Importér tjeneste
 
@@ -29,9 +29,9 @@ Sådan får du adgang til importtjenesten og starter importprocessen:
 
 1. I venstre rude i M365 Compliance Center under Løsninger **skal du** vælge Import **af informationsstyring**  >  .
 
-1. På siden **Importér** skal du vælge **Nyt importjob**.
+1. På siden **Importér** skal du vælge **Nyt importjob**. Angiv et jobnavn, og vælg **Næste**.
 
-1. For at fuldføre trinnene i guiden skal du se [Brug netværksupload til at importere din organisations PST-filer til Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
+1. Vælg **Upload dine data for** at bruge indstillingen for netværksupload til **Importér jobtype.** Hvis du vil have en detaljeret [vejledning, skal du se Brug netværksupload til at importere din organisations PST-filer Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
 For at få **adgang til** siden Importér skal du sørge for, at du har fået tildelt de relevante tilladelser. Få mere at vide under Brug [netværksupload til at importere PST-filer.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
