@@ -1,5 +1,5 @@
 ---
-title: Vejledning til opgradering af teams
+title: Teams om opgradering
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333922"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095394"
 ---
-# <a name="microsoft-teams-upgrade"></a>Opgradering af Microsoft teams
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams opgradering
 
-**Vigtigt**! hvis du er blevet opgraderet fra Skype for Business online til Microsoft teams i kun teams-tilstand, men du ikke er klar endnu, kan vi løse dette for at bruge en support diagnosticering. Sørg for, at du bruger det nye Administrationscenter ved at flytte til/fra-knappen i øverste højre hjørne, der siger det **nye Administrationscenter**til højre. Ved hjælp af det nye administrations Center skal du klikke på **Brug hjælp?** widget, skrive "**teams-opgradering**" og derefter følge instruktionerne for at køre diagnosticeringen.
+Uanset om du lige er begyndt at bruge Teams, allerede bruger Teams sammen med Skype for Business eller er klar til at opgradere, ønsker vi at sikre, at du har alt, hvad du behøver for at navigere i en vellykket Teams. Du kan få flere oplysninger ved at gå til nedenstående links.
 
-Uanset om du er i gang med at komme i gang med teams, allerede bruger teams ved siden af Skype for Business eller klar til at opgradere, skal du sikre dig, at du har alt, hvad du skal bruge for at få en god tur til teams. Du kan få mere at vide ved at gå til nedenstående links.
+[Introduktion til din Microsoft Teams opgradering](/MicrosoftTeams/upgrade-start-here)
 
-[Kom i gang med din opgradering af Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Planlæg din opgradering](/MicrosoftTeams/upgrade-plan-journey)
 
-[Planlæg din opgradering](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Forstå Microsoft Teams og Skype for Business sameksistens](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Forstå Microsoft teams og sameksistens af Skype for Business](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Udførelse af opgraderingen fra Skype for Business Online til Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Udførelse af opgraderingen fra Skype for Business online til teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Udførelse af opgraderingen fra Skype for Business i det lokale miljø til teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Udførelse af opgraderingen fra Skype for Business lokalt miljø til Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Kontrollere status for Skype for Business online til teams-opgradering med PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Kontrollér status for opgradering Skype for Business Online for at Teams opgradering med PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
