@@ -14,19 +14,19 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6abec5038c8b0e0089ed3080f5b06db85766791f
-ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
+ms.openlocfilehash: f796bc65baccfe4d424a3a690eced472a0ca3561
+ms.sourcegitcommit: 00a9c41575be54dccac6c423f2de824b47a4ee9e
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53104596"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53176551"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="dda6a-102">Få Microsoft 365 gratis for hele skolen</span><span class="sxs-lookup"><span data-stu-id="dda6a-102">Get Microsoft 365 free for your entire school</span></span>
+# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="64044-102">Få Microsoft 365 gratis for hele skolen</span><span class="sxs-lookup"><span data-stu-id="64044-102">Get Microsoft 365 free for your entire school</span></span>
 
-<span data-ttu-id="dda6a-103">Gør samarbejdet i klasseværelset og skolen bedre med gratis produktivitetsværktøjer.</span><span class="sxs-lookup"><span data-stu-id="dda6a-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="dda6a-104">Du skal kontrollere, at du er en godkendt uddannelsesinstitution for at udnytte disse tilbud.</span><span class="sxs-lookup"><span data-stu-id="dda6a-104">You will need to verify that you're an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="64044-103">Gør samarbejdet i klasseværelset og skolen bedre med gratis produktivitetsværktøjer.</span><span class="sxs-lookup"><span data-stu-id="64044-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="64044-104">Du skal kontrollere, at du er en godkendt uddannelsesinstitution for at udnytte disse tilbud.</span><span class="sxs-lookup"><span data-stu-id="64044-104">You will need to verify that you're an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="dda6a-105">Gennemgå Education-planerne</span><span class="sxs-lookup"><span data-stu-id="dda6a-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="64044-105">Gennemgå Education-planerne</span><span class="sxs-lookup"><span data-stu-id="64044-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [<span data-ttu-id="dda6a-106">Introduktion til Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="dda6a-106">Get started with Office 365 Education</span></span>](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
+- [<span data-ttu-id="64044-106">Introduktion til Microsoft 365 Education</span><span class="sxs-lookup"><span data-stu-id="64044-106">Get started with Microsoft 365 Education</span></span>](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
 
-- [<span data-ttu-id="dda6a-107">Sammenlign alle Microsoft 365 abonnementer</span><span class="sxs-lookup"><span data-stu-id="dda6a-107">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="64044-107">Sammenlign alle Microsoft 365 abonnementer</span><span class="sxs-lookup"><span data-stu-id="64044-107">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
