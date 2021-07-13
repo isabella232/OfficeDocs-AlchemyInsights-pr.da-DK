@@ -1,7 +1,7 @@
 ---
 title: Fejlfinding af livebegivenheder i Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: a0637bb8f96038c6e9898b5148fe4458358fdc6d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24d5e0e255c937ee66c768d42a8aa1073780b16e
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782874"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389283"
 ---
-# <a name="troubleshooting-live-events-in-microsoft-stream"></a><span data-ttu-id="4c58a-102">Fejlfinding af livebegivenheder i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="4c58a-102">Troubleshooting live events in Microsoft Stream</span></span>
+# <a name="troubleshooting-live-events-in-microsoft-stream"></a><span data-ttu-id="44f65-102">Fejlfinding af livebegivenheder i Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="44f65-102">Troubleshooting live events in Microsoft Stream</span></span>
 
-<span data-ttu-id="4c58a-103">Der er forskellige områder, du skal kontrollere for at sikre, at Microsoft Stream-livebegivenheder kører uden problemer.</span><span class="sxs-lookup"><span data-stu-id="4c58a-103">There are various areas to check to ensure Microsoft Stream live events run smoothly.</span></span> <span data-ttu-id="4c58a-104">Du kan få mere at vide under [Fejlfinding af livebegivenheder i Microsoft Stream](https://docs.microsoft.com/stream/live-event-troubleshooting).</span><span class="sxs-lookup"><span data-stu-id="4c58a-104">For more information, please see [Troubleshooting live events in Microsoft Stream](https://docs.microsoft.com/stream/live-event-troubleshooting).</span></span>
+<span data-ttu-id="44f65-103">Der er forskellige områder, du skal kontrollere for at sikre, at Microsoft Stream-livebegivenheder kører uden problemer.</span><span class="sxs-lookup"><span data-stu-id="44f65-103">There are various areas to check to ensure Microsoft Stream live events run smoothly.</span></span> <span data-ttu-id="44f65-104">Du kan få mere at vide under [Fejlfinding af livebegivenheder i Microsoft Stream](/stream/live-event-troubleshooting).</span><span class="sxs-lookup"><span data-stu-id="44f65-104">For more information, please see [Troubleshooting live events in Microsoft Stream](/stream/live-event-troubleshooting).</span></span>
