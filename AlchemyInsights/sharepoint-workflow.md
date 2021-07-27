@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800242"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586928"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Fejlfinding af arbejdsprocesser i SharePoint
 
-**Fejlfinding og fejlfinding af arbejdsprocesser i SharePoint**
+**Fejlfinding af arbejdsprocesser i SharePoint**
 
-Se [fejlfinding af fejl i SharePoint-arbejdsproces validering](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) og [fejlfinding af SharePoint-arbejdsprocesser](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Du kan finde flere oplysninger under:
 
-**Power-Automatering**
+- [Fejlfinding SharePoint af arbejdsprocesvalideringsfejl](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Fejlfinding SharePoint arbejdsprocesser.](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- [Indsam SharePoint 2013-arbejdsprocessens fejlfindingsdata med ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-Hvis du lige er i gang med arbejdsprocesser, kan du overveje at bruge [Power-automatisering](https://docs.microsoft.com/power-automate/modern-approvals) i stedet for de klassiske SharePoint-arbejdsprocesløsninger.
+**Power Automate**
 
-Du kan finde flere oplysninger i [SharePoint-arbejdsprocesser](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring), der trækkes tilbage.
+Hvis du kun lige er begyndt at bruge arbejdsprocesser, kan du [overveje at Power Automate i](/power-automate/modern-approvals) stedet for de klassiske SharePoint-arbejdsprocesløsninger.
+
+Du kan finde flere oplysninger [SharePoint at arbejdsprocesserne trækkes tilbage.](/alchemyinsights/sharepoint-workflows-retiring)

@@ -1,5 +1,5 @@
 ---
-title: Føje en gruppe til et SharePoint-websted
+title: Føje en gruppe til et SharePoint websted
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,27 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "5200004"
+- "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 396efbf9772b5398427a4fcc76e104fa95820af6
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771193"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532213"
 ---
-# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemer ved oprettelse af et gruppe forbundet websted i SharePoint
+# <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>Almindelige problemer ved oprettelse af et gruppeforbundet websted i SharePoint
 
-1. Der opstod nogle almindelige problemer med at oprette eller genoprette en gruppes forbundne websted.
-Hvis du har slettet en gruppe og den tilknyttede websted og vil oprette et andet websted med den samme URL-adresse, skal du fjerne det tidligere websted permanent.
+1. Hvis du har slettet en gruppe og dens tilknyttede websted og ønsker at oprette et andet websted med den samme URL-adresse, skal du fjerne det forrige websted permanent.
 
    - Download [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
-   - Du kan finde flere oplysninger om at komme i gang med PowerShell i [Introduktion til SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
-   - Fjernwebstedet fra slettede websteder ved hjælp af PowerShell [-cmdlet'en Fjern-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) . PowerShell kræves for at slette gruppe websteder permanent.
+   - Du kan finde flere oplysninger om at komme i gang med Powershell [under Introduktion SharePoint Online Management Shell.](/powershell/module/sharepoint-online/remove-sposite)
+   - Fjern webstedet fra slettede websteder ved hjælp af [Remove-SPODeletedSite](/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell-cmdlet'en. PowerShell er påkrævet for at slette gruppewebsteder permanent.
 
-1. Hvis du opretter en gruppe forbundet websted og modtager en advarsel: der **findes allerede en gruppe med det samme alias**, skal du kontrollere de eksisterende grupper fra [Microsoft 365 administration](https://admin.microsoft.com/AdminPortal/Home#/groups). For at løse problemet skal du slette den eksisterende gruppe, hvis den ikke længere er nødvendig, eller oprette webstedet med et andet alias tildelt.
+1. Hvis du opretter et gruppeforbundet websted, og der vises en advarsel: Der findes allerede en anden gruppe med det samme **alias**, skal du kontrollere de eksisterende grupper [Microsoft 365 Administration](https://admin.microsoft.com/AdminPortal/Home#/groups). Du kan løse problemet ved at slette den eksisterende gruppe, hvis der ikke længere er brug for den, eller oprette webstedet med et andet alias tildelt.
 
-1. Der er forskellige måder at oprette og bruge moderne grupper på i SharePoint.
+1. Der er forskellige måder at oprette og bruge moderne grupper med SharePoint.
 
-   - Du kan forbinde eksisterende websteder til en Microsoft 365-gruppe. Du kan finde flere oplysninger i [Opret forbindelse til en Microsoft 365-gruppe ved hjælp af SharePoint-brugergrænsefladen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Hvis du vil oprette et Microsoft 365-gruppens forbundne websted, skal du oprette et [team websted](https://admin.microsoft.com/sharepoint).
+   - Du kan forbinde eksisterende websteder til en Microsoft 365 gruppe. Du kan få mere at [vide Forbind en Microsoft 365 gruppe ved hjælp SharePoint brugergrænsefladen.](/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
+   - Hvis du Microsoft 365 et websted med forbindelse til en gruppe, skal du oprette et [teamwebsted](https://admin.microsoft.com/sharepoint).
