@@ -1,5 +1,5 @@
 ---
-title: 1488-Udfør-eDiscovery-and-Content-søgninger
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668508"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630207"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sådan udfører du indholds søgninger og eDiscovery-søgninger
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Sådan udfører du indholdssøgninger og eDiscovery-søgninger
 
-**Sådan udfører du en indholdssøgning**:
+**Sådan udfører du en indholdssøgning:**
 
-1. Gå til [Security & overholdelses Center](https://protection.office.com) , og log på.
-2. Klik på **søg > indholdssøgning**.
-3. Klik på **ny søgning** for at oprette en ny søgning.
-4. Angiv de nødvendige søgebetingelser, herunder nøgleord og indholds placeringer.
-5. Klik på **gem & Kør** for at navngive søgningen, starte den og derefter Gennemse resultaterne.
+1. Gå til Microsoft 365 Overholdelsescenter, og log på.
+2. Vælg **Søg > indholdssøgning**.
+3. Vælg **Ny søgning** for at oprette en ny søgning.
+4. Angiv de nødvendige søgebetingelser, herunder nøgleord og indholdsplaceringer.
+5. Vælg **Gem & for at** navngive søgningen, starte den og derefter få vist resultaterne.
 
 > [!NOTE]
-> I **M365 Compliance Center** under **løsninger** skal du vælge Udvid **eDiscovery** og vælge dit ønskede eDiscovery-værktøj.
+> I **Microsoft 365 Compliance Center** Solutions  >  **skal** du udvide **eDiscovery** og vælge det ønskede eDiscovery-værktøj.
 
-Hvis du vil have mere at vide om at søge efter indhold, eksportere resultater og oprette eDiscovery-sager for at gemme data, skal du se [indholdssøgning](https://docs.microsoft.com/microsoft-365/compliance/content-search) og [eDiscovery-sager](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Hvis du vil have detaljerede oplysninger om indholdssøgninger, eksport af [](/microsoft-365/compliance/content-search) resultater og oprettelse af eDiscovery-sager til at opbevare data, skal du se Indholdssøgning og [eDiscovery-sager.](/microsoft-365/compliance/ediscovery-cases)
 
-**Flere oplysninger**:
+**Flere oplysninger:**
 
-- Du kan finde flere oplysninger om eDiscovery-værktøjer i Microsoft 365 under [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Få mere at vide om de tilladelser, krav og begrænsninger, der er nødvendige for at udføre eDiscovery-søgninger fra tilladelser, der [kræves for eDiscovery-søgninger](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) og [krav og begrænsninger](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
-- Hvis du foretager fejlfinding af eDiscovery-problemer, skal du se grundlæggende [problemer i forbindelse med eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) og under [søge delvist indekserede elementer](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Du kan finde flere oplysninger om eDiscovery-værktøjer Microsoft 365 i [eDiscovery.](/microsoft-365/compliance/ediscovery)
+- Få mere at vide om de tilladelser, krav og begrænsninger, der er nødvendige for at udføre eDiscovery-søgninger fra Tilladelser, der kræves til [eDiscovery-søgninger](/microsoft-365/compliance/assign-ediscovery-permissions) [og krav og begrænsninger.](/microsoft-365/compliance/limits-for-content-search)
+- Hvis du foretager fejlfinding af eDiscovery-problemer, skal du se Fejlfinding af almindelige problemer i [eDiscovery](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) og [undersøgelse af delvist indekserede elementer.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

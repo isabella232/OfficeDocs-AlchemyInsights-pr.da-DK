@@ -1,5 +1,5 @@
 ---
-title: Ensartede opbevaringspolitikker i sikkerheds & overholdelses Center
+title: Samlede opbevaringspolitikker i Security & Compliance Center
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669205"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630135"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Ensartede opbevaringspolitikker i sikkerheds & overholdelses Center
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Samlede opbevaringspolitikker i Security & Compliance Center
 
-Opbevaringspolitikker gør det muligt at administrere din organisations indhold ved hjælp af indstillingerne for opbevaring og sletning. Du kan oprette ensartede opbevaringspolitikker i Office 365 Security & Overholdelsescenter eller i Microsoft 365-Overholdelsescenter. 
+Opbevaringspolitikker gør det nemt at administrere organisationens indhold ved hjælp af indstillinger for opbevaring og sletning. Du kan oprette samlede opbevaringspolitikker i Office 365 Security & Compliance Center eller i Microsoft 365 Compliance Center. 
 
-1. I [sikkerheds & overholdelses Center](https://go.microsoft.com/fwlink/p/?linkid=2077143)skal du vælge **informations styrings**  >  **opbevaring**  >  **+ Opret**. <br/>
-    I [Microsoft 365-overholdelses Center](https://go.microsoft.com/fwlink/p/?linkid=2077149)skal du vælge **politik**  >  **data > opbevaring > + ny opbevaringspolitik.**
-2. Tilføj **navn**, **Indstillinger**, og **Vælg placeringer**.
-3. Gennemse dine indstillinger, og vælg derefter **Opret denne politik** eller **Gem til senere**.  
+1. I [Security & Compliance Center skal du](https://go.microsoft.com/fwlink/p/?linkid=2077143)vælge Opbevaring af   >  **oplysninger**  >  **+ Opret**. <br/>
+    I Microsoft 365 [overholdelsescenter skal](https://go.microsoft.com/fwlink/p/?linkid=2077149)du **vælge Politikker**> Opbevaring > + Ny  >  **opbevaringspolitik.**
+2. Tilføj **navn** **, Indstillinger** og Vælg **placeringer**.
+3. Gennemse dine indstillinger, og vælg derefter **Opret denne politik eller** Gem til **senere**.  
       
-Hvis du vil have mere at vide om opbevaringspolitikker for indhold som Exchange-mail, OneDrive, SharePoint og team indhold, skal du se [Oversigt over opbevaringspolitikker](https://go.microsoft.com/fwlink/?linkid=2127785).  
+Hvis du vil have mere at vide om opbevaringspolitikker for indhold som f.eks. Exchange mail, OneDrive, SharePoint og Teams, skal du se Oversigt over [opbevaringspolitikker](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Hvis du bruger opbevaringspolitikker side om side i Exchange Admin Center og sikkerheds & Overholdelsescenter, skal du se denne anbefaling for at [bruge en opbevaringspolitik i stedet for ældre funktioner](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Hvis du bruger opbevaringspolitikker side om side i Exchange Administration og Security & Compliance Center, skal du se denne anbefaling: Brug en opbevaringspolitik i stedet for [ældre funktioner.](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)  
     
-Du kan finde specifikke oplysninger om team opbevaring [i opbevaringspolitikker i teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Du kan finde specifikke oplysninger Teams opbevaring under [Opbevaringspolitikker i Teams](/microsoftteams/retention-policies).

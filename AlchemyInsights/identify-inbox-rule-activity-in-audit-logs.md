@@ -1,5 +1,5 @@
 ---
-title: Identificere aktivitet for Indbakke regel i overvågningslogge
+title: Identificer aktivitet for indbakkeregel i overvågningslogfiler
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779045"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630171"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificere aktivitet for Indbakke regel i overvågningslogge
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificer aktivitet for indbakkeregel i overvågningslogfiler
 
-Du kan bruge søgning i overvågningsloggen i Microsoft 365 Security & overholdelses Center til at få vist regler for Indbakke-regler (oprette, redigere og slette indbakkeregler).
+Du kan bruge søgning i overvågningsloggen i Microsoft 365 Security & Compliance Center til at få vist indbakkeregelhændelser (oprettelse, ændring og sletning af indbakkeregler).
 
-1. Log på [Microsoft 365 Security & Compliance Center](https://protection.office.com/).
+1. Log på Microsoft 365 [Compliance Center.](https://protection.office.com/)
 
-2. Gå til søgesiden **Søg i**  >  **overvågningslogfil** .
+2. Gå til **søgesiden**  >  **for søgeloggen i overvågningsloggen.**
 
-3. Vælg datointervallet i felterne **Start dato** og **Slutdato** .
+3. Vælg datointervallet i **felterne Startdato** **og** Slutdato.
 
-4. Under **aktiviteter for Exchange-postkassen**skal du kontrollere, at feltet **aktiviteter** er indstillet til **New-InboxRule Create/Modify/enable/disable indbakke Rule**.
+4. Under **Exchange skal du** bekræfte,  at feltet Aktiviteter er angivet til Ny indbakkeRegel om **oprettelse/rediger/aktivér/deaktiver indbakkeregel.**
 
-5. Klik på **Søg**.
+5. Klik **på Søg**.
 
-I resultaterne skal du vælge en revisionspost. Klik på **flere oplysninger**i pop op-vinduet detaljer. Oplysninger om indstillingerne for Indbakke-reglen vises i feltet **parametre** .
+Vælg en overvågningspost i resultaterne. Klik på Flere oplysninger i pop **op-menuen med oplysninger**. Oplysninger om indstillinger for indbakkeregel vises i **feltet** Parametre.
 
-Du kan finde flere oplysninger under [afgøre, om en bruger har oprettet en indbakke regel](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Du kan finde flere oplysninger under [Fastslå, om en bruger har oprettet en indbakkeregel](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
