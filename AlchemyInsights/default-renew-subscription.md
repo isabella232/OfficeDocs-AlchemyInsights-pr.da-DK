@@ -1,8 +1,9 @@
 ---
-title: Standard fornyelses subsscription
+title: Standardfornyelse af sænket skrift
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,25 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 9bf0273fc2f0ca653750d037f022c5bf367bf23a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416648"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689292"
 ---
 # <a name="renewing-your-subscription"></a>Forny dit abonnement
 
-Hvis du betaler med kreditkort eller bankkonto, er tilbagevendende fakturering slået til som standard. Når tilbagevendende fakturering er slået til, vil dit abonnement fortsat blive faktureret hvert år på den dag, du abonnerer på. Du kan slå det fra eller igen i administration, hvis dit abonnement er aktivt.
+Hvis du betaler med kreditkort eller via bankkonto, er tilbagevendende fakturering slået til som standard. Når tilbagevendende fakturering er til, faktureres dit abonnement hvert år på den dag, hvor du tilmeldte dig. Du kan slå det fra eller til igen i Administration, hvis dit abonnement er aktivt.
 
-Hvis du har forudbetalt dit abonnement med en produktnøgle, udløber dit abonnement ved udløbet af abonnementsperioden. Du kan aktivere tilbagevendende fakturering og angive oplysninger om kreditkort eller bankkonto, så dit abonnement fortsat bliver faktureret hvert år på den dag, du abonnerer på.
+Hvis du har forudbetalt dit abonnement med en produktnøgle, udløber dit abonnement ved abonnementets afslutning. Du kan slå tilbagevendende fakturering til og angive dine kreditkort- eller bankkontooplysninger, så dit abonnement fortsætter med at blive faktureret hvert år på den dag, hvor du tilmeldte dig.
 
 Sådan slår du tilbagevendende fakturering til:
 
-1. I administration skal du gå til siden **Fakturering**  >  [af produkter](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Vælg det abonnement, du vil ændre, under fanen **produkter** .
-3. Vælg **Rediger tilbagevendende fakturering**under **Indstillinger for abonnements-og betalingsindstillinger**på siden Abonnementsoplysninger.
-4. I ruden **Rediger indstillinger for tilbagevendende fakturering** skal du vælge **slået til**, **men forny én gang**eller **slå fra**.
+1. I Administration skal du gå til **siden Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
+2. Vælg **det abonnement,** du vil ændre, under fanen Produkter.
+3. På siden med abonnementsoplysninger under **Abonnements- og betalingsindstillinger** skal du vælge **Rediger tilbagevendende fakturering.**
+4. I **ruden Rediger tilbagevendende faktureringsindstillinger** skal du **vælge Til** **, Til, men forny én gang** eller Slå **fra**.
 5. Vælg **Gem**. 

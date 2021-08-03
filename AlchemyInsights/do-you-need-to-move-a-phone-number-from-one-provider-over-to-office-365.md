@@ -1,5 +1,5 @@
 ---
-title: Har du brug for at flytte et telefonnummer fra én udbyder til Microsoft?
+title: Har du brug for at skifte Telefon fra en udbyder til Microsoft?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712142"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689400"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Overfør eksisterende numre til Teams
 
-Hvis du i øjeblikket har en telefontjenesteudbyder eller operatør, og allerede har telefonnumre til dine brugere eller tjenester, skal du oprette en "overførselsordre" for at overføre disse telefonnumre til Microsoft Teams.
+Hvis du i øjeblikket har en telefontjenesteudbyder eller operatør, og allerede har telefonnumre til dine brugere eller tjenester, skal du oprette en "overførselsordre" for at overføre disse telefonnumre til Microsoft Teams.  
 
-- Se [Overfør telefonnumre til Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) for at lære, hvordan du gennemfører overførslen. 
+Hvis du vil oprette en ny overførselsordre eller kontrollere en eksisterende, skal du følge disse trin: 
 
-- Se [Administrer telefonnumre for din organisation](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) for at få vejledning i administration af telefonnumre. 
+1. Gå til [Teams Administration for](https://admin.teams.microsoft.com/phone-numbers) at åbne siden Telefon numre. 
 
-Hvis du vil have mere at vide, kan du se [Oversigt over overførselsordrer](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. Vælg **linket Få support til telefonnummer**. 
+
+Hvis du vil gå direkte til support til telefonnumre, [skal Telefon Servicecenter for telefonnumre.](https://pstnsd.powerappsportals.com/)  
