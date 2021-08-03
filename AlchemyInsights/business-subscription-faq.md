@@ -3,6 +3,7 @@ title: Ofte stillede spørgsmål om virksomhedsabonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,6 +11,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002875"
 - "5445"
 - "9002874"
@@ -20,12 +22,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 417299cb82d9dfcd7afd8822378d2993e12ce355
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: d9f11e265480a97025b8c57e4f012ce1e64bbed6
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601088"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686088"
 ---
 # <a name="business-subscription-faq"></a>Ofte stillede spørgsmål om virksomhedsabonnement
 
@@ -36,7 +38,7 @@ ms.locfileid: "50601088"
 - For at **købe eller fjerne** licenser, skal du gå til **Fakturering > [Dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Du kan finde flere oplysninger under [Køb eller fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - Hvis du vil **annullere** et abonnement, skal du gå til **Fakturering > [Dine produkter](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vælge abonnementet, og i sektionen **Indstillinger for abonnementer og betaling** skal du vælge **Annuller abonnement**. Du kan finde flere oplysninger under [Opsig dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Hvis du vil **aktivere** abonnement, skal du se [Aktiver dit abonnement](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Hvis **du vil genaktivere** abonnementet, skal [du se Genaktiver dit abonnement.](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)
-- Hvis du **vil forlænge** prøveabonnementet, skal du [se Forlæng dit prøveabonnement.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
+- Hvis **du vil genaktivere** abonnementet, skal [du se Genaktiver dit abonnement](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Hvis du **vil** forlænge prøveperioden, skal [du se Forlæng dit prøveabonnement.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
 
 Du kan finde flere oplysninger under [Køb eller fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

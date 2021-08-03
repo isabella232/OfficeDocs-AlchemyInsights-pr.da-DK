@@ -3,26 +3,29 @@ title: Skift betalingsmetode
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 7651ca75cc954e222b45fe1172554de0174fb4e0
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: b32e4e99e576a2aa118fa6a5f5b968c30709ea8b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601376"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685332"
 ---
 # <a name="change-payment-method-fromto"></a>Skift betalingsmetode fra/til
 
 1. **Skift fra faktura til kreditkort eller bankkonto**
 
-    - Du kan ikke automatisk ændre fra at betale med faktura til at betale med en anden betalingsmetode. I stedet skal du [købe](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) et andet abonnement, der er betalt med et kredit- eller debetkort eller en [bankkonto,](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)flytte alle brugere til det nye abonnement og derefter annullere det [gamle abonnement.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+    - Du kan ikke automatisk ændre fra at betale med faktura til at betale med en anden betalingsmetode. I stedet skal du [købe](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) et andet abonnement, som er betalt med et kredit- eller debetkort eller en [bankkonto,](/microsoft-365/commerce/subscriptions/move-users-different-subscription)flytte alle brugere til det nye abonnement og derefter annullere det [gamle abonnement](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Skift fra kreditkort eller bankkonto til faktura**
 
@@ -32,4 +35,4 @@ ms.locfileid: "50601376"
 
     - Følg trinnene i [Hvordan skifter jeg fra kreditkortbetalinger til faktura?](how-do-i-change-from-credit-card-payments-to-invoice.md) for at fuldføre den manuelle ændring.
 
-Få mere at vide under [Sådan betaler du for dit abonnement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Du kan få mere at vide [under Sådan betaler du for dit abonnement.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

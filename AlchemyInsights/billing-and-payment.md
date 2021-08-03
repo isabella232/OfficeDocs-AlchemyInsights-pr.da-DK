@@ -3,6 +3,8 @@ title: Fakturering og betaling
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820388"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686880"
 ---
 # <a name="billing-and-payment"></a>Fakturering og betaling
 
@@ -52,10 +55,10 @@ Hvis du har tilføjet et nyt kort, og du stadig får en meddelelse om afvis på 
 
 7. Den nye betalingsmetode er allerede valgt på rullelisten. Vælg **Erstat**.
 
-Du kan få mere at vide [under Administrer betalingsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Du kan få mere at vide [under Administrer betalingsmetoder.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Faktureringsfrekvens**
 
 Fakturaer genereres månedligt eller årligt afhængigt af den faktureringsfrekvens, der blev valgt ved kassen.  
 
-**Bemærk!** Ordrer med årlig fakturering kan modtage en midtvejsfakturering af en faktura, hvis der er foretaget ændringer som f.eks. at tilføje eller fjerne licenser. [Skift din faktureringsfrekvens.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Bemærk!** Ordrer med årlig fakturering kan modtage en midtvejsfakturering af en faktura, hvis der er foretaget ændringer som f.eks. at tilføje eller fjerne licenser. [Skift din faktureringsfrekvens.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
