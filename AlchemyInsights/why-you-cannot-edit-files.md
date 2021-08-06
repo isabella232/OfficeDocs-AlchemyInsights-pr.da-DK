@@ -14,27 +14,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907804"
 ---
 # <a name="why-cant-i-edit-files"></a>Hvorfor kan jeg ikke redigere filer?
 
-Få et hurtigt overblik over nogle af de mulige årsager [til, at du ikke kan redigere filen](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Tag et hurtigt kig på nogle af årsagerne [til, at du ikke kan redigere filen.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Hvis du har biblioteker med **udtjekning, påkrævede** eller **validerings** kolonner eller metadata, eller når **sikkerhedselement sikkerhed** er angivet til enten **brugere, som kan redigere** eller **kun brugere, der kan godkende elementer** i versions indstillingerne for biblioteket:
+Hvis du har biblioteker med  kolonner til Udtjekning, Påkrævet eller  Validering eller metadata,  eller når Sikkerhed for kladdeelement er indstillet til Kun brugere, der kan redigere eller Kun **brugere,** der kan godkende elementer i version Indstillinger af biblioteket: 
 
-- For SharePoint-dokumentbiblioteker bliver disse elementer synkroniseret som skrivebeskyttede.
+- For SharePoint dokumentbiblioteker synkroniseres disse elementer som skrivebeskyttede.
 
-- For OneDrive-biblioteker viser OneDrive et låseikon (OneDrive-fil låst ikon) ud for synkroniseringsstatus, og brugeren vil ikke kunne synkronisere biblioteket, før de nævnte indstillinger er blevet fjernet. 
+- For OneDrive biblioteker viser OneDrive et låseikon ( OneDrive fil låst ) ud for synkroniseringsstatus, og brugeren vil ikke kunne synkronisere biblioteket, før de nævnte indstillinger er blevet fjernet. 
 
-Hvis du vil have mere at vide om låste filer til Word eller Excel, skal du referere til artiklerne nedenfor.
+Du kan finde flere oplysninger om låste filer Excel Word eller Excel i artiklerne nedenfor.
 
-- [Jeg fik fejlen "overførslen mislykkedes" eller "kunne ikke gemme automatisk" under redigering af en Office-fil](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Jeg fik fejlen "Upload mislykkedes" eller "Kunne ikke gemme automatisk", mens jeg redigerede en Office-fil](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [Excel-fil er låst mod redigering af en anden bruger](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel-filen er af en anden bruger låst for så vidt angår redigering](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [Word-fil er låst mod redigering af en anden bruger](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Word-filen er af en anden bruger låst for så vidt angår redigering](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

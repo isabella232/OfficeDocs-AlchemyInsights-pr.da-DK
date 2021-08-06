@@ -1,5 +1,5 @@
 ---
-title: "\"Ukendt bruger\" vises i team møder eller chats"
+title: "\"Ukendt bruger\" vises i Teams møder eller chats"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6655"
 - "9003574"
-ms.openlocfilehash: 22d5fa0087791a9f0139917cd7532fc4a90644e5
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 1074075ede97250888927fe064a6faea456cef1dad7bb35726b2874032ba86b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019826"
 ---
-# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Ukendt bruger" vises i team møder eller chats
+# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Ukendt bruger" vises i Teams møder eller chats
 
-Brugeren er muligvis blevet slettet fra Microsoft 365. I dette tilfælde kan du prøve at slette brugeren fra teams.  
+Brugeren er muligvis blevet slettet fra Microsoft 365. I dette tilfælde kan du prøve at slette brugeren fra Teams.  
 
-Prøv at rydde følgende cache, når teams er lukket, og genstart derefter teams: `C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
+Prøv at rydde følgende cache, når Teams lukkes, og genstart Teams:`C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
 
-Hvis du vil have opdateringer til dette problem, skal du se  [fjernet bruger vises som "ukendt bruger" i Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+For opdateringer om dette problem skal du [se Fjernet bruger vises som "Ukendt bruger" i Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).

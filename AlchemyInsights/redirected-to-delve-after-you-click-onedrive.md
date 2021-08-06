@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 295dea987cd14ea848d2bf802f57429642d554b9661dc4dbfc805a447b7d0ede
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922981"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Omdirigeret til Delve, når du har klikket på OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Omdirigeret til en Delve, når du klikker på OneDrive
 
 Se vores detaljerede [fejlfindingsvejledning](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-For at løse dette problem skal administratoren give brugerne ret til at oprette deres Mit websted-websted. Dette skyldes, at siden OneDrive for Business oprettes på Mine websteder.
+For at løse dette problem skal administratoren give brugerne ret til at oprette deres Mit websted-websted. Dette skyldes, at OneDrive for Business oprettes på Mine websteder.
 
 Hvis du vil tildele denne ret, skal du følge disse trin:
 
-1. Klik på brugerprofiler i SharePoint **Administration.**
+1. Klik SharePoint brugerprofiler i **Administration.**
 
 2. I sektionen **Personer** skal du klikke **på Administrer brugertilladelser**.
 
@@ -35,4 +35,4 @@ Hvis du vil tildele denne ret, skal du følge disse trin:
 
 4. Når du har tilføjet brugeren, brugerne eller gruppen, skal du kontrollere, at den tilføjede bruger, brugere eller gruppe er markeret, rulle ned til **tilladelsessektionen** og derefter markere afkrydsningsfeltet ud for Opret personligt websted (påkrævet til personligt **lager, nyhedsstrøm** og fulgte indhold).
 
-5. Klik **på OK,** og få derefter brugeren til at gå til OneDrive-siden for at oprette webstedet.
+5. Klik **på OK,** og få derefter brugeren til at gå til OneDrive for at oprette webstedet.

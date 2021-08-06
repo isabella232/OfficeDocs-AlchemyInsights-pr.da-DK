@@ -1,5 +1,5 @@
 ---
-title: Understøtter infrastruktur afbrydelse
+title: Support af tjenesteinfrastrukturens strømsvigt
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48364700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998973"
 ---
-# <a name="support-service-infrastructure-outage"></a>Understøtter infrastruktur afbrydelse
+# <a name="support-service-infrastructure-outage"></a>Support af tjenesteinfrastrukturens strømsvigt
 
-Vi oplever i øjeblikket en svigt i support service infrastrukturen. Vi arbejder på at løse problemet så hurtigt som muligt, men i mellemtiden kan du få vist forsinkelse for svar tids, når du forsøger at kontakte Microsoft.
+Vi oplever i øjeblikket et strømsvigt i supporttjenestens infrastruktur. Vi arbejder på at løse problemet så hurtigt som muligt, men i mellemtiden kan du opleve forsinkelser i svartiden, når du forsøger at kontakte Microsoft.

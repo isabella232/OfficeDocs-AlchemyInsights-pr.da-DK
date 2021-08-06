@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019502"
 ---
 # <a name="authentication-issues"></a>Godkendelsesproblemer
 
@@ -75,14 +75,14 @@ Du kan finde flere oplysninger om betinget adgang under:
 - [Håndtering af betinget adgang-udfordringer ved hjælp af MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Vejledning for udviklere om Azure Active Directory-betinget adgang](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Slutdato for support af ADAL (Azure Active Directory Authentication Library) og AAD Graph (Azure AD Graph API)_* _
+***Ophør af support til Azure Active Directory Authentication Library (ADAL) og Azure AD Graph API (AAD Graph)***
 
 - Fra d. 30. juni 2020 tilføjer vi ikke længere nye funktioner til ADAL (Azure Active Directory Authentication Library) og AAD Graph (Azure AD Graph API). Vi yder fortsat teknisk support og sikkerhedsopdateringer, men vil ikke længere levere funktionsopdateringer.
 - Fra d. 30. juni 2022 afslutter vi supporten af ADAL og AAD Graph og yder ikke længere teknisk support eller sikkerhedsopdateringer.
     - Apps, der bruger ADAL på eksisterende os-versioner, fungerer fortsat efter dette tidspunkt, men får ingen teknisk support eller sikkerhedsopdateringer.
     - Apps, der bruger AAD Graph efter dette tidspunkt, modtager muligvis ikke længere svar fra AAD Graph-slutpunktet.
 
-_ *ADAL-migrering**
+**ADAL-overførsel**
 
 Vi anbefaler, at du opdaterer [MSAL (Microsoft Authentication Library)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), som har de nyeste funktioner og sikkerhedsopdateringer. Denne anbefaling er i forbindelse med Microsofts migrering af deres programmer til MSAL ved deadline for slutdato for support. Formålet med Microsoft-apps migrering til MSAL er at sikre, at appsene drage fordel af MSAL's løbende forbedringer af sikkerhed og funktioner.
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036558"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokument åbnet i den forkerte app eller ikke åbnet
 
@@ -31,19 +31,19 @@ Prøv et af disse forslag:
 
 1. Gå til **Kontrolpanel > programmer > programmer og funktioner**.
 
-2. Vælg det Office-produkt, du vil reparere, og vælg derefter **Skift**.
+2. Vælg det Office, du vil reparere, og vælg derefter **Rediger**.
 
 3. Vælg indstillingen **Hurtig reparation,** og vælg derefter Reparer . 
 
-**Fjerne versioner af Office, du ikke bruger**
+**Fjerne versioner af Office du ikke bruger**
 
-1. Gå til **Kontrolpanel > Fjern et Program,** og vælg derefter den version af Office, du vil fjerne.
+1. Gå til **Kontrolpanel > Fjern et program,** og vælg derefter den version Office du vil fjerne.
 
 2. Klik **på Fjern.**
 
 3. Genstart computeren.
 
-**Kør dette fejlfindingsværktøjet for at indstille Office-filtypenavne til at åbne i Office**
+**Kør dette fejlfindingsværktøjet for at indstille Office filtypenavne til at åbne i Office**
 
 1. Kør dette fejlfindingsværktøjet: https://aka.ms/diag_officefile .
 

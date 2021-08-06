@@ -1,5 +1,5 @@
 ---
-title: Forbliver Office 365-tjenester online?
+title: Bliver Office 365 tjenester online?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036846"
 ---
-# <a name="will-office-365-services-stay-online"></a>Forbliver Office 365-tjenester online?
+# <a name="will-office-365-services-stay-online"></a>Bliver Office 365 tjenester online?
 
-Ja. Vi har udviklet disse serviceydelser med en tolerance for øje. Hver enkelt af tjenesterne kører flere forekomster på én gang, så selvom der er problemer med en forekomst, påvirkes vores kunder ikke. Hver tjeneste er også indeholdt, så hvis der er et problem med én tjeneste, kan den ikke spredes til resten af dem. Til sidst er der blevet indbygget beskyttelsesforanstaltninger i koden for hver tjeneste for at undgå problemer med overlapning via tjenesten.
+Ja. Vi har udviklet disse tjenester med tanke på fleksibilitet. Hver af tjenesterne kører flere forekomster på én gang, så selvom én forekomst har problemer, påvirkes vores kunder ikke. Hver tjeneste er også indeholdt, så hvis der opstår et problem med én tjeneste, vil den ikke spredes til resten af dem. Endelig er beskyttelsen blevet indbygget i koden for hver tjeneste for at forhindre problemer i at overlappe via tjenesten.
 
-Hvis du vil have mere at vide om vores indsats for at holde vores tjenester stabile, skal du se [Enterprise Business kontinuitets styring (EBCM) med cloud-tjenester](https://go.microsoft.com/fwlink/?linkid=2124377).
+Hvis du vil vide mere om vores bestræbelser på at holde vores tjenester stabile, skal du se [Virksomhedskontinuitetsstyring (EBCM) med skytjenester.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Vi sætter pris på din feedback, så du skal vælge **Ja** / **Nej** til det spørgsmål, der vises, og derefter vurdere din oplevelse.
+Vi vil sætte pris på din feedback, så vælg **Ja** / **Nej** til det spørgsmål, der vises, og bedøm derefter din oplevelse.

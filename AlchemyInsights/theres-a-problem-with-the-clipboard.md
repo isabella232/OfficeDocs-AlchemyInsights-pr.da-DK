@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908668"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Løs fejl i Udklipsholder i Excel
+# <a name="resolving-excel-clipboard-error"></a>Løs fejlen Excel udklipsholder
 
-Hvis der vises en fejl i Excel, hvor der står "Der er et problem med Udklipsholder, men du stadig kan indsætte dit indhold i denne projektmappe", kan du prøve at deaktivere funktionen Direkte eksempelvisning ved at følge disse trin:
+Hvis du modtager en fejl i Excel, hvor der står "Der er et problem med Udklipsholder, men du kan stadig indsætte dit indhold i denne projektmappe", skal du prøve at deaktivere funktionen Direkte eksempelvisning ved at følge disse trin:
 
-1. Klik på Filindstillinger **i**  >  Excel.
-3. I dialogboksen **Excel-indstillinger** skal du vælge **Generelt**.
+1. Klik Excel under **Fanen**  >  **Filer.**
+3. I dialogboksen **Excel Indstillinger** skal du vælge **Generelt**.
 4. Under **Indstillinger for brugergrænseflade skal** du fjerne markeringen i **Aktivér direkte eksempelvisning.**
 5. Klik på **OK**.
 6. Genstart Excel.

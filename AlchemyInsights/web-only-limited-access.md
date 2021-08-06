@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004169"
 - "7314"
-ms.openlocfilehash: 9f53219bd504425295302500965dc526cbf75106
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f62a3fff61dd005423574e77c70cedb4e3516d3012c69b0095246aa194154e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907912"
 ---
 # <a name="web-only-limited-access"></a>Web-Only begrænset adgang
 
-Web-Only begrænset adgang er en variant af tilladelsesniveauet "begrænset adgang", som gør det muligt for brugere kun at få adgang til web-objektet.
+Web-Only Begrænset adgang er en variant af tilladelsesniveauet "Begrænset adgang", som kun giver brugerne adgang til webobjektet.
 
-Hvis du vil have mere at vide, skal du se [standardtilladelsesniveauer](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).
+Du kan finde flere oplysninger [i standardtilladelsesniveauer](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).

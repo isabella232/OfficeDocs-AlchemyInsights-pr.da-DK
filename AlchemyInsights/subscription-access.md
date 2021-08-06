@@ -1,5 +1,5 @@
 ---
-title: Abonnements adgang
+title: Abonnementsadgang
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999234"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Der kan ikke logges på Azure pga. problemer med browseren (browseren hænger, beholder rotationen, men ikke indlæses osv.)
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Kan ikke logge på Azure på grund af browserproblemer (browseren hænger, bliver ved med at dreje, indlæses ikke osv.)
 
-Du kan blive påvirket af et udfald. Kontrollér, om der er et vedvarende udfald: [Azure Health status](https://status.azure.com/status/history/).
+Du kan blive påvirket af et strømsvigt. Kontrollér, om der er en løbende strømsvigt: [Azure Health Status](https://status.azure.com/status/history/).
 
-Log af alle de aktive Azure-sessioner. Start en in-private-eller Incognito-tilstand for din webbrowser.
+Log af alle aktive Azure-sessioner. Starte en privat eller incognito-tilstand af din webbrowser.
 
-Du kan også forsøge at opdatere browseren, bruge en anden browser, slette cache cookies, hvis de ikke virker.
+Du kan også prøve at opdatere browseren, bruge en anden browser, slette cachecookies, hvis ovenstående ikke virker.
 
-Få mere at vide: [fejlfinding af problemer med logon](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
+Få mere at [vide: Fejlfinding af logonproblemer](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
-**Kan ikke få adgang til abonnementer**
+**Det er ikke muligt at få adgang til abonnementer**
 
-I [Azure-portalen](https://portal.azure.com/)skal du sørge for, at den korrekte Azure-mappe er valgt fra kontoen øverst til højre.
+I [Azure-portalen skal](https://portal.azure.com/)du sørge for, at den korrekte Azure-mappe er valgt fra kontoen øverst til højre.
 
-I [Azure-konto Center](https://account.windowsazure.com/Subscriptions)skal du kontrollere, om kontoen, der bruges, er administrator af kontoen.
+I [Azure Account Center skal du](https://account.windowsazure.com/Subscriptions)kontrollere, om den konto, der bruges, er kontoadministratoren.
 
-Få mere at vide: [fejlfinding der blev ikke fundet nogen abonnementer](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
+Få mere at vide: [Fejlfinding af fundet ingen abonnementer](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Kan ikke få adgang til fakturerings historik**
+**Faktureringsoversigten kunne ikke tilgås**
 
-Konto administratoren skal sørge for, at den bruger, der får adgang til faktureringsoplysningerne, er tilføjet i Azure Active Directory som gæstebruger: [tilføje eller slette en ny bruger](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Kontoadministratoren skal sikre sig, at brugeren, der har adgang til faktureringsoplysningerne, tilføjes i Azure Active Directory som gæstebruger: [Tilføj eller slet en ny bruger.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Brugeren skal derefter tildeles en Global administratorrolle: [Tildel rolle til brugere](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Brugeren skal derefter tildeles en global administratorrolle: [Tildel rolle til brugere](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-Bogfør dette, brugeren kan få adgang til fakturering ved hjælp af RBAC-politikker: [Tildel adgang til fakturering](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
+Slå dette op, og brugeren kan få faktureringsadgang ved hjælp af RBAC-politikker: [Giv adgang til fakturering](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Anbefalede dokumenter**
 

@@ -1,5 +1,5 @@
 ---
-title: Din gruppe vises ikke på listen grupper
+title: Din gruppe vises ikke på listen Grupper
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9a4cc59288046affe35c9248a3829e3c0b3fa361b5120e47aaeaa34eec7a983
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907624"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Din gruppe "{AimKIObject}" vises ikke på listen grupper
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Din gruppe "{AimKIObject}" vises ikke på listen Grupper
 
-Din distributionsgruppe med navnet "{AimKIObject}" blev oprettet {AimKITimeElapsed} minutter siden. Det kan tage op til 60 minutter, før den nye gruppe vises i administrations centeret.
+Din distributionsgruppe, der hedder "{AimKIObject}", blev oprettet for {AimKITimeElapsed} minutter siden. Det kan tage op til 60 minutter, før din nye gruppe vises i Administration.
   
-Hvis du vil tilføje medlemmer eller udføre andre ændringer lige nu, skal du bruge funktionen grupper i [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Hvis du vil tilføje medlemmer eller foretage andre ændringer lige nu, skal du bruge funktionen Grupper [i Exchange Administration.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)
   
 

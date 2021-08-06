@@ -1,5 +1,5 @@
 ---
-title: Konfigurer Windows virtuelt skrivebord
+title: Konfigurer Windows Virtual Desktop
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036630"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Konfigurer Windows virtuelt skrivebord
+# <a name="set-up-windows-virtual-desktop"></a>Konfigurer Windows Virtual Desktop
 
-Windows virtuelt skrivebord er en omfattende skrivebords-og app-virtualiserings tjeneste, der kører i skyen. Det er den eneste virtuelle skrivebords infrastruktur (VDI), der leverer forenklet administration, multi-session Windows 10, optimeringer for Microsoft 365-apps og understøttelse af Fjernskrivebord-tjenester (RDS)-miljøer. Implementer og skalere dine Windows-skriveborde og-apps til Azure på få minutter og få indbyggede sikkerheds-og overholdelses funktioner.
+Windows Virtuelt skrivebord er en omfattende tjeneste til skrivebords- og appvirtualisering, der kører i skyen. Det er den eneste VDI (Virtual Desktop Infrastructure), der leverer forenklet administration, Windows 10 til flere sessioner, optimeringer af Microsoft 365 Apps og understøttelse af RDS-miljøer (Remote Desktop Services). Installér og skaler dine Windows og apps til Azure på få minutter, og få indbyggede funktioner til sikkerhed og overholdelse.
 
-[Konfigurationsvejledningen til Windows virtuel skrivebord](https://go.microsoft.com/fwlink/?linkid=2146236) giver administratorer en planlægning af ressourcer og forudsætninger for installation, vejledning og yderligere ressourcer.
+[Installationsvejledningen Windows virtual desktop](https://go.microsoft.com/fwlink/?linkid=2146236) giver administratorer planlægningsressourcer og forudsætninger for installation, konfigurationsvejledning og yderligere ressourcer.

@@ -1,5 +1,5 @@
 ---
-title: Abonnements styring – sikkerheds-og overholdelses anmodninger-Azure-branche overholdelses godkendelse
+title: Abonnementsadministration – anmodninger om sikkerhed og overholdelse af regler og standarder – Azure-brancheoverholdelsesreglerne
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998937"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Abonnements styring – sikkerheds-og overholdelses anmodninger-Azure-branche overholdelses godkendelse
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Abonnementsadministration – anmodninger om sikkerhed og overholdelse af regler og standarder – Azure-brancheoverholdelsesreglerne
 
-Afhængigt af din problembeskrivelse har vi fundet en løsning til dig. De fleste kunder har kunnet løse deres problemer efter eget efter at have fulgt vores dokumentation.
+Baseret på din beskrivelse af problemet har vi fundet en løsning til dig. De fleste kunder kunne selv løse deres problem efter at have fulgt vores dokumentation.
 
-- **Politik**: Hvis du vil have spørgsmål om Microsoft-kompatibilitets dokumenter, skal du se [Azure Trust Center Compliance](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Politik:** Hvis du har spørgsmål om Microsoft Overholdelsesdokument, skal du se [Overholdelse af angivne](https://docs.microsoft.com/compliance/regulatory/offering-SOC)standarder i Azure Trust Center .
 
-- **HIPAA og HiTech Act**: Se Windows Azure HIPAA guide, hvis du er interesseret i HIPAA og HiTech Act, for at forstå de relevante funktioner i Windows Azure.
+- **HIPAA og HITECH Act:** Se Windows Azure HIPAA Guide, hvis du er interesseret i HIPAA og HITECH Act, for at forstå de relevante funktioner i Windows Azure.
 
-- **FedRamp-certificering**: du kan finde oplysninger om FedRamp-certificering under FedRamp Marketplace.
+- **FedRamp-certificering:** Hvis du vil have oplysninger om FedRamp-certificering, skal du se FedRamp Marketplace.
 
-- **Azure PCI DSS-kompatibilitet**: de påkrævede Azure-relaterede dokumenter til opnåelse af overholdelse af betalings kortets branche er "attestation af overholdelse" og "ansvars matrix", der begge er tilgængelige i Azure sikkerheds center. Kontrollér, om du har disse dokumenter. Hvis du har disse dokumenter, men du har brug for yderligere bevis for overholdelse af Microsoft Azure PCI-data sikkerhed, skal du se [Microsoft og PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **Azure AZURE AZURE DSS-overholdelse:** De azure-relaterede dokumenter, der kræves for at opnå overholdelse i betalingskortbranchen, er "Bekræftelse af overholdelse" og "Ansvarsmatrix", som begge er tilgængelige i Azure Trust Center. Kontrollér, om du har disse dokumenter. Hvis du har disse dokumenter, men har brug for yderligere dokumentation for Microsoft Azure AFSER DATAsikkerhedsstandardoverholdelse, skal du [se Microsoft og OVERENSSTEMMELSE DSS.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- **Azure Operations/Security/Compliance**: Hvis du har generelle sikkerhedsrelaterede spørgsmål på Azure, skal du se standard svar på anmodning om oplysninger Microsoft Azure-sikkerhed, beskyttelse af personlige oplysninger og overholdelse af kompatibilitet hvis du har kompatibilitets relaterede spørgsmål, skal du se: ofte stillede spørgsmål om overholdelse af kompatibilitet og tjeneste tillids portalen.
+- **Azure-handlinger/Sikkerhed/overholdelse:** Hvis du har generelle sikkerhedsrelaterede spørgsmål om Azure, skal du se Standardsvar på anmodning om oplysninger Microsoft Azure Sikkerhed, beskyttelse af personlige oplysninger og overholdelse Hvis du har spørgsmål relateret til overholdelse, skal du læse: Ofte stillede spørgsmål om Microsoft STP – Overholdelse og servicetillidsportal.
 
-Hvis du har kompatibilitets relaterede spørgsmål, skal du se ofte stillede spørgsmål om [overholdelse af kompatibilitet](https://www.microsoft.com/trust-center/compliance/compliance-overview) og service tillids portalen.
+Hvis du har spørgsmål om overholdelse, skal du se Ofte stillede [spørgsmål om Microsoft STP – Overholdelse](https://www.microsoft.com/trust-center/compliance/compliance-overview) og Service Trust Portal.
 
-- **GDPR-overholdelse**: Hvis du har spørgsmål om databehandlings aftale, skal du se "data beskyttelses vilkår", der starter på side 7 i "online tjeneste vilkår". OST indeholder de primære databehandlings vilkår, men er indbygget i den almindelige kommercielle aftale. Med et kontraktmæssigt tilsagn om vores GDPR-forpligtelser. Du kan også se de GDPR-specifikke vilkår for enden af kontrakten i "vedhæftet fil 4", der starter på side 42. Disse afsnit dækker Microsofts GDPR forpligtelser som en dataprocessor og som en under processor til en anden dataprocessor.
-
-> [!NOTE]
-> Det anbefales på det kraftigste at bruge Adobe Acrobat Reader til at åbne PDF-dokumenter, som problemer med andre PDF-brugere er blevet noteret. Det anbefales også, at du downloader filen lokalt i stedet for at åbne den i et browservindue, da dette kan medføre fejl.
-
-- **HDS-kompatibilitet**: Azure er nu "Health data Host", der er certificeret i overensstemmelse med de franske krav. Hvis du vil have mere at vide, skal du se "Microsoft Azure er nu certificeret til at være vært for følsomme helbreds data i Frankrig".
-
-- **Test for indtrængning**: hele processen til indsendelse af indtrængende test anmodning er kunde en selv behandlende proces på "pentest".
-
-Du kan finde flere oplysninger om test af indtrængning under [indtrængnings test](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Kunde notifikationer for under behandler ændringer**: du kan tilmelde dig for at modtage meddelelser om ændringer af under processerne i Microsoft private data.
+- **GDPR-overholdelse:** Hvis du har spørgsmål til aftalen om behandling af data, skal du se "Vilkår for databeskyttelse", som begynder på side 7 i "Vilkår for onlinetjenester". OST omfatter de primære vilkår for databehandling, men er inkorporeret i standardkontrakten. Den giver blandt andet en kontraktmæssig forpligtelse angående vores GDPR-forpligtelser. Desuden kan du se de GDPR-specifikke vilkår i slutningen af kontrakten i "Vedhæftet fil 4", startende på side 42. Disse afsnit dækker Microsofts GDPR-forpligtelser som dataprocessor og som underprocessor til en anden dataprocessor.
 
 > [!NOTE]
-> Online tjenester kunde data og besked om personlige data liste er fuldt automatiseret. Du kan finde flere oplysninger i Microsofts data beskyttelses ressourcer.
+> Det anbefales på det kraftigste at bruge Adobe Acrobat Reader til at åbne PDF-dokumenter, da der er angivet problemer med andre PDF-fremvisere. Det anbefales også at downloade filen lokalt i stedet for at åbne den i et browservindue, da det kan medføre fejl.
+
+- **HDS-overholdelse:** Azure er nu "Health Data Hosting", certificeret i overensstemmelse med franske krav. Få mere at vide under "Microsoft Azure er nu certificeret til at hoste følsomme sundhedsdata i Frankrig".
+
+- **Test af** indhold: Hele processen med indsendelse af "testtest til test af test" er kundens selvbetjeningsproces ved "pentest".
+
+Du kan få mere at vide om test af tests ved at [se Testing Testing](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
+
+- **Kundemeddelelser for ændringer af** underbehandlere: Du kan vælge at modtage meddelelser om ændringer på Microsofts liste over underbehandlere til personlige data.
+
+> [!NOTE]
+> Onlinetjenesters meddelelse om kundedata og listen over personlige data er fuldt automatiseret. Du kan finde flere oplysninger under Microsofts ressourcer til databeskyttelse.
 
 **Anbefalede dokumenter**
 
-- [Eksportere eller slette indstillinger i Azure-portalen](https://docs.microsoft.com/azure/azure-portal/set-preferences)
+- [Eksportér eller slet indstillinger i Azure-portalen](https://docs.microsoft.com/azure/azure-portal/set-preferences)
 - [Find aktivitetsrapporter i Azure-portalen](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Risiko hændelser i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Brugere ved risiko](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Risiko Sign-ins](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Hvad er Azure Active Directory-rapporter?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Azure Active Directory risikohændelser](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Brugere, der er i fare](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Risikabel logon](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Hvad er Azure Active Directory rapporter?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
 - [Microsoft og HIPAA og HITECH Act](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [USA (DoD) den foreløbige godkendelses dokumentation på IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Dokumentation fra det amerikanske department of Defense (DoD) af godkendelse af godkendelse af godkendelse på IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

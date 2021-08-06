@@ -1,5 +1,5 @@
 ---
-title: Arbejdsprocessen for godkendelse i 2010 kan ikke tilføjes
+title: Godkendelsesarbejdsprocessen for 2010 kan ikke tilføjes
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,37 +9,37 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e74c842f8b4be321664f8c2f1f58c570d0724d80edb1264add0647bf313bc82f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020330"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Arbejdsprocessen for godkendelse i 2010 kan ikke tilføjes
+# <a name="unable-to-add-2010-approval-workflow"></a>Godkendelsesarbejdsprocessen for 2010 kan ikke tilføjes
 
-I en Microsoft SharePoint-gruppe af websteder kan du ikke tilføje en globalt genbrugelig arbejdsproces (f. eks "godkendelse-SharePoint 2010") på en liste eller i et bibliotek.
+I en Microsoft SharePoint gruppe af websteder kan du ikke føje en arbejdsproces, der kan genbruges globalt (f.eks. "Godkendelse – SharePoint 2010") til en liste eller et bibliotek.
   
 Du kan løse dette problem ved at følge disse trin: 
   
 1. Åbn rodwebstedet for gruppen af websteder i SharePoint Designer 2013.
   
-2. Under **websteds objekter**skal du vælge **arbejdsprocesser**. 
+2. Under **Webstedsobjekter** skal du **vælge Arbejdsprocesser**. 
   
-3. Vælg **arbejdsproces, der kan genbruges**, i den **nye** sektion på båndet **arbejdsprocesser** . 
+3. I sektionen **Ny** på båndet **Arbejdsprocesser skal** du vælge **Genanvendelig arbejdsproces.** 
   
-4. I formularen **Opret genbrugelig arbejdsproces** skal du angive navnet * * *Repair2010* * *. For **platform type**skal du klikke på **SharePoint 2010-arbejdsproces**og derefter klikke på **OK**. 
+4. I formularen **Opret genanvendelige arbejdsprocesser** skal du skrive navnet ** *Repair2010* **. Under **Platformstype** skal du klikke **SharePoint 2010-arbejdsproces** og derefter klikke på **OK.** 
   
-1. I sektionen **Gem** i båndet **arbejdsproces** skal du vælge **Publicer**. 
+1. I sektionen **Gem** på båndet Arbejdsproces **skal** du vælge **Publicer**. 
   
-2. I sektionen **Administrer** på båndet i **arbejdsproces** skal du vælge **Publicer globalt**. I bekræftelsesdialogboksen, der vises, skal du vælge **OK**. 
+2. I sektionen **Administrer** på båndet **Arbejdsproces** skal du **vælge Publicer globalt.** Vælg OK i bekræftelsesdialogboksen, der **vises.** 
   
-3. I en webbrowser skal du finde rodwebstedet for gruppen af websteder og derefter få adgang til funktioner **for gruppen** \> **af**websteder. Slå **arbejdsproces** funktionen til/fra: 
+3. Find rodwebstedet for gruppen af websteder i en webbrowser, og få derefter adgang til funktionerne **Indstillinger gruppen** \> **af websteder**. Slå funktionen **Arbejdsprocesser** til eller fra: 
   
-· Hvis funktionen er  *aktiveret*  , skal du **klikke på Deaktiver og** derefter klikke på **Aktivér**. 
+· Hvis funktionen er *aktiveret, skal du* klikke på **Deaktiver og** derefter klikke på **Aktivér.** 
   
-· Hvis funktionen er  *deaktiveret*  , skal du klikke på **Aktivér**. 
+· Hvis funktionen er  *deaktiveret, skal du*  klikke på **Aktivér**. 
   
-Hvis du vil have mere at vide, skal du se følgende [artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Du kan finde flere oplysninger i følgende [artikel.](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)
   
 

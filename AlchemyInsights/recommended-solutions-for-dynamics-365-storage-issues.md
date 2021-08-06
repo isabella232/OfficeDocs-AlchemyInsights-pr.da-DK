@@ -1,5 +1,5 @@
 ---
-title: Anbefalet løsninger til problemer med Dynamics 365-lager problemer
+title: Anbefal løsninger til Dynamics 365 Storage problemer
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922945"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Anbefalet løsninger til problemer med Dynamics 365-lager problemer
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Anbefal løsninger til Dynamics 365-lagerproblemer
 
-* Som global administrator kan du få vist Lageropdeling efter miljø, top 10-tabeller og meget mere
+* Som global administrator kan du få vist lageropdeling efter miljø, de øverste 10 tabeller og meget mere
 
-* [Spørgsmål om lager fakturering og abonnement](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Storage om fakturering og abonnement](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Dynamics 365-vejledning til priser og licenser](https://dynamics.microsoft.com/pricing/)
+* [Dynamics 365-pris- og licensvejledning](https://dynamics.microsoft.com/pricing/)
 
-* [Sådan kan du købe mere lagerplads](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [Sådan køber du mere lagerplads](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Sådan frigør du lagerplads](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [Sådan frier du lagerplads](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
