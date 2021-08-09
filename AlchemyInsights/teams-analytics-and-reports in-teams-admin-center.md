@@ -1,5 +1,5 @@
 ---
-title: Teams Analytics og Rapporter i Teams Administration
+title: Teams Analyse og rapporter i Teams Administration
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc421e64d02f58a0264db5467b9473abe2b398dcca39eebe2f072a0f283276f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909061"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Analytics og Rapporter i Teams Administration
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Analyse og rapporter i Teams Administration
 
-Der er en række **brugs- og aktivitetsrapporter** tilgængelige i Teams Administration, herunder brugeraktivitet, enhedsbrug og brug af livebegivenhed. Hvis du vil have mere at vide, [skal du se Microsoft Teams analyse og rapportering.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
+Der findes en række **forbrugs-** og aktivitetsrapporter i Teams Administration, herunder brugeraktivitet, enhedsbrug og brug af livebegivenhed. Du kan finde flere [oplysninger Microsoft Teams analyser og rapportering.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-**Bemærk!** Der er flere tilgængelige Teams-brugs- og aktivitetsrapporter i Microsoft 365 Administration. Se [Sådan får du vist Teams-rapporter i dashboardet Rapporter.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
+**Bemærk!** Der er flere Teams brugs- og aktivitetsrapporter i Microsoft 365 Administration Center. Se [Sådan får du vist Teams i dashboardet Rapporter.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
 
-Hvis du leder efter rapportering eller  analyse, der er relateret til opkalds- eller opkaldskvalitet, skal du se Implementere servicekvalitet og overvåge opkaldskvaliteten i Microsoft [Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) for at få relateret dokumentation.
+Hvis du leder efter rapportering eller  analyse, der er relateret til opkalds- eller opkaldskvalitet, skal du se Implementer [servicekvalitet](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) og overvåg opkaldskvaliteten i Microsoft Teams for relateret dokumentation.
 
