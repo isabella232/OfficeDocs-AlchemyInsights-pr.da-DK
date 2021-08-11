@@ -1,5 +1,5 @@
 ---
-title: Tilføje en postkasse til en bruger
+title: Tilføjelse af en postkasse til en bruger
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6070"
 - "1200022"
-ms.openlocfilehash: 39fe0d25285fe0f91ab8e5d61ba5e267b77df78b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 262711da574a19ed157a9ccbe8e55a596c2ec9ad7a33c16ba7ca9999c7716a6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935007"
 ---
-# <a name="adding-a-mailbox-to-a-user"></a>Tilføje en postkasse til en bruger
+# <a name="adding-a-mailbox-to-a-user"></a>Tilføjelse af en postkasse til en bruger
 
-Hvis du vil føje en postkasse til en allerede oprettet bruger eller en ny bruger, skal brugeren tildeles en licens til Exchange Online. Hvis brugeren allerede har fået tildelt licenser, skal du vælge Exchange Online under sektionen Apps på siden licens for at starte processen for at oprette en postkasse til brugeren. Du kan få mere at vide under [Tildel licenser til brugere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Hvis du vil føje en postkasse til en allerede oprettet bruger eller en ny bruger, skal brugeren have tildelt en licens Exchange Online. Hvis brugeren allerede har fået tildelt licenser, skal Exchange Online i sektionen Apps på licenssiden for at starte processen med at oprette en postkasse til brugeren. Du kan finde flere oplysninger under [Tildel licenser til brugere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
