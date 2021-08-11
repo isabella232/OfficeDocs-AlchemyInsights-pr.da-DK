@@ -1,5 +1,5 @@
 ---
-title: Startindstillinger i Windows 10
+title: Indstillinger for start i Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909820"
 ---
-# <a name="startup-settings-in-windows-10"></a>Startindstillinger i Windows 10
+# <a name="startup-settings-in-windows-10"></a>Indstillinger for start i Windows 10
 
 **Ændre, hvilke apps der køres automatisk ved start**
 
@@ -33,15 +33,15 @@ ms.locfileid: "51828146"
 
 2. Højreklik på appen, klik på **Mere**, og klik derefter på **Åbn filplacering**. Dette åbner den placering, hvor genvejen til appen er gemt. Hvis der ikke er nogen indstilling for Åbn filplacering, betyder det, at appen ikke kan køre ved start.
 
-3. Åbn filplaceringen, tryk på **Windows-tasten + R**, skriv **shell:startup**, og klik derefter på **OK**. Derved åbnes mappen Start.
+3. Åbn filplaceringen, tryk på Windows **+R**, skriv **shell:startup**, og klik derefter på **OK**. Derved åbnes mappen Start.
 
 4. Kopiér og indsæt genvejen til appen fra filplaceringen til mappen Start.
 
-**Avancerede startindstillinger (herunder Fejlsikret tilstand, UEFI-indstillinger og start fra en anden enhed)**
+**Avancerede startindstillinger (herunder Pengeskab, UEFI-indstillinger og start fra en anden enhed)**
 
 1. Gem dit arbejde, og luk alle åbne dokumenter, da disse trin genstarter din pc.
 
-2. Gå til [Indstillinger > opdatering & > genoprettelse.](ms-settings:recovery?activationSource=GetHelp)
+2. Gå til [Indstillinger > Opdater & > genoprettelse.](ms-settings:recovery?activationSource=GetHelp)
 
 3. Klik **på Genstart** nu under **Avanceret start.** 
 
@@ -49,6 +49,6 @@ ms.locfileid: "51828146"
 
     - Hvis du vil starte fra en enhed som f.eks. et USB-drev, skal **du klikke på Brug en enhed**.
 
-    - Hvis du vil angive UEFI-indstillingerne (nogle gange kaldetFUNKTIONER), skal du klikke på **Fejlfinding > avancerede indstillinger > UEFI-firmwareindstillinger.** 
+    - Hvis du vil angive UEFI-indstillingerne (nogle gange kaldetFUNKTIONER), skal du klikke på **Fejlfinding > avancerede > UEFI-firmware Indstillinger.** 
 
-    - Hvis du vil skifte fejlsikret tilstand eller ændre de avancerede startindstillinger, skal du klikke **på Fejlfinding >** avancerede > Indstillinger for start og derefter klikke på **Genstart.** Du bliver muligvis bedt om at angive [bitLocker-genoprettelsesnøglen](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Når pc'en genstarter igen, skal du klikke på den startindstilling, du vil bruge.
+    - Hvis du vil Pengeskab, eller ændre avancerede startindstillinger, skal du klikke på **Fejlfinding > avancerede** indstillinger > Start Indstillinger og derefter klikke på **Genstart.** Du bliver muligvis bedt om at angive [bitLocker-genoprettelsesnøglen](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Når pc'en genstarter igen, skal du klikke på den startindstilling, du vil bruge.

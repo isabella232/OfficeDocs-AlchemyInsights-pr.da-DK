@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps og Microsoft flow plans-udvidelsen
+title: 1575-PowerApps og Microsoft Flow-planudvidelse
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960433"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Udvidelse til PowerApps og Microsoft flow plan
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps og Microsoft Flow-planudvidelse
 
-Hvis du vil anmode om en plan udvidelse til **Microsoft flow** -eller **PowerApps** , og din lejer allerede har aktive brugere af en af følgende funktioner, behøver du ikke at arkivere en supportanmodning.
+Hvis du regner med at anmode om en planudvidelse til **Microsoft Flow** eller **PowerApps,** og din lejer allerede har aktive brugere af en af følgende funktioner, er der ingen grund til at arkivere en supportanmodning.
 
-- Oprettelse og udgivelse af brugerdefinerede forbindelser i PowerApps og Microsoft flow
-- HTTP-brugerdefinerede handlinger integreret i flow uden for SharePoint og OneDrive
-- Integration af lokale data ved hjælp af den lokale data gateway
+- Oprettelse og publikation af brugerdefinerede forbindelser i PowerApps og Microsoft Flow
+- Brugerdefinerede HTTP-handlinger integreret Flow eksterne SharePoint og OneDrive
+- Integration af lokale data via den lokale datagateway
 
-Kunder, der har aktive brugere af disse funktioner, får automatisk udvidelse indtil 31. januar, 2020 eller udløbet af deres eksisterende Microsoft 365-abonnementsperiode, alt efter hvad der er længere.
+Kunder med aktive brugere af disse funktioner får en automatisk udvidelse indtil den 31. januar 2020 eller udløb af deres eksisterende Microsoft 365-abonnementsperiode, alt efter hvad der er længere.

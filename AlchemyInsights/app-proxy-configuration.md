@@ -1,5 +1,5 @@
 ---
-title: Konfiguration af app-proxy
+title: Konfiguration af appproxy
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951559"
 ---
-# <a name="app-proxy-configuration"></a>Konfiguration af app-proxy
+# <a name="app-proxy-configuration"></a>Konfiguration af appproxy
 
-1. Hvis du vil vide, hvordan du konfigurerer et programproxy program i Azure AD for at vise dine lokale programmer i skyen, skal du se [Sådan konfigurerer du et programproxy program](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
-2. Enkeltlogon (SSO) gør det muligt for dine brugere at få adgang til et program uden at godkende flere gange. Det giver mulighed for, at der opstår en enkelt godkendelse i skyen, oversættes til Azure Active Directory, og tjenesten eller forbindelseskomponenten til at repræsentere brugeren for at fuldføre eventuelle yderligere godkendelses udfordringer fra programmet. Hvis du vil have mere at vide, skal du se [Sådan konfigurerer du Single Sign-on til et program proxy program](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
-3. Brug [denne artikel](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) til at foretage fejlfinding af almindelige problemer, der opstår, når man opretter et nyt programproxy program.
-4. Hvis du har problemer med at konfigurere back-end-godkendelse til dit program, kan det være nødvendigt at [foretage fejlfinding af Kerberos-begrænsede delegering af program proxy](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) eller følge vejledningen i [konfiguration af program med PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) for at løse problemet.
+1. For at forstå, hvordan du konfigurerer et programproxyprogram i Azure AD for at vise dine programmer i det lokale miljø til skyen, skal du se Sådan konfigureres [et programproxyprogram](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
+2. Enkelt logon giver dine brugere mulighed for at få adgang til et program uden at godkende flere gange. Det gør det muligt at udføre enkeltgodkendelse i skyen mod Azure Active Directory og gør det muligt for tjenesten eller Connector at udgive sig for at være brugeren og udføre eventuelle yderligere godkendelsesudfordringer fra programmet. Du kan få mere at vide [under Sådan konfigureres enkelt logon til et programproxyprogram.](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
+3. Brug [denne artikel til at](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) foretage fejlfinding af almindelige problemer, som folk står over for, når de opretter et nyt programproxyprogram.
+4. Hvis du har et problem med at konfigurere back-end-godkendelse i dit program, kan det være nødvendigt at foretage fejlfinding af [Kerberos begrænsede delegeringskonfigurationer for](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) programproxy eller følge en vejledning til konfiguration af programmet med [PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) for at løse problemet.
