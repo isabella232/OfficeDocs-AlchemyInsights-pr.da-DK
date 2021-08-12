@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 2cb3e29dfd4f422e946b7887d4d44f373ff03794
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929947"
 ---
 # <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Stop automatisk flytning af meddelelser til arkivet
 
-Hvis du bruger en opbevaringspolitik, kan du ændre opbevaringsalderen i den pågældende politik, så meddelelser ikke arkiveres automatisk. Sådan gør du:
+Hvis du bruger en opbevaringspolitik, kan du ændre opbevaringsalderen i denne politik, så meddelelser ikke arkiveres automatisk. Sådan gør du:
 
-1. Vælg [opbevaringsmærker for overholdelsesstyring](https://go.microsoft.com/fwlink/?linkid=2059104)i Exchange   >  **Administration.** Find dit Flyt til Arkiv-opbevaringsmærke.
-2. I opbevaringsmærket skal du ændre opbevaringsperioden  (arkiveringsperioden) til Aldrig for at forhindre elementer i at blive arkiveret automatisk af en opbevaringspolitik.
+1. Vælg [opbevaringsmærker Exchange overholdelsesstyring](https://go.microsoft.com/fwlink/?linkid=2059104)i   >  **Administration.** Find dit Flyt til Arkiv-opbevaringsmærke.
+2. I opbevaringsmærket skal du ændre opbevaringsperioden  (arkiveringsperioden) til Aldrig for at forhindre, at elementer arkiveres automatisk af en opbevaringspolitik.
 
 > [!NOTE]
-> Dette ændrer indstillingen for arkiv for alle postkasser, hvor dette opbevaringsmærke er anvendt på dem.
+> Dette ændrer arkivindstillingen for alle postkasser, hvor dette opbevaringsmærke er anvendt.
