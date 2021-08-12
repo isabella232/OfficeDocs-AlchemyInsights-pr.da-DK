@@ -1,5 +1,5 @@
 ---
-title: Ændre lagerkvoten for OneDrive for Business
+title: Ændre OneDrive for Business lagerkvote
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968659"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Ændre standard OneDrive-lagerplads for dine brugere
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Ændre standardlagerpladsen OneDrive dine brugere
 
-1. Gå til [siden lager i OneDrive administration](https://admin.onedrive.com/?v=StorageSettings).
+1. Gå til [Storage i OneDrive Administration.](https://admin.onedrive.com/?v=StorageSettings)
     
-2. Indtast standardlager beløbet (i GB) i **standardlager** feltet, og klik derefter på **Gem**.
+2. Angiv standardlagermængden (i GB)  i feltet Standardlagerplads, og klik derefter på **Gem.**
     
-Denne indstilling for lagerplads gælder for alle brugere, som du ikke har angivet bestemte Lagergrænser for. Hvis du vil ændre lagerplads for bestemte brugere, skal du bruge Microsoft PowerShell. Du kan finde oplysninger om, hvordan du gør dette, under [ændre brugernes OneDrive-lagerplads ved hjælp af PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Denne indstilling for lagerplads gælder for alle brugere, som du ikke har angivet specifikke lagergrænser for. Hvis du vil ændre lagerpladsen for bestemte brugere, skal du bruge Microsoft PowerShell. Du kan finde oplysninger om, hvordan du gør [dette, under Skift OneDrive lagerplads ved hjælp af PowerShell.](https://go.microsoft.com/fwlink/?linkid=866402)
   
 

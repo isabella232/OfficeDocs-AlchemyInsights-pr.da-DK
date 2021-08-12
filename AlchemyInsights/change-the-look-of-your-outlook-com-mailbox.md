@@ -1,5 +1,5 @@
 ---
-title: Ændre udseendet af din Outlook.com-postkasse
+title: Rediger udseendet af din Outlook.com-postkasse
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 10f7b7e5dbee437f81a803f95b5529fcbc5e667a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbd92e3aa383bd84e2808297ffc6c75cd83878b8c4cd691b601af667f2110de2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916877"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a>Ændre udseendet af din postkasse i Outlook
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Rediger udseendet af din Outlook postkasse
 
-Du kan ændre udseendet af meddelelseslisten og læseruden i [layout indstillinger](https://outlook.live.com/mail/options/mail/layout). Vælg, om din mail skal vises som individuelle meddelelser eller samtaler, hvis der skal vises nye meddelelser øverst eller nederst på meddelelseslisten og mere.
+Du kan ændre udseendet af meddelelseslisten og læseruden i [Layoutindstillinger.](https://outlook.live.com/mail/options/mail/layout) Vælg, om dine mails skal vises som individuelle meddelelser eller samtaler, om nye meddelelser skal vises øverst eller nederst på meddelelseslisten og meget mere.
   
-Hvis du vil have mere at vide, skal du se [ændre udseendet af din Outlook.com-postkasse](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Du kan få mere at [vide under Rediger udseendet af din Outlook.com-postkasse.](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)

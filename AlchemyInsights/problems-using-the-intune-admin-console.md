@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: 10b37b2ffda50dc77396039a9e0e443ad81aef72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9310e8685a922207be8d5672d7929e19313cbb57e0fa6d25de149106692e811f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944125"
 ---
 # <a name="problems-using-the-intune-admin-console"></a>Problemer med at bruge Intune-administrationskonsollen
 
-**"Adgang nægtet", når du navigerer til Intune-administrations portalen.**
+**"Adgang nægtet" når du navigerer i Intune-administrationsportalen.**
 
-- Hvis du er medlem af en brugerdefineret Intune-rolle, skal du sikre dig, at en Intune-eller Enterprise Mobility Suite-licens (EMS) er tildelt til din konto.
-- Hvis du bruger Konfigurationsstyring til at administrere enheder, skal du kontrollere, at du ikke er en del af Intune-bruger samlingen for Configuration Manager MDM.
-- Kontrollér, at du er blevet tildelt den relevante rollebaserede administrations kontrol (RBAC)-tilladelser i blade til Intune-roller.
-- Kontrollér, at den anvendte gruppe ikke er en distributionsliste. Intune i Azure-portalen understøtter kun brugerkonti, der hører til Azure Active Directory-sikkerhedsgrupper. Gennemse dine grupper i Azure-portalen > **Intune**  >  -**grupper**eller i Azure-portalen > **Azure Active Directory**.
+- Hvis du er medlem af en brugerdefineret Intune-rolle, skal du sikre dig, at der er tildelt en Intune- eller Enterprise Mobility Suite (EMS)-licens til din konto.
+- Hvis du bruger en Konfigurationsstyring administrere enheder, skal du kontrollere, at du ikke er en del af Intune-brugersamlingen for Konfigurationsstyring MDM.
+- Kontrollér, at du har fået tildelt de relevante rollebaserede tilladelser for administrationskontrol (RBAC) i intune-rollebladet.
+- Kontrollér, at den anvendte gruppe ikke er en distributionsliste. Intune i Azure-portalen understøtter kun brugerkonti, der tilhører Azure Active Directory sikkerhedsgrupper. Gennemse dine grupper på Azure-portalen > **Intune-grupper**  >  eller i Azure-portalen > **Azure Active Directory**.
 
-**Brugeren har for mange tilladelser til den tildelte Intune-rolle**
+**Brugeren har for mange tilladelser til tildelt Intune-rolle**
 
-Adviser brugeren om at gå til **Intune**  >  **Intune-roller**  >  **mine tilladelser**  >  **eksport** for at gennemse de tilladelser, der er tildelt.
+Få brugeren til at gå til **Intune**  >  **Intune-roller**  >  **Mine eksporttilladelser** for at gennemse tildelte  >   tilladelser.
 
-**Jeg har føjet en områdegruppe til en rolle, men brugere i den pågældende rolle stadig kan se andre brugere eller enheder.**
+**Jeg har føjet en områdegruppe til en rolle, men brugere i den pågældende rolle kan stadig se andre brugere eller enheder.**
 
-Områdegrupper filtrerer ikke brugere eller enheder. Områdegrupper:
+Omfangsgrupper filtrerer ikke brugere eller enheder fra. Omfangsgrupper:
 
 - Begræns, hvem brugere kan tildele politikker eller programmer til.
-- Tillad kun bestemte brugere at køre eksterne opgaver på enheder.
+- Tillad kun bestemte brugere at køre fjernopgaver på enheder.
 
-Du kan finde flere oplysninger om områdegrupper under  [rollebaseret adgangskontrol (RBAC) med Microsoft Intune](https://docs.microsoft.com/intune/role-based-access-control).
+Du kan finde flere oplysninger om [omfangsgrupper under Rollebaseret adgangskontrol (RBAC) med Microsoft Intune](https://docs.microsoft.com/intune/role-based-access-control).
 
 **Jeg har føjet en bruger til en Intune-rolle, men de har stadig fuld adgang til Intune-administrationskonsollen.**
 
-Naviger til Intune > **brugere** i Azure-portalen, og kontrollér, at brugeren ikke er tildelt en af følgende roller i Azure-portalen:
+Gå til Intune **>-brugere** i Azure-portalen, og bekræft, at brugeren ikke er tildelt nogen af følgende roller i Azure-portalen:
 
 - Global administrator
 - Intune-tjenesteadministrator
-- SharePoint-administrator
+- SharePoint administrator
 
-Du kan finde flere oplysninger under [rollebaseret adgangskontrol (RBAC) med Microsoft Intune](https://docs.microsoft.com/intune/role-based-access-control).
+Du kan finde flere [oplysninger i Rollebaseret adgangskontrol (RBAC) med Microsoft Intune](https://docs.microsoft.com/intune/role-based-access-control).
 
-**Adgangsproblemer**
+**Problemer med adgang**
 
-Du kan finde flere oplysninger i [kan du ikke logge på Office 365, Azure eller Intune](https://support.microsoft.com/help/2412085/you-can-t-sign-in-to-office-365-azure-or-intune).
+Du kan få mere [at vide under Du kan ikke logge på Office 365, Azure eller Intune](https://support.microsoft.com/help/2412085/you-can-t-sign-in-to-office-365-azure-or-intune).
