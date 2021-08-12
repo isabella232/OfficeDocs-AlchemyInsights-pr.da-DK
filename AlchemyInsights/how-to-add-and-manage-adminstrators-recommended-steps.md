@@ -13,71 +13,71 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963781"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Sådan tilføjer og administrerer du administratorer – anbefalede trin
 
-Afhængigt af din problembeskrivelse har vi fundet en løsning til dig. De fleste kunder har kunnet løse deres problemer efter eget efter at have fulgt vores dokumentation.
+Baseret på din beskrivelse af problemet har vi fundet en løsning til dig. De fleste kunder kunne selv løse deres problem efter at have fulgt vores dokumentation.
 
-**Rediger abonnements administratoren eller kollegaen**
+**Rediger abonnementsadministratoren eller medadministratoren**
 
-- Konto administratoren kan redigere begge roller, hvorimod abonnements administratoren kun kan ændre samtidig administratorer i Azure- [portalen](https://ms.portal.azure.com/#home).
-- [Tilføje eller ændre Azure-abonnements administratorer](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
+- Kontoadministratoren kan redigere begge roller, mens abonnementsadministratoren kun kan ændre administratorer i [Azure-portalen](https://ms.portal.azure.com/#home).
+- [Tilføje eller ændre Azure-abonnementsadministratorer](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Opdatere abonnements administratoren eller Co-Administrator for interne (AIRS)-abonnementer**
+**Opdater abonnementsadministratoren eller Co-Administrator for interne (AIRS) abonnementer**
 
-Tjenesteadministratoren eller samtidig administrator kan selv behandle denne handling ved hjælp af følgende trin:
+Tjenesteadministratoren eller medadministratoren kan selv betjene denne handling ved at benytte følgende fremgangsmåde:
 
-1. Log på Azure- [portalen](https://ms.portal.azure.com/#home) , og klik på **omkostningsstyring + fakturering** i venstre blade.
-2. Klik på linjeelementet med dit abonnement. Dette åbner oversigten over dit abonnement.
-3. Klik på **Egenskaber** på **abonnements** bladet. 
-4. Klik på knappen **tjenesteadministrator** .
-5. Skriv mailadressen på den bruger, du vil angive som tjeneste administrator, og klik på **OK**.
+1. Log på [Azure-portalen, og](https://ms.portal.azure.com/#home) klik **på Omkostningsstyring + Fakturering** i venstre blade.
+2. Klik på linjeelementet med dit abonnement. Dette åbner Oversigt for dit abonnement.
+3. På **bladet Abonnement** skal du klikke på **Egenskaber**. 
+4. Klik på **knappen Tjenesteadministrator.**
+5. Angiv mailadressen på den bruger, du vil angive som tjenesteadministrator, og klik på **OK.**
 
-**Tilføj/Rediger/fjern samtidig administrator**
+**Tilføj/rediger/fjern medadministrator**
 
-1. Log på Azure- [portalen](https://ms.portal.azure.com/#home) som tjeneste administrator.
-2. Åbn [abonnementer](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) , og vælg et abonnement. (Co-administratorer kan kun tildeles til abonnements området).
-3. Naviger til Classic-administratorer **(Access Control)**  >  **Classic-administratorer**  >  **Tilføj**  >  **Tilføj administrator** for at åbne ruden **Tilføj Co-administrator** (hvis indstillingen Tilføj Co-administrator er deaktiveret, angiver det, at du ikke har tilladelse).
-4. Vælg den bruger, du vil tilføje, og klik på **Tilføj**.
+1. Log på [Azure-portalen](https://ms.portal.azure.com/#home) som tjenesteadministrator.
+2. Åbn [Abonnementer,](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) og vælg et abonnement. (Medadministratorer kan kun tildeles i abonnementsomfanget).)
+3. Gå til  >    >    >  **Access-kontrol**  (IAM) Klassiske administratorer Tilføj medadministrator Tilføj medadministrator for at åbne ruden Tilføj medadministrator (hvis indstillingen Tilføj medadministrator er deaktiveret, betyder det, at du ikke har tilladelser).
+4. Vælg den bruger, du vil tilføje, og klik på **Tilføj.**
 
 **Lær mere:**
-- [Tilføj en administrator](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Fjerne en administrator](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Ændre tjeneste administrator](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Få vist konto administratoren](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Administrere adgang ved hjælp af RBAC og Azure-portalen](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+- [Tilføj en medadministrator](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Fjerne en medadministrator](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Ændre tjenesteadministratoren](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Få vist kontoadministratoren](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Administrer adgang ved hjælp af RBAC og Azure-portalen](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Tilføj/slet brugere ved hjælp af Azure Active Directory (AD)**
+**Tilføj/slet brugere ved hjælp Azure Active Directory (AD)**
 
-Du kan tilføje nye brugere eller slette eksisterende brugere fra din Azure Active Directory-organisation (Azure AD):
+Du kan tilføje nye brugere eller slette eksisterende brugere fra din Azure Active Directory (Azure AD):
 
-1. Hvis du vil tilføje en ny bruger, skal du logge på [Azure-portalen](https://ms.portal.azure.com/#home) som Brugeradministrator for organisationen.
-2. Vælg **Azure Active Directory**, Vælg **brugere** , og klik derefter på **ny bruger**.
-3. På siden **bruger** skal du udfylde de nødvendige oplysninger. Klik på **Opret**. Brugeren oprettes og føjes til din Azure AD-lejer.
+1. Hvis du vil tilføje en ny bruger, skal du [logge på Azure-portalen](https://ms.portal.azure.com/#home) som brugeradministrator for organisationen.
+2. Vælg **Azure Active Directory**, vælg **Brugere,** og klik derefter på **Ny bruger**.
+3. På siden **Bruger** skal du udfylde de påkrævede oplysninger. Klik **på Opret.** Brugeren oprettes og føjes til din Azure AD-lejer.
 
-**Få mere at vide**:
+**Få mere at vide:**
 
-- [Tilføje en ny bruger](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Slette en bruger](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Tilføje eller opdatere en brugers profiloplysninger ved hjælp af Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Tilføj en ny bruger](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
+- [Slet en bruger](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
+- [Tilføj eller opdater en brugers profiloplysninger ved hjælp af Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Anbefalede dokumenter**
 
-- [Hvad er rollebaseret adgangskontrol (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
+- [Hvad er rollebaseret adgangskontrol ?](https://docs.microsoft.com/azure/role-based-access-control/overview)
 - [Forstå de forskellige roller i Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Tilladelser som administrator roller i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Selvstudium: give adgang til en bruger ved hjælp af RBAC og Azure-portalen](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [Administratorrolletilladelser i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Selvstudium: Giv en bruger adgang ved hjælp af RBAC og Azure-portalen](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Fejlfinding af RBAC i Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [Organisere dine ressourcer med Azure Management groups](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Sådan anmoder du om en kopi af Azure-faktura via mail](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
-- [Sådan tilføjer, opdaterer eller fjerner du et kredit-eller debetkort fra Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
-- [Administrer abonnementet (Genaktiver/Annuller/Skift)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
+- [Organiser dine ressourcer med Azure-administrationsgrupper](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [Sådan anmoder du om kopi af Azure-faktura via mail](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Sådan tilføjer, opdaterer eller fjerner du et kredit- eller debetkort fra Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Administrere (Genaktiver/Annuller/Skift) abonnement](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 
 

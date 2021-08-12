@@ -1,5 +1,5 @@
 ---
-title: Installér Office til dine brugeres vejledning
+title: Installér Office til dine brugere Vejledning
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948085"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Installér Office til din brugervejledning
+# <a name="deploy-office-to-your-users-guide"></a>Installér Office til dine brugere Vejledning
 
-Installér Office-apps fra skyen med mulighed for at tilpasse din installation ved hjælp af Office Udrulningsværktøj.
+Installer Office apps fra skyen med mulighed for at tilpasse din installation ved hjælp Office udrulningsværktøjet.
 
-Vejledningen [Installér Office til](https://go.microsoft.com/fwlink/?linkid=2146451) dine brugere hjælper dig med at oprette en tilpasset Office-konfiguration med avancerede indstillinger, eller du kan bruge en indbygget anbefalet konfiguration. Uanset om dine brugere udfører en selvinstallation, eller du installerer for dine brugere enkeltvis eller flere af dem, giver denne avancerede guide dig en trinvis vejledning i at give brugerne en Office-installation, der er skræddersyet til din organisation.
+Guiden [Deploy Office til](https://go.microsoft.com/fwlink/?linkid=2146451) dine brugere hjælper dig med at oprette en tilpasset Office-konfiguration med avancerede indstillinger, eller du kan bruge en indbygget anbefalet konfiguration. Uanset om dine brugere udfører en selvinstallation, eller du installerer for dine brugere enkeltvist eller flere af gangen, giver denne avancerede guide dig en trinvis vejledning i at give brugerne en Office-installation, der er skræddersyet til din organisation.

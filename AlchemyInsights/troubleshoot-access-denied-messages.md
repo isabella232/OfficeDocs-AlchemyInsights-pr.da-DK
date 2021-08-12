@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding af adgang nægtet meddelelser
+title: Fejlfinding af adgang nægtede meddelelser
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 6c8ad84123fb58b73b9c378592ce970997893ea2
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c62186fd346efd539b13cef9c80f5e797ebf80811a21db73f0f07fd86c080d55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939877"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Fejlfinding af adgang nægtet meddelelser
+# <a name="troubleshoot-access-denied-messages"></a>Fejlfinding af adgang nægtede meddelelser
 
 Hvis nogen fik meddelelsen "Adgang nægtet" til en delt mappe i SharePoint, har administratoren af gruppen af websteder muligvis aktiveret "Låst tilstand for brugere med tilladelsen Begrænset adgang". Sådan slår du dette fra: 
   
-1. Gå til webstedet, klik på ikonet Indstillinger, og klik derefter på **Indstillinger for websted.**
+1. Gå til webstedet, klik på ikonet Indstillinger, og klik derefter **på** Indstillinger .
     
-2. Klik **på Funktioner for grupper af** websteder under Administration af gruppe af **websteder.**
+2. Under Administration **af gruppe af websteder skal** du klikke på Funktioner for grupper af **websteder.**
     
-3. Ud for **låst tilstand for brugere med tilladelsen Begrænset adgang skal du** klikke på **Deaktiver.**
+3. Ud for **Låst tilstand for brugere med tilladelsen Begrænset adgang skal du klikke** på **Deaktiver.**
     
-En Adgang nægtet-meddelelse kan også forekomme for delte mapper, hvis webstedet er et publiceringswebsted. Du kan få mere at vide [under Adgang nægtet, når du åbner en delt mappe.](https://answers.microsoft.com/windows/forum/windows_7-files/access-denied-to-share-folder/79fae49d-cddf-4845-8ac8-c141884d85fb)
+Meddelelsen Adgang nægtet kan også forekomme for delte mapper, hvis webstedet er et publiceringswebsted. Du kan få mere at vide [under Adgang nægtet ved adgang til en delt mappe](https://answers.microsoft.com/windows/forum/windows_7-files/access-denied-to-share-folder/79fae49d-cddf-4845-8ac8-c141884d85fb).
   
-Hvis en person fik meddelelsen "Adgang nægtet", når han eller hun forsøger at få vist anmodninger om adgang, skal brugeren tilføjes som administrator for en gruppe af websteder eller som medlem af gruppen Ejere for webstedet. Du kan finde flere oplysninger på [listen Anmodninger om adgang nægtet adgang.](https://go.microsoft.com/fwlink/?linkid=2004220)
+Hvis en person fik meddelelsen "Adgang nægtet", når han eller hun forsøger at få vist anmodninger om adgang, skal brugeren tilføjes som administrator for en gruppe af websteder eller som medlem af gruppen Ejere for webstedet. Du kan få mere at vide [under Listen Adgang nægtet adgang til anmodninger](https://go.microsoft.com/fwlink/?linkid=2004220).
   
-Hvis en bruger fik meddelelsen "Adgang nægtet", efter brugeren blev fjernet fra Active Directory i det lokale miljø og derefter tilføjet igen, skal du se Adgang nægtet, når en brugerkonto synkroniseres med [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2004318)
+Hvis en bruger fik en meddelelse med "Adgang nægtet", efter at han/hun blev fjernet fra Active Directory i det lokale miljø og derefter tilføjet igen, skal du se Adgang nægtet, når en brugerkonto synkroniseres med [en Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2004318).
   
 

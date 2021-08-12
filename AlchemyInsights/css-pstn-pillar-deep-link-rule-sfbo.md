@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: 51190e74e22208b7229a5295adbcbbf98e1c6a6a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 055d0fc75cfda123fe3b5abfb28f530ef1f14a58ed3875fae01fc41c50e7ca84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914825"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>PSTN-opkald med Skype for Business Online
 
-Hvis du vil foretage PSTN-opkald i Microsoft 365, skal du bruge en [Microsoft 365-opkaldsplan](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) eller en forbindelse til din lokale PSTN-telefoninfrastruktur. Du kan finde flere oplysninger under:
+Hvis du vil foretage PSTN-opkald i Microsoft 365, [](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) skal du bruge en Microsoft 365-opkaldsplan eller en forbindelse til din lokale PSTN-telefoninfrastruktur. Du kan finde flere oplysninger under:
 
-- [Lande- og områdetilgængelighed til lydmøder og microsoft Teams-opkaldsplaner](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Almindelige spørgsmål om Microsoft 365-lydmøder](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Lande- og områdetilgængelighed til lydmøder og Microsoft Teams-opkaldsplaner](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [Almindelige spørgsmål om Microsoft 365 lydmøder](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Tilføj midler, og administrer kommunikationskreditter](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [PSTN-opkaldere kan ikke deltage i et telefonmøde med manuelt opkald i Skype for Business](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [PSTN-opkaldere kan ikke deltage i Skype for Business et telefonmøde med manuelt opkald](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

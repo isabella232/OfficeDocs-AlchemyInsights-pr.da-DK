@@ -1,5 +1,5 @@
 ---
-title: Data placering
+title: Dataplacering
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b42fd2380fc1a98d33443aa8cacdb23e55fa8832
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 848285b940c19e3d6bb2b42483f01d39bce3952f42aa723d51b1a6392f0f1dcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914609"
 ---
-# <a name="data-location"></a>Data placering
+# <a name="data-location"></a>Dataplacering
 
-Du kan få vist placeringen af din lejer i administration ved at navigere til siden [ **organisationsprofil** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) og vælge **data placering**.
+Du kan få vist placeringen af din lejer i Administration ved at gå til [ **siden Organisationsprofil**](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) og vælge **Dataplacering**.
 
-Se, [hvor dine Microsoft 365-kundedata er gemt](https://docs.microsoft.com/office365/enterprise/o365-data-locations), for de programmer, du ikke har abonnement på.
+For programmer, du ikke abonnerer på, skal du se [Hvor dine Microsoft 365 er gemt af dine kunder.](https://docs.microsoft.com/office365/enterprise/o365-data-locations)
