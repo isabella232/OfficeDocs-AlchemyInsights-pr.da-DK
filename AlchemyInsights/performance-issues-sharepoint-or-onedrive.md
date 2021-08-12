@@ -13,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 921aae7eba8487c5600f290fd671ef2675372e6af0478b913e38354856cbaa22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911836"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint eller OneDrive, langsom, utilgængelig eller ikke tilgængelig for flere brugere
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint eller OneDrive langsom, utilgængelig eller utilgængelig for flere brugere
 
-SharePoint eller OneDrive kan være langsom, utilgængeligt eller utilgængeligt eller kan vise tjeneste ikke-tilgængelig eller 503-fejl, for flere årsager:
+SharePoint eller OneDrive er langsomme, utilgængelige eller utilgængelige, eller der kan blive vist fejl om, at tjenesten ikke er tilgængelig eller 503, af forskellige årsager:
   
-- Hvis dit SharePoint-eller OneDrive-websted er langsomt eller forsinket for flere brugere, kan der være et midlertidigt tjeneste problem, hvor brugerne oplever uregelmæssige forsinkelser eller navigerings fejl ved adgang til SharePoint-websteder eller OneDrive-indhold. Se [dashboardet for tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at se, om din organisation er påvirket.
+- Hvis dit SharePoint- eller OneDrive-websted er langsomt eller forsinket for flere brugere, kan der være et midlertidigt tjenesteproblem, hvor brugerne oplever forbigående forsinkelser eller navigationsfejl, når de får adgang til SharePoint websteder eller OneDrive indhold. Kontrollér [dashboardet Tjenestetilstand for](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) at se, om din organisation påvirkes.
   
-- Brugere kan modtage en *503-server, der er optaget* -fejl, når de forsøger at navigere til SharePoint-eller OneDrive-websteder. Denne fejl kan skyldes begrænsning i SharePoint-tjenesten. SharePoint Online anvender begrænsning til at opretholde optimal ydeevne og pålidelighed for SharePoint Online-tjenesten. Begrænsning begrænser antallet af brugerhandlinger eller samtidige kald (via script eller kode) for at forhindre overbelastning af ressourcer. Du kan finde flere oplysninger om begrænsning under [undgå at blive begrænset eller blokeret i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- Brugere modtager muligvis en *fejl på 503-serveren* er optaget, når de forsøger at navigere til SharePoint eller OneDrive websteder. Denne fejl kan skyldes begrænsning i SharePoint tjeneste. SharePoint Online anvender begrænsning til at opretholde optimal ydeevne og pålidelighed for SharePoint Online-tjenesten. Begrænsning begrænser antallet af brugerhandlinger eller samtidige kald (via script eller kode) for at forhindre overbelastning af ressourcer. Du kan finde flere oplysninger om begrænsning i Undgå at [blive begrænsning eller blokeret i SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-- Hvis du oplever langsom ydeevne med et **klassisk** eller **moderne** SharePoint-websted eller-side, skal du bruge [værktøjet til side diagnosticering](https://aka.ms/perftool) til at analysere siderne.
+- Hvis du oplever langsom ydeevne med en **klassisk** eller moderne **SharePoint** på et websted eller en side, skal du bruge værktøjet [Sidediagnosticering](https://aka.ms/perftool) til at analysere siderne.
   
-- Hvis du stadig oplever generel langsom ydeevne, skal du gennemgå ressourcerne nederst i denne artikel: [Introduktion til justering af ydeevnen for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Hvis du stadig oplever generel langsom ydeevne, skal du gennemse ressourcerne nederst i denne artikel: Introduktion til justering af [ydeevnen for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

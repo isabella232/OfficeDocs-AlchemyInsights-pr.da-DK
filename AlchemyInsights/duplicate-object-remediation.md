@@ -13,19 +13,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 5c071e1a161cd2885b10d082f3c78eb5ac65b0b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1901dd13291cc1e4b811d243a670b8d6c2998e712a8d1744effe7e3832c156da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964663"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Dublerede fejl i objekt synkronisering
+# <a name="duplicate-object-synchronization-errors"></a>Dublerede objektsynkroniseringsfejl
 
-Hvis du får en af følgende fejl under en synkronisering:
+Hvis du modtager en af følgende fejl under en synkronisering:
 
-- Der findes allerede et synkroniseret objekt med den samme proxyadresse i din Microsoft Online Services-mappe.
+- Der findes allerede et synkroniseret objekt med den samme proxyadresse i Microsoft Online Services-kataloget.
 
 - En lignende meddelelse til UserPrincipalName.
 
-Brug den nye AADConnect-tilstands diagnosticering til at løse dublerede objekt fejl. Hvis du vil have mere at vide, skal du se Diagnosticer og afhjælper [duplikerede attribut synkroniseringsfejl](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Brug den nye AADConnect Health-diagnosticering til at løse dublerede objektfejl. Du kan få mere at vide under Diagnosticere og løse synkroniseringsfejl med [duplikerede attributter.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)

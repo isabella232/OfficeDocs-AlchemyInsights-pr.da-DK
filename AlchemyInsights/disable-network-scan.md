@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001464"
 - "3492"
-ms.openlocfilehash: 7b0f5c21a7e6afda0ee3000e75ee725cbadcedb7
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 7e67a45b6f4d4b18f47ce55a0fde20f826498c5d25c4a6dec4311d8fe4c3735f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928543"
 ---
 # <a name="disable-network-scan"></a>Deaktiver netværksscanning
 
-Scanninger af netværksshare kan påvirke ydeevnen.  For at sikre at klienten ikke scanner netværkshares/filer som standard, skal du konfigurere følgende indstillinger i Windows Defender-programmet til **Sand:**
+Scanninger af netværksshare kan påvirke ydeevnen.  For at sikre at klienten ikke scanner netværksshares/-filer som standard, skal du konfigurere følgende indstillinger i Windows Defender til **Sand:**
 
 - DisableScanningMappedNetworkDrivesForFullScan
 - DisableScanningNetworkFiles

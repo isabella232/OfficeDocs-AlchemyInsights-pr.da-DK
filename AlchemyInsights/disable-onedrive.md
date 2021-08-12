@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 7cfe02546f6bed02282f544037cb5d84a711cd87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff05cbfe55642243cff035c63db1ec7b541324b5f3685cacbf2877e22445e8cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928615"
 ---
 # <a name="disable-onedrive"></a>Deaktiver OneDrive
 
-Der er flere måder, hvorpå du kan deaktivere adgang til OneDrive og dens tjenester afhængigt af virksomhedens behov:
+Der er flere måder, hvorpå du kan deaktivere adgangen til OneDrive og dens tjenester afhængigt af virksomhedens behov:
 
-[Fjerne sammenkædning, skjule eller fjerne OneDrive-programmet](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[Fjern sammenkædning, skjul eller fjern OneDrive program](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
 [Tillad kun synkronisering for bestemte organisationer](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[Deaktiver oprettelse af OneDrive-websted for nogle brugere](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[Deaktiver OneDrive oprettelse af websteder for nogle brugere](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[Kontrollér adgang til SharePoint Online-og OneDrive-data baseret på netværksplacering](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[Kontrollere adgang til SharePoint online og OneDrive baseret på netværksplacering](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[Deaktiver personlig OneDrive-synkronisering](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[Deaktiver personlige OneDrive-synkronisering](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[Administrere forbindelser fra Windows-enheder til OneDrive og andre tjenester](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Administrer forbindelser fra Windows til OneDrive og andre tjenester](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

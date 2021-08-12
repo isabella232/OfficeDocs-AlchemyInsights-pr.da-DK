@@ -1,5 +1,5 @@
 ---
-title: Deaktivere Briefing mail
+title: Deaktivere Briefing af mail
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6178"
 - "9003284"
-ms.openlocfilehash: eefbbcf0038c1308445bace51841db5ede50758e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e4bfcb73276f61a11210ea60ede106d08c0533b50ba8d60834dd0d353c3a2bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928579"
 ---
-# <a name="disabling-briefing-email"></a>Deaktivere Briefing mail
+# <a name="disabling-briefing-email"></a>Deaktivere Briefing af mail
 
-Som administrator har du fleksibilitet til at deaktivere Briefing til hele organisationen eller individuelle brugere. Hvis du vil vide, hvordan du administrerer disse indstillinger, skal du se [konfigurere Briefing mail](https://docs.microsoft.com/briefing/be-admin).
+Som administrator har du fleksibilitet til at deaktivere Briefing for hele organisationen eller for individuelle brugere. Du kan få mere at vide om, hvordan du administrerer disse indstillinger, [under Konfigurer briefing af mail.](https://docs.microsoft.com/briefing/be-admin)
