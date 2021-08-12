@@ -1,5 +1,5 @@
 ---
-title: Enhedstypen vises ikke i kategoriserede eller relevante søgeresultater i Dynamics 365 Unified interface
+title: Enhedstype vises ikke i kategoriserede eller relevanssøgeresultater i Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946690"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Enhedstypen vises ikke i søgeresultaterne
+# <a name="entity-type-not-showing-in-search-results"></a>Enhedstype vises ikke i søgeresultater
 
-Hvis en enhedstype skal vises i kategoriseret søgning eller relevans søgning i Dynamics 365 Unified interface, skal den først føjes til App-modulet.
+Hvis en enhedstype skal vises i kategoriseret søgning eller relevanssøgning i Den samlede Dynamics 365-grænseflade, skal den først føjes til appmodulet.
 
-Bemærk! Når du søger efter vedhæftede filer i relevans søgning, skal enheden til vedhæftede filer føjes til App-modulet, selvom den overordnede post er det, der vises i resultaterne.
+Bemærk! Når du søger efter vedhæftede filer i relevanssøgning, skal den vedhæftede fil føjes til appmodulet, selvom den overordnede post er det, der vises i resultaterne.

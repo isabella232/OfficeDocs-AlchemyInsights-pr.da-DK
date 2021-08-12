@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding af sikkerhedstip ved registrering af svindelkontroller
+title: Fejlfinding af sikkerhedstip for kontroller til registrering af svindel
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955960"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Fejlfinding af sikkerhedstip ved registrering af svindelkontroller
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Fejlfinding af sikkerhedstip for kontroller til registrering af svindel
 
-Hvis du får et sikkerhedstip, hvor der står, at "Afsenderen kunne ikke vores kontroller til registrering af svindel og er muligvis ikke den, de ser ud til at være", så kunne afsenderen ikke bestå enten DKIM- eller SPF-godkendelseskontrollerne. Den bedste metode til at løse dette er, at afsenderen godkender sig selv. Hvis afsenderen sender på dine vegne, skal du godkende vedkommende ved at føje afsenderens IP-adresse til SPF-posten.
+Hvis du får en sikkerhedstip, der siger: "Afsenderen kunne ikke vores kontroller til registrering af svindel, og det er muligvis ikke hvem, de ser ud til at være", så kunne afsenderen ikke bestå enten DKIM- eller SPF-godkendelseskontroller. Den bedste metode til at løse dette er, at afsenderen godkender sig selv. Hvis afsenderen sender på dine vegne, skal du godkende vedkommende ved at føje afsenderens IP-adresse til SPF-posten.
   
-Se [Fejlfinding af det røde (mistænkelige) sikkerhedstip til registrering af svindel](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) for at få flere oplysninger.
+Se [Fejlfinding på det røde (mistænkelige) sikkerhedstip kontroller for registrering af svindel](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) for at få flere oplysninger.
   
 Her er nogle andre links, der kan hjælpe:
   

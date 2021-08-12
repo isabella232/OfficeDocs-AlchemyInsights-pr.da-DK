@@ -1,5 +1,5 @@
 ---
-title: 1815 Forøg størrelsen på den delte postkasse
+title: 1815 Øg størrelsen på en delt postkasse
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912736"
 ---
 # <a name="increase-the-size-of-a-shared-mailbox"></a>Øge størrelsen på en delt postkasse
 
-Du kan øge størrelsen på en delt postkasse fra standardstørrelsen på 50 GB til 100 GB ved at tildele den delte postkasse en Exchange Online P2-licens (som er inkluderet i E3-og E5-licenser). Når du tildeler P2-licensen til den delte postkasse i [aktive brugere](https://portal.office.com/adminportal/home), bliver størrelsen automatisk hævet i løbet af 15 minutter.
+Du kan øge størrelsen på en delt postkasse fra standardstørrelsen på 50 GB til 100 GB ved at tildele den delte postkasse en Exchange Online P2-licens (som er inkluderet i E3- og E5-licenser). Når du tildeler P2-licensen til den delte postkasse i [Aktive](https://portal.office.com/adminportal/home)brugere, øges størrelsen automatisk inden for 15 minutter.

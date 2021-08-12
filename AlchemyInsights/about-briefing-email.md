@@ -1,5 +1,5 @@
 ---
-title: Om Briefing mail
+title: Om Briefing af mail
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955852"
 ---
-# <a name="about-briefing-email"></a>Om Briefing mail
+# <a name="about-briefing-email"></a>Om Briefing af mail
 
-Hvis du vil have mere at vide om briefings, skal du se [Oversigt over mail oversigt](https://docs.microsoft.com/briefing/be-overview).  
+Du kan få mere at vide om Briefing under [Briefing af mailoversigt](https://docs.microsoft.com/briefing/be-overview).  
 
-Denne funktion udrulles i øjeblikket, og din organisation modtager muligvis ikke den korte mail, selvom du har en Briefing-kompatibel. Bemærk også, at brugere ikke har garanti for at modtage en kort mail hver dag. Mails sendes kun, når brugeren har mindst et handlings forslag for den pågældende dag. Hvis du vil have mere at vide, skal du se [ofte stillede spørgsmål til den korte mail](https://docs.microsoft.com/briefing/be-faqs).
+Denne funktion udrulles i øjeblikket, så din organisation modtager muligvis ikke Briefing-mailen, selvom du har Briefing aktiveret. Bemærk også, at der ikke er nogen garanti for, at brugerne modtager en Briefing-mail hver dag. Mails sendes kun, når brugeren har mindst ét forslag, der kan handles på, for den pågældende dag. Du kan få mere at vide [under Ofte stillede spørgsmål til Briefing-mailen.](https://docs.microsoft.com/briefing/be-faqs)
