@@ -1,5 +1,5 @@
 ---
-title: Administrere app-grupper ved hjælp af Azure-portalen til Windows virtuelt skrivebord
+title: Administrere appgrupper ved hjælp af Azure-portalen til Windows virtuel computer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912052"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Administrere app-grupper ved hjælp af Azure-portalen til Windows virtuelt skrivebord
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Administrere appgrupper ved hjælp af Azure-portalen til Windows virtuel computer
 
-Den standardapp, der er oprettet for en ny Windows-version af skrivebords værts puljen, udgiver også hele skrivebordet. Desuden kan du ved hjælp af Azure-portalen oprette en eller flere RemoteApp-app-grupper for værts puljen.
+Den standardappgruppe, der er oprettet til en ny Windows virtual desktop-værtspulje, publicerer også hele skrivebordet. Desuden kan du bruge Azure-portalen til at oprette en eller flere RemoteApp-appgrupper til værtspuljen.
 
-Installationsprocessen vil gøre følgende:
+Installationsprocessen gør følgende:
 
-1. Opret gruppen RemoteApp-apps.
-2. Føj dine valgte apps til App-gruppen.
-3. Publicere individuelle brugere eller brugergrupper til App-gruppen.
-4. Registrer app-gruppen, hvis du vælger at gøre det.
-5. Opret et link til en Azure Resource Manager-skabelon ud fra din konfiguration, som du kan downloade og gemme.
+1. Opret RemoteApp-appgruppen.
+2. Føj dine valgte apps til appgruppen.
+3. Publicere individuelle brugere eller brugergrupper i appgruppen.
+4. Registrer appgruppen, hvis du vælger at gøre det.
+5. Opret et link til en Azure Resource Manager-skabelon i henhold til din konfiguration, som du kan downloade og gemme.
 
-Hvis du vil oprette en RemoteApp-gruppe til Windows virtuelt skrivebord, skal du følge vejledningen i [administrere app-grupper med Azure-portalen](https://go.microsoft.com/fwlink/?linkid=2129550).
+Hvis du vil oprette en RemoteApp-gruppe Windows Virtual Desktop, skal du følge instruktionerne i [Administrer appgrupper med Azure-portalen](https://go.microsoft.com/fwlink/?linkid=2129550).

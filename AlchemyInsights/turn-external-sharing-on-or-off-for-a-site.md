@@ -1,5 +1,5 @@
 ---
-title: Slå ekstern deling til eller fra for et SharePoint-websted
+title: Slå ekstern deling til eller fra for et SharePoint websted
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 63b94ccff3ed97a52ce8886f4fdce9d3fd1e4c83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5aabe52ce1a294b97b0e85fbf04c61456c87b240b40328febe1634aad1a17c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920353"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Slå ekstern deling til eller fra for et SharePoint-websted
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Slå ekstern deling til eller fra for et SharePoint websted
 
 For et websted:
   
-1. Klik på **websteder**i venstre rude i den nye SharePoint administration-ressource.
+1. I den nye SharePoint Administration skal du i venstre rude klikke på **websteder**.
     
-2. Vælg webstedet eller webstederne, og klik på **deling**på båndet.
+2. Vælg webstedet eller webstederne, og klik på Deling på **båndet.**
     
-Nye websteder, som brugerne opretter (både teamwebsteder, der er medlem af Microsoft 365-grupper og Kommunikationswebsteder), har som standard samme indstilling for deling som din indstilling for hele organisationen, medmindre indstillingen for hele organisationen tillader deling af filer via links, der ikke kræver logon. I dette tilfælde tillader webstederne deling med nye og eksisterende eksterne brugere, der logger på. Hvis du vil ændre indstillingen for bestemte websteder, skal du bruge den nye SharePoint administration.
+Nye websteder, som brugerne opretter (både teamwebsteder, der tilhører Microsoft 365 Grupper og kommunikationswebsteder), har som standard den samme indstilling for deling som indstillingen for hele organisationen, medmindre indstillingen for hele organisationen tillader deling af filer ved hjælp af links, der ikke kræver logon. I dette tilfælde tillader webstederne deling med nye og eksisterende eksterne brugere, der logger på. Hvis du vil ændre indstillingen for bestemte websteder, skal du SharePoint Administration.
   
 > [!NOTE]
-> Indstillingen for ekstern deling for ethvert websted kan være mere restriktivt end din indstilling for hele organisationen, men det er ikke mere tilskrivende end indstillingen for hele organisationen. 
+> Indstillingen til ekstern deling for et websted kan være mere restriktiv end indstillingen for hele organisationen, men den kan ikke være mere restriktiv end indstillingen for hele organisationen. 
   
 

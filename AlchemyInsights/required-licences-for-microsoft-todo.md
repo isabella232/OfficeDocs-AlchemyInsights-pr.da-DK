@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972971"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Påkrævede licenser til Microsoft ToDo
 
@@ -29,11 +29,11 @@ En bruger skal have en af følgende licenser for at kunne bruge Microsoft ToDo:
   
 - Business Essentials
 
-- Business Premium
+- Forretnings Premium
 
 - Microsoft 365 Firstline F1
 
-- Enhver Office 365 Enterprise-plan
+- Enhver Office 365 Enterprise plan
 
 - Secure Productive Business
 
@@ -41,7 +41,7 @@ En bruger skal have en af følgende licenser for at kunne bruge Microsoft ToDo:
 
 - Secure Productive Enterprise E5
 
-- Alle Office 365 Education-planer
+- Enhver Office 365 Education plan
 
 - Microsoft 365 A3
 
@@ -49,11 +49,11 @@ En bruger skal have en af følgende licenser for at kunne bruge Microsoft ToDo:
 
 Ud over en gyldig produktlicens skal du bruge en af følgende versioner af Exchange Online, for at ToDo kan synkronisere brugerdata:
   
-- Exchange Online-abonnementsplan 1
+- Exchange Online Plan 1
 
-- Exchange Online-abonnementsplan 2
+- Exchange Online Plan 2
 
-- Exchange Essentials
+- Exchange Grundlæggende oplysninger
 
 - Exchange Online-kiosk
 

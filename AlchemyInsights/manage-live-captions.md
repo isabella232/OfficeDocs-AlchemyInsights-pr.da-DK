@@ -1,5 +1,5 @@
 ---
-title: Administrere Live billedtekster
+title: Administrer livetekster
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6141"
 - "9003263"
-ms.openlocfilehash: 09e08aaae09811a5f60da3015c923ddd3dccf6a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3e20411a12b0b18370283b7e167b1a5c6f0340c1e71896199805f0db6d0c0c6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911980"
 ---
-# <a name="manage-live-captions"></a>Administrere Live billedtekster
+# <a name="manage-live-captions"></a>Administrer livetekster
 
-Hvis du vil have mere at vide om, hvordan du bruger funktionen Live Caption, skal du se [brug af Live billedtekster i et teams-møde](https://support.microsoft.com/office/use-live-captions-in-a-teams-meeting-4be2d304-f675-4b57-8347-cbd000a21260) eller [bruge live billedtekster i en live begivenhed](https://support.microsoft.com/office/use-live-captions-in-a-live-event-1d6778d4-6c65-4189-ab13-e2d77beb9e2a).  
+Hvis du vil have mere at vide om, hvordan du bruger funktionen til livetekst, skal du se Brug livetekster i et [Teams-møde](https://support.microsoft.com/office/use-live-captions-in-a-teams-meeting-4be2d304-f675-4b57-8347-cbd000a21260) eller Brug livetekster i [en livebegivenhed](https://support.microsoft.com/office/use-live-captions-in-a-live-event-1d6778d4-6c65-4189-ab13-e2d77beb9e2a).  
 
-Som standard er live billedtekster ikke automatisk slået til for brugeren under et møde. Brugeren ser indstillingen **slå indstillinger for direkte undertekster** i menuen overløb **(...)** til at slå dem til. Hvis du vil administrere eller deaktivere Live billedtekster, skal du se [aktivere Live Caption](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions).
+Livetekster slås som standard ikke automatisk til for brugeren under et møde. Brugeren kan se indstillingen **Aktiver livetekster** i menuen Overløb **(...)** for at aktivere dem. Hvis du vil administrere eller deaktivere livetekster, skal du [se Aktivér livetekster](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions).
 
-Du kan finde flere oplysninger om installation af møde politikker [i administrere møde politikker i teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Du kan finde flere oplysninger om implementering af mødepolitikker [i Administrer mødepolitikker i Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
