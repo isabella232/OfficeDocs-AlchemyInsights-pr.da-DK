@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6df196fc0bde37c962e3aa84dd602ee414dad3d329addfd16cb6e3dcc40fc2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943369"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Gendan en slettet offentlig mappe
 
 **Sådan gendanner du slettede elementer fra en offentlig mappe:**
 
-- Se [Du kan ikke gendanne slettede elementer fra en offentlig mappe, der ikke er en mail, i Outlook 2016.](https://aka.ms/pfrec)
+- Se [Du kan ikke gendanne slettede elementer fra en offentlig mappe uden mail i Outlook 2016](https://aka.ms/pfrec).
  
 **Sådan gendanner du en slettet offentlig mappe (af enhver type)**: 
 

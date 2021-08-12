@@ -1,5 +1,5 @@
 ---
-title: Spring omdirigering af mail til ny adresse over
+title: Spring omdirigering af mail over til ny adresse
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966679"
 ---
-# <a name="skip-redirecting-email-to-new-address"></a>Spring omdirigering af mail til ny adresse over
+# <a name="skip-redirecting-email-to-new-address"></a>Spring omdirigering af mail over til ny adresse
 
-Spring trinnet over, hvordan du omdirigerer mail til den nye adresse, hvis du har brugerdefinerede DNS-poster. Du kan derefter tilføje de poster, du skal bruge senere. Nogle Office 365-tjenester er muligvis ikke tilgængelige, før du manuelt tilføjer posterne hos din registrator.
+Spring trinnet over, hvordan du omdirigerer mail til en ny adresse, hvis du har brugerdefinerede DNS-poster. Derefter kan du tilføje de poster, du skal bruge senere. Nogle Office 365-tjenester er muligvis ikke tilgængelige, før du tilføjer posterne manuelt hos din registrator.
 
-Hvis du vil springe omdirigering af mail til ny adresse over, skal **du vælge Spring dette trin over > Bekræft.**
+Hvis du vil springe omdirigering af mails over til en ny adresse, skal **du vælge Spring dette trin over> Bekræft**.

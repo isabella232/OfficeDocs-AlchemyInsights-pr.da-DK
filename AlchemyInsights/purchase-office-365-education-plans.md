@@ -13,12 +13,12 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: e0efffdf37118aec0abeaf47107d3cf120082cc9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 440d6c2266e5cfa0ea3bf0c8fe02c057640c8f8036512bb650f870aef3b65b27
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826805"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943513"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 til uddannelse – godkendt
 
@@ -34,7 +34,7 @@ Du er blevet godkendt til Office 365 Education.  Sådan køber du:
 
 **Aktivér Teams**
 
-- Hvis du vil aktivere Microsoft Teams for alle brugere, skal du gå til Indstillinger Indstillinger Microsoft Teams og klikke på  >    >  [](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) **afkrydsningsfeltet Aktiver Microsoft Teams for alle** brugere. Klik på **Gem ændringer**.
+- For at aktivere Microsoft Teams for alle brugere skal du gå til **Indstillinger** Indstillinger Microsoft Teams og klikke  >    >  [](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) **på afkrydsningsfeltet Microsoft Teams** for alle brugere. Klik på **Gem ændringer**.
 
 **Fjernundervisning og -læring**
 
