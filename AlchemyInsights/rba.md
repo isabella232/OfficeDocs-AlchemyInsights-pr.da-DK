@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: ab0cc63ef12c675eeda8676fe129636ddb085c3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c185a606460b7b204d2f0ff11f6f77cb147c681feb6aa51401e1515ca8017a68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797938"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911116"
 ---
-# <a name="about-room-mailboxes"></a>Om lokale postkasser
+# <a name="about-room-mailboxes"></a>Om lokalepostkasser
 
-En lokale postkasse er en ressource postkasse, der er tildelt en fysisk placering, f. eks et mødelokale, en auditorium eller et kursus lokale. Du kan finde flere oplysninger om lokale postkasser i [oprette og administrere lokale postkasser](https://go.microsoft.com/fwlink/p/?linkid=717533).
+En lokalepostkasse er en ressourcepostkasse, der er tildelt et fysisk sted, f.eks. et mødelokale, et auditorium eller et kursuslokale. Du kan finde flere oplysninger om lokalepostkasser i [Opret og administrer lokalepostkasser](https://go.microsoft.com/fwlink/p/?linkid=717533).

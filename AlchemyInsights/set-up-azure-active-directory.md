@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958183"
 ---
 # <a name="set-up-azure-active-directory"></a>Konfigurer Azure Active Directory
 
-[Azure ad konfigurationsvejledning](https://go.microsoft.com/fwlink/?linkid=2134390) indeholder oplysninger, der sikrer, at din organisation har et stærkt sikkerheds fundament. I denne vejledning kan du konfigurere startfunktioner som Azure-rollebaseret adgangskontrol (Azure RBAC) for administratorer, Azure AD Connect for din lokale mappe og Azure AD Connect-tilstand, så du kan overvåge din hybrid identitets tilstand under automatiske synkroniseringer.
+[Installationsvejledningen til Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) indeholder oplysninger, der sikrer, at din organisation har et stærk sikkerhedsfundament. I denne vejledning skal du konfigurere startfunktioner, f.eks. rollebaseret adgangskontrol til Azure (Azure RBAC) for administratorer, Azure AD Forbind til dit lokale katalog og Azure AD Forbind Health, så du kan overvåge din hybrididentitet under automatiserede synkroniseringer.
 
-Det omfatter også vigtige oplysninger om aktivering af nulstilling af adgangskoder for selvbetjening, betinget adgang og integreret tredjeparts signering, herunder valgfri avanceret identitetsbeskyttelse og automatisering af brugerklargøring.
+Den indeholder også vigtige oplysninger om aktivering af nulstilling af adgangskode via selvbetjening, betinget adgang og integreret logon fra tredjeparter, herunder valgfri avanceret identitetsbeskyttelse og automatisering af brugernes klargøring.

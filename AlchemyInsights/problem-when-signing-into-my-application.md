@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7797"
-ms.openlocfilehash: b7ef5529f4b98188a466501803b934f4935ad48c
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: d2a11e38c49a28a90ce7912a805af9c09bf3c6b98d91f24f75bdb32192bcfa69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911296"
 ---
 # <a name="problem-when-signing-in-to-my-application"></a>Problem, når du logger på mit program
 
-Du kan løse dine app-proxy adgangsproblemer ved hjælp af artiklerne:
+Du kan løse problemer med appproxyadgang ved hjælp af følgende artikler:
 
-- [Jeg får fejlen "kan ikke få adgang til dette virksomhedsprogram"](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview).
-- [Jeg kan ikke logge på et lokalt program ved hjælp af Azure ad Application proxy](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-on-premises-application-proxy/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_Proxy).
-- [Fejlfinding af program proxy programproblemer](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).
+- [Jeg får fejlen "Kan ikke få adgang til dette virksomhedsprogram".](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview)
+- [Jeg kan ikke logge på et lokalt program ved hjælp af Azure AD-programproxyen.](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-on-premises-application-proxy/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_Proxy)
+- [Fejlfinding af problemer med programproxyprogrammet](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).
