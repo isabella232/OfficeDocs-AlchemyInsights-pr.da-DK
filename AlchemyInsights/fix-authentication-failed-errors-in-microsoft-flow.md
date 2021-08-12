@@ -1,5 +1,5 @@
 ---
-title: Rettelse af fejl ved godkendelse mislykkedes i Microsoft flow
+title: Ret "Godkendelse mislykkedes"-fejl i Microsoft Flow
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1577"
 - "9000088"
-ms.openlocfilehash: 1afaba71eb3b5b102476b4e3bd3172311427a86b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 216e8f108bcea04220484991a4ca8fc4cd3707afbdba13b248b44296064a5159
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913925"
 ---
-# <a name="fix-authentication-failed-errors-in-microsoft-flow"></a>Fejlen "godkendelse mislykkedes" i Microsoft flow
+# <a name="fix-authentication-failed-errors-in-microsoft-flow"></a>Ret "Godkendelse mislykkedes"-fejl i Microsoft Flow
 
-Hvis du får fejlmeddelelsen "godkendelse mislykkedes", når du forsøger at logge på Microsoft flow, skyldes det, at flow service er deaktiveret i Azure Active Directory. Hvis du vil have mere at vide om og hvordan du kan rette fejlen, kan [du se du kan ikke logge på Microsoft flow, og du får fejlmeddelelsen "godkendelse mislykkedes"](https://support.microsoft.com/help/4316891).
+Hvis du får fejlmeddelelsen "Godkendelsen mislykkedes", når du forsøger at logge på Microsoft Flow, skyldes det, at Flow er deaktiveret i Azure Active Directory. Hvis du vil have mere at vide og se, hvordan du retter fejlen, skal du se Du kan ikke logge på Microsoft Flow og [fejlmeddelelsen "Godkendelsen mislykkedes".](https://support.microsoft.com/help/4316891)

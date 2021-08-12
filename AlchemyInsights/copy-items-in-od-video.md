@@ -1,5 +1,5 @@
 ---
-title: Kopiér filer til OneDrive
+title: Kopiere filer til OneDrive
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "7542"
 - "5300013"
-ms.openlocfilehash: 7f203dd3a0858d0e4eb78b37522b1f6c6c4d6a8a
-ms.sourcegitcommit: a4d95e7612c05a1f90cc6c68c64aee769df89c4f
+ms.openlocfilehash: 82bdd22545d93f8a03d84eafc23d2f1bd298e8bd806b06fd7ec9450943bcfb8d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/05/2020
-ms.locfileid: "49583397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929461"
 ---
-# <a name="copy-files-to-onedrive"></a>Kopiér filer til OneDrive
+# <a name="copy-files-to-onedrive"></a>Kopiere filer til OneDrive
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSH?autoplay=false]
 
-Du kan kopiere filer fra webbrowser til forskellige placeringer i OneDrive.
+Du kan kopiere filer fra webbrowseren til forskellige placeringer inden for OneDrive.
 
-Hvis du vil have mere at vide, skal du se [flytte eller kopiere](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
+Du kan få mere at vide [under Flyt eller kopiér](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)

@@ -1,5 +1,5 @@
 ---
-title: Løs OneDrive-synkroniseringsproblemer med SharePoint
+title: Løs OneDrive-synkronisering problemer med SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5800003"
 - "5724"
-ms.openlocfilehash: 7b9b496534fbff77776c935d401d49208b0355b8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fa08fd39f625c902b5bf2b36a56b46fef48c49a5765fbd2dbd23dc5b820c5c9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913817"
 ---
-# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Løs OneDrive-synkroniseringsproblemer med SharePoint
+# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Løs OneDrive-synkronisering problemer med SharePoint
 
-Hvis OneDrive ikke synkroniseres med SharePoint, som du eller dine brugere forventer, kan du læse Løs problemer med [SharePoint Online-synkronisering](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US) for at foretage fejlfinding.
+Hvis OneDrive ikke synkroniseres med andre SharePoint som du eller dine brugere forventer, kan du læse Løs problemer [med SharePoint Online-synkronisering](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US) for at foretage fejlfinding.
