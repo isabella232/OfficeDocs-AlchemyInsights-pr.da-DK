@@ -9,39 +9,39 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: fc17d73ccdddab7e1c9e7693f6715b38efef7f56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 63a435c63019a421ca440dc7eeb58ccb3a90a5786118eb96a081f60a10e7d0b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740109"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910612"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Konfiguration af dit O365 Business Essentials-abonnement
 
-Opret Microsoft 365-konti, og Tilføj dit domæne
+Opret Microsoft 365-konti, og tilføj dit domæne
   
-- I dette trin skal du bruge konfigurationsguiden til at oprette Microsoft 365-konti til dine brugere og tilføje dit eget domæne. Med guiden kan du tilpasse alles bruger-ID og mail til din virksomhed, som [Rob@contoso.com](mailto:rob@contoso.com).
+- I dette trin skal du bruge konfigurationsguiden til at oprette Microsoft 365 konti til dine brugere og tilføje dit eget domæne. Guiden gør det muligt at tilpasse alle brugeres bruger-id og mail til din virksomhed, [f.eks. rob@contoso.com](mailto:rob@contoso.com).
     
-- Gå til [Microsoft 365 administration](https://login.partner.microsoftonline.cn/).
+- Gå til [Microsoft 365 Administration.](https://login.partner.microsoftonline.cn/)
     
-- Vælg **gå til konfiguration**for at starte guiden. Hvis du vil have mere at vide, skal du se [tilføje et domæne til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
+- Vælg Gå til konfiguration for **at starte guiden.** Du kan få mere at vide [under Føj et domæne til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Importér mail
   
-- Flyt dine eksisterende mails og kontakter fra andre mail systemer til din Microsoft 365-postkasse, så du kan se det hele ét sted. [Overfør mail og kontakter til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin)for overførsels muligheder.
+- Flyt dine eksisterende mails og kontakter fra andre mailsystemer til din Microsoft 365 postkasse, så du kan se det hele ét sted. Se, hvordan du gør [i Overfør mail og kontakter Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Forbind mailkonti
     
-  - Ud over at administrere din mail i Outlook kan du også oprette forbindelse til andre mailkonti i Outlook, f. eks. dine Gmail-og Yahoo-konti. Dette gør det muligt at administrere alle dine mails på ét sted. Du kan oprette forbindelse mellem op til 5 mailkonti i Outlook. Se [Opret forbindelse til mailkonti i Outlook på internettet (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) for at få flere oplysninger. 
+  - Ud over at administrere din mail i Outlook, kan du forbinde andre mailkonti til Outlook, f.eks dine Gmail- og Yahoo-konti. Dette giver dig mulighed for at administrere alle dine mails på ét sted. Du kan forbinde op til 5 mailkonti Outlook. Se [Forbind mailkonti i Outlook på internettet (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) for at få mere at vide. 
     
-Installere Skype for Business
+Installer Skype for Business
   
-- Du og dine teammedlemmer kan [downloade og installere Skype for Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) på alle dine pc'er, Mac-computere, tablets og telefoner. Derefter vil du kunne se onlinestatus for dine kollegaer, starte chatbeskeder fra andre Office-programmer og være vært for video møder med op til 250 personer. 
+- Du og dine teammedlemmer [kan hente og installere Skype for Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) på alle jeres pc'er, Mac-computere, tablets og telefoner. Derefter vil du kunne se onlinestatus for dine kollegaer, starte chat fra andre Office-programmer og være vært for videomøder med op til 250 personer. 
     
-Gem filer online
+Store filer online
   
-- Hvis du vil vide, hvilke lagerplaceringer der er bedst for din virksomhed, kan du se, [hvor du kan gemme filer i Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Alle får automatisk en **OneDrive** -lagerplacering i skyen, når du opretter Microsoft 365-konti til dem. Med OneDrive kan du få adgang til filer på tværs af dine computere, telefoner og tablets. 
+- Hvis du vil vide, hvilken lagerplacering der passer bedst til din virksomhed, skal [du se Hvor kan du gemme filer i Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Alle får automatisk **OneDrive** lagerplads i skyen, når du opretter Microsoft 365-konti til dem. Med OneDrive kan du få adgang til filer på tværs af dine computere, telefoner og tablets. 
     
-Du kan finde detaljerede trin til konfiguration i [denne artikel](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
+Detaljerede trin til konfigurationen kan findes i [denne artikel.](https://docs.microsoft.com/microsoft-365/admin/setup/setup)
   
 

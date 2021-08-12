@@ -1,5 +1,5 @@
 ---
-title: Opdater REKVISITIONsnummer i Azure EA Portal – anbefalede trin
+title: Opdater PO-nummer i Azure EA-portalen – anbefalede trin
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007172"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Opdater REKVISITIONsnummer i Azure EA Portal – anbefalede trin
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Opdater PO-nummer i Azure EA-portalen – anbefalede trin
 
-Ændringer i momsnummeret eller indkøbsordrenummeret træder i kraft på den næste faktura. Hvis du vil ændre moms-ID eller REKVISITIONsnummer til en faktura, der allerede er oprettet, skal du åbne en supportanmodning. Hvis du har problemer, der er relateret til dit moms-ID, skal du kontakte din Microsoft-licens partner (partner eller software Advisor). De kontakter (ROC) for at få spørgsmål vedrørende dit moms-ID. 
+Ændringer i moms-/moms-id'et eller købsordrenummeret træder i kraft på den næste faktura. Hvis du vil ændre moms-/moms-id'et eller købskøbsnummeret til en faktura, der allerede er blevet genereret, skal du åbne en supportbillet. Hvis du har problemer i forbindelse med dit moms-/moms-id, skal du kontakte din Microsoft-licenspartner (partner eller softwarerådgiver). De vil kontakte Det Regionale Operations Center (ROC), hvis du har spørgsmål vedrørende dit moms-/moms-id. 
 
-Azure EA-portalen opretter automatisk et standard-indkøbsordrenummer, medmindre EA administrator angiver et før fakturadatoen. Som EA-administrator (direkte registrering)/partner administrator (indirekte tilmelding) kan du opdatere REKVISITIONs nummeret på Azure EA-portalen. Du kan når som helst opdatere REKVISITIONs nummeret, før den faktura, der genereres for den aktuelle faktureringsperiode, og indtil syv dage efter modtagelsen af mailen for den automatiske faktura besked.    
+Azure EA-portalen opretter automatisk et standard po-nummer, medmindre EA-administratoren angiver et før fakturadatoen. Som EA-administrator (direkte registrering) /partneradministrator (indirekte registrering) kan du opdatere IP-nummeret på Azure EA-portalen. Du kan når som helst opdatere købsnummeret, før fakturaen genereres for den aktuelle faktureringsperiode og op til syv dage efter modtagelse af mailen med den automatiske fakturameddelelse.    
 
-Sådan opdateres REKVISITIONs nummeret:
+Sådan opdaterer du IP-nummeret:
 
-1. Log på [EA Portal](https://ea.azure.com/).
-1. Klik på **rapporter** i venstre rude.
-1. Øverst på siden skal du klikke på **forbrugs oversigt** og vælge Vælg den relevante periode på rullelisten.
-1. Klik på **Vis/Rediger indkøbsordre numre**.
-1. Angiv det nye indkøbsordrenummer, og klik på **Gem**.
+1. Log på [EA-portalen](https://ea.azure.com/).
+1. I venstre rude skal du klikke på **Rapporter**.
+1. Øverst på siden skal du klikke på **Brugsoversigt** og vælge den relevante periode på rullelisten.
+1. Klik **på Vis/rediger I/T-numre**.
+1. Angiv det nye I/S-nummer, og klik **på Gem.**
 
 **Anbefalede dokumenter** 
 
-- [Azure Enterprise-tilmeldings fakturaer](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Forstå din Azure Enterprise Agreement-faktura](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Azure Enterprise-registreringsfakturaer](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Forstå din Azure Enterprise Agreement regning](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
 - [Forstå Azure Enterprise-roller](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Opret en anden virksomhedsadministrator (EA admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Oprette en anden virksomhedsadministrator (EA-administrator)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

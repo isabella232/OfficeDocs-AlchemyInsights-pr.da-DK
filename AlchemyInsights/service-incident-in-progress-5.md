@@ -1,5 +1,5 @@
 ---
-title: Tjeneste hændelse i gang
+title: Tjenestehændelse er i gang
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -19,19 +19,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea17addde1b98b6f8b33909e126078266992a55e7eb6932443fc8f9d213c04a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061354"
 ---
-# <a name="service-incident-in-progress"></a>Tjeneste hændelse i gang
+# <a name="service-incident-in-progress"></a>Tjenestehændelse er i gang
 
-Du kan være berørt af en tjeneste hændelse eller en meddelelse, der i øjeblikket undersøges. Du kan kontrollere den seneste status ved at gå til siden [tjenestetilstand](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Du kan blive påvirket af en tjenestehændelse eller rådgivning, der i øjeblikket undersøges. Du kan kontrollere den seneste status ved at gå til [siden Tjenestetilstand.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Du kan finde en oversigt over denne hændelse under:
+For at gøre det nemmere kan du finde en oversigt over denne hændelse nedenfor:
   
 > **Hændelsesnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Effekt Beskrivelse: {ImpactDescription}
+> Beskrivelse af påvirkning: {ImpactDescription}

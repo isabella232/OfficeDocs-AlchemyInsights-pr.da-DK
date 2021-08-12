@@ -1,5 +1,5 @@
 ---
-title: Tilføje betalingsmetode – anbefalede trin
+title: Tilføj betalingsmetode – anbefalede trin
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004284"
 - "7649"
-ms.openlocfilehash: 51045d4b35833ed72097d75ff1720a9d2604d196
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 7595b5676e3253600536d226774d20e5c5750d7c88f3b76d82d82c320fb295a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721805"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935763"
 ---
-# <a name="add-payment-method---recommended-steps"></a>Tilføje betalingsmetode – anbefalede trin
+# <a name="add-payment-method---recommended-steps"></a>Tilføj betalingsmetode – anbefalede trin
 
-Du skal have både rettighederne for en kontoadministrator og ejeren af abonnementet til at annullere et abonnement på Azure-portalen. 
+Du skal have både en kontoadministrators og abonnementsejerens rettigheder for at annullere et abonnement i Azure-portalen. 
 
-Hvis du vil annullere et abonnement på Azure-portalen, skal du klikke på [Annuller Azure-abonnement](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) , så du kan omdirigere dig til **abonnements** siden i Azure-portalen for at vælge og annullere abonnementet. 
+Hvis du vil annullere et abonnement i Azure-portalen,  skal du klikke på Annuller [Azure-abonnement,](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) hvilket omdirigerer dig til abonnementssiden i Azure-portalen for at vælge og annullere abonnementet. 
 
 **Hvad sker der, når jeg annullerer abonnementet?** 
 
-Når abonnementet annulleres, standses fakturering med det samme. Det kan dog tage op til 10 minutter, før Annulleringsstatus vises i Azure-portalen. Microsoft sender den endelige faktura på den næste måneds faktura for et delvist forbrug eller køb. De tjenester, der kører i abonnementet, er deaktiveret, når du annullerer abonnementet. Det betyder, at de virtuelle maskiner er blevet tildelt, midlertidige IP-adresser frigøres, og lageret bliver **skrive** beskyttet. 
+Når abonnementet annulleres, stoppes fakturering øjeblikkeligt. Det kan dog tage op til 10 minutter, før annulleringsstatussen vises i Azure-portalen. Microsoft sender den endelige faktura den næste måneds faktura for delvis forbrug eller køb. De tjenester, der kører i abonnementet, deaktiveres ved annullering af abonnementet. Det betyder, at de virtuelle maskiner er allokerede, midlertidige IP-adresser frigøres og lagerplads bliver **skrivebeskyttet**. 
 
-Når abonnementet er blevet annulleret, venter Microsoft på 30-90 dage, før dataene slettes permanent, hvis du har brug for at få adgang til det, eller du har ændret mening. Microsoft er ikke ansvarlig for at beholde dataene. Du kan finde flere oplysninger i [Microsoft-sikkerheds center – sådan administrerer vi dine data](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Når abonnementet annulleres, venter der 30-90 dage, før dataene slettes permanent, hvis du har brug for at få adgang til dem, eller du skifter mening. Microsoft opkræver ikke betaling for at opbevare dataene. Du kan finde flere oplysninger i [Microsoft Center for sikkerhed og beskyttelse – Hvordan vi administrerer dine data.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
 
 
 
