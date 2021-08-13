@@ -1,5 +1,5 @@
 ---
-title: Undertrykkelse af streamet støj
+title: Undertrykke streamstøj
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6068"
 - "9003225"
-ms.openlocfilehash: 21db226e971978239c9496898a6855988149fe3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49a39adeb38f9508004853713cac68af4aec90793b74ae66c603ad6fb62c994
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991313"
 ---
-# <a name="stream-noise-suppression"></a>Undertrykkelse af streamet støj
+# <a name="stream-noise-suppression"></a>Undertrykke streamstøj
 
-Lyddæmpelse, når de er slået til af video ejere, giver brugerne mulighed for at isolere tale fra andre lyde og musik under afspilningen. Lydundertrykkelse kan slås til eller fra for hver af de nyligt overførte videoer. Du kan finde flere oplysninger i [lydundertrykkelse](https://docs.microsoft.com/stream/noise-suppression).
+Hvis lydundertrykning er slået til af videoejere, kan brugerne isolere tale fra andre lyde og musik under afspilningen. Du kan slå støjovertrædelse til eller fra for hver video, der netop er overført. Du kan få mere at vide [under Støjundertrykning.](https://docs.microsoft.com/stream/noise-suppression)

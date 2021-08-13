@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 4d55866700b9b8494f1f692cd3b865116b96a1bc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af7085890d295cf0c41e11aaf18e404313413100cb8a1134bfac051d5fa26996
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926239"
 ---
-# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Skjul Microsoft 365-gruppe fra adresselisten (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Skjule Microsoft 365 gruppe fra adresselisten (GAL)
 
-Hvis du vil skjule en Microsoft 365-gruppe fra adresselisterne (GAL) i Exchange-klienter (f.eks. Outlook eller OWA), skal du bruge følgende kommando i EXO-shell:
+Hvis du vil skjule Microsoft 365 gruppe fra adresselisterne (GAL) Exchange-klienter (f.eks. Outlook eller OWA), skal du bruge følgende kommando i EXO shell:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Hvis du vil skjule, at Microsoft 365-gruppen kan ses af Exchange-klienter, skal du bruge følgende kommando i EXO-shell:
+Hvis du vil skjule Microsoft 365 gruppe, så den ikke er synlig Exchange kunder, skal du bruge følgende kommando i EXO-shell:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`
