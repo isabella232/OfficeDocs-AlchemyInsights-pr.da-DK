@@ -1,5 +1,5 @@
 ---
-title: AD Connect-brugere og gruppe synkroniseringsproblemer
+title: AD Forbind problemer med synkronisering af brugere og grupper
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6119"
 - "9003245"
-ms.openlocfilehash: 2d37834e351bc752884d61d927e5b04751d51b9f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d23046cc4c68e82d1ffff128b4b60928239f28c6801f8c0c9fe01f0db063b0e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937059"
 ---
-# <a name="ad-connect-users-and-group-sync-issues"></a>AD Connect-brugere og gruppe synkroniseringsproblemer
+# <a name="ad-connect-users-and-group-sync-issues"></a>AD Forbind problemer med synkronisering af brugere og grupper
 
-Hvis du har problemer med at synkronisere en Azure Active Directory-gruppe (Azure AD) med Azure AD Connect, skal du se [Azure ad Connect Sync: forstå brugere, grupper og kontakter](https://docs.microsoft.com/azure/active-directory/hybrid/concept-azure-ad-connect-sync-user-and-contacts).
+Hvis du har problemer med at synkronisere en Azure Active Directory-gruppe (Azure AD) med Azure AD Forbind, skal du se [Azure AD Forbind-synkronisering:](https://docs.microsoft.com/azure/active-directory/hybrid/concept-azure-ad-connect-sync-user-and-contacts)Forstå brugere, grupper og kontakter.

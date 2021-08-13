@@ -1,5 +1,5 @@
 ---
-title: Konfiguration af SharePoint Online eller OneDrive '
+title: SharePoint Online eller OneDrive "Konfigurerer"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770986"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093592"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>Konfiguration af SharePoint Online eller OneDrive "
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online eller OneDrive "Konfigurerer"
 
-Når en bruger føjes til en eksisterende lejer, kan vedkommende se de SharePoint Online-eller OneDrive for Business-ikoner, der er angivet som "konfigurere" eller "vi arbejder stadig på at få filer konfigureret", indtil klargøringsprocessen er fuldført. Følg denne [vejledning til fejlfinding](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) for at få hjælp.
+Når en bruger føjes til en eksisterende lejer, får brugeren muligvis vist ikonerne SharePoint Online eller OneDrive for Business som "Konfiguration" eller "Vi arbejder stadig på at få konfiguration af filer", indtil klargøringsprocessen er fuldført. Følg denne [fejlfindingsvejledning](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) for at få hjælp.
 
-Hvis der er gået mere end 24 timer, siden du første gang fik dette problem, skal du logge en support sag.
+Hvis der er gået mere end 24 timer, siden du så problemet første gang, skal du logge en supportsag.
 
-Vi forstår, at 24 timer kan virke som lang tid. I mange tilfælde arbejder vi allerede på en løsning. Giv os mindst 24 timer for at fuldføre en løsning.
+Vi forstår, at 24 timer kan se ud som lang tid. I mange tilfælde arbejder vi allerede på en løsning. Giv os mindst 24 timer til at fuldføre en løsning.

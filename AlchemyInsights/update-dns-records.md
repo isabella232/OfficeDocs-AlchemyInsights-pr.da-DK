@@ -12,16 +12,16 @@ ms.custom:
 - "39"
 - "41"
 - "100001"
-ms.openlocfilehash: de163d4385249e49db76de8997a7f8f3fb3cd198
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3528176b79400ae40ae25935d554666696751fcbce688a9f4edcb926e777fb7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007532"
 ---
 # <a name="update-dns-records"></a>Opdater DNS-poster
 
-Det er vigtigt at konfigurere dine DNS-poster for at få dit abonnement til at arbejde med dit brugerdefinerede domænenavn. Brug nedenstående links til at tilføje eller opdatere dine DNS-poster.
+Det er vigtigt, at du konfigurerer dine DNS-poster for at få dit abonnement til at fungere med dit brugerdefinerede domænenavn. Brug nedenstående links til at tilføje eller opdatere dine DNS-poster.
   
-- [Oprette DNS-poster hos en hvilken som helst DNS-værtsudbyder](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [Oprette DNS-poster for enhver DNS-udbyder](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
 - [Tilføj eller rediger brugerdefinerede DNS-poster](https://docs.microsoft.com/microsoft-365/admin/dns/add-or-edit-custom-dns-records)
