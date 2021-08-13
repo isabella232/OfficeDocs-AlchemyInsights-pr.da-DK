@@ -1,5 +1,5 @@
 ---
-title: Outlook accepterer ikke din Gmail-adgangskode
+title: Outlook Accepterer ikke adgangskoden til din Gmail
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924649"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook accepterer ikke din Gmail-adgangskode
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook ikke din Gmail-adgangskode
 
-Vi anbefaler, at du aktiverer to-Factor authentication og bruger en appadgangskode.
+Vi anbefaler, at du slår tofaktorgodkendelse til og bruger en appadgangskode.
 
-Hvis du vil aktivere to-faktor godkendelse og få en appadgangskode, skal du følge disse trin.
+Hvis du vil aktivere tofaktorgodkendelse og hente en appadgangskode, skal du følge disse trin.
 
-1. Gå til Gmail fra din browser, og klik på **Google Apps** -ikon i øverste højre hjørne af skærmen.
-1. Klik på **sikkerhed** til venstre.
-1. Under signering til Google, hvis **totrinsbekræftelse** er **slået fra**, skal du klikke på **>** ud for **fra** for at slå den til. Ellers skal du gå videre til trin 4.
-1. På det første skærmbillede skal du klikke på **Fortsæt**.
-1. Skriv din Gmail-adgangskode, hvis du bliver bedt om det, og klik derefter på **næste**.
-1. Indtast dit telefonnummer, og vælg, om du vil modtage bekræftelses koderne via tekst besked eller et telefonopkald.
-1. Klik på **næste**.
-1. Indtast den kode, du har modtaget, og klik på **næste**.
-1. Klik på **Aktivér** for at afslutte konfigurationen af 2 trin kontrol.
-1. Gå tilbage til det forrige skærmbillede ved at klikke på venstre pil øverst på skærmen ved siden af **totrinsbekræftelse**.
-1. Vælg **>** yderst til højre for **appen adgangskoder** .
-1. Skriv din Google-adgangskode, og klik derefter på **Log på**. Nederst på næste skærmbillede skal du klikke på **mail** og **Windows-computer** fra rullelisterne og derefter klikke på **Generer**.
-Google viser en appadgangskode til dig. 
-13. Kopiér denne adgangskode (uden mellemrum), og Angiv denne adgangskode, når Outlook beder dig om en adgangskode.
+1. Gå til Gmail fra din browser, og **klik på Ikonet Google-apps** i øverste højre hjørne af skærmen.
+1. Til venstre skal du klikke på **Sikkerhed.**
+1. Hvis Totrinsbekræftelse er slået FRA under **Log på** Google, skal du **klikke** på ud for **>** FRA **for** at slå den **TIL.** Ellers skal du gå til trin 4.
+1. På det første skærmbillede skal du klikke på **FORTSÆT.**
+1. Hvis du bliver bedt om det, skal du angive din Gmail-adgangskode og derefter klikke **på NÆSTE.**
+1. Angiv dit telefonnummer, og vælg, om du vil modtage dine bekræftelseskoder via SMS eller via et telefonopkald.
+1. Klik **på NÆSTE.**
+1. Angiv den kode, du har modtaget, og klik **på NÆSTE.**
+1. Klik **på SLÅ TIL** for at afslutte konfigurationen af totrinsbekræftelsen.
+1. Gå tilbage til det forrige skærmbillede ved at klikke på venstre pil øverst på skærmen ud for **Totrinsbekræftelse.**
+1. Vælg i **>** højre side af linjen **Appadgangskoder.**
+1. Angiv din adgangskode til Google, og klik derefter **på Log på**. Nederst på næste skærmbillede skal du klikke på **Mail** **og Windows Computer** på rullelisterne, og derefter skal du klikke på **Generér.**
+Google viser dig en appadgangskode. 
+13. Kopiér adgangskoden (uden mellemrum), og angiv denne adgangskode, når Outlook beder dig om en adgangskode.
 
-Hvis du vil have mere at vide, skal du se [føje en Gmail-konto til Outlook – Outlook (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Du kan finde flere oplysninger [i Føje en Gmail-konto Outlook - Outlook (microsoft.com).](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)

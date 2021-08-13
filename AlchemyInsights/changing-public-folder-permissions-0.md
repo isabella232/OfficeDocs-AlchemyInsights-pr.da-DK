@@ -1,5 +1,5 @@
 ---
-title: Ændring af tilladelser til offentlige mapper
+title: Ændre tilladelser for offentlig mappe
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,27 +12,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c2fb89f8dd256afb7e922ca74976097501173bf605e6c5fccc73019a71edcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950182"
 ---
-# <a name="changing-public-folder-permissions"></a>Ændring af tilladelser til offentlige mapper
+# <a name="changing-public-folder-permissions"></a>Ændre tilladelser for offentlig mappe
 
-Tilladelser til offentlige mapper kan ændres af brugere og administratorer i Outlook. Administratorer kan også kontrollere tilladelser fra Exchange Admin Center (EAC) ved at gøre følgende:
+Tilladelser for offentlige mapper kan ændres af brugere og administratorer i Outlook. Administratorer kan også styre tilladelser fra Exchange Administration (EAC) ved at gøre følgende:
   
-1. I Microsoft 365 administration skal du gå til **administration af administrator** \> **Center**.
+1. I Microsoft 365 Administration skal du **gå til Exchange** \> .
 
-2. Vælg **offentlige mapper**.
+2. Vælg **Offentlige mapper**.
 
-3. Derfra kan du ændre tilladelser for individuelle offentlige mapper ved at tildele sikkerhedsgrupper til tilladelser. Hvis en bruger vil ændre tilladelser for offentlige mapper, skal brugeren have ejer rettigheder til mappen.
+3. Derfra kan du ændre tilladelser for individuelle offentlige mapper ved at tildele sikkerhedsgrupper til tilladelser. Hvis en slutbruger vil ændre tilladelser for offentlige mapper, skal brugeren have ejerrettigheder i mappen.
 
-Følg fremgangsmåden, der er beskrevet i, [hvordan du kan diagnosticere og løse tilladelser til offentlige mapper](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) for at foretage fejlfinding af problemer med offentlige mappetilladelser.
+Følg fremgangsmåden beskrevet i Sådan diagnosticerer [og løser du problemer](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) med tilladelser til offentlige mapper for at foretage fejlfinding af problemer med tilladelser til offentlige mapper.
 
-**Bemærk**! der kan være flere kendte problemer, du kan støde på, når du forsøger at ændre tilladelser for offentlige mapper. Du kan finde flere oplysninger i følgende artikler.
+**Bemærk!** Der kan opstå flere kendte problemer, når du forsøger at ændre tilladelser på offentlige mapper. Se følgende artikler for at få flere oplysninger.
 
-- [Kan ikke anvende tilladelser til undermapper i offentlige mapper i EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [Tilladelser kan ikke anvendes på undermapper i offentlige mapper i EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- [Fejlmeddelelsen "postkassen blev ikke fundet i det lokale område", når du får adgang til offentlige mapper](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- [Fejlmeddelelsen "Postkassen findes ikke i den lokale skov", når du får adgang til offentlige mapper](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)

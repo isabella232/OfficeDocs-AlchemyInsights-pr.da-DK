@@ -1,5 +1,5 @@
 ---
-title: POP-, IMAP-og SMTP-indstillinger i Outlook på internettet
+title: POP-, IMAP- og SMTP-indstillinger i Outlook på internettet
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,23 +10,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: a3f717754a5ebe5c73624553521241d57b38a7da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2932a7cf3c6681e00455f8292716b46d911010a4d2c84d519f90b2ffa971b35f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960973"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP-& SMTP-indstillinger for Outlook på internettet
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP-, IMAP& SMTP-indstillinger for Outlook på internettet
 
-Hvis du vil føje din Microsoft 365-konto til en anden mail-app, der understøtter POP, IMAP eller SMTP, er her de manuelle serverindstillinger, du skal bruge:
+Hvis du vil føje din Microsoft 365-konto til en anden mailapp, der understøtter POP, IMAP eller SMTP, skal du bruge følgende manuelle serverindstillinger:
   
-- **IMAP-servernavn:** Outlook.office365.com
+- **Navn på IMAP-server:** outlook.office365.com
 - **IMAP-port:** 993
 - **IMAP-krypteringsmetode:** SSL/TLS
-- **Pop-servernavn:** Outlook.office365.com  
-- **Pop-Port:** 995  
-- **Pop-krypteringsmetode:** SSL/TLS  
-- **SMTP-servernavn:** SMTP.office365.com
+- **POP-servernavn:** outlook.office365.com  
+- **POP-port:** 995  
+- **POP-krypteringsmetode:** SSL/TLS  
+- **SMTP-servernavn:** smtp.office365.com
 - **SMTP-port:** 587
 - **SMTP-krypteringsmetode:** STARTTLS

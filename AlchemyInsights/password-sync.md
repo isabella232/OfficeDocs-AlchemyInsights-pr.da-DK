@@ -1,5 +1,5 @@
 ---
-title: Sådan kontrolleres status for synkronisering af adgangskoder
+title: Sådan kontrolleres synkroniseringsstatus for adgangskoder
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960865"
 ---
 # <a name="enable-password-sync"></a>Aktivér synkronisering af adgangskoder
 
-1.  Vælg **DirSync-status** på startsiden for Microsoft 365 administration. 
+1.  Vælg **DirSync-status** Microsoft 365 Administration startsiden. 
     
-     *Alternativt kan du gå til **brugere** , der er \> **aktive brugere**, og på siden aktive brugere vælge **flere** \> **Katalogsynkronisering.*** 
+     *Alternativt kan du gå til Aktive **brugere ,** og på siden Aktive brugere skal du vælge Mere \>   \> **katalogsynkronisering.*** 
     
-2. I ruden Katalogsynkronisering skal du vælge **gå til administration af DirSync**. 
+2. I ruden Katalogsynkronisering skal du **vælge Gå til administration af DirSync.** 
     
-3. Nu får du vist din status, og foretager ændringer:
+3. Nu kan du se din status og foretage ændringer:
     
-    **Synkronisering af adgangskoder aktiveret:** (sand eller falsk). Angiver, om du har aktiveret synkronisering af adgangskoder mellem det lokale miljø og din lejer. 
+    **Synkronisering af adgangskoder er aktiveret:** (Sandt eller falsk). Angiver, om synkronisering af adgangskoder er aktiveret mellem den lokale lejer og din lejer. 
     
-    **Seneste synkronisering af adgangskoder:** (sidste gang adgangskode synkronisering blev kørt). Dette viser en advarsel og et link til et fejlfindingsværktøj, hvis den seneste synkronisering var mere end tre dage siden. 
+    **Sidste synkronisering af adgangskode:** (Sidste gang synkronisering af adgangskoder kørte). Dette viser en advarsel og et link til et fejlfindingsværktøj, hvis den seneste synkronisering skete for mere end tre dage siden. 
     
 
