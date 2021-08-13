@@ -11,24 +11,24 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d07d8e9206b4b7d0756277409d48b0cd299e5cf0fd7261e6c0ad75dfe8648f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957427"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Hvornår ændres min profil til at blive synkroniseret med SharePoint-brugerprofilprogrammet?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Hvornår synkroniseres min profil med SharePoint brugerprofilprogrammet?
 
-Synkronisering af profilbilleder i SharePoint Online kræver en brugerhandling for at påbegynde synkroniseringen af deres billede. Der er ingen automatisk synkronisering af billeder til SharePoint Online. SharePoint Online synkroniserer kun fotos fra Exchange Online, ikke Azure Active Directory.
+Synkronisering af profilbillede SharePoint Online kræver en brugers handling for at starte synkroniseringen af deres billede. Der er ingen automatisk synkronisering af fotos SharePoint Online. SharePoint Online synkroniserer kun fotos fra Exchange Online, ikke Azure Active Directory.
 
-Hvis en bruger aldrig har udført en handling, der beder om en synkronisering, eller hvis vedkommende har opdateret sit profilbillede, og den nye ikke vises i SharePoint Online, skal brugeren muligvis bede den om at synkronisere. Sådan gør du:
+Hvis en bruger aldrig har udført en handling, der ville spørge om en synkronisering, eller de har opdateret deres profilbillede, og det nye billede ikke vises i SharePoint Online, skal brugeren muligvis bede den om at synkronisere. Sådan gør de:
 
-1. Åbn en webbrowser i en privat eller Incognito-session, og [gå til Office.com](https://www.office.com/).
+1. Åbn en webbrowser i en In-Private- eller Incognito-session, [og gå til Office.com](https://www.office.com/).
 
-2. Log på med deres arbejds-eller skolekonto, og klik på sidefeltet OneDrive eller SharePoint.
+2. Log på med deres arbejds- eller skolekonto, og klik på OneDrive eller SharePoint.
 
-3. [Føj deres profilfoto til Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+3. [Føj deres profilbillede til Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-[Oplysninger om synkronisering af profilbilleder i Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[Oplysninger om synkronisering af profilbillede Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

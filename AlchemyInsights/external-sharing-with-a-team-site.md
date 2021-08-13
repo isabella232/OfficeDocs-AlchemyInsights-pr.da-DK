@@ -1,5 +1,5 @@
 ---
-title: Ekstern deling med et team websted
+title: Ekstern deling med et teamwebsted
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977687"
 ---
-# <a name="external-sharing-with-a-team-site"></a>Ekstern deling med et team websted
+# <a name="external-sharing-with-a-team-site"></a>Ekstern deling med et teamwebsted
 
-Hvis du vil aktivere ekstern bruger deling for team websteder, skal du følge disse trin: 
+Hvis du vil aktivere ekstern brugerdeling for teamwebsteder, skal du følge disse trin: 
   
-1. Klik på **aktive websteder**i den nye SharePoint Administrationscenter.
+1. I den nye SharePoint Administration skal du klikke på **Aktive websteder**.
   
-2. Vælg et websted, der har en skabelon for **team websted** . 
+2. Vælg et websted, der indeholder en **teamwebstedsskabelon.** 
   
-3. Vælg knappen **deling** fra den øverste menu. 
+3. Vælg knappen **Deling** i den øverste menu. 
   
- **Bemærk**: når der oprettes et moderne team websted, vil indstillingen for ekstern deling blive indstillet til nye og eksisterende eksterne brugere. 
+ **Bemærk!** Når der oprettes et moderne teamwebsted, vil indstillingen Ekstern deling som standard være angivet til Nye og eksisterende eksterne brugere. 
   
- **Bemærk:** Hvis du har valgt mere end ét websted, vil knappen **deling** være deaktiveret. Vælg kun ét websted. 
+ **Bemærk!** Hvis du har markeret mere end ét websted, **vises knappen** Deling som deaktiveret. Vælg kun ét websted. 
   
 

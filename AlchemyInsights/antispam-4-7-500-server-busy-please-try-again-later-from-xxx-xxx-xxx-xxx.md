@@ -1,5 +1,5 @@
 ---
-title: 1050 spam 4.7.500-serveren er optaget. Prøv igen senere fra [XXX.XXX.XXX.XXX]
+title: 1050 Antispam 4.7.500 Server optaget. Prøv igen senere fra [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 76182c54fe16a01843db02f66dd7f94b4514d31e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84a5dfccd7ec3e4640c728ab1740220309a0d97b61157d0fd4e463ed95aef0d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717535"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932631"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 server er optaget, prøv igen senere
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Server optaget. Prøv igen senere
 
-Denne fejl opstår, når mængden af mail trafik fra kildens IP-adresse overskrider grænsen, der er baseret på omdømmet (eller manglende omdømme) for kildens IP-adresse.
+Denne fejl opstår, når mængden af mailtrafik fra kilde-IP-adressen overskrider grænsen baseret på omdømmet (eller manglende ry) for kilde-IP-adressen.
 
-Blokering af mails fra kilde-IP-adressen udløber inden for en time. Hvis kilde-IP-adressen er en lokal mailserver, der tilhører dig, skal du kontrollere konfigurationen af mail flow forbindelsen. Hvis problemet fortsætter for mere end en time, skal du kontakte support for at anmode om en undtagelse for kildens IP-adresse.
+Blokering af mail fra kilde-IP-adressen udløber inden for en time. Hvis kilde-IP-adressen er en lokal mailserver, der tilhører dig, skal du kontrollere konfigurationen af mailflow-forbindelsen. Hvis funktionsmåden fortsætter i mere end en time, skal du kontakte support for at anmode om en undtagelse for kilde-IP-adressen.

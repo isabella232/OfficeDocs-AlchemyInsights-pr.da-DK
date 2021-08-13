@@ -1,5 +1,5 @@
 ---
-title: 1385 – Office-365-Alert-Policies
+title: 1385-Office-365-alert-policies
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,36 +13,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664020"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918353"
 ---
-# <a name="alert-policies"></a>Påmindelses politikker
+# <a name="alert-policies"></a>Beskedpolitikker
 
-Microsoft 365 Security & overholdelses Center indeholder [standard påmindelses politikker](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) , der udløser beskeder for organisationer med et Office 365 Enterprise-eller Office 365 amerikanske--, E3/G3-eller E5/G5-abonnement. Derfor modtager administratorerne en meddelelse om en advarsel via mail, der sendes af Office365Alerts@microsoft.com med en emnelinje, f. eks "en lav prioritet: *navnet på besked politikken*". Påmindelser sendes, når der udløses påmindelser for almindelige aktiviteter, f. eks når brugere:
+Sikkerhedscenteret Microsoft 365 & Compliance Center tilbyder [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) standardbeskedpolitikker, der udløser beskeder til organisationer med et Office 365 Enterprise- eller Office 365 US Government E1/G1-, E3/G3- eller E5/G5-abonnement. Derfor kan administratorer modtage en besked via mail fra Office365Alerts@microsoft.com med en emnelinje som f.eks. "En besked med lav alvorsgrad: navn på *beskedpolitik".* Der sendes beskeder, når der udløses beskeder for almindelige aktiviteter, f.eks. når brugere:
 
 - Opret indbakkeregler, der videresender mail.
 - Tildel tilladelser til deres postkasse.
-- Del eller slet et stort antal filer i SharePoint-fildeling.
+- Del eller slet et stort antal filer i SharePoint fildeling.
 - Opret eDiscovery-søgninger, og eksportér søgeresultater.
 
-Sådan gennemser og reagerer en besked:
+Sådan gennemser og reagerer du på en besked:
 
-1. Gå til [Security & Overholdelsescenter](https://protection.office.com) , og log på.
-2. Klik på **beskeder**  >  **Vis beskeder**.
+1. Gå til [Security & Compliance Center,](https://protection.office.com) og log på.
+2. Klik **på Beskeder** Vis  >  **beskeder**.
 3. Klik på en besked for at få vist en pop op-side med oplysninger om beskeden.
 
-Du kan reagere på en besked, f. eks at [fjerne en mistænkelig indbakke regel](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Du kan også lukke beskeden ved at klikke på **løs** på pop op-siden med advarslen.
+Du kan handle på en besked, f.eks. fjerne [en mistænkelig indbakkeregel](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Eller du kan blot lukke beskeden ved at klikke på **Løs** på pop op-siden med beskeden.
 
-Du kan finde flere oplysninger om, hvordan du konfigurerer og administrerer påmindelses politikker, i  [denne artikel](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+Du kan finde flere oplysninger om konfiguration og administration af beskedpolitikker i [denne artikel.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-**Vigtigt**! besked om påmindelse via mail fra Microsoft vil aldrig bede dig om at gøre følgende:
+**Vigtigt:** Beskeder via mail fra Microsoft beder dig aldrig om at gøre følgende:
 
-- Angive en adgangskode
-- Bekræft sikkerheds detaljerne for din konto
+- Angiv en adgangskode
+- Bekræft sikkerhedsoplysningerne for din konto
 - Godkend dig selv igen
 
-Hvis du modtager en mail som denne, blev den ikke sendt af Microsoft, og det anses for at være en phishing-bedrageri. Hvis det sker, skal du [rapportere det til Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Hvis du modtager en mail som denne, blev den ikke sendt af Microsoft og bør betragtes som forsøg på phishing. Hvis det sker, skal [du rapportere det til Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

@@ -1,5 +1,5 @@
 ---
-title: Slette en bruger og fjerne licenser
+title: Slet en bruger, og fjern licenser
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "7438"
-ms.openlocfilehash: 1867556cc85a0f7ed0c7cdb22061a63d559fbb4b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 7437a9b1ffd483244222c7bda192e25e76efc8088f3bf92facfb27ee5bf0e503
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564543"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948203"
 ---
-# <a name="delete-a-user-and-remove-licenses"></a>Slette en bruger og fjerne licenser
+# <a name="delete-a-user-and-remove-licenses"></a>Slet en bruger, og fjern licenser
 
-Hvis du sletter en bruger, vil du også fjerne tildelingen af brugerlicenser, hvilket gør dem tilgængelige for andre brugere. 
-1. I administration skal du gå til **brugere** > aktive brugere.
-1. Markér den eller de brugere, der skal slettes, og klik på **Slet bruger**.
+Når du sletter en bruger, vil det også fjerne tildelingen af brugerlicenserne, så de bliver tilgængelige for andre brugere. 
+1. I Administration skal du gå til **Brugere >** Aktive brugere.
+1. Vælg den eller de brugere, der skal slettes, og klik **på Slet bruger**.
 
-Du kan finde flere oplysninger i [slette en bruger fra din organisation](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). 
+Du kan få mere at [vide under Slet en bruger fra organisationen.](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) 
