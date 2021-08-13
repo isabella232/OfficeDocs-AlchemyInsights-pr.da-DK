@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680930"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915329"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Kan ikke redigere feltet bemærkninger for en kontakt i Outlook
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Kan ikke redigere notefeltet for en kontakt i Outlook
 
-Dette er et kendt problem. Vi arbejder på at løse det, og du kan se den seneste status ved [ikke at redigere feltet bemærkninger for en kontakt](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+Dette er et kendt problem. Vi arbejder på at løse det, og du kan se den seneste status på Kan ikke [redigere feltet Noter for en kontakt.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**Løsning**: Hvis du bruger en Microsoft 365-eller en Outlook.com-konto, kan du redigere dine kontakter ved hjælp af internettet. Hvis du bruger en IMAP-eller POP-konto, er der ingen løsning tilgængelig på nuværende tidspunkt.
+**Løsning:** Hvis du bruger en Microsoft 365 eller en Outlook.com-konto, kan du redigere dine kontakter ved hjælp af internettet. Hvis du bruger en IMAP- eller POP-konto, findes der ingen løsning på nuværende tidspunkt.

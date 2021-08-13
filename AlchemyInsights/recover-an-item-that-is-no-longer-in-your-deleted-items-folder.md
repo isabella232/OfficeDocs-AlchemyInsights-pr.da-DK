@@ -1,5 +1,5 @@
 ---
-title: Gendanne et element, som ikke længere findes i mappen Slettet post
+title: Gendan et element, der ikke længere findes i mappen Slettet post
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062333"
 ---
-# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Gendanne et element, som ikke længere findes i mappen Slettet post
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Gendan et element, der ikke længere findes i mappen Slettet post
 
-Hvis du ikke kan finde et element i mappen Slettet post, er det næste, du skal søge efter, mappen Genoprettelige elementer. Dette er en skjult mappe, som elementerne flyttes til, når:
-- De bliver slettet fra mappen Slettet post.
-- Mappen Slettet post tømmes enten af dig eller af en politik, der er angivet af din IT-administrator.
-- Du sletter et element ved at markere det og trykke på **Skift + Delete**.
+Hvis du ikke kan finde et element i mappen Slettet post, er det næste sted, du skal lede, i mappen Genoprettelige elementer. Dette er en skjult mappe, som elementer flyttes til, når:
+- De slettes fra mappen Slettet post.
+- Mappen Slettet post tømmes enten af dig eller af en politik, der er angivet af din it-administrator.
+- Du sletter et element ved at markere det og trykke på **Skift+Delete.**
 
-Få vist og gendanne elementer, der er blevet flyttet til mappen Genoprettelige elementer:
-1. Log på Outlook Web App i en browser via den URL-adresse, der blev uddelt af personen, der står for administration af mails i din organisation. Indtast dit Brugernavn og din adgangskode, og vælg derefter **Log på**.
-1. På listen over mailmapper skal du højreklikke på **slettet post** og derefter vælge **Gendan slettede elementer...**.
+Sådan får du vist og gendanner elementer, der er blevet flyttet til mappen Genoprettelige elementer:
+1. Log på Outlook Web App i en browser via den URL-adresse, der blev uddelt af personen, der står for administration af mails i din organisation. Angiv dit brugernavn og din adgangskode, og vælg **derefter Log på**.
+1. På listen med mailmapper skal du højreklikke **på Slettet post** og derefter vælge **Gendan slettede elementer...**.
 1. Hvis det er nødvendigt, kan du bruge søgefeltet til at finde det element, du vil gendanne.
 1. Når du finder elementet, skal du markere det og klikke på **Gendan**.
    De gendannede elementer flyttes til standardplaceringen for hver elementtype.
-    - Meddelelser går til din indbakke.
-    - Kalenderelementer flyttes til din kalender.
-    - Kontakter flyttes til mappen kontakter.
-    - Opgaver flyttes til mappen opgaver.
+    - Meddelelser sendes til din indbakke.
+    - Kalenderelementer går til din kalender.
+    - Kontakter går til mappen Kontakter.
+    - Opgaver vises i mappen Opgaver.
 
-**Tip til at gendanne elementer i mappen Genoprettelige elementer**
+**Tips til gendannelse af elementer i mappen Genoprettelige elementer**
 
-- Den slettede dato for et element i mappen Genoprettelige elementer er, når elementet er blevet flyttet til mappen Slettet post. Det er ikke den dato, hvor elementet blev flyttet til mappen Genoprettelige elementer.
-- Elementer i mappen Genoprettelige elementer har ikke ikoner, så de alle ser meget ens ud.
-    - Hvis du leder efter en kontakt, skal du lede efter et element, der har navnet på personen, men ingen emnelinje.
-    - Hvis du leder efter en kalenderaftale, skal du lede efter et element, der ikke har en persons navn eller en emnelinje.
-    - Hvis du leder efter en kontakt, en kalenderaftale eller en opgave for at se teksten i det pågældende element.
-- Hvis du vil gendanne flere elementer, skal du holde markøren over hvert element og markere afkrydsningsfeltet ud for det, klikke på **Gendan**. Du kan også gendanne flere tilstødende elementer ved at markere afkrydsningsfeltet for første element, holde **Skift** nede og derefter markere afkrydsningsfeltet for det sidste element. Når alle elementer er markeret, skal du vælge **Gendan**.
-- Du kan rydde elementer fra listen **Gendan slettede elementer** . Du skal bare markere elementet og derefter vælge **Fjern**. Hvis du rydder et element, kan du ikke bruge Gendan slettede elementer for at få det tilbage. Hvis du rydder en meddelelse, bliver den ikke fjernet fra de sikkerhedskopier, der blev foretaget, før du fjernede den.
-- Din organisation har muligvis angivet, hvor længe elementer i mappen Genoprettelige elementer er tilgængelige til genoprettelse. For eksempel kan der være en politik, der sletter alt det, der er blevet i mappen Slettet post i 30 dage, og en anden politik, der gør det muligt at gendanne elementer i mappen Genoprettelige elementer i op til en anden 14 dage.
+- Sletningsdatoen for et element i mappen Genoprettelige elementer er, hvornår elementet blev flyttet til mappen Slettet post. Det er ikke den dato, hvor elementet blev flyttet til mappen Genoprettelige elementer.
+- Elementer i mappen Genoprettelige elementer har ikke ikoner, så de ser alle meget ens ud.
+    - Hvis du leder efter en kontakt, skal du se efter et element, der indeholder navnet på personen, men ingen emnelinje.
+    - Hvis du leder efter en kalenderaftale, skal du se efter et element, der ikke har en persons navn eller en emnelinje.
+    - Hvis du leder efter en kontakt, kalenderaftale eller en opgave, skal du søge efter teksten i det pågældende element.
+- Hvis du vil gendanne flere elementer, skal du holde markøren over hvert element og markere afkrydsningsfeltet ud for det og klikke på **Gendan.** Du kan også gendanne tilstødende elementer ved at markere afkrydsningsfeltet for det første element, holde **Skift** nede og derefter markere afkrydsningsfeltet for det sidste element. Når alle elementer er markeret, skal du vælge **Gendan**.
+- Du kan fjerne elementer fra listen **Gendan slettede** elementer. Markér elementet, og vælg derefter **tøm**. Hvis du fjerner et element, kan du ikke bruge Gendan slettede elementer til at få det tilbage. Når du fjerner en meddelelse, fjernes den ikke fra eventuelle sikkerhedskopier, der blev foretaget, før du fjernede den.
+- Din organisation har muligvis angivet, hvor længe elementer i mappen Genoprettelige elementer er tilgængelige til gendannelse. Der kan f.eks. være en politik, der sletter alt, hvad der har været i mappen Slettet post i 30 dage, og en anden politik, der gør det muligt at gendanne elementer i mappen Genoprettelige elementer i op til 14 dage.
