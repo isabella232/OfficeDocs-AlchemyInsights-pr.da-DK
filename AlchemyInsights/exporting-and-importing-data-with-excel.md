@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: e06d88ce5d90e8b3eaf07c621ca62f64e0604fc2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6dc660d0b51a4bd104c25ee8315182eea6db3385e87034226dfc759b2f556728
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978011"
 ---
 # <a name="exporting-and-importing-data-with-excel"></a>Eksportere og importere data med Excel
 
-Hvis du vil have hjælp til at eksportere data fra Excel eller importere data til Excel, skal du læse en eller flere af følgende artikler:
+Hvis du vil have hjælp til at eksportere Excel eller importere data Excel, skal du se en eller flere af følgende artikler:
 
 - [Eksportér til Excel fra SharePoint](https://support.office.com/client/bfb2ea48-6118-4fa9-abb6-cced9424e5d9)
 
@@ -29,4 +29,4 @@ Hvis du vil have hjælp til at eksportere data fra Excel eller importere data ti
 
 - [Eksportér data fra Access](https://support.office.com/client/64E974E6-AE43-4301-A53E-20463655B1A9)
 
-- [Importér eller eksportér tekstfiler (.txt- eller .csv-filer)](https://support.office.com/client/5250ac4c-663c-47ce-937b-339e391393ba)
+- [Importere eller eksportere tekstfiler (.txt eller .csv)](https://support.office.com/client/5250ac4c-663c-47ce-937b-339e391393ba)
