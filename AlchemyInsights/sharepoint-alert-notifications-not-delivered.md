@@ -1,5 +1,5 @@
 ---
-title: SharePoint-advarselsmeddelelser ikke leveret
+title: SharePoint meddelelser om meddelelser er ikke leveret
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957895"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint-advarselsmeddelelser ikke leveret
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint meddelelser om meddelelser er ikke leveret
 
-Kontrollér mappen uønsket mail i din mail, så nogle gange kan beskederne gå derhen.
+Kontrollér mappen UØNSKET mail i din mail, da der nogle gange kan blive sendt beskeder der.
 
-Find ud af **, om alle beskeder ikke er leveret** , eller om **en individuel besked** fra en bestemt fil eller et bestemt bibliotek ikke er leveret.
+Afgør, **om alle beskeder ikke leveres,** eller om en enkelt besked **fra** en bestemt fil eller et bestemt bibliotek ikke leveres.
 
-- **Individuelle påmindelser leveres ikke**: Hvis en individuel besked fra en bestemt fil eller et bestemt bibliotek ikke er leveret, kan du forsøge at slette og gendanne den. Se [Administrer, få vist eller Slet SharePoint-beskeder](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) for at genoprette beskeden.
-- **Alle beskeder er ikke leveret**: Hvis alle beskeder fra flere filer eller biblioteker ikke er leveret, skal du gå til [dashboardet for tjenestetilstand](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at kontrollere, om der er nogen rådgivere/Incidents, der kan forekomme i SharePoint eller Exchange. Problemet kan skyldes SharePoint-beskedfunktionen eller-forsinkelser i mails via Exchange. Det er også vigtigt at være opmærksom på, om der er andre mails, og hvis det ikke er muligt, skyldes problemet sandsynligvis Exchange-forsinkelser.
+- **Individuelle beskeder leveres ikke: Hvis** en individuel besked fra en bestemt fil eller et bestemt bibliotek ikke leveres, kan du forsøge at slette og genoprette den. Se [Administrer, få vist eller slet dine SharePoint for at](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) genoprette beskeden.
+- **Alle beskeder** leveres ikke: Hvis alle beskeder fra flere filer eller biblioteker ikke leveres, skal du gå til [dashboardet](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) over tjenestetilstand for at se, om der er eventuelle meddelelser/hændelser, der kan opstå med SharePoint eller Exchange. Problemet kan være med den SharePoint beskedfunktion eller forsinkelser i mails via Exchange. Det er også vigtigt at bemærke, om andre mails bliver leveret, og hvis ikke, er problemet sandsynligvis med Exchange forsinkelser.
 
-Ofte stillede spørgsmål om vigtige beskeder:
+Ofte stillede spørgsmål om beskeder:
 
-- Det er ikke muligt at sende beskeder til distributionsgruppen, men det er kun sikkerheds-og O365-grupper, der understøttes.
-- Du kan ikke tilpasse mailskabeloner til påmindelser. Du skal bruge Microsoft FLOW-eller SharePoint Designer-arbejdsproces for at opnå dem.
+- Det er ikke muligt at sende beskeder til distributionsgruppe, kun sikkerhed og O365-grupper understøttes.
+- Du kan ikke tilpasse mailskabeloner til beskeder. skal du bruge Microsoft FLOW eller Designer Workflow SharePoint at opnå disse.
 
 ## <a name="related-topics"></a>Relaterede emner
 
-Vil du prøve Microsoft flow i SharePoint Online?
+Vil du prøve Microsoft Flow i SharePoint Online?
 
-- [Opret flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Opret Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint og flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint og Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

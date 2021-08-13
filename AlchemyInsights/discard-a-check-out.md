@@ -1,5 +1,5 @@
 ---
-title: Slette en udtjekning
+title: Slet en udtjekning
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2b3068d2874df7f1884968766e6c00776d2023e5c44ef697401485b57f9fadf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928507"
 ---
 # <a name="discard-a-check-out-from-a-document-library"></a>Slette en udtjekning fra et dokumentbibliotek
 
-1. Højreklik på den fil, du vil slette udtjekningen for.
+1. Højreklik på den fil, du vil slette udtjekning.
     
-2. Klik på **mere**, og klik derefter på **Slet udtjekning**. 
+2. Klik **på Flere**, og klik derefter på Slet **udtjekning**. 
     
-3. I dialogboksen skal du klikke på **Slet udtjekning** for at fjerne udtjekningen. 
+3. Klik på Slet udtjekning **i dialogboksen for** at fjerne udtjekning. 
     
-Du kan finde flere spørgsmål om, hvordan du tjekker ind og tjekker ud, under de [vigtigste spørgsmål om Tjek ud, Tjek ind og version](https://go.microsoft.com/fwlink/?linkid=2018786).
+Hvis du har flere spørgsmål om at tjekke ind og ud, skal du se Vigtigste spørgsmål om [indtjekning, indtjekning og versioner.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 

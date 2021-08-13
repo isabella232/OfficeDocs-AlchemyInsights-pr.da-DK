@@ -1,5 +1,5 @@
 ---
-title: Foretage fejlfinding af adgang nægtet meddelelser til OneDrive for Business-websteder
+title: Fejlfinding af adgang nægtet meddelelser OneDrive for Business websteder
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9001cf0b7d9f1f05a2ecedca2c3137dd1b8a1c38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc4a2bd7dcc74f5f05e8b709e4bc3eac6ed445d6e2ea9ede698abbc8667723ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957787"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Foretage fejlfinding af adgang nægtet meddelelser til OneDrive for Business-websteder
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Fejlfinding af adgang nægtet meddelelser OneDrive for Business websteder
 
-Dette problem opstår ofte, når en bruger slettes og genoprettes med det samme UPN-navn (User Principal Name). Den nye konto oprettes ved hjælp af en anden PUID-værdi (entydigt Passport-ID). Når brugeren forsøger at få adgang til en gruppe af websteder eller deres OneDrive, har brugeren en forkert PUID. En anden situation omfatter Katalogsynkronisering med en Active Directory-afdeling. Hvis brugerne allerede har logget på SharePoint, og de derefter flyttes til en anden OU og synkroniseres med SharePoint, kan de opleve dette problem.
+Dette problem opstår oftest, når en bruger slettes og genoprettes med samme brugerens hovednavn (UPN). Den nye konto oprettes ved hjælp af en anden VÆRDI for PUID (Passport Unique ID). Når brugeren forsøger at få adgang til en gruppe af websteder eller deres OneDrive, har brugeren et forkert PUID. Et andet scenarie omfatter katalogsynkronisering med en Active Directory-organisationsenhed (OU). Hvis brugerne allerede er logget på SharePoint og derefter flyttes til en anden OU og synkroniseres med SharePoint, kan de opleve dette problem.
 
-1. For at løse dette problem skal du gendanne det oprindelige UPN med trinnene i artiklen, [gendanne en bruger i Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
-2. Hvis du ikke kan gendanne den oprindelige bruger, skal du fjerne den gamle bruger fra OneDrive-webstedet ved hjælp af disse trin, [Fjern en bruger fra listen brugeroplysninger](). 
-3. Når dette er gjort, kan du bekræfte, at brugeren har administratorrettigheder til OneDrive-webstedet ved at følge trinnene til at [føje administratorerne til en brugers OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles)
+1. Du kan løse dette problem ved at gendanne det oprindelige UPN ved hjælp af trinnene i artiklen [Gendan en bruger Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
+2. Hvis du ikke kan gendanne den oprindelige bruger, skal du fjerne den gamle bruger fra OneDrive-webstedet ved hjælp af disse trin, Fjern en bruger fra [listen Brugeroplysninger.]() 
+3. Når dette er gjort, kan du bekræfte, at brugeren har administratorrettigheder til OneDrive-webstedet ved at følge trinnene for at Tilføje administratorer for en [brugers OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 
-Du kan finde flere oplysninger om tilladelsesniveauer i artiklen [om tilladelsesniveauer i SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Du kan finde flere oplysninger om tilladelsesniveauer i artiklen [Om tilladelsesniveauer i SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).

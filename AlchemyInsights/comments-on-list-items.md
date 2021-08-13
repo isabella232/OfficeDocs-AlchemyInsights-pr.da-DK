@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724148"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995472"
 ---
 # <a name="comments-on-list-items"></a>Kommentarer til listeelementer
 
-Brugere kan se alle kommentarer på et listeelement og filtrere mellem visninger, der viser kommentarer eller aktiviteter relateret til et element.
+Brugere kan få vist alle kommentarer på et listeelement og filtrere mellem visninger, der viser kommentarer eller aktivitet relateret til et element.
 
-Brugerne skal bemærke følgende, før de kan tilføje og slette kommentarer:
+Brugerne skal være opmærksom på følgende, før de kan tilføje og slette kommentarer:
 
-- Kommentarer følger de tilladelsesindstillinger, der er indbygget i SharePoint.
-- Klassiske lister, der endnu ikke er bygget til at blive vist i moderne brugergrænseflader, f. eks. opgavelister, vil ikke have denne kommentarfunktion.
-- Kommentering på lister i teams er ikke tilgængelig med denne version.
-- Kommentarer indekseres ikke ved søgning.
+- Kommentarer følger de tilladelsesindstillinger, der er forbundet med SharePoint.
+- Klassiske lister, der endnu ikke er oprettet til at blive vist i moderne brugergrænseflader, f.eks. opgavelister, vil ikke have denne kommentarfunktion.
+- Kommentering på lister i Teams er ikke tilgængelig med denne version.
+- Kommentarer indekseres ikke af Søg.
 
-Administratorer kan deaktivere denne funktion på organisationsniveau ved at ændre **CommentsOnListItemsDisabled** -parameteren i cmdlet'en **set-SPOTenant** PowerShell.
+Administratorer kan deaktivere denne funktion på organisationsniveau ved at ændre **CommentsOnListItemsDisabled-parameteren** i **Set-SPOTenant** PowerShell-cmdlet'en.
 
-Det er i øjeblikket ikke muligt at deaktivere kommentering på websteds-eller listeniveau. Vi håber, at du har disse kontrolelementer i en senere opdatering, sandsynligt i den første kvartal 2021.
+Det er i øjeblikket ikke muligt at deaktivere kommentar på websteds- eller listeniveau. Vi håber at have disse kontrolfunktioner i en senere opdatering, sandsynligvis i første kvartal 2021.
