@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992726"
 ---
 # <a name="start-using-microsoft-edge"></a>Begynd at bruge Microsoft Edge
 
-Microsoft har udgivet den nye Microsoft Edge, som er den næste generation af microsofts webbrowser. Det er bygget på Chromium Open Source Foundation og er blevet optimeret til at arbejde med Microsoft-produkter som SharePoint og OneDrive.
+Microsoft har udgivet den nye Microsoft Edge, som er den næste generation af sin webbrowser. Det er bygget på open source-Chromium og er blevet optimeret til at arbejde med Microsoft-produkter som f.eks. SharePoint og OneDrive.
 
 Hvis du oplever problemer med Google Chrome, Mozilla Firefox eller Safari, anbefaler vi, at du bruger Microsoft Edge.
 
-Hvis du er administrator for en stor organisation, kan du bruge vores Microsoft [Edge-installationsvejledning til at](https://go.microsoft.com/fwlink/?linkid=2142423) komme i gang.
+Hvis du er administrator for en stor organisation, kan du bruge vores Microsoft Edge [konfigurationsvejledning til at](https://go.microsoft.com/fwlink/?linkid=2142423) komme i gang.
 
-Hvis du vil downloade Microsoft Edge på én enhed ad gangen, skal du gå til [Introduktion til det nye Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)
+Hvis du Microsoft Edge en enhed ad gangen, skal du gå til [Introduktion til den nye Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).

@@ -1,5 +1,5 @@
 ---
-title: Føj et søgefelt til Microsoft Søg i Bing til organisationens intranetwebsteder og sider
+title: Tilføje et søgefelt til Microsoft Søg en Bing på organisationens intranetwebsteder og sider
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9261"
-ms.openlocfilehash: 36ad8fe06b4bbbe107de981ec02f0b525bd4cbd7
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 129ec762b2667b216951c441165d75af0bddd57127351a8ff31fc2793e4479d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954475"
 ---
-# <a name="add-a-search-box-for-microsoft-search-in-bing-to-your-organizations-intranet-sites-and-pages"></a>Tilføje et søgefelt til Microsoft Søg i Bing på organisationens intranetwebsteder og -sider
+# <a name="add-a-search-box-for-microsoft-search-in-bing-to-your-organizations-intranet-sites-and-pages"></a>Tilføje et søgefelt til Microsoft Søg en Bing på organisationens intranetwebsteder og sider
 
 Nogle af fordelene ved at tilføje søgefeltet er:
 
-1. Organisationens SharePoint- og intranetportaler har et velkendt, pålideligt indgangspunkt til søgning.
+1. Organisationens portaler til SharePoint og intranet har et velkendt, pålideligt indgangspunkt til søgning.
 2. Søgefeltet understøtter alle større webbrowsere.
 3. Søgeresultaterne vil være interne for din organisation og udelader oplysninger fra internettet.
-4. Siden med resultater vil være fri for reklamer.
+4. Resultatsiden er fri for reklamer.
 5. Du har kontrol over udseendet og funktionsmåden i søgefeltet.
 
-Du kan få mere at vide [i Føj et søgefelt til intranettet.](https://go.microsoft.com/fwlink/?linkid=2151387)
+Du kan få mere at vide [under Føj et søgefelt til intranettet.](https://go.microsoft.com/fwlink/?linkid=2151387)

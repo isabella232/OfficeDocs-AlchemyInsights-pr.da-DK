@@ -1,5 +1,5 @@
 ---
-title: Opgrader til den fulde version af Microsoft teams
+title: Opgrader til den fulde version af Microsoft Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919597"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Opgrader til den fulde version af Microsoft teams
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Opgrader til den fulde version af Microsoft Teams
 
-Har du brug for at opgradere fra den gratis til den fulde version af Microsoft teams? Se [opgradere Microsoft teams gratis til Microsoft 365-abonnementsversion](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Har du brug for at opgradere fra den gratis version til den fulde version af Microsoft Teams? Se [Opgrader Microsoft Teams gratis til Microsoft 365-abonnementsversion](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Du skal opfylde disse krav:
+Du skal opfylde følgende krav:
 
-- Du er den person, der tilmeldte sig den aktuelle gratis version af teams.
+- Du er den person, der har tilmeldt sig den aktuelle gratis version af Teams.
 - Hvis du har dit eget domæne, kan det ikke allerede være knyttet til Azure Active Directory.
 - Hvis du vil overføre data, når du opgraderer, skal du abonnere under opgraderingsprocessen. Hvis du har købt et abonnement uden for opgraderingsprocessen, kan du ikke overføre data.

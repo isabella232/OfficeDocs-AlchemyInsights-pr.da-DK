@@ -1,5 +1,5 @@
 ---
-title: Brug Configuration Manager til at installere, opdatere og administrere Microsoft Edge på Windows
+title: Brug Konfigurationsstyring til at installere, opdatere og administrere Microsoft Edge på Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919525"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Brug Configuration Manager til at installere, opdatere og administrere Microsoft Edge på Windows
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Brug Konfigurationsstyring til at installere, opdatere og administrere Microsoft Edge på Windows
 
-Fra Configuration Manager version 1910 kan du installere Microsoft Edge (version 77 eller nyere) via et PowerShell-script. Scriptet deaktiverer automatiske opdateringer, og det giver dig mulighed for at administrere opdateringerne via Konfigurationsstyring. Du kan få mere at vide om dette og andre fordele ved at bruge konfigurationsstyring i [Microsoft Edge Management](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).
+Fra og Konfigurationsstyring 1910 kan du installere Microsoft Edge (version 77 og nyere) via et PowerShell-script. Scriptet deaktiverer automatiske opdateringer, og det gør det muligt at administrere opdateringer via Konfigurationsstyring. Du kan få mere at vide om dette og andre fordele ved Konfigurationsstyring ved at [se Microsoft Edge Management.](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 488799d66d9587f2ceaf763ef92e85ab4f19414f6e6fe3610f0f9ff84d5ce0a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977219"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>Sådan administrerer du tilføjelses ins, mens du læser en meddelelse
 
-1. I Outlook på internettet skal du vælge en meddelelse.
+1. Markér Outlook på internettet meddelelse i feltet Meddelelse.
     
 2. Vælg de tre prik (flere handlinger) øverst i meddelelsen.
 
@@ -34,4 +34,4 @@ ms.locfileid: "52543994"
     
     For at få tilføjelser med betaling og gratis prøveversioner skal du vælge **Hent det for** at starte dit køb.
     
-Du kan få mere [at vide under Brug af tilføjelses Outlook på internettet.](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)
+Du kan få mere at [vide under Brug af tilføjelses in Outlook på internettet](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).
