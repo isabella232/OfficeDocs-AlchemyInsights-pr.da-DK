@@ -1,5 +1,5 @@
 ---
-title: Knytte et SharePoint-websted til en gruppe
+title: Forbind et SharePoint websted til en gruppe
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915401"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Knytte et SharePoint-websted til en gruppe
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Forbind et SharePoint websted til en gruppe
 
-Brug guiden gruppeforbindelse til at oprette forbindelse mellem et SharePoint-websted og en Microsoft 365-gruppe.
+Brug guiden gruppeforbindelse til at oprette forbindelse mellem et SharePoint et websted Microsoft 365 gruppe.
 
-1. Vælg Indstillinger  **(tandhjulsikonet)** fra det websted, du vil oprette forbindelse til en gruppe.
-2. Vælg **Opret forbindelse til en ny Microsoft 365-gruppe.**
+1. Fra det websted, du vil oprette forbindelse til en gruppe, skal du vælge **Indstillinger (tandhjulsikonet)**.
+2. Vælg **Forbind til ny Microsoft 365 Gruppe**.
 3. Følg guiden for at oprette forbindelsen.
 
-**Bemærk!**  Hvis Opret forbindelse til en ny Microsoft 365-gruppe ikke er tilgængelig, understøtter webstedet ikke en gruppeforbindelse.
+**Bemærk!**  Hvis Forbind til en Microsoft 365 gruppe ikke er tilgængelig, understøtter webstedet ikke en gruppeforbindelse.
 
-Du kan få mere at vide [under Opret forbindelse til en Office 365-gruppe.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Du kan finde flere oplysninger [Forbind en Office 365 gruppe.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)

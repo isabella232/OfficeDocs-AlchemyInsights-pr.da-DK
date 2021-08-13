@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915437"
 ---
 # <a name="configure-supervision-policies"></a>Konfigurere overvågningspolitikker
 
-Tilsyns politikker i Microsoft 365 giver dig mulighed for at overvåge Exchange-mail, Skype for Business online, Microsoft teams og tredjeparts kommunikation, der sendes inden for og uden for din organisation. Udvalgte korrekturlæsere kan undersøge overvågede meddelelser for at sikre, at de er kompatible med din virksomheds politikker, risikostyring og overholdelses standarder, og at de kan løse dem med en klassificerings type.
+Overvågningspolitikker i Microsoft 365 gør det muligt at overvåge Exchange mails, Skype for Business Online-, Microsoft Teams- og tredjepartskommunikation, der sendes i og uden for organisationen. Udvalgte korrekturlæsere kan undersøge overvågede meddelelser for at sikre, at de overholder organisationens politikker, risikostyring og lovmæssige overholdelsesstandarder og løser dem med en klassificeringstype.
 
-Hvis du vil bruge tilsyns politikker i organisationen, skal du:
+Hvis du vil bruge overvågningspolitikker i organisationen, skal du:
 
 - Find ud af, hvilken kommunikation der skal overvåges.
-- Beslutte, hvem der skal udføre kommunikations gennemgang.
-- Konfigurere overvågningspolitikker
+- Beslut, hvem der skal gennemgå kommunikationen.
+- Politikker for konfigurationsovervågning
 
-Lær mere:
+Få mere at vide:
 
-- [Oversigt over tilsyns politikker](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Oversigt over overvågningspolitikker](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
 - [Konfigurere overvågningspolitikker](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
