@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914897"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Oprette og bruge en delt postkasse
 
-En delt postkasse gør det muligt for mere end én person at sende og modtage mail til et alias, såsom sales@contoso.com, uden at tildele en anden licens.
+Med en delt postkasse kan mere end én person sende og modtage mails til et alias, f.eks. sales@contoso.com, uden at tildele en anden licens.
   
-- [Følg disse trin](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) i Microsoft 365 administration for at komme i gang. 
+- [Følg disse trin](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) i Microsoft 365 Administration for at komme i gang. 
 
-Du kan også læse artiklen [oprette en delt postkasse](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , som fortæller dig alt det, du har brug for at vide om delte postkasser, herunder hvordan du bruger dem.
+Du kan også læse artiklen [Opret](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) en delt postkasse, som fortæller dig alt, hvad du skal vide om delte postkasser, herunder hvordan du bruger dem.
   

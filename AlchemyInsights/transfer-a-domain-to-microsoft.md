@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980963"
 ---
 # <a name="transfer-a-domain-to-microsoft"></a>Overfør et domæne til Microsoft
 
-En domæne registrering og fakturering kan ikke overføres til Microsoft.
+En domæneregistrering og fakturering kan ikke overføres til Microsoft.
 
-Hvis du vil tilføje et domæne, du allerede ejer, skal du følge [guiden Tilføj domæne](https://admin.microsoft.com/Adminportal/Domains/Wizard)eller gå til **Indstillinger**  >  **domæner**  >  **Tilføj domæne**.
+Hvis du vil tilføje et domæne, du allerede ejer, [skal](https://admin.microsoft.com/Adminportal/Domains/Wizard)du følge guiden Tilføj domæne eller gå **til Indstillinger**  >  **Domains**  >  **Add domain**.
 
-Du kan finde flere oplysninger om DNS-ændringer, der kræves for at bekræfte dit domæne, under [tilføje DNS-poster for at oprette forbindelse til dit domæne](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Du kan finde flere oplysninger om DNS-ændringer, der kræves for at bekræfte dit domæne, [under Tilføje DNS-poster for at forbinde dit domæne.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Hvis du har spørgsmål vedrørende domæner, skal du se [ofte stillede](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)spørgsmål om domæner.
+Hvis du har spørgsmål til domæner, skal du se [Ofte stillede spørgsmål om domæner.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

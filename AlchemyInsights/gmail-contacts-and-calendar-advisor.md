@@ -1,5 +1,5 @@
 ---
-title: Overfør Gmail-kontakter eller Google-kalendere til Office 365 eller Outlook
+title: Overfør Gmail-kontakter eller Google Kalendere til Office 365 eller Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964294"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Overfør Gmail-kontakter eller Google-kalendere til Office 365 eller Outlook
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Overfør Gmail-kontakter eller Google Kalendere til Office 365 eller Outlook
 
-Den nemmeste måde at importere Gmail-kontakter og-kalender til Office på er at bruge Gmail-kontakter og kalender rådgivning.
+Den nemmeste måde at importere Gmail-kontakter og -kalender til Office er at bruge Gmail-kontakter og -kalenderrådgiveren.
 
-[Gmail-kontakter og kalender rådgiver](https://go.microsoft.com/fwlink/?linkid=2134386) viser dig, hvordan du synkroniserer dine Gmail-kontakter og-kalenderelementer til Office 365 ved hjælp af forskellige import-og eksport metoder.
+[Gmail-kontakter og -kalenderrådgiveren](https://go.microsoft.com/fwlink/?linkid=2134386) viser, hvordan du synkroniserer dine Gmail-kontakter og -kalenderelementer med Office 365 forskellige import- og eksportmetoder.
 
-Hvis du endnu ikke har overført din mail, indeholder [installationsprogrammet til mail](https://go.microsoft.com/fwlink/?linkid=2133951) en trinvis vejledning i at gennemføre din postkasse overførsel.
+Hvis du ikke har overført din [](https://go.microsoft.com/fwlink/?linkid=2133951) mail endnu, giver mailkonfigurationsrådgiveren en trinvis vejledning til at fuldføre overførslen af din postkasse.
 
-Du kan få mere at vide om, hvordan du får vist din Google-kalender i Outlook, ved at [Se din Google-kalender i Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).
+Se Se din Google-kalender i Outlook for at få mere at vide om, hvordan du får vist [din Google-kalender Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).

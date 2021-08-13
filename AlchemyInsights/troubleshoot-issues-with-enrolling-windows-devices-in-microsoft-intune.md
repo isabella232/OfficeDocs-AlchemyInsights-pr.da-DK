@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding af problemer med registrering af Windows-enheder i Microsoft Intune
+title: Fejlfinding af problemer med registrering Windows enheder i Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981035"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Fejlfinding af problemer med registrering af Windows-enheder i Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Fejlfinding af problemer med registrering Windows enheder i Microsoft Intune
 
 Gennemse ressourcerne nedenfor for at løse problemet nu.
   
@@ -35,7 +35,7 @@ Nogle almindelige fejlmeddelelser og løsningstrin:
 
 -  Enheden er allerede tilmeldt af en anden bruger. Hvis det er tilfældet, skal du fjerne enheden fra Azure Intune-konsollen eller manuelt fjerne tilmeldingen af enheden, før du prøver igen.
 
--  Enheden er Windows 10 Home. Kun Windows 10 Pro-, Education- og Enterprise-SKU'er kan deltage i Azure Active Directory.
+-  Enheden er Windows 10 Home. Kun Windows 10 Pro-, uddannelses- og virksomheds-SKU'er kan Azure Active Directory.
 
 Yderligere ressourcer, der kan hjælpe med at løse problemet:
   
@@ -43,4 +43,4 @@ Yderligere ressourcer, der kan hjælpe med at løse problemet:
 
 -  Gennemse disse dokumenter for at få en liste over almindelige fejl, der forhindrer registrering og løsninger på hver enkelt: [Fejlfindingsvejledning](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) og [Fejlfinding af dokument.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-[Få mere at vide om, hvordan du tilmelder Windows-enheder i Microsoft Intune.](https://docs.microsoft.com/intune/windows-enroll)
+[Lær, hvordan du tilmelder Windows enheder i Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

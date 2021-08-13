@@ -1,5 +1,5 @@
 ---
-title: iOS provisions profiler regel-id 1029
+title: Regel-id 1029 til iOS-klargøringsprofiler
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925699"
 ---
-# <a name="ios-provisioning-profiles"></a>provisions profilerne til iOS
+# <a name="ios-provisioning-profiles"></a>iOS-klargøringsprofiler
 
-Apple iOS line of Business anvender konceptet med en provisions profil, der bruges til at bekræfte programmets integritet og gennemtvinge politikker, der er defineret i profilen. Disse provisions profiler udløber efter 12 måneder, og en ny profil skal være knyttet til den installerede app, for at appsene kan fortsætte med at køre.
+Apple iOS line of business bruger begrebet en klargøringsprofil, som bruges til at validere integriteten af programmet og gennemtvinge politikker, der er defineret i profilen. Disse klargøringsprofiler udløber efter 12 måneder, så der skal knyttes en ny profil til den installerede app, for at appsene kan fortsætte med at køre.
   
-I følgende artikel beskrives det, hvordan du opretter Tilknyt en ny provisions profil med en iOS-LOB-app, der er installeret via Intune: [Brug provisions profilerne til iOS-appen for at forhindre dine apps i at udløbe](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+I følgende artikel beskrives det, hvordan du opretter tilknytningen til en ny klargøringsprofil med en iOS LOB-app, der er installeret via Intune: Brug [af iOS-app klargøringsprofiler](https://docs.microsoft.com/intune/app-provisioning-profile-ios) for at forhindre, at dine apps udløber
   

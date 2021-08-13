@@ -13,15 +13,15 @@ ms.custom:
 - "9000136"
 - "2968"
 ms.assetid: ''
-ms.openlocfilehash: 600ad6e9c8eb55d33885eed4d80afd0b4fc35099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eba2a11701decdfaad2460807f36fc9d5afc533329a24074dcf28b4fd6cd4ac9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956149"
 ---
-# <a name="sharepoint-migration-throttling"></a>Begrænsning af SharePoint-overførsel
+# <a name="sharepoint-migration-throttling"></a>SharePoint begrænsning af overførslen
 
-SharePoint Online anvender begrænsning til at opretholde optimal ydeevne og pålidelighed for SharePoint Online-tjenesten. Begrænsning begrænser antallet af brugerhandlinger eller samtidige kald (via script eller kode) for at forhindre overbelastning af ressourcer. Hvis du vil have mere at vide, skal du se:
+SharePoint Online anvender begrænsning til at opretholde optimal ydeevne og pålidelighed for SharePoint Online-tjenesten. Begrænsning begrænser antallet af brugerhandlinger eller samtidige kald (via script eller kode) for at forhindre overbelastning af ressourcer. Du kan finde flere oplysninger i:
 
 - [Jeg oplever ringe ydeevne eller begrænsning under ved overførsel](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)

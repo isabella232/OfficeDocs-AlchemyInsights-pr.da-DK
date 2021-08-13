@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2511"
 - "9000770"
-ms.openlocfilehash: f01a1e085ae39ca9cfefaa67134dc820abce6a59
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50caf07024345b99d2f8d5c2746fb8d90990b0302cf777030f1b2af109f4cf4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956032"
 ---
 # <a name="troubleshooting-issues-with-apns-certificate"></a>Fejlfinding af problemer med APNs-certifikat
 
-Hvis du har problemer med Apple Push Notification Service (APNs)-certifikatet, skal du se [Intune og APNs-certifikatet: ofte stillede spørgsmål og almindelige problemer](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Intune-and-the-APNs-certificate-FAQ-and-common-issues/ba-p/280121).
+Hvis du har problemer med Apple Push Notification Service-certifikatet (APNs), skal du se [Intune og APNs-certifikatet:](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Intune-and-the-APNs-certificate-FAQ-and-common-issues/ba-p/280121)Ofte stillede spørgsmål og almindelige problemer.
 
-Hvis du vil have mere generelle retningslinjer for, hvordan du fornyr dit Apple push-besked certifikat, skal du se [få et Apple MDM push-certifikat](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Du kan finde en mere generel vejledning til, hvordan du fornyr dit Apple-pushmeddelelsescertifikat, under [Få et Apple MDM-pushcertifikat](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
