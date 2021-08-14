@@ -14,43 +14,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 06d7ef59d8ce31e0b22635e68638219bc491ff98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985611"
 ---
 # <a name="more-info-about-retention-policies"></a>Flere oplysninger om opbevaringspolitikker
 
-For de fleste organisationer øges mængden og kompleksiteten af deres data til dagligt – mail, dokumenter, chatbeskeder og meget mere. Det er vigtigt at administrere eller regulere disse oplysninger, og en opbevaringspolitik kan hjælpe dig med at nå disse mål. Hvis du vil have mere at vide om opbevaringspolitikker, skal du besøge disse links:
+For de fleste organisationer øges mængden og kompleksiteten af deres data dagligt – mails, dokumenter, chatbeskeder og meget mere. Effektiv administration eller styring af disse oplysninger er vigtigt, og en opbevaringspolitik kan hjælpe dig med at nå disse mål. Du kan finde flere oplysninger om opbevaringspolitikker ved at gå til disse links:
 
-## <a name="a-from-security-and-compliance-center"></a>A) fra sikkerheds-og overholdelses Center
+## <a name="a-from-security-and-compliance-center"></a>A) Fra Security and Compliance Center
 
-- Gå til sikkerhed og overholdelse > data styring > opbevaring
-  - Se [denne](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) artikel
+- Gå til Sikkerhed og overholdelse > datastyring > opbevaring
+  - Se [DENNE](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) artikel
 
-- Gå til sikkerhed og overholdelse > eDiscovery> avanceret eDiscovery 
-  - Se [denne](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) artikel
+- Gå til Security and Compliance > eDiscovery> Advanced eDiscovery 
+  - Se [DENNE](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) artikel
 
-- Gå til sikkerhed og overholdelse > klassificeringer > opbevaring
+- Gå til Opbevaring af sikkerheds- > regler og > regler og standarder
   - Se disse artikler
-    - [Følsomheds navne](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-    - [Oversigt over etiketter](https://docs.microsoft.com/microsoft-365/compliance/labels)
+    - [Følsomhedsmærkater](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Oversigt over navne](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) ældre regler for eDiscovery
+## <a name="b-legacy-ediscovery-policies"></a>B) Ældre eDiscovery-politikker
 
-- Se [denne](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artikel
+- Se [DENNE](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) artikel
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) politikker for lukning og sletning af websted
+## <a name="c-site-closure-and-deletion-policies"></a>C) Politikker for lukning og sletning af websteder
 
-- Se [denne](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artikel  
+- Se [DENNE](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) artikel  
 
 ## <a name="d-information-rights-management-irm"></a>D) IRM (Information Rights Management)
 
 - Se disse artikler
-  - [IRM på en liste eller i et bibliotek](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [Oversigt over IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+  - [IRM på en liste/et bibliotek](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM-oversigt](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Vi anbefaler på det kraftigste at flytte til sikkerheds-og Overholdelsespolitikker, hvis du stadig bruger ældre eDiscovery-eller IRM-eller websteds luknings-og sletnings politikker.
+> Vi anbefaler på det kraftigste at flytte til Sikkerheds- og overholdelsespolitikker, hvis du stadig bruger ældre eDiscovery- eller IRM- eller politikker for lukning og sletning af websteder.
