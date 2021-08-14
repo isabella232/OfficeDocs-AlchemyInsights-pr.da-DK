@@ -13,62 +13,62 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: ce4c89da79112726ed4fb25527edc8d082bd37f239595b9eab7279abeeecfd7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984542"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931443"
 ---
 # <a name="application-errors"></a>Programfejl
 
-Leder du efter oplysninger om de **AADSTS-fejlkoder** , der returneres fra Azure Active Directory (Azure ad)-SIKKERHEDSTOKENTJENESTEN (STS)? Læs [Azure ad-godkendelse og godkendelsesfejl koder](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) for at finde AADSTS-fejlbeskrivelser, løsninger og nogle forslag til løsninger.
+Leder du efter oplysninger om **AADSTS-fejlkoder,** der returneres fra Azure Active Directory (Azure AD) sikkerhedstokentjeneste (STS)? Læs [Fejlkoder til Azure AD-godkendelse](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) og -godkendelse for at finde AADSTS-fejlbeskrivelser, -rettelser og nogle foreslåede løsninger.
 
-Godkendelsesfejl kan skyldes flere forskellige problemer, hvoraf de fleste genererer en 401-eller 403-fejl. For eksempel kan det være, at følgende kan føre til godkendelsesfejl:
+Autorisationsfejl kan være et resultat af flere forskellige problemer, hvoraf de fleste genererer en 401- eller 403-fejl. Følgende kan f.eks. alle føre til godkendelsesfejl:
 
-- Ukorrekte [erhvervelses flow](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) for adgangstoken 
-- Dårligt konfigurerede [omfang af tilladelser](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
-- Manglende [tilladelse](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
+- Forkerte [flows for erhvervelse af adgangstoken](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
+- Dårligt konfigurerede [rettighedsområder](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
+- Manglende [samtykke](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-Hvis du vil løse almindelige godkendelsesfejl, skal du prøve nedenstående trin, der passer bedst til den fejl, du modtager. Der kan blive anvendt mere end én.
+Du kan løse almindelige godkendelsesfejl ved at prøve de trin nedenfor, der passer bedst til den fejl, du modtager. Der kan gælde mere end én.
 
-**401 uautoriseret fejl: er dit token gyldigt?**
+**401 Uautoriseret fejl: Er dit token gyldigt?**
 
-Sørg for, at dit program præsenterer et gyldigt adgangstoken til Microsoft Graph som en del af anmodningen. Denne fejl betyder ofte, at der muligvis mangler et adgangstoken i HTTP-godkendelses anmodningens overskrift, eller at tokenet er ugyldigt eller udløbet. Vi anbefaler på det kraftigste, at du bruger [Microsoft-godkendelses bibliotek (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) til hentning af adgangstoken. Denne fejl kan også opstå, hvis du forsøger at bruge en uddelegeret adgangstoken til en personlig Microsoft-konto for at få adgang til et API, der kun understøtter arbejds-eller skole konti (organisations konti).
+Sørg for, at dit program præsenterer et gyldigt adgangstoken til Microsoft Graph som en del af anmodningen. Denne fejl betyder ofte, at adgangstokenet mangler i HTTP-godkendelsesanmodningens header, eller at tokenet er ugyldigt eller er udløbet. Vi anbefaler på det kraftigste, at du [bruger Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) til anskaffelse af adgangstoken. Desuden kan denne fejl opstå, hvis du forsøger at bruge en delegeret adgangstoken, der er tildelt en personlig Microsoft-konto, til at få adgang til en API, der kun understøtter arbejds- eller skolekonti (organisationskonti).
 
-**403 forbudt fejl: har du valgt det rigtige sæt af tilladelser?**
+**403 Forbudt fejl: Har du valgt det korrekte sæt af tilladelser?**
 
-Kontrollér, at du har anmodet om det korrekte sæt af tilladelser, der er baseret på Microsoft Graph-API'erne til dine app-opkald. Anbefalede minimum rettigheder er angivet i alle emner i Microsoft Graph API-referencemetoden. Desuden skal disse tilladelser tildeles til ansøgningen af en bruger eller en administrator. Tildeling af tilladelser normalt sker gennem en tilladelses side eller ved at tildele tilladelser ved hjælp af registrerings bladet Azure Portal-program. Fra bladet **Indstillinger** for programmet skal du klikke på **nødvendige tilladelser** og derefter klikke på **Giv tilladelser**.
+Kontrollér, at du har anmodet om det korrekte sæt tilladelser baseret på den Microsoft-Graph API'er dine appopkald. Anbefalede mindst privilegerede tilladelser findes i alle emnerne under Microsoft Graph API-referencemetoden. Desuden skal disse tilladelser til programmet, tildeles af en bruger eller en administrator. Tildeling af tilladelser sker normalt via en samtykkeside eller ved at tildele tilladelser ved hjælp af Azure Portal-programregistrerings bladet. Fra programmets **Indstillinger**-blad, skal du klikke på **Krævede tilladelser**, og derefter klikke på **Giv tilladelser**.
 
 - [Microsoft Graph-tilladelser](https://docs.microsoft.com/graph/permissions-reference) 
-- [Om Azure AD-tilladelser og-samtykke](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- [Om azure AD-tilladelser og -samtykke](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
 
-**403 forbudt fejl: fik appen fat i et token, så det stemmer overens med de valgte tilladelser?**
+**403 Forbudt fejl: Modtog din app et token, svarende til de valgte tilladelser?**
 
-Sørg for, at den type af tilladelser, der anmodes om eller tildeles, passer til den type adgangstoken, din app henter. Du anmoder muligvis om og tildeler program tilladelser, men bruger delegeret interaktiv kode-tokens i stedet for flow-tokens til klientlegitimationsoplysninger eller anmodning om og tildeling af stedfortrædertilladelser, men brug af tokens til flow af klientlegitimationsoplysninger i stedet for delegeret kode flow-tokens.
+Sørg for, at den type tilladelser, der anmodes om eller tildeles, svarer til den type adgangstoken, som din app får. Du anmoder og giver muligvis programtilladelser, men bruger delegerede interaktive kodeflowtokens i stedet for tokens for flow af klientoplysninger eller anmoder om og tildeler delegerede tilladelser, men bruger klientlegitimationstokens i stedet for delegerede kodeflowtokens.
 
-- [Få adgang på vegne af brugere og delegeret tilladelser](https://docs.microsoft.com/graph/auth_v2_user) 
-- [Azure AD v 2.0-OAuth 2,0 Authorization Code flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Få adgang uden en bruger (daemon-tjeneste) og program tilladelser](https://docs.microsoft.com/graph/auth_v2_service) 
-- [Azure AD v 2.0-OAuth 2,0-klientoplysninger flow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
+- [Få adgang på vegne af brugere og delegerede tilladelser](https://docs.microsoft.com/graph/auth_v2_user) 
+- [Azure AD v2.0 – OAuth 2.0-godkendelseskodeflow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Få adgang uden en bruger (daemon-tjeneste) og programtilladelser](https://docs.microsoft.com/graph/auth_v2_service) 
+- [Azure AD v2.0 – OAuth 2.0 flow af legitimationsoplysninger](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
 
-**403 forbudt fejl: nulstilling af adgangskode**
+**403 Forbudt fejl: Nulstilling af adgangskode**
 
-Der er i øjeblikket ingen program rettigheds-daemon-tjenestetilladelser, der tillader nulstilling af brugeradgangskoder. Disse API'er understøttes kun ved hjælp af den interaktive Delegate-kode, der er logget på med en administrator.
+Der er i øjeblikket ingen programtilladelses-daemon-tjeneste-til-tjeneste-tilladelser, der tillader nulstilling af brugeradgangskoder. Disse API'er understøttes kun ved hjælp af de interaktive delegerede kodeflows med en administrator, der er logget på.
 
 - [Microsoft Graph-tilladelser](https://docs.microsoft.com/graph/permissions-reference)
 
-**403 forbudt: har brugeren adgang, og er de givet i licens?**
+**403 Forbudt: Har brugeren adgang, og har de licens?**
 
-For delegeret kode strømme evaluerer Microsoft Graph, om anmodningen er tilladt baseret på de tilladelser, der er tildelt appen, og de tilladelser, som den bruger, der er logget på. Denne fejl tyder normalt på, at brugeren ikke er privilegeret nok til at udføre anmodningen, eller at brugeren ikke har licens til at få adgang til dataene. Det er kun brugere med de påkrævede tilladelser eller licenser, der kan udføre anmodningen.
+For delegerede kodeflows evaluerer Microsoft Graph, om anmodningen er tilladt på baggrund af de tilladelser, der er givet til appen, og de tilladelser, som brugeren, der er logget på, har. Generelt indikerer denne fejl, at brugeren ikke har rettigheder nok til at udføre anmodningen eller at brugeren ikke har licens til de data, der fås adgang til. Kun brugere med de nødvendige tilladelser eller licenser kan foretage anmodningen.
 
-**403 forbudt: har du valgt den korrekte ressource-API?**
+**403 Forbudt: Har du valgt den korrekte ressource-API?**
 
-API-tjenester som Microsoft Graph Kontrollér, at AUD-kravet (publikum) i det modtagne adgangstoken stemmer overens med den værdi, det forventer for sig selv, og hvis ikke, det resulterer i en 403-forbudt fejl. En almindelig fejl, der medfører, at denne fejl forsøger at bruge et token, der er erhvervet til Azure AD Graph-API'er, Outlook-API'er eller SharePoint/OneDrive-API'er til at ringe til Microsoft Graph (eller omvendt). Kontrollér, at den ressource (eller omfanget), som din app henter et token for, passer til API'ET, som appen ringer til.
+API-tjenester som Microsoft Graph kontrollerer, at aud-kravet (målgruppen) i den modtagne adgangstoken svarer til den værdi, det forventer for sig selv, og hvis ikke, medfører det en 403 Forbudt fejl. En almindelig fejl, der medfører denne fejl, er at forsøge at bruge en token, der er mortaget til Azure AD Graph APIs, Outlook APIs eller SharePoint/OneDrive APIs til at kalde Microsoft Graph (eller omvendt). Sørg for, at ressourcen (eller omfanget) din app henter et token for svarer til den API, som appen kalder.
 
-**400 forkert anmodning eller 403 forbudt: bruger brugeren deres organisations politikker for betinget adgang (CAS)?**
+**400 Forkert anmodning eller 403 Forbudt: Overholder brugeren organisationens politikker for betinget adgang (Conditional Access – CA) ?**
 
-Baseret på en organisations CAS-politikker, kan en bruger, der har adgang til Microsoft Graph-ressourcer via din app, blive udfordringt om yderligere oplysninger, der ikke findes i den adgangstoken, din app oprindeligt har erhvervet. I dette tilfælde modtager din app en 400 med en *interaction_required* fejl i forbindelse med erhvervelse af adgangstoken eller en 403 med *insufficient_claims* fejl, når du ringer til Microsoft Graph. I begge tilfælde indeholder fejl svaret flere oplysninger, der kan præsenteres for godkendelses slutpunktet for at give brugeren yderligere oplysninger (som f. eks. multifaktorgodkendelse eller enheds tilmelding).
+Baseret på en organisations nøglecenterpolitikker kan en bruger, der får adgang til Microsoft Graph-ressourcer via din app, blive kontaktet for yderligere oplysninger, der ikke findes i det adgangstoken, din app oprindeligt blev købt. I dette tilfælde modtager din app en 400 med en *interaction_required*-fejl under modtagelsen af adgangstoken 403 med *insufficient_claims*-fejl, når du kalder Microsoft Graph. I begge tilfælde indeholder fejlsvaret yderligere oplysninger, der kan præsenteres for godkendelsesslutpunktet for at give brugeren yderligere oplysninger (f.eks. multifaktorgodkendelse eller enhedsregistrering).
 
-- [Håndtering af betingede adgangs udfordringer ved hjælp af MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
-- [Udvikler vejledning til betinget adgang til Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
+- [Håndtering af udfordringer med betinget adgang ved hjælp af MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [Vejledning for udviklere om Azure Active Directory-betinget adgang](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)

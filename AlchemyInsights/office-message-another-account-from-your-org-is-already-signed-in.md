@@ -1,5 +1,5 @@
 ---
-title: Meddelelsen Microsoft 365-apps – Der er desværre allerede logget på en anden konto fra din organisation
+title: Microsoft 365-appmeddelelsen – Der er allerede logget på en anden konto fra din organisation
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3271471c6421e892066cea2f0007cd81dc10783ecdd5bd8349bbe298a31990ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974339"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Meddelelsen Microsoft 365-apps – Der er desværre allerede logget på en anden konto fra din organisation
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365-appmeddelelsen – Der er allerede logget på en anden konto fra din organisation
 
 Du kan rette fejlen ved at følge disse trin:
 
@@ -33,7 +33,7 @@ Du kan rette fejlen ved at følge disse trin:
 
 - Start Office-appen, og log på igen, hvis det er nødvendigt. 
 
-**Tip** På Windows-computere kan vi diagnosticere og automatisk løse forskellige almindelige office-logonproblemer for dig. Download og kør  **[Microsoft Support- og genoprettelsesassistent for](https://aka.ms/SaRA-OfficeSignInScenario)** at bruge vores automatiserede værktøj.
+**Tip** På Windows computere kan vi diagnosticere og automatisk løse forskellige almindelige Office problemer med logon for dig. Download og kør **[Microsoft-Support- og genoprettelsesassistent](https://aka.ms/SaRA-OfficeSignInScenario)** at bruge vores automatiserede værktøj.
 
 Hvis problemet fortsætter, skal du prøve det følgende trin: 
 

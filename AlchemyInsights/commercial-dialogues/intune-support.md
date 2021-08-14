@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6fc37fc2c80387f8ea991bc3b3d1ae88618057cd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2f1ce5af0a37cfa32a798a63a4208c512f9c651a8103ad2402ee3dd592a952eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949417"
 ---
 # <a name="intune-support"></a>Intune-support
 
-Denne dialog er en del af Intune-supportprocessen. Hvis du ikke har et Intune-relateret problem, skal du udføre en af følgende handlinger:
+Denne dialog er en del af Intune-supportprocessen. Hvis du ikke har et problem relateret til Intune, skal du udføre en af følgende:
 
-- [Hvis Konfigurationsstyring eller Co-Management, skal du klikke på dette link og vælge det relevante felt.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
-- [For problemer med ikke-Intune, som ikke er En Slutpunkt Manager, skal du følge dette link og derefter klikke på hjælpknappen i øverste højre hjørne af administrationsportalen.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
+- [Klik Konfigurationsstyring link for Co-Management support, og vælg det relevante felt.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
+- [Ved problemer med ikke-Intune- administratorer, der ikke er Slutpunktsadministrator, skal du følge dette link og derefter klikke på Hjælp-knappen i øverste højre hjørne af administrationsportalen.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
