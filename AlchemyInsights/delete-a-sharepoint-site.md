@@ -1,5 +1,5 @@
 ---
-title: Slette et SharePoint-websted
+title: Slet et SharePoint websted
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: abd69cb99265b06e9b44181474cb080e0b2c99e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6f8d41b5753ca05b6e56fb5189596491d937b26378840ae8b9cbc8d74afb042
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948733"
 ---
-# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Slette et websted fra den nye SharePoint-Administrationscenter
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Slette et websted fra den nye SharePoint Administration
 
-Ved hjælp af den nye SharePoint administration kan du slette både klassiske og moderne websteder. Vælg **aktive websteder**, Vælg webstedet, og vælg derefter **Slet**. Hvis du vil [have vist og gendanne slettede websteder i den nye SharePoint administration](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), skal du vælge **slettede websteder**. Du kan finde flere oplysninger i [slette et websted i den nye SharePoint administration](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+Med den nye SharePoint Administration kan du slette både klassiske og moderne websteder. Vælg **Aktive websteder**, vælg webstedet, og vælg derefter **Slet**. For [at få vist og gendanne slettede websteder i den nye SharePoint Administration skal](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)du vælge **Slettede websteder**. Du kan få mere at [vide under Slet et websted SharePoint Administration.](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)
 
-**Vigtigt!** Hvis webstedet er en del af en opbevaringspolitik, kan du muligvis ikke slette det, før webstedet er blevet fjernet fra [politikken for administration af sikkerheds &amp; overholdelse](https://protection.office.com/?rfr=AdminCenter#/homepage). Se [Oversigt over opbevaringspolitikker](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) for at få flere oplysninger. 
+**Vigtigt!** Hvis webstedet er en del af en opbevaringspolitik, kan du muligvis ikke slette det, før webstedet fjernes fra [politikken i Security Compliance &amp; Administration.](https://protection.office.com/?rfr=AdminCenter#/homepage) Se [Oversigt over opbevaringspolitikker](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) for at få flere oplysninger. 
 
-Politiktip
-- SharePoint-administratorer kan nu slette websteder, der tilhører **Microsoft 365-grupper**. Dette vil slette gruppen og alle dens ressourcer, herunder Outlook-postkassen og-kalender, og alle team kanaler. Du kan finde flere oplysninger i [slette et SharePoint-websted](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
-- Du kan gendanne slettede websteder for 93 dage. Bemærk, at slettede grupper skal gendannes inden for 30 dage. Hvis du vil have mere at vide, skal du se [få vist og Gendan slettede websteder](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
-- Hvis du vil fjerne et websted permanent, skal du se [Slet et websted permanent](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Dette trin er påkrævet, hvis du planlægger at bruge URL-adressen igen. 
-- Hvis du vil fjerne et underordnet websted, skal du se [Slet et websted eller underordnet websted QuickSteps](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)
+Tips:
+- SharePoint administratorer kan nu slette websteder, der tilhører **Microsoft 365 grupper.** Dette sletter gruppen og alle dens ressourcer, herunder Outlook og kalender, samt alle Teams kanaler. Du kan få mere at [vide under Slet SharePoint websted](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Du kan gendanne slettede websteder i 93 dage. Bemærk, at slettede grupper skal gendannes inden for 30 dage. Du kan få mere at vide [under Få vist og gendan slettede websteder](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Hvis du vil fjerne et websted permanent, skal [du se Slette et websted permanent.](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site) Dette trin er påkrævet, hvis du planlægger at bruge URL-adressen igen. 
+- Hvis du vil fjerne et underordnet websted, skal [du se Slet et hurtigstit](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut) til et websted eller underordnet websted

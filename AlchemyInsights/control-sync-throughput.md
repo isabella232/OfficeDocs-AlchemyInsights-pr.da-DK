@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5839"
-ms.openlocfilehash: 6e45f55efac556d2d9c4f1ebd837db61dfa5422f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b93fcb9757d3ef95a6cdc9db34f6735682cff8b9c2f9bfffa38a547326b69e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948805"
 ---
 # <a name="control-sync-throughput"></a>Kontrollere synkroniseringshastigheden
 
-Hvis du har brug for at styre synkroniseringsapptrafik, anbefaler vi, at du bruger politikkerne for din tjenestekvalitet (servicekvalitet) eller Politikker for servicekvalitet i Windows, når det er muligt. Hvis du vil have oplysninger om de netværksindstillinger, du kan gøre tilgængelige for dine brugere, skal du se Skift upload- eller [downloadhastighed for OneDrive-synkroniseringsappen.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)
+Hvis du har brug for at styre synkroniseringsapptrafik, anbefaler vi, at du bruger politikkerne for din servicekvalitet (servicekvalitet) eller Windows servicekvalitetspolitikker, når det er muligt. Hvis du vil have oplysninger om de netværksindstillinger, du kan gøre tilgængelige for dine brugere, skal [du OneDrive-synkronisering overførs- eller downloadhastigheden for appen.](https://support.office.com/article/71cc69da-2371-4981-8cc8-b4558bdda56e)
