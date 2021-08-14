@@ -1,5 +1,5 @@
 ---
-title: Er der problemer med forfalskning, phishing eller efterligning?
+title: Har du problemer med spoofing, phishing eller efterligning?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,29 +10,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52a62298081e554d328fc3cca0f77ca9949b765396c27d4d9da247f411d6d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986777"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Er der problemer med forfalskning, phishing eller efterligning?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Har du problemer med spoofing, phishing eller efterligning?
 
 Få mere at vide om, hvordan Microsoft beskytter dig mod:
 
 - [Spoofing](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
-- [Phishing og repræsentation](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
+- [Phishing og efterligning](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
 Yderligere anbefalinger:
 
-- For spoofed afsendere, der ser ud til at komme fra dit eget domæne, kan [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) og [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) hjælpe.
+- SPF og [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) kan hjælpe afsendere, [](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) der ser ud til at komme fra dit eget domæne.
 
-- Kontrollér, at afsendere i dit eget domæne ikke er konfigureret til at forbigå antispam filtrering med regler for mail flow (også kaldet transport regler) eller tillade listeelementer. Hvis du vil have mere at vide, skal du se [advarsels forhold mod at springe over Microsoft-spamfiltre](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Bekræft, at afsendere på dit eget domæne ikke er konfigureret til at tilsidesætte antispamfiltrering ved hjælp af regler for mailflow (også kaldet transportregler) eller tillade listeposter. Du kan få mere at vide [under Advarsler mod at tilsidesætte Microsoft-spamfiltre.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-- Kontrollér, at brugerne ikke har konfigureret listeelementer for [sikre afsendere](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) , der kan tillade phishing-angreb.
+- Kontrollér, at brugerne ikke har konfigureret deres [Pengeskab afsendere, der](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) kan tillade phishing-angreb.
 
-- Overvej at levere spam og phishing-meddelelser med høj sikkerhed til karantæne i stedet for mappen uønsket mail. Hvis du vil have mere at vide, skal du se [Quarantine-mails](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
+- Overvej at levere sikre spam- og phishingmeddelelser i karantæne i stedet for mappen Uønsket mail. Du kan finde flere oplysninger i [Sætte mails i karantæne.](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
 
-**[Rapporteringsmeddelelser til Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) er den bedste måde at fortælle os om, hvordan filtrene fungerer.**
+**[Rapportering af meddelelser til Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) er den bedste måde at fortælle os, hvordan filtrene fungerer.**
