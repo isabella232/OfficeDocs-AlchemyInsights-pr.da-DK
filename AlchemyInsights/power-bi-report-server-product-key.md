@@ -1,5 +1,5 @@
 ---
-title: Power BI Report Server-produktnøgle
+title: Power BI-rapportserver Produktnøgle
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bdc5b186e8de2c2b7c4f84ebd852520ac28274eb3f1baf0dba568cdb6d10e579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973259"
 ---
-# <a name="power-bi-report-server-product-key"></a>Power BI Report Server-produktnøgle
+# <a name="power-bi-report-server-product-key"></a>Power BI-rapportserver produktnøgle
 
-Hvis du har købt Power BI Premium, har du adgang til din Power BI Report Server-produktnøgle under fanen **Premium-indstillinger** på Power BI-administrationsportalen. Dette er kun tilgængeligt for globale administratorer eller brugere, der er tildelt rollen som Power BI-tjenesteadministrator.
+Hvis du har købt Power BI Premium, har du **på fanen Premium indstillinger** på Power BI-administrationsportalen adgang til din Power BI-rapportserver produktnøgle. Dette er kun tilgængeligt for globale administratorer eller brugere, der er Power BI tjenesteadministratorrollen.
 
-Når du **vælger Power BI Report Server-nøgle,** vises en dialogboks, der indeholder din produktnøgle. Du kan kopiere den og bruge den sammen med installationen.
+Når du **Power BI-rapportserver produktnøgle,** vises en dialogboks, der indeholder din produktnøgle. Du kan kopiere den og bruge den sammen med installationen.
 
 Hvis du har en SQL Server Enterprise SA-aftale, kan du få din produktnøgle fra [Volume Licensing Service Center.](https://www.microsoft.com/Licensing/servicecenter/)
 
