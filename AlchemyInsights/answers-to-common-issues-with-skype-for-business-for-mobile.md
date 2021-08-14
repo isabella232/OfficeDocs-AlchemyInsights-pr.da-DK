@@ -1,5 +1,5 @@
 ---
-title: Svar på almindelige problemer med Skype for Business til mobile
+title: Svar på almindelige problemer med Skype for Business til mobil
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5985"
 - "9003195"
-ms.openlocfilehash: e7e95cb26c847693982f376e6282bae5155f6c7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e1d7a044879287955044d91713dc35b9b7c1f635ef13c2802dbb09a36058442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932733"
 ---
-# <a name="answers-to-common-issues-with-skype-for-business-for-mobile"></a>Svar på almindelige problemer med Skype for Business til mobile
+# <a name="answers-to-common-issues-with-skype-for-business-for-mobile"></a>Svar på almindelige problemer med Skype for Business til mobil
 
-Oplever du problemer med Skype for Business-appen på en mobil enhed?
+Oplever du problemer med Skype for Business på en mobilenhed?
 
-- Nogle funktioner, såsom svargruppe funktioner og mærkning af kontaktpersoner for beskeder om statusændring, er muligvis ikke tilgængelige eller understøttet på din mobil platform. Kontrollér, at den funktionalitet, du har problemer med, understøttes. Hvis du vil have adgang til funktioner i mobilenheder, skal du se [sammenligning af funktioner i mobil klient for Skype for Business](https://technet.microsoft.com/library/Dn951412.aspx).
-- Hvis du har problemer med at logge på Skype for Business-mobilappen, skal du sørge for, at din godkendelses topologi understøttes. Du kan finde detaljerede oplysninger om den understøttede metode i [Skype for Business-topologier, der understøttes med moderne godkendelse](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported).  
-- Hvis disse oplysninger ikke besvarer dine spørgsmål, skal du åbne en support billet. Indsaml så mange oplysninger som muligt, før du åbner billetten. Indsaml for eksempel alle logge og fejlmeddelelser. Hvis du vil indsamle logge på din mobil enhed, skal du gå til  **SfB**-logføring af App-indstillinger, der >   **Settings**  >   **Logging**  >   **sender logfiler**. Logfilen bør indeholde så mange detaljer som muligt fra logon til fejl punktet.
+- Nogle funktioner, f.eks. svargruppefunktionalitet og mærkning af kontakter for beskeder om statusændring, er muligvis ikke tilgængelige eller understøttes ikke på din mobilplatform. Kontrollér, at de funktioner, du har problemer med, understøttes der. For tilgængelighed af funktioner til mobilenheder skal du [se Sammenligning af funktioner for mobilklienter for Skype for Business](https://technet.microsoft.com/library/Dn951412.aspx).
+- Hvis du oplever et problem med logon på computeren, skal Skype for Business-mobilapp kontrollere, at din godkendelsestopologi er understøttet. Du kan finde detaljerede oplysninger om den understøttede metode [Skype for Business topologier, der understøttes med moderne godkendelse.](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported)  
+- Hvis disse oplysninger ikke besvarer dine spørgsmål, skal du åbne en Supportanmodning. Indsaml så mange oplysninger som muligt, før du åbner billet. Du kan f.eks. indsamle alle logfiler og fejlmeddelelser. Hvis du vil indsamle logfiler på din mobilenhed, skal du gå til  **SfB-applogføring** >   **Indstillinger**  >     >   **sendlogfiler**. Logfilen skal indeholde så mange detaljer som muligt fra logon til det sted, hvor fejlen opstod.

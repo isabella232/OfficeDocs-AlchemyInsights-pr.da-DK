@@ -1,5 +1,5 @@
 ---
-title: 608-kalenderoplysninger om hybrid konfiguration
+title: 608 Kalenderoplysninger om hybridkonfigurationer
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989549"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Problemer med ledig/optaget i kalenderen i hybrid miljøer
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Problemer med ledig/optaget i kalendere i hybridmiljøer
 
-Hvis brugerne har problemer med at få vist oplysninger om ledig/optaget tid i et hybrid miljø, skal du køre guiden hybrid konfiguration igen. Du kan finde flere oplysninger om guiden hybrid konfiguration i [guiden hybrid konfiguration](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Hvis brugere har problemer med at se kalenderoplysninger om ledig/optaget i hybridmiljøer, skal du køre guiden Hybridkonfiguration igen. Du kan finde flere oplysninger om guiden Hybridkonfiguration i [Guiden Hybridkonfiguration.](https://go.microsoft.com/fwlink/p/?linkid=528149)
 
-Du kan finde fejlfindingstrin i hybrid miljøer under [fejlfinding af en hybrid installation](https://technet.microsoft.com/library/jj659053.aspx).
+Hvis du vil have fejlfindingstrin i hybridmiljøer, skal [du se Fejlfinding i forbindelse med en hybridinstallation.](https://technet.microsoft.com/library/jj659053.aspx)
