@@ -14,26 +14,26 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975851"
 ---
 # <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Brug Microsoft Intune til at administrere webadgang i Microsoft Edge til iOS og Android
 
-Microsoft Edge til iOS og Android giver en bruger mulighed for at søge på internettet fra flere, helt separate profiler.
+Microsoft Edge til iOS og Android giver en bruger mulighed for at søge på internettet fra flere, fuldstændigt separate profiler.
 
-De bredeste beskyttelsesfunktioner til Microsoft 365-data bliver tilgængelige, når du abonnerer på Enterprise Mobility + Security-pakken, som omfatter Microsoft Intune- og Azure Active Directory Premium-funktioner, f.eks. betinget adgang. Du skal som minimum implementere en politik for betinget adgang, som (1) giver brugerne mulighed for at oprette forbindelse fra mobilenheder til Microsoft Edge til iOS og Android, og som (2) implementerer en Microsoft Intune-politik til beskyttelse af apps, der giver en beskyttet browseroplevelse.
+De bredeste beskyttelsesfunktioner til Microsoft 365-data bliver tilgængelige, når du abonnerer på Enterprise Mobility + Security-pakken, som omfatter Microsoft Intune- og Azure Active Directory Premium-funktioner, f.eks. betinget adgang. Du bør som minimum implementere en politik for betinget adgang, som (1) giver brugerne mulighed for at oprette forbindelse fra mobilenheder til Microsoft Edge til iOS og Android, og som (2) implementerer en politik for beskyttelse af Microsoft Intune-apps, der giver en beskyttet browseroplevelse.
 
 For at forstå, hvordan du kan bruge betinget adgang og politikker, skal du se:
 
-[Anvend politikker for betinget adgang til Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Anvend Azure Active Directory politikker for betinget adgang](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Opret Microsoft Intune-beskyttelsespolitikker for apps](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Opret Microsoft Intune politikker for appbeskyttelse](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Brug enkelt logon til Azure Active Directory-forbundne webapps i politikbeskyttede browsere](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Brug enkelt log på til Azure Active Directory-forbundne webapps i politikbeskyttede browsere](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Brug appkonfiguration til at administrere browseroplevelsen](https://go.microsoft.com/fwlink/?linkid=2132483)
 
@@ -43,6 +43,6 @@ For at forstå, hvordan du kan bruge betinget adgang og politikker, skal du se:
 
 [Installér politikker for appkonfiguration til databeskyttelse](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Brug Microsoft Endpoint Manager til at installere appkonfigurationspolitikker](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Brug Microsoft Endpoint Manager til at installere politikker for appkonfiguration](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Du kan få mere at vide om, hvordan du får adgang til administrerede applogfiler under Brug Microsoft Edge til [iOS og Android til at få adgang til administrerede applogfiler.](https://go.microsoft.com/fwlink/?linkid=2132578)
+Du kan få mere at vide om, hvordan du får adgang til administrerede applogfiler under Brug af Microsoft Edge til iOS og [Android til at få adgang til administrerede applogfiler.](https://go.microsoft.com/fwlink/?linkid=2132578)

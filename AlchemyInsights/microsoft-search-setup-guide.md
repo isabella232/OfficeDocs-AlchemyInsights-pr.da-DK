@@ -1,5 +1,5 @@
 ---
-title: Konfigurationsvejledning til Microsoft Søg
+title: Microsoft Søg konfigurationsvejledning
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975784"
 ---
-# <a name="microsoft-search-setup-guide"></a>Konfigurationsvejledning til Microsoft Søg
+# <a name="microsoft-search-setup-guide"></a>Microsoft Søg konfigurationsvejledning
 
-Brug [konfigurationsvejledningen til Microsoft](https://go.microsoft.com/fwlink/?linkid=2153798) Søg til at konfigurere Microsoft Søg. Uanset om du vil køre pilotprojektet for en gruppe af brugere eller udrulle den til alle i organisationen. Du skal tildele søgeadministratorer og søgeeditorer og derefter tilpasse søgeoplevelsen for dine brugere med svar og yderligere indstillinger, f.eks. at tilføje Bing-udvidelsen i Chrome eller indstille Bing som din standardsøgemaskine.
+Brug Microsoft Søg [til](https://go.microsoft.com/fwlink/?linkid=2153798) at konfigurere og konfigurere Microsoft Søg. Uanset om du vil køre pilotprojektet for en gruppe af brugere eller udrulle den til alle i organisationen. Du skal tildele søgeadministratorer og søgeeditorer og derefter tilpasse søgeoplevelsen for dine brugere med svar og yderligere indstillinger, f.eks. at tilføje Bing-udvidelsen til Chrome eller indstille Bing som din standardsøgemaskine.
