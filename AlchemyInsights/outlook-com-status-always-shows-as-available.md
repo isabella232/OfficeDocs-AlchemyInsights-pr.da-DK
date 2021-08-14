@@ -1,5 +1,5 @@
 ---
-title: Outlook.com status vises altid som tilgængelig
+title: Outlook.com-status vises altid som Tilgængelig
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6b19c87862d205fd4351a51331fd666d9c93ce98d48088629f054fe22b68c53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095140"
 ---
-# <a name="my-status-always-shows-as-available"></a>Min status vises altid som tilgængelig
+# <a name="my-status-always-shows-as-available"></a>Min status vises altid som Tilgængelig
 
-Hver gang du logger på Outlook.com, bliver din kontostatus nulstillet til tilgængelig. Du kan forhindre din status i at skifte ved ikke at logge af Outlook.com. Hvis du vil forblive logget på, når du lukker din browser, skal du markere afkrydsningsfeltet **Forbliv logget** på på logonsiden til Outlook.com.
+Hver gang du logger på Outlook.com, nulstilles din kontostatus til Tilgængelig. Du kan forhindre din status i at blive ændret ved ikke at logge af Outlook.com. For at forblive logget på,  når du lukker din browser, skal du vælge feltet Log mig ikke af på Outlook.com-logonsiden.

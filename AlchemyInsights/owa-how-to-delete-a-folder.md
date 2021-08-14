@@ -14,18 +14,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: 7b53932df90e66cc2cee6482342100d7c7df01b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36eef08dc4706fabd068d63710e944eafd14b24a0913d9408496cffd2d0b0ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063226"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Sådan sletter du en mappe i Outlook på internettet
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Sådan slettes en mappe i Outlook på internettet
 
-1. I mapperuden skal du højreklikke på den mappe eller undermappe, du vil slette.
+1. Højreklik på den mappe eller undermappe, du vil slette, i mapperuden.
 2. Vælg **Slet mappe**.
-3. Vælg **OK** for at bekræfte.
+3. Vælg **OK for** at bekræfte.
 
-Hvis du vil have mere at vide, skal du se [arbejde med meddelelsesmapper i Outlook på internettet](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Du kan få mere at vide [under Arbejde med meddelelsesmapper i Outlook på internettet](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 
