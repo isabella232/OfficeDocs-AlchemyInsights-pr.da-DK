@@ -15,15 +15,15 @@ ms.custom:
 - "7102"
 - "8297"
 - "9004617"
-ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973691"
 ---
 # <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Porter Google Chrome-udvidelser til Microsoft Edge (Chromium)
 
-Det er nemt at [portre Google Chrome-udvidelser til Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) I de fleste tilfælde er det kun nødvendigt med minimale ændringer for at køre disse udvidelser på Microsoft Edge.
+Det er nemt at [porte Google Chrome-udvidelser til Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) I de fleste tilfælde er kun minimale ændringer nødvendige for at køre disse udvidelser Microsoft Edge.
 
-API'er og manifestnøgler, der understøttes af Google Chrome, er kodekompatible med Microsoft Edge. Men Microsoft Edge understøtter ikke api'er til udvidelse chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken og chrome.instanceID.
+Udvidelses-API'er og manifestnøgler, der understøttes af Google Chrome, er kodekompatible med Microsoft Edge. Men Microsoft Edge understøtter ikke udvidelses-API'er chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken og chrome.instanceID.

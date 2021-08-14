@@ -1,5 +1,5 @@
 ---
-title: Forhindre, at filer downloades fra SharePoint eller OneDrive
+title: Undgå, at filer downloades fra SharePoint eller OneDrive
 ms.author: pebaum
 author: pebaum
 manager: matteva
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 3ada8657ebe4cd29d1390f9c30f75d1b0b95056a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d492f26584199f76531f0c1afe026b4754383a1457b33c2e4c643fb13977b319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063046"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Forhindre, at filer downloades fra SharePoint eller OneDrive
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Undgå, at filer downloades fra SharePoint eller OneDrive
 
-Der er forskellige metoder, der kan bruges til at forhindre eller blokere for overførsler i at opstå. Gå til nedenstående links for at se de respektive metoder:
+Der findes forskellige metoder, der kan bruges til at forhindre eller blokere downloads. Gå til nedenstående links for at se de respektive metoder:
 
-- [Bloker hentning af filer med Azure AD betinget adgang](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Bloker filoverførsel med betinget adgang til Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [Kontrollér adgang fra ikke-administrerede enheder](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Kontrollere adgang fra enheder, der ikke er administrerede](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [Konfigurere IRM-politikker i SharePoint-dokumentbiblioteker for at begrænse hentning af indhold](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [Konfigurere IRM-politikker for SharePoint dokumentbiblioteker for at begrænse download af indhold](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)

@@ -1,5 +1,5 @@
 ---
-title: Klargørings problemer i OneDrive og SharePoint
+title: Problemer med klargøring i OneDrive og SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,16 +7,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: aee565878fe2d879f0d74cd20dcff044e08abc12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5b416da323c1c02bde2a85b52027ba582aca7dc49bcf4db7fcede5100d0ed7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943765"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Klargørings problemer i OneDrive og SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Problemer med klargøring i OneDrive og SharePoint
 
-Når en bruger føjes til en eksisterende lejer, kan vedkommende se de SharePoint Online-eller OneDrive for Business-ikoner, der er angivet som "konfigurerer", indtil klargøringsprocessen er fuldført. For nyoprettede konti skal brugere logge på Microsoft 365 administration med sin egen konto, og derefter skal du klikke på OneDrive for manuelt at starte klargøringen af OneDrive-webstedet.
+Når en bruger føjes til en eksisterende lejer, får brugeren muligvis vist ikonerne SharePoint Online eller OneDrive for Business som "Konfiguration", indtil klargøringsprocessen er fuldført. For nyoprettede konti skal brugerne logge på Microsoft 365 Administration med deres egen konto og derefter klikke på OneDrive for manuelt at starte klargøring af OneDrive websted.
   
-Hvis der er gået mere end 24 timer, siden du første gang fik dette problem, skal du logge en support sag. I mange tilfælde arbejder vi allerede på en løsning. Giv os mindst 24 timer for at fuldføre en løsning.
+Hvis der er gået mere end 24 timer, siden du så problemet første gang, skal du logge en supportsag. I mange tilfælde arbejder vi allerede på en løsning. Giv os mindst 24 timer til at fuldføre en løsning.
   
