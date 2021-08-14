@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 1d2155b819ad34e1fa311ff16f038d3b2fa0d7dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 278cec08da97517b980988b4981bbe9c0993b7df8eb47f275e8bb5572495916d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983185"
 ---
 # <a name="issues-with-email-delivery"></a>Problemer med levering af mail
 
-Hvis der er et problem med at levere en mail, du har sendt, sender Microsoft 365 en mail, der fortæller dig, at du kender. Den mail, du modtager, er en meddelelse om leveringsstatus, også kaldet en DSN-fil eller en meddelelse om at springe over. Den mest almindelige type er kaldet en rapport om manglende levering (NDR), som fortæller dig, at der ikke blev leveret en meddelelse. Det kan være, at du ikke kan overføre noget som en slåfejl i en mailadresse. NDR'er indeholder en fejlkode, der angiver, hvorfor din mail ikke blev leveret, løsninger, der kan hjælpe dig med at få din mail leveret, et link til mere hjælp på internettet og tekniske oplysninger for administratorer.
+Når der er problemer med at levere en mail, du har sendt, sender Microsoft 365 en mail for at give dig besked. Den mail, du modtager, er en besked om leveringsstatus, også kaldet en DSN- eller en meddelelse om ikke-leveret post. Den mest almindelige type kaldes en rapport om manglende levering (NDR), som fortæller dig, at meddelelsen ikke blev leveret. Manglende levering kan skyldes noget så enkelt som en slåfejl i en mailadresse. NDR'er indeholder en fejlkode, der angiver, hvorfor din mail ikke blev leveret, løsninger, der kan hjælpe dig med at få leveret din mail, et link til mere hjælp på internettet og tekniske detaljer til administratorer.
 
-Hvis du vil se en liste over NDR'er og finde ud af, hvorfor din meddelelse ikke blev leveret, kan du se [rapporter om manglende levering af mail i Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Hvis du vil se en liste over rapporter om manglende levering (NDR) og finde ud af, hvorfor meddelelsen ikke blev leveret, skal du se Rapporter om manglende levering af [mail i Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

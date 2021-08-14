@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 formularer forretningsregel ved hjælp af fulde navn-feltet ikke udløser
+title: Dynamics 365 Forms Business Rule Using Fullname Field Not Firing
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947401"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Feltet fulde navn understøttes ikke med Unified inteface-apps
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Feltet Fulde navn understøttes ikke med samlede apps med heltal
 
-Handlinger eller betingelser, der bruger et **fulde navn** (fulde navn)-felt, understøttes ikke i apps, der er baseret på den samlede grænseflade. Du kan også bruge handlinger eller betingelser med felterne **fornavn** (fornavn) og **efter navn (efter navn** ).
+Handlinger eller betingelser, der bruger **et felt med** fuldt navn (fulde navn), understøttes ikke i apps, der er baseret på den samlede grænseflade. Du kan også bruge handlinger eller betingelser med **felterne Fornavn** (fornavn) og Efternavn (efternavn). 
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

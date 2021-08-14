@@ -1,5 +1,5 @@
 ---
-title: 1489 – tilladelser – påkrævet-for-eDiscovery-søgninger
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795814"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973835"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Tilladelser, der kræves til eDiscovery-søgninger
+# <a name="permissions-required-for-ediscovery-searches"></a>Der kræves tilladelser til eDiscovery-søgninger
 
-Hvis du vil udføre indholds søgninger i sikkerheds & overholdelses Center, skal en bruger mindst være medlem af rollegruppen eDiscovery Manager, som gør det muligt at udføre søgninger og placere ventepositioner på postkasser, SharePoint-websteder og OneDrive-placeringer. Medlemmer kan også oprette og administrere eDiscovery-sager, tilføje og fjerne medlemmer i en sag, oprette og redigere indholds søgninger og få adgang til case-data i avanceret eDiscovery.
+For at kunne udføre indholdssøgninger i Security & Compliance Center skal en bruger som minimum være medlem af rollegruppen eDiscovery Manager, som giver brugeren mulighed for at udføre søgninger og placere ventende indhold på postkasser, SharePoint-websteder og OneDrive-placeringer. Medlemmer kan også oprette og administrere eDiscovery-sager, tilføje og fjerne medlemmer til en sag, oprette og redigere indholdssøgninger og få adgang til sagsdata i Advanced eDiscovery.
 
-Hvis du vil udføre direkte eDiscovery-søgninger i Exchange Admin Center (EAC), skal brugeren være medlem af rollegruppen Discovery Management i Exchange Online.
+For at In-Place eDiscovery-søgninger i Exchange Administration (EAC) skal brugeren være medlem af rollegruppen Søgeadministration i Exchange Online.
 
-Du kan finde flere oplysninger om eDiscovery-tilladelser under: 
+Du kan finde flere oplysninger om eDiscovery-tilladelser i: 
 
-- [Tildel eDiscovery-tilladelser i sikkerheds & overholdelses Center](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [Tildel eDiscovery-tilladelser i Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 - [Tildel eDiscovery-tilladelser i Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Bemærk**! når du har tildelt eDiscovery-tilladelser, skal du muligvis vente et par minutter, før tilladelserne overføres.
+**Bemærk!** Når du har tildelt eDiscovery-tilladelser, kan det være nødvendigt at vente et par minutter på, at tilladelserne overføres.

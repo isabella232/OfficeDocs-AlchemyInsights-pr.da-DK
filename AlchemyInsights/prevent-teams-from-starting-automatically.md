@@ -1,5 +1,5 @@
 ---
-title: Forhindre teams i at starte automatisk
+title: Undgå Teams startes automatisk
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923782"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Forhindre teams i at starte automatisk
+# <a name="prevent-teams-from-starting-automatically"></a>Undgå Teams startes automatisk
 
-Som standard åbnes teams automatisk, når du starter din enhed.
+Som standard Teams automatisk, når du starter din enhed.
 
-Hvis du vil ændre denne indstilling, skal du vælge dit teams profilbillede og derefter vælge **Indstillinger**  >   **Generelt**. Under  **programmet**skal du fjerne markeringen ud for  **automatisk start-program**.
+Hvis du vil ændre denne indstilling, skal Teams vælge dit profilbillede og derefter **Indstillinger**  >   **Generelt.** Under **Program** skal du fjerne **afkrydsningsfeltet Start programmet automatisk.**
 
-Hvis du vil have mere at vide, skal du se  [ændre indstillinger i teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
+Du kan finde flere oplysninger [i Ændre indstillinger i Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).
