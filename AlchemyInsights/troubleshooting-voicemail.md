@@ -1,5 +1,5 @@
 ---
-title: 'Fejlfinding af voicemail '
+title: 'Fejlfinding af telefonsvarer '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972377"
 ---
-# <a name="troubleshooting-voicemail"></a>Fejlfinding af voicemail
+# <a name="troubleshooting-voicemail"></a>Fejlfinding af telefonsvarer
 
-Sørg for, at funktionen optaget på optaget er bevidst.
+Sørg for, at funktionen Optaget optaget er bevidst.
 
 Hvis denne funktion ikke er nødvendig for denne bruger:
 
-1. Gå til [teams Administrationscenter](https://admin.teams.microsoft.com/policies/calling).
-1. På den venstre bane skal du navigere i politikker for **tale**  >  **opkald**  >  **administrere politikker** for **Opkalds politikken**.
+1. Gå [til Teams Administration.](https://admin.teams.microsoft.com/policies/calling)
+1. Naviger på skinnen til **venstre for Politikker**  >  **for**  >  **telefonopkald** under Politikker for **opkald**.
 1. Vælg **Administrer brugere**.
-1. Søg efter bruger, og ret opkalds politikken til en, der har **travlt optaget, er tilgængelig, når du ringer** til **fra**.
+1. Søg efter bruger, og skift Opkaldspolitik til en, der har Optaget **optaget er tilgængelig, når du er i et opkald** til **Fra**.
 1. Klik på **Anvend**.
 > [!NOTE]
-> Ændringer af politikker kan tage op til 24 timer at replikere.
+> Det kan tage op til 24 timer at replikere ændringer i politikker.
 
-Hvis du vil have mere at vide om denne funktion, kan du se: [optaget på travl, når du er i gang med et opkald](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Du kan finde flere oplysninger om denne funktion under: [Optaget optaget er tilgængelig, mens du er i et opkald](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).

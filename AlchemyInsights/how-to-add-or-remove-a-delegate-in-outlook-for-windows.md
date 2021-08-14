@@ -1,5 +1,5 @@
 ---
-title: Sådan tilføjer eller fjerner du en stedfortræder i Outlook til Windows
+title: Sådan tilføjes eller fjernes en stedfortræder i Outlook til Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573339"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945331"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Sådan tilføjer eller fjerner du en stedfortræder i Outlook til Windows
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Sådan tilføjes eller fjernes en stedfortræder i Outlook til Windows
 
-Sådan tilføjer du en stedfortræder i Outlook til Windows: 
+Sådan tilføjer du en stedfortræder Outlook for Windows: 
 
-1. Klik på fanen **filer** efterfulgt af **kontoindstillinger**, og vælg derefter **stedfortræderadgang**.
-2. Klik på **Tilføj**. Hvis **Tilføj** ikke vises, findes der muligvis ikke en aktiv forbindelse mellem Outlook og Exchange. Statuslinjen i Outlook viser Forbindelsesstatus.
-3. Skriv navnet på den person, du vil angive som stedfortræder, eller Søg, og vælg navnet på listen over søgeresultater.
-
-    > [!NOTE]
-    > Stedfortræderen skal være en person på din organisations globale Exchange-adresseliste (GAL).
-4. Klik på **Tilføj** efterfulgt af **OK**.
-5. I dialogboksen **stedfortrædertilladelser** skal du acceptere standardindstillingerne for tilladelser eller vælge brugerdefinerede adgangsniveauer for Exchange-mapper.
-
-    - Hvis en stedfortræder skal have tilladelse til kun at fungere med mødeindkaldelser og svar, er standardindstillingerne for tilladelse som **stedfortræder modtager kopier af møderelaterede meddelelser, der er sendt til mig** , der er tilstrækkelige. Du kan lade **indbakkens** tilladelsesindstilling være **none**. Mødeindkaldelser og svar sendes direkte til stedfortræderens indbakke.
+1. Klik på fanen **Filer** efterfulgt af Firma **Indstillinger**, og vælg derefter **Stedfortræderadgang**.
+2. Klik på **Tilføj.** Hvis **Tilføj** ikke vises, findes der muligvis ikke en aktiv forbindelse mellem Outlook og Exchange. Statuslinjen Outlook forbindelsesstatussen.
+3. Skriv navnet på den person, du vil udpege som stedfortræder, eller søg og vælg navnet på listen over søgeresultater.
 
     > [!NOTE]
-    > Som standard er stedfortræderen tildelt **redaktør (kan læse, oprette og ændre elementer)** til din **kalender** mappe. Når stedfortræderen svarer på et møde på dine vegne, føjes det automatisk til din **kalender** mappe.
+    > Stedfortræderen skal være en person i din organisations Exchange globale adresseliste (GAL).
+4. Klik på **Tilføj** efterfulgt af **OK.**
+5. I dialogboksen **Stedfortrædertilladelser skal** du acceptere standardtilladelsesindstillingerne eller vælge brugerdefinerede adgangsniveauer for Exchange mapper.
 
-5. Hvis du vil sende en meddelelse for at underrette stedfortræderen om de ændrede tilladelser, skal du markere afkrydsningsfeltet **Send automatisk en meddelelse til stedfortrædere med en sammenfatning af disse tilladelser** .
-6. Hvis du vil, kan du markere afkrydsningsfeltet **stedfortræderen kan se mine private elementer** .
+    - Hvis en stedfortræder har brug for tilladelse til kun at håndtere mødeindkaldelser og svar, er indstillingerne for standardtilladelser som f.eks. Stedfortræderen modtager kopier af møderelaterede meddelelser, **der** er sendt til mig, tilstrækkelige. Du kan lade **tilladelsesindstillingen** Indbakke være på **Ingen**. Mødeindkaldelser og svar går direkte til stedfortræderens indbakke.
+
+    > [!NOTE]
+    > Som standard får stedfortræderen **Redaktør (kan læse, oprette og redigere elementer)-tilladelse** til **mappen** Kalender. Når stedfortræderen svarer på et møde på dine vegne, føjes det automatisk til **mappen** Kalender.
+
+5. Hvis du vil sende en meddelelse til stedfortræderen om de ændrede tilladelser, skal du markere afkrydsningsfeltet Send automatisk en meddelelse til stedfortrædere med en kortfatning **af** disse tilladelser.
+6. Hvis du vil, kan du markere **afkrydsningsfeltet Stedfortræderen kan se mine private** elementer.
 
     > [!IMPORTANT]
-    > Denne indstilling påvirker alle Exchange-mapper. Dette omfatter alle mail-, kontakt-, kalender-, opgaver, noter og Journal-mapper. Det er ikke muligt at give adgang til private elementer i bestemte mapper.
+    > Denne indstilling påvirker alle Exchange mapper. Dette omfatter alle mapperne Mail, Kontakter, Kalender, Opgaver, Noter og Journal. Det er ikke muligt at give adgang til private elementer i kun angivne mapper.
 
-7. Vælg **OK**.
+7. Vælg **OK.**
 
     > [!NOTE]
     >
-    > - Meddelelser, der sendes med tilladelsen Send på vegne af, omfatter både stedfortræderens og dine navne ud for **fra**. Når en meddelelse sendes med Send som-tilladelser, vises kun dit navn.
-    > - Når du har tilføjet en person som stedfortræder, kan vedkommende tilføje din Exchange-postkasse til sin Outlook-profil. Hvis du vil have mere at vide, skal du se [administrere en anden persons mail og kalender](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    > - Meddelelser, der sendes med Send på vegne af-tilladelser, omfatter både stedfortræderens og dit navn ud for **Fra**. Når en meddelelse sendes med Send som-tilladelser, er det kun dit navn, der vises.
+    > - Når du tilføjer en person som stedfortræder, kan de føje din Exchange postkasse til deres Outlook profil. Du kan finde en vejledning [i Administrere en anden persons mail og kalender.](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5)
 
-Sådan fjerner du en stedfortræder i Outlook til Windows:
+Sådan fjerner du en stedfortræder Outlook for Windows:
 
-1. Klik på fanen **filer** .
-2. Klik på **kontoindstillinger** efterfulgt af **stedfortræderadgang**.
-3. Vælg navnet på den stedfortræder, du vil ændre tilladelser for, og klik derefter på **Fjern** efterfulgt af **OK**.
+1. Klik på **fanen** Filer.
+2. Klik på **Konto Indstillinger** efterfulgt af **Stedfortræderadgang**.
+3. Vælg navnet på den stedfortræder, du vil ændre tilladelser for, og klik derefter på **Fjern** efterfulgt af **OK.**

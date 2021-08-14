@@ -14,12 +14,12 @@ ms.custom:
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: f7321067edb3c0ce41dedaa00324dcae42ec7ec9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4545a578154edac69acac6097d4a259299c5303a5a0b254c7fe0c57869b7bcab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945070"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028 – Meddelelser i Outlook for at få Outlook til iOS og Android på mobilenheder
 
@@ -27,6 +27,6 @@ Du behøver ikke gøre noget for at forberede på denne ændring. Hvis du foretr
 
 Anmodninger vil træde i kraft inden for 7 dage. Vi sender ikke en meddelelse, der informerer dig om, at anmodningen er blevet behandlet. Hvis du stadig kan se anbefalingen i produktet, efter du har indsendt formularen og ventet 7 dage, skal du kontakte support.
 
-Med omfattende integration på tværs af OneDrive-, Teams- og Microsoft 365-apps er Outlook den bedste måde at opleve Office 365 på en mobilenhed. Mange kunder er ikke opmærksomme på, at de kan få ekstra funktionalitet og kommercielle brugsrettigheder til Outlook Mobile som et led i deres Office 365- og Microsoft 365-tjenester uden ekstra omkostninger.
+Med omfattende integration på OneDrive, Teams og Microsoft 365 apps er Outlook den bedste måde at opleve Office 365 på en mobilenhed. Mange kunder er ikke opmærksomme på, at de kan få ekstra funktionalitet og kommercielle brugsrettigheder til Outlook Mobile som et led i deres Office 365- og Microsoft 365-tjenester uden ekstra omkostninger.
 
 Brugere, der bruger Outlook med deres arbejds- eller skolekonto, men ikke bruger Outlook Mobile, vil muligvis snart se en meddelelse om, at de kan få Outlook til deres telefon. Hvis de afviser meddelelsen, eller begynder at bruge Outlook Mobile, vises meddelelsen ikke igen. Der gives et hurtigt link for at forenkle download af appen til den ønskede mobilenhed.
