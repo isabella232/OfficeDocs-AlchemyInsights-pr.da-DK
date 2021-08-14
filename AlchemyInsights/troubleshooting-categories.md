@@ -1,5 +1,5 @@
 ---
-title: 604-fejlfindings kategorier
+title: 604 Fejlfindingskategorier
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972521"
 ---
-# <a name="outlook-categories"></a>Outlook-kategorier
+# <a name="outlook-categories"></a>Outlook kategorier
 
-Kategorier gælder kun for elementer i din kalender. Hvis du anvender en farvekategori til en mødeindkaldelse eller et møde, du har modtaget fra en anden person, vises farvekategorien kun i din kalender.  Hvis du anvender en farvekategori på en delt postkasse, stedfortræder postkasse, gruppepostkasse, lokale postkasse osv. farvekategorien påvirker kun visningen.
+Kategorier gælder kun for elementer i din kalender. Hvis du anvender en farvekategori på en mødeindkaldelse eller et møde, du har modtaget fra en anden person, vises denne farvekategori kun i din kalender.  Hvis du anvender en farvekategori på en delt postkasse, en stedfortræderpostkasse, en gruppepostkasse, en lokalepostkasse osv., så påvirker farvekategorien kun din visning.
 
-[Hvis du vil have mere at vide: Tildel en farvekategori til en kalenderaftale, et møde eller en begivenhed](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+Få mere at vide: [Tildel en farvekategori til en kalenderaftale, et møde eller en begivenhed](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
