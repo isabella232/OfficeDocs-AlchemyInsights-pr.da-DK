@@ -1,5 +1,5 @@
 ---
-title: Advanced AIP-klientkonfiguration
+title: Avanceret konfiguration af AIP-klient
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b096b9b438f257a50c9ec48379009f2a3798c1812fa531cdc30e61a5460a1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951811"
 ---
-# <a name="aip-client-advanced-configuration"></a>Advanced AIP-klientkonfiguration
+# <a name="aip-client-advanced-configuration"></a>Avanceret konfiguration af AIP-klient
 
-Har du problemer med avanceret konfiguration af AIP-klienten? Hvis det er tilfældet, skal du gøre følgende:
+Har du problemer med avanceret konfiguration af AIP-klienten? Hvis det er ja, skal du gøre følgende:
 
-1. Du bruger muligvis område indretninger, der ikke er konfigureret korrekt. Hvis du vil have mere at vide, skal du se [Sådan konfigurerer du politikken for Azure information Protection for bestemte brugere ved hjælp af område politikker](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+1. Du bruger muligvis politikker med omfang, der ikke er konfigureret korrekt. Du kan få mere at vide [under Sådan konfigureres Azure Information Protection-politikken for bestemte brugere ved hjælp af politikker med omfang.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
 
-2. Hvis du fortsat oplever problemet, kan du se ressourcerne nedenfor. Hvis problemet forbliver uløst, kan du tage et skærmbillede af problemet og vedhæfte det til support billetten.
+2. Hvis du fortsat oplever problemet, skal du se nedenstående ressourcer. Hvis problemet ikke blev løst, kan du tage et skærmbillede af problemet og vedhæfte det til supportanmodningen.
 
-Hvis du vil have flere ressourcer, skal du se:
+Du kan finde flere ressourcer i:
 
-- [Sådan konfigureres politikindstillingerne for Azure information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [Sådan konfigurerer du politikindstillingerne for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [Administratorvejledning: brugerdefinerede konfigurationer for Azure information Protection-klienten](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [Administratorvejledning: Brugerdefinerede konfigurationer til Azure Information Protection-klienten](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
-- [Hvad er Azure information Protection?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Hvad er Azure Information Protection?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [Vejledninger til almindelige scenarier, der bruger Azure information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Vejledninger til almindelige scenarier, der bruger Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [Konfiguration af politikken for Azure information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
+- [Konfiguration af Azure Information Protection-politikken](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
-- [Standardpolitik for Azure-informations beskyttelse](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
+- [Standardpolitikken for Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [Sådan opretter du en ny etiket til Azure information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [Sådan opretter du en ny etiket til Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [Sådan konfigurerer du en etiket til beskyttelse mod beskyttelse af rettigheder](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [Sådan konfigurerer du en etiket til Rights Management Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
-- [Oplysninger om beskyttelse af oplysninger i Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Krav til Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [Selvstudium: konfigurere politikindstillinger for Azure information Protection og oprette en ny etiket](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Selvstudium: Konfigurere politikindstillinger for Azure Information Protection og oprette en ny etiket](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

@@ -16,20 +16,20 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 5b460b597a0c5a7875240747c12f20bad2476e1fc37ce817a61e332cc404f9ac
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ce64ca1f9afa04ab9eaa6129dd5bbafb2b8e799ae32ca24162fd5c8bac7d84fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500766"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868636"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Forlæng din prøveperiode for Microsoft 365 til virksomheder
 
-Du kan forlænge din gratis prøveversion med en yderligere periode på 30 dage. Derefter går din prøveperiode ind i en 30-dages [periode](/alchemyinsights/grace-period-for-microsoft-365-free-trial). Følg disse trin for at forlænge din prøveversion:
+Du kan forlænge din gratis prøveversion med en yderligere periode på 30 dage. Derefter går din prøveperiode ind i en 30-dages [periode](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Følg disse trin for at forlænge din prøveversion:
   
 1. I Administration skal du gå til **siden Fakturering** \> [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
 2. På fanen **Produkter** skal du vælge det prøveabonnement, du vil forlænge.
 3. På siden med abonnementsoplysninger skal du **i sektionen Abonnements- og** betalingsindstillinger vælge **Forlæng slutdato.**
 4. Gennemse **udvidelsesoplysningerne i** ruden Forlæng slutdato, og vælg om nødvendigt en betalingsmetode. Når du er færdig, skal du vælge **Forlæng prøveperiode**.
 
-Hvis du vil have mere at vide om at forlænge din prøveversion eller for en trinvis vejledning, skal du se [Forlæng prøveperiode for Office 365 til virksomheder.](/microsoft-365/commerce/extend-your-trial)
+Du kan få mere at vide om at forlænge din prøveversion eller få en trinvis vejledning under [Forlæng prøveperiode for Office 365 til virksomheder.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)

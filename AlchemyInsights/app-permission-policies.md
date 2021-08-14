@@ -1,5 +1,5 @@
 ---
-title: App-tilladelsespolitikker
+title: Politikker for apptilladelser
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564495"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951667"
 ---
-# <a name="app-permission-policies"></a>App-tilladelsespolitikker
+# <a name="app-permission-policies"></a>Politikker for apptilladelser
 
-Med [politikker for app-tilladelser](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)kan du gøre følgende:
-- Som administrator kan du administrere politikker for konfiguration af apps i [Microsoft teams administration](https://admin.teams.microsoft.com/policies/app-permission).
-- Kontrollér, hvilke apps der er tilgængelige for Microsoft teams-brugere i organisationen ved hjælp af global politik eller [Opret og Tildel brugerdefinerede politikker](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) til at tilpasse og styre bruger adgang til apps. 
+Med [App-tilladelsespolitikker](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)kan du gøre følgende:
+- Som administrator kan du administrere politikker for konfiguration af apps [i Microsoft Teams Administration.](https://admin.teams.microsoft.com/policies/app-permission)
+- Styr, hvilke apps der er tilgængelige for Microsoft Teams brugere [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) i organisationen ved hjælp af global politik, eller opret og tildel brugerdefinerede politikker for at tilpasse og kontrollere brugeradgang til apps. 
 > [!NOTE]
-> Org-Wide App-indstillinger tilsidesætter den globale politik og eventuelle brugerdefinerede politikker, som du opretter og tildeler til brugere.
-- Du kan bruge [politikker for konfiguration af appen](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) til at tilpasse Microsoft teams til at fremhæve de apps, der er vigtigst for dine brugere. 
+> Appindstillinger for hele organisationen tilsidesætter den globale politik og eventuelle brugerdefinerede politikker, som du opretter og tildeler til brugere.
+- Du kan bruge [politikker for konfiguration af apps](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) til at tilpasse Microsoft Teams at fremhæve de apps, der er vigtigst for dine brugere. 
 
 
-Du kan finde flere oplysninger om oprettelse af app-politikker for din lejer i:
-- [Administrer dine apps i Microsoft teams Administrationscenter](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Administrere app-tilladelsespolitikker i Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Administrere brugerdefinerede app-politikker og-indstillinger i Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Du kan finde flere oplysninger om oprettelse af apppolitikker for din lejer i:
+- [Administrer dine apps Microsoft Teams Administration](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Administrer politikker for apptilladelser i Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Administrer brugerdefinerede apppolitikker og indstillinger i Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

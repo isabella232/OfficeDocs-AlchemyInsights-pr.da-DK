@@ -1,5 +1,5 @@
 ---
-title: Diagram viser et andet antal poster i gitter
+title: Diagrammet viser forskellige antal poster i gitteret
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5611"
 - "9002930"
-ms.openlocfilehash: e499a439e7cf7e9ecbb6566f9f089f3b7b82f48e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68ba6caf602a5cf60e2c96c80703f19dd07c3b6430c2a66f40fea4a2f3d06e75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793752"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950074"
 ---
-# <a name="chart-shows-different-number-of-records-in-grid"></a>Diagram viser et andet antal poster i gitter
+# <a name="chart-shows-different-number-of-records-in-grid"></a>Diagrammet viser forskellige antal poster i gitteret
 
 **Symptom**
 
-For diagram på dashboardsiden, når du klikker på diagram "..." og klik på "Vis poster", skal du gå til gitter side for at få vist alle posterne. Nogle gange ændres antallet af poster.
+For diagram på dashboardside, når du klikker på diagrammet "..." og klikker på "Vis poster", navigerer du til gittersiden for at få vist alle posterne. Nogle gange ændres antallet af poster.
 
-**Kræve**
+**Årsag**
 
-Dette skyldes forskellen mellem visningen af diagrammet på den oprindelige dashboardside og diagrammet på gitter startsiden.  
+Dette skyldes de forskellige visninger mellem diagrammet på den oprindelige dashboardside og diagrammet på gitterets startside.  
 
 **Løsning**
 
-1. Markér visningen på den oprindelige side og visningen i gitteret for at se, om de er forskellige.
-2. Du kan ændre visningen i gitteret, så det svarer til visningen på den oprindelige side.
-3. Hvis den korrekte visning ikke kan findes, betyder det normalt, at visningen ikke er aktiveret i app designer.
-4. Gå til App designer for den bestemte app, Vælg objektet og dens visninger, Markér den visning, du vil aktivere, gemme, publicere og lukke.
+1. Kontrollér visningen fra den oprindelige side og visningen i gitteret for at se, om de er forskellige.
+2. Rediger visningen i gitteret, så den passer til visningen på den oprindelige side.
+3. Hvis den korrekte visning ikke kan findes, betyder det som regel, at visningen ikke er aktiveret i appdesigneren.
+4. Gå til Appdesigner for den specifikke app, vælg enheden og dens visninger, kontrollér den visning, du vil aktivere, gemme, publicere og lukke.
 5. Opdater siden.

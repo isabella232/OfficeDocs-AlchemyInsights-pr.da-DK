@@ -1,5 +1,5 @@
 ---
-title: Outlook.com, hvordan du får support
+title: Outlook.com Sådan får du support
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: fe8a3956dbeff811935e976a8d75274f5e736482
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 1d42e026814499c28396913906346b70c6b7299176dea67e0cd420df73a0cda4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096040"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Sådan får du support i Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>Sådan får du support på Outlook.com
 
-Outlook.com tilbyder ikke telefonsupport, men vi har dedikerede teams, der kan hjælpe dig.
-Skriv dit spørgsmål, eller Beskriv dit problem i feltet **Hjælp** ovenfor, og vælg derefter **få hjælp**.
+Beklager, Outlook.com tilbyder ikke telefonsupport, men vi har dedikerede teams, der kan hjælpe dig.
+Skriv dit spørgsmål, eller beskriv dit problem **i feltet** Hjælp ovenfor, og vælg derefter **Få hjælp**.
 
 [Få hjælp til Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
