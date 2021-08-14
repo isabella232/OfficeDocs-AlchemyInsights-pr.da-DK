@@ -14,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d65ee2ec5507e3a691c5db6c44e5790ca60c47ac9b52e04f4c9052bf9503402d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961585"
 ---
 # <a name="how-to-verify-your-outlookcom-account"></a>Sådan bekræfter du din Outlook.com-konto
 
-Totrinsbekræftelse er med til at beskytte dig ved at gøre det sværere for andre at logge på din Microsoft-konto. Den anvender to forskellige former for identitet: din adgangskode og en kontaktmetode (også kaldet sikkerhedsoplysninger).
+Totrinsbekræftelse beskytter dig ved at gøre det sværere for andre at logge på din Microsoft-konto. Den anvender to forskellige former for identitet: din adgangskode og en kontaktmetode (også kaldet sikkerhedsoplysninger).
   
-Sådan slår du totrinsbekræftelse til eller fra:
+Sådan slås totrinsbekræftelse til eller fra:
   
-1. Gå til [siden grundlæggende oplysninger om sikkerhed](https://go.microsoft.com/fwlink/?linkid=842325) , og log på med din Microsoft-konto.
-2. Vælg **flere sikkerhedsindstillinger**.
-3. Under **totrinsbekræftelse**skal du vælge **Konfigurer** totrinsbekræftelse og følge instruktionerne.
+1. Gå til siden [Grundlæggende sikkerhed, og](https://go.microsoft.com/fwlink/?linkid=842325) log på med din Microsoft-konto.
+2. Vælg **Flere sikkerhedsindstillinger.**
+3. Under **Totrinsbekræftelse** skal du **vælge Konfigurer totrinsbekræftelse** og følge vejledningen.
 
-Hvis du slår totrinsbekræftelse til, skal du altid bruge to former for identifikation. Hvis du mister din kontaktmetode, får du ikke vist din adgangskode tilbage på din konto – og det kan tage op til 30 dage at få adgang igen.
+Hvis du aktiverer totrinsbekræftelse, skal du altid bruge to former for identifikation. Hvis du mister din kontaktmetode, vil din adgangskode ikke alene få dig tilbage til din konto – og det kan tage dig 30 dage at få adgang igen.
   
-Få mere at [vide om totrinsbekræftelse](https://go.microsoft.com/fwlink/?linkid=872270).
+Få mere at vide [om totrinsbekræftelse](https://go.microsoft.com/fwlink/?linkid=872270).
   

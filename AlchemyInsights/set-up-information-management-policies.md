@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 862dc76f71828ac727efcfe10656c218754ce25a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0e3de5591c064f7e121c206180b34ee34e985f872a5ee6209889ecad6eaa32c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921649"
 ---
 # <a name="set-up-information-management-policies"></a>Konfigurere politikker for administration af oplysninger
 
-1. Hvis SharePoint-webstedet har underordnede websteder, skal du gå til webstedet på øverste niveau.
+1. Hvis SharePoint har underordnede websteder, skal du gå til webstedet på øverste niveau.
     
-2. Klik på **Indstillinger**, og klik derefter på **Indstillinger for websted**. Hvis webstedet er et Microsoft 365-gruppe tilknyttet websted, skal du klikke på **Indstillinger**, klikke på **websteds indhold**og derefter klikke på **Indstillinger for websted**.
+2. Klik **Indstillinger**, og klik derefter på **Webstedswebsted Indstillinger**. Hvis webstedet er et af Microsoft 365 gruppeforbundet websted, skal du **klikke Indstillinger,** klikke på Webstedsindhold og derefter klikke på Webstedsindhold **Indstillinger**.
     
-3. Klik på **funktioner for gruppen af**websteder under **administration af gruppe af websteder**.
+3. Under Administration **af gruppe af websteder skal** du klikke på Funktioner for grupper af **websteder.**
     
-4. Klik på **Aktivér**under **administration af datastyring**.
+4. Klik **på Aktivér under Direkte** **datastyring.**
     
-Du kan finde flere oplysninger i [Introduktion til politikker for administration af oplysninger](https://go.microsoft.com/fwlink/?linkid=404239) og [oprette og anvende politikker for administration af oplysninger](https://go.microsoft.com/fwlink/?linkid=2003916).
+Få mere at vide under Introduktion [til politikker for administration af oplysninger](https://go.microsoft.com/fwlink/?linkid=404239) og Opret og anvend politikker for administration af [oplysninger.](https://go.microsoft.com/fwlink/?linkid=2003916)
   
 

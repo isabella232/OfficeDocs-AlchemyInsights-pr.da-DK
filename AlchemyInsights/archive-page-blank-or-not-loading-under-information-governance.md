@@ -1,5 +1,5 @@
 ---
-title: Arkivér side tom eller indlæses ikke under Styring af oplysninger
+title: Arkivér en side, der er tom eller ikke indlæses under Styring af oplysninger
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997344"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Arkivside tom eller ikke indlæst under Styring af oplysninger
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Arkivér en side, der er tom eller ikke indlæses under Styring af oplysninger
 
-Hvis **arkivsiden** under Information Governance i Security and Compliance Center er  tom eller ikke indlæses, skal du i stedet bruge indstillingen Arkiv i det nye M365-overholdelsescenter.
+Hvis siden **Arkiv** under Information Governance i Security and Compliance Center  er tom eller ikke indlæses, skal du bruge indstillingen Arkiv i det nye M365 Compliance Center i stedet.
 
 1. Gå til [https://compliance.microsoft.com](https://compliance.microsoft.com/)
 1. Vælg Information Governance.

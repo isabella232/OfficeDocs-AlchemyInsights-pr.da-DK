@@ -1,5 +1,5 @@
 ---
-title: Kan ikke overføre et billede til en gruppechat
+title: Et billede kan ikke overføres til en Teams chat
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930795"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Kan ikke overføre et billede til en gruppechat
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Et billede kan ikke overføres til en Teams chat
 
 Forslag til fejlfinding:
 
-- Hvis du bruger teams på internettet, kan du prøve en anden browser. Hvis du vil se en liste over understøttede browsere, skal du se afsnittet "browsere" i [begrænsninger og specifikationer for Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Kontrollér kompatibiliteten for din hardware og dit OPERATIVSYSTEM. Du kan finde flere oplysninger i [hardware krav til Microsoft teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Kontrollér, at du har den nyeste version af teams. Du kan finde flere oplysninger i [opdateringsprocessen for teams](https://docs.microsoft.com/microsoftteams/teams-client-update) for at få flere oplysninger.
+- Hvis du bruger Teams, kan du prøve en anden browser. Du kan finde en liste over understøttede browsere i afsnittet "Browsere" under [Begrænsninger og specifikationer for Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
+- Kontrollér kompatibiliteten af din hardware og dit operativsystem. Du kan finde flere oplysninger [under Hardwarekrav til Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
+- Kontrollér, at du har den nyeste Teams version. Du kan finde flere oplysninger [Teams opdateringsprocessen.](https://docs.microsoft.com/microsoftteams/teams-client-update)
