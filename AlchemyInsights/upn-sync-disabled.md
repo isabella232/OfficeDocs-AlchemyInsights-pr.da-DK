@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782145"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038106"
 ---
 # <a name="upn-sync-disabled"></a>UPN-synkronisering er deaktiveret
 
@@ -27,6 +27,6 @@ Hvis du er begyndt at synkronisere med Azure AD før d. 30. marts 2016, skal du 
   
 UPN-blød match er automatisk aktiveret for organisationer, der begyndte at synkronisere til Azure AD den eller efter d. 30. marts 2016.
   
-Hvis du vil have mere at vide om at aktivere blød match på UPN og andre synkroniseringsfunktioner, skal du se [Azure AD Connect-synkroniseringstjenestefunktioner.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
+Hvis du vil have mere at vide om at aktivere blød match på UPN og andre synkroniseringsfunktioner, skal du se [Azure AD Forbind-synkroniseringstjenestefunktioner.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

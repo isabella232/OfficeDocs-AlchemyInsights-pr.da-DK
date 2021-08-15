@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016586"
 ---
 # <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Tilladelser og browserrelaterede krav til Microsoft 365 Defender
 
-- Tilladelser: Hvis du vil slå Microsoft 365 Defender til, skal du være global administrator eller sikkerhedsadministrator i Azure Active Directory. Hvis du vil se listen over roller, der kan bruge Microsoft 365 Defender, og for at få mere at vide om, hvordan adgang til data er reguleret, skal du se Administrer adgang til [Microsoft 365 Defender.](https://go.microsoft.com/fwlink/?linkid=2143626)
+- Tilladelser: Hvis du vil Microsoft 365 Defender, skal du være global administrator eller sikkerhedsadministrator i Azure Active Directory. For at se listen over roller, der kan bruge Microsoft 365 Defender, og for at få mere at vide om, hvordan adgang til data er regulerede, henvises der til Administrer adgang [til Microsoft 365 Defender.](https://go.microsoft.com/fwlink/?linkid=2143626)
 
 - Browserrelaterede krav: For at få adgang til Microsoft 365 Defender i Microsoft 365-sikkerhedscenteret skal du bruge Microsoft Edge, Internet Explorer 11 eller en HTML 5-kompatibel webbrowser.

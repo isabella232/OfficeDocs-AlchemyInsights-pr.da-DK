@@ -1,5 +1,5 @@
 ---
-title: Adgang nægtet, når du får vist en arbejdsproces
+title: Adgang nægtet ved visning af en arbejdsproces
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955195"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Adgang nægtet, når du får vist en arbejdsproces
+# <a name="access-denied-when-viewing-a-workflow"></a>Adgang nægtet ved visning af en arbejdsproces
 
-SharePoint 2013-arbejdsprocesser, der forsøger at sende en mail til en SharePoint-gruppe, kan mislykkes med fejlmeddelelsen "adgang nægtet", hvis medlemskabet af SharePoint-gruppen ikke er indstillet til alle.
+SharePoint 2013-arbejdsprocesser, der forsøger at sende en mail til en SharePoint-gruppe, kan mislykkes med fejlmeddelelsen "Adgang nægtet", hvis medlemskabet af SharePoint-gruppen ikke er angivet til Alle.
   
- **Du kan løse dette problem ved at følge disse trin:**
+ **Du kan løse dette problem ved at udføre disse trin:**
   
- 1. Tillad alle at se medlemmerne af SharePoint-gruppen.
+ 1. Tillad, at alle kan se medlemmer af SharePoint gruppe.
   
- 2. Fjern SharePoint-gruppen fra linjen til eller CC i mailen.
+ 2. Fjern SharePoint fra linjen Til eller Cc i mailen.
   
- 3. Føj eksplicit brugere til til-eller CC-linjen, hvis medlemskabet af medlemskabet ikke kan ændres for SharePoint-gruppen.
+ 3. Føj eksplicit brugerne til linjen Til eller Cc, hvis synligheden for medlemskab ikke kan ændres for SharePoint gruppe.
   
-Hvis du vil have mere at vide, skal du se [http-uautoriseret til/_vti_bin/Client.Svc/Sp.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Hvis du vil have vist flere detaljer, skal du se HTTP uautoriseret [til /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

@@ -1,5 +1,5 @@
 ---
-title: Udgive, installere og administrere tilføjelsesprogrammer
+title: Udgive, installere og administrere tilføjelsesprogrammet
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,19 +8,19 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: cfdd11c9ecbcc4613c6337db7877f4cddca939a6
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 20fe0db53fd329a51dfbcf8be6add27ff7b5c7d40e3caf69bc252dc0c5c07738
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960001"
 ---
-# <a name="publish-deploy-and-manage-add-ins"></a>Udgive, installere og administrere tilføjelsesprogrammer
+# <a name="publish-deploy-and-manage-add-ins"></a>Udgive, installere og administrere tilføjelsesprogrammet
 
-Der er forskellige metoder til at få Office-tilføjelsesprogrammer tilgængelige. Nedenfor vises nogle af de perfekte startpunkter:
+Der er forskellige metoder til Office tilgængelige tilføjelser. Nedenfor er nogle gode udgangspunkter:
 
-- [Angive administratorerne og de brugere, der kan installere og administrere tilføjelsesprogrammer til Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
-- [Publicer Office-tilføjelsesprogrammer ved hjælp af centraliseret udrulning via Microsoft 365 Administrationscenter](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)
+- [Angive de administratorer og brugere, der kan installere og administrere tilføjelsesprogrammet for Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Publicere Office tilføjelsesprogrammet ved hjælp af Centraliseret udrulning via Microsoft 365 Administration](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)
 - [Udrul tilføjelsesprogrammer i administrationen](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)
-- [Administrer tilføjelsesprogrammer i administrations centeret](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide)
-- [Oversigt over platform til Office-tilføjelsesprogrammer](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)
+- [Administrer tilføjelser i Administration](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide)
+- [Office Oversigt over tilføjelses-ins-platformen](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)

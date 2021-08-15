@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834437"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038178"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Opdatere mine profiloplysninger eller ændre mit billede
 
@@ -27,7 +27,7 @@ Du kan foretage opdateringer til din profil i enten Outlook til Windows eller Ou
 
 **Outlook til Windows:** 
 
-- **Filer**  >  **Office-konto**  >  **Brugeroplysninger**  >  **Om mig** (fører dig til Microsoft 365-profilen online) > **Opdater** profil eller klik på kameraikonet for at ændre dit billede  
+- **Filer**  >  **Office konto**  >  **Brugeroplysninger**  >  **Om mig** (fører dig til at Microsoft 365 online) > **Opdater** profil, eller klik på kameraikonet for at ændre dit billede  
   
 **Outlook på internettet (OWA)**: 
 
