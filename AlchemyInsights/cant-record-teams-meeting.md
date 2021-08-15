@@ -1,5 +1,5 @@
 ---
-title: Kan ikke optage teams-møde
+title: Kan ikke optage Teams møde
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: bf5c14a818a0f6891f3a52e712bd65d5b9004502
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbf88eb369100b62c21766d5ff43849f2e18b6e16cf706a7e91a316abc3bdd27
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018926"
 ---
-# <a name="cant-record-teams-meeting"></a>Kan ikke optage teams-møde
+# <a name="cant-record-teams-meeting"></a>Kan ikke optage Teams møde
 
-Brugere kan ikke optage møder i følgende situationer:  
+Brugerne kan ikke optage møder i disse situationer:  
 
-- Brugeren er ikke mødearrangør eller præsentationsvært. Se [roller i et teams-møde](https://support.microsoft.com/office/roles-in-a-teams-meeting-c16fa7d0-1666-4dde-8686-0a0bfe16e019)for at få flere oplysninger.
-- Administrator gav ikke post tilladelse til brugeren.
-- Post funktionen er ikke tilgængelig på grund af internationale juridiske problemer i forbindelse med datastyring.
+- Brugeren er ikke mødearrangør eller præsentationsvært. Du kan få mere at [vide under Roller i Teams møde](https://support.microsoft.com/office/roles-in-a-teams-meeting-c16fa7d0-1666-4dde-8686-0a0bfe16e019).
+- Administratoren gav ikke registreringstilladelse til brugeren.
+- Postfunktionen er ikke tilgængelig på grund af internationale juridiske problemer i forbindelse med datastyring.
 
-Hvis du vil have de sidste to problemer, skal du kontakte teamets administrator.
+Hvis du har de sidste to problemer, skal du kontakte Teams administrator.
