@@ -1,5 +1,5 @@
 ---
-title: Offboard-enheder uden Windows fra Microsoft Defender Advanced Threat Protection (ATP)
+title: Offboard-Windows enheder fra Microsoft Defender Advanced Threat Protection (ATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 435957c555cd80155a985a49bd94b041a4ada31d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967795"
 ---
-# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard-enheder uden Windows fra Microsoft Defender Advanced Threat Protection (ATP)
+# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard-Windows enheder fra Microsoft Defender Advanced Threat Protection (ATP)
 
 Sådan gør du:
 
 1. Følg tredjepartsdokumentationen for at afbryde tredjepartsløsningen fra Microsoft Defender ATP.
-2. Fjern tilladelser for tredjepartsløsningen fra din Azure Active Directory-lejer:
+2. Fra din Azure Active Directory lejer skal du fjerne tilladelser for tredjepartsløsningen:
 
-    1. Log på [Azure-portalen.](https://go.microsoft.com/fwlink/?linkid=2125612)
-    1. Vælg **Alle tjenester i** Azure Active  >  **Directory**  >  **Enterprise-programmer.**
+    1. Log på portalen[Azure](https://go.microsoft.com/fwlink/?linkid=2125612).
+    1. Vælg **Alle tjenester**  >  **Azure Active Directory**  >  **Enterprise-programmer**.
     1. Vælg det program, du vil deaktivere.
-    1. Vælg **Slet.**
+    1. Vælg **Slet**.
 
-Hvis du vil have mere at vide, skal [du se Offboard-enheder uden for Windows.](https://go.microsoft.com/fwlink/?linkid=2143630)
+Du kan få mere at vide under [Offboard-enheder, der Windows enheder.](https://go.microsoft.com/fwlink/?linkid=2143630)

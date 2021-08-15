@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f991a1c02318fbf5ebc4c4449331939e4d06bb3c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 60a25c92b45e050893cc20545fc7a9b753c01009197b209c63e3bc56accf1e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967831"
 ---
 # <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboard-enheder fra Microsoft Defender Advanced Threat Protection
 
-Se [Offboard Windows 10-enheder eller](https://go.microsoft.com/fwlink/?linkid=2143629) [Offboard-enheder uden for Windows.](https://go.microsoft.com/fwlink/?linkid=2143630)
+Se [Offboard Windows 10-enheder](https://go.microsoft.com/fwlink/?linkid=2143629) eller [offboard-Windows-enheder.](https://go.microsoft.com/fwlink/?linkid=2143630)

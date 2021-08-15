@@ -1,5 +1,5 @@
 ---
-title: Foretag øjeblikkelige betalinger – anbefalede trin
+title: Foretag øjeblikkelig betaling – anbefalede trin
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755793"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976751"
 ---
-# <a name="make-immediate-payment---recommended-steps"></a>Foretag øjeblikkelige betalinger – anbefalede trin
+# <a name="make-immediate-payment---recommended-steps"></a>Foretag øjeblikkelig betaling – anbefalede trin
 
-Afhængigt af din problembeskrivelse har vi fundet en løsning til dig. De fleste kunder har kunnet løse deres problemer efter eget efter at have fulgt vores dokumentation.
+Baseret på din beskrivelse af problemet har vi fundet en løsning til dig. De fleste kunder kunne selv løse deres problem efter at have fulgt vores dokumentation.
 
-Hvis du vil udføre en øjeblikkelig betaling, skal du sørge for at løse de forfaldne saldi. Hvis betalingen ikke modtages, eller hvis vi ikke kan behandle din betaling, kan du få en mail eller se en meddelelse om en forfaldent saldo besked i konto Center eller Azure-portalen. 
+For at foretage en øjeblikkelig betaling skal du sørge for at løse forfaldne saldi. Hvis din betaling ikke modtages, eller hvis vi ikke kan behandle din betaling, får du muligvis vist en mail eller får vist en besked om forfalden saldo i Kontocenter eller Azure-portalen. 
 
-Betalingen kan være mislykket, hvis kreditkortet på filen er udløbet, eller fordi beløbet blev afvist af din bank. Konto administratoren kan gennemse og opdatere kreditkortet i konto Center. 
+Betalingen kan ikke behandles, hvis det kreditkort, der er filen med, er udløbet, eller opkrævningen er blevet afvist af din bank. Kontoadministratoren kan gennemse og opdatere kreditkortet i Kontocenter. 
 
-Dit Azure-abonnement kan være deaktiveret, fordi din Skype-konto er udløbet, du har nået din forfalds grænse, har en forfaldne faktura, der har nået grænsen for dit kreditkort, eller fordi abonnementet blev annulleret af konto administratoren.  
+Dit Azure-abonnement kan være deaktiveret, fordi din kredit er udløbet, du har nået forbrugsgrænsen, har en forfalden faktura, har nået grænsen for dit kreditkort, eller fordi abonnementet blev annulleret af kontoadministratoren.  
 
-Hvis der er en afventende betaling på kortet, siden kortet blev afvist af din finansielle institution, skal du kontakte dit pengeinstitut for at løse problemet.  
+Hvis der er en ventende betaling på kortet, siden kortet blev nægtet af din finansielle institution, skal du kontakte din finansieringsinstitution for at løse problemet.  
 
-Du skal muligvis kontakte banken for at få vist:
+Du skal muligvis tale med banken for at se:
 
 - Hvis den internationale transaktion er placeret på kortet. 
-- Hvis kortet har en kreditmaksimum for at udligne saldoen 
+- Hvis kortet har en kreditgrænse for at afregne saldoen 
 - Hvis tilbagevendende betaling er aktiveret på kortet 
 
-Hvis din betaling afvises, skal du kontrollere, hvilket betalingsinstrument (PI) der bliver afvist, hvis du har flere PIs knyttet til et abonnement. Hvis det er nødvendigt, kan du ændre eller fjerne din PI fra abonnementet. 
+Hvis din betaling afvises, skal du kontrollere, hvilken betalingsmiddel (PI) der bliver afvist, hvis du har flere pc'er knyttet til et abonnement. Hvis det er nødvendigt, kan du ændre eller fjerne din PI fra abonnementet. 
 
 **Anbefalede dokumenter** 
 
-- [Administrere adgang til faktureringsoplysninger for Azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Hent faktura-eller brugsdata fra Azure-konto Center](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Genaktivere mit abonnement](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Administrer adgang til faktureringsoplysninger for Azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Download faktura- eller brugsdata fra Azure Account Center](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Genaktiver mit abonnement](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Betal via faktura for Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
