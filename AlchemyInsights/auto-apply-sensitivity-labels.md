@@ -1,5 +1,5 @@
 ---
-title: Anvend følsomhedsmærkater automatisk
+title: Anvend automatisk følsomhedsmærkater
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969278"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Anvend følsomhedsmærkater automatisk
+# <a name="auto-apply-sensitivity-labels"></a>Anvend automatisk følsomhedsmærkater
 
-Følsomhedsmærkater kan anvendes manuelt på indhold af brugere, eller du kan konfigurere dem til automatisk at blive anvendt på indhold.
+Følsomhedsmærkater kan anvendes manuelt på indhold af brugere, eller du kan konfigurere dem til at blive anvendt automatisk på indhold.
 
-Automatisk anvendelse af følsomhedsmærkater fjerner behovet for at oplære brugerne i, hvordan de klassificerer indhold, og behovet for at informere dem om politikkonfigurationer.
+Automatisk anvendelse af følsomhedsmærkater fjerner behovet for at oplære brugerne i, hvordan de skal klassificere indhold, og behovet for at informere dem om politikkonfigurationer.
 
-Hvis du vil anvende navne automatisk, skal du gøre følgende:
+Hvis du vil anvende etiketter automatisk, skal du gøre følgende:
 
 - Azure Information Protection P2-abonnement
-- [Downloade og installere Azure Information Protection Unified Labeling Client](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Download og installér den samlede Azure Information Protection-etiketklient](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Vi arbejder på indbygget support, der ikke kræver En samlet Azure Information Protection-klient til mærkning i fremtiden.
+Vi arbejder på indbygget support, der ikke kræver En samlet Azure Information Protection-etiketklient i fremtiden.
 
-I øjeblikket understøtter kun Windows den samlede etiketklient.  Funktionen understøttes endnu ikke på Mac, iOS og Android.
+I øjeblikket er det Windows, der understøtter den samlede etiketklient.  Funktionen understøttes endnu ikke på Mac, iOS og Android.
 
 Du kan finde flere oplysninger om følsomhedsmærkater og automatisk anvendelse af dem på indhold i:
 
