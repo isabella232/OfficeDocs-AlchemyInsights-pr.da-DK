@@ -1,5 +1,5 @@
 ---
-title: Indstil ClientAccessServerEnabled til Sand
+title: Angiv ClientAccessServerEnabled til True
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744707"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994859"
 ---
-# <a name="set-clientaccessserverenabled-to-true"></a>Indstil ClientAccessServerEnabled til Sand
+# <a name="set-clientaccessserverenabled-to-true"></a>Angiv ClientAccessServerEnabled til True
 
-Hvis du ikke kan åbne en krypteret mail og i stedet får vist en vedhæftet **fil med rpmsg,** skal du udføre følgende trin:
+Hvis du ikke kan åbne en krypteret mail og i stedet kan se en vedhæftet fil i **rpmsg,** skal du udføre følgende trin:
 
-1. Opret forbindelse til Exchange Online PowerShell.
+1. Forbind til Exchange Online PowerShell.
 
 > [!NOTE]
-> Hvis du vil oprette forbindelse til Exchange Online PowerShell, skal du logge på med en global administrator- eller Exchange-administratorkonto.
+> Hvis du vil Exchange Online fra PowerShell, skal du logge på med en global administrator eller Exchange-administratorkonto.
 
-   a. Åbn Windows PowerShell, og kør derefter følgende kommando: `$UserCredential = Get-Credential`
-b. I dialogboksen **med anmodning om legitimationsoplysninger** til Windows PowerShell skal du angive din arbejds- eller skolekonto og adgangskode, c. Klik på **OK**. 
+   a. Åbn Windows PowerShell, og kør derefter følgende kommando:`$UserCredential = Get-Credential`
+b. I dialogboksen **Windows PowerShell legitimationsanmodning skal** du angive din arbejds- eller skolekonto og adgangskode, c. Klik på **OK**. 
 
 2. Kør følgende kommando for at oprette en ny session:
 
@@ -44,10 +44,10 @@ b. I dialogboksen **med anmodning om legitimationsoplysninger** til Windows Powe
 
 4. Kontrollér **indstillingen ClientAccessServerEnabled.** 
 
-    a. Hvis **indstillingen ClientAccessServerEnabled** er indstillet til **Falsk,** skal du køre følgende cmdlet: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
+    a. Hvis **indstillingen ClientAccessServerEnabled** er indstillet **til Falsk,** skal du køre følgende cmdlet: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
 > [!TIP]
 > Luk altid powershell-sessionen med følgende kommando: `Remove-PSSession $Session`
 
-Du kan finde flere oplysninger i [Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
+Du kan finde flere oplysninger [Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 

@@ -14,16 +14,16 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: b9e333fb229f0a8c1717e11829232dca80b591d3
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 9247277180a7245ab4b5635ec9e93f57f189e3ac8c5d71f39505616ff4cf0603
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026540"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Overførsel til SharePoint Online via Overførselsstyring
 
-Overførselsstyring findes i det moderne SharePoint Administrationscenter og guider dig gennem opsætningen af dine klienter og oprettelse af dine opgaver. Du kan angive indstillinger for globale eller opgave niveauer, se opgavefremdrift og overføre aggregerede oversigter og opgaveniveau-rapporter.
+Overførselsstyring findes i det moderne SharePoint Administrationscenter og guider dig gennem opsætningen af dine klienter og oprettelse af dine opgaver. Du kan angive globale indstillinger eller indstillinger for opgaveniveau, få vist opgavefrem gang for alle og hente aggregerede hovedrapporter og rapporter på opgaveniveau.
 
 * [Introduktion til Overførselsstyring](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 * [Konfiguration af klienter til Overførselsstyring](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)

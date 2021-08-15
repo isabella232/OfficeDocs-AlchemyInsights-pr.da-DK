@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744098"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994931"
 ---
 # <a name="set-up-an-automatic-reply"></a>Konfigurer et autosvar
 
-Brug autosvar, når du vil give personer, der sender dig mails, besked om, at du ikke besvarer deres mails med det samme. Når automatiske svar er slået til, sendes svaret én gang til hver afsender.
+Brug autosvar, når du vil give de personer, der sender en mail til dig, besked om, at du ikke besvarer deres mail med det samme. Når automatiske svar er slået til, sendes svaret én gang til hver afsender.
 
 1. Log på Outlook.com.
-2. Vælg Indstillinger angiv autosvar **på**  >  **navigationslinjen.** Hvis **Indstil autosvar** ikke vises, skal du vælge **Indstillinger**  >  **for automatiske**  >  **svar.**
+2. På navigationslinjen skal du **vælge Indstillinger**  >  **Angiv autosvar**. Hvis **Angiv autosvar** ikke vises, skal du vælge **Indstillinger**  >  **Indstillinger**  >  **Autosvar**.
 3. Du kan ændre indstillingerne for autosvar her, herunder kun at have autosvar i en bestemt tidsperiode, sende et svar én gang til alle medlemmer i organisationen eller kun sende et svar til medlemmer uden for organisationen.

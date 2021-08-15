@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: defba7a3408ad86d4a74892124380f1a689cb88248e3443a6ba45e040bbe11a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018026"
 ---
 # <a name="change-my-language"></a>Skift mit sprog
 
-Outlook-appen oversættes automatisk til det sprog, enheden er indstillet til. 
+Appen Outlook automatisk oversat til det sprog, din enhed er indstillet til. 
 
-Se en liste [over sprog, der understøttes i Outlook.](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated) 
+(Se en liste [over sprog, der understøttes i Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
 
 **Sådan ændrer du sproget på din enhed:** 
 
 **På Android:** 
 
-- Enhedsindstillinger > sprog og input 
+- Enhedssprog Indstillinger > og input 
 
 **På iOS:** 
 
-- Enhedsindstillinger > Generelt > et & område 
+- Generelt Indstillinger > enhed > område for & enhed 
