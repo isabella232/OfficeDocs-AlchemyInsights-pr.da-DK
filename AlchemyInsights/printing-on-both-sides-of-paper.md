@@ -14,24 +14,24 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ee9a7b58f36137f0bc5647c14c01dff9e2e6d49b9c2eac5fa5996c258fbafbb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010090"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Udskrivning på begge sider af papiret (duplexudskrivning)
 
 **Kan min printer duplexudskrivning?**
 
-Printerens funktionsoversigt eller manuelle skal fortælle dig, om den kan udskrive på begge sider af papiret, også kaldet "duplexudskrivning". Hvis du har Microsoft Office, kan du også finde ud af det ved at åbne en Office-app som f.eks. Word eller Excel, gå til Filer **>** Udskriv , sørge for, at den rigtige printer er valgt, og kigge efter muligheden i sektionen Indstillinger. Eksempel: 
+Printerens funktionsoversigt eller manuelle skal fortælle dig, om den kan udskrive på begge sider af papiret, også kaldet "duplexudskrivning". Hvis du har Microsoft Office, kan du også finde ud af det ved at åbne en Office-app, f.eks. Word eller Excel, gå til Filer **>** Udskriv , sørge for, at den rigtige printer er valgt, og kigge efter muligheden i Indstillinger-sektionen. Eksempel: 
 
 ![Printerindstillinger](media/print-settings.png)
 
 **Duplexudskrivning i Microsoft Office**
 
-Hvis din printer kan udskrive på begge sider, når du går til Filer **> Udskriv** i Office-appen, får du vist indstillingen "Udskriv på begge sider", som vist i eksemplet ovenfor.  Vælg den ønskede type duplexudskrivning (spejlvend på den lange kant, eller spejlvend på den korte kant), og klik på **Udskriv** for at starte udskriften.
+Hvis din printer kan udskrive på begge sider, når du går til Filer **> Udskriv** i Office-app, kan du se indstillingen "Udskriv på begge sider", som vist i eksemplet ovenfor.  Vælg den ønskede type duplexudskrivning (spejlvend på den lange kant, eller spejlvend på den korte kant), og klik på **Udskriv** for at starte udskriften.
 
 **Duplexudskrivning fra et hvilket som helst program**
 

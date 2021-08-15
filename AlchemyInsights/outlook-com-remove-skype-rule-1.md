@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962089"
 ---
-# <a name="skype-icon-missing"></a>Skype-ikon mangler
+# <a name="skype-icon-missing"></a>Skype ikon mangler
 
-Vi har midlertidigt fjernet Skype-ikonet fra Outlook.com som en del af en design opdatering og funktionsopdatering, som vi er glade for at kunne rulle. Vi sætter stor pris på din tålmodighed, mens vi forbereder en ny og bedre oplevelse for dig.
+Vi har midlertidigt fjernet ikonet Skype fra Outlook.com som en del af en designopdatering og funktionsopdatering, vi er glade for at kunne udrulle. Vi sætter pris på din tålmodighed, mens vi forbereder en ny og forbedret oplevelse for dig.
 
-Du kan stadig bruge Skype via din browser på [Web.Skype.com](https://web.skype.com/).
+Du kan stadig bruge Skype via din browser på [web.skype.com](https://web.skype.com/).
