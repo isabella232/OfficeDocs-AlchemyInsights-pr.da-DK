@@ -1,5 +1,5 @@
 ---
-title: Download eller undgå download af filer fra OneDrive eller SharePoint
+title: Download eller forbyd download af filer OneDrive eller SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,20 +14,20 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 3666d3caa81ff321b1f4e9f641dcf22caae3e37e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b5e7b9b73d6824d54eeb2576a3edda8be12af1e8e38f710c2ab4077482dff9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022976"
 ---
-# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Download eller undgå download af filer fra OneDrive eller SharePoint
+# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Download eller forbyd download af filer OneDrive eller SharePoint
 
-Du kan downloade filer og mapper fra OneDrive eller fra SharePoint Online til din computer med blot nogle få klik. Hvis du vil have mere at vide om at hente filer, hastigheder og begrænse hentning, skal du gå til nedenstående links.
+Du kan downloade filer og mapper fra OneDrive eller fra SharePoint Online til din computer med blot nogle få klik. Du kan finde flere oplysninger om download af filer, hastighed og begrænsning af downloads ved at gå til nedenstående links.
 
 - [Download filer og mapper fra OneDrive eller SharePoint](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
-- [Bloker hentning af filer med Azure AD betinget adgang](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
-- [Søg efter "downloaded fil"-begivenheder i overvågningslogge](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide#file-and-page-activities) for at identificere, hvem der har hentet filer
-- [Maksimer overførsels-og downloadhastighed](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
-- [Løs OneDrive-synkroniseringsproblemer](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
-- [Hent OneDrive for Business](https://onedrive.live.com/about/download/)
+- [Bloker filoverførsel med betinget adgang til Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Søg efter "Downloadede fil"-hændelser i overvågningslogfiler for at](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide#file-and-page-activities) identificere, hvem der har hentet filer
+- [Maksimer overførsels- og downloadhastighed](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Løs OneDrive synkroniseringsproblemer](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [Download OneDrive for Business](https://onedrive.live.com/about/download/)

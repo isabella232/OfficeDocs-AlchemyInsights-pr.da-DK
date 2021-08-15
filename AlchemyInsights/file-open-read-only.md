@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029798"
 ---
 # <a name="file-open-read-only"></a>Fil åben som skrivebeskyttet
 
@@ -42,14 +42,14 @@ Hvis filen er gemt på OneDrive, og din OneDrive-lagerplads er fuld, kan du ikke
   
  **Er Office aktiveret?**
   
-Hvis Office ikke er aktiveret, eller hvis dit abonnement er udløbet, kan du være i den skrivebeskyttede tilstand Begrænset funktionalitet. Hvis du vil have mere at vide om, hvordan du aktiverer Office, skal du [se: Fejl i forbindelse](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)med produkt og aktivering uden licens .
+Hvis Office ikke er aktiveret, eller hvis dit abonnement er udløbet, kan du være i skrivebeskyttet tilstand med begrænset funktionalitet. Du kan finde oplysninger om, hvordan du Office i: Fejl i forbindelse med produkt og aktivering [uden licens Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Hvis intet andet virker...**
   
 - Prøv at genstarte computeren
     
-- Installér Office-opdateringer
+- Installér Office opdateringer
     
-- Udføre en onlinereparation af Office
+- Udfør en onlinereparation af Office
     
 

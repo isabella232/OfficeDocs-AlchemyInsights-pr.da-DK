@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c5a7afaa9dbcb7f648f75f9a12fbcae295d59879b374721f5f7156b2d8c06d62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966247"
 ---
 # <a name="compliance-score"></a>Overholdelsesscore
 
@@ -27,14 +27,14 @@ Den globale administrator skal konfigurere de rette tilladelser i Microsoft Comp
 
 **Sådan får du adgang til Overholdelsesscore**
 
-1. Gå til Microsoft 365 Overholdelsescenter, **og log på** med din globale administratorkonto til Microsoft 365.
+1. Gå til Microsoft 365 Overholdelsescenter, **og log på** med Microsoft 365 globale administratorkonto.
 
 2. Vælg **Overholdelsesscore** i venstre navigationsrude. Du bør derefter se [dashboardet Overholdelsesscore med din score.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
  
 
 **Du kan finde flere oplysninger om:**
 
-- Konfiguration af adgangstilladelser til overholdelsesscore i Giv brugere adgang til [Microsoft 365 Security & Compliance Centers.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Konfiguration af adgangstilladelser til overholdelsesscore i Giv brugere adgang til Microsoft 365 [Security & Compliance Centers](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Hvis du arbejder med forbedringshandlinger i Overholdelsesscore, skal  [du se Arbejde med Overholdelsesscore](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Se Metodologi til overholdelsesscore (Compliance Score) for at finde ud af, hvordan Resultat af [overholdelse af angivne standarder beregnes.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)
 - Overholdelsesscore vs. Overholdelsesstyring skal du [se Relation til Overholdelsesstyring](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

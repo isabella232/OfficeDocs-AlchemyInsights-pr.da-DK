@@ -1,5 +1,5 @@
 ---
-title: Oprette og redigere moderne sider på et SharePoint-websted
+title: Opret og rediger moderne sider på et SharePoint websted
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "2407"
 - "9000246"
-ms.openlocfilehash: 508c16ef1e9906c4884064ef21b0527685dd1bb1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b31c708141dd7a16db09a6556bb1f2e982288d098984c13141a7b929c95c0b17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965671"
 ---
-# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>Oprette og redigere moderne sider på et SharePoint-websted
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>Opret og rediger moderne sider på et SharePoint websted
 
-Du kan hurtigt og nemt redigere filer og sider, og de ser flot ud på alle enheder. Besøg nedenstående links for at få flere oplysninger.
+Du kan hurtigt og nemt redigere filer og sider, og de ser godt ud på enhver enhed. Besøg nedenstående links for at få flere oplysninger.
 
-- [Oprette og redigere moderne sider på et SharePoint-websted](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
-- [Opret og Rediger klassiske sider på et SharePoint-websted](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
-- [Kan ikke redigere dokumenter i browseren](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).
+- [Opret og rediger moderne sider på et SharePoint websted](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Opret og rediger klassiske sider på et Sharepoint-websted](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
+- [Dokumenter kan ikke redigeres i browseren](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/error-when-view-or-edit-in-browser).
 - [Redigere et dokument i et dokumentbibliotek](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
-- [Understøttede filtyper til forhåndsvisning af filer i OneDrive, SharePoint og teams](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
+- [Understøttede filtyper til eksempelvisning af filer i OneDrive, SharePoint og Teams](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
 - [Ugyldige filnavne og filtyper i OneDrive, OneDrive for Business og SharePoint](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)

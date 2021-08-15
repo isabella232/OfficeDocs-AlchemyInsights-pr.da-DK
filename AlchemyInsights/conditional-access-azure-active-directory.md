@@ -8,20 +8,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 8070c4aa9483ed5baed558457e09190ccd88dcd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f691e626b9deabb59b909e75221d684a2d133ac6c8949deb148b5646c0d117c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966211"
 ---
 # <a name="conditional-access"></a>Betinget adgang
 
-Betinget adgang er en funktion i Azure Active Directory. Med betinget adgang kan du implementere automatiske adgangskontrol beslutninger for at få adgang til dine Cloud-apps, der er baseret på betingelser. Hvis du vil have mere at vide, skal du gå til [konfiguration af placeringsbaserede politikker](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Betinget adgang er en funktion til at Azure Active Directory. Med betinget adgang kan du implementere automatiserede beslutninger om adgangskontrol for adgang til dine skyapps, der er baseret på betingelser. Du kan finde flere oplysninger under [Konfiguration Location-Based Politikker](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
-Som IT-administrator kan du også kontrollere adgangen til SharePoint-og OneDrive-ressourcer baseret på definerede netværksplaceringer eller enheder, du har tillid til. Besøg nedenstående links for at få flere oplysninger.
+Som it-administrator kan du også styre adgangen til dine SharePoint og OneDrive baseret på definerede netværksplaceringer eller enheder, du har tillid til. Besøg nedenstående links for at få flere oplysninger.
 
-- [Kontrollér adgang til SharePoint Online-og OneDrive-data baseret på netværksplacering](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Kontrollere adgang til SharePoint online og OneDrive baseret på netværksplacering](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [Kontrollér adgang fra ikke-administrerede enheder](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Kontrollere adgang fra enheder, der ikke er administrerede](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
