@@ -1,5 +1,5 @@
 ---
-title: Fejlmeddelelse, når du deler filer fra Windows Stifinder
+title: Fejlmeddelelse, når du deler filer Windows Stifinder
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030086"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Fejlmeddelelse, når du deler filer fra Windows Stifinder
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Fejlmeddelelse, når du deler filer Windows Stifinder
 
-Når du forsøger at dele fra Windows Stifinder, får du muligvis vist følgende fejlmeddelelse:
+Når du forsøger at dele fra Windows Stifinder, modtager du muligvis følgende fejlmeddelelse:
   
-"Vi kunne ikke kontakte serveren lige nu. Prøv igen senere "
+"Vi kan desværre ikke oprette forbindelse til serveren lige nu. Prøv igen senere"
   
-Hvis du vil løse fejlmeddelelsen fra Internet Explorer, skal du gå til **funktioner** \> **Internetindstillinger** \> , klikke på fanen **Avanceret** og derefter fjerne markeringen i afkrydsningsfeltet med navnet **Gem ikke krypterede sider på disken**.
+Du kan løse fejlmeddelelsen ved  at gå til \> **Værktøjer i Internetindstillinger** ved at klikke på fanen Avanceret og derefter fjerne markeringen i afkrydsningsfeltet med titlen Gem ikke krypterede sider \> på **disk.** 
   
- **Bemærk**! du skal muligvis genstarte browseren, før indstillingen træder i kraft. Hvis du vil have mere at vide, skal du se [fejlmeddelelsen "der kan ikke oprettes forbindelse til serveren lige nu", når du deler filer](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Bemærk!** Du skal muligvis genstarte browseren, før indstillingen træder i kraft. Du kan finde flere oplysninger [under Fejlmeddelelsen "Der kan ikke oprettes forbindelse til](https://go.microsoft.com/fwlink/?linkid=2022914)serveren lige nu", når du deler filer.
   

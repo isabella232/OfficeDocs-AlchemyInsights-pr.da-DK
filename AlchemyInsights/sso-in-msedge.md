@@ -1,5 +1,5 @@
 ---
-title: Enkelt-sign on i Microsoft Edge
+title: Enkelt log på Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005624"
 - "9656"
-ms.openlocfilehash: 1dea46bf80fec9aa014d81b562c490cf4d2a92cb
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 57da6c3b93bb4f700547ce5b7378e3dbd63618eba32f3269b1caf8e356357cb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51404636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956833"
 ---
-# <a name="single-sign-on-sso-in-microsoft-edge"></a>Enkelt-sign on (SSO) i Microsoft Edge
+# <a name="single-sign-on-sso-in-microsoft-edge"></a>Enkelt log på (SSO) i Microsoft Edge
 
-Microsoft Edge understøtter følgende typer enkelt-logon (SSO):
+Microsoft Edge understøtter følgende typer enkelttegn (SSO):
 - PRT-baseret SSO
 - Problemfri SSO
 - WIA-baseret SSO

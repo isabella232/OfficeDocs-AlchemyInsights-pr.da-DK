@@ -1,5 +1,5 @@
 ---
-title: Problemer med at udvikle programmer med API'er
+title: Problemer med udvikling af programmer med API'er
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 26d732819b64efa4fb84da44cc2a279368aa28b0
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013454"
 ---
-# <a name="issues-developing-applications-with-apis"></a>Problemer med at udvikle programmer med API'er
+# <a name="issues-developing-applications-with-apis"></a>Problemer med udvikling af programmer med API'er
 
-Du kan komme i gang med at bruge Azure Active Directory-graf-API'ET ved at se vejledning til hurtig start til [Azure ad Graph](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) eller få vist den [interaktive referencedokumentation til Azure ad Graph-API](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog).
+For at begynde at bruge Azure Active Directory Graph API skal du se Startvejledningen til [Azure AD Graph API](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) eller se den interaktive [referencedokumentation](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)til Azure AD Graph API.
 
-**Afslutning af understøttelse af Azure Active Directory-godkendelses bibliotek (ADAL) og Azure AD Graph API (AAD-graf)**
+**Ophør af support til Azure Active Directory Authentication Library (ADAL) og Azure AD Graph API (AAD Graph)**
 
-**Starter Juni 30th, 2020**, vil vi ikke længere tilføje nye funktioner til ADAL og Azure ad Graph. Vi vil fortsat yde teknisk support og sikkerhedsopdateringer, men vil ikke længere tilbyde FUNKTIONSOPDATERINGER.
+**Fra og med d. 30. juni 2020** føjer vi ikke længere nye funktioner til ADAL og Azure AD Graph. Vi yder fortsat teknisk support og sikkerhedsopdateringer, men vil ikke længere levere funktionsopdateringer.
 
-**Fra og med juni 30th, 2022**, vi slutter support til ADAL og Azure ad Graph og vil ikke længere yde teknisk support eller sikkerhedsopdateringer.
+**Fra og med den 30. juni 2022** stopper vi understøttelsen af ADAL og Azure AD Graph og yder ikke længere teknisk support eller sikkerhedsopdateringer.
 
-Apps, der bruger ADAL på eksisterende OS-versioner, vil fortsat fungere efter dette tidspunkt, men de får ikke teknisk support eller sikkerhedsopdateringer.
+Apps, der bruger ADAL på eksisterende os-versioner, fungerer fortsat efter dette tidspunkt, men får ingen teknisk support eller sikkerhedsopdateringer.
 
-Apps, der bruger Azure AD Graph efter dette tidspunkt, kan muligvis ikke længere modtage svar fra Azure AD Graph-slutpunktet.
+Apps, der bruger Azure AD Graph efter dette tidspunkt, modtager muligvis ikke længere svar fra Azure AD Graph slutpunkt.
 
 **ADAL-overførsel**
 
-Vi anbefaler, at du opdaterer til [Microsoft-godkendelses bibliotek (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), som har de nyeste funktioner og sikkerhedsopdateringer.
+Vi anbefaler, at du opdaterer [MSAL (Microsoft Authentication Library)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), som har de nyeste funktioner og sikkerhedsopdateringer.
 
-Hvis du bruger Microsoft-apps, skal du vide, at Microsoft er i gang med at overføre sine programmer til MSAL ved hjælp af deadline for sidste support, så de kan drage fordel af MSAL de vedvarende sikkerheds-og funktionsforbedringer.
+Hvis du bruger Microsoft-apps, skal du vide, at Microsoft er i gang med at overføre sine programmer til MSAL inden slutdatoen for support, hvilket sikrer, at de får glæde af MSALs løbende sikkerheds- og funktionsforbedringer.
 
-1. [Læs ADAL ofte stillede spørgsmål](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. [Få mere at vide om, hvordan du kan overføre apps på et enkelt platforms grundlag](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. Hvis du har brug for hjælp til at forstå, hvilke af dine apps der bruger ADAL, anbefaler vi, at du gennemgår alle dine apps-kildekode, og hvis det er relevant, kan du få adgang til alle ISV'er-eller app-udbydere. Microsoft Support kan også give dig en liste over alle ikke-Microsoft-ADAL-apps i din lejer.
+1. [Læs ofte stillede spørgsmål om ADAL.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. [Få mere at vide om, hvordan du overfører apps på pr. platform.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. Hvis du har brug for hjælp til at forstå, hvilke af dine apps der bruger ADAL, anbefaler vi, at du gennemgår alle dine apps kildekode og, hvis det er relevant, kontakt eventuelle internetudbydere eller appudbydere. Microsoft-support kan også give dig en liste over alle ikke-Microsoft ADAL-apps i din lejer.
 
-**AAD-diagram overførsel**
+**AAD Graph Migration**
 
-For programmer, der bruger Azure AD Graph, skal du følge vores vejledning til at overføre [Azure ad Graph-apps til Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
+For programmer, der bruger Azure AD Graph, skal du følge vores vejledning til at overføre [Azure AD Graph-apps til Microsoft Graph.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true)
 
-1. [Vores overflytnings checkliste giver et](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)introduktions point. 
-1. Din Azure-app-registrerings Portal viser, hvilke programmer der bruger AAD-grafer. Vi anbefaler, at du gennemgår alle din apps-kildekode, og hvis det er relevant, så du kan få adgang til alle ISV'er-eller app-udbydere. Microsoft Support kan også give dig en liste over alle AAD-diagram brug i din lejer.
-1. Hvis din app skal have adgang til data i Microsoft Graph, skal brugeren eller administratoren give den de rette tilladelser via en tilladelses proces. [Microsoft Graph-tilladelses referencen](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) viser de tilladelser, der er knyttet til hvert omfattende sæt Microsoft Graph-API'er. Den indeholder også en vejledning til, hvordan du brugertilladelserne.
+1. [Vores tjekliste til migrering indeholder et startpunkt](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+1. Din registreringsportal til Azure-app viser, hvilke programmer der bruger AAD Graph. Vi anbefaler, at du gennemser kildekoden til alle dine apps og, hvis det er relevant, skal du kontakte alle internetudbydere eller appudbydere. Microsoft Support kan også give dig en liste over alle AAD-Graph brug i din lejer.
+1. Hvis din app skal have adgang til data i Microsoft Graph, skal brugeren eller administratoren give den de rette tilladelser via en samtykkeproces. Reference [til Microsoft Graph-tilladelser viser](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) de tilladelser, der er knyttet til hvert overordnede sæt af Microsoft-Graph API'er. Den indeholder også vejledning til, hvordan du bruger tilladelserne.

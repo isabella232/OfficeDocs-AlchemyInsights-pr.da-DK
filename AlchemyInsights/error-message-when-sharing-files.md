@@ -1,5 +1,5 @@
 ---
-title: Fejlmeddelelse, når du deler filer
+title: Fejlmeddelelse under deling af filer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dccbe62fa95e2934cf6ed6d7dd317b2b99e77ec0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51552ecf6c6ef4e91f092751aa33f55e961b34133fd7e8763e84f1a2c894d5a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030014"
 ---
-# <a name="error-messages-when-sharing"></a>Fejlmeddelelser, når du deler
+# <a name="error-messages-when-sharing"></a>Fejlmeddelelser ved deling
 
-Hvis du modtager en fejlmeddelelse, når du forsøger at dele med en ekstern bruger, er den mest sandsynlige deling ikke aktiveret, eller deling er angivet til ikke at tillade, at det delte niveau for brugeren bliver forsøgt.
+Hvis du modtager en fejlmeddelelse, når du forsøger at dele med en ekstern bruger, er ekstern deling sandsynligvis ikke aktiveret, eller deling er indstillet til ikke at tillade det niveau af deling, som brugeren forsøger.
   
-I den nye SharePoint administration skal du klikke på **deling** i venstre rude. Vælg det delings niveau, du vil tillade. Sørg for, at ekstern deling er slået til for webstedet. 
+I den nye SharePoint Administration skal du klikke **på deling** i venstre rude. Vælg det delingsniveau, du vil tillade. Sørg for, at ekstern deling er slået til for webstedet. 
   
-Hvis den bruger, der forsøger at logge på, modtager en fejlmeddelelse, skal du prøve følgende trin:
+Hvis brugeren, der forsøger at logge på, modtager en fejlmeddelelse, skal du prøve følgende trin:
   
-- Kontrollér, at brugeren har accepteret den invitation til deling, der blev sendt.
+- Sørg for, at brugeren har accepteret invitationen om deling, der blev sendt.
     
-- Sørg for, at brugeren accepterer invitationen med den mailadresse, som den blev sendt til.
+- Sørg for, at brugeren accepterer invitationen med den mailadresse, den blev sendt til.
     
 

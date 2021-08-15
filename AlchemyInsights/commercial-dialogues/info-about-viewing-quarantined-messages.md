@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1027243d90562a9ad7389400b206a6d29845f71a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fb3c7afafab80f5f1801f30d6a1d16a7a8ea2ce5a268369cbfb41787e7a2cbc4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978911"
 ---
 # <a name="info-about-viewing-quarantined-messages"></a>Oplysninger om visning af meddelelser, der er sat i karantæne
 
-Hvis du vil have vist alle meddelelser, der er sat i karantæne for din organisation, skal du bruge Microsoft 365 Administration. Her er et par tip:
+Hvis du vil have vist alle meddelelser, der er sat i karantæne for organisationen, skal du Microsoft 365 Administration. Her er et par tip:
 
 - Det er ikke muligt at få en daglig eller ugentlig rapport over alle meddelelser, der er i karantæne, sendt til din postkasse.
-- Du kan dog konfigurere Microsoft 365 til at sende en oversigt til dine brugere om, hvilke af deres mails der er i karantæne.
+- Du kan dog konfigurere en Microsoft 365 at sende en opsing til dine brugere om, hvilke af deres mails der er i karantæne.
 - Som standard er spam-, masse- og phishingmeddelelser i karantæne i 15 dage. Meddelelser, der svarer til en regel for mailflow, er sat i karantæne i syv dage (du kan ikke tilpasse dette). Når Microsoft 365 sletter en meddelelse fra karantæne, kan du ikke få den tilbage.

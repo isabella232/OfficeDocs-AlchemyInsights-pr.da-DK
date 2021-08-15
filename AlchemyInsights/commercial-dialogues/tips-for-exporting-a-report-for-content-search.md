@@ -1,5 +1,5 @@
 ---
-title: Tip til eksport af en rapport til indholdssøgning
+title: Tips til eksport af en rapport til indholdssøgning
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978875"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Tip til eksport af en rapport til indholdssøgning
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Tips til eksport af en rapport til indholdssøgning
 
-Det kan være nødvendigt at få vist en rapport over en indholdssøgning i stedet for at eksportere de komplette søgeresultater. Hvis det er ja, kan du kun eksportere en rapport over søgeresultaterne. Her er nogle tip:
+Det kan være nødvendigt at få vist en rapport for en indholdssøgning i stedet for at eksportere de komplette søgeresultater. Hvis det er ja, kan du kun eksportere en rapport med søgeresultaterne. Her er nogle tip:
 
 - Sørg for, at din konto er tildelt rollen som styring af overholdelsessøgning.
-- Sørg for, at din computer har opfyldt [alle forudsætninger.](https://go.microsoft.com/fwlink/?linkid=2102407) Ikke alle browsere understøttes, f.eks. Chrome.
-- Afgræns dine eksportresultater til mindre end 20 TB, så eksporten ikke mislykkes. Prøv at bruge et mindre datointerval eller færre søgeplaceringer.
-- Hvis du eksporterer en rapport, tælles det maksimale antal rapporter, der kan køre på samme tid.
+- Sørg for, at computeren har opfyldt [alle forudsætninger .](https://go.microsoft.com/fwlink/?linkid=2102407) Ikke alle browsere understøttes, f.eks. Chrome.
+- Afgræns eksportresultaterne til mindre end 20 TB, så eksporten ikke mislykkes. Prøv at bruge et mindre datoområde eller færre søgeplaceringer.
+- Eksport af en rapport tæller med i det maksimale antal rapporter, der kan køre på samme tid.
 
-Du kan få mere at vide i [Eksportér en rapport over indholdssøgning](https://go.microsoft.com/fwlink/?linkid=2102409)
+Du kan få mere at vide under [Eksportere en rapport for indholdssøgning](https://go.microsoft.com/fwlink/?linkid=2102409)

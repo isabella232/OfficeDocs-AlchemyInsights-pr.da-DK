@@ -1,5 +1,5 @@
 ---
-title: hjælp til iOS-tilmelding
+title: Hjælp til registrering af iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001394"
 ---
-# <a name="ios-enrollment-help"></a>hjælp til iOS-tilmelding
+# <a name="ios-enrollment-help"></a>Hjælp til registrering af iOS
 
-Vi har bemærket, at du kan have problemer med tilmelding til iOS. Her er nogle artikler, som vi mener kan hjælpe: 
+Vi har bemærket, at der kan være problemer med iOS-registrering. Her er nogle artikler, vi mener kan hjælpe: 
 
-[Almindelige fejl og løsninger til iOS-tilmelding](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Almindelige iOS-registreringsfejl og -løsninger](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[Kom godt i gang med Intune og iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Introduktion til Intune og iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Generel fejlfinding af tilmelding](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Generel registreringsfejlfinding](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Brug af Intune-fejlfindings portalen til at diagnosticere og løse almindelige tilmeldings fejl](https://docs.microsoft.com/intune/help-desk-operators)
+[Brug af intune-fejlfindingsportalen til at diagnosticere og løse almindelige registreringsfejl](https://docs.microsoft.com/intune/help-desk-operators)
