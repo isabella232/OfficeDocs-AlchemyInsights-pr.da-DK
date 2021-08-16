@@ -1,5 +1,5 @@
 ---
-title: Trin til at oprette en SharePoint-arbejdsproces
+title: Trin til at oprette en SharePoint arbejdsproces
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,29 +13,29 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 0d3ffde45f32224632b1b9e29b7e798aadd1a6b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c90ba1467e3259334932938e7d647b7054970a75a78f86e76e503d7295670df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021374"
 ---
-# <a name="steps-to-create-a-sharepoint-workflow"></a>Trin til at oprette en SharePoint-arbejdsproces
+# <a name="steps-to-create-a-sharepoint-workflow"></a>Trin til at oprette en SharePoint arbejdsproces
 
-- Hvis du ikke kan tilføje en SharePoint 2010-godkendelsesarbejdsgang, kan du se [kan du ikke tilføje standardarbejdsprocesser for godkendelse af 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
-- Sådan oprettes arbejdsprocesser:
-    - [2013-arbejdsproces fra SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+- Hvis du ikke kan tilføje en SharePoint 2010-godkendelsesarbejdsproces, skal du se Kan ikke tilføje [standardarbejdsprocessen for godkendelse i 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
+- Sådan opretter du arbejdsprocesser:
+    - [2013-arbejdsproces SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
     - [2010-arbejdsproces fra SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
-    - [Introduktion til SharePoint-arbejdsproces](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+    - [Introduktion til SharePoint arbejdsgang](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
-- Fejlfinding af arbejdsgang og fejlfinding:
-    - Fejlfindings arbejdsprocesser minder om de tidligere versioner.  Hvis du vil have mere at vide, skal du se [fejlfinding af SharePoint-arbejdsprocesser](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-    - Du kan finde flere oplysninger om fejlfinding i [fejlfinding af fejl i SharePoint Server-arbejdsproces validering](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+- Fejlfinding og fejlfinding af arbejdsproces:
+    - Fejlfinding af arbejdsprocesser ligner det i tidligere versioner.  Du kan finde flere oplysninger [under Fejlfinding SharePoint arbejdsprocesser.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+    - Du kan finde flere oplysninger om fejlfinding i [Fejlfinding SharePoint Serverarbejdsprocesvalideringsfejl](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Relaterede emner
-Vil du prøve Microsoft flow i SharePoint Online?
-- [Opret flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint og flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Vil du prøve Microsoft Flow i SharePoint Online?
+- [Opret Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint og Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
