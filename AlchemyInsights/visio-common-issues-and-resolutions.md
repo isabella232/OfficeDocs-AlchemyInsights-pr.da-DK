@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 650872443ab1f94c970979e111a7ea2d287d7a7ddde1e5123a385edb48a0bb32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998142"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Almindelige problemer og løsninger i Visio
 
@@ -25,7 +25,7 @@ Her er nogle af de mest almindelige emner for Microsoft Visio:
 
 **Indstillinger for Visio Online**
 
-- Visio sælges som [enkeltstående program](https://products.office.com/visio/flowchart-software). Administratorer kan købe [Visio-abonnementet](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) fra Microsoft 365 Administration.
+- Visio sælges som [enkeltstående program](https://products.office.com/visio/flowchart-software). Administratorer kan købe det [Visio abonnement](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) fra Microsoft 365 Administration.
 
 - Visio tilbyder [forskellige abonnementsplaner](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Hvis du mangler en funktion i Visio, kan du [sammenligne Visio-indstillinger](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) for at få mere at vide om forskellene mellem Plan 1 og Plan 2.  Bemærk, at Visio Online Plan 1 ikke inkluderer en skrivebordsversion af Visio.
 
