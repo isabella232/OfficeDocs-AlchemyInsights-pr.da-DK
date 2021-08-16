@@ -1,5 +1,5 @@
 ---
-title: Flere brugere kan ikke se tilføjelsesprogrammer i Outlook
+title: Flere brugere kan ikke se tilføjelses in Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: a0c272f40044795754ed8630e88e00ed14ea6ad7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 850df2cb349f9a751def3d59fb665670e70e493daba56a88821afcef9c48ffa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011798"
 ---
-# <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>Flere brugere kan ikke se tilføjelsesprogrammer i Outlook
+# <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>Flere brugere kan ikke se tilføjelses in Outlook
 
-Hvis du tester Outlook-tilføjelsesprogrammer, og der ikke vises nogen, som det første trin til fejlfinding, skal du bruge **Get-OrganizationConfig PowerShell-** cmdlet'en til at forespørge _AppsForOfficeEnabled_ -parameteren. Hvis forespørgslen returnerer værdien **falsk**, skal du angive parameteren til **sand** ved hjælp af cmdlet'en **Set-OrganizationConfig** , så tilføjelsesprogrammer vises som forventet.
+Hvis du tester Outlook, og ingen vises som det første fejlfindingstrin, skal du bruge **Get-OrganizationConfig** PowerShell-cmdlet'en til at forespørge på _appsForOfficeEnabled-parameteren._ Hvis forespørgslen returnerer værdien **Falsk,** skal du  indstille denne parameter til Sand ved hjælp af cmdlet'en **Set-OrganizationConfig,** så tilføjelses ins vises som forventet.
 
-Vi anbefaler ikke, at parameteren _AppsForOfficeEnabled_ er angivet til **falsk**. En værdi på **falsk** tilsidesætter alle ovennævnte administrator-og brugerrolle indstillinger og forhindrer, at alle nye apps aktiveres af en bruger i organisationen.
+Vi anbefaler ikke, at _parameteren AppsForOfficeEnabled_ er angivet til **Falsk**. En værdi af **Falsk** tilsidesætter alle ovenstående administrative indstillinger og brugerrolleindstillinger og forhindrer nye apps i at blive aktiveret af alle brugere i organisationen.
 
-Hvis du vil have mere at vide, skal du se [angive de administratorer og brugere, der kan installere og administrere tilføjelsesprogrammer til Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles).
+Du kan finde flere oplysninger [under Angive de administratorer og brugere, der kan installere](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles)og administrere tilføjelsesprogrammet for Outlook .
