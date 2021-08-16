@@ -1,5 +1,5 @@
 ---
-title: 204 Sådan finder du manglende eller genoprette manglende Outlook-mail,-kalender eller-kontakter
+title: 204 Sådan finder du manglende eller Outlook mail, kalender eller kontakter
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029150"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Sådan finder og gendanner du manglende meddelelser, kontakter eller kalenderelementer i Outlook
 
-1. Gå til din mailmappe liste i Outlook, og vælg derefter **slettede elementer**. **Vigtigt**! hvis du ikke kan se mappen **slettet post** , men i stedet ser mappen **Papirkurv** , understøtter din konto ikke gendannelse af et element, der ikke længere findes i mappen **slettet post** .
+1. I Outlook skal du gå til listen med dine mailmapper og derefter **vælge Slettet post**. **Vigtigt!** Hvis du ikke  kan se mappen Slettet post, men i stedet kan se mappen Papirkurv, understøtter din konto ikke gendannelse af et element, der ikke længere findes i mappen **Slettet** post. 
 
-2. I menuen **hjem** skal du klikke på **Gendan slettede elementer fra serveren**. **Vigtigt**! hvis der ikke er nogen **Gendan slettede elementer fra kommandoen server** i menuen, understøtter din konto ikke gendannelse af et element, som ikke længere findes i mappen **slettet post** .
+2. I menuen **Hjem skal** du klikke **på Gendan slettede elementer fra serveren**. **Vigtigt!** Hvis der ikke findes kommandoen Gendan slettede elementer fra **serveren** i menuen, understøtter din konto ikke gendannelse af et element, der ikke længere findes i mappen **Slettet** post.
 
-3. Markér de elementer, du vil gendanne, klik på **Gendan de markerede elementer**, og klik derefter på **OK**.
+3. Markér de elementer, du vil gendanne, klik på **Gendan de markerede elementer,** og klik derefter på **OK.**
 
-**Hvor skal gendannede elementer gå?** Når du gendanner elementer fra mappen Genoprettelige elementer, flyttes de til mappen **slettet post** . Når du har gendannet et element, kan du finde det i mappen **slettet post** , og derefter kan du flytte den til en anden mappe.
+**Hvor bliver gendannede elementer af?** Når du gendanner elementer fra mappen Genoprettelige elementer, flyttes de til **mappen Slettet** post. Når du gendanner et element, kan du finde det i **mappen Slettet** post, og derefter kan du flytte det til en anden mappe.
 
-Du kan også bruge [jeg har problemer med at sende, modtage eller søge efter værktøjer til mail](https://aka.ms/SaRA-OutlookSendReceive) **på den berørte computer**. Dette værktøj kontrollerer, om der er en række problemer, og foreslår mulige løsninger.
+Du kan også bruge værktøjet [Jeg har problemer med at sende, modtage eller finde](https://aka.ms/SaRA-OutlookSendReceive) mails på den pågældende **computer.** Dette værktøj søger efter en række problemer og foreslår mulige løsninger.

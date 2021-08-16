@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 409f34d01c7d81a81cf7594237e2c0163bdd8c85
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: 7f0786fd83eb0e31e0b0803a1c924cad37c4b2b47baf6f3495175c8a7bd7b91d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068986"
 ---
 # <a name="export-your-google-calendar"></a>Eksportér din Google-kalender
 
-1. Log på din Google Gmail-konto, og klik derefter på **kalender**.
-1. Klik **My Calendars** på  >  **Indstillinger for** mine kalendere.
-1. Klik på **Eksportér kalendere** , og vælg den placering, hvor den udpakkede fil skal gemmes.
-1. Vælg den gemte zip-fil på placeringen, og klik på **Udpak alle**.
+1. Log på din Google Gmail-konto, og klik derefter på **Kalender**.
+1. Klik **på Mine**  >  **Indstillinger**.
+1. Klik **på Eksportér kalendere,** og vælg den placering, hvor du vil gemme den udpakkede fil.
+1. Vælg den gemte zip-fil på placeringen, og klik på **Udtræk alle**.
    Hvis du har flere Google-kalendere, får du vist en ICS-fil for hver enkelt.
 
-Nu er du klar til at importere din Google-kalender til Outlook.
+Nu er du klar til at importere din Google-kalender Outlook.

@@ -1,5 +1,5 @@
 ---
-title: Undgå, at Microsoft Søg i Bing installeres med Microsoft 365-apps
+title: Undgå Microsoft Søg du Bing installeret med Microsoft 365 Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040104"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Undgå, at Microsoft Søg i Bing installeres med Microsoft 365-apps
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Undgå Microsoft Søg du Bing installeret med Microsoft 365 Apps
 
-Hvis du vil forhindre baggrundstjenesten for Microsoft Søg i Bing i at blive installeret med Microsoft 365-apps til virksomheder, skal du bruge en af følgende indstillinger:
+Hvis du vil forhindre, at Microsoft Søg i Bing i at installere med Microsoft 365 Apps for enterprise, skal du bruge en af følgende indstillinger:
 
-- Office Udrulningsværktøj eller Gruppepolitik
-- Microsofts slutpunkt Konfigurationsstyring (aktuel forgrening) eller Microsoft Intune
+- Office eller Installationsværktøj Gruppepolitik
+- Microsoft Endpoint Configuration Manager (aktuel forgrening) eller Microsoft Intune
 
-Du kan få mere at vide ved at se, hvordan du forhindrer baggrundstjenesten for Microsoft Søg i Bing i at blive installeret med [Microsoft 365-apps til virksomheder.](https://go.microsoft.com/fwlink/?linkid=2151946)
+Du kan få mere at vide under Sådan forhindrer du, at [Microsoft Søg i Bing installeres med Microsoft 365 Apps for enterprise.](https://go.microsoft.com/fwlink/?linkid=2151946)
