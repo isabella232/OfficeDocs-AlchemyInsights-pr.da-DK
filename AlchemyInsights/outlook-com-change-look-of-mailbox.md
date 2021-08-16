@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802555"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096472"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Ændre udseendet af din Outlook.com-postkasse
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Rediger udseendet af din Outlook.com-postkasse
 
-Du kan ændre udseendet af meddelelseslisten og læseruden i Outlook.com.
+Du kan ændre udseendet af meddelelseslisten og læseruden på Outlook.com.
 
-- Hvis du vil ændre layoutet for meddelelsesvinduet, skal du åbne indstillingerne for [læseruden](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Hvis du vil ændre den måde, din mail er sorteret på, skal du vælge **Filtrer**  >  **sortering efter** og vælge, hvordan du vil sortere din mail, øverst på meddelelseslisten.
-- Hvis du vil gruppere dine meddelelser efter samtale, skal du åbne indstillingerne for [meddelelses organisationen](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Hvis du vil slå fokuseret indbakke til eller fra, skal du åbne dine [layout](https://outlook.live.com/mail/options/mail/layout/focused) indstillinger.
+- Hvis du vil ændre layoutet i meddelelsesvinduet, skal du åbne [indstillingerne for læseruden.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- Hvis du vil ændre måden, dine mails sorteres på, skal du øverst på meddelelseslisten vælge Filtrer sortér efter og vælge, hvordan  >   du vil sortere dine mails.
+- Hvis du vil gruppere dine meddelelser efter samtale, skal du åbne [indstillingerne for meddelelsesorganisationen.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Hvis du vil slå Fokuseret indbakke til eller fra, skal du åbne [layoutindstillingerne.](https://outlook.live.com/mail/options/mail/layout/focused)

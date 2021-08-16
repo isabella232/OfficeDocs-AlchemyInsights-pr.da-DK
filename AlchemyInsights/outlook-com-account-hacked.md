@@ -13,16 +13,16 @@ ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: b7f72921e6eddddff0fa9e95dd28006a50780c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17129583b48db457d8cec814b8fde19888a720e4878ba35d60088e381d63927c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096544"
 ---
-# <a name="outlookcom-account-hacked"></a>Outlook.com-konto hacket
+# <a name="outlookcom-account-hacked"></a>Outlook.com-konto er hacket
 
-Hvis din konto er blevet hacket, skal du følge vejledningen i [min Outlook.com-konto er blevet hacket](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) for at gendanne din konto.
+Hvis din konto er blevet hacket, skal du følge instruktionerne i Min [Outlook.com-konto](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) er blevet hacket for at gendanne din konto.
   
-Få mere at vide om [avanceret Outlook.com sikkerhed for Microsoft 365-abonnenter](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Få mere at [vide om avanceret Outlook.com-sikkerhed for Microsoft 365 abonnenter.](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)
   

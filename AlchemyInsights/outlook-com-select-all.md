@@ -1,5 +1,5 @@
 ---
-title: 8000090 Outlook.com Markér alt
+title: 8000090 Outlook.com skal du vælge alle
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6a3bef0d83c5bb4f55edf01f85ccc227b914d574
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3fe62a9752f667c7a2a21282d3c954c2b3316da6ebd4a49f28dd2afb2444c7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722807"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010790"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>Sådan "Markér alt" i Outlook.com
+# <a name="how-to-select-all-in-outlookcom"></a>Sådan "markér alle" i Outlook.com
 
-Du kan kun vælge alle, hvis alle meddelelser er synlige. Dette sker for at forhindre utilsigtede handlinger for meddelelser, du ikke kan se.
+Du kan kun markere alle, hvis alle meddelelser er synlige. Dette er for at forhindre utilsigtede handlinger på meddelelser, du ikke kan se.
 
-**CTRL + klik** markerer flere individuelle meddelelser.
+**Ctrl+klik** markerer flere individuelle meddelelser.
 
-**Skift + klik** markerer alle meddelelser mellem den første og den sidste meddelelse, du vælger.
+**Skift + klik** markerer alle meddelelser mellem den første og sidste meddelelse, du vælger.

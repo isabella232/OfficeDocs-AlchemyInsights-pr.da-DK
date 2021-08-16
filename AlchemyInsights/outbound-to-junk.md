@@ -1,5 +1,5 @@
 ---
-title: Udgående mail til mappen uønsket mail
+title: Udgående mail til mappen Uønsket mail
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096652"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Udgående mail til mappen uønsket mail
+# <a name="outbound-email-to-junk-email-folder"></a>Udgående mail til mappen Uønsket mail
 
-Hvis du får vist udgående meddelelser, der er markeret som uønsket, skal du gøre følgende:
+Hvis du ser udgående meddelelser, der markeres som Uønsket, skal du gøre følgende:
 
-- Hvis du ikke allerede har gjort det, kan du overveje at [konfigurere meddelelser om udgående spam politik](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Hvis du ikke allerede har gjort det, skal du [overveje at konfigurere meddelelser om udgående spampolitik.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)
 
-- Brug [meddelelsessporing](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) til at se, om den udgående meddelelse indeholder hændelses værdien **spam** med den yderligere detaljer: **Brug en høj risiko leverings pulje**.
+- Brug [meddelelsessporing](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) for at se, om den udgående meddelelse har hændelsesværdien **Spam** med de yderligere detaljer: Brug en pulje til levering med **høj risiko.**
 
-  For disse meddelelser skal du kontrollere meddelelsens indhold for at se, hvad der kan være spam. For eksempel kan signaturer undertiden medføre problemer for mange brugere.
+  For disse meddelelser skal du kontrollere meddelelsesindholdet for at se, hvad der kan betragtes som spam. Signaturer kan f.eks. nogle gange medføre problemer for mange brugere.
 
-  Hvis du har flere eksempler på gyldige udgående meddelelser, der er markeret som uønsket, skal du åbne en supportanmodning og bede support agenten om at sende dine meddelelser som falske positiver til vores spam-analytikere. Vær klar til at levere eksempel meddelelser, der omfatter alle brevhoveder.
+  Hvis du har flere eksempler på legitime udgående meddelelser, der markeres som uønsket mail, skal du åbne en supportanmodning og bede supportmedarbejderen om at sende dine meddelelser som falske positive til vores spamanalytikere. Vær klar til at levere eksempelmeddelelser, der indeholder alle brevhoveder.
