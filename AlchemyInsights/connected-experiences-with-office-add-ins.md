@@ -1,5 +1,5 @@
 ---
-title: Forbundet oplevelse med Office-tilføjelsesprogrammer
+title: Forbundet oplevelse Office tilføjelses-ins
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: ca4aa57acfa8f2ddfd5b8ddbaa6d7214cfbb9140
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b05b39f6298eb6e05c4465584a884395c863a891ec525828f795809eeb787a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032804"
 ---
-# <a name="connected-experience-with-office-add-ins"></a>Forbundet oplevelse med Office-tilføjelsesprogrammer
+# <a name="connected-experience-with-office-add-ins"></a>Forbundet oplevelse Office tilføjelses-ins
 
-Office-tilføjelsesprogrammer er muligvis ikke tilgængelige, hvis brugeren eller administratoren har slået forbundne oplevelser fra.
+Office tilføjelsesprogrammet er muligvis ikke tilgængeligt, hvis brugeren eller administratoren har slået tilknyttede oplevelser fra.
 
-Før du ændrer politikindstillinger, skal du se [Brug politikindstillinger til at administrere kontrol af personlige oplysninger for Microsoft 365-apps til virksomheder](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).
+Før du ændrer nogen politikindstillinger, skal du se Brug politikindstillinger til [at administrere kontrolelementer til beskyttelse af personlige oplysninger for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).
 
-Brugere kan aktivere eller deaktivere indstillingen for beskyttelse af personlige oplysninger ved at følge disse trin:
+Brugerne kan slå indstillingen Beskyttelse af personlige oplysninger til eller fra ved at følge disse trin:
 
-- **Fil > konto > beskyttelse af personlige oplysninger > Administrer indstillinger** 
+- **Fil > konto > konto beskyttelse af personlige oplysninger > Administrer Indstillinger** 
 
-    Under forbundne oplevelser skal du vælge, om der er bestemte forbundne oplevelser tilgængelige, f. eks. oplevelser til at analysere indhold. Hvis du ikke vælger bestemte oplevelser i Administrer indstillinger, er alle forbundne oplevelser tilgængelige.
+    Under Forbundne oplevelser skal du vælge, om bestemte forbundne oplevelser er tilgængelige, f.eks. oplevelser til at analysere indhold. Hvis du ikke vælger bestemte oplevelser i Administrer Indstillinger, er alle forbundne oplevelser tilgængelige.
