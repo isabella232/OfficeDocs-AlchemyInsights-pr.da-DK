@@ -1,5 +1,5 @@
 ---
-title: Skift domæne for microsoft 365-gruppe
+title: Skift domæne for Microsoft 365 gruppe
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b32d921288d6d1f39a4b98fb0050624fc96529ddb1e6f9f385687187c729ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071038"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Skift domænet for Microsoft 365-gruppe
+# <a name="change-the-domain-for-microsoft-365-group"></a>Ændre domænet for Microsoft 365 gruppe
 
-Hvis du vil ændre domænet for en Microsoft 365-gruppe under oprettelsen, skal du følge trinnene i Vælg domænet, der skal bruges ved oprettelse af [Microsoft 365-grupper.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
+Hvis du vil ændre domænet for en Microsoft 365-gruppe under oprettelsen, skal du følge trinnene i Vælg det domæne, der skal bruges, når [du opretter Microsoft 365 Grupper.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
   
-Når Microsoft 365-gruppen allerede er oprettet, er det i øjeblikket ikke muligt at ændre domænet. Den eneste måde er at oprette en ny Microsoft 365-gruppe og slette den gamle, hvis det er nødvendigt (yderligere mailadresser kan tilføjes [via Exchange Administration](https://outlook.office365.com/ecp.aspx)).
+Når gruppen Microsoft 365 oprettet, er det i øjeblikket ikke muligt at ændre domænet. Den eneste måde er at oprette en ny Microsoft 365-gruppe og slette den gamle, hvis det er nødvendigt (yderligere mailadresser kan tilføjes [via Exchange Administration).](https://outlook.office365.com/ecp.aspx)

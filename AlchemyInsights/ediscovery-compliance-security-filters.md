@@ -1,5 +1,5 @@
 ---
-title: Ingen resultater returneret under indholdssøgning/eksport
+title: Der returneres ingen resultater under indholdssøgning/-eksport
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727217"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101260"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Ingen resultater returneret under indholdssøgning/eksport
+# <a name="no-results-returned-during-content-searchexport"></a>Der returneres ingen resultater under indholdssøgning/-eksport
 
 Hvis du oplever problemer med følgende eDiscovery-scenarier:
 
-- Indholdssøgning/eksport returnerer ingen data eller uventede data
-- eDiscovery-søgning eller eksport mislykkes
+- Indholdssøgning/-eksport returnerer ingen data eller uventede data
+- eDiscovery-søgning eller -eksport mislykkes
 
-Dette kan skyldes visse sikkerhedsfiltre for overholdelse, der blev oprettet af en bestemt administrator, og som ikke er blevet kommunikeret med alle administratorer.
+Dette kan skyldes visse sikkerhedsfiltre for overholdelse, der er konfigureret af en bestemt administrator, og som ikke er blevet kommunikeret til alle administratorer.
 
-Hvis du vil løse dette, skal du kontrollere, om der er nogen sikkerhedsfiltre for overholdelse, der kan forårsage disse problemer:
+For at løse dette skal du kontrollere, om der er nogen sikkerhedsfiltre til overholdelse af regler og standarder, der kan være skyld i disse problemer:
 
-1. Opret forbindelse til sikkerheds-og overholdelses Center PowerShell
-2. Kør følgende commandlets:
+1. Forbind til Security and Compliance Center Powershell
+2. Kør følgende kommandoletter:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Du kan finde flere oplysninger om kompatibilitets relaterede filtre under [tilladelser til filtrering af indholdssøgning](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Du kan finde flere oplysninger om sikkerhedsfiltre til overholdelse af regler [og standarder under Filtrering af tilladelser til indholdssøgning](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
