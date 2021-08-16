@@ -1,5 +1,5 @@
 ---
-title: Ofte stillede spørgsmål om Microsoft 365-grupper
+title: Microsoft 365 Ofte stillede spørgsmål om grupper
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: b116957864ea1ff7d09850df56177f765fe12cff
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 55ade817c9cd30181f77f65ebfc6d0c99a9e4c11aace7e123b6bf7e09fe516c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098632"
 ---
-# <a name="microsoft-365-groups-faq"></a>Ofte stillede spørgsmål om Microsoft 365-grupper
+# <a name="microsoft-365-groups-faq"></a>Microsoft 365 Ofte stillede spørgsmål om grupper
 
-Se Ofte stillede **[spørgsmål om Microsoft 365-gruppe](https://aka.ms/M365GroupsFAQ)** for at se de vigtigste administratoropgaver, der er relateret til Microsoft 365-grupper.
+Se Ofte **[Microsoft 365 gruppe for at](https://aka.ms/M365GroupsFAQ)** se de vigtigste administratoropgaver, der er relateret Microsoft 365 Grupper.
 
 - Problemer med mailflow
 - Administration af mailadresser
 - Scripts til at eksportere oplysninger om gruppemedlem
 - Send-As og anden delegering
-- Grupper, der ikke vises/er tilgængelige fra Outlook-klienten
+- Grupper, der ikke vises/er tilgængelige fra Outlook klient

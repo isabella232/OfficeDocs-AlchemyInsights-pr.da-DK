@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004400"
 - "8602"
-ms.openlocfilehash: d31f77e70e8456a4076a8146025f1f8ada977a06
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 6f9e164713ce36023de954d45031fd4414780e174bf5c7741c4aec274a65b32e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067834"
 ---
 # <a name="gpo-deployment"></a>Installation af gruppepolitikobjekt
 
-Indstillinger for bruger- og computerobjekter i Azure Active Directory-domæneservices (Azure AD DS) administreres ofte ved hjælp af Gruppepolitik objekter (GPOs). Azure AD DS indeholder indbyggede GPOs til AADDC-brugere og AADDC-computerbeholdere. Du kan tilpasse disse indbyggede gruppepolitikobjekter for at konfigurere gruppepolitikken efter behov for dit miljø. Medlemmer af gruppen Azure AD DC-administratorer har gruppepolitikadministrationsrettigheder i Azure AD DS-domænet, og de kan også oprette brugerdefinerede GRUPPE'er og organisationsenheder. Du kan finde flere oplysninger om, hvad gruppepolitik er, og hvordan den [fungerer, Gruppepolitik Oversigt.](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11))
+Indstillinger for bruger- og computerobjekter i Azure Active Directory-domænetjenester (Azure AD DS) administreres ofte ved hjælp af Gruppepolitik-objekter (GPOs). Azure AD DS indeholder indbyggede GPOs til AADDC-brugere og AADDC-computerbeholdere. Du kan tilpasse disse indbyggede GPOs til at konfigurere gruppepolitik efter behov for dit miljø. Medlemmer af administratorgruppen Azure AD DC-administratorer har gruppepolitikadministrationsrettigheder i Azure AD DS-domænet og kan også oprette brugerdefinerede GPOs og organisationsenheder (OUs). Du kan finde flere oplysninger om, hvad gruppepolitik er, og hvordan den fungerer, [Gruppepolitik Oversigt](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11)).
 
-I et hybridmiljø synkroniseres gruppepolitikker, der er konfigureret i et lokalt AD DS miljø, ikke med Azure AD DS. Hvis du vil definere konfigurationsindstillinger for brugere eller computere i Azure AD DS, skal du redigere et af standard-GRUPPEpolitikobjekter eller oprette et brugerdefineret gruppepolitikobjekt.
+I et hybridmiljø synkroniseres gruppepolitikker, der er konfigureret i AD DS lokalt miljø, ikke med Azure AD DS. For at definere konfigurationsindstillinger for brugere eller computere i Azure AD DS skal du redigere en af standard-GPOs eller oprette et brugerdefineret gruppepolitikobjekt.
 
-I denne artikel [administreres Gruppepolitik,](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) hvordan du installerer Gruppepolitik-administrationsværktøjerne, hvordan du redigerer de indbyggede gruppepolitikobjekter, og hvordan du opretter brugerdefinerede gruppepolitikobjekter.
+I denne artikel kan [Gruppepolitik](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) se, hvordan du installerer Gruppepolitik-administrationsværktøjerne, hvordan du redigerer de indbyggede GPOs, og hvordan du opretter brugerdefinerede gpos.
