@@ -1,5 +1,5 @@
 ---
-title: 973 overførsel StalledDueTo * regel
+title: 973-overførselsreglen StalledDueTo*
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 5c1127878dfe2c4a2c79712eceaa9181e95c794a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 41852cb864ee3c6e9919039f9228eb5f12bbdaa7aa2ed86d2c1b654bd84c65c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992321"
 ---
-# <a name="stalleddueto-errors-during-migration"></a>StalledDueTo fejl under overførsel
+# <a name="stalleddueto-errors-during-migration"></a>StalledDueTo-fejl under overførslen
 
-Du kan muligvis se en række fejl, der starter med "StalledDueTo..." under overførslen til Exchange Online. Mange af disse fejl er helt normale. Hvis du vil have mere at vide, skal du se [ressourcebaseret begrænsning og prioritering i Exchange Online-overførsler](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).
+Du kan få vist en række forskellige fejl, der begynder med "StalledDueTo..." under overførslen til Exchange Online. Mange af disse fejl er helt normale. Du kan finde flere [oplysninger under Ressourcebaseret begrænsning og prioritering i Exchange Online-migrering.](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020)

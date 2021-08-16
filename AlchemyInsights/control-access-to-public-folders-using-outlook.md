@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: f528044ca7f6f2ee2812f9f831093c44eca26fe1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1386b97f804e63455094abf64b9d9e2541d57dafa36535813b0d7689e0ce2966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032552"
 ---
 # <a name="control-access-to-public-folders-using-outlook"></a>Kontrollere adgang til offentlige mapper ved hjælp af Outlook
 
-Sådan styrer du, hvilke brugere der kan få adgang til offentlige mapper ved hjælp af Outlook:
+Sådan styrer du, hvilke brugere der kan få adgang til offentlige mapper Outlook:
 
 1. Brug `Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true or $false`
 
@@ -30,6 +30,6 @@ $false: Forebyd brugeradgang til offentlige mapper i Outlook. Dette er standardv
 
 2. `Set-OrganizationConfig -PublicFolderShowClientControl $true`
 
-Bemærk! Denne fremgangsmåde kan kun styre forbindelser med Outlook-skrivebord til Windows-klienter. Brugere kan fortsætte med at få adgang til offentlige mapper ved hjælp af OWA eller Outlook til Mac.
+Bemærk! Denne fremgangsmåde kan kun styre forbindelser med Outlook til Windows klienter. Brugere kan fortsætte med at få adgang til offentlige mapper ved hjælp af OWA eller Outlook til Mac.
 
-Du kan finde flere oplysninger [i Kontrollerede forbindelser til offentlige mapper i Outlook](https://aka.ms/controlpf) for at få flere oplysninger.
+Du kan finde flere oplysninger [under Kontrollerede forbindelser til offentlige mapper i Outlook](https://aka.ms/controlpf) for at få flere oplysninger.
