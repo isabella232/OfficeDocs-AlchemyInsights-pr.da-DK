@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101944"
 ---
 # <a name="device-writeback"></a>Tilbageførsel af enhed
 
 Tilbageførsel af enhed bruges i følgende scenarier:
 
-- Aktivér [Windows Hello til virksomheder ved hjælp af installation af hybridcertifikattillid](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Aktivér Betinget adgang baseret på enheder til ADFS (2012 R2 eller nyere) beskyttede programmer (afhængigt af parttillider)
+- Aktivere [Windows Hello for Business ved hjælp af hybridinstallation af certifikattillid](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Aktivér Betinget adgang baseret på enheder med ADFS (2012 R2 eller nyere) beskyttede programmer (afhængig af parttillide)
 
     > [!NOTE]
-    > Der kræves et abonnement på Azure AD Premium for tilbageskrivning af enheder.
+    > Der kræves et Azure AD Premium for at tilbageførsel af enhed.
 
-Dette giver yderligere sikkerhed og sikkerhed for, at adgang til programmer kun gives til enheder, der er tillid til. Du kan finde flere [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) oplysninger om Betinget adgang under Administration af risici med Betinget adgang og Konfiguration af betinget adgang i det lokale miljø ved hjælp af [Registrering af Azure Active Directory-enheder.](https://docs.microsoft.com/azure/active-directory/devices/overview)
+Dette giver yderligere sikkerhed for, at adgang til programmer kun gives til enheder, der er tillid til. Du kan finde flere [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) oplysninger om betinget adgang i Administrer risiko med betinget adgang og Konfiguration af betinget adgang i det lokale miljø ved [Azure Active Directory af Enhedsregistrering.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
 Du kan finde flere oplysninger om aktivering af tilbageførsel af enheder for enheder under [Aktivér tilbageførsel af enhed.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)

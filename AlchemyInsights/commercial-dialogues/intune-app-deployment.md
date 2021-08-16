@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744402"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034424"
 ---
 # <a name="intune-app-deployment-process"></a>Installationsproces for Intune-app
 
 Installation af programmer med Intune følger nedenstående proces:
 
-- Tilføje en app – Du kan tilføje en App Store-app eller overføre en Line of Business-app.
+- Tilføje en app – Du kan tilføje en app Store eller overføre en Line of Business-app.
 - Tildeling af en app – Afgør omfanget af installation af programmet.
-- Overvågning af apps – Få vist installationsstatus for apps, vis fundne apps, og administrer apps, der er købt i app stores.
-- [Programmet har implementeret Intune SDK. Du kan finde en liste over apps, der understøtter SDK, i Microsoft Intune-beskyttede apps.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- Overvågning af apps – Få vist installationsstatus for apps, vis opdagede apps, og administrer apps, der er købt i app stores.
+- [Programmet har implementeret Intune SDK. Du kan finde en liste over apps, der understøtter SDK, Microsoft Intune beskyttede apps](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
 
-[Læs mere om installation og administration af intune-apps...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Læs mere om installation og administration af Intune-apps...](https://docs.microsoft.com/mem/intune/apps/app-management)
