@@ -9,20 +9,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c24451fba8b8ab8fe7a1778bb292dec6678e1ef487076d27458c9aeb4963c683
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069706"
 ---
 # <a name="conditional-access-with-intune"></a>Betinget adgang med Intune
 
 Brug  **af Betinget adgang**  med Intune kræver tre trin:
 
-- Opret en  **politik for overholdelse**  af regler og standarder [(Android,](https://docs.microsoft.com/intune/compliance-policy-create-android)  [iOS,](https://docs.microsoft.com/intune/compliance-policy-create-ios)  [Windows)](https://docs.microsoft.com//intune/compliance-policy-create-windows)for at definere indstillinger, der skal opfyldes, før enheden betragtes som værende kompatibel. En enhed skal f.eks. have en pinkode på mindst 6 cifre, før den betragtes som værende kompatibel.
-- Opret en **politik for betinget adgang,**  der definerer, hvilke ressourcer der beskyttes, og hvilke betingelser der skal være opfyldt for at få adgang til disse ressourcer.  [Eksempelvis skal en enhed](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  være kompatibel, før den får adgang til virksomhedens mail.
-- Sørg **for, at både overholdelsespolitikker**  **og betingede**  adgangspolitikker er rettet mod de ønskede grupper af brugere. Dette kræver muligvis oprettelse af bestemte grupper af brugere i Azure Active Directory.
+- Opret en **Politik for overholdelse** af regler og standarder [(Android,](https://docs.microsoft.com/intune/compliance-policy-create-android) [iOS,](https://docs.microsoft.com/intune/compliance-policy-create-ios) [Windows)](https://docs.microsoft.com//intune/compliance-policy-create-windows)for at definere indstillinger, der skal opfyldes, før enheden betragtes som værende inden for reglerne. En enhed skal f.eks. have en pinkode på mindst seks cifre, før den betragtes som værende inden for reglerne.
+- Opret en **Betinget adgangspolitik,**  der definerer, hvilke ressourcer der beskyttes, og hvilke betingelser der skal være opfyldt for at få adgang til disse ressourcer.  [Eksempelvis skal en enhed](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  være kompatibel, før der tilgås virksomhedens mail.
+- Sørg **for, at både Politikker**  for  **overholdelse af regler og standarder og**  Betingede adgangspolitikker er målrettet de ønskede grupper af brugere. Dette kræver muligvis oprettelse af bestemte grupper af brugere Azure Active Directory.
 
 **Nyttige links:**
 
@@ -32,7 +32,7 @@ Brug  **af Betinget adgang**  med Intune kræver tre trin:
 
 [Fejlfindingspolitik](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-For at beskytte mail (Exchange Online) mod adgang fra enheder, der ikke er lige så relevante, skal begge dokumenter følges:
+For at beskytte mail (Exchange online) mod adgang fra enheder, der ikke er lige så relevante, skal begge dokumenter følges:
 
-1. [Beskyt mailadgang fra enheder, der bruger EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+1. [Beskyt mailadgang fra enheder med EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
 2. [Beskyt mailadgang fra enheder, der bruger moderne godkendelsesklienter som Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)

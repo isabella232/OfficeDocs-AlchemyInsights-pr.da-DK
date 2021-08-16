@@ -1,5 +1,5 @@
 ---
-title: Konfigurationsvejledning til fjernarbejde
+title: Vejledning til konfiguration af fjernarbejde
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573376"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023984"
 ---
-# <a name="remote-work-setup-guide"></a>Konfigurationsvejledning til fjernarbejde
+# <a name="remote-work-setup-guide"></a>Vejledning til konfiguration af fjernarbejde
 
-Mere og mere arbejde udføres via fjernadgang. Din organisation skal være udstyret til at administrere det øgede behov for fjernarbejde.
+Der udføres mere og mere arbejde eksternt. Din organisation skal være klar til at administrere den øgede efterspørgsel på fjernarbejde.
 
-Brug [guiden til konfiguration af fjernarbejde](https://go.microsoft.com/fwlink/?linkid=2142062) til at aktivere vigtige sikkerhedsfunktioner og gennemse yderligere sikkerhedsanbefalinger. Du får vejledning til at reducere antallet af VPN-infrastrukturer, og du kan også konfigurere fjernadgang til stationære og apps. Derefter skal du gennemgå dine muligheder for at installere Microsoft teams og Office-Apps.
+Brug [konfigurationsvejledningen til fjernarbejde for](https://go.microsoft.com/fwlink/?linkid=2142062) at aktivere vigtige sikkerhedsfunktioner og gennemse yderligere sikkerhedsanbefalinger. Du får vejledning til at reducere belastningen af din VPN-infrastruktur og eventuelt konfigurere fjernadgang til skriveborde og apps. Derefter skal du gennemgå dine muligheder for at installere Microsoft Teams og Office apps.

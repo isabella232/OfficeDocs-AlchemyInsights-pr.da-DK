@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012518"
 ---
 # <a name="microsoft-graph-rest-api-reference"></a>Microsoft Graph REST API-reference
 
-Grafens API-sæt på v 1.0-slutpunktet er i tilstanden generel tilgængelighed (GA) og har gennemgået en grundig gennemgang-og tilbagemeldings proces med kunder, der opfylder de praktiske, produktionsbehov.
+API-Graph-sæt på v1.0-slutpunktet er i status for generel tilgængelighed (GA) og har gennemgået en grundig gennemgangs- og feedbackproces med kunder, der opfylder praktiske produktionsbehov.
 
-- Du kan finde flere oplysninger om graf API v 1.0 i [reference til Microsoft Graph rest API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Hvis du vil have mere at vide om betaversionen af graf API, skal du se [Microsoft Graph beta Endpoint reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Du kan finde flere oplysninger Graph API v1.0 under [Microsoft Graph REST API v1.0-reference.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true) 
+- Du kan finde flere Graph om betaversionen af API i [Microsoft Graph reference til betaslutpunkt.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-Du kan finde flere oplysninger om Microsoft Graph i [dokumentationen til Microsoft Graph](https://docs.microsoft.com/graph/).
+Du kan finde flere oplysninger om Microsoft Graph i [Microsoft Graph dokumentation.](https://docs.microsoft.com/graph/)
 
-Unified-og Premier Support-kunder kan hæve en support billet ved hjælp af denne portal. Hvis du ikke har Unified eller Premier Support, kan du få adgang til gratis udvikler support til Microsoft Graph på Microsoft Q&A. Skriv dit spørgsmål her: https://aka.ms/AskGraph
+Unified- og Premier Support-kunder kan oprette en supportbillet via denne portal. Hvis du ikke har Unified eller Premier Support, kan du få adgang til gratis udviklersupport til Microsoft Graph på Microsoft Q&A. Skriv dit spørgsmål her: https://aka.ms/AskGraph

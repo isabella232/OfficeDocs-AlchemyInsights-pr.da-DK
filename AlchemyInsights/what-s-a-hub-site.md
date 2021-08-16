@@ -1,5 +1,5 @@
 ---
-title: Hvad er et hub-websted?
+title: Hvad er et hubwebsted?
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d2523832f91c98c452ef1c21586888da236082ff551b3b1a349757b48f6e99d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989801"
 ---
-# <a name="whats-a-hub-site"></a>Hvad er et hub-websted?
+# <a name="whats-a-hub-site"></a>Hvad er et hubwebsted?
 
-Med et hub-websted kan du organisere websteder og give dem en almindelig navigation og branding. Globale-eller SharePoint-administratorer kan oprette NAV-websteder og angive, hvilke brugere der kan knytte deres websteder til webstedet for NAV. Du kan finde flere oplysninger under [SharePoint-hub-websteder](https://go.microsoft.com/fwlink/?linkid=869388).
+Et hubwebsted hjælper dig med at organisere websteder og give dem en fælles navigation og branding. Globale eller SharePoint administratorer kan oprette hubwebsteder og angive, hvilke brugere der kan knytte deres websteder til hubwebstedet. Du kan finde flere oplysninger [SharePoint hubwebsteder](https://go.microsoft.com/fwlink/?linkid=869388).
   

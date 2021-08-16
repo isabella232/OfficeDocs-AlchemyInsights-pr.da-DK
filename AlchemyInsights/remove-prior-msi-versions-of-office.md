@@ -1,5 +1,5 @@
 ---
-title: Fjerne tidligere MSI-versioner af Office
+title: Fjern tidligere MSI-versioner af Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680661"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023768"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>Fjerne tidligere MSI-versioner af Office
+# <a name="remove-prior-msi-versions-of-office"></a>Fjern tidligere MSI-versioner af Office
 
-Jeg anbefaler at fjerne tidligere Windows Installer-versioner (MSI)-versioner af Office, før du installerer Office 365 ProPlus. Sådan gør du:
+Jeg anbefaler at fjerne tidligere Windows (MSI)-versioner af Office før du installerer Office 365 ProPlus. Sådan gør du:
 
-1. Hvis du har brugt MSI til at installere Office, kan du bruge Office udrulnings værktøj (ODT) til at fjerne Office. Du kan bruge RemoveMSI-elementet i din **configuration.xml** -fil.
-1. Følg vejledningen i denne artikel: [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Hvis du har brugt MSI til at Office, kan du bruge Office(ODT) til at fjerne Office. Du kan bruge RemoveMSI-elementet i **configuration.xml** fil.
+1. Følg instruktionerne i denne artikel: [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
