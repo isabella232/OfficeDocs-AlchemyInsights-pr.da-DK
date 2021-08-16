@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 8cbb675b8a290dae5a0a161296a7be95b5259711
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058824"
 ---
 # <a name="enable-or-disable-a-journal-rule"></a>Aktivere eller deaktivere en journalregel
 
 Sådan gør du:
 
-1. I [Exchange Administration skal du gå til](https://go.microsoft.com/fwlink/p/?linkid=2059104)journalregler for   >  **overholdelsesstyring.**
-2. I listevisningen i kolonnen **TIL** ud for reglens navn skal du markere afkrydsningsfeltet for at aktivere reglerne eller fjerne markeringen for at deaktivere reglen.
+1. I [administrationen Exchange skal du gå](https://go.microsoft.com/fwlink/p/?linkid=2059104)til Journalregler for **overholdelsesstyring**  >  .
+2. Markér afkrydsningsfeltet ud for **reglens** navn i kolonnen TIL i listevisningen for at aktivere reglerne eller fjerne markeringen i den for at deaktivere reglen.
