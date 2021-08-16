@@ -1,5 +1,5 @@
 ---
-title: Sådan deaktiverer du OneDrive for Business
+title: Sådan deaktiveres OneDrive for Business
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 4ebb1d6ae1a83176f3f5df0f14e96d41090cc27f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: df59b38eae53b028bddddb94def15c267e5e5d578f1ddd9e8459c930e67eabd8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815168"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016082"
 ---
 # <a name="disable-onedrive-for-business"></a>Deaktiver OneDrive for Business
 
-Der er flere måder, hvorpå du kan deaktivere adgangen til OneDrive og dets tjenester afhængigt af virksomhedens behov:
+Der er flere måder, hvorpå du kan deaktivere adgangen til OneDrive og dens tjenester afhængigt af virksomhedens behov:
 
-- [Deaktiver, deaktiver eller fjern installationen af OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-- [Tillad synkronisering af OneDrive-konti kun for bestemte organisationer](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-- [Deaktiver oprettelse af OneDrive-websted for nogle brugere](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-- [Kontrollere adgang til SharePoint Online og OneDrive-data baseret på netværksplacering](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-- [Forhindre brugere i at synkronisere personlige OneDrive-konti](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-- [Administrer forbindelser fra Windows-enheder til OneDrive og andre tjenester](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+- [Deaktivere, deaktivere eller fjerne OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+- [Tillad synkronisering OneDrive konti kun for bestemte organisationer](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+- [Deaktiver OneDrive oprettelse af websteder for nogle brugere](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+- [Kontrollere adgang til SharePoint online og OneDrive baseret på netværksplacering](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Forhindre brugere i at synkronisere personlige OneDrive konti](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+- [Administrer forbindelser fra Windows til OneDrive og andre tjenester](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069886"
 ---
 # <a name="working-in-microsoft-intune"></a>Arbejde i Microsoft Intune
 
@@ -26,7 +26,7 @@ Her er nogle grundlæggende funktioner i Intune:
 - [Hvad er Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
 - [Sådan tilmelder du dig prøveversionen af Intune?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
 - [Opsætning af Intune for første gang](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
-- [Hvad er enhedsregistrering i Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
-- [Brug fejlfindingsportalen til at hjælpe brugerne i din virksomhed](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [Hvad er tilmelding af enheder i Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
+- [Brug fejlfindingsportalen til at hjælpe brugere i din virksomhed](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 
 [Læs mere om Microsoft Intune...](https://docs.microsoft.com/mem/intune/)

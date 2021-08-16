@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9696"
-ms.openlocfilehash: a37efc40cfb9bfc43c615b3317002734ccf29b0c
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a3da73e07a5c8c7670cc3adade7490ffeef31c8affddf389a48a8be11e8b58a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51035737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031112"
 ---
 # <a name="device-sync"></a>Enhedssynkronisering
 
-**Hvis enhedssynkronisering ikke fungerer, skal du huske følgende punkter:**
+**Hvis enhedssynkronisering ikke virker, skal du huske følgende punkter:**
 
-- Et enhedsobjekt vil kun være synligt i Azure-portalen efter udførelse af enhedsregistrering.
-- Hvis du ønsker, at enheden skal være forbundet til både det lokale domæne og Azure, dvs. Hybrid joinforbindelse, skal du følge nedenstående links for at få mere at vide:
+- Et enhedsobjekt vil kun være synligt i Azure-portalen, efter du har udført Enhedsregistrering.
+- Hvis du ønsker, at enheden skal være forbundet både til et lokalt domæne og Azure, dvs. Hybrid joinforbindelse, skal du følge nedenstående links for at få mere at vide:
   - [https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering)
   - [https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains)

@@ -1,5 +1,5 @@
 ---
-title: Betingede adgangsproblemer
+title: Problemer med betinget adgang
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069958"
 ---
-# <a name="conditional-access-issues"></a>Betingede adgangsproblemer
+# <a name="conditional-access-issues"></a>Problemer med betinget adgang
 
-**Løse problemer med logon-diagnosticering**
+**Løs problemer med Logondiagnosticering**
 
-Du kan hurtigt finde ud af, hvad der skete eller diagnosticere problemer i forbindelse med brugerlogon, ved hjælp af [logonsessionen](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom):
+Du kan hurtigt finde ud af, hvad der skete, eller diagnosticere problemer i forbindelse med brugerlogføring ved hjælp af [Log på-diagnosticering:](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
 
-1. Start den diagnosticering, du har logget på.
-1. Find den hændelse, der skal analyseres, ved at angive de oplysninger, du har om bruger, program, tidspunkt for logon, anmodnings-id eller korrelations-id.
-1. Gennemgå de diagnostiske resultater, der viser oplysninger om, hvad der skete, og hvilke handlinger du kan udføre for at foretage ændringer (hvis der er behov for ændringer).
+1. Start Logondiagnosticering.
+1. Find hændelsen, der skal analyseres, ved at angive i de oplysninger, du har om brugeren, programmet, tidspunktet for logon, anmodnings-id eller korrelations-id.
+1. Gennemgå de diagnostiske resultater, der viser, hvad der er sket, og hvilke handlinger du kan udføre for at foretage ændringer (hvis der er behov for ændringer).
 
 **Trin til fejlfinding af et logon** 
 
-1. Gå til siden Azure AD-logonsiden.
-1. Filtrere logon-programmer efter bruger, tidsinterval, program, status, klient-app osv.
-1. Vælg en logonindstilling, og få vist fanen betinget adgang for at se, hvilke politikker der blev evalueret.
-1. Klik på rækken for en politik for at få vist politik detaljerne og forstå, hvorfor den er anvendt.
+1. Gå til Azure AD-logonsiden.
+1. Filtrer logons efter bruger, tidsinterval, program, status, klientapp osv.
+1. Vælg en logonhændelse, og få vist fanen Betinget adgang for at se, hvilke politikker der blev evalueret.
+1. Klik på rækken i en politik for at få vist politikdetaljerne og forstå, hvorfor den er anvendt.
 
 **Værktøjer til fejlfinding af en politik for betinget adgang**
 
-- Med rapport baseret tilstand kan du evaluere en politik uden at påvirke brugerne.
-- Hvad hvis-værktøj gør det muligt at simulere logon-begivenheder og se, hvilke politikker der gælder.
-- Indsigt og rapporterings projektmapper viser realtids virkninger for hver politik.
+- Rapporttilstand giver dig mulighed for at evaluere en politik uden at påvirke brugere.
+- Med what if-værktøjet kan du simulere logonhændelser og se, hvilke politikker der gælder.
+- Insights projektmappe i realtid viser indvirkningen af hver politik i realtid.
 
-**Grundlæggende beskyttelsespolitikker**
+**Politikker for beskyttelse af oprindelige planer**
 
-Grundlæggende beskyttelsespolitikker er blevet frarådet. De håndhæves ikke længere og vil snart blive fjernet fra Azure-portalen. Vi anbefaler, at du aktiverer [sikkerhedsstandarder](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+Politikker for oprindelig beskyttelse frarådes. De gennemtvinges ikke længere og fjernes snart fra Azure-portalen. Vi anbefaler, at [du aktiverer sikkerhedsstandardindstillinger.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
 
-Hvis du vil have mere at vide om betinget adgang, skal du se:
+Du kan finde flere oplysninger om Betinget adgang i:
 
 [Bedste fremgangsmåder for betinget adgang i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Betingelser i betinget adgang](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Kontrolelementer i betinget adgang](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
- [Placeringer i betinget adgang](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)
+ [Betingelser i Betinget adgang](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Kontrolelementer i Betinget adgang](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
+ [Placeringer i Betinget adgang](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)
