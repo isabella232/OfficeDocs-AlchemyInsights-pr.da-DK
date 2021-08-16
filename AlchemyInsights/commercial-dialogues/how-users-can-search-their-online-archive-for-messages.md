@@ -1,5 +1,5 @@
 ---
-title: Sådan kan brugere søge i deres onlinearkiv efter meddelelser
+title: Sådan kan brugerne søge i deres onlinearkiv efter meddelelser
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034496"
 ---
-# <a name="how-users-can-search-their-online-archive-for-messages"></a>Sådan kan brugere søge i deres onlinearkiv efter meddelelser
+# <a name="how-users-can-search-their-online-archive-for-messages"></a>Sådan kan brugerne søge i deres onlinearkiv efter meddelelser
 
-Onlinearkiv er en funktion til Office 365 Enterprise-kunder, der har ualmindeligt store postkasser. En brugers onlinearkiv fungerer nogenlunde som en anden konto i Outlook med sin egen mappestruktur. Sådan finder du mail i dit onlinearkiv:
+Onlinearkiv er en funktion til Office 365 virksomhedskunder, der har ualmindeligt store postkasser. En brugers onlinearkiv fungerer nogenlunde som en anden konto Outlook sin egen mappestruktur. Sådan finder du mail i dit onlinearkiv:
 
 1. Onlinearkivet medtages ikke i søgninger, der udføres fra indbakken. Du skal gå til onlinearkivet og derefter udføre søgningen.
-2. I Outlook på internettet kaldes arkivet for *Det direkte arkiv.* Gå til In-Place arkivpostkasse, og udfør derefter søgningen.
-3. I Outlook 2016 kaldes det *Onlinearkiv – `name` > <.* Gå til onlinearkivpostkassen, og udfør derefter søgningen.
+2. I Outlook på internettet kaldes *arkivet Det direkte arkiv.* Gå til In-Place arkivpostkasse, og udfør derefter søgningen.
+3. I Outlook 2016 hedder det *Onlinearkiv – <`name` >*. Gå til onlinearkivpostkassen, og udfør derefter søgningen.
 
 > [!TIP]
-> Brugere kan ikke få adgang til deres onlinearkivpostkasse ved hjælp af Outlook på en mobilenhed, f.eks. en smartphone.
+> Brugerne kan ikke få adgang til deres onlinearkivpostkasse ved Outlook på en mobilenhed, f.eks. en smartphone.
