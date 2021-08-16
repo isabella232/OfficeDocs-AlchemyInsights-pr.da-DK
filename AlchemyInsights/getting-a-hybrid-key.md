@@ -1,5 +1,5 @@
 ---
-title: Få en hybrid nøgle
+title: Få en hybridnøgle
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056520"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Sådan får du en hybrid nøgle til Exchange
+# <a name="getting-an-exchange-hybrid-key"></a>Få en Exchange hybridnøgle
 
-Hvis du vil forbinde din lokale organisation med Exchange Online i Microsoft 365, skal du konfigurere mindst én Exchange-Server i din lokale organisation. Denne server bruges til at oprette en hybrid installation, der forbinder din lokale Exchange-organisation med Exchange Online. Hvis du vil have en hybrid nøgle til denne server, skal du følge trinnene i [guiden distribution af Exchange hybrid-produktnøgle](https://aka.ms/hybridkey).
+Hvis du vil forbinde din lokale organisation til Exchange Online i Microsoft 365, skal du konfigurere mindst én Exchange-server i din lokale organisation. Denne server bruges til at oprette en hybridinstallation, der forbinder din lokale Exchange til en Exchange Online. Hvis du vil have en hybridnøgle til denne server, skal du følge trinnene [Exchange guiden Distribution af hybrid produktnøgle](https://aka.ms/hybridkey).
   

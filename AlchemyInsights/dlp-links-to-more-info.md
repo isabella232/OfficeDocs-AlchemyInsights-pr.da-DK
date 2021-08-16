@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030824"
 ---
 # <a name="information-about-dlp-issues"></a>Oplysninger om DLP-problemer
 
@@ -24,15 +24,15 @@ ms.locfileid: "47679723"
 
 **Oplysninger om DLP-politik**
 
-Med en DLP-politik kan du identificere, overvåge og automatisk beskytte følsomme oplysninger på tværs af Microsoft 365.
+Med en DLP-politik kan du identificere, overvåge og automatisk beskytte følsomme oplysninger på tværs Microsoft 365.
 
 Besøg disse links for at få flere oplysninger:
 
 - [Oversigt over forebyggelse af datatab](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [Hvad er de følsomme oplysningstyper, der ser ud](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
-- [Oprette en brugerdefineret følsom oplysningstype](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [Send mailmeddelelser, og Vis tip til politikker](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [Beskyt SharePoint Online-filer med opbevarings mærkater og DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP og Microsoft teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
+- [Hvad de følsomme oplysningstyper søger efter](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Oprette en brugerdefineret type af følsomme oplysninger](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [Send mailbeskeder, og vis politiktip](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Beskyt SharePoint Online-filer med opbevaringsetiketter og DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP og Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Hvis du vil teste dine data med en indbygget eller brugerdefineret følsom oplysningstype, skal du bruge indstillingen **testtype** under **klassifikationer**  >  **følsomme oplysningstyper**. Hvis du vil have mere at vide, skal du se [test brugerdefinerede følsomme oplysningstyper](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Hvis du vil teste dine data med en indbygget eller brugerdefineret type af følsomme oplysninger, skal du bruge indstillingen **Testtype** under **Klassificeringer Følsomme**  >  **oplysningstyper**. Få mere at vide under [Test brugerdefinerede typer af følsomme oplysninger](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).

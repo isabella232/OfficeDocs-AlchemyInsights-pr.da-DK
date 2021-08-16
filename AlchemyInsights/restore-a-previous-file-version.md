@@ -1,5 +1,5 @@
 ---
-title: Gendanne en tidligere filversion
+title: Gendan en tidligere version af filen
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039564"
 ---
-# <a name="restore-a-previous-file-version"></a>Gendanne en tidligere filversion
+# <a name="restore-a-previous-file-version"></a>Gendan en tidligere version af filen
 
-Med online Versionshistorik kan du se og gendanne ældre versioner af dine filer på OneDrive eller SharePoint. Versionshistorik fungerer sammen med alle filtyper, herunder PDF-filer, CAD-filer, billeder og videoer. Sådan gendanner du en tidligere filversion:
+Med online versionshistorik kan du se og gendanne ældre versioner af dine filer i OneDrive eller SharePoint. Versionshistorik fungerer sammen med alle filtyper, herunder PDF-filer, CAD-filer, billeder og videoer. Sådan gendanner du en tidligere version af filen:
   
-1. Åbn SharePoint-dokumentbiblioteket eller OneDrive-placeringen.
+1. Åbn det SharePoint dokumentbibliotek eller den OneDrive placering.
     
-2. Klik til venstre for filen for at markere den, og klik derefter på **Versionshistorik**. Hvis du ikke kan se Versionshistorik på kommandolinjen, skal du klikke på mere ( **...** ). 
+2. Klik til venstre for filen for at markere den, og klik derefter på **Versionshistorik**. Hvis du ikke kan se Versionshistorik på kommandolinjen, skal du klikke på Mere ( **...** ). 
     
-3. Klik på den version, du vil have vist, eller klik på mere ( **...** ) til højre for en version, og klik derefter på **Gendan**.
+3. Klik på den version, du vil have vist, eller klik på Mere ( **...** ) til højre for en version, og klik derefter på **Gendan.**
     
 

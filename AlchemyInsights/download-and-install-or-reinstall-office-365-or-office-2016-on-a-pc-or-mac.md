@@ -1,5 +1,5 @@
 ---
-title: Downloade og installere eller geninstallere Office 365 eller Office 2016 på en PC eller Mac
+title: Download og installér eller geninstaller Office 365 eller Office 2016 på en pc eller Mac
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
-ms.openlocfilehash: 8306854ee90b0f804c83b27b58d870386673d5fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afc82137854e6fb6cdd4cdefbc0c0f4000435a1b34891ddf2a029dcff2ceffa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004652"
 ---
-# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Downloade og installere eller geninstallere Office 365 eller Office 2016 på en PC eller Mac
+# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Download og installér eller geninstaller Office 365 eller Office 2016 på en pc eller Mac
 
-Hvis du vil downloade og installere Office-produkter, der er inkluderet i dit abonnement, skal du gå til [mit software](https://portal.office.com/OLS/MySoftware.aspx) \> **kontor** og klikke på **Installer**. 
+Hvis du vil downloade og Office produkter, der er inkluderet i dit abonnement, skal du gå til [Min](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** og klikke på **Installér.** 
   
-Du kan finde en detaljeret vejledning i [downloade og installere eller geninstallere Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
+Du kan finde en detaljeret vejledning [under Download og installér eller geninstaller Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
   
-Hvis du har brug for at installere Office offline, skal du se [brug af office 2016 offline Installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
+Hvis du skal installere Office offline, skal du [se Brug Office 2016-offlineinstallationsprogrammet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
   
 

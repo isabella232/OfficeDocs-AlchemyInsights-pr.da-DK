@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 522343ef1e49d59fe019aba8de8bb9e88ddcbe46
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2a8b053f493488a1ab6740cc2433d18f61729fe65959cbd1903ad689000113b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056448"
 ---
 # <a name="global-reader"></a>Global læser
 
-Brugere med denne rolle kan læse indstillinger og administrative oplysninger på tværs af Microsoft 365-tjenester, men kan ikke udføre administrationshandlinger. Global læser er det skrivebeskyttede modstykke for global administrator.
+Brugere med denne rolle kan læse indstillinger og administrative oplysninger på tværs Microsoft 365 brugertjenester, men kan ikke udføre administrationshandlinger. Global læser er det skrivebeskyttede modstykke for global administrator.
 OneDrive Administration understøtter ikke rollen Global læser.
 
 Du kan få mere at vide om Global læser og dens aktuelle begrænsninger under [Global læser](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).

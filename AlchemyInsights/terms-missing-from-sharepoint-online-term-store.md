@@ -1,5 +1,5 @@
 ---
-title: Manglende termer fra SharePoint Online-ordbank
+title: Ord, der mangler SharePoint onlinevilkår Store
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: fd2824521d41eac892bf3a9cd4d8093751ccaf5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c596cf02128cbe58cd97ea802bf9ca1d0ce5b3b0a4334c4423754d86661c525a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039600"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Manglende termer fra SharePoint Online-ordbank
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Ord, der mangler SharePoint onlinevilkår Store
 
-Udtrykkene i det SharePoint Online-ordbank, du forventer at se, vises ikke, eller de vises med mellemrum.
+Vilkårene i den SharePoint-periode, Store du forventer at se, vises ikke eller vises periodisk.
   
-Hvis der er gået mere end 24 timer, siden du første gang fik dette problem, skal du logge en support sag. Vi forstår, at 24 timer kan virke som lang tid. I mange tilfælde arbejder vi allerede på en løsning, så du skal give os mindst 24 timer.
+Hvis der er gået mere end 24 timer, siden du så problemet første gang, skal du logge en supportsag. Vi forstår, at 24 timer kan se ud som lang tid. I mange tilfælde arbejder vi allerede på en løsning, så giv os mindst 24 timer.
   

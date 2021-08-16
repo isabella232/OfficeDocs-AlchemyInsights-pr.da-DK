@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 509b05f511b518e26f61039aa5175a47fea425d0
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988241"
 ---
 # <a name="fix-anti-spam-policy"></a>Ret antispampolitik
 
-En brugerdefineret antispampolitik i din lejer har påvirket denne meddelelse. Hvis du vil gennemse politikken, skal du gøre følgende:
+Denne meddelelse blev påvirket af en brugerdefineret antispampolitik i din lejer. Hvis du vil gennemse politikken, skal du gøre følgende:
 
-1. Gå til [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)og gå derefter til antispam **for**  >    >  [politikker for trusselsadministration.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. På fanen **Brugerdefineret** skal du vælge politikken **for standardspamfilter** eller en anden brugerdefineret politik, du måtte have oprettet, og derefter vælge **Rediger politik.**
-3. Udvid indstillingen **egenskaber for spam,** og gennemse **indstillingerne Markér som spam.**
+1. Gå til Office 365 [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143), og gå derefter til   >    >  [Antispampolitik for trusselsstyring](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. På fanen **Brugerdefineret** skal du vælge **standardpolitikken for spamfilter** eller en anden brugerdefineret politik, du måtte have oprettet, og derefter vælge **Rediger politik**.
+3. Udvid **indstillingen Egenskaber for** spam, og gennemgå indstillingerne for Markér som **spam.**
 
-Du kan finde flere oplysninger om konfiguration af politikker for spamfilter i [Konfigurere politikindstillinger for brugerdefineret spamfilter.](https://go.microsoft.com/fwlink/?linkid=2101054)
+Du kan finde flere oplysninger om konfiguration af politikker for spamfiltrering [i Konfigurer politikindstillinger for brugerdefineret spamfilter.](https://go.microsoft.com/fwlink/?linkid=2101054)
