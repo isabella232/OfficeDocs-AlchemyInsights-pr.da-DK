@@ -1,5 +1,5 @@
 ---
-title: Midlertidig afbrydelse af planlagte opdateringer
+title: Pause i planlagte opdateringer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1129"
 - "6700007"
-ms.openlocfilehash: 13abc7c9201b1897a9c766add4d105ef12f0d66f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ea6c56de00a52080c4a8b47eb5eeee37838420a9e979878c10aeb12885a8b99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010466"
 ---
-# <a name="pausing-scheduled-updates"></a>Midlertidig afbrydelse af planlagte opdateringer
+# <a name="pausing-scheduled-updates"></a>Pause i planlagte opdateringer
 
-Når der udstedes en pause-kommando, behandler enheder ikke kommandoen før næste gang, de tjekker ind til Intune. Derfor kan dine enheder have:
+Når en pausekommando er udstedt, behandler enhederne ikke kommandoen, før næste gang de tjekker ind til Intune. Derfor har dine enheder muligvis:
 
-- Har installeret de planlagte opdateringer, før du tjekker ind.
-- Blevet slukket, da du udstedte kommandoen pause. Hvis enhederne er tændt, kan de i dette tilfælde have downloadet og installeret de planlagte opdateringer, før du tjekker ind.
+- Installerede de planlagte opdateringer før indtjekning.
+- Er blevet slukket, da du udstedte kommandoen Pause. I dette tilfælde, når enhederne blev tændt, kan de have downloadet og installeret de planlagte opdateringer før indtjekning.

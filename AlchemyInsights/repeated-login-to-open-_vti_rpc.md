@@ -1,5 +1,5 @@
 ---
-title: Gentagne logge på for at åbne _vti_rpc
+title: Gentagne logon for at åbne _vti_rpc
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -15,14 +15,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 019fb0675a4a8b38e4d9a4012b8398291150940b34fcc81a2bbf96942d3fa9ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053028"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>Gentagne logge på for at åbne _vti_rpc
+# <a name="repeated-login-to-open-_vti_rpc"></a>Gentagne logon for at åbne _vti_rpc
 
-Når du arbejder på OneDrive-filer med Office 2016, kan du få vist meddelelsen: "Fortæl os, hvilken konto du vil bruge til at åbne _vti_rpc." Dette problem blev rettet i version 1708 (16.0.8431.2094). Hvis du vil rette dette, skal du opdatere til den nyeste version af Office. Vælg **File** opdateringsindstillinger for File- \> **konto** \> **Update Options** \> **nu**.
+Når du arbejder på OneDrive filer ved hjælp af Office 2016, får du muligvis vist meddelelsen: "Fortæl os, den konto du vil bruge til at åbne _vti_rpc". Dette problem blev rettet i version 1708 (16.0.8431.2094). Det løser du ved at opdatere til den nyeste version af Office. Vælg  \> **Opdateringsindstillinger for** \>  \> **filkonto Opdater nu.**
   

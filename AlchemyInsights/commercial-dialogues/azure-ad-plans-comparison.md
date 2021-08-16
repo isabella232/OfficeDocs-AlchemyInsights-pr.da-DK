@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045630"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Sammenligning af Azure Active Directory-planer
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory sammenligning af planer
 
-Azure Active Directory fås i fire udgaver: Gratis, Office 365-apps, Premium P1 og Premium P2.
+Azure Active Directory fås i fire udgaver: Gratis, Office 365 Apps, Premium P1 og Premium P2.
 
-Den gratis udgave er inkluderet i et Azure-abonnement. Premium-versionerne er tilgængelige via din Microsoft-repræsentant, [Open Volume License Program](https://go.microsoft.com/fwlink/?linkid=2110873)og programmer for udbydere af [skyløsninger.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
+Den gratis udgave er inkluderet i et Azure-abonnement. De Premium versioner er tilgængelige via din Microsoft-repræsentant, [Open Volume License Program](https://go.microsoft.com/fwlink/?linkid=2110873)og Cloud Solution [Providers-programmerne.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Azure- og Office 365-abonnenter kan også købe Azure Active Directory Premium P1 og P2 online. Hvis du vil have mere at vide, [skal du se azure Active Directory-funktioner og -priser.](https://go.microsoft.com/fwlink/?linkid=2081447)
+Azure- Office 365-abonnenter kan også købe Azure Active Directory Premium P1 og P2 online. Du kan få mere at vide [Azure Active Directory funktioner og priser.](https://go.microsoft.com/fwlink/?linkid=2081447)
