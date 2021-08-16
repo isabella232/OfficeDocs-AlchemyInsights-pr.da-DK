@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058500"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874569"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Konfigurere beskyttelse mod uønsket post
 
-Sådan gør du:
+1. I portalen Microsoft 365 Defender på skal du gå til & politikker for samarbejde & politikker for trussel mod <https://security.microsoft.com/>  \>  \>  \> **uønsket post** i **sektionen** Politikker.
 
-1. Gå til [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Gå til **Politik for**  >  **trusselsstyring**, og klik **[på Antispam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. På fanen **Brugerdefineret** skal du aktivere **Brugerdefinerede** indstillinger.
-1. Udvid **standardpolitikken for spamfilter,** klik **på Rediger** politik , og angiv derefter følgende indstillinger:
-    1. I sektionen **Spam og massehandlinger skal** du angive grænsen til en værdi på 5 eller 6.
-1. Klik på **Gem**.
+   For at gå direkte til **siden Politikker for uønsket post** skal du bruge <https://security.microsoft.com/antispam> .
 
-Hvis du vil have mere at vide om dine indstillinger for antispam-politikker, [skal du se Konfigurer antispam-politikkerne.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. Gør **et af følgende på** siden Antispam-politikker:
+   - Hvis du vil tilføje en ny politik, skal **du vælge + Opret** \> **indgående**. Der starter en guide, der kan hjælpe dig med at definere dine politikindstillinger.
+   - Hvis du vil redigere en eksisterende politik, skal du vælge  politikken ved at  klikke på navnet på politikken (**Type** er Brugerdefineret politik for uønsket post eller Navn er en indgående politik for uønsket post **(standard).** I pop op-menuen med oplysninger, der vises, **skal du vælge** Rediger i den sektion, der indeholder de indstillinger, du vil konfigurere.
+
+3. Når du har gennemset dine indstillinger, skal du **vælge Send** (ny) eller **Gem** (rediger).
+
+Få mere at vide under [Konfigurer antispam-politikker i EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)
