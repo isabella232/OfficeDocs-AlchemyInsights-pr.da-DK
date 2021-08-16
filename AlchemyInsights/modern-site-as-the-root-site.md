@@ -1,5 +1,5 @@
 ---
-title: Moderne websted som rodwebstedet
+title: Moderne websted som rodwebsted
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b42cf276a76547584c8cfd87b5a28f31d51ea7f8ca56621b22aeef01e4613ce6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000380"
 ---
-# <a name="modern-site-as-root-site"></a>Moderne websted som rodwebstedet
+# <a name="modern-site-as-root-site"></a>Moderne websted som rodwebsted
 
-Vi er gået i kontakt med en ny funktion, der giver dig mulighed for at [udskifte dit klassiske websted med et moderne websted](https://docs.microsoft.com/sharepoint/modern-root-site). Brug [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) for at udskifte placeringen af et websted med et andet websted, mens du arkiverer det oprindelige websted. Tilgængelig for begge team websteder (ikke forbundet til en gruppe) og kommunikationswebsted.
+Vi er begyndt at udrulle en ny funktion, der giver dig mulighed for at [bytte dit klassiske rodwebsted med et moderne websted.](https://docs.microsoft.com/sharepoint/modern-root-site) Brug [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) til at bytte placeringen af et websted med et andet websted under arkivering af det oprindelige websted. Tilgængelig for både Teamwebsted (ikke forbundet med en gruppe) og Kommunikationswebsted.
 
 >[!Important]
-> Slet ikke dit klassiske websted for at oprette et moderne kommunikationswebsted. Dette understøttes ikke af Microsoft. Hvis du sletter rodwebstedet, bliver alle SharePoint-websteder i organisationen utilgængelige for alle brugere, indtil du gendanner webstedet eller opretter et nyt websted på den samme URL-adresse. Vi kommunikerer denne funktion via meddelelses Center. Du skal forvente, at funktionen skulle slås til på din lejer i sin tid.
+> Slet ikke dit klassiske rodwebsted for at oprette et moderne kommunikationswebsted. Dette understøttes ikke af Microsoft. Hvis du sletter rodwebstedet, vil SharePoint alle websteder i organisationen være utilgængelige for alle brugere, indtil du gendanner webstedet eller opretter et nyt websted på den samme URL-adresse. Vi kommunikerer denne funktion via meddelelsescenteret. Du kan forvente, at funktionen snart bliver aktiveret i din lejer.
 
-## <a name="known-issues-with-swapping-sites"></a>Kendte problemer med swap websteder
-- Destinationswebstedet kan returnere fejlen "ikke fundet" (HTTP 404) for en kort periode.
-- Indhold skal gennemsøges for at opdatere søgeindekset. Der kræves intet manuelt trin her, det sker automatisk.
-- Alt afhængigt af "statiske" links (f. eks. filsynkronisering og OneNote-filer) skal rettes manuelt.
-- Project Server-websteder skal muligvis valideres for at sikre, at de stadig er knyttet korrekt. 
+## <a name="known-issues-with-swapping-sites"></a>Kendte problemer med udskiftning af websteder
+- Destinationswebstedet returnerer muligvis fejlen "blev ikke fundet" (HTTP 404) i en kort periode.
+- Indhold skal slås sammen igen for at opdatere søgeindekset. Der kræves ingen manuelle trin her. Dette udføres automatisk.
+- Alt afhængigt af "statiske" links (f.eks filsynkronisering og OneNote filer) skal rettes manuelt.
+- Project Serverwebsteder skal muligvis valideres for at sikre, at de stadig er tilknyttet korrekt. 

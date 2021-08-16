@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000350"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Overførsel fra AIP til MIP/Unified Labeling i Overholdelsescenter
 
@@ -25,11 +25,11 @@ Hvis du vil overføre fra AIP-navne til samlet mærkning i Security and Complian
 
 **Aktivér beskyttelse fra Azure-portalen**
 
-1. Hvis du ikke allerede har gjort det, skal du åbne et nyt browservindue [og logge på Azure-portalen](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Gå til **Azure Information Protection-bladet.** Klik f.eks. på Alle tjenester i **hubmenuen,** og begynd at **skrive** Oplysninger i feltet Filter. Vælg **Azure Information Protection**. Hvis du ikke har åbnet Azure Information Protection-bladet [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) før, skal du se de ekstra engangstrin for at føje denne blade til portalen. Hvis du vil åbne Azure Information Protection-bladet, skal du enten have en [Azure Information Protection Premium-plan](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) eller en Office 365-plan, der omfatter Rights Management. Hvis du har et af disse abonnementer, men får vist en meddelelse om, at et gyldigt abonnement ikke kan findes, skal du kontakte [Microsoft Support](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) eller bruge dine standard-supportkanaler.
+1. Hvis du ikke allerede har gjort det, skal du åbne et nyt browservindue [og logge på Azure-portalen](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Gå til **Azure Information Protection-bladet.** Klik f.eks. på Alle tjenester i **hubmenuen,** og begynd at **skrive** Oplysninger i feltet Filter. Vælg **Azure Information Protection**. Hvis du ikke har åbnet Azure Information Protection-bladet [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) før, skal du se de ekstra engangstrin for at føje denne blade til portalen. Hvis du vil åbne Azure Information Protection-bladet, skal du enten have en [Azure Information Protection Premium-plan](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) eller en Office 365, der omfatter Rights Management. Hvis du har et af disse abonnementer, men får vist en meddelelse om, at et gyldigt abonnement ikke kan findes, skal du kontakte [Microsoft Support](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) eller bruge dine standard-supportkanaler.
 
 2. Find **menuindstillingerne Administrer,** og vælg Beskyttelse **aktivering.** Klik **på Aktivér**, og bekræft derefter handlingen. Når aktiveringen er fuldført, vises Aktiveringen er **fuldført på informationslinjen.**
 
-**Overfør Azure Information Protection-etiketter til Office 365 Security & Compliance Center**
+**Overfør Azure Information Protection-etiketter Office 365 Security & Compliance Center**
 
 1. Sørg for, at du er logget på som bruger med tilladelsen Global administrator.
 
