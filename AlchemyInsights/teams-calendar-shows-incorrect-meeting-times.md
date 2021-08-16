@@ -1,5 +1,5 @@
 ---
-title: Teams-kalender viser forkerte mødetidspunkter
+title: Teams viser forkerte mødetider
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003305"
 - "6206"
-ms.openlocfilehash: b295faad4a0dbe6a10b17587e34c93e7658cb9cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58c4a5ef7afe62ff45cec311142891570ba128b419d2aa22afea57d4bac8fbe4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049266"
 ---
-# <a name="teams-calendar-shows-incorrect-meeting-times"></a>Teams-kalender viser forkerte mødetidspunkter
+# <a name="teams-calendar-shows-incorrect-meeting-times"></a>Teams viser forkerte mødetider
 
-Dette kan skyldes en forskel i tidszonen. Hvis det er tilfældet, kan du prøve at angive tidszonen i Outlook og derefter planlægge dine møder i Outlook-kalenderen i stedet for i teams.
+Dette kan skyldes en tidszoneforskelle. Hvis det er nødvendigt, kan du prøve at angive tidszonen i Outlook kalender og derefter planlægge dine møder i Outlook i stedet for Teams.
 
-- Du kan finde oplysninger om, hvordan du ændrer tidszonen, under [ændre tidszone og sprogindstillinger i Outlook på internettet](https://support.microsoft.com/office/change-the-time-zone-and-language-settings-in-outlook-on-the-web-65239869-12e7-4a9d-bca1-76b0ad7ce273) 
+- Du kan finde en vejledning til ændring af [tidszonen i Ændre indstillinger for tidszone og sprog i Outlook på internettet](https://support.microsoft.com/office/change-the-time-zone-and-language-settings-in-outlook-on-the-web-65239869-12e7-4a9d-bca1-76b0ad7ce273) 
 
-- Du kan finde oplysninger om, hvordan du ændrer tidszoner for den installerede version, under [Tilføj, Fjern eller Rediger tidszoner](https://support.microsoft.com/office/add-remove-or-change-time-zones-5ab3e10e-5a6c-46af-ab48-156fedf70c04).
-- Du kan finde flere oplysninger om planlægning i [et teammøde fra Outlook](https://support.microsoft.com/office/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f).
+- Du kan finde en vejledning til, hvordan du ændrer tidszoner i den installerede [version, under Tilføj, fjern eller rediger tidszoner.](https://support.microsoft.com/office/add-remove-or-change-time-zones-5ab3e10e-5a6c-46af-ab48-156fedf70c04)
+- Du kan finde [planlægningsinstruktioner i Teams et møde fra Outlook](https://support.microsoft.com/office/schedule-a-teams-meeting-from-outlook-883cc15c-580f-441a-92ea-0992c00a9b0f).

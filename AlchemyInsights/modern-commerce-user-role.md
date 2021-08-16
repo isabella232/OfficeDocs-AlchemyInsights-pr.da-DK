@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 07f93f4d9ffc300d19e38e771a512f0bd1db9cda10d1648e789917d85a1a39df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012014"
 ---
 # <a name="modern-commerce-user-role"></a>Den moderne handelsbrugerrolle
 
-Rollen Moderne handelsbruger giver visse brugere tilladelse til at få adgang til Microsoft 365 Administration og se de venstre navigationsposter for **Home**, **Billing** og **Support**. Det indhold, der er tilgængeligt i disse områder, styres af handelsspecifikke roller, der er tildelt brugerne til at administrere produkter, de har købt til sig selv eller din organisation. Dette kan omfatte opgaver som f.eks. at betale regninger eller for at få adgang til faktureringskonti og faktureringsprofiler.
+Den moderne handelsbrugerrolle giver visse brugere tilladelse til at Microsoft 365 Administration adgang til og se de venstre navigationsposter for **Home**, **Billing** og **Support**. Det indhold, der er tilgængeligt i disse områder, styres af handelsspecifikke roller, der er tildelt brugerne til at administrere produkter, de har købt til sig selv eller din organisation. Dette kan omfatte opgaver som f.eks. at betale regninger eller for at få adgang til faktureringskonti og faktureringsprofiler.
 
 Brugere med rollen Moderne handelsbruger har typisk administrative tilladelser i andre Microsoft-indkøbssystemer, men har ikke globale administrator- eller faktureringsadministratorrettigheder.
 
-Hvis du vil have mere at vide om denne og andre administrative roller, skal [du se Administratorrolletilladelser i Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)
+Du kan få mere at vide om denne og andre administrative roller [under Administratorrolletilladelser i Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)

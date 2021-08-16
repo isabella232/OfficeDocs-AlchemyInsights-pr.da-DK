@@ -1,5 +1,5 @@
 ---
-title: Administrere dit SharePoint-eller OneDrive-lager
+title: Administrer din SharePoint eller OneDrive lagerplads
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077788"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Administrere dit SharePoint-eller OneDrive-lager
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Administrer din SharePoint eller OneDrive lagerplads
 
  **SharePoint Online**
   
-For de fleste organisationer administreres SharePoint-lager automatisk, så du ikke behøver at angive begrænsninger for hver gruppe af websteder. Sådan kontrollerer du, hvor meget SharePoint-lager, du har:
+For de fleste organisationer administreres SharePoint lagerplads automatisk, så du ikke behøver at angive grænser pr. gruppe af websteder. Sådan kontrollerer du, SharePoint lagerplads du har:
   
-- I den nye SharePoint administration skal du øverst til højre på siden websteder se, om du har den tilgængelige og opsamlede lagerplads.
+- I den nye SharePoint Administration øverst til højre på siden websteder skal du se efter din tilgængelige og samlede lagerplads.
     
-Du kan finde oplysninger om, hvordan grænsen beregnes, under [SharePoint Online-begrænsninger](https://go.microsoft.com/fwlink/p/?LinkID=856113). Hvis du vil købe ekstra lagerplads, skal du se [ændre lagerplads for dit abonnement](https://go.microsoft.com/fwlink/?linkid=866428).
+Du kan finde oplysninger om, hvordan din grænse beregnes, [i SharePoint Onlinegrænser](https://go.microsoft.com/fwlink/p/?LinkID=856113). Hvis du vil købe ekstra lagerplads, [skal du se Skift lagerplads for dit abonnement.](https://go.microsoft.com/fwlink/?linkid=866428)
   
  **OneDrive**
   
-Sådan ændrer du standardlageret for nye og eksisterende OneDrive-brugere:
+Sådan ændrer du standardlagerplads for nye og eksisterende OneDrive brugere:
   
-- Gå til [siden lagerplads i OneDrive administration](https://admin.onedrive.com/?v=StorageSettings), og Angiv et nyt beløb i GB.
+- Gå til [Storage i OneDrive Administration,](https://admin.onedrive.com/?v=StorageSettings)og angiv et nyt beløb i GB.
     
-Hvis du vil kontrollere, hvor meget lagerplads du bruger i dit eget OneDrive, skal du se [administrere din onedrive for Business-lagerplads](https://go.microsoft.com/fwlink/?linkid=866429). Hvis du vil have mere at vide om det lager, der følger med hver plan, skal du se [beskrivelsen af OneDrive for Business Service](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Hvis du vil kontrollere, hvor meget lagerplads du bruger i din egen OneDrive, skal du [se Administrere OneDrive for Business lagerplads](https://go.microsoft.com/fwlink/?linkid=866429). Du kan finde oplysninger om den lagerplads, der følger med hver plan, [OneDrive for Business beskrivelse af tjenesten](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

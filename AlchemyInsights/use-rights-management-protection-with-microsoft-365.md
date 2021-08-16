@@ -13,18 +13,18 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: 8b3eec34c3c5be2ffbf5cec73adf0637600b13ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b57387176c9a3098c1967da953c6f178ea174204f5a31334f71ddd143d66d92c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998490"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Brug beskyttelse via Rights Management i Microsoft 365
 
 Du skal aktivere [RMS (Rights Management Service)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms), før du kan bruge IRM-funktioner (Information Rights Management) i Microsoft-programmer og -tjenester.
 
-1. For licenskrav og aktivering fra **Microsoft 365** Administration skal du se Sådan aktiverer du Rights Management Protection fra [Microsoft 365 Administration.](https://docs.microsoft.com/azure/information-protection/activate-office365) **Bemærk!** Det kræver en global administratorkonto.
+1. For licenskrav og aktivering fra **Microsoft 365 Administration** skal du se Sådan aktiveres Rights Management Protection [fra Microsoft 365 Administration](https://docs.microsoft.com/azure/information-protection/activate-office365). **Bemærk!** Det kræver en global administratorkonto.
 
 2. Du kan se licenskrav, og hvordan du aktiverer fra **Azure Portal**, under [Sådan aktiverer du tjenesten til beskyttelse via Rights Management fra Azure-portal](https://docs.microsoft.com/azure/information-protection/activate-azure). **Bemærk!** Det kræver ikke en global administratorkonto.
 

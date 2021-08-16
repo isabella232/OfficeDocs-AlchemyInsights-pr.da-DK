@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012158"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft for at foretage deling på tværs af flere arkitekturer
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do deling på tværs af lejere
 
-Microsoft til at understøtte liste deling mellem personlige og arbejds konti. Det gør det muligt for brugerne i din organisation
+Microsoft To Do understøtter listedeling mellem personlige konti og arbejdskonti. Dette giver brugerne i din organisation
 
-Deltag i, få vist, redigere og tilføje data til lister, der ejes af personlige Microsoft-konti.
+deltag, få vist, redigere og føje data til lister, der ejes af personlige Microsoft-konti.
 
-Der findes en ny administrator indstilling, som administratorer kan bruge til at deaktivere denne funktion ved at fjerne markeringen i afkrydsningsfeltet.
+Administratorer kan få en ny administratorindstilling til at deaktivere denne funktion ved at fjerne kontrollen over indstillingen.
 
-Administratoren kan finde denne indstilling i administrations portalen under **Indstillinger**  >  **organisationsindstillinger** i  >  **Services**  >  **Microsoft** .  
+Administratoren kan finde denne indstilling i administrationsportalen under **Indstillinger**  >  **Org Indstillinger**  >  **Services**  >  **Microsoft To Do**.  
 
 [Hvorfor kan jeg ikke deltage i en delt liste?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)

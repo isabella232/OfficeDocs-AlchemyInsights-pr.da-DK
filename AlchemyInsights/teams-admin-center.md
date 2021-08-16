@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049338"
 ---
 # <a name="teams-admin-center"></a>Teams Administration
 
@@ -32,5 +32,5 @@ Hvis brugere ikke vises i Teams Administration, skal du kontrollere følgende el
 
 - Har du oprettet brugere eller tildelt licenser inden for de seneste 24 timer? Sørg for at vente mindst 24 timer, før du åbner en supportanmodning.
 - Skal du bekræfte, at du har tildelt passende licenser?
-- Hvis du har et lokalt Active Directory, skal du bekræfte, at værdien af [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) eller SIP-adressen i feltet ProxyAddresses i dit lokale Active Directory er entydigt, og formatet svarer til **sip:** Brugerens brugernavn fra [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)Administration.
-- Hvis du vil beholde en Skype for Business Server-installation og have brugere lokalt og online: Følg "Konfigurer hybrid med Teams og **Skype for Business Online"** i kontrolpanelet i Skype for Business Server, og flyt brugere online.
+- Hvis du har et lokalt Active Directory, skal du bekræfte, at værdien af [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) eller SIP-adressen i feltet ProxyAddresses i dit lokale Active Directory er entydigt, og formatet svarer til **sip:** Brugerens brugernavn [fra Microsoft 365 Administration.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Hvis du har til hensigt at beholde en Skype for Business Server-installation og have brugere lokalt og online: Følg "Konfigurer hybrid med **Teams og Skype for Business Online"** i dit Skype for Business Server Kontrolpanel, og flyt brugere online.

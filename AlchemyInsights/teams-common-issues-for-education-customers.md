@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 6d1fac07673f6f945f382e4e640cf44afb76717d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9dc01109d0f036c567243a8833a845f074097e39de4e1cfc1ba38da61b8f97ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049230"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Teams almindelige problemer for Education-kunder
 
@@ -46,7 +46,7 @@ Hvis du har brug for hjælp til at anvende Teams til at understøtte ekstern læ
     6. I Skype for Business Administration skal du klikke på **Lydmøde** og derefter på **Brugere**.
     7. Vælg den pågældende bruger, og bekræft, at brugeren har et standard afgiftsbelagt nummer.
 
-    Du kan finde flere oplysninger i [opkaldsplaner i Microsoft Teams eller](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ved at ringe til Microsoft Commerce-faktureringsteamet for at få hjælp til licensrelaterede spørgsmål.
+    Du kan finde flere oplysninger i Microsoft Teams [opkaldsaftaler](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ved at ringe til Microsoft Commerce-faktureringsteamet for at få hjælp til spørgsmål relateret til licenser.
 
     Flere ressourcer
 
