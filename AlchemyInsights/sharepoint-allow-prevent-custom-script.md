@@ -1,5 +1,5 @@
 ---
-title: Tillad, at brugerdefineret script aktiverer funktioner
+title: Tillad brugerdefineret script for at aktivere funktioner
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd75d37b20ad2b624ee9944c9c7e62b93277dcd5e2669e3748647636d99e1b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051444"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Tillad, at brugerdefineret script aktiverer funktioner
+# <a name="allow-custom-script-to-enable-features"></a>Tillad brugerdefineret script for at aktivere funktioner
 
-Administratorer kan have brug for at tillade, at **brugerdefineret script** aktiverer visse funktioner. For eksempel modtager brugere muligvis fejl 403, når de opretter forbindelse til SharePoint med SharePoint Designer. Du kan finde detaljerede trin, eksempler og overvejelser under [Tillad eller Forbyd brugerdefineret script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Administratorer skal muligvis tillade **brugerdefineret script for** at aktivere visse funktioner. Brugere modtager muligvis fejl 403, når de opretter forbindelse til en SharePoint med SharePoint Designer. Hvis du vil have detaljeret vejledning, eksempler og overvejelser, skal [du se Tillade eller forhindre brugerdefineret script.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Hvis brugerne oplever **fejl 403** med SharePoint eller OneDrive, kan du kontrollere [tjeneste tilstands dashboardet](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) for at finde ud af, om det er et kendt problem med en løsning, der er i gang, før du ringer til support eller brug tid på at foretage fejlfinding. Problemet kan være meget midlertidigt og allerede identificeret af Microsoft, men der kan gå et tidsinterval mellem udstedelse af identifikation og bogføring i tjeneste tilstands dashboardet. Du skal fortsætte med at kontrollere tjeneste tilstands dashboardet for at få flere opdateringer.
+Hvis brugerne oplever fejlen **403** med SharePoint eller OneDrive, kan du [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) kontrollere dashboardet tjenestetilstand for at afgøre, om det er et kendt problem, og om der er en løsning på vej, før du ringer til support eller bruger tid på fejlfinding. Problemet kan være meget midlertidigt og er allerede identificeret af Microsoft, men der kan være et tidsrum mellem nummeridentifikationen og opslaget på dashboardet tjenestetilstand. Fortsæt med at kontrollere dashboardet for tjenestetilstand for yderligere opdateringer.
 
