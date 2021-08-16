@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064198"
 ---
 # <a name="cant-get-verification-codes"></a>Kan ikke hente bekræftelseskoder
 
-Hvis du ikke kan få adgang til din alternative mail eller dit alternative telefonnummer, skal du gå til siden [grundlæggende oplysninger](https://account.microsoft.com/security) om Microsoft-konto, vælge **jeg har ikke nogen** på logonsiden, og følge instruktionerne for at erstatte dine sikkerhedsoplysninger.
+Hvis du ikke kan få adgang til din alternative [](https://account.microsoft.com/security) mail eller dit  alternative telefonnummer, skal du gå til siden Grundlæggende om Microsoft-kontosikkerhed, vælge Jeg har ikke nogen af dem på logonsiden og følge vejledningen for at erstatte dine sikkerhedsoplysninger.
 
-*Bemærk:* [Microsoft-godkender-app'en](https://go.microsoft.com/fwlink/?linkid=2016117) kræver ikke en internetforbindelse for at give dig en bekræftelseskode.
+*Bemærk!* Appen [Microsoft Authenticator kræver](https://go.microsoft.com/fwlink/?linkid=2016117) ikke en internetforbindelse for at give dig en bekræftelseskode.
 
-Du kan få mere at vide ved at læse [sikkerhedsoplysninger og bekræftelseskoder til Microsoft-konto](https://support.microsoft.com/help/12428/).
+Du kan få mere at vide ved [at læse Microsoft-kontosikkerhedsoplysninger og bekræftelseskoder.](https://support.microsoft.com/help/12428/)

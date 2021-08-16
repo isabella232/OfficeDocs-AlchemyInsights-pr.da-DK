@@ -1,5 +1,5 @@
 ---
-title: Kan ikke udskrive i Outlook.com
+title: Kan ikke udskrive på Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: ca4d0bb958c26a602a0e044e9b97a05d59c14537
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59b99ef0de921403001e18eb6db0848aab5a0c0c0e49e253915e0bee806dc24b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752965"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064234"
 ---
-# <a name="unable-to-print"></a>Kan ikke udskrive
+# <a name="unable-to-print"></a>Det er ikke muligt at udskrive
 
-Vi er opmærksomme på et problem, hvor nogle brugere ikke kan udskrive, når de bruger Safari eller Edge-browsere. Mens vi arbejder på en løsning på dette, skal du bruge en anden browser. Vi beklager ulejligheden.
+Vi har kendskab til et problem, hvor nogle brugere ikke kan udskrive, når de bruger Safari- eller Edge-browsere. Brug en anden browser, mens vi arbejder på at finde en løsning på dette. Vi beklager ulejligheden.

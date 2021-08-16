@@ -15,17 +15,17 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868376"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502170"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Sådan tilføjer eller redigerer du et Moms-id
 
 > [!NOTE]
-> Hvis du er i et land, der anvender moms (moms), f.eks. Storbritannien, beregner Microsoft Invoicing momsen for dig og anvender beløbet på dine fakturaer. Du kan finde flere oplysninger under [ANSVARsfraskrivelse for VIES,](https://go.microsoft.com/fwlink/p/?LinkID=841741) der er udgivet af Den Europæiske Union.
+> Hvis du er i et land, der anvender moms (moms), f.eks. Storbritannien, beregner Microsoft Invoicing momsen for dig og anvender beløbet på dine fakturaer. Du kan finde flere oplysninger i [VIES-ansvarsfraskrivelsen](https://go.microsoft.com/fwlink/p/?LinkID=841741) udgivet af Den Europæiske Provision.
 
 **Tilføjelse eller redigering af et Moms-id**
 
@@ -34,4 +34,4 @@ ms.locfileid: "57868376"
 3. På siden med abonnementsoplysninger i sektionen **Tjenestebrugsadresse skal** du vælge **Rediger tjenestens brugsadresse.**
 4. I **ruden Rediger din tjenestes brugsadresse** skal du skrive dit momsnummer i **feltet Momsnummer** og derefter vælge **Gem**. Når du har gjort dette, bliver der ikke opkrævet moms på din næste faktura.
 
-Du kan få mere at [vide under Hvilken moms opkræves for Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Du kan få mere at [vide under Hvilken moms opkræves for Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

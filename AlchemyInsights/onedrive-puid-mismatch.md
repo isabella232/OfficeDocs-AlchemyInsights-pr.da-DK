@@ -1,5 +1,5 @@
 ---
-title: Uoverensstemmelse i OneDrive PUID
+title: OneDrive Uoverensstemmelse mellem PUID
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096724"
 ---
-# <a name="onedrive-puid-mismatch"></a>Uoverensstemmelse i OneDrive PUID
+# <a name="onedrive-puid-mismatch"></a>OneDrive Uoverensstemmelse mellem PUID
 
-Det ser ud til, at du oplever en [id-uoverensstemmelse](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) i OneDrive for Business. Hvis du vil gøre det muligt for os at hjælpe dig, skal du benytte følgende fremgangsmåde:
+Det ser ud til, at du oplever en [id-uoverensstemmelse](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) OneDrive for Business. Hvis du vil gøre det muligt for os at hjælpe dig tidligst, skal du gøre følgende:
 
-1. Klik på  **Kontakt support**, og klik derefter på  **ny service anmodning**.
-2. Behold titlen og beskrivelsen som  **OneDrive-bruger-id**, der stemmer overens.
-3. Når billetten er blevet sendt, kan du opdatere den med følgende oplysninger:
-    - URL-adresse til OneDrive-websted, der påvirkes.
+1. Klik **på Kontakt support** og derefter på Ny **serviceanmodning.**
+2. Lad titlen og beskrivelsen være som uoverensstemmelse **OneDrive webstedets bruger-id.**
+3. Når billeten er blevet indsendt, skal du opdatere den med følgende oplysninger:
+    - OneDrive websteds URL-adresse, der er påvirket.
     - Brugerens hovednavn (UPN) for den pågældende bruger.
