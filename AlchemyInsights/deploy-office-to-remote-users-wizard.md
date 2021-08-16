@@ -1,5 +1,5 @@
 ---
-title: Guiden Installer Office til fjernbrugere
+title: Guiden Office fjernbrugere
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031436"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Guiden Installer Office til fjernbrugere
+# <a name="deploy-office-to-remote-users-wizard"></a>Guiden Office fjernbrugere
 
-Nu, hvor det er den, der arbejder eksternt, er normen, at brugerne skal modtage dine organisationers Office-indstillinger, når de ikke har forbindelse til dit interne netværk, eller når de bruger deres egne enheder.
+Nu hvor det at arbejde eksternt er normen, skal brugerne modtage din Office-indstillinger, når de ikke har forbindelse til dit interne netværk, eller når de bruger deres egne enheder.
 
-Brug guiden [Installer Office til eksterne brugere](https://go.microsoft.com/fwlink/?linkid=2149564) til at oprette en tilpasset Office-installation og derefter sende brugere et genereret PowerShell-script, der problemfrit kan installere Office med din konfiguration.
+Brug guiden [Deploy Office to remote users](https://go.microsoft.com/fwlink/?linkid=2149564) til at oprette en tilpasset Office-installation og derefter sende brugerne et genereret PowerShell-script, der problemfrit installerer Office med din konfiguration.

@@ -12,24 +12,24 @@ ms.custom:
 - "919"
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
-description: Hvis du får en fejl, når du aktiverer Office 2013 på installation af Fjernskrivebord-tjenester (RDS), kan du overveje at aktivere ADAL ved at redigere registreringsdatabasen.
-ms.openlocfilehash: deb2ac4b0fb6a7b2e0045ff1b0ba95ad6e5e4a3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Hvis du modtager en fejl, når du aktiverer Office 2013 på RDS-installationer (Remote Desktop Services), skal du overveje at aktivere ADAL ved at redigere registreringsdatabasen.
+ms.openlocfilehash: 247686bf26c11d07ed118bdb1ba190fc718e87cf140b88f79b8aa0b40c827b4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100756"
 ---
-# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Fejl under aktivering af Office 2013 på Fjernskrivebord-tjenester
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Fejl under aktivering Office 2013 på Fjernskrivebord-tjenester
 
-Hvis du får en fejl, når du aktiverer Office 2013 på installation af Fjernskrivebord-tjenester (RDS), kan du overveje at aktivere ADAL ved at redigere registreringsdatabasen.
+Hvis du modtager en fejl, når du aktiverer Office 2013 på RDS-installationer (Remote Desktop Services), skal du overveje at aktivere ADAL ved at redigere registreringsdatabasen.
   
-|**Registreringsdatabasenøgle**|**Indtaste**|**Talværdi**|
+|**Registreringsdatabasenøgle**|**Type**|**Værdi**|
 |:-----|:-----|:-----|
-|HKEY_CURRENT_USER \Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |ét  <br/> |
+|HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
 
-Hvis du vil have mere at vide, skal du se [aktivere moderne godkendelse for Office 2013 på Windows-enheder](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
+Du kan få mere at [vide under Aktiver moderne godkendelse Office 2013 på Windows enheder.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
   
 > [!NOTE]
->  ADAL er som standard aktiveret i Microsoft 365-apps til Enterprise og Office 2016. Fjernskrivebord-tjenester (RDS) har tidligere kaldt Terminal Services.
+>  ADAL er som standard aktiveret i Microsoft 365 Apps for enterprise og Office 2016. Rds (Remote Desktop Services) hed tidligere Terminal Services.
   

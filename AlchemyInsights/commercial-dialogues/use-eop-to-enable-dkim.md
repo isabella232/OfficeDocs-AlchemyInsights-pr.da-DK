@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2f2b60a63b512bde794ba588852db11423e766f3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ba627c6da96624914b858aa09d6eff9de709134c2c986fe363845c5ab2b66434
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070288"
 ---
 # <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>Brug Exchange Online PowerShell til at aktivere DKIM for et bestemt domæne
 
-Hvis du ikke kan oprette DKIM DNS-posterne i Administration, kan du prøve at bruge Exchange Online PowerShell. 
+Hvis du ikke kan oprette DKIM DNS-poster i Administration, kan du prøve at bruge Exchange Online PowerShell. 
 
-Hvis du vil oprette en DKIM DNS-post ved hjælp af Exchange Online PowerShell, skal du udføre følgende trin:
+Hvis du vil oprette en DKIM DNS-post Exchange Online PowerShell, skal du udføre følgende trin:
 
-1. Åbn Windows PowerShell som administrator, og kør følgende kommandoer i den beskrevne rækkefølge:
+1. Åbn Windows PowerShell administrator, og kør følgende kommandoer i den beskrevne rækkefølge:
 
     a. `$UserCredential = Get-Credential`
 
@@ -34,13 +34,13 @@ Hvis du vil oprette en DKIM DNS-post ved hjælp af Exchange Online PowerShell, s
 
     c. `Import-PSSession $Session -DisableNameChecking`
     
-Hvis du har problemer med at oprette forbindelse til Exchange Online PowerShell, skal du se [Opret forbindelse til Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
+Hvis du har problemer med at oprette forbindelse til Exchange Online PowerShell, [skal du Forbind til Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 
 2. Når du har forbindelse til Exchange Online PowerShell, skal du køre følgende kommando:
 
     `New-DkimSigningConfig -DomainName < CustomDomain > -Enabled $true`
 
-3. Når ovenstående kommando er blevet udført, skal du køre følgende kommando for at afslutte Exchange Online PowerShell-sessionen:
+3. Når kommandoen ovenfor er blevet udført, skal du køre følgende kommando for at afslutte Exchange Online PowerShell-session:
 
     `Remove-PSSession $Session` 
 

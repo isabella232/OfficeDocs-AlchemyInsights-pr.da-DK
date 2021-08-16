@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031400"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Installation af tilføjelsesprogrammet til Microsoft 365 Apps
 
@@ -46,6 +46,6 @@ Du kan finde flere oplysninger under:
 [Installér tilføjelser i Administration](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Administrer tilføjelser i Administration](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [Brug de Centraliserede udrulning af PowerShell-cmdlet'er til at administrere tilføjelsesinstallationer](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
- [Publicere Office-tilføjelsesprogrammet ved hjælp af Centraliseret udrulning via Microsoft 365 Administration](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [Publicer Office tilføjelsesprogrammet ved hjælp af Centraliseret udrulning via Microsoft 365 Administration](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
  [Fejlfinding: Brugeren kan ikke se tilføjelsesprogram](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [Fejlfinding af brugerfejl Office tilføjelsesprogram](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)
