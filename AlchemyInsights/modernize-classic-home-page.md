@@ -1,5 +1,5 @@
 ---
-title: Modernisere den klassiske Startside
+title: Modernisere den klassiske startside
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026072"
 ---
-# <a name="modernize-the-classic-home-page"></a>Modernisere den klassiske Startside
+# <a name="modernize-the-classic-home-page"></a>Modernisere den klassiske startside
 
-En nylig opdatering til det klassiske SharePoint-teamwebsted har indvirkning på startsiden for de klassiske teamwebsteder (STS # 0), når en startside *kun indeholder ikke-standard webdele* , som f. eks introduktion, dokumentbibliotek og nyheds opdatering.
+En nylig opdatering til det klassiske *SharePoint-teamwebsteds* startside påvirker startsiden for klassiske teamwebsteder (STS#0), når en startside kun indeholder standardwebdele som f.eks. introduktion, dokumentbibliotek og nyhedsopdatering.
 
-Se en gennemgå af ændringen [her](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Få vist en gennemgang af ændringen [her](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
-**Bemærk: klassiske teamwebsteder, der indeholder tilpasset indhold, opdateres ikke automatisk.**
+**Bemærk! Klassiske teamwebsteder, der indeholder tilpasset indhold, opdateres ikke automatisk.**
 
-* Få mere at vide om opdaterings kriterier på den [klassiske Startside Modernization](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Få mere at vide om opdateringskriterier [ved klassisk tilpasning af startsiden.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
 
-* [Opgradere andre startsider, der ikke er en del af den automatiske Modernization](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Opgrader andre startsider, der ikke var en del af den automatiske modernisering.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
 
-* Deaktiver denne opgradering på bestemte websteder ved hjælp af et [SharePoint-mønster og en plug-in (PnP) PowerShell-cmdlet](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
+* Deaktiver denne opgradering på bestemte websteder ved [hjælp af SharePoint Patterns and Practices (PnP) PowerShell-cmdlet](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
