@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-tjeneste sundhed
+title: Microsoft 365 Tjeneste sundhed
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098452"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365-tjeneste sundhed
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Tjeneste sundhed
 
 
 Kontrollér tjenestetilstanden for alle tjenester fra dashboardet [tjenestetilstand](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Når du **vælger Den nye Administration** i øverste højre hjørne, får du vist de nye indstillinger for Tjenestestilstand.
@@ -30,4 +30,4 @@ Kontrollér tjenestetilstanden for alle tjenester fra dashboardet [tjenestetilst
 
 - Vælg **Historik** for at gennemse organisationens historik over tjenesteniveau. 
 
-Du kan få mere at vide [under Sådan kontrollerer du tjenestestilstanden for Microsoft 365.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
+Du kan finde flere oplysninger [under Sådan kontrollerer du Microsoft 365 af tjeneste.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
