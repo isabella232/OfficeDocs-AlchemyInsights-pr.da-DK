@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: a682ad3ebb196df818e894c129ded59cd0e2880a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01d4a3a2a59afe797d8b43c86bbe382ab19ba029a64b0f66be11201201b9d319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984563"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a>Sådan skrives specialtegn på en Mac
+# <a name="how-to-type-special-characters-on-a-mac"></a>Sådan skriver du specialtegn på en Mac
 
-Hvis du vil skrive specialtegn på din Mac, skal du åbne menuen **specialtegn** med tastaturgenvejen ⌘- **kommando**  +  **kontrol**  +  **rummet**.
+Hvis du vil skrive specialtegn på din Mac, skal du åbne **menuen Specialtegn** med ⌘   +    +  **kommandokontrolelement.**
 
-En hurtig genvej til @ er også **alt**  +  **64**.
+En hurtig genvej til @ er også **ALT**  +  **64**.

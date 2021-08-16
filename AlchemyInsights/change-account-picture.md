@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 3642697d27a7e20c8c131f513a3ef80c9223b4d2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 728a96a1ebfa3e064128a29d30971736ea2f6236ecf1c9152b0a542efdc032e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018747"
 ---
 # <a name="change-account-picture"></a>Skift kontobillede
 
-Hvis du bruger et brugernavn og en adgangskode til at logge på Windows 10, bruger du en lokal konto. **Sådan ændrer du dit lokale kontobillede:**
+Hvis du bruger et brugernavn og en adgangskode til at logge Windows 10, bruger du en lokal konto. **Sådan ændrer du dit lokale kontobillede:**
 
-1. Gå til **Start**  >  **indstillinger**  >    >  **-konti Dine oplysninger**.
+1. Gå til **Start**  >  **Indstillinger**  >  **Konti** Dine  >  **oplysninger.**
 2. Under **Opret dit billede skal** du klikke på Gennemse efter **en**. Eller, hvis din enhed har et kamera, skal du klikke **på Kamera** og tage en selfie. 
-    **Bemærk!** Windows husker de sidste tre billeder, du har brugt. Klik på billedet på siden Dine oplysninger for at skifte til det.
+    **Bemærk:** Windows husker de sidste tre billeder, du har brugt. Klik på billedet på siden Dine oplysninger for at skifte til det.
 
 Hvis du bruger en mailadresse og adgangskode til at logge på, bruger du en Microsoft-konto. Sådan ændrer du dit Microsoft-kontobillede:
 
