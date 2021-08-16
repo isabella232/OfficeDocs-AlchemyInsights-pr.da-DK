@@ -1,5 +1,5 @@
 ---
-title: Ret Windows Update-fejl
+title: Ret Windows opdateringsfejl
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6e90c0ba8a8cbe79838e1f49cd7049bf3e24e985d371ee1462d50e47834cdac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812638"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068266"
 ---
-# <a name="fix-windows-update-errors"></a>Ret Windows Update-fejl
+# <a name="fix-windows-update-errors"></a>Ret Windows opdateringsfejl
 
-Hvis du får en fejlkode, når du henter og installerer Windows Update, kan **fejlfindingsværktøjet** Opdatering hjælpe med at løse problemet.
+Hvis du får en fejlkode, når du henter og installerer Windows opdatering, kan Fejlfinding af **opdatering** hjælpe med at løse problemet.
 
 - [Download fejlfindingsværktøjet til opdatering til Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Kør fejlfindingsværktøjet. Når det er gjort, er det bedste fremgangsmåde at genstarte enheden. Søg efter nye opdateringer ved at gå til [Start > Indstillinger > Opdatering& sikkerhed > Windows Update.](ms-settings:windowsupdate)
+- Kør fejlfindingsværktøjet. Når det er gjort, er det bedste fremgangsmåde at genstarte enheden. Søg efter nye opdateringer ved at gå til [Start > Indstillinger > Opdater & Security > Windows Update.](ms-settings:windowsupdate)
 
-Hvis de stadig ikke virker, kan du se [Windows Update: Ofte stillede spørgsmål](https://support.microsoft.com/help/12373/windows-update-faq) for at få flere oplysninger.
+Hvis de stadig ikke virker, kan du læse mere Windows [Update: Ofte stillede spørgsmål.](https://support.microsoft.com/help/12373/windows-update-faq)

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1929"
 - "9000308"
-ms.openlocfilehash: c3bd238ea600c4f982e41eaa566fa9a17448a356
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb14708e33eb95f5f794536d4ee466684816c41bab7a2720d18c298a08e1b261
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068086"
 ---
 # <a name="form-header---web-resource"></a>Formularhoved – webressource
 
-Du kan tilføje eller redigere webressourcer i en formular for at få formularen til at være mere behageligt eller nyttigt for brugerne. Hvis du vil starte, skal du sørge for, at du har system administrator-eller Systemtilpasser sikkerhedsrolle eller tilsvarende tilladelser.  
+Du kan tilføje eller redigere webressourcer i en formular for at gøre formularen mere tiltalende eller nyttig for brugerne. Til at begynde med skal du sørge for, at du har Systemadministrator eller Sikkerhedsrolle-tilladelser eller tilsvarende tilladelser.  
 
 **Bemærk!** Du kan ikke medtage en webressource i et formularhoved eller en sidefod.
 
-Du kan finde flere oplysninger i [oprette og redigere en webressource i en formular](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-web-resources#create-and-edit-a-web-resource-on-a-form).
+Du kan få mere at vide [under Opret og rediger en webressource på en formular.](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-web-resources#create-and-edit-a-web-resource-on-a-form)
