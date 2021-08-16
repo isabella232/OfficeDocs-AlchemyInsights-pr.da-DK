@@ -1,5 +1,5 @@
 ---
-title: Løs OneDrive-synkroniseringsproblemer
+title: Løs OneDrive-synkronisering problemer
 ms.author: matteva
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.custom:
 - "824"
 - "5800003"
-ms.openlocfilehash: fe47bff126ebb339888cf9145650d125af51cfc9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e5928cbe81e7e61d10aa70ac9ed7e7662ff9e59700fbde7819f707a1f4b5325d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988093"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Løs OneDrive-synkroniseringsproblemer
+# <a name="fix-onedrive-sync-problems"></a>Løs OneDrive-synkronisering problemer
 
-Hvis OneDrive ikke synkroniserer den måde, du eller dine brugere forventer, kan du bruge følgende ressourcer til fejlfinding.
+Hvis OneDrive ikke synkroniserer, som du eller dine brugere forventer, kan du bruge følgende ressourcer til fejlfinding.
 
-- [Løs synkroniseringsproblemer med OneDrive for Business](https://support.microsoft.com/office/207e983e-146d-404c-a994-672ef29e1f90)
-- [Løsninger eller midlertidige løsninger på de **seneste** problemer i OneDrive](https://support.office.com/article/36110213-f3f6-490d-8cb7-3833539def0b)
+- [Løs OneDrive for Business synkroniseringsproblemer](https://support.microsoft.com/office/207e983e-146d-404c-a994-672ef29e1f90)
+- [Løsninger eller midlertidige løsninger **på de** seneste problemer i OneDrive](https://support.office.com/article/36110213-f3f6-490d-8cb7-3833539def0b)
 - [Løs synkroniseringsproblemer med **SharePoint Online**](https://support.office.com/article/207e983e-146d-404c-a994-672ef29e1f90)
-- [**Filen eller mappen findes allerede** i OneDrive](https://support.microsoft.com/office/7b8044ad-438d-41db-bbbf-4f66b8890408)
+- [**Der findes allerede en fil eller** mappe i OneDrive](https://support.microsoft.com/office/7b8044ad-438d-41db-bbbf-4f66b8890408)

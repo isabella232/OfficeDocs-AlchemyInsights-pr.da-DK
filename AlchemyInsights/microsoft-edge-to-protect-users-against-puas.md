@@ -1,5 +1,5 @@
 ---
-title: Brug Microsoft Edge til at beskytte brugere mod PUAs
+title: Brug Microsoft Edge til at beskytte brugere mod PPA'er
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000494"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Brug Microsoft Edge til at beskytte brugere mod PUAs
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Brug Microsoft Edge til at beskytte brugere mod PPA'er
 
-Microsoft Edge versions 80.0.361.50 og nyere blokerer for hentning af potentielt uønskede programmer (PUAs) og tilknyttede URL-adresser. Hvis du vil aktivere denne funktion, skal du gøre følgende:
+Microsoft Edge 80.0.361.50 og nyere blokerer overførsler af potentielt uønskede programmer (PPA'er) og tilknyttede URL-adresser. Hvis du vil aktivere denne funktion, skal du gøre følgende:
 
-1. Gå til **Indstillinger** for  >  **beskyttelse af personlige oplysninger og tjenester** i browseren.
+1. Gå til **Indstillinger**  >  **beskyttelse af personlige oplysninger og** tjenester i browseren.
 
-2. Rul ned til sektionen **tjenester** , og sørg for, at **Microsoft Defender SmartScreen** og **Bloker potentielt uønskede apps** er slået til.
+2. Rul ned til **sektionen Tjenester,** og sørg **for, Microsoft Defender SmartScreen** og **Bloker potentielt uønskede apps** er slået til.
 
-    Næste gang Microsoft Defender SmartScreen registrerer en PUA, vil den blokere det og give dig besked herom.
+    Næste gang du Microsoft Defender SmartScreen en PUA, blokerer den og giver dig besked i overensstemmelse hermed.
 
-    Hvis du vil have mere at vide, skal du se [Sådan blokerer du mod PUA-tilknyttede URL-adresser](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Du kan få mere at vide ved [at se, hvordan du blokerer mod PUA-tilknyttede URL-adresser.](https://go.microsoft.com/fwlink/?linkid=2133024)

@@ -1,5 +1,5 @@
 ---
-title: Id'er (enheds-ID)
+title: Identifikatorer (Enheds-id)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7757"
-ms.openlocfilehash: 9a5887799f5297ec73ebda644ae668e2dee49675
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: abe68137e917ef568d9c8902a16df304040bbfc3b3ea5d04e45a5247bd639130
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028725"
 ---
-# <a name="identifiers-entity-id"></a>Id'er (enheds-ID)
+# <a name="identifiers-entity-id"></a>Identifikatorer (Enheds-id)
 
-Hvis du vil have vist eller redigere de krav, der er udstedt i SAML-tokenet, til programmet, skal du åbne programmet i Azure-portalen. Åbn derefter afsnittet **brugerattributter & krav** . Hvis du vil have mere at vide, skal du se [tilpasse krav, der er udstedt i Saml token for Enterprise-programmer](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization#editing-nameid).
+For at få vist eller redigere de krav, der er udstedt i SAML-tokenet til programmet, skal du åbne programmet i Azure-portalen. Åbn derefter sektionen **Brugerattributter & Krav.** Få mere at vide under [Tilpas krav, der er udstedt i SAML-token til virksomhedsprogrammer.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization#editing-nameid)

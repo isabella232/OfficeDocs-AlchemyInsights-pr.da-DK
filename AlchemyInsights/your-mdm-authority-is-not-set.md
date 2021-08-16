@@ -1,5 +1,5 @@
 ---
-title: Din MDM-myndighed er ikke angivet
+title: Dit MDM-nøglecenter er ikke angivet
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046674"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Din MDM-myndighed er ikke angivet
+# <a name="your-mdm-authority-is-not-set"></a>Dit MDM-nøglecenter er ikke angivet
 
-MDM-autoriteten (Mobile Device Management) for denne lejer er ikke angivet. Du skal angive en MDM-myndighed, før du registrerer og administrerer enheder via Intune MDM. Uden at angive MDM-autoriteten kan du ikke bruge MDM-funktioner i Intune. Indstillingen for MDM-autoriteten bestemmer, hvordan du administrerer dine enheder.
+Administrationen af mobilenheder (MDM) for denne lejer er ikke angivet. Du skal angive en MDM-myndighed, før du tilmelder og administrerer enheder via Intune MDM. Uden at indstille MDM-myndigheden vil du ikke kunne bruge Intune's MDM-funktioner. Indstillingen for MDM-myndighed bestemmer, hvordan du administrerer dine enheder.
 
 Anbefalede trin:
-1. Gå til oversigt over tilmelding til Intune for at angive MDM-autoriteten.
-2. Vælg den relevante myndighed ud fra dine administrative behov. Hvis du vil have mere at vide, skal du se [Angiv artiklen i administrations myndigheden for mobilenheder](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Gå til intune-registreringsoversigts bladet for at angive MDM-autoriteten.
+2. Vælg den relevante myndighed ud fra dine administrative behov. Få mere at vide under [Artiklen Angiv administrationscenteret for mobilenheder.](https://docs.microsoft.com/intune/mdm-authority-set)
