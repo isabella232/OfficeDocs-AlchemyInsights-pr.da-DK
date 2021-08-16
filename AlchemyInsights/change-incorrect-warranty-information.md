@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9755"
 - "9005679"
-ms.openlocfilehash: 8f51aff29d0b456409a0ff2c015ba3a950b16657
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: a5f239b7ecf9ddee88e3da083325b62d485ec8b06f0de32128fc6a750044af36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018242"
 ---
 # <a name="change-incorrect-warranty-information"></a>Ændre forkerte garantioplysninger
 
-Hvis der er forkerte oplysninger om din garanti, kan en supportmedarbejder hjælpe med at løse problemet. Husk at have dit købsbevis (f.eks. den oprindelige kvittering eller faktura) klar, når du kontakter kundesupport.
+Hvis der er forkerte oplysninger om din garanti, kan en supportmedarbejder hjælpe med at løse problemet. Sørg for at have din købskvittering (f.eks. den oprindelige kvittering eller faktura) klar, når du kontakter kundesupport.
 
-Hvis du vil kontakte en medarbejder, **skal du klikke** på knappen Kontakt os nederst til venstre på skærmen.
+Hvis du vil have fat i en agent, **skal du** klikke på knappen Kontakt os nederst til venstre på skærmen.

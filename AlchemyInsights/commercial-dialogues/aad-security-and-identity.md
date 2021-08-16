@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995435"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (sikkerhed og identitet)
 
 Vælg en af følgende installationsvejledninger:
 
-- **Azure Active Directory Connect** [Sync-brugere](https://go.microsoft.com/fwlink/?linkid=2071310) til dit katalog Konfigurer synkronisering af adgangskodehash eller pass-through-godkendelse, så brugerne kan logge på deres mail og din lokale Active Directory (domænecontroller) med den samme adgangskode. Du kan også konfigurere logon til sammenslutning med Active Directory Federation Services (AD FS).
+- **Azure Active Directory Forbind** [](https://go.microsoft.com/fwlink/?linkid=2071310) Synkroniser brugere til dit katalog Konfigurer synkronisering af adgangskodehash eller pass-through-godkendelse, så brugerne kan logge på deres mail og dit lokale Active Directory (domænecontroller) med den samme adgangskode. Du kan også konfigurere tilmelding til sammenslutning med Active Directory Federation Services (AD FS).
 
 - **Konfiguration af Azure-funktioner** Azure AD-konfigurationsvejledning Konfigurer de avancerede funktioner, der er tilgængelige i Azure Active Directory Premium, f.eks. multifaktorgodkendelse, enhedsregistrering og sikkerhedsovervågning. [](https://go.microsoft.com/fwlink/?linkid=2134390)
