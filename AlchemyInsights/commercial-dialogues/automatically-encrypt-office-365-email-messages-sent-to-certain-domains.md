@@ -1,5 +1,5 @@
 ---
-title: Kryptere Office 365-mails, der sendes til bestemte domæner, automatisk
+title: Krypter automatisk Office 365 mails, der sendes til visse domæner
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 7fb96a30cd1922bd39a4b99a7ecd869622f3a466
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082180"
 ---
-# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Kryptere Office 365-mails, der sendes til bestemte domæner, automatisk
+# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Krypter automatisk Office 365 mails, der sendes til visse domæner
 
-1. I [Exchange Administration skal du](https://outlook.office365.com/ecp/)vælge **mailflow > regler.** 
-2. Klik på **ikonet Nyt (+),** og klik derefter på **Anvend Office 365-meddelelseskryptering og rettighedsbeskyttelse på meddelelser.**
-3. Skriv **et navn** til reglen under Navn, f.eks. Kryptér *meddelelser, der sendes contoso.com.*
-4. I **Anvend denne regel, hvis,** skal **du vælge > domænet er.** 
-5. Angiv navnet på domænet, f.eks. **contoso.com.**
+1. Vælg [mailflow Exchange regler](https://outlook.office365.com/ecp/) **fra > Administration .** 
+2. Klik på **ikonet Ny (+),** og klik derefter på **Anvend Office 365-meddelelseskryptering og rettighedsbeskyttelse på meddelelser.**
+3. Under **Navn** skal du angive et navn til reglen, f.eks. *Kryptér meddelelser, der sendes contoso.com*.
+4. I **Anvend denne regel hvis** skal du vælge Modtageren > domæne **er**. 
+5. Angiv navnet på domænet, f.eks. **contoso.com**.
 6. Klik på **ikonet Tilføj (+),** og klik derefter på **OK.**
-7. Klik på **Vælg et ud** for feltet Gør **følgende.** 
-8. Vælg **Kryptér i rullemenuen RMS-skabelon,** og klik derefter på **OK.** (Hvis du ikke kan se denne indstilling, betyder det, at din plan ikke omfatter automatisk kryptering. Men du kan tilføje den!)
-9. Vælg et valgfrit valg (på en liste over valgfrie valg, du kan foretage på dette tidspunkt, hvoraf mange kan stå med standardindstillingen for enkelhed).
+7. Ud for feltet **Gør følgende skal** du klikke på Vælg **en**. 
+8. I **rullemenuen RMS-skabelon** skal du vælge **Kryptér** og derefter klikke på **OK**. Hvis du ikke kan se denne indstilling, betyder det, at din plan ikke omfatter automatisk kryptering. Men du kan tilføje den!)
+9. Vælg et valgfrit valg (på en liste over valgfrie valg, du kan foretage på nuværende tidspunkt, hvoraf mange kan stå med standardindstillingen for enkelhed).
 10. Klik på **Gem**.
 
 > [!IMPORTANT]
 > Du kan altid vende tilbage og redigere denne regel senere.
 
-Du kan finde flere oplysninger om oprettelse af regler for kryptering i [Definere regler for mailflow for at kryptere mails i Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Du kan finde flere oplysninger om oprettelse af regler for kryptering i [Definere regler for mailflow for at kryptere mails Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)

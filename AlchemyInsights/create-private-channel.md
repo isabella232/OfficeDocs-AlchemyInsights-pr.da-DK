@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6874"
 - "9001223"
-ms.openlocfilehash: c5d23ac050d92c1d6b8c188707255de0abf0b95c
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
-ms.translationtype: MT
+ms.openlocfilehash: 5845258aeccc700e865ab109be8662ccc61ffc15c0a4fc7439449af22c73b30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016226"
 ---
 # <a name="create-a-private-channel"></a>Opret en privat kanal
 
 Som standard kan teamejere eller teammedlemmer oprette en privat kanal. Gæster kan ikke oprette en privat kanal. 
 
-Muligheden for at oprette private kanaler kan administreres på teamniveau og på organisationsniveau. Brug politikker til at kontrollere, hvilke brugere i organisationen der har tilladelse til at oprette private kanaler. Når du har angivet politikkerne, kan teamejere deaktivere eller aktivere rettigheder for medlemmer for at oprette private kanaler på **fanen** Indstillinger.
+Muligheden for at oprette private kanaler kan administreres på teamniveau og på organisationsniveau. Brug politikker til at kontrollere, hvilke brugere i organisationen der har tilladelse til at oprette private kanaler. Når du har angivet politikkerne, kan teamejere deaktivere eller aktivere rettigheder for medlemmer for at oprette private kanaler **på Indstillinger** fanen.
 
 > [!NOTE]
 > Hvert team kan maksimalt have 30 private kanaler, og hver privat kanal kan maksimalt have 250 medlemmer.
 
-Du kan finde flere oplysninger under [Oprettelse af privat kanal.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation)
+Du kan få mere at vide [under Oprettelse af privat kanal](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation).
 
 

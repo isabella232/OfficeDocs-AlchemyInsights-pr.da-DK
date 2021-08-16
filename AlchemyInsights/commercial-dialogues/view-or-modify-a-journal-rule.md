@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: e85f2dc0dfe3e4c2b5229c407249ddb87da1f47c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a8783a85f0539e070665a7ef30f1ebc87cb3644d7508ec9b561ad17200c97505
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045090"
 ---
 # <a name="view-or-modify-a-journal-rule"></a>Få vist eller redigere en journalregel
 
 Sådan gør du:
 
-1. I [Exchange Administration skal du gå til](https://go.microsoft.com/fwlink/p/?linkid=2059104)journalregler for   >  **overholdelsesstyring.**
+1. I [administrationen Exchange skal du gå](https://go.microsoft.com/fwlink/p/?linkid=2059104)til Journalregler for **overholdelsesstyring**  >  .
 2. I listevisningen får du vist alle journalregler i organisationen.
 3. Dobbeltklik på den regel, du vil have vist eller redigere.
 4. Rediger **de ønskede** indstillinger i journalreglen.

@@ -1,5 +1,5 @@
 ---
-title: Oversigt over Intune-enheder
+title: Intune Device Inventory
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014066"
 ---
-# <a name="intune-device-inventory"></a>Oversigt over Intune-enheder
+# <a name="intune-device-inventory"></a>Intune Device Inventory
 
-Device-bladet giver administrator indsigt i enheder under administration i Intune på et enkelt enheds grundlag. De oplysninger, der vises, omfatter: hardware, registrerede programmer, enheds kompatibilitetstilstand og enheds konfigurationstilstand.
+Enheds bladet giver administratoren indsigt i enheder under administration i Intune pr. enhed. De viste oplysninger omfatter: Hardware, programmer, der opdages, tilstanden Enhedsoverholdelsestilstand og Enhedskonfigurationstilstand.
 
-Lagerdata for hardware og opdagede programmer indsamles på en 7-dages cyklus. Programmer og specifikke elementer af hardware, der rapporteres, varierer afhængigt af enhedens operativsystem, og om enheden er personligt eller firma ejet.
+Lagerdata for hardware og opdagede programmer indsamles i en cyklus på syv dage. De programmer og specifikke elementer af hardware, der rapporteres, varierer afhængigt af enhedens operativsystem, og om enheden er personligt eller virksomhedsejet.
 
-Hvis du vil have mere at vide, skal du se [få vist enhedsoplysninger i Intune](https://docs.microsoft.com/intune/device-inventory).
+Få mere at vide under [Se enhedsdetaljer i Intune](https://docs.microsoft.com/intune/device-inventory).
 
 **Ofte stillede spørgsmål**
 
-Sp: Jeg modtager ikke en komplet oversigt over programmer, der er tilgængelige på de Intune-registrerede Windows-enheder. Hvorfor ikke?
+Sp: Jeg modtager ikke en komplet lagerliste over programmer, der findes på Intune-tilmeldte Windows enheder. Hvorfor ikke?
 
-A: på nuværende tidspunkt vises kun moderne apps til Windows 10-pc'er, der er identificeret som virksomhedens enheder. Intune indsamler ikke oplysninger om de Win32-apps, der er installeret på disse enheder.
+A: På nuværende tidspunkt er det kun moderne apps, der er angivet for Windows 10 pc'er, der er identificeret som virksomhedens enheder. Intune indsamler ikke oplysninger om Win32-apps, der er installeret på disse enheder.
 
-Sp: Hvorfor indsamles der ikke telefonnumre fra alle enheder?
+Sp: Hvorfor indsamles telefonnumre ikke fra alle enheder?
 
-En: telefoner, der er kategoriseret som virksomhedsenheder i Intune, identificeres ikke med deres fulde telefonnummer, når du for eksempel kører en lager rapport fra en mobil enhed. Sæt telefonnumre til telefonenheder er altid delvist afmasket med asterisk (* * * *), og kun de sidste fire cifre vises.
+A: Telefoner, der er kategoriseret som virksomhedens enheder i Intune, identificeres ikke med deres fulde telefonnummer, når du f.eks. kører en lagerrapport for mobilenheder. Bring-you-own-device-telefonnumre er altid delvist maskeret med stjerner (****) og viser kun de sidste fire cifre.

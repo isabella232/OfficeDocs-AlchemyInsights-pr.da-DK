@@ -1,5 +1,5 @@
 ---
-title: Manglende ' LocalizedNames ' i elementet ' SavedQuery '
+title: Manglende 'LocalizedNames' i elementet 'savedquery'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667116"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065602"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Manglende ' LocalizedNames ' i elementet ' SavedQuery '
+# <a name="missing-localizednames-in-element-savedquery"></a>Manglende 'LocalizedNames' i elementet 'savedquery'
 
-Hvis du vil have hjælp til manglende ' LocalizedNames ', skal du se ["elementet ' SavedQuery ' har ufuldstændigt indhold. Liste over elementer, der kan forventes: ' LocalizedNames ' "fejlen opstår, når du importerer en Dynamics 365-løsning](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Hvis du vil have hjælp til manglende 'LocalizedNames', skal du [se "Elementet 'savedquery' har ufuldstændigt indhold. Liste over mulige elementer, der forventes: Fejlen 'LocalizedNames'" opstår, når du importerer en Dynamics 365-løsning.](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)
 
-Se efter specialtegn i det visningsnavn, der kan medføre problemet. Fjern eventuelle specialtegn i visningsnavnet, og eksportér løsningen igen.
+Se efter specialtegn i visningsnavnet, der kan forårsage problemet. Fjern eventuelle specialtegn i visningsnavnet, og eksportér løsningen igen.
