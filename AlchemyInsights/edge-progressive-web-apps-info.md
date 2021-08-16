@@ -1,5 +1,5 @@
 ---
-title: Få mere at vide om progressive Web Apps (PWAs) på Microsoft Edge (chrom)
+title: Få mere at vide om progressive webapps på Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677457"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101440"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Få mere at vide om progressive Web Apps (PWAs) på Microsoft Edge (chrom)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Få mere at vide om progressive webapps på Microsoft Edge (Chromium)
 
-PWAs er websteder, som er blevet udvidet til at fungere som oprindelige apps på platforme, der understøtter dem. PWAs kombinerer de bedste egenskaber ved web og oprindelige apps.
+PWAs er websteder, der gradvist er blevet forbedret til at fungere som oprindelige apps på platforme, der understøtter dem. PWAs kombinerer de bedste kvaliteter af web- og oprindelige apps.
 
-Fra perspektivet for en webplatform er [PWAs på Microsoft Edge (chrom)](https://go.microsoft.com/fwlink/?linkid=2135193) baseret på standarder. De gør det muligt for brugerne at installere apps direkte fra browseren, og de kræver ikke Microsoft store-baseret installation eller registrering. Computer PWAs understøttes på alle platforme, hvor Microsoft Edge (chrom) er tilgængelig.
+For en webplatforms perspektiv er [PPA'er på Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) baseret på standarder. De giver brugerne mulighed for at installere apps direkte i browseren, og de kræver ikke Microsoft Store-baseret installation eller registrering. Skrivebords-PWAs understøttes på alle platforme, Microsoft Edge (Chromium) er tilgængelig.
