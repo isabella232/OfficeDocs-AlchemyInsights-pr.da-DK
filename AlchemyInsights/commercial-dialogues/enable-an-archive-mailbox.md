@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7c97232417175178031213c1050d224fcb86e9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6ff41f9f5b890c968483718544c5b4961397b37b144bb14ea1451d7aac24ebb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017306"
 ---
 # <a name="create-an-archive-mailbox"></a>Oprette en arkivpostkasse
 
-Arkivpostkasser giver brugere ekstra maillager. Brugere kan flytte eller kopiere elementer til deres arkivpostkasse, og administratorer kan oprette en arkiveringspolitik, der automatisk flytter elementer til arkivpostkasser. Sådan opretter du en arkivpostkasse:
+Arkivpostkasser giver brugere ekstra maillagring. Brugere kan flytte eller kopiere elementer til deres arkivpostkasse, og administratorer kan oprette en arkiveringspolitik, der automatisk flytter elementer til arkivpostkasser. Sådan opretter du en arkivpostkasse:
 
-1. Gå til [Sikkerheds- & Overholdelsescenter.]( https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Vælg **Arkiv for**  >  **datastyring.**
-3. Vælg den bruger, hvis arkivpostkasse du vil aktivere, og  klik derefter på Aktivér i detaljeruden til højre, og klik derefter på **Ja** i advarselsmeddelelsesfeltet.
-4. Du kan også masseaktivere arkivpostkasser ved at  markere flere brugere (ved hjælp af Skift- eller Ctrl-tasterne) og derefter klikke på **Aktivér** i detaljeruden. 
-5. Efter et par minutter vises der en ny mappe i brugerens Outlook-app, der hedder *Onlinearkiv `name` > – <.* I Outlook på internettet kaldes det *direkte arkiv.*
-6. Bed din bruger om at trække og slippe mails til arkivet.
+1. Gå til [Sikkerheds- & Overholdelsescenter]( https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Vælg **Datastyringsarkiv**  >  .
+3. Vælg den bruger, hvis arkivpostkasse du vil aktivere, klik  derefter på  Aktivér i detaljeruden til højre, og klik derefter på Ja i meddelelsesboksen med advarslen.
+4. Du kan også masseaktivere arkivpostkasser ved at  markere flere brugere (ved  hjælp af Skift eller **Ctrl)** og derefter klikke på Aktivér i detaljeruden.
+5. Efter et par minutter vises der en ny mappe i brugerens Outlook-app, der hedder *Onlinearkiv – <`name` >*. I Outlook på internettet hedder det *Direkte arkiv*.
+6. Bed din bruger om at trække og slippe mail til arkivet.

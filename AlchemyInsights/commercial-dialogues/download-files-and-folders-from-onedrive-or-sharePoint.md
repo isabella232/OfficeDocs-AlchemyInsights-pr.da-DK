@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: a08539f4fb9824b6ab020416cbade061e06c24ea3414078981e39c2c10f4beee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744905"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017378"
 ---
 # <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Download filer og mapper fra OneDrive eller SharePoint
 
-Du kan downloade filer og mapper fra Microsoft OneDrive eller fra SharePoint i Microsoft 365 eller SharePoint Server 2019 til din computer med blot nogle få klik. Du kan finde flere oplysninger [i Download filer og mapper fra OneDrive eller SharePoint.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+Du kan downloade filer og mapper fra Microsoft OneDrive eller fra SharePoint i Microsoft 365 eller SharePoint Server 2019 til din computer med blot nogle få klik. Få mere at vide [under Download filer og mapper fra OneDrive eller SharePoint](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).

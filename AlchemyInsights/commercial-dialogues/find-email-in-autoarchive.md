@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: ce969ca2d3e07d6b7548cf7a553e8b5bee4799be
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a6a6a311708fc23a63656f5b8ccf572e30bc13dab1728bc3be48ad36aeb35077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017270"
 ---
 # <a name="find-email-in-autoarchive"></a>Find mail i Autoarkiver
 
-Arkivfilen er en Outlook-datafil (.pst). Første gang Autoarkivér kører, oprettes arkivfilen automatisk i: C:\Brugere\DitBrugernavn\Dokumenter\Outlook-filer\arkiv.pst.
+Arkivfilen er en type fil Outlook datafil (.pst). Første gang Autoarkivér kører, oprettes arkivfilen automatisk i: C:\Brugere\DitBrugernavn\Dokumenter\Outlook Filer\arkiv.pst.
 
 Sådan får du vist Autoarkiver:
 
-1. I Outlook skal du vælge **fanen Filer** > **Åbn**  >  **Outlook-datafil.**
-2. Gå til pst.-filens placering, og åbn den. Dette føjer PST-filen til mappelisten.
+1. I Outlook skal du vælge **fanen** Filer >   >  **Åbn Outlook Datafil.**
+2. Gå til PST-filens placering, og åbn den. Dette føjer PST-filen til mappelisten.
 3. Du kan søge i mappen efter tidligere mails.

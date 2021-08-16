@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1836"
 - "9000248"
-ms.openlocfilehash: f4ae5c5afef9972ad4ffe74144d702ed58b2f437
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 933f977a09b013778799e0dc0c40c2959824cfbe6aa766495f7d1e1aab242878
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097552"
 ---
 # <a name="multiple-active-sessions-to-the-same-mailbox"></a>Flere aktive sessioner til den samme postkasse
 
-Hvis du vil styre brugen af Exchange-ressourcer, har en postkasse et "budget".
+Hvis du vil kontrollere brugen Exchange ressourcer, har en postkasse et "budget".
 
-Undtagelsen overskredet budget kan udløses af, men er ikke begrænset til, følgende omstændigheder:
+Undtagelsen for budgettet kan udløses af, men er ikke begrænset til, følgende omstændigheder:
 
-- Nogle få browser faner åbnes i den samme Outlook Web App-session.
+- Et par browserfaner åbnes i samme Outlook Web App session.
 
-- Et par aktive Outlook Web App-sessioner til den samme postkasse.
+- Nogle få aktive Outlook Web App sessioner til den samme postkasse.
 
-- Nogle andre klientprogrammer (Outlook, Outlook Mobile, en tredjeparts klient-app) får adgang til postkassen på samme tid.
+- Nogle få andre klientprogrammer (Outlook, Outlook Mobile, en tredjepartsklientapp) får adgang til postkassen på samme tid.
 
-- Lange kørselshandlinger, såsom udførelse af søge anmodninger, udføres fra en anden aktiv postkasse session.
+- Handlinger, der kører længe, f.eks. udføre søgeanmodninger, udføres fra en anden aktiv postkassesession.
 
