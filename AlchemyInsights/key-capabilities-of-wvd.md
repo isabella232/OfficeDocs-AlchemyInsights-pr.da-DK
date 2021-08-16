@@ -1,5 +1,5 @@
 ---
-title: Vigtige funktioner i Windows virtuelt skrivebord
+title: Vigtige funktioner i Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067114"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Vigtige funktioner i Windows virtuelt skrivebord
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Vigtige funktioner i Windows Virtual Desktop
 
-Windows virtuelt skrivebord er en computer virtualisering og app-virtualiserings tjeneste, der kører i skyen. Du kan gøre følgende, når du kører Windows virtuelt skrivebord på Azure:
+Windows Virtuelt skrivebord er en desktop-virtualiserings- og app-virtualiseringstjeneste, der kører i skyen. Her er, hvad du kan gøre, når du kører Windows Virtual Desktop på Azure:
 
-- Konfigurere en Windows 10-installation med flere sessioner, der giver en komplet Windows 10-oplevelse med skalerbarhed
-- Virtualisere Microsoft 365-apps, og Optimer det til at køre i fler brugeres virtuelle scenarier
-- Levere Windows 7-virtuelle skriveborde med gratis udvidede sikkerhedsopdateringer (ESU)
-- Flyt dine eksisterende Fjernskrivebord-tjenester (RDS) og Windows Server-computere og-apps til alle computere
-- Administrer Windows 10-, Windows Server-og Windows 7-pc'er og-apps med en samlet administrations oplevelse
-- Oprette et komplet computer-virtualiserings miljø i dit Azure-abonnement uden at skulle køre flere gateway-servere
-- Publicere så mange hostede puljer, du har brug for til at imødekomme de forskellige arbejdsbelastninger
-- I Azure-galleriet kan du placere dine egne billeder til produktions belastninger og-test
-- Reducere omkostninger ved hjælp af puljer, ressourcer med flere sessioner
-- Giv individuel ejerskab via personlige (vedvarende) stationære computere
+- Konfigurere en flersessionsinstallation Windows 10, der giver en komplet Windows 10 med skalerbarhed
+- Virtualisere Microsoft 365 Apps og optimere den til at køre i virtuelle scenarier med flere brugere
+- Giv Windows syv virtuelle skriveborde med gratis udvidede sikkerhedsopdateringer (ESU)
+- Tag dine eksisterende Fjernskrivebord-tjenester (RDS) og Windows Server-skriveborde og -apps med over på en hvilken som helst computer
+- Administrer Windows 10, Windows Server og Windows syv skriveborde og apps med en samlet administrationsoplevelse
+- Opret et fuldt desktop-virtualiseringsmiljø i dit Azure-abonnement uden at skulle køre flere gatewayservere
+- Publicer så mange værtspuljer, som du har brug for for at tage højde for dine forskellige arbejdsbelastninger
+- Fra Azure-galleriet kan du hente dine egne billeder til produktionsarbejdsbelastninger og -test
+- Reducer omkostningerne ved hjælp af grupperede ressourcer med flere sessioner
+- Giv individuelt ejerskab via personlige (faste) skriveborde
 
-Hvis du vil have mere at vide, skal du se grundlæggende oplysninger om virtuelle [funktioner](https://go.microsoft.com/fwlink/?linkid=2127033)til [Windows](https://go.microsoft.com/fwlink/?linkid=2127033) .
+Du kan få mere at [vide Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) og Vigtige [funktioner.](https://go.microsoft.com/fwlink/?linkid=2127033)
 

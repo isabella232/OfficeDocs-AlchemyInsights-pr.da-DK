@@ -12,22 +12,22 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: db45aa8df40484fdcda7c430f1ca27482a1dd4ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 3601c5eff121e10b6bddace6f7228204a01080a636e24f3a56373fe8d469c799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038511"
 ---
-# <a name="unable-to-delete-items"></a>Kan ikke slette elementer
+# <a name="unable-to-delete-items"></a>Elementer kan ikke slettes
 
-- Opbevaringspolitikker kan medføre dette, du skal enten deaktivere eller udelade den venteposition, der forårsager dette problem. Når en opbevaringspolitik eller-spærring fjernes, kan det tage op til 24 timer, før ændringen træder i kraft. Sørg for, at der ikke er konfigureret en [opbevaringspolitik](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) for elementet.
+- Opbevaringspolitikker kan medføre dette, du skal enten deaktivere eller udelade respektive ventepositioner, der er skyld i dette problem. Når en opbevaringspolitik eller venteposition er fjernet, kan det tage op til 24 timer, før ændringen træder i kraft. Sørg for, at der ikke [er konfigureret en](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) opbevaringspolitik på elementet.
 
 - Webstedet kan have overskredet lagergrænsen, øge [webstedets kvote](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) og slette elementet.
 
-- Sørg for, at elementet ikke er [tjekket ud](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) til en anden bruger.
+- Sørg for, at elementet ikke [er tjekket ud](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) til en anden bruger.
 
-- Endelig kan administratorer bruge [SharePoint-mønstre og-metoder](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) , der indeholder et bibliotek med PowerShell-kommandoer, som gør det muligt at udføre komplekse administrationshandlinger som f. eks. Gennemtving sletning af Stubborn-elementer.
+- Til sidst kan administratorer bruge [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP), som indeholder et bibliotek af PowerShell-kommandoer, der giver dig mulighed for at udføre komplekse administrationshandlinger, f.eks. gennemtvinge sletning af efterstvingne elementer.
 - [Fjern PNP-fil](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
 - [Fjern PNP-mappe](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
 - [Fjern PNP-listeelement](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)

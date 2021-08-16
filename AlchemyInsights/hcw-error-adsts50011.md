@@ -1,5 +1,5 @@
 ---
-title: HCW (hybrid Configuration Wizard) fejl ACSTS50011
+title: Guiden Hybridkonfiguration (HCW) -fejl ACSTS50011
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 2b08a0f532d948c4417c6ddc67251ec9cb0bcc8b
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: f075c95dc831a46d313d6534e078cb298fa2212fd7cffed75a2953e7e80603a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721818"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055944"
 ---
-# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>HCW (hybrid Configuration Wizard) fejl ACSTS50011
+# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Guiden Hybridkonfiguration (HCW) -fejl ACSTS50011
 
-Hvis du kører en hybrid konfigurationsguide (HCW), og du får fejl **ADSTS50011: den URL-adresse, der er angivet i anmodningen, ikke stemmer overens med de Reply URL-adresser, der er konfigureret for programmet: ' a0c73c16-a7e3-4564-9a95-2bdf47383716**, Opgrader til den nyeste version af HCW på adressen https://aka.ms/hybridwizard .
+Hvis du kører en hybridkonfigurationsguide (HCW) og får fejlen ADSTS50011: Svar-URL-adressen, der er angivet i anmodningen, svarer ikke til de svarwebadresser, der er konfigureret **for programmet: 'a0c73c16-a7e3-4564-9a95-2bdf47383716,** opgrader til den nyeste version af HCW på https://aka.ms/hybridwizard .
 
 
 

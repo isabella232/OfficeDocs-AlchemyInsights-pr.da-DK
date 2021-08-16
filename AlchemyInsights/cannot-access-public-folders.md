@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819506"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996624"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook kan ikke oprette forbindelse til offentlige mapper
 
 Hvis adgang til offentlige mapper ikke fungerer for nogle brugere, kan du prøve følgende:
 
-Opret forbindelse til EXO PowerShell, og konfigurer DefaultPublicFolderMailbox-parameteren på problembrugerkontoen, så den matcher parameteren på en arbejdsbrugerkonto.
+Forbind EXO PowerShell og konfigurere DefaultPublicFolderMailbox-parameteren på problembrugerkontoen til at matche parameteren på en arbejdsbrugerkonto.
 
 Eksempel:
 
@@ -33,9 +33,9 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 Vent mindst en time, indtil ændringen træder i kraft.
 
-Hvis problemet fortsætter, skal du følge denne [fremgangsmåde for at foretage fejlfinding](https://aka.ms/pfcte) af problemer med adgang til offentlige mapper ved hjælp af Outlook.
+Hvis problemet fortsætter, skal du følge denne [fremgangsmåde for at](https://aka.ms/pfcte) foretage fejlfinding af problemer med adgang til offentlige mapper ved hjælp Outlook.
  
-**Sådan styrer du, hvilke brugere der kan få adgang til offentlige mapper ved hjælp af Outlook:**
+**Sådan styrer du, hvilke brugere der kan få adgang til offentlige mapper ved hjælp Outlook:**
 
 1.  Brug Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true eller $false  
       
@@ -45,6 +45,6 @@ Hvis problemet fortsætter, skal du følge denne [fremgangsmåde for at foretage
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Bemærk!** Denne fremgangsmåde kan kun styre forbindelser med Outlook-skrivebord til Windows-klienter. En bruger kan fortsætte med at få adgang til offentlige mapper ved hjælp af OWA eller Outlook til Mac.
+**Bemærk!** Denne fremgangsmåde kan kun styre forbindelser med Outlook til Windows klienter. En bruger kan fortsætte med at få adgang til offentlige mapper ved hjælp af OWA eller Outlook til Mac.
  
-Du kan få mere [at vide under Meddelelse om understøttelse af kontrollerede forbindelser til offentlige mapper i Outlook.](https://aka.ms/controlpf)
+Du kan få mere [at vide under Understøttelse af kontrollerede forbindelser til offentlige mapper i Outlook](https://aka.ms/controlpf).

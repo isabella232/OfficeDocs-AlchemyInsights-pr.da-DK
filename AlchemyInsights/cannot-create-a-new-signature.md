@@ -1,5 +1,5 @@
 ---
-title: Kan ikke oprette en ny signatur
+title: Der kan ikke oprettes en ny signatur
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1c7df87bbd879d2a5d6983b699c3edb585eab475e449f5b95775927d704361e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996480"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Kan ikke tilføje eller oprette en ny signatur i Outlook
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Der kan ikke tilføjes eller oprettes en ny signatur i Outlook
 
-Dette er et kendt problem. Vi arbejder på at løse det, og status opdateres i [Outlook fryser ved at klikke på signatur knappen](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Dette er et kendt problem. Vi arbejder på at løse problemet, og status [opdateres](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)i den Outlook når du klikker på knappen Signatur .
 
-Hvis du vil løse dette problem, skal du først [prøve trinnene](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) for at fjerne de forudinstallerede Microsoft Office-skrivebordsapps. 
+Du kan løse dette problem ved først [at prøve trinnene til](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) at fjerne de forudinstallerede Microsoft Office-skrivebordsapps. 
 
-Hvis det ikke virker for den berørte maskine, skal du prøve den [registrerings baserede løsning](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Hvis det ikke virker for den pågældende computer, kan du prøve den [registreringsdatabasebaserede løsning.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)

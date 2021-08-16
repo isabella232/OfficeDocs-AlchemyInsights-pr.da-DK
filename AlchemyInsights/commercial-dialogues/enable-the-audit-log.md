@@ -1,5 +1,5 @@
 ---
-title: Aktivér overvågningsloggen
+title: Aktivere overvågningsloggen
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988397"
 ---
-# <a name="enable-the-audit-log"></a>Aktivér overvågningsloggen
+# <a name="enable-the-audit-log"></a>Aktivere overvågningsloggen
 
-Overholdelse af regler og standarder for kommunikation kræver overvågningslogfiler for at vise beskeder og registrere afhjælpningshandlinger, som er foretaget af korrekturlæsere. Overvågningslogfilerne er en oversigt over alle aktiviteter, der er knyttet til en defineret organisationspolitik, herunder når som helst en politik for overholdelse af kommunikation ændres. Sådan aktiverer du overvågningslogføring:
+Kommunikationsoverholdelse kræver overvågningslogs for at vise beskeder og registrere afhjælpningshandlinger, som er foretaget af korrekturlæsere. Overvågningsloggen er en oversigt over alle aktiviteter, der er knyttet til en defineret organisationspolitik, herunder når som helst en politik for overholdelse af kommunikation ændres. Sådan aktiverer du overvågningslogføring:
 
-1. I Security [& Compliance Center skal du](https://go.microsoft.com/fwlink/?linkid=2101341)gå til søgning i   >  **overvågningsloggen.**
-2. Vælg **Slå overvågning til.**
+1. I Security [& Compliance Center skal du](https://go.microsoft.com/fwlink/?linkid=2101341)gå til Søgning **i**  >  **overvågningslogfilsøgning**.
+2. Vælg **Aktiver overvågning**.
 
     Når du har aktiveret overvågning, vises der en meddelelse om, at overvågningsloggen forberedes, og du kan køre en søgning om et par timer, efter at klargøringen er fuldført. Du behøver kun at udføre denne handling én gang.
 

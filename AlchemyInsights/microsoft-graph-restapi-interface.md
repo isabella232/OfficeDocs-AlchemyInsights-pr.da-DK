@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027188"
 ---
 # <a name="microsoft-graph-rest-api-interface"></a>Microsoft Graph REST API-grænseflade
 
-Grafens API-sæt på v 1.0-slutpunktet er i tilstanden generel tilgængelighed (GA) og har gennemgået en grundig gennemgang-og tilbagemeldings proces med kunder, der opfylder de praktiske, produktionsbehov.
+API-Graph-sæt på v1.0-slutpunktet er i status for generel tilgængelighed (GA) og har gennemgået en grundig gennemgangs- og feedbackproces med kunder, der opfylder praktiske produktionsbehov.
 
-- Du kan finde flere oplysninger om graf API v 1.0 i [reference til Microsoft Graph rest API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
-- Hvis du vil have mere at vide om betaversionen af graf API, skal du se [Microsoft Graph beta Endpoint reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
+- Du kan finde flere oplysninger Graph API v1.0 under [Microsoft Graph REST API v1.0-reference.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) 
+- Du kan finde flere Graph om betaversionen af API i [Microsoft Graph reference til betaslutpunkt.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta)
 
-Du kan finde flere oplysninger om Microsoft Graph i [dokumentationen til Microsoft Graph](https://docs.microsoft.com/graph/).
+Du kan finde flere oplysninger om Microsoft Graph i [Microsoft Graph dokumentation.](https://docs.microsoft.com/graph/)
 
 
