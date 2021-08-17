@@ -1,5 +1,5 @@
 ---
-title: Aktivér Microsoft Defender Office 365 til SharePoint Online, OneDrive og Microsoft Teams
+title: Aktivér Pengeskab vedhæftede filer SharePoint Online, OneDrive og Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058860"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894457"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Aktivér Microsoft Defender Office 365 til SharePoint Online, OneDrive og Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Aktivér Pengeskab vedhæftede filer SharePoint Online, OneDrive og Microsoft Teams
 
-1. Ved hjælp af din globale administrator eller sikkerhedsadministrators legitimationsoplysninger skal du logge [på Office 365 Security and Compliance Center.](https://protection.office.com/)
-2. Vælg **Trusselsadministration** i venstre rude, og vælg derefter **Politik for**  >  [vedhæftede Pengeskab.](https://protection.office.com/safeattachment)
-3. Vælg **Slå Microsoft Defender til for Office 365 for SharePoint, OneDrive og Microsoft Teams**, og vælg derefter **Gem**.
+1. Ved hjælp af din globale administrator eller dine sikkerhedsadministratorlegitimationsoplysninger skal du åbne Microsoft 365 Defender-portalen på og derefter gå til Politikker & regler for trusselspolitikker Pengeskab Vedhæftede filer i sektionen <https://security.microsoft.com>  \>  \>  Politikker 
+
+   For at gå direkte til siden **Pengeskab Vedhæftede filer** skal du bruge <https://security.microsoft.com/safeattachmentv2> .
+
+2. Klik på **Pengeskab globale indstillinger** på siden **Vedhæftede filer.**
+3. I pop op-dialogboksen, der vises, skal du vælge **Slå Microsoft Defender til for Office 365 for SharePoint, OneDrive og Microsoft Teams** og derefter vælge **Gem**.
+
     > [!TIP]
     >
-    > - Som global administrator eller SharePoint Online-administrator skal du køre følgende PowerShell-cmdlet med parameteren **DisallowInfectedFileDownload** angivet til *sand:* [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Konfigurere beskeder for registrerede filer](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > Gør følgende for at forbedre beskyttelsen af vedhæftede Pengeskab til SharePoint, OneDrive og Microsoft Teams:
+    >
+    > - For at forhindre brugere i at downloade skadelige filer, skal du bruge værdien for parameteren `$true` *DisallowInfectedFileDownload* på **[Set-SPOTenant-cmdlet'en](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** i SharePoint Online PowerShell. Få mere at vide [under Brug SharePoint Online PowerShell til at forhindre brugere i at downloade skadelige filer.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)
+    > - [Opret en beskedpolitik for registrerede filer](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-Du kan finde flere [oplysninger i Microsoft Defender til Office 365 for SharePoint, OneDrive og Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)
+Du kan finde flere [oplysninger Pengeskab Vedhæftede filer til Office 365 for SharePoint, OneDrive og Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

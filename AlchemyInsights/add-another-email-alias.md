@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 3009984f0582453cd9d37ee8240efcf71f93383c0cee7b7a26a629a963ba0091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b50f9c8d64a77865f03357fd3442c8d367b6e96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936339"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314062"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Oprette eller tilføje et mailalias for en bruger
 
@@ -31,7 +31,7 @@ Har du brug for at oprette et mailalias for en bruger eller at tilføje en ekstr
     
 4. Skriv en ny mail i feltet **Alias,** og vælg derefter **Tilføj**. Hvis du har købt dit abonnement hos GoDaddy eller en anden partner, skal du gå til GoDaddy/partneradministrationskonsollen for at angive det nye alias som primært. 
     
-    **VIGTIGT!** Hvis fejlmeddelelsen " Der blev ikke fundet en parameter, der svarer til **parameternavnet "Mailadresser"** vises, betyder det, at det tager lidt længere for Microsoft at fuldføre konfigurationen af din lejer eller dit brugerdefinerede domæne, hvis du for nyligt tilføjede et. Installationen kan tage op til fire timer at gennemføre. Vent lidt, så installationen kan blive fuldført, og prøv derefter igen. Hvis problemet fortsætter, skal du ringe til Support, som så vil udføre en fuld synkronisering for dig.
+    **Vigtigt!** Hvis fejlmeddelelsen " Der blev ikke fundet en parameter, der svarer til **parameternavnet "Mailadresser"** vises, betyder det, at det tager lidt længere for Microsoft at fuldføre konfigurationen af din lejer eller dit brugerdefinerede domæne, hvis du for nyligt tilføjede et. Installationen kan tage op til fire timer at gennemføre. Vent lidt, så installationen kan blive fuldført, og prøv derefter igen. Hvis problemet fortsætter, skal du ringe til Support, som så vil udføre en fuld synkronisering for dig.
     
     Det tager som regel ca. 30 minutter, før det nye alias træder i kraft.
     

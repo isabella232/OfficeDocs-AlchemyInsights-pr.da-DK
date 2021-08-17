@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889248"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314234"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivering Microsoft 365 apps
 
-**Bemærk!** Hvis du bruger en ældre version af Windows (f.eks. Windows 7), skal du sørge for, at TLS 1.2 er aktiveret som standard. Få mere at vide under Opdater for at aktivere [TLS 1.1 og TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)som standard sikre protokoller i WinHTTP Windows .
+**Bemærk!** Hvis du bruger en tidligere version af Windows (f.eks. Windows 7 SP1, Windows Server 2008 R2), skal du aktivere TLS 1.2 som standard ved hjælp af den nemme [løsning.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Få mere at vide under Opdater for at aktivere [TLS 1.1 og TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)som standard sikre protokoller i WinHTTP Windows .
 
 Kan ikke aktivere Office. Se:
 
@@ -38,9 +38,9 @@ For at løse problemer med aktivering af office, skal du se:
 
 - [Det kan du prøve, hvis du ikke kan installere eller aktivere Office til Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Tip** På Windows-computere kan vi diagnosticere og automatisk løse Office almindelige problemer med logon for dig. Download og kør **[Microsoft-Support- og genoprettelsesassistent](https://aka.ms/SaRA-OfficeSignInScenario)** at bruge vores automatiserede værktøj.
+**Tip:** På Windows-computere kan vi diagnosticere og automatisk løse Office almindelige problemer med logon for dig. Download og kør **[Microsoft-Support- og genoprettelsesassistent](https://aka.ms/SaRA-OfficeSignInScenario)** at bruge vores automatiserede værktøj.
 
-Hvis du ikke kan logge på Microsoft 365, skal du følge trinnene nedenfor:
+Hvis du ikke kan logge på dine Microsoft 365, skal du følge trinnene nedenfor:
 
 1. Åbn en Office-app, og [Log ud](https://go.microsoft.com/fwlink/?linkid=2114082) fra alle eksisterende brugerkonti.
 

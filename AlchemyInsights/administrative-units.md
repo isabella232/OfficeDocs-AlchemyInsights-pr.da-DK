@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11254"
 - "1200008"
-ms.openlocfilehash: 58d9f507b427556e5dee6156a838417778a8104acb5c43da659749fb738bd6eb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d9eab39763b92aa4c4e1beb759edfd9f041fc6d0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882881"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313990"
 ---
 # <a name="administrative-units"></a>Administrative enheder
 
 En administrativ enhed er en Azure AD-ressource, der kan være en beholder for andre Azure AD-ressourcer. En administrativ enhed kan kun indeholde brugere og grupper.
 
-Du kan få mere at vide om administrative enheder [under Administrative enheder i Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/roles/administrative-units)
+Hvis du vil have mere at vide om administrative enheder, [skal du se Administrative enheder Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/administrative-units).

@@ -1,5 +1,5 @@
 ---
-title: 8000036 Skift profil pic/navn i Outlook.com
+title: 8000036 skift profilbillede/navn på Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dc8630b53c69b731f50951358c9ec2fec71f13f9d80cc45e30c5741c2a10de56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111244"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Ændre mit profilbillede eller navn i Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Skift mit profilbillede eller navn i Outlook.com
 
-1. Gå til [dine Microsoft-kontooplysninger](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Vælg **Rediger navn** eller **Skift billede**.
+1. Gå til [Dine Microsoft-kontooplysninger](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Vælg **Rediger navn** eller Skift **billede**.
 
-Du kan tage op til 24 timer, før ændringer af dit profilbillede eller navn går i kraft.
+Der kan gå op til 24 timer, før ændringerne af dit profilbillede eller navn træder i kraft.
