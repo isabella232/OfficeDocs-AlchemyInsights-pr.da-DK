@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070354"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882561"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Konfigurer Pengeskab Link-politikker i Microsoft Defender til Office 365
 
-Der er allerede oprettet en Pengeskab for Links i Microsoft Defender Office 365 for dig. Sådan ændrer du konfigurationerne:
+1. I portalen Microsoft 365 Defender på skal du gå til & politikker for samarbejde & Politikker for <https://security.microsoft.com/>  \>  \>  \> **trussel Pengeskab Links** i **sektionen** Politikker.
 
-1. Gå til [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Vælg **Politik for**  >  **trusselsadministration.** På siden **Politik** skal du vælge [Microsoft Defender for Office 365 Pengeskab Links](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. I sektionen **Politikker, der gælder for hele organisationen** skal du vælge **Standard** og derefter vælge **ikonet** Rediger.
-4. I sektionen **Bloker følgende URL-adresser** skal du angive en eller flere URL-adresser, som du vil forhindre personer i organisationen i at besøge. Du kan få mere at vide [på listen "Bloker følgende URL-adresser" for Pengeskab Links](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. I den **Indstillinger, der gælder for** indhold undtagen mailsektionen, skal du vælge (eller fjerne) de indstillinger, du vil bruge. Det anbefales, at du vælger alle indstillingerne.
-6. Vælg **Gem**.
+   For at gå direkte til **siden Pengeskab Links skal** du bruge <https://security.microsoft.com/safelinksv2> .
+
+2. På **siden Pengeskab Links** skal du gøre et af følgende:
+   - Hvis du vil tilføje en ny politik, skal du **vælge + Opret.** Der starter en guide, der kan hjælpe dig med at definere dine politikindstillinger.
+   - Hvis du vil redigere en eksisterende politik, skal du vælge politikken ved at klikke på navnet på politikken. I pop op-menuen med oplysninger, der vises, **skal du vælge** Rediger i den sektion, der indeholder de indstillinger, du vil konfigurere.
+   - Hvis du vil blokere URL-adresser fra Pengeskab-beskyttelse af links eller konfigurere indstillingerne for Pengeskab-links i understøttede Office 365-apps, skal du klikke på **Globale** indstillinger, konfigurere de ønskede indstillinger og derefter klikke på **Gem**.
+
+3. Når du har gennemset dine indstillinger, skal du **vælge Send** (ny) eller **Gem** (rediger).
+
+Du kan finde flere oplysninger i følgende artikler:
+
+- [Konfigurer Pengeskab Links-politikker i Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Konfigurer globale indstillinger for Pengeskab Links i Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

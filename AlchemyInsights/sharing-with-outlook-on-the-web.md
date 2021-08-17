@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "5699"
-ms.openlocfilehash: eb011c85c516b5de602eb4bf8e41ca94526102dd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c3c184de0778d989d2c1d6501a8c78ac4ecb343acb6cb3e5eb61288b4a50be01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107461"
 ---
 # <a name="sharing-with-outlook-on-the-web"></a>Deling med Outlook på internettet
 
@@ -36,4 +36,4 @@ Vælg Del på værktøjslinjen øverst på siden i din Kalender, **og** vælg 
     - **Stedfortræder**   kan de redigere din kalender og dele den med andre.
 - Vælg **Del**.
 
-Se Del [din kalender i Outlook på internettet for at få](https://support.microsoft.com/office/7ecef8ae-139c-40d9-bae2-a23977ee58d5) flere oplysninger.
+Se Del [din kalender i Outlook på internettet](https://support.microsoft.com/office/7ecef8ae-139c-40d9-bae2-a23977ee58d5) for at få flere oplysninger.
