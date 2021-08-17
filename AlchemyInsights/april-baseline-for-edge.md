@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11139"
-ms.openlocfilehash: c578db2ccba7c6831d39b02d10afc50f00904755204866e45aa4eb2ec313a8e3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 74eb78786c45614679b97b0808f8f16171c6554ea94ab22c34f2c45766123662
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53980135"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57885973"
 ---
 # <a name="view-the-april-2020-baseline-for-microsoft-edge-versions-80-and-later"></a>Få vist den oprindelige plan for april 2020 for Microsoft Edge version 80 og nyere
 
 Microsoft Intune understøtter indstillingerne for grundlinjer for Microsoft Edge. Standarderne for grundlinjer repræsenterer den anbefalede konfiguration for browseren. de stemmer muligvis ikke overens med standardindstillingerne for andre oprindelige planer for sikkerhed.
 
-Hvis du vil se, hvad der er ændret i den oprindelige plan for april 2020, skal du bruge funktionen Sammenlign oprindelige planer, som er tilgængelig i ruden Versioner.
+Hvis du vil se, hvad der er ændret i den oprindelige plan for april 2020, skal du bruge funktionen Sammenlign oprindelige planer, som findes i ruden Versioner.
 
-Du kan få mere at vide [Microsoft Edge grundlinje for april 2020 (Edge version 80 og nyere).](/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020)
+Du kan få mere at vide [Microsoft Edge grundlinje for april 2020 (Edge version 80 og nyere).](https://docs.microsoft.com/mem/intune/protect/security-baseline-settings-edge?pivots=edge-april-2020)

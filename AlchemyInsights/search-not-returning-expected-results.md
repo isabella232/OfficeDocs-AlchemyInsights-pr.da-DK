@@ -1,5 +1,5 @@
 ---
-title: 1491 – søgning-ikke-returnerede – forventede-resultater
+title: 1491-search-not-returning-expected-results
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,19 +14,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5c4452726c1dbe2232ee63e8a9ee4d089f5c76db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 846034d68a59d053cbe37aeba3a75e20a60786fd7ff24106964229b1deb77608
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052704"
 ---
-# <a name="content-search-not-returning-expected-results"></a>Indholdssøgning returnerer ikke forventede resultater
+# <a name="content-search-not-returning-expected-results"></a>Indholdssøgning returnerer ikke de forventede resultater
 
-Når du kører indholds søgninger fra Microsoft 365 Security & Compliance Center, får du muligvis uventede søgeresultater. Overvej følgende ting, der kan påvirke søgeresultaterne:
+Når du kører indholdssøgninger fra Microsoft 365 i & overholdelsescenter, modtager du muligvis uventede søgeresultater. Overvej følgende, som kan påvirke dine søgeresultater:
 
-- **Indholds placeringer og søgebetingelser**: Sørg for, at du har valgt de korrekte indholds placeringer og søgebetingelserne. Hvis du har kørt en stor søgning (med mange placeringer), kan du overveje at opdele den i flere søgninger.
+- **Indholdsplaceringer og søgebetingelser:** Sørg for, at du har valgt de korrekte indholdsplaceringer og søgebetingelser. Hvis du har kørt en stor søgning (med mange placeringer), skal du overveje at opdele den i flere søgninger.
 
-- **Delvist indekserede elementer**:  [delvist indekserede elementer](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) fra postkasser medtages i de anslåede søgeresultater. Delvist indekserede elementer fra websteder i SharePoint og OneDrive medtages dog ikke i søge estimatet.
+- **Delvist indekserede elementer:**  [Delvist indekserede elementer](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) fra postkasser medtages i de anslåede søgeresultater. Delvist indekserede elementer fra websteder i SharePoint og OneDrive inkluderes dog ikke i det anslåede søgeoverslag.
 
-- **Søgefejl**: når du søger i et stort antal postkasser (over 100.000-postkasser), kan du få søgefejl med fejlkoder som CS008-009 og CS012-002). I dette tilfælde kan du prøve kun at søge efter de mislykkede indholds placeringer. Du kan finde flere oplysninger i  [denne artikel](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+- **Søgefejl:** Når du søger efter et stort antal postkasser (over 100.000 postkasser), får du muligvis søgefejl med fejlkoder som CS008-009 og CS012-002. I dette tilfælde skal du prøve at søge efter de mislykkede placeringer af indhold igen. Se  [denne artikel for at](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) få flere oplysninger.

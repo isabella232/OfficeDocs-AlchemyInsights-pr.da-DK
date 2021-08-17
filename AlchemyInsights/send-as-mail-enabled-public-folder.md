@@ -1,5 +1,5 @@
 ---
-title: Send som mail med aktiveret offentlig mappe i EXO
+title: Offentlig mappe med aktiveret send som mail i EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48461840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052560"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>SendAs mail-aktiveret offentlig mappe
+# <a name="sendas-mail-enabled-public-folder"></a>Public Folder aktiveret i SendAs Mail
 
-I følgende eksempel tildeles tilladelserne "Send som" til den offentlige mappe, der er aktiveret for mail NewPF1, til bruger Jason.
+I følgende eksempel tildeles "Send som"-tilladelser for den mailaktiverede offentlige mappe NewPF1 til brugeren Jason.
 
-Add-RecipientPermission-Identity ' NewPF1 '-trustee "Jason"-AccessRights ' SendAs '
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Du kan finde detaljerede oplysninger om syntaks og parameter under [Tildel tilladelserne "Send som" eller "Send på vegne af" til mailaktiverede offentlige mapper](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Du kan finde detaljerede oplysninger om syntaks og parameter i Tildele tilladelserne "Send som" eller "Send på vegne [af" til mailaktiverede offentlige mapper.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 0020dadb126181c7a58397e591c6a751e68817805a971bf2f9e9bdda94c6f1e4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 14ad3eeb39d57431841618453b1d5ab01ca88b0392df99e8a7754c140c1ea478
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53969641"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886017"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Ansøg om momsfritagelse
 
@@ -33,4 +33,4 @@ Hav følgende dokumentation klar. Du skal [starte en serviceanmodning](https://g
 
 - **Puerto Rico** – Hav **Certificado de Compras Exentas** klar.
 
-Hvis du vil have mere at vide, skal du se [Momsoplysninger](/microsoft-365/commerce/billing-and-payments/tax-information).
+Hvis du vil have mere at vide, skal du se [Momsoplysninger](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
