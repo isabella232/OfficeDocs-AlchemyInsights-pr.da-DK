@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f3e4b6f497606f82699681d9249f0ff7bc847768e4ce11ce06586d3fdd3676b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059878"
 ---
 # <a name="block-download-on-sharing-links"></a>Bloker download ved deling af links
 
-Når du deler elementer med andre i OneDrive eller SharePoint, kan du give dem adgang til at se, men ikke hente.
+Når du deler elementer med andre i OneDrive eller SharePoint, kan du give dem adgang til visning, men ikke til at hente dem.
 
-Få mere at vide under: [Bloker overførsler for filer, der kun kan vises i SharePoint og OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
+Du kan finde flere oplysninger i: [Bloker overførsler for filer, der kun kan vises i SharePoint og OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
