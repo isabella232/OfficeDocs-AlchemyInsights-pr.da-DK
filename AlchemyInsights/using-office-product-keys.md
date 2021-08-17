@@ -1,5 +1,5 @@
 ---
-title: Brug af Office-produktnøgler
+title: Brug Office produktnøgler
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: 16a86343f1c05a5094dc0dd5595c1299c9e44a26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c09363a2c8d3e610eb50f42b4cbaa4e69827927f9f66c56d4c88b7ede3d85126
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083908"
 ---
-# <a name="using-office-product-keys"></a>Brug af Office-produktnøgler
+# <a name="using-office-product-keys"></a>Brug Office produktnøgler
 
-**Office-produktnøgler**
+**Office Produktnøgler**
 
-Brug din Microsoft-konto, ikke din produktnøgle, til at installere og aktivere Office og individuelt købte Microsoft 365-apps, f.eks. Project, Visio, Word, Excel og Outlook. Du kan finde flere oplysninger [i Office, hvor jeg bliver bedt om en produktnøgle](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
+Brug din Microsoft-konto, ikke din produktnøgle, til at installere og aktivere Office og individuelt købte Microsoft 365-apps, f.eks. Project, Visio, Word, Excel og Outlook. Du kan finde flere oplysninger [Office jeg bliver bedt om en produktnøgle](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
 
-- Hvis dit køb af Office blev købt med en produktnøgle, skal du se [Hvor skal jeg angive din Office-produktnøgle?](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Hvis dit køb af Office blev købt med en produktnøgle, skal du se [Hvor skal jeg Office produktnøglen?](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 
-- Hvis du vil have hjælp til en produktnøgle til Office 365 Home eller Personal, skal du [se Brug af produktnøgler til Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
+- Hvis du vil have hjælp Office 365 en Home- eller Personal-produktnøgle, skal [du se Brug af produktnøgler Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
 
-**Aktivering af Office-abonnement** 
+**Aktivering Office abonnement** 
 
-- Hvis du har købt et Microsoft 365-abonnement hos en forhandler, skal du se Angiv din produktnøgle til [Microsoft 365-apps til virksomheder.](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)
+- Hvis du har købt Microsoft 365 fra en forhandler, skal du [se Indtast din produktnøgle for at Microsoft 365 Apps for business](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key).
 
-- Hvis der er en fejlmeddelelse, når du forsøger at indløse en produktnøgle, skal du se Problemer med din produktnøgle til [Microsoft 365 til virksomheder?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+- Hvis der er en fejlmeddelelse, når du forsøger at indløse en produktnøgle, skal du se Problemer [med din Microsoft 365 til virksomheder-produktnøgle?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
