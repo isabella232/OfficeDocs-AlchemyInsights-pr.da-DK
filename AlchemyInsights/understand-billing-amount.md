@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919633"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304327"
 ---
 # <a name="understand-billing-amount"></a>Forstå faktureringsbeløbet
 
@@ -26,9 +26,9 @@ ms.locfileid: "53919633"
 - Hvis du vil hjælpe med at gennemse og forstå din faktura, kan du se [følgende: Selvstudium: Gennemse din individuelle Azure-faktura](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Forstå vilkårene på din faktura: Forklaring til [Azure-fakturavilkår](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Forstå vilkårene for Azure-forbrugsgebyrer: [Brugsvilkår forklaret](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Sådan får du en PDF-fil af din faktura og en kopi af din detaljerede daglige forbrugsfil (.CSV): [Få faktura- og forbrugsdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- For at få en PDF-fil af din faktura og en kopi af din detaljerede daglige brugsfil (.CSV): [Få faktura- og forbrugsdata](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Bemærk!** Hvis du annullerer dit abonnement/din ressource midt i din faktureringscyklus, kan du muligvis stadig se en opkrævning, som ville være for ethvert forbrug i den forrige måned. Hvis din faktureringscyklus var fra den 26. i hver måned til den 25. i den næste måned & har du suspenderet abonnementet den 23., hvilket er 28 dage inde i faktureringscyklussen for juni, vises der muligvis et gebyr for de 28 dages brug. Hvis du ser et gebyr på trods af annulleringen af et abonnement, skal du sørge for, at du ikke har nogen andre supportplaner, som er skyld i opkrævningen. Hvis du gør det, kan du annullere planen.
+**Bemærk!** Hvis du annullerer dit abonnement/din ressource midt i din faktureringscyklus, kan du muligvis stadig se en opkrævning, som ville være for ethvert forbrug i den forrige måned. Hvis din faktureringscyklus var fra den 26. i hver måned til den 25. i den næste måned &, har du suspenderet abonnementet den 23., hvilket er 28 dage inde i faktureringscyklussen for juni, vises der muligvis et gebyr for de 28 dages brug. Hvis du ser et gebyr på trods af annulleringen af et abonnement, skal du sørge for, at du ikke har nogen andre supportplaner, som er skyld i opkrævningen. Hvis du gør det, kan du annullere planen.
 
 **Microsofts kundeaftale (MCA):**
 
@@ -46,7 +46,7 @@ ms.locfileid: "53919633"
 
 **Enterprise Agreement (EA)**
 
-- Hvis du vil have hjælp til at gennemse og forstå din faktura, skal du se: [Forstå din Azure Enterprise Agreement faktura](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Hvis du vil have hjælp til at gennemse og forstå din faktura, skal du se: [Forstå din Azure Enterprise Agreement regning](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Hvis du er Azure-kunde med Enterprise Agreement (EA-kunde), kan du ikke downloade din organisations fakturaer. Fakturaer sendes til den person, der er konfigureret til at modtage fakturaer for tilmeldingen, du kan downloade brugen i [Azure-portalen](https://portal.azure.com/).
 
 Gennemse serviceovergangsfaktura:
@@ -54,7 +54,7 @@ Gennemse serviceovergangsfaktura:
 - Log på **Enterprise-portalen**. Vælg **Rapporter**
 - Skift visningen fra **M** til **C** i øverste højre hjørne af fanen, og match perioden på fakturaen
 - Det samlede **forbrugsbeløb** skal svare til det samlede **udvidede** beløb på din serviceoverløbsfaktura
-- Gå til **Download > Avanceret** rapport Download for at få flere oplysninger om dine gebyrer **Bemærk!** Denne rapport inkluderer ikke afgifter, gebyrer for reservationer eller marketplace-gebyrer
+- Gå til **Download brug >** Advanced Report Download for at få flere oplysninger om dine gebyrer **Bemærk!** Denne rapport omfatter ikke afgifter, gebyrer for reservationer eller marketplace-gebyrer
 
 **Azure Marketplace**
 
@@ -62,12 +62,14 @@ Gennemse serviceovergangsfaktura:
 
 Gennemse Marketplace-faktura:
 
-Sammenlign din total for Azure Marketplace på Rapporter > oversigt over brug i Enterprise-portalen med din Marketplace-faktura. Marketplace-fakturaen er kun til Køb og brug af Azure Marketplace. Beløbene i forbrugsoversigten omfatter ikke moms.
+Sammenlign totalen for Din Azure Marketplace på rapporter > oversigt over brug i Enterprise-portalen med din Marketplace-faktura. Marketplace-fakturaen er kun til Køb og brug af Azure Marketplace. Beløbene i forbrugsoversigten omfatter ikke moms.
 
 - Log på **Enterprise-portalen**. Vælg **Rapporter**
 - Skift visningen fra **M** til **C** i øverste højre hjørne af fanen, og match perioden på fakturaen
 - Totalen **for Azure Marketplace** skal svare til det samlede **salg** på din Marketplace-faktura
-- Gå til **Download brug** for at få flere oplysninger om dine forbrugsbaserede gebyrer. Under **Marketplace-gebyrer** skal **du vælge** **Download** note: Denne rapport omfatter ikke afgifter eller viser engangskøb
+- Gå til **Download brug** for at få flere oplysninger om dine forbrugsbaserede gebyrer. Under **Marketplace-gebyrer** skal du vælge **Download** 
+
+**Bemærk!** Denne rapport omfatter ikke afgifter eller viser engangskøb
 
 **Cloud Solution Provider (CSP)**
 
