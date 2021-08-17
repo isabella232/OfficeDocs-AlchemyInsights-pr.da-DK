@@ -1,5 +1,5 @@
 ---
-title: Oprette et flow
+title: Opret et flow
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 38c62c3554b00233e9520e107b2f8a1cc1956b7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d519d7e61b886b327292b5b63fe0398451e991b4a7bd84e81c9fac5cdb47fc0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044370"
 ---
-# <a name="microsoft-flow"></a>Microsoft flow
+# <a name="microsoft-flow"></a>Microsoft Flow
 
-Microsoft flow gør det nemmere at automatisere almindelige opgaver. Brug det til at konfigurere arbejdsprocesser for lister og biblioteker. Du kan få mere at vide om, hvordan du føjer et flow til en liste eller et bibliotek i SharePoint Online eller OneDrive, under [oprette et flow](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft Flow hjælper dig med at automatisere almindelige opgaver. Brug den til at konfigurere arbejdsprocesser for lister og biblioteker. Hvis du vil lære, hvordan du føjer et flow til en liste eller et bibliotek i SharePoint Online eller OneDrive, skal du [se Opret et flow](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[Videoer om Microsoft flow](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videoer om Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Microsoft flow-websted](https://go.microsoft.com/fwlink/?linkid=864642)
+[Microsoft Flow websted](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

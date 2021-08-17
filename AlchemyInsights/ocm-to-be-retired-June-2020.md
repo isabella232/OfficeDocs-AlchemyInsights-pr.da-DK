@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 045ba28f29fcd37b7cbf7d5566bd4ae5c7210fe6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5d4c1507c810f2368d9cc52909d9d9b67e036e9d199603b46a4e992a41df898e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833537"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077068"
 ---
 # <a name="ocm-to-be-retired-june-2020"></a>OCM udgå i juni 2020
 
 
-Fra **og med d. 30. juni 2020** vil Outlook Customer Manager-tilføjelsesprogrammet og mobilappen udgå. Du kan **eksportere data** fra den før **denne dato.**  
+Fra **og med d. 30. juni 2020** Outlook tilføjelsesprogrammet Customer Manager og mobilappen udgå. Du kan **eksportere data** fra den før **denne dato.**  
 
-Du kan kontrollere, hvem der i organisationen har en Microsoft 365 Business Standard-abonnementsplan (tidligere kaldet Office 365 Business Premium) eller Microsoft 365 Business Premium-abonnement (tidligere kendt som Microsoft 365 Business) med rettigheder til Outlook Customer Manager ved at klikke [her.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
+Du kan kontrollere, hvem i organisationen der har et Microsoft 365 Business Standard-abonnement (tidligere kaldet Office 365 Business Premium) eller Microsoft 365 Business Premium (tidligere kendt som Microsoft 365 Business)-abonnement med rettigheder til Outlook Customer Manager ved at klikke [her.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
 
 Du kan finde flere oplysninger under:
 
-- [Eksportér eller slet dine Outlook Customer Manager-data](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
+- [Eksportere eller slette dine Outlook Customer Manager-data](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Ofte stillede spørgsmål om Outlook Kundeadministrator](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)
+- [Outlook Ofte stillede spørgsmål om Kundeadministrator](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)

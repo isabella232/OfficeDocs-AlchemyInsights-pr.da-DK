@@ -1,5 +1,5 @@
 ---
-title: Kan ikke vælge kontakter, når du skriver mail i Outlook.com
+title: Du kan ikke markere kontakter, når du skriver mail på Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfc88e44fde67792fe7362b78f54970c313661df76dea752cdd85fd03802d290
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045954"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>Kan ikke vælge kontakter, når du skriver mail
+# <a name="cant-select-contacts-when-composing-email"></a>Kan ikke markere kontakter, når du skriver en mail
 
-Når du skriver en ny mail, får nogle kunder ikke vist deres liste over kontaktpersoner, når de klikker på knappen **til** eller **CC** . Hvis du vil vælge en kontakt, skal du begynde at skrive i felterne **til** eller **CC** , hvorefter dine relaterede kontakter vises.
+Når der skrives en ny mail, kan nogle kunder ikke se deres liste over kontakter, når de klikker på **knapperne** Til **eller Cc.** Hvis du vil vælge en kontakt, skal du begynde **at skrive** i felterne Til eller **Cc,** og dine relaterede kontakter vises.

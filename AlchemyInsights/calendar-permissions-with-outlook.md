@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046098"
 ---
 # <a name="calendar-permissions"></a>Kalendertilladelser
 
 Brugere kan ændre deres egne kalendertilladelser med Outlook på internettet eller andre klienter, men som administrator kan det også være nødvendigt at undersøge det.  
-Med Exchange PowerShell-cmdlet'en får du vist tilladelsen til en brugers kalender:
+Med Exchange viser PowerShell-cmdlet'en dig tilladelsen til en brugers kalender:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
@@ -34,9 +34,9 @@ Hvis du vil se flere oplysninger, skal du se følgende:
 
 - [Tilføjelsespostkassemappe](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-Kalendertilladelser bruges i deling af kalendere, for at se flere oplysninger om deling af en Outlook-kalender, skal du se følgende artikler:
+Kalendertilladelser bruges til deling af kalendere, hvis du vil have mere at vide om at dele Outlook kalender, skal du se følgende artikler:
 
 - [Del en Outlook-kalender med andre personer](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 - [Del din kalender i Outlook på internettet til virksomheder](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Hvis du vil foretage fejlfinding i forbindelse med kalendertilladelser, kan [du bruge værktøjet Support- og genoprettelsesassistent.](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f)
+Hvis du vil foretage fejlfinding i forbindelse med [kalendertilladelser, kan du Support- og genoprettelsesassistent](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) kalenderværktøjet.
