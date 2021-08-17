@@ -1,5 +1,5 @@
 ---
-title: 8000035 Lad Outlook.com beta
+title: 8000035 Lad betaversionen Outlook.com være
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -19,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b481f343a0a25e740a09b387fcdf685fc4f719e9d08d0af2c885f7441ff1b23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042840"
 ---
-# <a name="the-new-outlookcom"></a>Det nye Outlook.com
+# <a name="the-new-outlookcom"></a>Den nye Outlook.com
 
-Det er ikke længere muligt at forlade Outlook.com-betaversionen og vende tilbage til den klassiske version af Outlook.com.
+Det er ikke længere muligt at forlade betaversionen Outlook.com og vende tilbage til den klassiske version af Outlook.com.
   
-Hvis du vil give feedback om den nye Outlook.com, skal du gå til [UserVoice-forummet](https://go.microsoft.com/fwlink/p/?linkid=851599). Du kan stemme på de ideer eller problemer, du gerne vil se, og vi besvarer direkte på de vigtigste kommentarer og forslag.
+Hvis du gerne vil give feedback om den nye Outlook.com, skal du gå til [UserVoice-forummet.](https://go.microsoft.com/fwlink/p/?linkid=851599) Du kan stemme på de ideer eller problemer, som du helst vil have, at vi tager op, og så svarer vi direkte på de vigtigste kommentarer og forslag.
   
 [Få mere at vide om den nye Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

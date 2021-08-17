@@ -1,5 +1,5 @@
 ---
-title: Administrere møde optagelser til uddannelse
+title: Administrer mødeoptagelser til uddannelse
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
-ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
+ms.openlocfilehash: b064c5773a681c1602dc939049d5eb6084fb661906d3a406169c31f313876a6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48753665"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042264"
 ---
-# <a name="manage-meeting-recordings-for-education"></a>Administrere møde optagelser til uddannelse
+# <a name="manage-meeting-recordings-for-education"></a>Administrer mødeoptagelser til uddannelse
 
-Starter **2020**, når brugere med a1-licenser (herunder a1 plus) starter en gruppe-møde optagelse, er optagelsen tilgængelig i 21 dage.
+Fra **den 20. august 2020**, når brugere med A1-licenser (herunder A1 Plus) starter en Teams-mødeoptagelse, er optagelsen tilgængelig i 21 dage.
 
-Hvis du vil have flere oplysninger, herunder hvordan du gemmer mødet på en anden placering, skal du se [uploade en Microsoft teams-møde optagelse til en stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
+Du kan finde flere oplysninger, herunder hvordan du gemmer mødet et andet sted, [under Upload en Microsoft Teams-mødeoptagelse i Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
-Microsoft teams-møde optagelse kan nu gemmes i OneDrive SharePoint, hvis du vil have flere oplysninger og tilmelde dig, skal du se følgende meddelelses Center-post:
+Microsoft Teams Mødeoptagelse kan nu gemmes i en OneDrive SharePoint, hvis du vil have mere at vide og tilmelde dig, i følgende indlæg i Meddelelsescenter:
 
-[Opdateret Microsoft teams: møde optagelser, der er gemt på OneDrive og SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+[(Opdateret) Microsoft Teams: Mødeoptagelser, der er gemt OneDrive og SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-Hvis du flytter din lagerplacering til OneDrive og SharePoint, elimineres det tidligere krav om, at streamen er tilgængelig i dit område.
+Flytning af din lagerplacering til OneDrive og SharePoint fjerner det tidligere krav om, at Stream skal være tilgængelig i dit område.
 
-Hvis du leder efter, hvordan du **blokerer eller aktiverer** studerende til at optage møder i teams, anbefaler vi, at du brugerpolitik pakker til elev-og lærer sikkerhed. For at få mere at vide, kan du se:
+Hvis du vil vide,  hvordan du blokerer eller aktiverer studerende til at optage møder i Teams, anbefaler vi, at du bruger politikpakker til sikkerhed for studerende og undervisere. For at få mere at vide, kan du se:
 
-[Politik pakker i Microsoft teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
+[Politikpakker i Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
 
-[Politikker, der skal tildeles til elev sikkerheden](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+[Politikker, der skal tildeles til studerendes sikkerhed.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-[Politikker, der skal tildeles til lærere](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+[Politikker, der skal tildeles undervisere](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Hvis du kun vil administrere muligheden for at optage møder, skal du se [aktivere eller deaktivere Cloud-optagelse](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+Hvis du kun vil administrere muligheden for at optage møder, skal du se [Aktivere eller deaktivere skyoptagelse](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
 
-**Bemærk!** Medmindre du har valgt at bruge OneDrive SharePoint-lager til teams-møde optagelser, er disse funktioner afhængige af, at der er adgang til lokal computere Hvis du ikke kan optage et møde, skal du se [hvilke områder har Microsoft Stream Host mine data i?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
+**Bemærk!** Medmindre du har tilmeldt dig OneDrive SharePoint til Teams-mødeoptagelser, afhænger disse funktioner af stream regional tilgængelighed og landetilgængelighed. Hvis du ikke kan optage et møde, skal du se [Hvilke områder hoster Microsoft Stream mine data i?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-Hvis du vil have mere at vide, skal du se [opdateret funktion: Microsoft Stream Cloud-optagelser, regional lagerstyring](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
+Du kan få mere at vide [under Opdateret funktion: Microsoft Stream-skyoptagelser med regional lagerstyring](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
