@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009170"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891893"
 ---
 # <a name="subscription-expired"></a>Abonnementet er udløbet
 
@@ -35,7 +35,7 @@ Hvis dit abonnement udløber eller er blevet deaktiveret af Microsoft, eller hvi
 3. Vælg **en betalingsmetode på rullelisten** i ruden Genaktiver dette abonnement, eller vælg **Tilføj betalingsmetode.**
 4. Vælg **Gem**.
 
-Du kan finde flere oplysninger under [Genaktiver dit abonnement](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Administrer abonnementsfornyelse**
 
@@ -43,8 +43,8 @@ Hvis du vil administrere månedlig eller årlig fakturering, kan du slå Tilbage
 
 1. I Administration skal du gå til **siden Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
 2. Vælg det **abonnement,** du vil administrere, under fanen Produkter.
-3. På siden med abonnementsoplysninger under **Abonnements- og betalingsindstillinger** skal du vælge **Rediger tilbagevendende fakturering.**
+3. På siden med abonnementsoplysninger under **Abonnements- og betalingsindstillinger** skal du **vælge Rediger tilbagevendende fakturering.**
 4. I **ruden Rediger tilbagevendende faktureringsindstillinger** skal du **vælge Til** **, Til, men forny én gang** eller Slå **fra**.
 5. Vælg **Gem**.
 
-Du kan finde flere oplysninger under [Slå tilbagevendende fakturering fra eller til](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Du kan finde flere oplysninger under [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -1,5 +1,5 @@
 ---
-title: Synkronisering af domæne tjeneste
+title: Synkronisering af domænetjeneste
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057852"
 ---
-# <a name="domain-service-synchronization"></a>Synkronisering af domæne tjeneste
+# <a name="domain-service-synchronization"></a>Synkronisering af domænetjeneste
 
-Objekter og legitimationsoplysninger i et Azure Active Directory Domain Services (Azure AD DS)-administreret domæne kan enten oprettes lokalt inden for domænet eller synkroniseres fra en Azure Active Directory-lejer (Azure AD). Når du første gang installerer Azure AD DS, konfigureres og startes en automatisk envejs synkronisering for at replikere objekterne fra Azure AD. Denne envejs synkronisering kører fortsat i baggrunden for at holde Azure AD DS Managed-domænet opdateret med eventuelle ændringer fra Azure AD. Der sker ingen synkronisering fra Azure AD DS tilbage til Azure AD.
+Objekter og legitimationsoplysninger i et Azure Active Directory Domain Services (Azure AD DS)-administreret domæne kan enten oprettes lokalt inden for domænet eller synkroniseres fra en Azure Active Directory-lejer (Azure AD). Når du først installerer Azure AD DS, konfigureres og startes en automatisk envejssynkronisering for at replikere objekterne fra Azure AD. Denne envejssynkronisering fortsætter med at køre i baggrunden for at holde Azure AD DS-administrerede domæne opdateret med eventuelle ændringer fra Azure AD. Der sker ingen synkronisering fra Azure AD DS tilbage til Azure AD.
 
-Du kan få mere at vide om synkronisering af Active Directory-domæne tjenester i Azure, under [synkronisering af domæne tjeneste](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+Hvis du vil have mere Azure Active Directory om synkronisering af domænetjeneste, skal du [se Synkronisering af domænetjeneste](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 

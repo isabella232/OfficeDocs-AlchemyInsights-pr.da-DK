@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026216"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892041"
 ---
-# <a name="missing-emails-in-quarantine"></a>Manglende mails i karantæne"
+# <a name="missing-emails-in-quarantine"></a>Manglende mails i karantæne
 
-Administratorer kan [få vist, slippe eller slette disse meddelelser.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+Administratorer kan [få vist, slippe eller slette disse meddelelser](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-Hvis du vil åbne Security & Compliance Center, skal du gå til [https://protection.office.com](https://protection.office.com/) . Hvis du vil åbne siden Karantæne direkte, skal du gå til [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+I portalen Microsoft 365 Defender på <https://security.microsoft.com> skal du gå til **Gennemse** \> **karantæne**. Eller du kan bruge til at gå direkte **til siden** <https://security.microsoft.com/quarantine> Karantæne.  
 
-Du kan søge efter følgende værdier:  
-
-- **Meddelelses-id:** GUID (Globally Unique Identifier) i meddelelsen. Hvis du vælger en meddelelse på listen, vises værdien  **Meddelelses-id**  i pop  **op-ruden**  Detaljer, der vises. Administratorer kan bruge [meddelelsessporing til](/microsoft-365/security/office-365-security/message-trace-scc) at finde meddelelser og deres tilsvarende meddelelses-id-værdier.
-- **Afsendermailadresse:** En enkelt afsenders mailadresse.
-- **Modtagermailadresse:** En enkelt modtagers mailadresse.
-- **Emne:** Brug hele meddelelsens emne. Der er ikke store og små bogstaver i søgningen.
-
-Når du har angivet søgekriterierne, skal du klikke på ![ Opdater knap ](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Opdater** for at filtrere resultaterne.
+Du kan finde flere oplysninger om de søge-/filterværdier, du kan bruge, under Administrer meddelelser og filer, der er sat i karantæne [som administrator i EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files).
 
 De cmdlet'er, du bruger til at få vist og administrere meddelelser og filer i karantæne, er:
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Export-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage](/powershell/module/exchange/preview-quarantinemessage): Bemærk, at denne cmdlet kun er til meddelelser, ikke malwarefiler fra Microsoft Defender til Office 365 til SharePoint Online, OneDrive for Business eller Teams.
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [ForhåndsvisningskarantæneMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Bemærk, at denne cmdlet kun er til meddelelser, ikke filer fra Pengeskab Vedhæftede filer til SharePoint, OneDrive eller Microsoft Teams.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

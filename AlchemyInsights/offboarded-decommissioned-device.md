@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076637"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891997"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problemer med at fjerne en ikke-tavlet eller udkøret enhed fra Enhedens lager
 
-Microsoft Defender til Slutpunkt tillader i øjeblikket ikke manuelt at fjerne enhedsposten for en offboardet eller ud afviklet enhed fra Lager over enheder.
+Microsoft Defender til Slutpunkt tillader i øjeblikket ikke manuelt at fjerne enhedsposten for en offboarded eller udkomponeret enhed fra Device Inventory.
 
 Af sikkerhedsmæssige årsager forbliver enheden i portalen som en historisk post i op til 180 dage. Men enhedens data slettes i henhold til din konfigurerede opbevaringsperiode.
 
@@ -32,11 +32,11 @@ Hvis du stadig ikke vil se visse enheder i visningen Lagerenhed, kan du prøve a
 
 Du kan finde flere oplysninger under:
 
-[Offboard-enheder fra Microsoft Defender for Endpoint-tjenesten](/microsoft-365/security/defender-endpoint/offboard-machines.md)
+[Offboard-enheder fra Microsoft Defender for Endpoint-tjenesten](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[Eksponeringsscore i Håndtering af trusler og sikkerhedsrisici](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[Eksponeringsscore i Håndtering af trusler og sikkerhedsrisici](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
-[Ret usunde sensorerne i Microsoft Defender til Slutpunkt](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
+[Ret usunde sensorerne i Microsoft Defender til Slutpunkt](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 
 [Sådan bruges mærkning effektivt (del 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
 

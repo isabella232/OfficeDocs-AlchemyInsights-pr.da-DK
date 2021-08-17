@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501810"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892189"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Tilføje eller fjerne licenser til dit abonnement
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501810"
 4. Hvis du vil købe eller fjerne **licenser,** skal du angive **det** samlede antal licenser, du ønsker for dette abonnement, under Ny mængde i feltet Samlet antal licenser. Hvis du f.eks. har 100 licenser, og du vil tilføje 25 mere, skal du angive 125. Hvis du vil fjerne 25 licenser, skal du angive 75.
 5. Vælg **Gem**.
 
-Du kan finde oplysninger om, hvordan du tildeler [licenser, under Tildel licenser til brugere.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Du kan finde oplysninger om, hvordan du tildeler licenser, [under Tildel licenser til brugere.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Ressourcer**
   
-- [Køb eller fjern licenser](/microsoft-365/commerce/licenses/buy-licenses)
-- [Annuller Microsoft 365 til virksomheder](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Prøv eller køb et Microsoft 365 til virksomheder](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Køb eller fjern licenser](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Annuller Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Prøv eller køb et Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 34fdfc7df6bde1ef93b52cb20983762c8d79ca94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d1557cbacab8f2ffdfca7b8e073a14dce6467afeccd6b11ac0da3ce556e1fa3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816626"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057924"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Kontrol af kvitteringer for læsning i Teams
 
 Du kan styre **kvitteringer for læsning** for din organisation ved hjælp af meddelelsespolitikker i Teams.
 
-Sådan opdaterer du en enkelt   >   **brugers** indstilling for kvittering for læsning i appen: Klik på din profil øverst til højre i Teams-appvinduet, klik på Indstillinger for beskyttelse af personlige oplysninger, og brug derefter til/fra-knappen for Kvitteringer for læsning.
+Sådan opdaterer du en enkelt brugers indstilling for kvittering for læsning i appen: Klik på din profil øverst til højre i Teams-appvinduet, klik på **Indstillinger** Beskyttelse af personlige oplysninger, og brug derefter til/fra-knappen Kvitteringer for  >   læsning. 
 
 - Kvitteringer for læsning kan slås til eller fra på organisationsniveau ved hjælp af meddelelsespolitikker. Se "Kvitteringer for læsning" under [Indstillinger for meddelelsespolitik](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings).
 
 - Hvis du giver brugerne tilladelse til at styre sine egne indstillinger for kvitteringer for læsning, [er det måden hvorpå, de kan tilpasse dem](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings). 
 
-**Bemærk**: Kvitteringer for læsning SKAL være aktiveret for brugerne af en administrator, for at de kan lave tilpasninger. Hvis du vil kontrollere eller ændre denne indstilling, skal du gå til **Læsekvitteringspolitikker** for meddelelsespolitikker i Teams >    >  **Administration**
+**Bemærk**: Kvitteringer for læsning SKAL være aktiveret for brugerne af en administrator, for at de kan lave tilpasninger. Hvis du vil kontrollere eller ændre denne indstilling, skal du **gå til Teams Administration Meddelelsespolitikker** >    >  **for kvitteringer for læsning**

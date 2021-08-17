@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744882"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898238"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Løs almindelige problemer med Microsoft Defender til Office 365
 
 Her er nogle løsninger på almindelige problemer med Microsoft Defender til Office 365:
 
-- **Meddelelsesforsinkelse:** Hvis du oplever problemer, hvor leveringen af meddelelser forsinkes,  er det en god ide at bruge indstillingerne for dynamisk levering i politikken for sikre vedhæftede filer. Du kan få mere at vide under [Dynamisk levering i politikker for sikre vedhæftede filer.](https://go.microsoft.com/fwlink/?linkid=2094106)
-- **Rapportere falske positive eller negative resultater:** Rapportér meddelelsen til Microsoft ved hjælp af dette link: [Microsoft Defender Response Portal.](https://go.microsoft.com/fwlink/?linkid=2092835)
-- **Aktivér beskyttelse mod sikre links:**
-    1. Log på [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-    2. Gå til links **til sikre politikker**  >  **for**  >  **trusselsadministration.**
-    3. Åbn **den konfigurerede politik under Politikker,** der gælder for bestemte modtagere.
-    4. Under **Indstillinger skal** du vælge Anvend sikre links til **meddelelser, der sendes i organisationen.**
+- **Meddelelsesforsinkelse:**
+
+  Forsinkelser i levering af mail kan være årsag til Pengeskab scanning af vedhæftede filer i meddelelser. Du kan finde flere oplysninger [Pengeskab indstillinger for politik for vedhæftede filer.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+
+- **Rapportere falske positive eller negative resultater:**
+
+  Få mere at vide under [Rapportér meddelelser og filer til Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft).
+
+- **Aktivér Pengeskab Link-beskyttelse:**
+
+  1. I portalen Microsoft 365 Defender på skal du gå til & politikker for samarbejde & Politikker for <https://security.microsoft.com/>  \>  \>  \> **trussel Pengeskab Links** i **sektionen** Politikker.
+
+     For at gå direkte til **siden Pengeskab Links skal** du bruge <https://security.microsoft.com/safelinksv2> .
+
+  2. På siden **Pengeskab Links** skal du vælge politikken ved at klikke på navnet på politikken.
+  3. I pop op-vindue med oplysninger, der vises, skal du gøre et af følgende:
+     - Hvis du vil tilføje en ny politik, skal du **vælge + Opret.** Der starter en guide, der kan hjælpe dig med at definere dine politikindstillinger.
+     - Hvis du vil redigere en eksisterende politik, skal du vælge politikken ved at klikke på navnet på politikken. I pop op-menuen med oplysninger, der vises, **skal du** vælge Rediger i **sektionen Beskyttelsesindstillinger.**
+  4. På siden **Beskyttelse skal** du konfigurere følgende indstillinger:
+     - Slå Vælg **handlingen for ukendte potentielt skadelige URL-adresser i meddelelser til.**
+     - Vælg **Anvend sikre links til meddelelser, der er sendt i organisationen.**
+
+  Du kan finde flere oplysninger [i Konfigurere Pengeskab Links-politikker i Microsoft Defender til Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies).
