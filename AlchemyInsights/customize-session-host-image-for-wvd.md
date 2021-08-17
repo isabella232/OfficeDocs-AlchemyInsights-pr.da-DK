@@ -1,5 +1,5 @@
 ---
-title: Tilpasse en sessions værts afbildning til Windows virtuelt skrivebord
+title: Tilpasse et værtsbillede for en session til Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118630"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Tilpasse en sessions værts afbildning til Windows virtuelt skrivebord
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Tilpasse et værtsbillede for en session til Windows Virtual Desktop
 
-Der er to måder, hvorpå du kan forberede en virtuel maskine (VM) ved hjælp af en virtuel masterharddisk afbildning til Windows virtuelt skrivebord:
+Der er to måder at forberede en virtuel maskine (VM) på ved hjælp af et masterbillede med virtuel harddisk til Windows Virtual Desktop:
 
-1. [Opret en VM fra et administreret billede i Azure](https://go.microsoft.com/fwlink/?linkid=2127906), og gå derefter videre til [forberedelse og installation af software](https://go.microsoft.com/fwlink/?linkid=2128064).
-1. [Opret billedet lokalt](https://go.microsoft.com/fwlink/?linkid=2128065) ved at downloade billedet, [klargør en VM for Hyper-V](https://go.microsoft.com/fwlink/?linkid=2127907), og tilpas det derefter efter dine behov.
+1. [Opret en VM fra et administreret billede i Azure](https://go.microsoft.com/fwlink/?linkid=2127906), og gå derefter videre [til forberedelse og installation af software](https://go.microsoft.com/fwlink/?linkid=2128064).
+1. [Opret billedet lokalt ved](https://go.microsoft.com/fwlink/?linkid=2128065) at downloade billedet, [klargøre en Hyper-V VM](https://go.microsoft.com/fwlink/?linkid=2127907)og derefter tilpasse den, så den passer til dine behov.
 
-Hvis du vil have mere at vide, skal du se [forberede og tilpasse en VHD-masterafbildning](https://go.microsoft.com/fwlink/?linkid=2127838).
+Du kan få mere at vide [under Forberede og tilpasse et VHD-masterbillede.](https://go.microsoft.com/fwlink/?linkid=2127838)

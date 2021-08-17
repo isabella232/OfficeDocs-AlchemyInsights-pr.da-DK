@@ -1,5 +1,5 @@
 ---
-title: Få mere at vide om tilknytning mellem ældre Microsoft Edge-politikker og Microsoft Edge-politikker
+title: Få mere at vide om tilknytning Den ældre version af Microsoft Edge politikker og Microsoft Edge politikker
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087382"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Få mere at vide om tilknytning mellem ældre Microsoft Edge-politikker og Microsoft Edge-politikker
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Få mere at vide om tilknytning Den ældre version af Microsoft Edge politikker og Microsoft Edge politikker
 
-Gruppepolitikker for ældre versioner af Microsoft Edge (version 45 og tidligere) og indstillinger for administration af mobilenheder (MDM) er knyttet til de relevante politikker i Microsoft Edge version 80. Hvis du vil have mere at vide, skal du se [Microsoft Edge Legacy to Microsoft Edge Policy mapping](https://go.microsoft.com/fwlink/?linkid=2141665).
+Gruppepolitikker for Den ældre version af Microsoft Edge (version 45 og ældre) og indstillingerne for administration af mobilenheder (MDM) knyttes til de relevante politikker Microsoft Edge version 80. Du kan få mere at vide [Den ældre version af Microsoft Edge at Microsoft Edge til politiktilknytning.](https://go.microsoft.com/fwlink/?linkid=2141665)

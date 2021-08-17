@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 6bbada43d53801d137e53afffca30d89cbb60e051c5c426711caaadb36cf39bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082648"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895621"
 ---
 # <a name="cancel-visio-subscription"></a>Annuller Visio abonnement
 
@@ -32,4 +32,4 @@ Administratorer kan annullere abonnementet Visio for deres organisation i Micros
 
 **Refusion:** Du får krediteret et forholdsmæssigt beløb inden for den næste faktureringscyklus.
 
-Du kan få mere at vide under [Annuller dit abonnement.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Du kan få mere at vide under [Annuller dit abonnement.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: Få mere at vide om Microsoft 365-abonnement – baseret tilgængelighed af Office-Apps-funktioner på mobilenheder
+title: Få mere Microsoft 365 om de abonnementsbaserede Office af appfunktioner på mobilenheder
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49677697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087418"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Få mere at vide om Microsoft 365-abonnement – baseret tilgængelighed af Office-Apps-funktioner på mobilenheder
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Få mere Microsoft 365 om de abonnementsbaserede Office af appfunktioner på mobilenheder
 
-Alle Microsoft 365-planer gør det muligt at få vist dokumenter i Word, Excel, PowerPoint og OneNote på iOS, Android og Windows Mobile-enheder. Tilgængeligheden af disse appss funktioner og filer afhænger af dit abonnement – en kvalificerings plan for Microsoft 365 eller en ikke-kvalificerende plan eller en enkelt gang i Office – og skærmstørrelsen på en mobil enhed.
+Med alle Microsoft 365-planer kan du få vist dokumenter i Word, Excel, PowerPoint og OneNote på iOS, Android og Windows mobilenheder. Tilgængeligheden af disse apps' funktioner og filer afhænger dog af dit abonnement – en Microsoft 365-kvalificerende plan eller en ikke-kvalificerende plan eller et engangskøb af Office – og skærmstørrelsen på en mobilenhed.
 
-Hvis du vil have mere at vide, skal du se [hvad du kan gøre i Office-Apps på mobilenheder med et Microsoft 365-abonnement](https://go.microsoft.com/fwlink/?linkid=2135575). 
+Du kan få mere at [vide under Hvad du kan gøre i Office apps](https://go.microsoft.com/fwlink/?linkid=2135575)på mobilenheder med et Microsoft 365 abonnement . 

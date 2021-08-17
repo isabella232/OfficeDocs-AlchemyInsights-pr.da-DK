@@ -1,5 +1,5 @@
 ---
-title: 726 blokere mail videresendelse
+title: 726 Blokering af videresendelse af mail
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059626"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Blokere eller fjerne blokeringen af videresendelse af mail
 
-Hvis du vil aktivere eller deaktivere videresendelse af mail for en bestemt postkasse, skal du se [konfigurere videresendelse af mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Hvis du vil aktivere eller deaktivere videresendelse af mail for en bestemt postkasse, skal du [se Konfigurer videresendelse af mail](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-På lejerniveau er kontrol af ekstern videresendelse udført ved hjælp af den udgående spam politik. Du kan kontrollere politikken for udgående spamfilter fra Security and Compliance Center [her](https://protection.office.com/antispam) eller ved hjælp af [kommandoen Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+På lejerniveau udføres styringen af ekstern videresendelse ved hjælp af politikken for udgående spam. Du kan kontrollere politikken for udgående spamfilter fra Security and Compliance [Center](https://protection.office.com/antispam) her eller ved hjælp af kommandoen [Get-HostedOutboundSpamFilterPolicy.](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)
 
-Hvis du får vist følgende fejlmeddelelse: **"550 5.7.520 adgang nægtet, din organisation tillader ikke ekstern videresendelse"**, skal du sørge for, at politikken er konfigureret til at aktivere ekstern automatisk videresendelse.
+Hvis du får følgende fejlmeddelelse: **"550 5.7.520 Access denied, Your organization does not allow external forwarding",** sørg for, at politikken er konfigureret til at aktivere Ekstern automatisk videresendelse.
 
-**Bemærk:** Det anbefales, at du holder den eksterne Auto Forward deaktiveret på standardpolitikken for udgående spamfilter og kun aktiverer den for de brugere, der har brug for ekstern videresendelse, ved at oprette en brugerdefineret politik for disse brugere. Du kan læse mere om at [konfigurere ekstern videresendelse af mail i Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Bemærk!** Det anbefales, at du holder Ekstern autoforward deaktiveret på din standard politik for udgående spamfilter og kun aktiverer den for de brugere, der har brug for ekstern videresendelse, ved at oprette en brugerdefineret politik for disse brugere. Du kan læse mere i [Konfiguration af ekstern videresendelse af mail i Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

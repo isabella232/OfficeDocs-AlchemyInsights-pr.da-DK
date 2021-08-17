@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 613b1f9ec8462d88804dd93f1ad73f649216c39a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 75a6fb29e8aaf925bd44ffe820d879dbb84bfe07e4667f07808b610b5ab162fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055476"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Office-installationen hænger eller sidder fast
+# <a name="office-installation-hangs-or-gets-stuck"></a>Office installationen hænger eller sidder fast
 
-Du kan få vist denne funktionsmåde på grund af netværksforbindelse, antivirussoftware eller Windows Update-indstillinger på computeren. Her er nogle ting, du kan prøve for at løse problemet.
+Du får muligvis vist denne funktionsmåde på grund af netværksforbindelse, antivirussoftware Windows indstillingerne Opdater på computeren. Her er nogle ting, du kan prøve for at løse problemet.
   
-- Genstart computeren, og kontrollér, om Office er installeret
+- Genstart computeren, og kontrollér, om Office installeret
 
-- Brug en kabelforbundet forbindelse
+- Brug en kablet forbindelse
 
-- Hvis du bruger en langsom internetforbindelse, skal du installere Office [ved hjælp af Office offline-installationsprogrammet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Hvis du har en langsom internetforbindelse, skal du installere Office [ved hjælp Office offline-installationsprogrammet](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Midlertidig deaktivering af antivirussoftware
+- Midlertidig de slå antivirussoftware fra
 
-- Kør onlinereparation fra kontrol panel
+- Kør en onlinereparation fra Kontrolpanel
 
 - Fjern og geninstaller Office
 
-[Det tager lang tid at installere Office](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Office det tager lang tid at installere](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

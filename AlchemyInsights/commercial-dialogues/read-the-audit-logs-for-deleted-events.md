@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967327"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896009"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Læs overvågningslogfilerne for slettede hændelser
 
 Sådan gør du:
 
-1. Gå til [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Vælg **Søgning i**  >  [**overvågningslogsøgning**](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Gør en af følgende handlinger:
+   - I Microsoft 365 Overholdelsescenter på <https://compliance.microsoft.com> skal du gå til **Løsningsrevision** \> . Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://compliance.microsoft.com/auditlogsearch> .
+   - I Microsoft 365 Defender på <https://security.microsoft.com> skal du gå til **Overvågning**. Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Hvis du ser en meddelelse om, at du skal aktivere funktionen, kan du slå den til nu. Hvis funktionen ikke er slået til, kan søgeresultaterne ikke trække data fra tidligere datoer.
-1. Vælg **Aktiviteter**, og find derefter **Exchange postkasseaktiviteter**. Vælg indstillingerne **Slettet post fra mappen Slettet** post og Flyttede meddelelser til mappen **Slettet** post. Når du er færdig, skal du klikke uden for ruden for at minimere **ruden** Aktiviteter.
-1. Angiv datointervallet, og markér **brugernavnet** for den bruger, du vil undersøge, i feltet Brugere. Du kan vælge mere end én bruger ad gangen.
-1. Vælg **Søg**. Aktiviteterne vises under **Resultater.**
-1. Hvis du vil se detaljerne, skal du vælge en aktivitet og derefter **vælge Flere oplysninger**. Yderligere oplysninger om det slettede element, f.eks. emnelinjen og placeringen af elementet,  da det blev slettet, vises i feltet BerørteWebsteder.
-    > [!NOTE]
-    > Du kan ikke gendanne slettede elementer ved hjælp af overvågningslogfunktionen. Hvis du vil gendanne slettede elementer, [skal du se Gendan slettede elementer eller mails i Outlook Web App](https://go.microsoft.com/fwlink/?linkid=2103759).
 
-Du kan få mere at vide [under Søg i Office 365 for at foretage fejlfinding af almindelige scenarier.](https://go.microsoft.com/fwlink/?linkid=2103944)
+2. På fanen **Søg** på siden **Overvågning** skal du konfigurere følgende indstillinger:
+   - **Dato- og tidsinterval:** Markér dato/klokkeslæt-området i **felterne Start** **og** Slut.
+   - **Aktiviteter:** **Exchange postkasseaktiviteter,** og vælg derefter følgende værdier:
+     - **Slettede meddelelser fra mappen Slettet post**
+     - **Meddelelser flyttet til mappen Slettet post**
+
+       Når du er færdig, skal du klikke uden for ruden for at minimere **ruden** Aktiviteter.
+
+   - **Brugere:** Acceptér den tomme standardværdi for at returnere resultater for alle brugere, eller angiv en eller flere brugere.
+
+3. Når du er færdig, skal du klikke på **Søg**. Aktiviteterne vises på den nye **overvågningssøgningsside.**
+
+4. Vælg en aktivitet i resultaterne for at åbne pop op-dialogboksen med detaljer. Yderligere oplysninger om det slettede element, f.eks. emnelinjen og placeringen af elementet,  da det blev slettet, vises i feltet BerørteWebsteder.
+
+   > [!NOTE]
+   > Du kan ikke gendanne slettede elementer ved hjælp af overvågningslogfunktionen. Hvis du vil gendanne slettede elementer, [skal du se Gendan slettede mails i Outlook på internettet](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11).
+
+Få mere at vide under [Søg i overvågningsloggen for at undersøge almindelige supportproblemer.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

@@ -1,5 +1,5 @@
 ---
-title: 2681 Attack– – – Microsoft 365
+title: 2681 Angrebs dine Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065278"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895785"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Angrebs in-Microsoft 365
 
 - Går du glip af Angrebs problem? Attack Defender kræver **Microsoft Defender til Office 365 Plan 2** eller Office 365 Enterprise **E5.** Attack Defender er **ikke** inkluderet i Microsoft Defender Office 365 Plan 1, Office 365 Enterprise E3 eller nogen Microsoft 365 Apps for business abonnementer.
 
-- Den konto, du bruger til at starte simulerede angreb, kræver globale administrator- eller sikkerhedsadministratortilladelser og multifaktorgodkendelse. Du kan finde flere oplysninger om krav til angrebsspil i [dette emne](/microsoft-365/security/office-365-security/attack-simulator).
+- Den konto, du bruger til at starte simulerede angreb, kræver globale administrator- eller sikkerhedsadministratortilladelser og multifaktorgodkendelse. Du kan finde flere oplysninger om krav til angrebsspil i [dette emne](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Vigtige ting at vide om **Brute Force-angrebssimulering** af adgangskoder:
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065278"
 
   - Du kan ikke angive en brugerdefineret værdi for URL-adresse til **phishing-loginserver.**
 
-  - Hvis en modtager [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) bruger tilføjelsesprogrammet Aktivér rapportmeddelelse for at rapportere meddelelsen som phishing, modtager du muligvis ikke beskeder om meddelelsen (da dette er et simuleret angreb).
+  - Hvis en modtager [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) bruger tilføjelsesprogrammet Aktivér rapportmeddelelse for at rapportere meddelelsen som phishing, modtager du muligvis ikke beskeder om meddelelsen (da dette er et simuleret angreb).
 
 - Rapporter: Når de simulerede angreb er udført, kan du klikke **på Oplysninger om angreb** for at få vist rapporten.
 
-- Hvis du vil have detaljeret vejledning og nye funktioner i Angrebsangreb, skal [du se Angrebs muligheder Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
+- Hvis du vil have detaljeret vejledning og nye funktioner i Angrebsangreb, skal [du se Angrebs muligheder Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

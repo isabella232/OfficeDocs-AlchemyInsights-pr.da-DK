@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500010"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895485"
 ---
 # <a name="change-payment-method"></a>Skift betalingsmetode
 
@@ -36,6 +36,6 @@ Du kan ændre betalingsmetoden i **Microsoft 365 Administration**.
 6. I **ruden Tilføj en betalingsmetode** skal du angive kontooplysningerne og derefter vælge **Gem**. Du skal bruge en betalingsmetode fra det samme land som din lejer.
 7. Den nye betalingsmetode er allerede valgt på rullelisten. Vælg **Erstat**.
 
-Du kan få mere at vide om, hvordan du tilføjer, opdaterer, erstatter eller sletter [betalingsmetoder under Administrer betalingsmetoder.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Du kan få mere at vide om, hvordan du tilføjer, opdaterer, erstatter eller sletter [betalingsmetoder under Administrer betalingsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Hvis du vil lære, hvordan du skifter mellem betalingsmetoder, skal [du se Sådan betaler du for dit abonnement.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Hvis du vil lære, hvordan du skifter mellem betalingsmetoder, skal [du se Sådan betaler du for dit abonnement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
