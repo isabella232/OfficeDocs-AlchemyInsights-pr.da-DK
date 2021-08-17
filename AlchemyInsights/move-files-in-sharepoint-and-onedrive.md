@@ -1,5 +1,5 @@
 ---
-title: Flytte filer i SharePoint og OneDrive
+title: Flyt filer i SharePoint og OneDrive
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 0c18b9e7981d2f44cd2f849234afcc9471343aae
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 97c9711884e584fcd2f56dd90bef60dc8c946d38e4fd7503d776ef4827d5dba8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077356"
 ---
-# <a name="move-files-in-sharepoint-and-onedrive"></a>Flytte filer i SharePoint og OneDrive
+# <a name="move-files-in-sharepoint-and-onedrive"></a>Flyt filer i SharePoint og OneDrive
 
-Du kan flytte filer fra selve browseren til andre placeringer i SharePoint og OneDrive. Se [flytte eller kopiere filer](https://support.microsoft.com/office/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc?ui=en-US&rs=en-US&ad=US).
+Du kan flytte filer fra selve webbrowseren til forskellige placeringer inden SharePoint og OneDrive. Se [Flyt eller kopiér filer](https://support.microsoft.com/office/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc?ui=en-US&rs=en-US&ad=US).
 
 
 > [!NOTE]

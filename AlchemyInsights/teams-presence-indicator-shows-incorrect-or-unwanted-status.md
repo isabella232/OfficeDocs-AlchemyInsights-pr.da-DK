@@ -1,5 +1,5 @@
 ---
-title: Indikator for teams-tilstedeværelse viser statussen forkert eller uønsket
+title: Teams viser forkert eller uønsket status
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003301"
 - "6205"
-ms.openlocfilehash: ee870e4b47da5bf1fbe4bc9248fc3e36273c2c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e30545b995b198d3b12a71d0f68259c9cdf977d304d4d6f11ce360f53daf1fae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106468"
 ---
-# <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Indikator for teams-tilstedeværelse viser statussen forkert eller uønsket
+# <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Teams viser forkert eller uønsket status
 
-Teams angiver automatisk din status baseret på:
+Teams automatisk din status baseret på:
 
-- Aktivitet på din computer eller i teams mobil.
-- Indstillinger for møder og autosvar i Outlook.
+- Aktivitet på din computer eller på Teams mobil.
+- Møder og indstillinger for autosvar i Outlook.
 
-Du kan finde flere oplysninger [i brugerens tilstedeværelse i teams](https://docs.microsoft.com/microsoftteams/presence-admins).  
+Du kan finde flere oplysninger [under Brugertilstedeværelsen i Teams](https://docs.microsoft.com/microsoftteams/presence-admins).  
 
-Du kan dog angive en team status, der tilsidesætter disse, ved at vælge din aktuelle status og vælge en anden. Hvis du vil have mere at vide, skal du se [ændre din status i teams](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e).
+Du kan dog angive en Teams, der tilsidesætter disse, ved at vælge din aktuelle status og vælge en anden. Du kan få mere at [vide under Ændre din status i Teams](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e).

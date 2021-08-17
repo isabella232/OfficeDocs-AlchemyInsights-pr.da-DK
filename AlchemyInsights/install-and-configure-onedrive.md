@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078112"
 ---
 # <a name="install-and-configure-onedrive"></a>Installere og konfigurere OneDrive
 
-OneDrive-synkroniseringsklienten er forudinstalleret med Windows 10. Hvis du vil installere OneDrive til Windows 7 eller Mac eller få mobilappen til din telefon eller tablet, skal du gå til [https://onedrive.com/download](https://onedrive.com/download) .
+Klienten OneDrive-synkronisering forudinstalleret med Windows 10. Hvis du OneDrive til Windows 7 eller Mac eller hente mobilappen til din telefon eller tablet, skal du gå til [https://onedrive.com/download](https://onedrive.com/download) .
   
-Hvis du vil konfigurere OneDrive-synkroniseringsklienten i Windows, skal du se:
+Hvis du vil konfigurere OneDrive-synkronisering i Windows, skal du se:
   
-- [Konfigurationsvejledning til onedrive](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) til at komme i gang med onedrive-fillager, delings-, samarbejds-og synkroniseringsfunktioner.
+- [OneDrive opsætningsvejledning](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) til at komme i gang OneDrive med funktioner til lagring af filer, deling, samarbejde og synkronisering.
 
-- [Konfigurere computeren til at synkronisere dine OneDrive for Business-filer](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Konfigurer computeren til at synkronisere dine OneDrive for Business filer](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Synkroniser SharePoint-filer ved hjælp af den nye OneDrive-synkroniseringsklient](https://go.microsoft.com/fwlink/?linkid=871666)

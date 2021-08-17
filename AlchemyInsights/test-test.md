@@ -1,5 +1,5 @@
 ---
-title: Manglende termer fra SharePoint Online-ordbank
+title: Ord, der mangler SharePoint onlinevilkår Store
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,43 +11,42 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d99458d6f9b65e44ad5945c909b9a8861cf0b1f23463fcdfd5b8351b1c08d670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106413"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivere BitLocker-kryptering med Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivering af BitLocker-kryptering med Intune
 
-Intune Endpoint Protection-politikken kan bruges til at konfigurere Boitlocker-krypteringsindstillinger for Windows-enheder som beskrevet i: Windows10 (og nyere) indstillinger for at beskytte enheder ved hjælp af Intune
+Intune Endpoint Protection-politik kan bruges til at konfigurere krypteringsindstillinger for Boitlocker til Windows-enheder som beskrevet i: Windows10-indstillinger (og nyere) til at beskytte enheder ved hjælp af Intune
 
-Du skal være opmærksom på, at mange nyere enheder, der kører Windows 10, understøtter automatisk BitLocker-kryptering, der udløses uden anvendelse af MDM-politikken. Dette kan påvirke anvendelsen af politik, hvis ikke-standardindstillingerne er konfigureret. Du kan finde flere oplysninger under ofte stillede spørgsmål.
-
-
-Ofte stillede spørgsmål   : hvilke udgaver af Windows understøtter enhedskryptering ved hjælp af Endpoint Protection-politikken?
- A: indstillingerne i politikken for Intune Endpoint Protection implementeres ved hjælp af BitLocker-CSP.Ikke alle udgaver eller builds af Windows understøtter BitLocker-program til kryptografiske tjenester. 
-      På nuværende tidspunkt Windows-udgaver: Enterprise; Education, mobile, mobil virksomhed og Professional (fra Build 1809) understøttes.
+Du skal være opmærksom på, at mange nyere enheder, der Windows 10, understøtter automatisk bitlockerkryptering, som udløses uden anvendelse af MDM-politik. Dette kan påvirke anvendelse af politik, hvis ikke-standardindstillingerne er konfigureret. Se Ofte stillede spørgsmål for at få flere oplysninger.
 
 
-
-
-Sp: Hvis en enhed allerede er krypteret med BitLocker ved hjælp af standardindstillingerne for krypteringsmetode og krypteringsgrad (XTS-AES-128), anvender en politik med andre indstillinger automatisk kryptering af drevet med de nye indstillinger?
-
-Sv.: Nej. Hvis du vil anvende de nye krypteringsindstillinger, skal drevet først dekrypteres.
-
-Bemærk! de enheder, der tilmeldes med autopilot, automatisk kryptering, der skulle forekomme under OOBE, udløses ikke, før Intune-politikken evalueres, hvilket gør det muligt for de politikbaserede indstillinger, der skal bruges i stedet for OPERATIVSYSTEMETS standarder
+Ofte stillede spørgsmål: Hvilke versioner af Windows understøtter enhedskryptering ved hjælp Endpoint Protection politik?
+A: Indstillingerne i Intune Endpoint Protection politik implementeres ved hjælp af Bitlocker CSP.  Ikke alle versioner eller builds af Windows understøtter Bitlocker CSP. På nuværende tidspunkt Windows Editions: Enterprise; Education, Mobile, Mobile Enterprise og Professional (fra build 1809 og fremefter) understøttes.
 
 
 
 
-SP hvis en enhed krypteres som et resultat af anvendelsen af Intune-politikken, dekrypteres den, når politikken fjernes?
+SP: Hvis en enhed allerede er krypteret med BitLocker ved hjælp af OS-standardindstillingerne for krypteringsmetode og krypteringsstyrke (XTS-AES-128), anvendes der automatisk en politik med forskellige indstillinger, som udløser kryptering af drevet igen med de nye indstillinger?
 
-A: fjernelse af krypterings relateret politik medfører ikke dekryptering af de drev, der er konfigureret.
+Sv.: Nej. For at anvende de nye krypteringsindstillinger skal drevet først dekrypteres.
+
+Bemærk For enheder, der er tilmeldt Autopilot, udløses den automatiske kryptering, der ville forekomme under OOBE, ikke, før Intune-politikken er evalueret, hvilket tillader, at politikbaserede indstillinger bruges i stedet for OS-standardindstillingerne
 
 
 
 
-Sp: Hvorfor viser politikken for kompatibilitets overholdelse, at min enhed ikke har "BitLocker aktiveret", men det er?
+Sp Hvis en enhed er krypteret som et resultat af programmet af Intune-politik, bliver den dekrypteret, når denne politik fjernes?
 
-A: indstillingen "BitLocker-aktiveret" i overholdelses politik for Intune anvender Windows-DHA (Device Health attestation). Denne klient måler kun enhedstilstanden på starttidspunktet. Hvis en enhed ikke er blevet genstartet, siden BitLocker-kryptering blev fuldført, vil DHA-klienttjenesten ikke rapportere BitLocker som aktiv.
+A: Fjernelse af krypteringsrelateret politik medfører IKKE dekryptering af de drev, der blev konfigureret.
+
+
+
+
+Sp: Hvorfor viser intune-overholdelsespolitikken, at min enhed ikke har "BitLocker aktiveret", men det er den?
+
+A: Indstillingen "BitLocker enabled" i intune-overholdelsespolitik benytter Windows Device HealthAtion (AFSER). Denne klient måler kun enhedens tilstand ved start. Så hvis en enhed ikke er blevet genstartet, da bitlocker-krypteringen blev fuldført, rapporterer AFRRØV-klienttjenesten ikke bitlocker som værende aktiv.

@@ -1,5 +1,5 @@
 ---
-title: Start fra Windows
+title: Windows Frisk start
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1280"
 - "6700008"
-ms.openlocfilehash: 220f42d3005cdef272ed3e74a1101a52a9b47a8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e72728c1fb5f79a67c13e5f66c8fa3a2094299be3fa721dd043e549fe0dff278
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047286"
 ---
-# <a name="windows-fresh-start"></a>Start fra Windows
+# <a name="windows-fresh-start"></a>Windows Frisk start
 
-Windows-handlingen start Device-start enhed giver et alternativ til aftræks tilstanden for sletning og enheds aftrækning samt muligheden for at bevare tilmeldings tilstanden for enheder sammen med appsene for brugerens hjemmemappe og indstillinger.
+Windows Handlingen Ny Start-enhed giver et alternativ til handlingerne Sletning af enhed og Tilbagetrækning af enhed sammen med muligheden for at bevare enhedstilmeldingstilstanden sammen med brugerens apps og indstillinger for hjemmemappen.
 
-Hvis du vil have mere at vide, skal du se [brug af frisk start til at nulstille Windows 10-enheder med Intune](https://docs.microsoft.com/intune/device-fresh-start).
+Du kan få mere at [vide under Brug Frisk start til at nulstille Windows 10-enheder med Intune](https://docs.microsoft.com/intune/device-fresh-start).

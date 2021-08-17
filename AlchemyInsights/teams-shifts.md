@@ -1,5 +1,5 @@
 ---
-title: Team Skift
+title: Teams Vagter
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106471"
 ---
-# <a name="using-teams-shifts"></a>Brug af teams-Skift
+# <a name="using-teams-shifts"></a>Brug Teams Vagter
 
-Hvis du vil have mere at vide om administration af appen Skift, herunder hvordan du konfigurerer Skift, aktiverer Skift til brugere og administrerer appen Skift, skal du se:
+Du kan finde oplysninger om administration af appen Vagter, herunder hvordan du konfigurerer vagter, aktiverer Vagter for brugere og administrerer appen Vagter i:
  
-- [Administrer appen Skift til din organisation i Microsoft teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Aktivere eller deaktivere skifter for bestemte brugere i organisationen](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Administrer appen Vagter for din organisation i Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Aktivér eller deaktiver Vagter for bestemte brugere i organisationen.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Hvis du vil have mere at vide om Skift til teams, herunder administration af skifteholds tidsplan, skal du se [Skift for teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Hvis du vil have mere at vide om vagter Teams vagter, herunder administration af en tidsplan for [Vagter, skal du se Vagter for Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-2020, Microsoft Staffhub er blevet udgået **fra juni 30**. Hvis du vil have flere oplysninger, skal du se [Microsoft StaffHub er blevet udgået](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**Fra og med d. 30. juni 2020** er Microsoft Staffhub udgået. Du kan finde flere oplysninger i [Microsoft StaffHub er udgået](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
 
