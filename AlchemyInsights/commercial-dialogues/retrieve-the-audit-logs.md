@@ -1,5 +1,5 @@
 ---
-title: Hente overvågningslogfilerne
+title: Hent overvågningslogfilerne
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481489"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893585"
 ---
-# <a name="retrieve-the-audit-logs"></a>Hente overvågningslogfilerne
+# <a name="retrieve-the-audit-logs"></a>Hent overvågningslogfilerne
 
-Når du åbner overvågningsloggen første gang, vil den være tom. Du skal udføre en søgning for at se, hvad der er på det sted. Sådan kan du lave en generel søgning efter alle aktiviteter:
+Når du åbner overvågningsloggen første gang, vil den være tom. Du skal udføre en søgning for at se, hvad der er der. Sådan kan du udføre en generel søgning efter alle aktiviteter:
 
-1. Gå til [søgesiden for søgning](https://protection.office.com/#/unifiedauditlog) i overvågningsloggen (eller naviger til Administration Security &  >  **Compliance Center** Search &  >  **undersøgelseslogsøgning).**  >  
-1. I feltet **Aktiviteter** skal du acceptere standardindstillingen Vis **resultater for alle aktiviteter.**
-1. Angiv datointervallet, og  acceptér standarden for at returnere resultater for alle brugere i feltet Brugere, eller vælg brugernavnet for den bruger, du vil undersøge.
-1. Klik **på Søg.** Aktiviteterne vises under **Resultater.**
-1. Hvis du vil have vist detaljer, skal du klikke på en aktivitet og derefter **vælge Flere oplysninger.** Du får vist flere oplysninger som f.eks Klient, Bruger, der udførte handlingen osv.
+1. Gør en af følgende handlinger:
+   - I Microsoft 365 Overholdelsescenter på <https://compliance.microsoft.com> skal du gå til **Løsningsrevision** \> . Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://compliance.microsoft.com/auditlogsearch> .
+   - I portalen Microsoft 365 Defender på <https://security.microsoft.com> skal du gå til **Overvågning**. Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://security.microsoft.com/auditlogsearch> .
+
+2. På fanen **Søg** på siden **Overvågning** skal du konfigurere følgende indstillinger:
+   - **Dato- og tidsinterval:** Markér dato/klokkeslæt-området i **felterne Start** **og** Slut.
+   - **Aktiviteter:** **Bekræft, at Vis resultater for alle aktiviteter** er markeret.
+   - **Brugere:** Acceptér den tomme standardværdi for at returnere resultater for alle brugere, eller angiv en eller flere brugere.
+
+3. Når du er færdig, skal du klikke på **Søg**. Aktiviteterne vises på den nye **overvågningssøgningsside.**
+
+4. Vælg en aktivitet i resultaterne for at åbne pop op-dialogboksen med detaljer. Du kan se flere oplysninger, f.eks Klient, Bruger, der udførte handlingen osv.
+
+Du kan få mere at vide [under Søg i overvågningsloggen for at undersøge almindelige supportproblemer.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

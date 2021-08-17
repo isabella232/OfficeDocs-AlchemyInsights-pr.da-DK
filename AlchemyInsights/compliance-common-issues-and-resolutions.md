@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: b3345e8ec7ade4b7657a706dca088cbdd501ef3be0efe67e65facdabbaf5c98a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045018"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893517"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Almindelige problemer og løsninger i Overholdelse
 
-Hvis du vil have hjælp til at få vist beskeder, [skal du se Beskedpolitikker i Security and Compliance Center](/microsoft-365/compliance/alert-policies).
+Hvis du vil have hjælp til at få vist beskeder, [skal du se Beskedpolitikker i Security and Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
 Her er nogle af de mest almindelige emner for overholdes:
 
-- Sådan konfigurerer du et arkiv og dine meddelelser, så de ikke automatisk flyttes til arkivet: Hvis du har brug for at [aktivere et arkiv, konfigurere en arkiveringspolitik](/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)og [øge arkivstørrelsen](/microsoft-365/compliance/enable-unlimited-archiving).
+- Sådan konfigurerer du et arkiv og dine meddelelser, så de ikke automatisk flyttes til arkivet: Hvis du har brug for at [aktivere et arkiv, konfigurere en arkiveringspolitik](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)og [øge arkivstørrelsen](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
 
-- Opbevaringspolitikker: Spørgsmål om [beregning af opbevaringsalder](/exchange/security-and-compliance/messaging-records-management/retention-age), [tilføje eller fjerne opbevaringsmærker](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [brug af opbevaringspolitikker i et sikkerheds- og overholdelsescenter](/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) til at bevare eller slette indhold.
+- Opbevaringspolitikker: Spørgsmål om [beregning af opbevaringsalder](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-age), [tilføje eller fjerne opbevaringsmærker](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [brug af opbevaringspolitikker i et sikkerheds- og overholdelsescenter](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) til at bevare eller slette indhold.
 
-- Konfigurer EDiscovery- og indholdssøgninger og -eksport: [Indholdssøgning](/microsoft-365/compliance/content-search) [og Eksportér søgeresultater](/microsoft-365/compliance/export-search-results).
+- Konfigurer EDiscovery- og indholdssøgninger og -eksport: [Indholdssøgning](https://docs.microsoft.com/microsoft-365/compliance/content-search) [og Eksportér søgeresultater.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-- Overvågning i O365: [Søg i overvågningsloggen i O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+- Overvågning i O365: [Søg i overvågningsloggen i O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-- Forebyggelse af datatab(DLP): Se [Oversigt over forebyggelse af datatab (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) for at få flere oplysninger.
+- Forebyggelse af datatab(DLP): Se [Oversigt over forebyggelse af datatab (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies) for at få flere oplysninger.
  
-- Følsomhedsmærkater: Du kan få mere at vide [under Opret og konfigurer følsomhedsmærkater og deres politikker.](/microsoft-365/compliance/create-sensitivity-labels)
+- Følsomhedsmærkater: Du kan få mere at vide [under Opret og konfigurer følsomhedsmærkater og deres politikker.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
-- Visning af beskedpolitikker: [Se beskedpolitikker i Microsoft 365 Overholdelsescenter](/microsoft-365/compliance/alert-policies).
+- Visning af beskedpolitikker: [Se beskedpolitikker i Microsoft 365 Overholdelsescenter](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
-- Komplikationscenterets tilladelser: [Se Tilladelser i Microsoft 365 Overholdelsescenter](/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
+- Complicance Center-tilladelser: [Se Tilladelser i Microsoft 365 Overholdelsescenter](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Bemærk**: Hvis du ønsker et mere specifikt svar om et overholdelsesproblem, kan du prøve at omformulere dit spørgsmål, så det inkluderer de fejl, du oplever, eller de funktioner, du bruger.
