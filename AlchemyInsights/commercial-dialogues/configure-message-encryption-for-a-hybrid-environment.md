@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 22c2468b7639680b447b6464431a79b69f7198c3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 59360a040fe413e92cd880b1225b9006384a823f6e8abeb7ef922949b9a874fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035216"
 ---
 # <a name="configure-message-encryption-for-a-hybrid-environment"></a>Konfigurere meddelelseskryptering for et hybridmiljø
 
-For hybride Exchange-miljøer kan lokale brugere kun sende krypteret mail ved hjælp af Office-meddelelseskryptering (OME), hvis mail dirigeres via Exchange Online.
+For hybride Exchange-miljøer kan lokale brugere kun sende krypterede mails ved hjælp af Office-meddelelseskryptering (OME), hvis mail dirigeres gennem Exchange Online.
 
 Hvis du vil kryptere mails ved hjælp af OME, skal du udføre følgende trin:
 
-1. Brug guiden [Hybridkonfiguration til](https://docs.microsoft.com/Exchange/hybrid-configuration-wizard) at konfigurere dit hybridmiljø. Der kræves ingen særlige trin for at konfigurere kryptering.
-2. [Konfigurer dine regler for mailflow til kryptering, som](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) du normalt ville gøre det.
+1. Brug guiden [Hybridkonfiguration til](https://docs.microsoft.com/Exchange/hybrid-configuration-wizard) at konfigurere dit hybridmiljø. Der kræves ingen særlige trin til at konfigurere kryptering.
+2. [Konfigurer dine regler for mailflow til kryptering på](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) samme måde, som du normalt ville gøre det.
 
 

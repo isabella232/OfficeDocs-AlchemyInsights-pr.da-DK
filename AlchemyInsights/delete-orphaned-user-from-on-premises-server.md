@@ -1,5 +1,5 @@
 ---
-title: Slet mistede brugere fra lokal server
+title: Slet uafhængige brugere fra en server i det lokale miljø
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1725"
 - "9000179"
-ms.openlocfilehash: 537ae7edebfa5a4ab71c2141d549d732ed4f883f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6af617fa4235868f0754ff4c06f4cc73b1700ef14ea449dd1886ab100ddd384
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102239"
 ---
-# <a name="delete-orphaned-user-from-on-premises-server"></a>Slet mistede brugere fra lokal server
+# <a name="delete-orphaned-user-from-on-premises-server"></a>Slet uafhængige brugere fra en server i det lokale miljø
 
-Hvis du vil fjerne en tabt bruger, skal du følge disse trin:
+Hvis du vil fjerne en uafhængig bruger, skal du følge disse trin:
 
-1. Gennemtving Katalogsynkronisering ved at følge vejledningen i [Hvad er hybrid identitet med Azure Active Directory?](https://technet.microsoft.com/library/jj151771.aspx#bkmk_synchronizedirectories).
+1. Gennemtving katalogsynkronisering ved at [følge vejledningen i Hvad er hybrididentitet med Azure Active Directory?](https://technet.microsoft.com/library/jj151771.aspx#bkmk_synchronizedirectories).
 
-2. Hvis du vil bekræfte Katalogsynkronisering, skal du se [Hvad er hybrid identitet med Azure Active Directory?](https://technet.microsoft.com/library/jj151797.aspx).
+2. Se Hvad er hybrididentitet med Azure Active Directory? for [at bekræfte katalogsynkronisering.](https://technet.microsoft.com/library/jj151797.aspx)
 
-3. Hvis Synkroniser fungerer korrekt, men Active Directory-objekt sletningen ikke overføres til Azure AD, skal du fjerne det mistede objekt manuelt ved hjælp af et af følgende Azure Active Directory-modul til Windows PowerShell-cmdletter:
+3. Hvis synkronisering fungerer korrekt, men Active Directory-objektsletningen ikke overføres til Azure AD, skal du manuelt fjerne det uafhængige objekt ved hjælp af en af følgende Azure Active Directory-modul til Windows PowerShell-cmdlet'er:
 
-    Fjern-MsolContact  
-    Fjern-MsolGroup  
-    Fjern-MsolUser
+    Remove-MsolContact  
+    Remove-MsolGroup  
+    Remove-MsolUser
 
-    Hvis du f. eks fjerner et barneret bruger-ID john.smith@contoso.com, der oprindeligt blev oprettet ved hjælp af katalogsynkronisering, skal du køre cmdlet'en:
+    Hvis du f.eks. vil fjerne uafhængige bruger-john.smith@contoso.com, der oprindeligt blev oprettet ved hjælp af katalogsynkronisering, skal du køre cmdlet'en:
 
-    Fjern-MsolUser – UserPrincipalName John.Smith@Contoso.com
+    Remove-MsolUser – UserPrincipalName John.Smith@Contoso.com

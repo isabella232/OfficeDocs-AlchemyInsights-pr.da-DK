@@ -1,5 +1,5 @@
 ---
-title: Kan ikke oprette et team i teams
+title: Du kan ikke oprette et team i Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: 748008f11b3b480a4003ae4c1e6562fa6f0ce358
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e4298bbdb4d9e3f606c5bdf2bd0511ad56809bf616f1b02242519b2172c64e36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748535"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035540"
 ---
-# <a name="cant-create-a-team-in-teams"></a>Kan ikke oprette et team i teams
+# <a name="cant-create-a-team-in-teams"></a>Du kan ikke oprette et team i Teams
 
-Din team administrator har muligvis ikke givet dig de tilladelser, der kræves for at oprette teams.  
+Din Teams administrator har muligvis ikke givet dig de nødvendige tilladelser til at oprette teams.  
 
-Se administratoren om at oprette eller ændre organisationens indstillinger for sikkerhedsgrupper i Microsoft 365. Hvis du er føjet til sikkerhedsgruppen, kan du oprette teams.
+Se administratoren om oprettelse eller ændring af organisationens indstillinger for sikkerhedsgruppe i Microsoft 365. Hvis du bliver føjet til sikkerhedsgruppen, kan du oprette teams.
