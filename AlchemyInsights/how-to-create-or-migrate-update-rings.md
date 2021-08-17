@@ -1,5 +1,5 @@
 ---
-title: Sådan oprettes eller overføres opdaterings ringninger
+title: Sådan opretter eller overfører du opdateringsringe
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078796"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Sådan oprettes eller overføres opdaterings ringninger
+# <a name="how-to-create-or-migrate-update-rings"></a>Sådan opretter eller overfører du opdateringsringe
 
-Følg nedenstående trin, hvis du har konfigureret Windows 10-opdateringsindstillinger i den klassiske Intune-Portal og vil overføre dem til Intune på Azure-portalen:
+Følg nedenstående trin, hvis du har konfigureret Windows 10 opdateringsindstillinger i Den klassiske Intune-portal og gerne vil overføre dem til Intune på Azure-portalen:
 
-1. Gå til Azure-portalen, og klik på **alle tjenester**.
-2. Skriv **Intune**i feltet **filter** . I resultaterne skal du klikke på **Microsoft Intune**.
-3. Klik på **software opdateringer**  >  **Windows 10-opdaterings ringning**  >  **Opret**.
-4. Skriv et navn, en beskrivelse, og klik på **Konfigurer**.
-5. Konfigurere indstillingerne for din organisations softwareopdatering.
-6. Vælg **OK**.
-7. Vælg **Opret**i **Opret opdaterings ring**.
+1. Gå til Azure-portalen, og klik **på Alle tjenester**.
+2. I feltet **Filter** skal du skrive **Intune**. I resultaterne skal du klikke **på Microsoft Intune**.
+3. Klik **på**  >  **Softwareopdateringer, Windows 10 Opdateringsringene**  >  **Opret.**
+4. Angiv et navn, en beskrivelse, og klik på **Konfigurer**.
+5. Konfigurer dine organisationers indstillinger for softwareopdatering.
+6. Vælg **OK.**
+7. I **Opret opdateringsring** skal du vælge **Opret**.
