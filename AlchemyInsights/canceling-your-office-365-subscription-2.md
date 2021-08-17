@@ -1,5 +1,5 @@
 ---
-title: Vil du annullere dit Microsoft 365-abonnement?
+title: Vil du opsige dit Microsoft 365-abonnement?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686916"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893949"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Vil du annullere dit Microsoft 365-abonnement?
+# <a name="canceling-your-microsoft-365-subscription"></a>Vil du opsige dit Microsoft 365-abonnement?
 
 Vi er kede af, at du har opsn8et!
   
@@ -33,4 +33,4 @@ Baseret på organisationens data mener vi, at alle dine aktuelle abonnementer ha
 
 **Refusion:** Du får krediteret et forholdsmæssigt beløb inden for den næste faktureringscyklus.
 
-Du kan få mere at vide under [Annuller dit abonnement.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Du kan få mere at vide under [Annuller dit abonnement.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

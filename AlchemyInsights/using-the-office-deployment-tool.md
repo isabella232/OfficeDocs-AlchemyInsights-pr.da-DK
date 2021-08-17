@@ -1,5 +1,5 @@
 ---
-title: Brug af Office-udrulnings værktøjet
+title: Brug af Office til udrulning
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083764"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Brug af Office udrulnings værktøj (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Brug af Office (ODT)
 
-Du bruger Office udrulnings værktøj (ODT) til at installere Office 365-versioner af Office. Office udrulnings værktøj (setupodt.exe) køres fra kommandolinjen og bruger en XML-konfigurationsfil til at bestemme, hvilke indstillinger der skal anvendes, når du installerer Office.
+Du kan bruge Office (ODT) til at installere Office 365 versioner af Office. Installationsværktøjet Office (setup.exe) køres fra kommandolinjen og bruger en XML-konfigurationsfil til at bestemme, hvilke indstillinger der skal anvendes, når du Office.
   
-1. Hent den nyeste version af Office-udrulnings værktøjet fra [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Download den nyeste version af Office fra [Microsoft Download Center.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
 
-2. Brug [Office-tilpasnings værktøjet (okt)](https://config.office.com) til at vælge dine installations præferencer og oprette XML-konfigurationsfilen. Eksportér konfigurationsfilen, og sæt den lokalt på den samme mappe, hvor setupodt.exe er placeret.
+2. Brug [OKT Office (Customization Tool) til at vælge](https://config.office.com) installationsindstillinger og oprette XML-konfigurationsfilen. Eksportér konfigurationsfilen, og placer den lokalt i den samme mappe, setup.exe er placeret.
 
-    **Bemærk:** Office-installationsproblemer opstår ofte på grund af forkert konfigurerede eller malformatted-konfigurationsfiler. For at undgå sådanne problemer anbefaler vi, at du bruger Office-tilpasnings værktøjet til at oprette konfigurationsfilen. Du kan også importere eksisterende konfigurationsfiler til Office-tilpasnings værktøjet.
+    **Bemærk:** Office ofte opstår på grund af forkert konfigurerede eller forkert formaterede konfigurationsfiler. For at undgå sådanne problemer anbefaler vi, at du bruger Office til at oprette konfigurationsfilen. Du kan også importere eksisterende konfigurationsfiler til Office-tilpasningsværktøjet.
 
-3. Fra en kommandoprompt med administratorrettigheder skal du skifte til den placering, hvor setupodt.exe er placeret, og køre Office-udrulnings værktøjet i overførselstilstand og angive den konfigurationsfil, du lige har gemt. I dette eksempel hedder konfigurationsfilen Configuration.xml:
+3. Fra en kommandoprompt med administrator administrator skal du skifte til den placering, hvor setup.exe er placeret, og køre Office-udrulningsværktøjet i downloadtilstand og angive den konfigurationsfil, du lige har gemt. I dette eksempel kaldes konfigurationsfilen Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. Kør Office-udrulnings værktøjet i konfigurationstilstand, og Angiv konfigurationsfilen.
+4.Kør Office i konfigurationstilstand, og angiv konfigurationsfilen.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**Bemærk:** Du skal køre dette trin fra den klientcomputer, hvor du vil installere Office, og du skal have lokale administratorrettigheder på den computer.
+**Bemærk!** Du skal køre dette trin fra den klientcomputer, hvor du vil installere Office og du skal have lokale administratorrettigheder på computeren.
 
-Du kan få mere at vide om, hvordan du bruger Office-udrulnings værktøjet til dine Microsoft 365-apps til virksomheds installationsscenarier, under [Oversigt over Office-udrulnings værktøjet](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Du kan finde flere oplysninger om, hvordan du bruger Office-tilpasnings værktøjet, under [Oversigt over Office-tilpasnings værktøjet](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Du kan få mere at vide Office at bruge udrulningsværktøjet Microsoft 365 Apps for enterprise dine Microsoft 365 Apps for enterprise i Oversigt [over Office-udrulningsværktøj.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) Du kan finde flere oplysninger om, hvordan du Office værktøjet til tilpasning af Office [oversigt over tilpasningsværktøjet.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)

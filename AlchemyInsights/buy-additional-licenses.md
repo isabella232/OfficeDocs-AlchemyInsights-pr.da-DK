@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499074"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313728"
 ---
 # <a name="buy-additional-licenses"></a>Køb flere licenser
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499074"
 3. Under **Nyt antal** i feltet Licenser **i** alt skal du angive det samlede antal licenser, du ønsker for dette abonnement. Hvis du f.eks. har 100 licenser, og du vil tilføje 25 mere, skal du angive 125.
 4. Vælg **Gem**.
 
-Du kan få mere at vide [under Køb eller fjern licenser.](/microsoft-365/commerce/licenses/buy-licenses)
+Du kan få mere at vide [under Køb eller fjern licenser.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Yderligere ressourcer**
 
-[Tildel licenser til brugere i Microsoft 365 til virksomheder](/microsoft-365/admin/manage/assign-licenses-to-users)
+[Tildel licenser til brugere i Microsoft 365 til virksomheder](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

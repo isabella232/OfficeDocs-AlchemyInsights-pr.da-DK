@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 849edc87c56b902a514cf3546eac3719bdadf55470a3011b694182b1e22e2433
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498822"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892421"
 ---
 # <a name="update-credit-card-information"></a>Opdater kreditkortoplysninger
 
@@ -44,4 +44,4 @@ ms.locfileid: "54498822"
 
 Hvis du har problemer med indlæsning af siden, kan du prøve at åbne websiden i en anden browser, eller du kan prøve at åbne siden i et privat browservindue, f.eks. et InPrivate-vindue i Microsoft Edge eller et inkognito-vindue i Google Chrome. 
 
-Få mere at vide under [Administrer betalingsmetoder.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Få mere at vide under [Administrer betalingsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

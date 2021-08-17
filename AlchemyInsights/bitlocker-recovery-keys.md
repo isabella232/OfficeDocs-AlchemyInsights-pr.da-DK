@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060058"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Adgang til BitLocker-genoprettelsesnøgler
 
-Når du konfigurerer BitLocker-indstillinger beskyttelsespolitik for Intune Endpoint, er det muligt at definere, om BitLocker-genoprettelsesoplysninger skal gemmes i Azure Active Directory.
+Når du konfigurerer BitLocker-indstillinger i Endpoint Protection, er det muligt at definere, om BitLocker-genoprettelsesoplysninger skal gemmes i Azure Active Directory.
 
 Hvis denne indstilling er konfigureret, skal de gemte gendannelsesdata være synlige for en Intune-administrator som en del af enhedens postdata i bladet for Intune-enheder på to måder:
 
@@ -47,5 +47,5 @@ Hvis enheden blev krypteret før tilmelding i Intune, kan genoprettelsesnøglen 
  
 Hvis enheden blev krypteret som et resultat af konfiguration via domænebaseret gruppepolitik, kan genoprettelsesoplysningerne gemmes i det lokale Active Directory.
 
-Hvis du har konfigureret en politik for slutpunktsbeskyttelse til at gemme genoprettelsesnøglen i Azure Active Directory, men nøglen til en bestemt enhed ikke er blevet uploadet, kan du udløse overførslen ved at rotere genoprettelsesnøglen for den pågældende enhed fra MEM-konsollen. Du kan få mere at vide [under Roter BitLocker-genoprettelsesnøgler](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
+Hvis du har konfigureret en politik for slutpunktsbeskyttelse til at gemme genoprettelsesnøglen i Azure Active Directory men nøglen til en bestemt enhed ikke er blevet uploadet, kan du udløse overførslen ved at rotere genoprettelsesnøglen for den pågældende enhed fra MEM-konsollen. Du kan få mere at vide [under Roter BitLocker-genoprettelsesnøgler](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 
