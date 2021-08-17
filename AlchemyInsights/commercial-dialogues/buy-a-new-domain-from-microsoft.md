@@ -1,5 +1,5 @@
 ---
-title: Køb et nyt domæne fra Microsoft
+title: Køb et nyt domæne hos Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 8c32ffd60ffbc9868e845df154fee309b96fabcc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 473cce984384a79e68b2e7b4f82ccfd6fd5cf867f12875973e2d8e11425824c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103510"
 ---
-# <a name="buy-a-new-domain-from-microsoft"></a>Køb et nyt domæne fra Microsoft
+# <a name="buy-a-new-domain-from-microsoft"></a>Køb et nyt domæne hos Microsoft
 
-Hvis du vil købe et nyt domæne fra Microsoft, skal du udføre følgende trin:
+Hvis du vil købe et nyt domæne hos Microsoft, skal du udføre følgende trin:
 
-1. Gå til **Konfiguration > Domæner, og** klik på Køb **domæne.** 
+1. Gå til **Konfiguration > Domæner, og** klik på Køb **domæne**. 
 2. Følg vejledningen i guiden.

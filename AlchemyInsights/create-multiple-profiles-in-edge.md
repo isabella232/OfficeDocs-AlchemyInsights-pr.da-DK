@@ -14,22 +14,22 @@ ms.custom:
 - "6976"
 - "9004596"
 - "8216"
-ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 6202e1aae10fd9a55c20748b7cd34588056fde45f1c4d5c429da651f7a9bb6a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103402"
 ---
 # <a name="create-multiple-profiles-in-microsoft-edge"></a>Opret flere profiler i Microsoft Edge
 
-Profiler gør det muligt for flere brugere at fungere i et delt miljø, mens de bevarer adgangen til deres tilpassede browserindstillinger, bogmærker og udvidelser. Hvis du vil tilføje flere profiler i Microsoft Edge, skal du følge disse trin:
+Profiler gør det muligt for flere brugere at fungere i et delt miljø, mens de bevarer adgangen til deres personlige browserindstillinger, bogmærker og udvidelser. Hvis du vil tilføje flere profiler Microsoft Edge, skal du følge disse trin:
 
 1. Start Microsoft Edge.
-    - Hvis du ikke er logget på, skal du vælge profilikonet > **Log på.** Dette vil automatisk tage dig til **siden Administrer profilindstillinger.**
-    - Hvis du er logget på, skal du vælge profilikonet > **Administrer profilindstillinger.**
-2. Vælg **Profil > + Tilføj profil > Tilføj.**
-3. Vælg **Log på for at synkronisere data for** at oprette forbindelse til en eksisterende konto.
-4. Vælg **Ja** for at aktivere synkronisering af logon, og vælg derefter **Bekræft.**
+    - Hvis du ikke er logget på, skal du vælge profilikonet > **Log på**. Dette vil automatisk tage dig til **siden Administrer profilindstillinger.**
+    - Hvis du er logget på, skal du vælge profilikonet > **Administrer profilindstillinger**.
+2. Vælg **Profil > + Tilføj profil, > Tilføj.**
+3. Vælg **Log på for at synkronisere data** for at oprette forbindelse til en eksisterende konto.
+4. Vælg **Ja** for at aktivere synkronisering af logon, og vælg derefter **Bekræft**.
 
     Den ekstra profil er nu tilgængelig til brug.
