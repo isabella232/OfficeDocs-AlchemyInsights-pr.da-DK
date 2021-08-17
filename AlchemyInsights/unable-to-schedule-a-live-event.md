@@ -1,5 +1,5 @@
 ---
-title: Kan ikke planlægge en live-begivenhed
+title: Det er ikke muligt at planlægge en livebegivenhed
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6139"
 - "9000208"
-ms.openlocfilehash: a0507ee12efb3a076b962de72afda4a612fa1cfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a1beee8c6a108ade8c27ae9a20750f13c472c6913240a432bfb0599a1a715b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073774"
 ---
-# <a name="unable-to-schedule-a-live-event"></a>Kan ikke planlægge en live-begivenhed
+# <a name="unable-to-schedule-a-live-event"></a>Det er ikke muligt at planlægge en livebegivenhed
 
-Licensen til service planen for din organisation understøtter ikke teams live begivenheder. Teams live-begivenheder er kun tilgængelige for E1-, E3-, E5-, a3-og A5-licenser.
+Din organisations serviceabonnementslicens understøtter ikke Teams Live Events. Teams Livebegivenheder er kun tilgængelige for E1-, E3-, E5-, A3- og A5-licenser.
 
-- Det angivne bruger-ID har ikke en online postkasse, som er påkrævet for teams, der er i live Logbog. Kontakt din IT-administrator for at få hjælp. Du kan finde flere oplysninger i afsnittet [oprette brugerpostkasser i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
+- Det angivne bruger-id har ikke en onlinepostkasse, som er påkrævet til Teams planlægning af livebegivenhed. Kontakt din it-administrator for at få hjælp. Du kan få mere at [vide under Opret brugerpostkasser i Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
-- Din organisation har ikke en tilgængelig Stream-licens, eller den angivne bruger er ikke konfigureret korrekt i Stream-administrations portalen. Du kan finde flere oplysninger i [live events in Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview).
+- Din organisation har ikke en streamlicens, eller den angivne bruger er ikke konfigureret korrekt i Stream-administrationsportalen. Du kan få mere at vide [under Livebegivenheder i Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview).
 
-- Din organisation er i et land, der ikke understøtter teams live begivenheder på nuværende tidspunkt. Vi arbejder hårdt på at aktivere teams live begivenheder i alle områder. Du kan finde flere oplysninger i [plan lægge live-begivenheder i Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events).
+- Din organisation er i et land, der ikke understøtter Teams livebegivenheder på nuværende tidspunkt. Vi arbejder hårdt på at aktivere Teams livebegivenheder i alle områder. Du kan få mere at [vide under Plan for livebegivenheder i Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events).

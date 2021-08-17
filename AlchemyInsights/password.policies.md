@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "9277"
-ms.openlocfilehash: 826e266d08aa68c0d4213d8058a0244f404fe965
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 12751288d04a2ec5993bf4a546b7d0c862f8f171f5bfd7a337cb79cb95792056
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040824"
 ---
 # <a name="password-policies"></a>Adgangskodepolitikker
 
@@ -30,7 +30,7 @@ ms.locfileid: "50743954"
 
 **Jeg ved ikke, hvordan jeg angiver eller kontrollerer udløbspolitikker for adgangskoder**
 
-- Du kan angive og kontrollere udløbspolitikken for skybrugere i din lejer ved hjælp af PowerShell. Følg vejledningen i denne artikel: Angiv [eller kontrollér adgangskodepolitikker ved hjælp af PowerShell](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
+- Du kan angive og kontrollere udløbspolitikken for skybrugere i din lejer ved hjælp af PowerShell. Følg instruktionerne i denne artikel: [Angiv eller kontrollér adgangskodepolitikker ved hjælp af PowerShell](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
 - Udløbspolitikken for adgangskoder for lokale brugere er angivet i dit lokale AD.
 
 **Andre nyttige links:**

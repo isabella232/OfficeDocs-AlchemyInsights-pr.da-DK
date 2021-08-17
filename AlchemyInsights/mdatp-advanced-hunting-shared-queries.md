@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp avancerede jagt delte forespørgsler
+title: 9001220 mdatp avanceret jagt på delte forespørgsler
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299752"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042114"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Deling af avancerede jagt forespørgsler
+# <a name="sharing-advanced-hunting-queries"></a>Deling af avancerede forespørgselsforespørgsler
 
-Avancerede jagt forespørgsler kan deles mellem brugere i den samme organisation. Du kan også finde forespørgsler, der er delt offentligt om GitHub. Disse forespørgsler gør det muligt hurtigt at gennemføre specifikke trusler om trusler uden at skulle skrive forespørgsler fra bunden.
+Avancerede forespørgselsforespørgsler kan deles mellem brugere i samme organisation. Du kan også finde forespørgsler, der deles offentligt på GitHub. Disse forespørgsler gør det muligt for dig hurtigt at følge bestemte scenarier med trusselssøgning uden at skulle skrive forespørgsler fra bunden.
   
-Hvis du vil have mere at vide, skal du se [brug af delte forespørgsler i avanceret jagt](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Du kan få mere at [vide under Brug delte forespørgsler til avanceret jagt](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
