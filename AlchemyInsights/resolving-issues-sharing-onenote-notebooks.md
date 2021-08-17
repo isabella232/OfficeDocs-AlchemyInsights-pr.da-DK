@@ -1,5 +1,5 @@
 ---
-title: Løsning af problemer med at dele OneNote-notesbøger
+title: Løse problemer med deling OneNote notesbøger
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6048"
 - "9000755"
-ms.openlocfilehash: aa0cf8136c3fed80a871480d89349f188bf3d742
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8f1b0ef242d1599ff119c213d72eaed87aba58d96e97309abf18269eddd00e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110026"
 ---
-# <a name="resolving-issues-sharing-onenote-notebooks"></a>Løsning af problemer med at dele OneNote-notesbøger
+# <a name="resolving-issues-sharing-onenote-notebooks"></a>Løse problemer med deling OneNote notesbøger
 
-Knappen del er placeret i øverste højre hjørne af OneNote.
+Knappen Del findes i øverste højre hjørne af OneNote.
 
 - Skriv én mailadresse for at dele notesbogen.
-- Klik på  **del**.
+- Klik **på Del.**
 
-Luk og genåbn notesbogen i OneNote for at starte deling igen.
+Luk og genååå notesbogen OneNote for at starte deling igen.

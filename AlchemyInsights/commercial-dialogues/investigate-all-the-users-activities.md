@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949381"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898790"
 ---
 # <a name="investigate-all-the-users-activities"></a>Undersøg alle brugernes aktiviteter
 
 Sådan gør du:
 
-1. Gå til [Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Vælg **Søgning i**  >  **[overvågningslogsøgning](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Gør en af følgende handlinger:
+   - I Microsoft 365 Overholdelsescenter på <https://compliance.microsoft.com> skal du gå til **Løsningsrevision** \> . Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://compliance.microsoft.com/auditlogsearch> .
+   - I Microsoft 365 Defender på <https://security.microsoft.com> skal du gå til **Overvågning**. Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Hvis du ser en meddelelse om, at du skal aktivere funktionen, kan du slå den til nu. Hvis funktionen ikke er slået til, kan søgeresultaterne ikke trække data fra tidligere datoer.
 
-1. Hvis du er interesseret i en bestemt aktivitet, skal du vælge den på **listen** Aktiviteter. Hvis ikke, returneres som standard alle aktiviteter for den valgte bruger.
-1. Angiv datointervallet, og markér **brugernavnet** for den bruger, du vil undersøge, i feltet Brugere. Du kan vælge mere end én bruger ad gangen.
-1. Klik **på Søg**. Aktiviteterne vises under **Resultater.** Du får vist IP-adressen, brugeren og aktivitetsnavnet.
-1. Hvis du vil hente resultaterne, skal du **vælge Eksportér resultater**.
-1. Hvis du vil gennemse detaljerne, skal du markere aktiviteten og derefter **udvide Flere oplysninger**.
+2. På fanen **Søg** på siden **Overvågning** skal du konfigurere følgende indstillinger:
+   - **Dato- og tidsinterval:** Markér dato/klokkeslæt-området i **felterne Start** **og** Slut.
+   - **Aktiviteter:** Hvis du er interesseret i en bestemt aktivitet, skal du vælge den på listen. Ellers returnerer standardværdien **Vis resultater for alle** aktiviteter alle aktiviteter.
+   - **Brugere:** Acceptér den tomme standardværdi for at returnere resultater for alle brugere, eller angiv en eller flere brugere.
 
-Du kan få mere at vide [under Søg i overvågningsloggen for at foretage fejlfinding af almindelige scenarier.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. Når du er færdig, skal du klikke på **Søg**. Aktiviteterne vises på den nye **overvågningssøgningsside.** Du får vist **IP-adressen**, **bruger og** **aktivitetsnavn.**
+
+4. Hvis du vil hente resultaterne, skal du **vælge** \> **Eksportér Hent alle resultater**.
+
+5. Vælg en aktivitet i resultaterne for at åbne pop op-dialogboksen med detaljer.
+
+Du kan få mere at vide [under Søg i overvågningsloggen for at undersøge almindelige supportproblemer.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
