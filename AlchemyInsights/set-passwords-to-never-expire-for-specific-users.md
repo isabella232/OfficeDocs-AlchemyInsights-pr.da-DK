@@ -15,16 +15,16 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0f71f3a73d159878e29a5aca2fc61aa177471205469bd7f941daf2a67bdcb68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51788985"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108622"
 ---
 # <a name="set-passwords-to-never-expire"></a>Indstil adgangskoder til aldrig at udløbe
 
-Hvis du vil indstille ALLE adgangskoder til aldrig at udløbe, skal du i Microsoft 365 Administration gå til Indstillinger Org-indstillinger > Udløbspolitik for sikkerhed og beskyttelse af personlige oplysninger og fjerne en kontrol af"Angiv brugeradgangskoder til at udløbe efter et antal  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** dage".
+Hvis du vil indstille ALLE adgangskoder til aldrig at udløbe, skal du i **Microsoft 365 Administration** gå til udløbspolitikken for Indstillinger Org Indstillinger > Security and privacy Password og fjerne markér afkrydsningsfeltet "Indstil brugeradgangskoder til at udløbe efter et antal  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** dage".
   
 Du kan finde flere oplysninger under:
 

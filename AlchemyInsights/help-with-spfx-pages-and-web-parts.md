@@ -1,5 +1,5 @@
 ---
-title: Hjælp til SPFx-sider og -webdele
+title: Hjælp til SPFx sider og webdele
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 59e0160dc3c206aa675841d391b4f45e953cda100b991992fe4668d697c9e069
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055692"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>Hjælp til SPFx-sider og -webdele
+# <a name="help-with-spfx-pages-and-web-parts"></a>Hjælp til SPFx sider og webdele
 
-SPFx understøttes kun via Support til Microsoft-udviklere. SharePoint-produktteamet svarer udviklerfællesskab på tværs af flere kanaler.
+SPFx understøttes kun via Support til Microsoft-udviklere. Produktteamet SharePoint udviklerfællesskab på tværs af flere kanaler.
 
-- [Programmeringsspørgsmål](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)  kan sendes til  **GitHub sp-dev-docs eller**  **stakoverløb**.
-- [Fejl i](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs)  dokumentationen kan sendes til **GitHub**.
-- [Eksempel på programfejl](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs)  kan sendes til  **GitHub**.
+- [Programmeringsspørgsmål](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) kan sendes til **GitHub sp-dev-docs eller** **stakoverløb.**
+- [Fejl i](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) dokumentationen kan sendes **til GitHub**.
+- [Eksempel på programfejl](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) kan sendes til **GitHub**.
 - [Funktionsanmodninger](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  kan sendes til UserVoice.
 
 Du kan finde flere udviklerressourcer  [under Support & feedback](https://docs.microsoft.com/sharepoint/dev/support-feedback)
