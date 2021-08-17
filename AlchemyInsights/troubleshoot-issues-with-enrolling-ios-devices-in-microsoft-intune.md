@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823457"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047970"
 ---
 # <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Fejlfinding af problemer med registrering af iOS-enheder i Microsoft Intune
 
@@ -27,7 +27,7 @@ Nogle almindelige fejlmeddelelser og løsningstrin:
     
 - **Denne tjeneste understøttes ikke. Ingen registreringspolitik:** Apple Push Notification Service (APNS) skal konfigureres eller fornyes. Gennemgå [dette dokument](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) for at få vejledning i, hvordan du gør dette. 
     
-- **Brugerlicenstype Ugyldig eller Brugernavn blev ikke genkendt:** Brugeren skal have tildelt en Intune- eller EMS-licens. Gennemse disse dokumenter for at tildele en licens via: [Office Administration eller](https://docs.microsoft.com/intune/licenses-assign) [Azure-portalen](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Brugerlicenstype Ugyldig eller Brugernavn blev ikke genkendt:** Brugeren skal have tildelt en Intune- eller EMS-licens. Gennemse disse dokumenter for at tildele en licens [via: Office Administration eller](https://docs.microsoft.com/intune/licenses-assign) [Azure-portalen.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
 Yderligere ressourcer, der kan hjælpe med at løse problemet:
   
@@ -35,6 +35,6 @@ Yderligere ressourcer, der kan hjælpe med at løse problemet:
     
 2. Gennemse disse dokumenter for at få en liste over almindelige fejl, der forhindrer registrering og løsninger på hver enkelt: [Fejlfindingsvejledning](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) og [Fejlfinding af dokument.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
     
-3. [Få mere at vide om, hvordan du tilmelder iOS-enheder i Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
+3. [Få mere at vide om, hvordan du tilmelder iOS-enheder Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
     
 
