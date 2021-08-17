@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: c793ed6b7281a558a7a4ce0aa1a3fa432ba4863c7c473e3ec47d980d67c28b7b
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0a160b0caba0098ce678872ae54df7b6ad69e78cba4eac85ac15567f2e75a8c7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503934"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891525"
 ---
 # <a name="change-payment-method-fromto"></a>Skift betalingsmetode fra/til
 
 1. **Skift fra faktura til kreditkort eller bankkonto**
 
-    - Du kan ikke automatisk ændre fra at betale med faktura til at betale med en anden betalingsmetode. I stedet skal du [købe](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) et andet abonnement, som er betalt med et kredit- eller debetkort eller en [bankkonto,](/microsoft-365/commerce/subscriptions/move-users-different-subscription)flytte alle brugere til det nye abonnement og derefter annullere det [gamle abonnement](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+    - Du kan ikke automatisk ændre fra at betale med faktura til at betale med en anden betalingsmetode. I stedet skal du [købe](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) et andet abonnement, som er betalt med et kredit- eller debetkort eller en [bankkonto,](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)flytte alle brugere til det nye abonnement og derefter annullere det [gamle abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Skift fra kreditkort eller bankkonto til faktura**
 
@@ -35,4 +35,4 @@ ms.locfileid: "54503934"
 
     - Følg trinnene i [Hvordan skifter jeg fra kreditkortbetalinger til faktura?](how-do-i-change-from-credit-card-payments-to-invoice.md) for at fuldføre den manuelle ændring.
 
-Du kan få mere at vide [under Sådan betaler du for dit abonnement.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Du kan få mere at vide [under Sådan betaler du for dit abonnement.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
