@@ -1,5 +1,5 @@
 ---
-title: OneDrive er låst for behandling af ændringer
+title: OneDrive er gået i stå ved Behandling af ændringer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9003089"
 - "5842"
-ms.openlocfilehash: 984d7975e14d4ecfc91b4602470e4341f63d3122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603afed979f9b15315fd41e1ab139936ec0bb7a21ad4bcb3a56279a104bc0267
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076051"
 ---
-# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive er låst for behandling af ændringer
+# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive er gået i stå ved Behandling af ændringer
 
-Hvis OneDrive viser "behandler ændringer" i lang tid, kan det skyldes, at du har en online fil åben, masser af filer, der er fastlåst i en kø, eller en meget stor fil synkronisere. Du kan se, at  [OneDrive er i stå ved "behandler ændringer"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) for at få anbefalede trin og flere oplysninger.
+Hvis OneDrive viser "Behandler ændringer" i lang tid, kan det skyldes, at du har en onlinefil åben, at mange filer sidder fast i en kø, eller at en meget stor fil synkroniseres. Læs [OneDrive er gået i stå ved "Behandler ændringer"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) for foreslåede trin og flere oplysninger.
 
-Hvis du har brug for mere hjælp, kan du  [sende en mail til OneDrive-support](https://go.microsoft.com/fwlink/p/?LinkId=528676).
+Hvis du har brug for mere hjælp, kan du [sende OneDrive support.](https://go.microsoft.com/fwlink/p/?LinkId=528676)

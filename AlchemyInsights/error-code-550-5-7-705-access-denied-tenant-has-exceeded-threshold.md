@@ -1,5 +1,5 @@
 ---
-title: Fejlkode 550 5.7.705 adgang nægtet, lejeren har overskredet tærskelværdien
+title: Fejlkode 550 5.7.705 Access denied, tenant has exceeded threshold
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044190"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 adgang nægtet, lejeren har overskredet tærskelværdien
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Access denied, tenant has exceeded threshold
 
-Denne meddelelse vises, når der er blevet sendt for meget spam eller masse mail af din organisation, og vi placerer en blok i udgående mail.
-Almindelige årsager er kompromitteret lokalt servere eller kompromitterede administratorkonti, der er blevet brugt til at oprette forbindelser. Begge betingelser kan tillade, at spam kan passere gennem din organisation.
+Denne meddelelse vises, når der er blevet sendt for meget spam eller massemail fra din organisation, og vi placerer en blok for udgående mail.
+Almindelige årsager er kompromitterede lokale servere eller kompromitterede administratorkonti, der er blevet brugt til at oprette forbindelser. Begge betingelser kan tillade spam at passere gennem din organisation.
 
-Hvis du vil fjerne denne blok, skal du forstå og forklare årsagen til en supportmedarbejder samt rette det underliggende problem.
-Klik på **Kontakt os** nedenfor, når du er klar.
+Hvis du vil fjerne denne blokering, skal du forstå og forklare årsagen til en supportmedarbejder samt løse det underliggende problem.
+Klik **på Kontakt os** nedenfor, når du er klar.

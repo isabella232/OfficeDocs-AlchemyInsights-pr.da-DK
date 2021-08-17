@@ -1,5 +1,5 @@
 ---
-title: 8000031 kan ikke slette billeder fra filer
+title: 8000031 kan ikke slette fotos fra filer
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104950"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Kan ikke slette billeder fra filer
+# <a name="unable-to-delete-photos-from-files"></a>Billeder fra filer kan ikke slettes
 
-Sådan sletter du billeder fra filer i Outlook.com:
+Sådan sletter du billederne fra Filer på Outlook.com:
   
-1. Gå til mappen **Indbakke** eller mappen **sendt post** , og slet den e-mail, de er knyttet til.
+1. Gå til din **Indbakke** eller **mappen Sendt** post, og slet den mail, de er vedhæftet.
 
-2. Fjern element (er) fra dine **slettede elementer**.
+2. Fjern elementet/elementerne fra **slettet post.**
 
-Du kan få mere at vide ved at læse, [hvordan du sletter filer eller fotos i Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Du kan få mere at [vide ved at læse Sådan sletter du filer eller billeder Outlook.com.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)
   
