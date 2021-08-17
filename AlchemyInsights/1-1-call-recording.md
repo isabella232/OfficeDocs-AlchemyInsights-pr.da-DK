@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
-ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52702084"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886133"
 ---
 # <a name="11-call-recording"></a>1:1 opkaldsoptagelse
 
-Hvis knappen **Start optagelse** er nedtonet i et 1:1-opkald, skal du ændre politikindstillingerne for den påvirkede bruger. Hvis du vil kontrollere politikindstillingen, skal du køre Diagnosticering for den påvirkede bruger ved at skrive **Diag: Teams 1:1 opkaldsoptagelse** ovenfor.     
+Hvis knappen **Start optagelse** er nedtonet i et 1:1-opkald, skal du ændre politikindstillingerne for den påvirkede bruger. Du kan kontrollere politikindstillingen ved at køre Diagnosticering for den på påvirkede bruger ved at skrive **Diag: Teams 1:1 opkaldsoptagelse** ovenfor.     
 
-Fra og med den 31. maj 2021 begynder vi at håndhæve en ny Teams-opkaldspolitik *AllowCloudRecordingForCalls*. Før denne ændring styres 1:1-opkaldsoptagelse af *politikken AllowCloudRecording* Teams Meeting Policy. Denne ændring er dokumenteret i indlægget i Meddelelsescenter: [(Opdateret) 1:1 Introduktion til](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)optagelsespolitik for opkald.  
+Fra og med den 31. maj 2021 begynder vi at håndhæve en ny Teams-opkaldspolitik *TilladCloudRecordingForCalls*. Før denne ændring styres 1:1-opkaldsoptagelse af *politikken AllowCloudRecording* Teams Meeting Policy. Denne ændring er dokumenteret i indlægget i Meddelelsescenter: [(Opdateret) 1:1 Introduktion til](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)optagelsespolitik for opkald.  
 
 *AllowCloudRecordingForCalls*   opkaldspolitik er indstillet til **$False** som standard. Hvis du foretrækker at blokere alle brugere fra at optage 1:1-opkald, behøver du ikke at foretage dig noget.  
 
-For at aktivere opkaldsoptagelse for alle brugere i 1:1-opkald [skal Teams PowerShell](/microsoftteams/teams-powershell-install) til at køre følgende cmdlet: 
+For at aktivere opkaldsoptagelse for alle brugere i 1:1-opkald [skal Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) til at køre følgende cmdlet: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 

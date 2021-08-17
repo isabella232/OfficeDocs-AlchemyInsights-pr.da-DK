@@ -13,12 +13,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014894"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887494"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificer IP-adresse og klient i overvågningslogfiler
 
@@ -36,4 +36,4 @@ Den IP-adresse, der svarer til en aktivitet Microsoft 365 en bruger eller admini
 
 I resultaterne kan du se IP-adressen for den pågældende aktivitet i resultatruden. Vælg overvågningsposten for at få vist detaljerede oplysninger i **pop** op-dialogboksen Detaljer (f.eks. Klient, bruger, der udførte handlingen osv.).
 
-Du kan få mere at vide [under Finde IP-adressen på den computer, der blev brugt til at få adgang til en kompromitteret konto.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
+Du kan få mere at vide [under Finde IP-adressen på den computer, der bruges til at få adgang til en kompromitteret konto.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
