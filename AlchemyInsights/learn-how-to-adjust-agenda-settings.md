@@ -1,5 +1,5 @@
 ---
-title: 603 Lær at justere indstillinger for dagsorden
+title: 603 Få mere at vide om, hvordan du justerer indstillinger for Dagsorden
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 1dac3f87e47eb791add54015673fb3ba1ae0c3b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676552"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054102"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a>Lær, hvordan du konfigurerer indstillinger for dagsorden
+# <a name="learn-how-to-configure-agenda-settings"></a>Få mere at vide om, hvordan du konfigurerer indstillinger for dagsorden
 
-Indstillinger for dagsorden er placeret i **kalender** indstillinger i Outlook på internettet. Hvis du vil have mere at vide, skal du se [kalenderindstillinger i Outlook på internettet](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+Indstillinger for dagsorden findes i **kalenderindstillingerne** i Outlook på internettet. Du kan finde flere oplysninger [i Kalenderindstillinger i Outlook på internettet](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
 
-Administratorer kan bruge cmdlet'en **set-CalendarNotification** i Exchange Online PowerShell til at konfigurere indstillinger for dagsorden. Du kan finde flere oplysninger i [set-CalendarNotification](https://technet.microsoft.com/library/dd351284).
+Administratorer kan bruge **Cmdlet'en Set-CalendarNotification** i Exchange Online PowerShell til at konfigurere indstillinger for dagsorden. Du kan finde flere oplysninger [under Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).

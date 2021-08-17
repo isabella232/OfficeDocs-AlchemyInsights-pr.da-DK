@@ -14,12 +14,12 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937095"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889212"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory synkroniseres ikke
 
@@ -29,8 +29,8 @@ Hvis du geninstallerer AADConnect ved hjælp af hurtig konfiguration, kan proble
 
 1. [Download den nyeste version af AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [Følg vejledningen for hurtig installation.](/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [Følg vejledningen for hurtig installation.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Azure AD Connect skal installeres på Windows Server 2012 eller nyere. Denne server skal være tilknyttet et domæne, og det kan være domænecontroller eller en medlemsserver. Du kan se en komplet liste over Forbind og forudsætninger for Azure AD ved at gennemgå [Forudsætninger for Azure AD Forbind.](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+Azure AD Connect skal installeres på Windows Server 2012 eller nyere. Denne server skal være tilknyttet et domæne, og det kan være domænecontroller eller en medlemsserver. Du kan se en komplet liste over Forbind og forudsætninger for Azure AD ved at gennemgå Forudsætninger [for Azure AD Forbind.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
 
-Du kan finde flere oplysninger om AADConnect-tjenestekonti [i Azure AD Forbind: Konti og tilladelser](/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Du kan finde flere oplysninger om AADConnect-tjenestekonti [i Azure AD Forbind: Konti og tilladelser](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).

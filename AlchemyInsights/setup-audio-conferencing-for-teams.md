@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: d773d371759b857044fc61f2b8f133d88f32e9aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2aba4611863c8d3617fa682219c298ed00949739f5425ccd2b8f6bba18b28a1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108334"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Konfiguration af lydmøde til Teams
 
@@ -43,4 +43,4 @@ Sådan bekræfter du, at brugeren er licenseret til lydmøder og har et standard
 
 7. Vælg den pågældende bruger, og bekræft, at brugeren har et **standard afgiftsbelagt nummer**.
 
-Du kan finde flere oplysninger i Microsoft Teams-opkaldsplaner [til Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ved at ringe til Microsoft Commerce Billing-teamet for at få hjælp til licensrelaterede spørgsmål.
+Hvis du vil have mere at vide, [Microsoft Teams om abonnementsopkald for Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) eller ringe til Microsoft Commerce Billing-teamet for at få hjælp til spørgsmål relateret til licenser.
