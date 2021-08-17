@@ -1,5 +1,5 @@
 ---
-title: Overfør filer til OneDrive eller SharePoint
+title: Upload filer, der skal OneDrive eller SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 03e2962a12fca12850441d03b43d6cfde9e60bad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90767dbcbac08f109b33bfed474cf53829f1e553e5973477796b951acf5c8d28
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073270"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Overfør filer til OneDrive eller SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload filer, der skal OneDrive eller SharePoint
 
-1. Gå til den placering, hvor du vil overføre filer til, i din webbrowser.
+1. I din webbrowser skal du gå til den placering, hvor du vil overføre filer.
     
 2. Åbn Stifinder, og gå til de filer, du vil overføre.
     
-3. Markér filerne, og træk dem til placeringen i OneDrive eller SharePoint. Bemærk! Hvis du bruger Microsoft Edge, Mozilla FireFox eller Google Chrome, kan du også overføre en mappe og alle filerne i den.
+3. Markér filerne, og træk dem til placeringen i OneDrive eller SharePoint. Bemærk! Hvis du bruger Microsoft Edge, Mozilla FireFox eller Google Chrome, kan du også uploade en mappe og alle filerne i den.
     
-**Vejledningen**
-- Du kan overføre filer på op til 15 GB. 
-- Den fulde sti til en fil (herunder filnavnet) må ikke være længere end 400 tegn. 
-- Hvis du vil overføre mere end 100-filer, skal du [bruge OneDrive-synkroniseringsklienten](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Bemærkninger:**
+- Du kan uploade filer på op til 15 GB. 
+- Den fulde sti til en fil (herunder filnavnet) må ikke være på mere end 400 tegn. 
+- Hvis du har brug for at uploade mere end 100 filer, [skal du OneDrive-synkronisering klient.](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 

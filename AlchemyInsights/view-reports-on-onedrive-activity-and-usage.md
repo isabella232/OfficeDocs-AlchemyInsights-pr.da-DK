@@ -1,5 +1,5 @@
 ---
-title: Få vist rapporter over OneDrive-aktivitet og-forbrug
+title: Få vist rapporter OneDrive aktivitet og brug
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037314"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>Få vist rapporter over OneDrive-aktivitet og-forbrug
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>Få vist rapporter OneDrive aktivitet og brug
 
-Gå til [siden anvendelsesrapporter i Microsoft 365 administration](https://admin.microsoft.com/AdminPortal/Home). Vælg rapporten OneDrive-aktivitet eller-anvendelse under **Vælg en rapport**.
+Gå til [siden Anvendelsesrapporter i Microsoft 365 Administration](https://admin.microsoft.com/AdminPortal/Home). Under **Vælg en rapport** skal du vælge OneDrive eller forbrugsrapport.
 
-Du kan finde flere oplysninger i afsnittet [om OneDrive-rapporter](https://go.microsoft.com/fwlink/?linkid=875239).
+Du kan finde flere oplysninger [i Om OneDrive rapporter](https://go.microsoft.com/fwlink/?linkid=875239).
