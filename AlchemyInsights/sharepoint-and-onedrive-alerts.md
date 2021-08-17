@@ -1,5 +1,5 @@
 ---
-title: Forsinkelser i modtagelse af SharePoint- og OneDrive-beskeder
+title: Forsinkelser i modtagelse SharePoint og OneDrive beskeder
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107902"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Forsinkelser i modtagelse af SharePoint- og OneDrive-beskeder
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Forsinkelser i modtagelse SharePoint og OneDrive beskeder
 
-- Hvis alle beskeder fra flere filer eller biblioteker **forsinkes,** skal du gå til [dashboardet](https://portal.office.com/adminportal/home?ref=/servicehealth) Tjenestetilstand for at se, om der er eventuelle meddelelser/hændelser, der kan opstå med SharePoint eller Exchange.
-- Hvis **en individuel besked fra en bestemt fil eller et bestemt bibliotek ikke leveres,** skal du forsøge at slette og genoprette den. Se [Administrer, få vist eller slet SharePoint-beskeder for](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) at genoprette beskeden.
+- Hvis alle beskeder fra flere filer eller biblioteker **forsinkes,** skal du gå til [dashboardet](https://portal.office.com/adminportal/home?ref=/servicehealth) Tjenestetilstand for at se, om der er meddelelser/hændelser, der kan opstå SharePoint eller Exchange.
+- Hvis **en individuel besked fra en bestemt fil eller et bestemt bibliotek ikke leveres,** skal du forsøge at slette og genoprette den. Se [Administrer, få vist eller slet dine SharePoint for at](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) genoprette beskeden.
 - Kontrollér mappen Uønsket mail eller Spam i din mail.
 
 > [!NOTE]
