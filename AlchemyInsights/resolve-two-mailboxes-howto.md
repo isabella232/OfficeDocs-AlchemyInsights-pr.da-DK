@@ -1,5 +1,5 @@
 ---
-title: 1374 løs to postkasser howto
+title: 1374 Løs to postkasser
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720892"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110062"
 ---
 # <a name="a-user-has-two-mailboxes"></a>En bruger har to postkasser
 
-Hybrid miljøer, der bruger Azure Active Directory Connect (AAD Connect) eller DirSync kan medføre, at en bruger har to postkasser: en lokal og en i skyen. En dublet postkasse kan oprettes på begge steder.
+Hybridmiljøer, der bruger Azure Active Directory Forbind (AAD Forbind) eller DirSync, kan ved en fejl medføre, at en bruger har to postkasser: en i det lokale miljø og én i skyen. Der kunne oprettes en dubletpostkasse begge steder.
 
-Du kan løse dette problem ved at se [, hvordan du gendanner, når en postkasse findes i både Exchange Online og det lokale miljø](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Hvis du vil have mere at vide om, hvordan du undgår, at dette sker i fremtiden, kan du se [min bruger har en postkasse både i det lokale miljø og i Exchange Online. Hjælp!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Du kan løse dette problem ved [at se Sådan gendannes, når](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)en Exchange Online og i det lokale miljø. Hvis du vil vide mere om, hvordan du undgår dette i at ske fremover, skal du se Min bruger har en postkasse både lokalt og [Exchange Online. Hjælp!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

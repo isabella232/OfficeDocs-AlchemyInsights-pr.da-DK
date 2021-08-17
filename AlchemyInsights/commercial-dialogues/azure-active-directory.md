@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0a82646b18b51cf198c287990e5ce447619aac20
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: be92d2397c7088020cc8bea5101acf6717af4db82a785f71d55ec5aff9061b1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059184"
 ---
 # <a name="azure-active-directory"></a>Azure Active Directory
 
 Microsoft Azure Active Directory (Azure AD) er en skybaseret identitets- og adgangsstyringstjeneste, der hjælper medarbejdere med at logge på og få adgang til ressourcer både eksternt og internt. Hvis du vil have mere at vide, kan du se følgende ressourcer:
 
 - [Hvad er Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
-- [Azure-integration med Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
-- [Gratis prøveversion af Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081144)
+- [Integration af Azure med Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
+- [Azure Active Directory gratis prøveversion](https://go.microsoft.com/fwlink/?linkid=2081144)

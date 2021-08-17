@@ -1,5 +1,5 @@
 ---
-title: Generelle oplysninger om tilføjelsesprogrammer til Outlook
+title: Generelle Outlook oplysninger om tilføjelsesprogrammet
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116938"
 ---
-# <a name="general-outlook-add-ins-information"></a>Generelle oplysninger om tilføjelsesprogrammer til Outlook
+# <a name="general-outlook-add-ins-information"></a>Generelle Outlook oplysninger om tilføjelsesprogrammet
 
-Besøg dette websted for at få dine alle dokumentationsressourcer, der omhandler [opbygning af Outlook-tilføjelsesprogrammer](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+Besøg dette websted for at få ressourcer til alt-in-dokumentation [til Outlook tilføjelsesprogrammet](https://docs.microsoft.com/office/dev/add-ins/outlook/).
 
-Du kan finde flere ressourcer om administration, installation og aktivering af tilføjelsesprogrammer i:
+Du kan finde flere ressourcer om administration, installation og aktivering af tilføjelser i:
 
-- [Find ud af, om centraliseret udrulning af tilføjelsesprogrammer fungerer for din organisation](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Afgør, om Centraliseret udrulning af tilføjelses ins fungerer for din organisation.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [Administrer udrulning af tilføjelsesprogrammer i Microsoft 365 Administration](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Angive administratorerne og de brugere, der kan installere og administrere tilføjelsesprogrammer til Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Angive de administratorer og brugere, der kan installere og administrere tilføjelsesprogrammet for Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

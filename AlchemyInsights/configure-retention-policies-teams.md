@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 7eaeff630a31d4e8ce5a3a92ff40be9211a0cdaa
-ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
+ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53129821"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890140"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>Konfigurere opbevaringspolitikker for Teams placeringer
 
@@ -36,5 +36,5 @@ Sådan konfigurerer du opbevaringspolitikker for Teams:
 
 Bemærk! Private kanalmeddelelser understøttes i øjeblikket ikke af opbevaringspolitikker.
 
-Du kan finde flere oplysninger om teamopbevaring og kendte konfigurationsproblemer under [Opbevaringspolitikker for Teams-placeringer](/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
+Du kan finde flere oplysninger om teamopbevaring og kendte konfigurationsproblemer under [Opbevaringspolitikker for Teams-placeringer](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
 
