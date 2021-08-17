@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 8c7ce48f50b5c933ea15c23a486b99ad7a7f4d79
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7935d6f74113e6da843f5f7df65bcb540b3d7a23b69f388b721fd778f4ff7a0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085114"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Gendan en slettet fil eller mappe
 
-SharePoint Online opbevarer sikkerhedskopier af alt indhold i 14 dage efter den faktiske sletning. Hvis indhold ikke kan gendannes via Papirkurv eller Filgendannelse, kan en administrator kontakte Microsoft Support for at anmode om en gendannelse når som helst inden for 14-dagsvinduet. Gendannelser fra sikkerhedskopier kan kun gennemføres for samlinger af websteder eller undersider, ikke for specifikke filer, lister eller biblioteker.
+SharePoint Online opbevarer sikkerhedskopier af alt indhold i 14 dage efter den faktiske sletning. Hvis indhold ikke kan gendannes via Papirkurv eller Filgendannelse, kan en administrator kontakte Microsoft Support for at anmode om en gendannelse når som helst inden for 14-dages vinduet. Gendannelser fra sikkerhedskopier kan kun gennemføres for samlinger af websteder eller undersider, ikke for specifikke filer, lister eller biblioteker.
 
-Når du sletter et element eller websted fra SharePoint, fjernes det ikke med det samme. Slettede elementer placeres i papirkurven i et stykke tid. I løbet af det tidsrum kan du gendanne slettede elementer til deres oprindelige placering. Besøg nedenstående links for at få flere oplysninger.
+Når du sletter et element eller websted fra Sharepoint, fjernes det ikke med det samme. Slettede elementer placeres i papirkurven i et stykke tid. I løbet af det tidsrum kan du gendanne slettede elementer til deres oprindelige placering. Besøg nedenstående links for at få flere oplysninger.
 
-[Gendan elementer i Papirkurv på et SharePoint-websted.](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+[Gendan elementer i Papirkurv på et SharePoint websted.](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 [Gendan slettede filer eller mapper i OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 [Gendan en slettet gruppe af websteder (herunder gruppe, kommunikation og andre websteder)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Gendan et slettet OneDrive-websted](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+[Gendan en slettet OneDrive websted](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Ved handlinger for massekurven kan administratorer overveje at bruge [Sharepoint Online PNP.](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+Administratorer kan overveje at bruge [Sharepoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)til handlinger for massekurven.
 
 **Funktionen Filgendannelse**
 

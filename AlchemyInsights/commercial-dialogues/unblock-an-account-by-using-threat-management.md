@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081424"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895001"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Fjern blokeringen af en konto ved hjælp af trusselsstyring
 
-Sådan gør du: 
+Sådan gør du:
 
-1. Gå til [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Vælg **Gennemgang af**  >  **trusselsadministration**. På siden **Gennemse** skal du vælge **[Begrænsede brugere.](https://go.microsoft.com/fwlink/?linkid=2103514)**
-1. Hvis den kompromitterede konto vises på listen, skal du klikke på Fjern **blokeringen af konto**. Kontoen bør kunne sende meddelelser igen , normalt inden for en time.
+1. Gå til Microsoft 365 Defender på Mail <https://security.microsoft.com> \> **& Brugere** \> **med adgang til** \> **samarbejdsgennemsyn**.
+
+   For at gå direkte til **siden Begrænsede brugere** skal du bruge <https://security.microsoft.com/restrictedusers> .
+
+2. Hvis brugeren er på listen, skal du markere brugeren og derefter vælge Fjern **blokering.** Følg trinnene i pop op-ruden, og vælg derefter **Ja for** at bekræfte.
+
+   Kontoen bør kunne sende meddelelser igen , normalt inden for en time.
+
+Du kan få mere at vide [under Fjern blokerede brugere fra portalen Begrænsede brugere.](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)

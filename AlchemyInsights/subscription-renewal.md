@@ -16,12 +16,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 974f5b26bd8e8846db7501239d8fd140f2bd56c132b0256c3166dbf2c2c8b138
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aeabecf82e22369ed78f00a7e32a99fa7cf9b5f9a8e3a0f5f84ea68bdbc33642
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53981755"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894905"
 ---
 # <a name="subscription-recurring-billing"></a>Tilbagevendende fakturering af abonnement
 
@@ -33,4 +33,4 @@ Hvis du vil vide, hvornår dit månedlige  eller årlige abonnement faktureres (
 4. I **ruden Rediger tilbagevendende fakturering** skal du **vælge Til**, **Til, forny én gang** eller **Fra**.
 5. Vælg **Gem**.
 
-For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](/microsoft-365/commerce/subscriptions/renew-your-subscription).
+For at få mere at vide, skal du se [Slå tilbagevendende fakturering fra eller til](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

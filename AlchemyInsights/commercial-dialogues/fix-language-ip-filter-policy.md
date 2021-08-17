@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017090"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896149"
 ---
 # <a name="fix-languageip-filter-policy"></a>Ret politik for sprog/IP-filter
 
-Denne meddelelse blev påvirket af en brugerdefineret antispampolitik i din lejer. Hvis du vil gennemse politikken, skal du gøre følgende:
+En af dine antispampolitikker har påvirket denne meddelelse. Hvis du vil gennemse politikkerne, skal du gøre følgende:
 
-1. Gå til Office 365 [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143), og gå derefter til   >    >  [Antispampolitik for trusselsstyring](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. På fanen **Brugerdefineret** skal du vælge **standardpolitikken for spamfilter** eller en anden brugerdefineret politik, du måtte have oprettet, og derefter vælge **Rediger politik**.
-3. Udvid **indstillingen International spam,** og gennemse indstillingerne.
+1. I portalen Microsoft 365 Defender på skal du gå til & politikker for samarbejde & politikker for trussel mod <https://security.microsoft.com/>  \>  \>  \> **uønsket post** i **sektionen** Politikker.
 
-Du kan finde flere oplysninger om konfiguration af politikker for spamfiltrering [i Konfigurer politikindstillinger for brugerdefineret spamfilter.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   For at gå direkte til **siden Politikker for uønsket post** skal du bruge <https://security.microsoft.com/antispam> .
+
+2. På siden Politikker for **uønsket** post skal du vælge politikken ved  at klikke på  navnet på politikken (**Type** er Brugerdefineret politik for uønsket post eller Navn er indgående politik for uønsket post **(standard).**
+3. I pop op-menuen med oplysninger skal du vælge Rediger grænseværdi for **spam** og egenskaber i sektionen **& for spamegenskaber.**
+4. I sektionen **Markér som spam** skal du gennemgå indstillingerne Indeholder bestemte **sprog** og **Fra disse** lande.
+
+Få mere at vide under [Konfigurer antispam-politikker i EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

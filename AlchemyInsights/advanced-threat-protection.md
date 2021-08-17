@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 0aa2d25952587bdc5e6294870b262116bb7170b38054f91ca1807ebb940ac031
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 61236d1e0174248cdb49284d6c6c7d49df51e7e9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888952"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315072"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender til Office 365
 
@@ -24,14 +24,14 @@ ms.locfileid: "57888952"
 
 - Du skal tildele de relevante licenser for at beskytte dine brugere af Microsoft Defender for Office 365. Se [Tilføj brugere, og tildel licenser på samme tid](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) for at få en vejledning i, hvordan du anvender flere licenser på flere af dine brugere.
 
-- Globale administratorer eller sikkerhedsadministratorer kan få adgang til Microsoft Defender for Office 365-funktioner i Microsoft 365 Defender-portalen på afsnittet Mail **&** samarbejde \> **under Politikker & regler** for \> **trusselspolitikker.**
+- Globale administratorer eller sikkerhedsadministratorer kan få adgang til Microsoft Defender for Office 365-funktioner i Microsoft 365 Defender-portalen på afsnittet Mail **&-samarbejde** \> **under Politikker & regler** \> **for trusselspolitikker.**
 
-- Pengeskab Politikker for vedhæftede Pengeskab-links kan begrænses til bestemte domæner, gruppemedlemmer eller individuelle brugere. Du kan også angive undtagelser Pengeskab politikker for vedhæftede filer Pengeskab links, der er baseret på domæne, gruppemedlemskab eller individuelle brugere.
+- Pengeskab Politikker for vedhæftede Pengeskab links kan begrænses til bestemte domæner, gruppemedlemmer eller individuelle brugere. Du kan også angive undtagelser Pengeskab politikker for vedhæftede filer Pengeskab links, der er baseret på domæne, gruppemedlemskab eller individuelle brugere.
 
-- Der er ingen standardpolitik Pengeskab Vedhæftede filer, der beskytter mails. Du skal oprette [en politik for beskyttelse](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies) Pengeskab vedhæftede filer i mail.
+- Der er ingen standardpolitik Pengeskab vedhæftede filer, der beskytter mails. Du skal oprette [en politik for beskyttelse](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies) Pengeskab vedhæftede filer i mail.
 
-  Pengeskab Vedhæftede filer til SharePoint, OneDrive og Microsoft Teams er aktiveret eller deaktiveret globalt og kræver ikke ændringer Pengeskab politikker for vedhæftede filer. Du kan finde flere oplysninger [Pengeskab Vedhæftede filer til SharePoint, OneDrive og Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams).
+  Pengeskab Vedhæftede filer SharePoint, OneDrive filer og Microsoft Teams er aktiveret eller deaktiveret globalt og kræver ikke ændringer Pengeskab politikker for vedhæftede filer. Du kan finde flere [oplysninger Pengeskab Vedhæftede filer til SharePoint, OneDrive og Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams).
 
-- Der er ingen standardpolitik for Pengeskab, der beskytter mails eller Microsoft Teams. Du skal oprette [en politik](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies) for beskyttelse Pengeskab links i mail og Teams.
+- Der er ingen standardpolitik Pengeskab Links, der beskytter mails eller Microsoft Teams. Du skal oprette [en politik](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies) for beskyttelse Pengeskab links i mail og Teams.
 
-  Pengeskab Beskyttelse af links til Office 365-apps anvendes for alle brugere i organisationen, der har licens til Defender til Office 365, uanset om brugerne er inkluderet i aktive Pengeskab Links-politikker eller ej. Du kan finde flere oplysninger [Pengeskab Indstillinger for links til Office 365 apps](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links#safe-links-settings-for-office-365-apps).
+  Pengeskab Beskyttelse af links Office 365-apps anvendes for alle brugere i organisationen, der har licens til Defender til Office 365, uanset om brugerne er inkluderet i aktive Pengeskab Links-politikker eller ej. Du kan finde flere oplysninger [Pengeskab Indstillinger for links til Office 365 apps](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links#safe-links-settings-for-office-365-apps).

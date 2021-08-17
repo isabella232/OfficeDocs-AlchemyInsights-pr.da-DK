@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893049"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314910"
 ---
 # <a name="billing-and-payment"></a>Fakturering og betaling
 
-Dine regninger kan findes under **fanen**  >  [Faktureringsfakturering & betalinger.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard vises de sidste 3 måneders fakturaer.  Juster filteret for at få vist ældre fakturaer.  Klik på **linket Download fakturaens PDF-fil** for at få vist fakturaen.
+Dine regninger kan findes under fanen  >  [Faktureringsfakturering & betalinger.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard vises de sidste 3 måneders fakturaer.  Juster filteret for at få vist ældre fakturaer.  Klik på **linket Download fakturaens PDF-fil** for at få vist fakturaen.
 
 **Modtag fakturaer via mail**
 
@@ -46,8 +46,7 @@ Hvis du har tilføjet et nyt kort, og du stadig får en meddelelse om afvis på 
 
 4. Hvis du vil bruge en eksisterende betalingsmetode, skal du vælge en på rullelisten og derefter vælge **Erstat.**
 
-    > [!NOTE]
-    > Hvis du har abonnementer, der er knyttet til en faktureringsprofil, kan du kun bruge et kredit- eller debetkort til at betale for dem. Hvis du har bankkonti, der **er angivet** på siden Betalingsmetoder, kan de ikke vælges på rullelisten.
+    **Bemærk!** Hvis du har abonnementer, der er knyttet til en faktureringsprofil, kan du kun bruge et kredit- eller debetkort til at betale for dem. Hvis du har bankkonti, der **er angivet** på siden Betalingsmetoder, kan de ikke vælges på rullelisten.
 
 5. Hvis du vil tilføje en ny betalingsmetode, skal **du vælge Tilføj betalingsmetode.**
 
