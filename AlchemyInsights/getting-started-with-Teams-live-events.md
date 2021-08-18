@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088858"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Kom i gang med Teams-livebegivenheder
 
@@ -25,7 +25,7 @@ Microsoft Teams-livebegivenheder er en udvidelse af Teams-møder, der lader dig 
 
 Hvis du vil oprette en livebegivenhed, har du brug for følgende:
 
-- Først skal du bekræfte, at Teams Livebegivenheder [er tilgængelige i dit land og område;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) Livebegivenheder understøttes endnu ikke i visse lande.  Hvis du har tildelt licenser og angivet politikker, men stadig ikke kan oprette en Teams Live Event, er det sandsynligt, at du er i et Land eller Område, hvor Livebegivenheder endnu ikke er tilgængelig.
+- Først skal du bekræfte, Teams livebegivenheder er [tilgængelige i dit land og område](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Livebegivenheder understøttes endnu ikke i visse lande.  Hvis du har tildelt licenser og angivet politikker, men stadig ikke kan oprette en Teams Livebegivenhed, er det sandsynligt, at du er i et Land eller område, hvor Livebegivenheder endnu ikke er tilgængelig.
 
 - En [Office 365 Enterprise E1-, E3-eller E5-licens eller en Office 365 A3-eller A5-licens](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Bemærk**: På grund af en nylig stigning i brugen af Teams, kan det tage op til 24 timer fra du tildeler en licens til en bruger, til denne er helt konfigureret. Indtil da kan du ikke tildele Teams-politikker til brugeren, og denne har muligvis ikke adgang til nogle Teams-funktioner, som f.eks. opkald og lydkonferencer.
 
