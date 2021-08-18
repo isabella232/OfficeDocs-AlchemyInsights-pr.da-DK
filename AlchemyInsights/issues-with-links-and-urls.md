@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054792"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321901"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemer med links og URL-adresser
 
@@ -42,15 +42,13 @@ Hvis du vil tilføje en svar-URL-adresse, skal du gå til fanen **Godkendelse** 
     - platformen (iOS/Android/UWP)
     - de oplysninger, der bruges til at udvikle din app, f.eks. bundle-id'et i iOS og pakkenavnet og signaturhashen på Android. Azure-portalens appregistrering hjælper dig. Du kan finde flere oplysninger i [Platformskonfiguration og omdirigerings-URI'er](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Web-API'er og nogle af de diskrete måder at hente tokens på (IWA og brugernavn/adgangskode) kræver ikke noget omdirigerings-URI.
+**Bemærk!** Web-API'er og nogle af de stille måder at indhente tokens (IWA og brugernavn/adgangskode) kræver ikke en omdirigerings-URI.
 
 **Jeg har installeret mit webprogram, og når jeg tester den udrullede app, får jeg en besked om uoverensstemmelse for svar-URL-adressen**
 
 Tilføj omdirigerings-URI'er for alle de placeringer, hvor du udruller dit webprogram. Du kan få flere oplysninger i [Registrer en webapp ved hjælp af Azure-portalen](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Tilføj omdirigerings-URI'en for en placering, straks efter du har udrullet et program til den placering.
+**Bemærk!** Tilføj omdirigerings-URI for en placering, umiddelbart efter at du har installeret programmet på den pågældende placering.
 
 **Jeg kan ikke registrere tilstrækkeligt med svar-URL-adresser**
 

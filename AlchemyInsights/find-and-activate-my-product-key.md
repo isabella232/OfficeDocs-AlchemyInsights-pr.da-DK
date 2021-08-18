@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: c0b96e092a05a8db8e8b6a3cff5c072840b5e368314af00bb065e03149df6b60
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8c0556d2e0d2427d856d226b976ced81a2ca1e65
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498858"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322059"
 ---
 # <a name="microsoft-open-license-program"></a>Microsoft Open License Program
 
@@ -28,9 +28,7 @@ Hvis du har Microsoft 365 til virksomheder via et [Microsoft Open-licensprogram,
 
 1. Når du køber en nøgle fra en Microsoft 365 partner, skal du i din indbakke se efter en mail fra Microsoft, der indeholder et aktiveringslink.
 
-    > [!NOTE]
-    > Mailen sendes til den person, der er angivet som onlineadministrator i volumenlicensaftalen. Hvis du ikke er sikker på, hvem der er angivet som onlineadministrator, kan du spørge Microsoft 365 partner.
-1. Følg linket i mailen for at logge på med din arbejds- eller skolekonto, acceptér Open-licensaftalen, og forny abonnementet. Du kan få en trinvis vejledning ved at downloade PDF-vejledningen Aktivér [onlinetjenester: Microsoft 365 abonnement.](https://go.microsoft.com/fwlink/p/?LinkId=618100)
+    **Bemærk!** Mailen sendes til den person, der er angivet som onlineadministrator i volumenlicensaftalen. Hvis du ikke er sikker på, hvem der er udpeget som onlineadministrator, kan du spørge Microsoft 365 partner.
+1. Følg linket i mailen for at logge på med din arbejds- eller skolekonto, acceptér Open-licensaftalen, og forny abonnementet. Du kan finde en trinvis vejledning i at hente PDF-vejledningen Aktivér [onlinetjenester: Microsoft 365 abonnement.](https://go.microsoft.com/fwlink/p/?LinkId=618100)
 
-    > [!NOTE]
-    > Volumenlicenskunder kan også vælge at aktivere abonnementer i [Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Hvis du vil se hvordan, skal du hente PDF-vejledningen [Active Online Services i Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
+    **Bemærk:** Kunder med volumenlicens kan også vælge at aktivere abonnementer i [Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Hvis du vil se hvordan, skal du hente PDF-vejledningen [Active Online Services i Volume Licensing Service Center.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
