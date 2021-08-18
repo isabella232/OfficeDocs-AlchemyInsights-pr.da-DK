@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.date: 04/21/2020
-ms.openlocfilehash: 373d517c29a98bb035e8b0785f9d9889b37734d80fa6113de34544d49f08cdf1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4fd484d890f08e4a85a23993655f46a0fea26926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937707"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315362"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivering af et Microsoft-volumenlicensabonnement
 
@@ -31,5 +31,5 @@ ms.locfileid: "53937707"
 4. Aktiveringsmailen giver dig to muligheder: **Tilmeld dig** eller **Log på**. Hvis du tidligere har oprettet en prøveversion, skal du **vælge Log på**. Hvis du endnu ikke har en lejer i Microsoft 365, skal du **vælge Tilmeld dig**.
 5. Log på Microsoft 365 Administration ( [https://admin.microsoft.com](https://admin.microsoft.com) ) med dine eksisterende administratorlegitimationsoplysninger. Når du er logget på, modtager du endnu en mail, der bekræfter dit køb.
 6. Når du er logget på, skal du gå til **siden Fakturering** \> [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter for at bekræfte, at dine købte abonnementer nu er aktive. 
-    > [!NOTE]
-    > Du kan også vælge fanen **Abonnement i** VLSC for at få vist oplysninger, der bekræfter, at dit abonnement er blevet aktiveret.
+
+    **Bemærk!** Du kan også vælge fanen **Abonnement** i VLSC for at få vist oplysninger, der bekræfter, at dit abonnement er blevet aktiveret.

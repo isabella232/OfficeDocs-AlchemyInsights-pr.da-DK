@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 987eb106a7d8858cba04151b9f8953d847aafec92b4f05281c2bbde4edaf91e6
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 72c730ef9e63e29f452580e4d0b8d0c605f621e540c1f2807f284c47aeaa37f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503682"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896969"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Tildele eller fjerne tildeling af licenser til brugere
 
@@ -33,4 +33,4 @@ En bruger skal have en licens for at få adgang til tjenester. Her er trinnene t
 3. I højre rude skal du vælge **Licenser og apps**.
 4. Udvid **sektionen** Licenser, markér eller fjern markeringen i afkrydsningsfelterne for de licenser, du vil tildele eller fjerne tildelingen af, og vælg **derefter Gem ændringer**.
 
-Du kan få mere at [vide under Tildel licenser til](/microsoft-365/admin/manage/assign-licenses-to-users)brugere og Fjern licenser fra [brugere.](/microsoft-365/admin/manage/remove-licenses-from-users)
+Du kan få mere at [vide under Tildel licenser til](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)brugere og Fjern licenser fra [brugere.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)

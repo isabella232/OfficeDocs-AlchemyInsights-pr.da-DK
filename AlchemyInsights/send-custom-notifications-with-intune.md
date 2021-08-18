@@ -1,5 +1,5 @@
 ---
-title: Send brugerdefinerede meddelelser til Intune
+title: Send brugerdefinerede beskeder med Intune
 ms.author: brenduns
 author: brenduns
 manager: dougeby
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086158"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Sådan sender du brugerdefinerede meddelelser til brugerne af administrerede iOS-og Android-enheder
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Sådan sender du brugerdefinerede beskeder til brugere af administrerede iOS- og Android-enheder
 
-Brugerdefinerede meddelelser for Intune behandles af appen firma Portal på en brugers enhed. Appen opretter derefter push-beskeden på den pågældende enhed.
+Brugerdefinerede beskeder for Intune behandles af Firmaportal-appen på en brugers enhed. Appen opretter derefter pushmeddelelsen på den pågældende enhed.
 
-Følgende er enheds forudsætninger, der understøtter modtagelse af brugerdefinerede meddelelser, og for appen, så du kan oprette en push-besked:
+Følgende er enhedsfor forudsætninger for at understøtte modtagelse af brugerdefinerede beskeder, og for at appen kan oprette pushmeddelelsen:
 
-- Enheden skal have appen firma Portal installeret.  
+- Enheden skal have Firmaportal installeret.  
 
-- Enheden skal give appen firma Portal besked om at sende pushmeddelelser. Når appen installeres eller opdateres, bliver brugeren bedt om at tillade meddelelser.
+- Enheden skal tillade, at Firmaportal sender pushmeddelelser. Når appen er installeret eller opdateret, bliver brugeren bedt om at tillade meddelelser.
 
-- Der skal være installeret Google Play Services på Android-enheder.
+- Google Play-tjenester skal være installeret på Android-enheder.
 
-- Enheden skal være tilmeldt med Intune.
+- Enheden skal være tilmeldt Intune.
 
-Du kan finde flere oplysninger, herunder hvordan du sender en meddelelse, i [dokumentationen til funktionen](https://docs.microsoft.com/intune/custom-notifications).
+Du kan finde flere oplysninger om, hvordan du sender en meddelelse, i [funktionsdokumentationen](https://docs.microsoft.com/intune/custom-notifications).

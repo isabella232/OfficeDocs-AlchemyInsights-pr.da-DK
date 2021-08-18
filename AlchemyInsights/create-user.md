@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118738"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896709"
 ---
 # <a name="create-user"></a>Opret bruger
 
 **MEDDELELSE:**
 
-- [Udrådning af WebView-logonsupport fra Google fra den 4. januar 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Test, om dine apps kan blive påvirket, ved [at følge Googles vejledning til](https://go.microsoft.com/fwlink/?linkid=2157323) test af kompatibilitet.
-- Sørg for at bruge systemwebvisningen eller systembrowseren, når du logger dine brugere på med Google-forbrugerkonti. Du kan få mere at vide [under Problemer med at logge på programmer, der kun bruger Chrome-browseren.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Udrådning af WebView-logonsupport fra Google fra den 4. januar 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Test, om dine apps kan blive påvirket, ved [at følge Googles vejledning til](https://go.microsoft.com/fwlink/?linkid=2157323) test af kompatibilitet.
+- Sørg for at bruge systemwebvisningen eller systembrowseren, når du logger dine brugere på med Google-forbrugerkonti. Du kan få mere at vide [under Problemer med at logge på programmer, der kun bruger Chrome-browseren.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
 **Jeg kan ikke oprette en ny bruger i mit Azure AD-katalog**
 
@@ -36,6 +36,6 @@ ms.locfileid: "54118738"
 1. Se [Roller og administratorer i Azure](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) AD for dit Azure AD.
 1. Se [domænenavnene til](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) dit Azure AD.
 1. Gennemse [overvågningslogfiler for at](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) få vist mere detaljerede oplysninger om en nyligt oprettet eller slettet bruger, som f.eks. hvem der udførte handlingen og hvornår.
-1. Du kan finde flere oplysninger om at tilføje nye brugere [i Brug Azure-portalen til at oprette en ny bruger i dit Azure AD](/azure/active-directory/active-directory-users-create-azure-portal).
-1. [Administrative roller i Azure AD:](/azure/active-directory/active-directory-assign-admin-roles)Administratorrolletilladelser i Azure Active Directory
-1. Du kan også [bruge Azure AD PowerShell til at oprette en ny bruger.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Du kan finde flere oplysninger om at tilføje nye brugere [i Brug Azure-portalen til at oprette en ny bruger i dit Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
+1. [Administrative roller i Azure AD:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Administratorrolletilladelser i Azure Active Directory
+1. Du kan også [bruge Azure AD PowerShell til at oprette en ny bruger.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

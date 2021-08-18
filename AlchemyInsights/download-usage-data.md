@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004256"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315578"
 ---
 # <a name="download-usage-data"></a>Download brugsdata
 
@@ -26,14 +26,13 @@ Du har valgt et abonnement, der er knyttet til en Azure Enterprise-aftale.
 
 Hvis du vil have vist og downloade brugsdata som Enterprise Azure-kunde (EA), skal du udføre følgende trin:
 
-> [!NOTE]
-> Du skal være virksomhedsadministrator, kontoejer eller afdelingsadministrator, hvor politikken for visning af gebyrer er aktiveret. 
+**Bemærk!** Du skal være virksomhedsadministrator, kontoejer eller afdelingsadministrator, hvor politikken for visning af gebyrer er aktiveret. 
 
 1. Log på Azure-portalen, og søg efter **Administration af omkostninger + fakturering.**
 2. Vælg en faktureringsprofil, og klik **på Brug + gebyrer**.
 3. På skærmen, der vises, skal du vælge den måned, du skal bruge rapporten for, og klikke på **Download**.
 
-Hvis der kræves en fakturakopi, skal du kontakte din Microsoft-licenspartner (partner eller softwarerådgiver). De raise a Call-Logging (CLT) to Regional Operations Center (ROC) through Explore.ms.
+Hvis der kræves en fakturakopi, skal du kontakte din Microsoft-licenspartner (partner eller softwarerådgiver). De hæver et Call-Logging (CLT) til Regional Operations Center (ROC) via Explore.ms.
 
 **Opdatering – nov. 2020**
 

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com-mail abonnementer
+title: Outlook.com-mailabonnementer
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111898"
 ---
-# <a name="email-subscriptions"></a>Mail abonnementer
+# <a name="email-subscriptions"></a>Mailabonnementer
 
-Hvorfor får jeg vist mails på mine abonnements lister?
+Hvorfor får jeg vist mails på mine abonnementer?
 
-Outlook.com har registreret, at e-mail-meddelelsen indeholder abonnementsoplysninger, herunder "opsige abonnement" i meddelelsen. Outlook.com har ikke automatisk abonnement på et nyhedsbrev.
+Outlook.com har registreret, at mailen indeholder abonnementsoplysninger, herunder "Frameld" i meddelelsen. Outlook.com har ikke automatisk tilmeldt dig nyhedsbreve.
 
-Hvis du vil stoppe med at modtage nyhedsbreve eller kampagner, er der to måder, hvorpå du kan opsige abonnementet ved hjælp af Outlook.com:
-1. I din indbakke skal du vælge et nyhedsbrev eller en reklamemail. Øverst i læseruden skal du vælge **Ophæv abonnement**.
-2. Åbn dine [Outlook.com-abonnements](https://go.microsoft.com/fwlink/?linkid=2110887) indstillinger, og vælg **Ophæv abonnement**.
+Hvis du ikke længere vil modtage nyhedsbreve eller kampagner, er der to måder, hvorpå du kan opsige abonnementet på Outlook.com:
+1. Vælg et nyhedsbrev eller en reklamemail i din Indbakke. Øverst i læseruden skal du vælge Ophæv **abonnement**.
+2. Åbn dine [Outlook.com-abonnementsindstillinger, og vælg Ophæv](https://go.microsoft.com/fwlink/?linkid=2110887) **abonnement**.
 
-Bemærk: du får kun vist denne funktion, hvis du har modtaget en mail fra firmaet, der sender abonnements mails.
-Hvis din forespørgsel handler om Microsoft 365 betalte abonnementer, skal du gå til [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   eller [få mere at vide om Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Noter: Du får kun vist denne funktion, hvis du har modtaget en mail fra virksomheden, der sender mails, der abonneres på.
+Hvis din forespørgsel handler om Microsoft 365 betalte abonnementer, skal du gå til [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) eller Få mere at vide om [Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   
