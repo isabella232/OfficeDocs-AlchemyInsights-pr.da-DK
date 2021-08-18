@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
-ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
+ms.openlocfilehash: 946c7d86068026620163868463c4bb37108b1d60c4495ec548dc36043bce8414
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53023133"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898738"
 ---
 # <a name="get-business-assist"></a>Få Business Assist
 
-1. I Microsoft 365 Administration skal du gå til siden [Virksomhedsassistent til Microsoft 365 ,](https://go.microsoft.com/fwlink/p/?linkid=2158423)vælge en faktureringsfrekvens og derefter vælge **Køb**.
+1. I Microsoft 365 Administration skal du gå til [siden Business Assist for Microsoft 365 ,](https://go.microsoft.com/fwlink/p/?linkid=2158423)vælge en faktureringsfrekvens og derefter vælge **Køb**.
 2. Følg trinnene for at gå til siden.
 
-Du kan få mere at vide [under Virksomhedsassistent til Microsoft 365](/microsoft-365/admin/misc/business-assist).
+Du kan få mere at vide [under Business Assist til Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/misc/business-assist).

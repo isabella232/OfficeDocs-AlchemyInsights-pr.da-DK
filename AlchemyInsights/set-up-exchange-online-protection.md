@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085870"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897790"
 ---
 # <a name="set-up-exchange-online-protection"></a>Konfigurer Exchange Online Protection
 
-Microsoft Exchange Online Beskyttelse (EOP) er en skybaseret mailfiltreringstjeneste til beskyttelse mod spam og malware med funktioner til at beskytte din organisation mod brud på meddelelsespolitikken.
+Microsoft Exchange Online Beskyttelse (EOP) er en skybaseret mailfiltreringstjeneste til beskyttelse mod spam, malware og spoofing med funktioner, der beskytter din organisation mod brud på meddelelsespolitikken.
 
-Brug [](https://go.microsoft.com/fwlink/?linkid=2071067) Exchange Online Protection-konfigurationsvejledningen til at konfigurere EOP ved at vælge mellem de tre installationsscenarier – postkasser i det lokale miljø, hybrid (blanding af lokale og skybaserede) postkasser eller alle skybaserede postkasser – der passer til din organisation. Vejledningen indeholder oplysninger og ressourcer til konfiguration af EOP og gennemgang af din brugers licensering, tildeling af tilladelser i Microsoft 365 Administration og konfiguration af organisationens antimalware- og spampolitikker i Security & Compliance Center.
+Brug [installationsvejledningen Exchange Online Protection konfigurere](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) EOP ved at vælge mellem de tre installationsscenarier, der passer bedst til din organisation:
+
+- Alle lokale postkasser.
+- Hybrid (blanding af postkasser i det lokale miljø og skyen)
+- Alle skybaserede postkasser – der passer til din organisation.
+
+Vejledningen indeholder oplysninger og ressourcer til konfiguration af EOP og gennemgang af dine brugeres licenser, tildeling af tilladelser i Microsoft 365 Administration og konfiguration af organisationens sikkerhedspolitikker.

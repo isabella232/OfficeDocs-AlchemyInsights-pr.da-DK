@@ -1,5 +1,5 @@
 ---
-title: Installér Microsoft Edge til mobile til iOS/iPadOS eller Android
+title: Installer Microsoft Edge til Mobile til iOS/iPadOS eller Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005444"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315614"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Installér Microsoft Edge til mobile til iOS/iPadOS eller Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Installer Microsoft Edge til Mobile til iOS/iPadOS eller Android
 
-Det oversigtsscenarie, der er opsummeret nedenfor, hjælper dig med at tildele Microsoft Edge til brugere af iOS-, iPadOS- og Android-enheder. Når du har fuldført disse trin, Microsoft Intune politikker aktivere følgende funktioner i Microsoft Edge til virksomheder:
+Det oversigtsscenarie, der er opsummeret nedenfor, hjælper dig med at Microsoft Edge brugere af iOS-, iPadOS- og Android-enheder. Når du har fuldført disse trin, Microsoft Intune politikker aktivere følgende funktioner i Microsoft Edge til virksomheder:
 
 - Dobbelt identitet
-- Integration med Microsoft Intune politik for beskyttelse af apps
+- Integration med Microsoft Intune-politik for beskyttelse af apps
 - Integration med Azure Active Directory programproxy
 - Administrerede favoritter og genveje på startsiden
 
-> [!NOTE]
-> Hvis du har blokeret brugere fra at tilmelde sig mobilenheder, fungerer dette vejledende scenarie ikke, og brugerne skal installere Microsoft Edge på egen hånd.
+**Bemærk!** Hvis du har blokeret brugere fra at tilmelde sig mobilenheder, fungerer dette vejledende scenarie ikke, og brugerne skal selv installere Microsoft Edge enheder.
 
 Hvis du vil Microsoft Edge til mobil til iOS/iPadOS eller Android, skal du se:
 

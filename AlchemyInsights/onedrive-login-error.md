@@ -1,5 +1,5 @@
 ---
-title: Fejl AADSTS50011 for OneDrive-logon
+title: OneDrive logonfejl AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112906"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>Fejl AADSTS50011 for OneDrive-logon
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive logonfejl AADSTS50011
 
-Hvis du modtager en fejl "AADSTS50011: svar-URL-adressen, der er angivet i anmodningen, ikke stemmer overens med svaret" ved signering i OneDrive-appen, skal du kontrollere følgende:
+Hvis du får fejlmeddelelsen "AADSTS50011: Svarets URL-adresse, der er angivet i anmodningen, stemmer ikke overens med svaret", når du logger på OneDrive-appen, skal du kontrollere følgende:
 
-Din version af OneDrive skal være lig med eller større end version 20.052. XXXX. XX. Hvis du vil kontrollere din version, skal du klikke på det blå OneDrive-ikon i meddelelsesområdet, vælge **hjælp & indstillinger > indstillinger > om**.
+Din OneDrive version skal være lig med eller større end version 20.052.XXXX.XXXX. Hvis du vil kontrollere din version, skal du klikke på det blå ikon OneDrive i meddelelsesområde vælge **Hjælp & Indstillinger > Indstillinger > Om**.
 
-Dit netværk kan blokere for trafik til **g.live.com** -og **oneclient.SFX.MS**. Hvis den pågældende trafik blokeres, kan OneDrive ikke opdatere sig selv. Samarbejd med din netværksadministrator for at sikre, at du har adgang til disse URL-adresser. [Disse slutpunkter](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) skal være tilgængelige for kunder, der bruger Microsoft 365-planer.
+Dit netværk kan blokere for trafik **g.live.com** og **oneclient.sfx.ms**. Hvis denne trafik er blokeret, OneDrive ikke opdatere sig selv. Arbejd sammen med din netværksadministrator for at sikre, at du har adgang til disse URL-adresser. [Disse slutpunkter skal være](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) tilgængelige for kunder, der bruger Microsoft 365-planer.
 
-Hvis du har brug for at hente en aktuel version af OneDrive manuelt, skal du gå til [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Hvis du har brug for manuelt at få en aktuel version af OneDrive, skal du gå til [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
