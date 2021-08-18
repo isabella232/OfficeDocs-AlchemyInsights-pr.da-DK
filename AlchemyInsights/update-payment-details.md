@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892421"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330662"
 ---
 # <a name="update-credit-card-information"></a>Opdater kreditkortoplysninger
 
 1. I Microsoft 365 Administration skal du gå til siden **Fakturering** \> [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-    > [!NOTE]
-    > Hvis du oplever en løkke, som sender dig tilbage til Administrationssiden, før dine opdateringer er gennemført, kan du prøve tilstanden Inprivate eller Incognito.
+    **Bemærk!** Hvis du oplever en løkke, der sender dig tilbage til startsiden for administrator, før dine opdateringer er fuldført, kan du prøve tilstanden Inprivate eller Incognito.
   
 2. Vælg det kreditkort, du gerne vil opdatere.
 
-    > [!NOTE]
-    > Hvis en anden administrator har tilføjet betalingsmetoden, kan du ikke kan opdatere oplysningerne for dens kreditkort eller bankkonto. Hvis det anvendte kort er ved at udløbe, og den anden administrator ikke kan opdatere dets oplysninger, kan du forhindre, at tjenesten afbrydes, ved at tilføje et ekstra kreditkort for abonnementet ved at vælge **Tilføj betalingsmetode**.
+    **Bemærk!** Hvis en anden administrator har tilføjet betalingsmetoden, kan du ikke opdatere kreditkortoplysningerne eller bankkontooplysningerne for den. Hvis det anvendte kort er ved at udløbe, og den anden administrator ikke kan opdatere dets oplysninger, kan du forhindre, at tjenesten afbrydes, ved at tilføje et ekstra kreditkort for abonnementet ved at vælge **Tilføj betalingsmetode**.
   
 3. I ruden **Oplysninger om betalingsmetode** skal du vælge **Rediger**.
 

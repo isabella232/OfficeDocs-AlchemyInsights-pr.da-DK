@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: eb62dfce9f9507dd8806d91343cd39fe76e65594473683c1393d524f6c2d8a27
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893905"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327840"
 ---
 # <a name="unable-to-activate-office"></a>Det er ikke muligt at Office
 
@@ -29,7 +29,7 @@ ms.locfileid: "57893905"
 - Se [siden Tjenestetilstand for Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) for at finde ud af, om der er nogen kendte problemer med tjenesten.
 - Kontrollér din firewall, din antivirussoftware og dine proxyindstillinger for at bekræfte, at de ikke Microsoft 365 adgang til internettet. Se [URL-adresser og IP-adresseområder for Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365-URL-adresser og IP-adresseintervaller").
 
-**Tip** På Windows-computere kan vi diagnosticere og automatisk løse Office almindelige problemer med logon for dig. Download og kør **[Microsoft-Support- og genoprettelsesassistent](https://aka.ms/SaRA-OfficeSignInScenario)** at bruge vores automatiserede værktøj.
+**Tip** På Windows computere kan vi diagnosticere og automatisk løse forskellige almindelige Office problemer med logon for dig. Download og kør **[Microsoft-Support- og genoprettelsesassistent at](https://aka.ms/SaRA-OfficeSignInScenario)** bruge vores automatiserede værktøj.
 
 Brug følgende fejlfindingshandlinger:
 

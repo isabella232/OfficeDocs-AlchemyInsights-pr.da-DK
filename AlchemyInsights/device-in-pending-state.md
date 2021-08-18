@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913997"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330366"
 ---
 # <a name="device-in-pending-state"></a>Enhed i ventende tilstand
 
@@ -35,31 +35,28 @@ Denne registreringsstrøm kaldes også "Synkroniser join".
 
 Her er en oversigt over, hvad der sker under registreringsprocessen:
 
-1. Windows 10 finder Service Connection Point (SCP)-posten, når brugeren logger på enheden.
+1. Windows 10 opdager Service Connection Point (SCP)-posten, når brugeren logger på enheden.
 
     1. Enheden forsøger først at hente lejeroplysninger fra klientsiden SCP i registreringsdatabasen [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Du kan finde flere oplysninger i [dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     1. Hvis det ikke lykkes, kommunikerer enheden med det lokale Active Directory for at få lejeroplysninger fra SCP. Se dette dokument for [](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)at bekræfte SCP.
 
-    > [!NOTE]
-    > Vi anbefaler, at du aktiverer SCP i Active Directory og kun bruger SCP på klientsiden til indledende validering.
+    **Bemærk!** Vi anbefaler, at du aktiverer SCP i Active Directory og kun bruger SCP på klientsiden til indledende validering.
 
 2. Windows 10 forsøger at kommunikere med Azure AD i systemkonteksten for at godkende sig selv i forhold til Azure AD.
 
     Du kan kontrollere, om enheden kan få adgang til Microsoft-ressourcer under systemkontoen ved hjælp af [scriptet Test enhedsregistreringsforbindelse](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
 
-3. Windows 10 genererer selv signeret certifikat og gemmer det under computerobjektet i det lokale Active Directory. Dette kræver, at du bruger domænecontroller.
+3. Windows 10 genererer et selv signeret certifikat og gemmer det under computerobjektet i det lokale Active Directory. Dette kræver, at du bruger domænecontroller.
 
 4. Enhedsobjekt, der har certifikat, synkroniseres med Azure AD via Azure AD Forbind. Synkroniseringscyklussen er som standard hvert 30. minut, men det afhænger af konfigurationen af Azure AD Forbind. Du kan finde flere oplysninger i dette [dokument](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
 
 5. På dette tidspunkt bør du kunne se emneenheden i tilstanden "**Afventer"** under Enheds bladet for Azure Portal.
 
-6. Ved næste brugerlogon til Windows 10, fuldføres registreringen.
+6. Ved næste brugerlogon på Windows 10, fuldføres registreringen.
 
-    > [!NOTE]
-    > Hvis du er på VPN og logoff/logon afslutter domæneforbindelsen, kan du udløse registreringen manuelt. Sådan gør du:
-    >
-    > Ud problem `dsregcmd /join` med en lokal administratorprompt eller eksternt via PSExec til din pc.
-    >
-    > For eksempel: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **Bemærk!** Hvis du bruger VPN, og logoff/logon afslutter domæneforbindelsen, kan du udløse registrering manuelt. Sådan gør du:
+    
+    Problem med `dsregcmd /join` en lokal administratorprompt eller eksternt via PSExec til din pc.\
+    For eksempel: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Du kan finde almindelige problemer Azure Active Directory om registrering af enheder i Ofte [stillede spørgsmål om enheder.](https://docs.microsoft.com/azure/active-directory/devices/faq)
+Se Ofte stillede spørgsmål om Azure Active Directory enheder for almindelige problemer [med registrering af enheder.](https://docs.microsoft.com/azure/active-directory/devices/faq)

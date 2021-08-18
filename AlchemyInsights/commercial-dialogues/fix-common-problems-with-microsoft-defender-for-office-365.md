@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898238"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330054"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Løs almindelige problemer med Microsoft Defender til Office 365
 
@@ -33,11 +33,11 @@ Her er nogle løsninger på almindelige problemer med Microsoft Defender til Off
 
 - **Aktivér Pengeskab Link-beskyttelse:**
 
-  1. I portalen Microsoft 365 Defender på skal du gå til & politikker for samarbejde & Politikker for <https://security.microsoft.com/>  \>  \>  \> **trussel Pengeskab Links** i **sektionen** Politikker.
+  1. I Microsoft 365 Defender på skal du gå til & politikker for samarbejde & politikker for Pengeskab regler og Pengeskab <https://security.microsoft.com/>  \>  \>  \>  **i sektionen** Politikker.
 
      For at gå direkte til **siden Pengeskab Links skal** du bruge <https://security.microsoft.com/safelinksv2> .
 
-  2. På siden **Pengeskab Links** skal du vælge politikken ved at klikke på navnet på politikken.
+  2. På siden **Pengeskab links** skal du vælge politikken ved at klikke på navnet på politikken.
   3. I pop op-vindue med oplysninger, der vises, skal du gøre et af følgende:
      - Hvis du vil tilføje en ny politik, skal du **vælge + Opret.** Der starter en guide, der kan hjælpe dig med at definere dine politikindstillinger.
      - Hvis du vil redigere en eksisterende politik, skal du vælge politikken ved at klikke på navnet på politikken. I pop op-menuen med oplysninger, der vises, **skal du** vælge Rediger i **sektionen Beskyttelsesindstillinger.**

@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898886"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330402"
 ---
 # <a name="change-your-billing-address"></a>Skift din faktureringsadresse
 
@@ -33,14 +33,14 @@ Din regning eller faktura indeholder tre adresser.
 1. I Administration skal du gå til **Fakturering > [Betalingsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Vælg det kreditkort eller den bankkonto, du vil ændre.
 3. På siden **Med oplysninger om betalingsmetode** skal du klikke på **Rediger**.
-4. Opdater din faktureringsadresse, og klik **derefter på Gem > udført**.
+4. Opdater din faktureringsadresse, og klik derefter **på Gem > udført**.
 
-Hvis du vil have mere at vide om adresse- og meddelelsesændringer, [skal du se Ændre dine faktureringsadresser for Microsoft 365 til virksomheder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Du kan finde flere oplysninger om adresse- og meddelelsesændringer [i Ændre dine faktureringsadresser for Microsoft 365 til virksomheder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **Ændre faktureringskontooplysningerne**
 
 1. I Administration skal du gå til **Fakturering > [Faktureringskonti](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
 2. Vælg **Rediger faktureringskontooplysninger**.
-3. Opdater faktureringskontooplysningerne, og klik derefter **på Gem > Udført**.
+3. Opdater faktureringskontooplysningerne, og klik derefter **på Gem > udført**.
 
 **Bemærk!** Du kan ikke ændre Land/Område. Hvis dette felt skal ændres, skal du købe en ny lejer.

@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891893"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328330"
 ---
 # <a name="subscription-expired"></a>Abonnementet er udløbet
 
@@ -29,9 +29,8 @@ Hvis dit abonnement udløber eller er blevet deaktiveret af Microsoft, eller hvi
 **Genaktiver et abonnement**
 
 1. I Administration skal du gå til **siden Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
-2. På fanen **Produkter** skal du finde det abonnement, du vil genaktivere, vælge de tre prik (flere handlinger) og derefter vælge **Genaktiver dette abonnement**.
-    > [!NOTE]
-    > Hvis du ikke kan se **Genaktiver dette abonnement, skal** du kontakte support.
+2. På fanen **Produkter** skal du finde det abonnement, du vil genaktivere, vælge de tre d'er (flere handlinger) og derefter vælge **Genaktiver dette** abonnement .\
+    **Bemærk!** Hvis du ikke kan se **Genaktiver dette abonnement, skal** du kontakte support.
 3. Vælg **en betalingsmetode på rullelisten** i ruden Genaktiver dette abonnement, eller vælg **Tilføj betalingsmetode.**
 4. Vælg **Gem**.
 

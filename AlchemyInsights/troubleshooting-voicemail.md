@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 36ba65c1ee67631a8b3c24c3407f46e3304541c5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972377"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330738"
 ---
 # <a name="troubleshooting-voicemail"></a>Fejlfinding af telefonsvarer
 
@@ -31,7 +31,7 @@ Hvis denne funktion ikke er nødvendig for denne bruger:
 1. Vælg **Administrer brugere**.
 1. Søg efter bruger, og skift Opkaldspolitik til en, der har Optaget **optaget er tilgængelig, når du er i et opkald** til **Fra**.
 1. Klik på **Anvend**.
-> [!NOTE]
-> Det kan tage op til 24 timer at replikere ændringer i politikker.
 
-Du kan finde flere oplysninger om denne funktion under: [Optaget optaget er tilgængelig, mens du er i et opkald](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+**Bemærk!** Det kan tage op til 24 timer at replikere ændringer i politikker.
+
+Du kan finde flere oplysninger om denne funktion under: [Optaget optaget er tilgængelig, mens du er i et opkald.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

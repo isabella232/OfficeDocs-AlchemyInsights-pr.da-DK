@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901730"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330166"
 ---
 # <a name="canceling-your-subscription"></a>Vil du opsige dit abonnement?
 
@@ -30,7 +30,6 @@ Vi er kede af, at du har op dit abonnement, men hvis du vil opsige dit abonnemen
   
 **Refusion: Du får krediteret et forholdsmæssigt beløb inden for den næste faktureringscyklus.**
 
-> [!NOTE]
-> Hvis du ikke kan se muligheden for at annullere, skal du vælge abonnementet for at få vist detaljesiden. I sektionen **Abonnements- og betalingsindstillinger skal** du vælge **Annuller abonnement.**
+**Bemærk!** Hvis du ikke kan se muligheden for at annullere, skal du vælge abonnementet for at få vist detaljesiden. I sektionen **Abonnements- og betalingsindstillinger skal** du vælge **Annuller abonnement.**
 
 Du kan få mere at vide under [Annuller dit abonnement.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

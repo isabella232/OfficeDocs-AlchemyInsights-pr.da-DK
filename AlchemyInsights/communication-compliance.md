@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090730"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329912"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Kommunikationsoverholdelse i Microsoft 365
 
-Kommunikationsoverholdelse er en ny løsning Microsoft 365 overholdelse af regler og standarder, der hjælper organisationer med at opfylde krav til overholdelse af regler og standarder og minimere kommunikationsrisici. Den er baseret på funktionen Overvågning og indeholder nye forbedringer, herunder:
+Kommunikationsoverholdelse er en ny løsning Microsoft 365 overholdelse af regler og standarder, der hjælper organisationer med at opfylde krav til overholdelse af regler og standarder samt minimere kommunikationsrisici. Den er baseret på funktionen Overvågning og indeholder nye forbedringer, herunder:
 
 - Intelligente skabeloner, der kan tilpasses
 - Fleksible afhjælpningsarbejdsprocesser
@@ -41,7 +41,6 @@ Licenskrav: Brugere, der overvåges af kommunikationspolitikker, skal have et af
 - Office 365 Enterprise E3-licens med tilføjelsesprogrammet Avanceret overholdelse
 - Office 365 Enterprise E5-abonnement
 
-Hvis du ikke har noget af ovenstående og vil prøve overholdelse af regler og standarder i kommunikation, tilmeld dig en prøveversion **[Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+Hvis du ikke har noget af ovenstående og gerne vil prøve overholdelse af regler og standarder i kommunikation, kan du tilmelde dig en prøveversion **[Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> Det kan tage op til 24 timer, før mails behandles fuldt ud i en politik. Kommunikation på Microsoft Teams, Yammer og tredjepartsplatforme kan tage op til 48 timer at behandle fuldt ud i en politik.
+**Bemærk!** Det kan tage op til 24 timer, før mails behandles fuldt ud i en politik. Kommunikation i Microsoft Teams, Yammer og tredjepartsplatforme kan tage op til 48 timer, før en politik behandles fuldt ud.
