@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: de141118124bf76339888a325c595c63cbaaa06d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894017"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317006"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Annuller Avanceret trusselsbeskyttelse
 
-Administratorer kan annullere advanced Threat Protection-abonnementet for deres organisation i Microsoft 365 Administration.
+Administratorer kan annullere Advanced Threat Protection-abonnementet for deres organisation i Microsoft 365 Administration.
 
 1. Gå til siden **Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
 2. Find **den Advanced** Threat Protection-plan, du vil annullere, under fanen Produkter. Vælg de tre d'er (flere handlinger), og vælg derefter **Annuller abonnement**.

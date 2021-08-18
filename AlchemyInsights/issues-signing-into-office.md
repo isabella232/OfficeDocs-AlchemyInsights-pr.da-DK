@@ -1,5 +1,5 @@
 ---
-title: Problemer med at logge på Microsoft 365-apps
+title: Problemer med at logge på Microsoft 365 apps
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087994"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a>Problemer med at logge på Microsoft 365-apps
+# <a name="issues-signing-into-microsoft-365-apps"></a>Problemer med at logge på Microsoft 365 Apps
 
-Du kan løse logonproblemer med Microsoft 365-apps ved at prøve følgende indstillinger på den pågældende computer:  
+Du kan løse logonproblemer med Microsoft 365 ved at prøve følgende indstillinger på den pågældende computer:  
 
-- Hvis du bruger Windows, skal du se Anbefalinger til løsning [af almindelige problemer med logon](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- Til Mac skal du  [se Kan du ikke logge på en Office 2016 til Mac-app?](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- Du Windows oplysninger [Anbefalinger, hvordan du løser almindelige problemer med at logge på](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Til Mac skal du [se Kan du ikke logge på Office 2016 til Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Tip** På Windows-computere kan vi diagnosticere og automatisk løse forskellige almindelige office-logonproblemer for dig. Download og kør  **[Microsoft Support- og genoprettelsesassistent for](https://aka.ms/SaRA-OfficeSignInScenario)** at bruge vores automatiserede værktøj.
+**Tip** På Windows computere kan vi diagnosticere og automatisk løse forskellige almindelige Office problemer med logon for dig. Download og kør **[Microsoft-Support- og genoprettelsesassistent](https://aka.ms/SaRA-OfficeSignInScenario)** at bruge vores automatiserede værktøj.
 
-**Bemærk!** Deaktivering af moderne godkendelse (ADAL) eller WAM (Web Account Management) til løsning af problemer med logon eller aktivering **anbefales ikke.** Hvis fejlene opstår, når du opretter forbindelse til Microsoft 365 ved hjælp af Office 2013, skal du sikre dig, at du aktiverer [moderne godkendelse](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  for Office-klienten.
+**Bemærk!** Deaktivering af moderne godkendelse (ADAL) eller WAM (Web Account Management) til løsning af problemer med logon eller aktivering **anbefales ikke.** Hvis fejlene opstår, når du opretter forbindelse til en Microsoft 365 bruger Office 2013, skal du sikre dig, at du aktiverer moderne godkendelse [for](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) Office klient.
 
 Du kan finde specifikke fejlfindingshandlinger i:
 

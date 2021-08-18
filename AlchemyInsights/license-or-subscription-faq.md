@@ -15,19 +15,18 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 0a6d169a0fdff9fe7dec9d7175f80d092a0251839f2c4d29f42f1b884c6a6f44
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3624a8f4f7ca00d5a133e25361b33861aa05592c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986732"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316444"
 ---
 # <a name="license-or-subscription-faq"></a>Ofte stillede spørgsmål om licenser eller abonnementer
 
 - Du kan finde de abonnementer eller licenser, der ejes af din organisation, ved at gå **til Fakturering**  >  [dine produkter.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 - [Tilføj eller fjern licenser](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) fra et abonnement.
-    > [!NOTE]
-    > Du bliver stadig opkrævet betaling for licenser, der ikke er tildelt til brugere. For at undgå uønskede gebyrer skal du fjerne licenserne for at reducere antallet af licenser.
+    **Bemærk!** Du bliver stadig opkrævet betaling for licenser, der ikke er tildelt til brugere. For at undgå uønskede gebyrer skal du fjerne licenserne for at reducere antallet af licenser.
 . [Overfør licenser mellem konti](https://docs.microsoft.com/alchemyinsights/transfer-licenses-between-tenants).
 - [Genaktiver et udløbet eller deaktiveret abonnement](https://go.microsoft.com/fwlink/p/?linkid=2117519).
 - [Rediger den betalingsmetode, der bruges til at betale for abonnementet.](https://go.microsoft.com/fwlink/p/?linkid=2117167)

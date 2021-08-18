@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 9792f6dbd1ec1c02665a572c23afceb9f37afdae1604455227ebddb1fb8c51a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9450edbed749f6abcb268678acb407599559ad0f0ab8fb405b3f772c2371cdea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53920965"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899654"
 ---
 # <a name="troubleshooting-out-of-office-automatic-replies"></a>Fejlfinding uden for Office autosvar
 
 Der kan være en lang række mulige årsager til problemerne, afhængigt af hvordan du har konfigureret antallet af Office autosvar.
 
-Du kan få en dybere forståelse af, hvor problemet kan være, ved at læse Forstå og fejlfinding Office svar [(Out of Office).](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)
+Du kan få en dybere forståelse af, hvor problemet kan være, ved at læse Forstå og fejlfinding Office svar [(Out of Office).](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)

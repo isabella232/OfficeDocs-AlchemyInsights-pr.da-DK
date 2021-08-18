@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100396"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316634"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Eksportér elementer til en arkivfil i Outlook til Mac
 
@@ -24,8 +24,7 @@ Hvis du vil reducere størrelsen på din indbakke, skal du manuelt arkivere mail
 
 1. På fanen **Værktøjer skal** du klikke på **Eksportér**.
 
-> [!NOTE]
-> Kan du ikke se **knappen Eksportér?** Sørg for, at du har den nyeste version Outlook. I menuen Outlook **skal** du klikke på **Søg efter opdateringer**. Hvis alle Outlook opdateringer anvendes, og du stadig  ikke kan se  knappen Eksportér, skal du se efter Eksportér Outlook **menuen** Filer.
+    **Bemærk!** Kan du ikke se **knappen Eksportér?** Sørg for, at du har den seneste version af Outlook. I menuen Outlook **skal** du klikke på **Søg efter opdateringer**. Hvis alle Outlook anvendes, og du stadig ikke  kan se knappen Eksportér, skal du se **efter** Eksportér Outlook **menuen** Filer.
 
 2. Markér de elementer, du vil eksportere, i feltet Eksportér til arkivfil **(.olm),** og klik på **Fortsæt.**
 
@@ -37,7 +36,7 @@ Du kan finde oplysninger om, hvordan du får adgang til de data, du har gemt i e
 
 **Jeg vil eksportere til iCloud eller en anden type arkivfil**
 
-Den eneste eksportindstilling, der er tilgængelig på nuværende tidspunkt, er .olm-arkivfilen. Hvis du vil anmode om yderligere eksportmuligheder, skal [du Outlook forslagskassen for](https://outlook.uservoice.com/) at give din feedback. Teamet Outlook overvåger aktivt dette forum.
+Den eneste eksportindstilling, der er tilgængelig på nuværende tidspunkt, er .olm-arkivfilen. Hvis du vil anmode om yderligere eksportindstillinger, skal [du Outlook forslagskassen for](https://outlook.uservoice.com/) at give din feedback. Gruppen Outlook overvåger aktivt dette forum.
 
 **Se også**
 
