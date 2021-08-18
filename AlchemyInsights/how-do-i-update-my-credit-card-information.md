@@ -16,16 +16,16 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: b35a671b345600f9bbd03175ba2cc3d83ffb5602d0d5b0631e0a9c6bca09db50
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 793ef7991a06d15a850cdc8838f94e464df724a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887664"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319530"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hvordan opdaterer jeg mine kreditkortoplysninger?
 
-1. I Administration skal du gå til **siden**  >  **Faktureringsfakturering &**  >  [betalingsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. I Administration skal du gå til siden  >  **Faktureringsfakturering &**  >  [betalingsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 2. Vælg rækken med den betalingsmetode, der skal opdateres. I højre rude skal du vælge **Rediger**.
 3. Opdater oplysninger om din betalingsmetode, herunder navnet på kreditkortet eller debetkortet, faktureringsadressen eller udløbsdatoen, og vælg derefter **Gem**.
 

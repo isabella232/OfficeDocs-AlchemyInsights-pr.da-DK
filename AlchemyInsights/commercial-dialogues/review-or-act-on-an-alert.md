@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3342b24c744a6a3990aaa397abdfab36bfc4ebcf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897037"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319688"
 ---
 # <a name="review-or-act-on-an-alert"></a>Gennemse eller reagere på en besked
 
@@ -26,7 +26,7 @@ Følg disse trin:
 
 1. Gør en af følgende handlinger:
    - I Microsoft 365 Overholdelsescenter på <https://compliance.microsoft.com> skal du gå til **Beskeder**. Eller åbn siden direkte på <https://compliance.microsoft.com/compliancealerts> .
-   - I Microsoft 365 Defender på <https://security.microsoft.com> skal du gå til **Beskeder**. Eller åbn siden direkte på <https://security.microsoft.com/alerts> .
+   - I portalen Microsoft 365 Defender på <https://security.microsoft.com> skal du gå til **Beskeder**. Eller åbn siden direkte på <https://security.microsoft.com/alerts> .
 2. Vælg en besked. I pop op-vindue med oplysninger, der vises, kan du se, hvad der udløste beskeden.
 3. Klik på det angivne link, hvis du vil handle på beskeden.
 4. Klik **på** Løs , hvis du vil lukke beskeden.

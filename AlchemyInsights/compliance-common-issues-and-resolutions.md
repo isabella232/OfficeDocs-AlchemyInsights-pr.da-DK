@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893517"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319622"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Almindelige problemer og løsninger i Overholdelse
 
@@ -39,6 +39,6 @@ Her er nogle af de mest almindelige emner for overholdes:
 
 - Visning af beskedpolitikker: [Se beskedpolitikker i Microsoft 365 Overholdelsescenter](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
-- Complicance Center-tilladelser: [Se Tilladelser i Microsoft 365 Overholdelsescenter](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
+- Tilladelser til Komplikationscenteret: [Se Tilladelser i Microsoft 365 Overholdelsescenter](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Bemærk**: Hvis du ønsker et mere specifikt svar om et overholdelsesproblem, kan du prøve at omformulere dit spørgsmål, så det inkluderer de fejl, du oplever, eller de funktioner, du bruger.

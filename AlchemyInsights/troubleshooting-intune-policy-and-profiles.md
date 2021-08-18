@@ -1,5 +1,5 @@
 ---
-title: Fejlfinding af Intune-politikker og-profiler
+title: Fejlfinding af Intune-politik og -profiler
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092404"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Fejlfinding af Intune-politikker og-profiler
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Fejlfinding af Intune-politik og -profiler
 
-Hvis du vil se eksisterende politikker, udføre fejlfinding af konflikter, gennemse logdata og se almindelige spørgsmål og problemer, kan følgende hjælpelinjer være en hjælp.
+Hvis du vil se eksisterende politikker, foretage fejlfinding af konflikter, gennemse logdata og se almindelige spørgsmål og problemer, kan følgende vejledninger være en hjælp.
 
 - [Fejlfinding af politikker og profiler i Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Almindelige spørgsmål, problemer og løsninger med enheds politikker og profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Almindelige spørgsmål, problemer og løsninger med enhedspolitikker og -profiler i Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Overvåge enheds konfigurationsprofiler og få vist konflikter i Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Overvåg enhedskonfigurationsprofiler, og få vist konflikter i Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Fejlfinding af enheds overholdelse og betinget adgang i Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Fejlfinding af enhedsoverholdelse og betinget adgang i Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Overvåge overholdelsespolitikker og få vist konflikter i Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Overvåg politikker for overholdelse af regler og standarder, og få vist konflikter i Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Send data fra Intune til Azure-lager, hændelses hubs eller analyse af logfiler](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Send Intune-logdata til Azure-lagerplads, hændelseshubs eller loganalyse](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Se oversigten for at [konfigurere enheder](https://docs.microsoft.com/intune/device-profiles) eller [bruge overholdelsespolitikker](https://docs.microsoft.com/intune/device-compliance-get-started).
+Se oversigten til konfiguration [af enheder eller](https://docs.microsoft.com/intune/device-profiles) brug af politikker for overholdelse af regler og [standarder.](https://docs.microsoft.com/intune/device-compliance-get-started)

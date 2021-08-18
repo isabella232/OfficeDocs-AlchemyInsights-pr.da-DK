@@ -1,5 +1,5 @@
 ---
-title: Sådan bruger du SharePoint Online-betalings lager
+title: Sådan bruger du SharePoint Online Ordbank
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c05cd822844c22a7fb5b384d224bcc6b863327c2a20b39512c16e0585e8951b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115968"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Sådan bruger du SharePoint Online-betalings lager
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Sådan bruger du SharePoint Online Ordbank
 
-Ordbanken er tilgængelig for en global administrator, en SharePoint-administrator og en ordbankadministrator og kan findes i den nye SharePoint Online-Administrationscenter.
+Ordbanken Store tilgængelig for en global administrator, SharePoint-administrator og ord Store-administratorer og kan findes i den nye SharePoint Online Administration.
   
-Hvis du vil have mere at vide om, hvordan du bruger SharePoint Online-ordbank og taksonomi i SharePoint Online, skal du se [Introduktion til administrerede metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Du kan finde flere oplysninger om, hvordan du bruger SharePoint Online term Store og taksonomi i SharePoint Online under Introduktion [til administrerede metadata.](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)
   
-Hvis du har et problem med termer, der ikke vises eller vises med det samme, anbefaler vi, at du venter 24 timer, og derefter logfører en supportanmodning, hvis problemet fortsætter. Selvom 24 timer kan være lang tid, kan der være et cache lagrings problem, eller vi arbejder muligvis allerede på en løsning på dette problem.
+Hvis du har et problem med, at ord ikke vises eller vises periodisk, anbefaler vi, at du venter 24 timer og derefter logger en supportanmodning, hvis problemet fortsætter. Selvom 24 timer kan være lang tid, kan der være et problem med cachelagring, eller vi arbejder måske allerede på en løsning på dette problem.
   
