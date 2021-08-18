@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a82695d81db634cfd12971a9b6521ae1de56360a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888236"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317644"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Introduktion til Teams webinarer
 
@@ -25,6 +25,6 @@ Webinarer er strukturerede møder, hvor undervisere og deltagere har tydelige ro
 
 Når dine brugere har konfigureret webinarer i organisationen, kan de planlægge webinarer og åbne tilmeldingen for deltagerne. I modsætning til traditionelle møder, der indeholder mange diskussioner og opgavetildeling, er webinarer beregnet til interaktive præsentationer og til at levere værktøjer til analyse af deltagere.
 
-**Bemærk!** Webinarfunktionaliteten er stadig i gang med at blive udrullet til Microsoft 365 lejere. 
+**Bemærk!** Webinarfunktionaliteten er stadig i gang med at blive rullet ud til Microsoft 365 lejere. 
 
-Du kan finde flere oplysninger om, hvordan du konfigurerer Teams webinarer, i Konfigurere [for webinarer i Microsoft Teams.](https://docs.microsoft.com/microsoftteams/set-up-webinars)
+Du kan finde flere oplysninger om, hvordan du konfigurerer Teams webinarer, under Konfigurere [for webinarer i Microsoft Teams.](https://docs.microsoft.com/microsoftteams/set-up-webinars)

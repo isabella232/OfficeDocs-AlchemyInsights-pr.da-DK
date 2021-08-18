@@ -1,5 +1,5 @@
 ---
-title: Microsoft Threat Experts - Experts on Demand
+title: Microsoft-trusselseksperter – Eksperter on Demand
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113914"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Threat Experts - Experts on Demand
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft-trusselseksperter – Eksperter on Demand
 
-Experts on Demand er den anden funktionalitet for Microsoft Threat Experts. Det er her, du kan kontakte os, når du har brug for råd om relevante spørgsmål vedrørende registreringer og modgange.
+Eksperter efter behov er den anden Microsoft-trusselseksperter funktion. Det er her, du kan kontakte os, når du har brug for råd om relevante spørgsmål vedrørende registreringer og adversar.
 
-Hvis du allerede er Defender for Endpoint-kunde, kan du kontakte din Microsoft-repræsentant for at abonnere på Microsoft Threat Experts - Experts on Demand.
+Hvis du allerede er Defender for Endpoint-kunde, kan du kontakte din Microsoft-repræsentant for at abonnere på Microsoft-trusselseksperter - Experts on Demand.
 
-Muligheden for at **kontakte en trusselsekspert** findes i følgende menuer på portalen, hvor du kan interagere med eksperter i forbindelse med din undersøgelse:
+Muligheden for at **kontakte en trusselsekspert** er tilgængelig i følgende menuer i portalen, hvor du kan kontakte eksperter i forbindelse med din undersøgelse:
 
 - Menuen Hjælp og support
 - Menuen Enhedssidehandlinger
-- Menuen Med handlinger på siden Vigtige beskeder
+- Menuen med beskedsidehandlinger
 - Menuen Filsidehandlinger
 
-Du kan finde flere oplysninger [i Konfigurere og administrere egenskaber for Microsoft Threat Experts.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
+Du kan finde flere oplysninger [under Konfigurere og Microsoft-trusselseksperter egenskaber](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).

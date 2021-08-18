@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868412"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317588"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Overvågningslogfiler for slettede mails
 
@@ -36,4 +36,4 @@ Vælg en overvågningspost i resultaterne. Klik på Flere oplysninger i pop **op
 
 Du kan få mere at vide [under Fastslå, hvem der har konfigureret videresendelse af mail for en postkasse](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
-**Bemærk!** Du kan ikke hente slettede elementer ved hjælp af funktionen overvågningslog. Hvis du vil hente slettede meddelelser Outlook på internettet, skal [du se Gendan slettede elementer Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Bemærk!** Du kan ikke hente slettede elementer ved hjælp af funktionen overvågningslog. Hvis du vil hente slettede meddelelser Outlook på internettet, skal du [se Gendan slettede elementer Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

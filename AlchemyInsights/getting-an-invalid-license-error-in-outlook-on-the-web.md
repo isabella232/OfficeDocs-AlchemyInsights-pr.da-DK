@@ -1,5 +1,5 @@
 ---
-title: 125 får du en ugyldig licensfejl i Outlook på internettet?
+title: 125 Får du en fejl om ugyldig licens Outlook på internettet?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,19 +14,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 825d91cd81646767b100e6fc964d7a94b8bc6879
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 357e57d20e3b6f56d3058bc1c782c3da7598520c29c5c29bfba6eec614fc5248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089254"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Får du en ugyldig licensfejl i Outlook på internettet?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Får du en fejl om ugyldig licens Outlook på internettet?
 
-Hvis du bruger Outlook på internettet, og du får et problem, der **opstod** en fejl, der indeholder **X-OWA-fejl: Microsoft. Exchange. data. storage. InvalidLicenseException**, din Exchange Online-licens er ikke tildelt korrekt eller har for nylig udløbet. Din administrator kan tildele dig en licens ved at følge disse trin:
+Hvis du bruger en Outlook på internettet, og  du får en Der opstod en fejl, der indeholder **X-OWA-Error: Microsoft.Exchange. Data. Storage. InvalidLicenseException**, din Exchange Online licens er ikke tildelt korrekt eller er for nylig udløbet. Din administrator kan tildele dig en licens ved at følge disse trin:
   
-1. Åbn [Microsoft 365 administration](https://portal.office.com/adminportal/home#/homepage) , og vælg **Rediger en bruger**under **aktive brugere**.
+1. Åbn dialogboksen [Microsoft 365 Administration](https://portal.office.com/adminportal/home#/homepage) under **Aktive brugere**, vælg **Rediger en bruger**.
 
-2. På siden **Rediger en bruger** , der åbnes, skal du vælge brugeren. På siden bruger egenskaber, der åbnes, skal du klikke på **Rediger** for **produktlicenser**.
+2. Vælg **brugeren på siden Rediger** en bruger, der åbnes. På siden med brugeregenskaber, der åbnes, skal du klikke **på Rediger** for **produktlicenser.**
 
-3. På siden **produktlicenser** , der åbnes, skal du vælge den relevante **placerings** værdi og tildele en licens, der indeholder Exchange Online (Udvid licensen for at se dens detaljer). Klik på **Gem**, når du er færdig.
+3. På siden **Produktlicenser,** der åbnes, skal du vælge den relevante placeringsværdi og tildele en licens, der indeholder Exchange Online (udvid licensen for at få vist dens detaljer).  Klik på **Gem**, når du er færdig.
