@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3eb518dbdd71985fe06044925dd52bfbca98defc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896925"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318556"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Sådan foretager du et Microsoft 365 køb
 
-Du kan købe Microsoft 365 abonnement i Administration.
+Du kan købe Microsoft 365-abonnement i Administration.
   
 - Hvis du vil købe en plan, skal du gå **til siden** \> **[Betaling for](https://go.microsoft.com/fwlink/p/?linkid=868433)** fakturering.
 - Hvis du vil købe flere licenser, skal du **gå til siden** Fakturering \> **[dine](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter. Vælg det abonnement, du vil ændre, og vælg derefter **Køb licenser**.\

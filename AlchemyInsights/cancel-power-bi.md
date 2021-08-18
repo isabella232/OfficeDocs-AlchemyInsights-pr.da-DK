@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899534"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318944"
 ---
 # <a name="cancel-power-bi"></a>Annuller Power BI
 
@@ -33,7 +33,6 @@ Power BI kan annulleres i Microsoft 365 Administration.
 
 **Refusion: Du får krediteret et forholdsmæssigt beløb inden for den næste faktureringscyklus.**
 
-> [!NOTE]
-> Hvis du ikke kan se muligheden for at annullere, skal du vælge abonnementet for at få vist detaljesiden. I sektionen **Abonnements- og betalingsindstillinger skal** du vælge **Annuller abonnement.**
+**Bemærk!** Hvis du ikke kan se muligheden for at annullere, skal du vælge abonnementet for at få vist detaljesiden. I sektionen **Abonnements- og betalingsindstillinger skal** du vælge **Annuller abonnement.**
 
 Du kan få mere at vide under [Annuller dit abonnement.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

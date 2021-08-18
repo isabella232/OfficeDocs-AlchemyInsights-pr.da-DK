@@ -17,23 +17,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b42fe2e660b83d40737855ff84d313c6b7df1860
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891561"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318898"
 ---
 # <a name="change-how-often-you-pay"></a>Ændre, hvor ofte du betaler
 
-Hvis du vil ændre, hvor ofte du faktureres og betaler for et abonnement, skal du udføre følgende trin Microsoft 365 Administration.
+Hvis du vil ændre, hvor ofte du faktureres og betaler for et abonnement, skal du udføre følgende trin i Microsoft 365 Administration.
 
 1. Gå til siden **Fakturering**  >  [dine](https://go.microsoft.com/fwlink/p/?linkid=842054) produkter.
 2. Vælg **det abonnement,** du vil ændre, under fanen Produkter.
 3. På siden med abonnementsoplysninger skal du i **sektionen Abonnements- og betalingsindstillinger** vælge **Rediger faktureringsfrekvens.**
 4. I **ruden Rediger faktureringsfrekvens** skal du vælge indstillingen for, hvor ofte du vil faktureres, og derefter vælge **Rediger**.
 
-> [!NOTE]
-> Månedlig eller årlig fakturering er de eneste muligheder.
+**Bemærk!** Månedlig eller årlig fakturering er de eneste muligheder.
 
 Du kan få mere at vide under [Skift din faktureringshyppighed](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

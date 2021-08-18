@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090991"
 ---
 # <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Fejlfinding af MDATP-installationsproblemer på en Mac
 
-Hvis manuel installation mislykkes, **viser** installationsguiden oversigtssiden følgende fejl:
+Hvis manuel installation mislykkes, **viser** siden Oversigt i installationsguiden følgende fejl:
 
 "Der opstod en fejl under installationen. Installationsprogrammet stødte på en fejl, der forårsagede, at installationen mislykkedes. Kontakt softwareproducenten for at få hjælp."
 
-I MDM-installationer viser siden også en generisk installationsfejl.
+I FORBINDELSE med MDM-installationer viser siden også en generisk installationsfejl.
 
-Selvom vi ikke viser nøjagtige fejl til slutbrugere, beholder vi en logfil med installationsprocessen i **/Library/Logs/Microsoft/mdatp/install.log.** Hver installationssession føjes til denne logfil. Hvis du kun vil have output fra den seneste installationssession, skal du bruge `sed` .
+Selvom vi ikke viser nøjagtige fejl til slutbrugere, opbevarer vi en logfil med installationsprocessen i **/Library/Logs/Microsoft/mdatp/install.log.** Hver installationssession føjes til denne logfil. Hvis du kun vil have output fra den seneste installationssession, skal du bruge `sed` .
 
-Du kan få mere at vide [under Fejlfinding af installationsproblemer for Microsoft Defender ATP til Mac.](https://go.microsoft.com/fwlink/?linkid=2144615)
+Du kan få mere at vide [under Fejlfinding af installationsproblemer med Microsoft Defender ATP til Mac.](https://go.microsoft.com/fwlink/?linkid=2144615)

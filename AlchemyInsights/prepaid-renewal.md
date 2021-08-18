@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314522"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901958"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Forudbetalt Microsoft 365 fornyelse
 
@@ -29,7 +29,8 @@ ms.locfileid: "58314522"
 3. På siden med abonnementsoplysninger skal du **i sektionen Abonnements- og** betalingsindstillinger vælge **Forlæng slutdato.**
 4. På siden **Forny eller tilføj brugerlicenser** skal du vælge **Brug en produktnøgle, der er ny** og ubrugt, og derefter skal du vælge **Næste**.
 5. Angiv produktnøglen, og vælg derefter **Næste**.
-    **Bemærk!** Hvis du har mere end én produktnøgle, kan du vælge Tilføj **en anden produktnøgle for** at angive dem.
+    > [!NOTE]
+    > Hvis du har mere end én produktnøgle, kan du vælge Tilføj **en anden produktnøgle for** at angive dem.
 6. Gennemse dine ordreoplysninger, og vælg derefter **Indløs**.
 
 Du kan få mere at vide [under Føj licenser til eller udvid et abonnement, som er betalt med en produktnøgle](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).

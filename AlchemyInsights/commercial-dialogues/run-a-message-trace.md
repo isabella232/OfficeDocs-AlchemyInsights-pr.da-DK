@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c21a12855895c8e7f29c2a5917763940c30489e2aa3461cc0dc99799b86c9a34
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2828594b2a1ceff3eea7aeb0eb9e160b222bdd96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081784"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318750"
 ---
 # <a name="run-a-message-trace"></a>Kør en meddelelsessporing
 
-Meddelelsessporinger køres i sektionen Mailflow i Office 365 Security & Compliance Center.
+Du kan køre en meddelelsessporing **Exchange en meddelelsessporing** i Microsoft 365 Defender på <https://security.microsoft.com> .
 
-Du kan få mere at vide om, hvordan du kører en [meddelelsessporing, under Meddelelsessporing i Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2103855).
+Du kan få mere at vide [under Meddelelsessporing Microsoft 365 Defender portalen](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)
