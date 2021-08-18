@@ -16,16 +16,16 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 958cd49e7b32bc6057655ad3a8c9347e25e747f161c93dfaf9e8e361d04f4fcc
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c226f51b848ba42162f66edcba1137a8c5f0d738
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502422"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331943"
 ---
 # <a name="get-microsoft-365-free-for-your-entire-school"></a>Få Microsoft 365 gratis for hele skolen
 
-Gør samarbejdet i klasseværelset og skolen bedre med gratis produktivitetsværktøjer. Du skal kontrollere, at du er en godkendt uddannelsesinstitution for at udnytte disse tilbud.
+Gør samarbejdet i klasseværelset og skolen bedre med gratis produktivitetsværktøjer. Du skal kontrollere, at du er en godkendt uddannelsesinstitution for at benytte disse tilbud.
   
 - [Gennemgå Education-planerne](https://products.office.com/academic/compare-office-365-education-plans)
 

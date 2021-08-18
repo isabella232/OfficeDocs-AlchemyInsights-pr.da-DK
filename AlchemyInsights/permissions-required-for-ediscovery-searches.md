@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973835"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338954"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Der kræves tilladelser til eDiscovery-søgninger
 
-For at kunne udføre indholdssøgninger i Security & Compliance Center skal en bruger som minimum være medlem af rollegruppen eDiscovery Manager, som giver brugeren mulighed for at udføre søgninger og placere ventende indhold på postkasser, SharePoint-websteder og OneDrive-placeringer. Medlemmer kan også oprette og administrere eDiscovery-sager, tilføje og fjerne medlemmer til en sag, oprette og redigere indholdssøgninger og få adgang til sagsdata i Advanced eDiscovery.
+For at udføre indhold xearches i Security & Compliance Center skal en bruger som minimum være medlem af rollegruppen eDiscovery Manager.
 
-For at In-Place eDiscovery-søgninger i Exchange Administration (EAC) skal brugeren være medlem af rollegruppen Søgeadministration i Exchange Online.
+Hvis du vil udføre indholdssøgninger i Microsoft 365 Overholdelsescenter, skal en bruger som minimum være medlem af rollegruppen eDiscovery-leder.  
 
-Du kan finde flere oplysninger om eDiscovery-tilladelser i: 
+Sådan tildeler du tilladelser:
 
-- [Tildel eDiscovery-tilladelser i Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Tildel eDiscovery-tilladelser i Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Gå [til Microsoft 365 Overholdelsescenter](https://compliance.microsoft.com/)  >  **Tilladelser**.
+1. Under **Overholdelsescenter** skal du **vælge Roller** og derefter vælge **eDiscovery Manager**.
+1. I pop op-pop op-pop-knappen skal  du føje brugeren til den ønskede rolle ved at vælge Rediger ud for eDiscovery Manager eller eDiscovery-administratorrollen.
 
 **Bemærk!** Når du har tildelt eDiscovery-tilladelser, kan det være nødvendigt at vente et par minutter på, at tilladelserne overføres.
+
+Du kan finde flere oplysninger om eDiscovery-tilladelser under Tildel [eDiscovery-tilladelser i Microsoft 365 Overholdelsescenter.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)

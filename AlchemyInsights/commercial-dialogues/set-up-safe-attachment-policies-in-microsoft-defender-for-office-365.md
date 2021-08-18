@@ -1,5 +1,5 @@
 ---
-title: Konfigurer Pengeskab politikker for vedhæftede filer i Microsoft Defender Office 365
+title: Konfigurer Pengeskab politikker for vedhæftede filer i Microsoft Defender for Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b76b3f2f96a1c086c7eb7de830908965d7207c0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888364"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333377"
 ---
-# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Konfigurer Pengeskab politikker for vedhæftede filer i Microsoft Defender Office 365
+# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Konfigurer Pengeskab politikker for vedhæftede filer i Microsoft Defender for Office 365
 
-1. I portalen Microsoft 365 Defender på skal du gå til Mail & samarbejdspolitikker & Politikker for trussel mod regler Pengeskab Vedhæftede <https://security.microsoft.com/>  \>  \>  \>  filer i **sektionen** Politikker.
+1. I portalen Microsoft 365 Defender på skal du gå til &-samarbejdspolitikker <https://security.microsoft.com/>  \> **& Rules** \> **Threat policies** \> **Pengeskab Vedhæftede** filer i **sektionen** Politikker.
 
-   For at gå direkte til **siden Pengeskab Vedhæftede filer** skal du bruge <https://security.microsoft.com/safeattachmentv2> .
+   For at gå direkte til siden **Pengeskab vedhæftede filer** skal du bruge <https://security.microsoft.com/safeattachmentv2> .
 
 2. På siden **Pengeskab vedhæftede** filer skal du gøre et af følgende:
    - Hvis du vil tilføje en ny politik, skal du **vælge + Opret.** Der starter en guide, der kan hjælpe dig med at definere dine politikindstillinger.
@@ -34,5 +34,5 @@ ms.locfileid: "57888364"
 
 Du kan finde flere oplysninger i følgende artikler:
 
-- [Konfigurer Pengeskab politikker for vedhæftede filer i Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Konfigurer Pengeskab politikker for vedhæftede filer i Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
 - [Slå vedhæftede Pengeskab til for SharePoint, OneDrive og Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

@@ -1,5 +1,5 @@
 ---
-title: Brug Microsoft Intune grundlinjer for sikkerhed til at konfigurere Windows 10 enheder
+title: Brug Microsoft Intune oprindelige planer for sikkerhed til at konfigurere Windows 10 enheder
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11142"
-ms.openlocfilehash: f77fdbb315db8317a6a1374f05489a7f5a0bedcec484dc9ac53a473098583949
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 911c6b1860e4f44e6d88897f73173cdd11060562
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57886626"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331979"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Brug Microsoft Intune grundlinjer for sikkerhed til at konfigurere Windows 10 enheder
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Brug Microsoft Intune oprindelige planer for sikkerhed til at konfigurere Windows 10 enheder
 
-Intune-sikkerhedsne grundlinjer hjælper med at beskytte brugere og enheder. Grundlinjer for sikkerhed er Windows forudkonfigurerede grupper, der bruges til at anvende en kendt gruppe af indstillinger og standardværdier anbefalet af de relevante sikkerhedsteams. Ved at oprette en profil for grundlinjer til sikkerhed i Intune kan du oprette en skabelon, der består af flere enhedskonfigurationsprofiler.
+Intune-sikkerhedsne grundlinjer hjælper med at beskytte brugere og enheder. Sikkerheds baselines are Windows settings pre-configured groups used to apply a known group of settings and default values recommended by the relevant security teams. Ved at oprette en profil for grundlinjer til sikkerhed i Intune kan du oprette en skabelon, der består af flere enhedskonfigurationsprofiler.
 
 Når du installerer grundlinjer for sikkerhed for grupper af brugere eller enheder, anvendes indstillingerne på enheder, der kører på Windows 10 eller nyere. Sikkerheds baseline for Microsoft mobile device management (MDM) aktiverer f.eks. automatisk BitLocker til flytbare drev, kræver adgangskoden til at låse en enhed op og deaktiverer grundlæggende godkendelse. Når en standardværdi ikke fungerer for dit miljø, kan du tilpasse den oprindelige plan for at anvende de indstillinger, du har brug for.
 

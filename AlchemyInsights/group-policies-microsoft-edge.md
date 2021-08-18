@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11108"
-ms.openlocfilehash: 55b98c3d34b1b4bce5cef746e18bc2933902624547d2020118579593ca5c6f77
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c7067ddf57eb7229a4e114eb74ff8306a4a9318a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889884"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331229"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>Gruppepolitikker i Microsoft Edge
 
-Brug de gruppepolitikker, der er tilgængelige Microsoft Edge (version 77 eller nyere) til at angive, hvordan browseren kører i din organisation. Du kan finde flere oplysninger [Microsoft Edge - Politikker.](https://docs.microsoft.com/deployedge/microsoft-edge-policies#available-policies)
+Brug de gruppepolitikker, der er tilgængelige Microsoft Edge (version 77 eller nyere) til at angive, hvordan browseren kører i organisationen. Du kan finde flere oplysninger [Microsoft Edge - Politikker.](https://docs.microsoft.com/deployedge/microsoft-edge-policies#available-policies)

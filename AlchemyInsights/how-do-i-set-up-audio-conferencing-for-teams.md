@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0ad0a26430168ea26ad08a5faf911c0fc439588f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892593"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333061"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Lydmøde
 
@@ -30,7 +30,7 @@ Hvis [der er købt licenser,](https://docs.microsoft.com/microsoftteams/set-up-a
 
 2. Afhængigt af din version af administrationscenteret skal du vælge enten **Licenser og apps** eller klikke på **Rediger** på **Produktlicenser**.
 
-3. Bekræft, at brugeren har valgt licenser **til Microsoft 365 lydmøder, Microsoft Teams** og Skype for Business Online **(Plan 2).** Hvis **licensen Microsoft 365 lydmøde** ikke findes, skal du først [købe tilføj flere licenser.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
+3. Bekræft, at brugeren har valgt licenser **til Microsoft 365 lydmøder, Microsoft Teams** og Skype for Business Online **(Plan 2).** Hvis **licensen Microsoft 365 Lydmøde** ikke findes, skal du først [købe tilføj flere licenser.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
 4. I **administrationscentre** for brugere skal du klikke på **Vis alle** og derefter klikke på **Teams**.
 

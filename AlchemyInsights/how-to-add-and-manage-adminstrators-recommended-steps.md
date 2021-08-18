@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963781"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339026"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Sådan tilføjer og administrerer du administratorer – anbefalede trin
 
@@ -33,7 +33,7 @@ Baseret på din beskrivelse af problemet har vi fundet en løsning til dig. De f
 
 Tjenesteadministratoren eller medadministratoren kan selv betjene denne handling ved at benytte følgende fremgangsmåde:
 
-1. Log på [Azure-portalen, og](https://ms.portal.azure.com/#home) klik **på Omkostningsstyring + Fakturering** i venstre blade.
+1. Log på [Azure-portalen, og](https://ms.portal.azure.com/#home) klik **på Omkostningsstyring + Fakturering i** venstre blade.
 2. Klik på linjeelementet med dit abonnement. Dette åbner Oversigt for dit abonnement.
 3. På **bladet Abonnement** skal du klikke på **Egenskaber**. 
 4. Klik på **knappen Tjenesteadministrator.**
@@ -75,7 +75,7 @@ Du kan tilføje nye brugere eller slette eksisterende brugere fra din Azure Acti
 - [Selvstudium: Giv en bruger adgang ved hjælp af RBAC og Azure-portalen](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Fejlfinding af RBAC i Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Organiser dine ressourcer med Azure-administrationsgrupper](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Sådan anmoder du om kopi af Azure-faktura via mail](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Sådan anmoder du om kopi af Azure-faktura via mail](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Sådan tilføjer, opdaterer eller fjerner du et kredit- eller debetkort fra Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Administrere (Genaktiver/Annuller/Skift) abonnement](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

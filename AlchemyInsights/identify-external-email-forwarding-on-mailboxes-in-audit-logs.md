@@ -13,20 +13,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899878"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331153"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Identificer, hvornår ekstern videresendelse af mail er konfigureret i postkasser
 
-Når en Microsoft 365 konfigurerer ekstern videresendelse af mail i en postkasse, overvåges aktiviteten som en del af **Set-Mailbox** cmdlet'en. Du kan se aktiviteten ved hjælp af søgning i overvågningsloggen. Sådan gør du det.
+Når en Microsoft 365 konfigurerer ekstern videresendelse af mail på en postkasse, overvåges aktiviteten som en del af **Set-Mailbox-cmdlet'en.** Du kan se aktiviteten ved hjælp af søgning i overvågningsloggen. Sådan gør du det.
 
 1. Gør et af følgende:
-   - I Microsoft 365 Overholdelsescenter på <https://compliance.microsoft.com> skal du gå til **Løsningsrevision** \> . Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://compliance.microsoft.com/auditlogsearch> .
-   - I portalen Microsoft 365 Defender på <https://security.microsoft.com> skal du gå til **Overvågning**. Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://sip.security.microsoft.com/auditlogsearch> .
+   - I Microsoft 365 Overholdelsescenter på <https://compliance.microsoft.com> skal du gå til  \> **Løsningsrevision**. Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://compliance.microsoft.com/auditlogsearch> .
+   - I Microsoft 365 Defender på <https://security.microsoft.com> skal du gå til **Overvågning**. Du kan også gå direkte til siden **Overvågning ved** hjælp af <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. Kontrollér, **at** fanen Søg er markeret **på siden** Overvågning, og konfigurer derefter følgende indstillinger:
    - Vælg området for dato/klokkeslæt i **felterne Start** **og** Slut.

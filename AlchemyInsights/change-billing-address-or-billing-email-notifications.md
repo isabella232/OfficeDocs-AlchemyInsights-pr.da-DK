@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897410"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332475"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Skift faktureringsadresse eller faktureringsmailbeskeder
 
@@ -45,4 +45,4 @@ ms.locfileid: "57897410"
 
 4. Skriv den **alternative mailadresse,** du vil bruge, i feltet Alternativ mail, og klik derefter på **Gem**.
 
-Du kan finde flere oplysninger om adresse- og meddelelsesændringer [under Ændre dine faktureringsadresser for Microsoft 365 til virksomheder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Du kan finde flere oplysninger om adresse- og meddelelsesændringer [i Ændre dine faktureringsadresser for Microsoft 365 til virksomheder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082396"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332429"
 ---
 # <a name="change-a-users-email-address"></a>Ændre en brugers mailadresse
 
@@ -31,7 +31,7 @@ Det er nemt at ændre en andens mailadresse! Du skal blot følge disse trin:
     
 4. Skriv en ny mail i feltet **Alias,** og vælg derefter **Tilføj**.
     
-    **VIGTIGT!** Hvis fejlmeddelelsen " Der blev ikke fundet en parameter, der svarer til **parameternavnet "Mailadresser"** vises, betyder det, at det tager lidt længere for Microsoft at fuldføre konfigurationen af din lejer eller dit brugerdefinerede domæne, hvis du for nyligt tilføjede et. Installationen kan tage op til fire timer at gennemføre. Vent lidt, så installationen kan blive fuldført, og prøv derefter igen. Hvis problemet fortsætter, skal du ringe til Support, som så vil udføre en fuld synkronisering for dig.
+    **Vigtigt!** Hvis fejlmeddelelsen " Der blev ikke fundet en parameter, der svarer til **parameternavnet "Mailadresser"** vises, betyder det, at det tager lidt længere for Microsoft at fuldføre konfigurationen af din lejer eller dit brugerdefinerede domæne, hvis du for nyligt tilføjede et. Installationen kan tage op til fire timer at gennemføre. Vent lidt, så installationen kan blive fuldført, og prøv derefter igen. Hvis problemet fortsætter, skal du ringe til Support, som så vil udføre en fuld synkronisering for dig.
     
     Hvis du får fejlmeddelelsen " **Vi beklager, men brugeren kunne redigeres. Gennemse brugeroplysningerne, og** prøv igen " betyder det, at du ikke er global administrator, og at du ikke har tilladelse til at ændre brugerens navn.
     
