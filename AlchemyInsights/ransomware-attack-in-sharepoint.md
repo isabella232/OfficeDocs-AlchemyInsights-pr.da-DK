@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893189"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327515"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware-angreb i SharePoint eller OneDrive
 
@@ -29,7 +29,7 @@ ms.locfileid: "57893189"
 
 3.  Påvirkes alle filerne på din OneDrive eller SharePoint af ransomware eller malware eller cryptovirus? 
 
-Stop/afbryd straks visningen OneDrive-synkronisering (hvis dette er muligt), eller afbryd forbindelsen til Stifinder-visningen, der er knyttet til biblioteket fra den pågældende computer (hvis der er nogen), og derefter kan du gendanne hele dit OneDrive- eller SharePoint-bibliotek fra et tidligere tidspunkt ved hjælp af funktionen til gendannelse af filer. 
+Stop/hold straks OneDrive-synkroniseringen (hvis der er nogen) eller afbryd forbindelsen til Stifinder-visningen, der er knyttet til biblioteket, fra den pågældende computer (hvis der er nogen), og derefter kan du gendanne hele dit OneDrive- eller SharePoint-bibliotek fra et tidligere tidspunkt ved hjælp af funktionen til gendannelse af filer. 
 
 Du kan finde flere oplysninger om, hvordan du gendanner, under:
 

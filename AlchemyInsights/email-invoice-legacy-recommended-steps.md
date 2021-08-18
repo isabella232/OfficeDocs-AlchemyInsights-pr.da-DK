@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003608"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326499"
 ---
 # <a name="e-mail-invoice---legacy"></a>Mailfaktura – ældre
 
@@ -38,13 +38,13 @@ Følg disse trin for at få dine abonnementsfakturaer via mail:
 
 Sådan deler du fakturaer for dit abonnement og din supportplan hver måned med dit revisionsteam eller sender dem til en af dine andre mailadresser:
 
-1. Følg trinnene ovenfor for først at aktivere faktura via mail, og vælg derefter **Konfigurer modtagere.**
+1. Følg trinnene ovenfor for først at aktivere faktura via mail, og vælg **derefter Konfigurer modtagere.**
 2. Angiv en mailadresse, og vælg derefter **Tilføj modtager**. Du kan tilføje flere mailadresser.
 3. Når du har tilføjet alle mailadresserne, skal du vælge **Udført** nederst på skærmen.
 
 **Giv andre tilladelse til at downloade din abonnementsfaktura**
 
-Sådan giver du brugere/grupper med abonnementsniveau adgang til at downloade din faktura:
+Sådan giver du brugere/grupper med adgang på abonnementsniveau adgang til at downloade din faktura:
 
 1. Log på [Azure-portalen](https://portal.azure.com/) som kontoadministrator for abonnementet.
 2. Søg efter **Omkostningsstyring + Fakturering**.
@@ -52,5 +52,4 @@ Sådan giver du brugere/grupper med abonnementsniveau adgang til at downloade di
 4. Vælg dit Azure-abonnement, og klik derefter **på Tillad andre at hente faktura**.
 5. Vælg **Til** og **derefter** Gem øverst på siden.
 
-> [!NOTE]
-Hvis du ikke er kontoadministrator, skal du kontakte din kontoadministrator for at følge ovenstående instruktioner for at tilmelde dig, tilføje modtagere eller tillade andre brugere at hente fakturaen.
+**Bemærk!** Hvis du ikke er kontoadministrator, skal du kontakte din kontoadministrator for at følge ovenstående instruktioner for at tilmelde dig, tilføje modtagere eller tillade andre brugere at hente fakturaen.

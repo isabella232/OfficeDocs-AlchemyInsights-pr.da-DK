@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893397"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326657"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Modtog dine brugere skadelige mails?
 
@@ -40,7 +40,7 @@ I mellemtiden kan du fjerne skadelige mails fra brugernes indbakker ved at følg
 
 - Kunder med Microsoft Defender til Office 365 kan:
   - Brug [Trusselsstifinder til at finde og slette mistænkelige mails](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-  - [Brug Pengeskab links til at blokere adgangen til](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) en skadelig URL-adresse
+  - [Brug Pengeskab links til at blokere adgang til](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) en skadelig URL-adresse
   - Spor brugere, der klikkede på og fik adgang til skadelige URL-adresser: [Få vist phishing-URL-adresse,](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)og klik på  &  [undersøgelsesdataene Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
   - Starte en [automatisk undersøgelse manuelt](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
