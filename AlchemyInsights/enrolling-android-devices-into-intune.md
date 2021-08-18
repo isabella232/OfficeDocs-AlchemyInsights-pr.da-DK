@@ -1,5 +1,5 @@
 ---
-title: Registrering af Android-enheder i Intune
+title: Tilmelding af Android-enheder til Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090124"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Registrering af Android-enheder i Intune
+# <a name="enrolling-android-devices-into-intune"></a>Tilmelding af Android-enheder til Intune
 
-Hvis du vil overføre brugere fra din tilmelding til Android-enheds administrator til Android Enterprise, skal du gennemgå: [flytte Android-enheder fra enheds administrator for at arbejde med Profilstyring](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+Hvis du vil overføre brugere fra Tilmelding for Android-enhedsadministrator til Android Enterprise, skal du gennemgå: Flyt Android-enheder fra enhedsadministrator til administration af [arbejdsprofiler.](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)
 
-Intune understøtter registreringen af følgende Android-enheder:  
+Intune understøtter registrering af følgende Android-enheder:  
 
-- [Samsung Knox, med zebraer, Device administrator](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [Android-Arbejdsprofil til virksomheder](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Dedikeret Android-virksomhed](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [Android Enterprise fuldt administreret](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Samsung Knox, samsung, enhedsadministrator](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Android Enterprise-arbejdsprofil](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise dedikeret](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise administreres fuldt ud](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Før du konfigurerer tilmelding til Android-enheder, skal du [gennemgå forudsætningerne](https://docs.microsoft.com/intune/enrollment/android-enroll).  
+Før du konfigurerer tilmelding til [Android-enheder, skal du gennemgå forudsætningerne](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
-Hvis du vil have mere at vide om fejlfinding af enheds tilmelding generelt og nogle Android-tilmeldings fejl, skal du se [fejlfinding af enheds tilmelding i Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
+Du kan finde oplysninger om generel fejlfinding i forbindelse med tilmelding af enheder og nogle registreringsfejl i Android under Fejlfinding i forbindelse med tilmelding til [enheder Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-Du kan også bruge det indhold, der beskriver hjælp til fejlfinding i Intune, til at identificere, hvilke enrolment-problemer brugerne oplever.
+Du kan også bruge det indhold, der beskriver Intune-fejlfindingsbladet, til at identificere, hvilke problemer med tilmelding, brugerne oplever.
