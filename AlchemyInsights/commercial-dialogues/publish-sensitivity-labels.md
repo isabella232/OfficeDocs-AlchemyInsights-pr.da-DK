@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: df5acfc38095f03eeeff379d51a72332dcf366e3786ab0ff7ffcd655cbafd1cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967363"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324763"
 ---
 # <a name="publish-sensitivity-labels"></a>Publicer følsomhedsmærkater
 
@@ -29,8 +29,9 @@ Hvis du vil publicere følsomhedsmærkater, skal du udføre følgende trin:
 3. Klik **på Udgiv etiketter**.
 4. Klik **på Vælg følsomhedsmærkater for at publicere**. 
 5. Markér de etiketter, du vil gøre tilgængelige i apps og tjenester, og klik derefter på **Tilføj**.
-> [!IMPORTANT]
-> Hvis du vælger et undernavn, skal du sikre dig, at du også vælger dets overordnede etiket.
+
+**Vigtigt!** Hvis du vælger et undernavn, skal du sørge for, at du også vælger dets overordnede etiket.
+
 6. Gennemse de markerede etiketter. Hvis du vil foretage ændringer, skal du klikke **på Rediger**; Ellers skal du klikke **på Næste.**
 7. Følg instruktionerne for at konfigurere politikindstillingerne.
 8. Gentag disse trin, hvis du har brug for forskellige politikindstillinger for forskellige brugere eller placeringer. Du vil f.eks. have flere etiketter til en gruppe af brugere eller en anden standardetiket til et undersæt af brugere.

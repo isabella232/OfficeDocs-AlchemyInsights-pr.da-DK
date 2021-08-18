@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 296c2f80d35f1c93ab3c60e0be65fd96c953ca81
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104302"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323514"
 ---
 # <a name="using-giphys-in-teams-conversations"></a>Brug af Giphys Teams samtaler
 
-Giphys-adgang Teams chat er aktiveret som standard. Som administrator kan du styre, om Giphys [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) er tilgængelig for brugere ved at angive en beskedpolitik og sikre, at Brug **Giphys i samtaler er** **til**.
+Giphys-adgang Teams chat er aktiveret som standard. Som administrator kan du styre, om Giphys [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) er tilgængelig for brugere ved at angive en beskedpolitik og sikre, at Brug **Giphys i samtaler** er **til**.
 
 Hvis GIF-filer ikke fungerer som forventet i Teams, skal du kontrollere følgende:
 
@@ -33,5 +33,4 @@ Beskedpolitikken [skal](https://docs.microsoft.com/microsoftteams/messaging-poli
 
 [Valgfrie forbundne](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) oplevelser skal være aktiveret for at tillade adgang til Giphy-URL-adressen.
 
-> [!NOTE]
-> Hvis du har flere Teams Messaging-politikker konfigureret for din lejer, kan du bestemme identiteten af den politik, der er tildelt den påsatte bruger, med kommandoen [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Vælg TeamsMessagingPolicy.
+**Bemærk!** Hvis du har flere Teams Messaging-politikker, der er konfigureret for din lejer, kan du bestemme identiteten af den politik, der er tildelt den påvirkede bruger, ved hjælp af [PowerShell-kommandoen Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Vælg TeamsMessagingPolicy.

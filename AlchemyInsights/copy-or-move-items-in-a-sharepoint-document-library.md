@@ -1,5 +1,5 @@
 ---
-title: Kopiere eller flytte elementer i SharePoint dokumentbibliotek
+title: Kopiere eller flytte elementer i et SharePoint dokumentbibliotek
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,33 +14,30 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c32ec198c6f00cd8cee2eed9ade62f7632eb5114
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119134"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325679"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiere eller flytte elementer i SharePoint dokumentbibliotek
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiere eller flytte elementer i et SharePoint dokumentbibliotek
 
 Du kan kopiere og flytte filer, mapper og links til forskellige placeringer i et dokumentbibliotek. Du kan også kopiere elementer på tværs af websteder. 
   
 1. Gå til de filer, mapper eller links, du vil flytte, i en browser, og klik derefter på **Kopiér til** eller **Flyt til**.
 
-    > [!NOTE]
-    > **Kopiér** til **og Flyt** til er ikke tilgængelig, hvis du bruger den klassiske oplevelse af SharePoint Online.
+    **Bemærk!** **Kopiér til** **og Flyt** til er ikke tilgængelig, hvis du bruger den klassiske oplevelse af SharePoint Online.
   
 2. Under **Vælg en destination skal** du vælge den placering, hvor  du vil kopiere eller flytte elementerne, eller klikke på Gennemse websteder for at få vist hele listen over websteder.
 
-    > [!NOTE]
-    > Hvis du ikke kan se andre websteder på listen, når du kopierer elementer, er kopiering på tværs af websteder ikke blevet konfigureret. Hvis du vil aktivere det, skal du gå til siden med SharePoint Administration og klikke på **OK.**
+    **Bemærk!** Hvis du ikke kan se andre websteder på listen, når du kopierer elementer, er kopiering på tværs af websteder ikke blevet konfigureret. Hvis du vil aktivere det, skal du gå til siden med SharePoint Administration og klikke på **OK.**
   
     Hvis du vil oprette en ny mappe, skal du vælge en placering i mappehierarkiet, klikke på Ny **mappe,** angive et navn på mappen og klikke på markeringen for at gemme navnet.
 
 3. Klik **på Kopiér hertil** eller Flyt **hertil**.
 
-    > [!NOTE]
-    > Du kan kopiere op til 500 MB filer og mapper på én gang. > Når du kopierer dokumenter, der har versionshistorik, kopieres kun den nyeste version. Når du flytter dokumenter, flyttes deres historik også.
+    **Bemærk!** Du kan kopiere op til 500 MB filer og mapper på én gang. > Når du kopierer dokumenter, der har versionshistorik, kopieres kun den nyeste version. Når du flytter dokumenter, flyttes deres historik også.
   
  Når en fil flyttes, vises den stadig i kildemappen, indtil den er helt flyttet til destinationen, og derefter slettes den. Filen forbliver i papirkurven for kildewebsteder, når flytningen er fuldført, og den vil være underlagt den normale papirkurv, medmindre en bruger gendanner den fra papirkurven.
 

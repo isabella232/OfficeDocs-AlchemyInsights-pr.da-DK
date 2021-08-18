@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 20d241947c356b3d2b9f050f88de8af1d370d799
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901018"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323698"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Køb Microsoft Defender til Office 365
 
-Microsoft Defender til Office 365 er inkluderet i visse abonnementer, f.eks. Microsoft 365 E5, Office 365 E5, Office 365 A5 og Microsoft 365 Business Premium. Hvis dit abonnement ikke omfatter Microsoft Defender til Office 365, kan du købe [Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) som et tilføjelsesprogrammet til et bestemt abonnement. Sådan køber du i Microsoft 365 Administration:
+Microsoft Defender til Office 365 er inkluderet i visse abonnementer, f.eks. Microsoft 365 E5, Office 365 E5, Office 365 A5 og Microsoft 365 Business Premium. Hvis dit abonnement ikke omfatter Microsoft Defender for Office 365, kan du købe [Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) som et tilføjelsesprogrammet til et bestemt abonnement. Sådan køber du i Microsoft 365 Administration:
 
 1. I Administration skal du gå til siden  >  [Faktureringskøb](https://go.microsoft.com/fwlink/p/?linkid=868433) af tjenester.
 2. Nederst på siden  Køb tjenester i  sektionen Tilføjelser skal du finde tilføjelsesprogrammet Microsoft Defender for Office 365 og vælge **Detaljer**.

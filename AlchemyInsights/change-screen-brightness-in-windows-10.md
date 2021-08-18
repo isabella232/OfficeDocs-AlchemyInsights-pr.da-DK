@@ -1,5 +1,5 @@
 ---
-title: Skift skærmens lysstyrke i Windows 10
+title: Skift skærmens lysstyrke Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 6d858183e8a539c024b2228be71283043017819b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8a310fd0259e2343fdb32c5af558fa205925faca5dc2ab7a637e0de1a5fbd20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119751"
 ---
-# <a name="change-screen-brightness-in-windows-10"></a>Skift skærmens lysstyrke i Windows 10
+# <a name="change-screen-brightness-in-windows-10"></a>Skift skærmens lysstyrke Windows 10
 
-Hvis Din Windows 10 er nyere end version 1903, har den **skyderen** Lysstyrke i handlingscenter. Hvis du vil åbne  handlingscenter, skal du klikke på knappen Meddelelse yderst til højre på proceslinjen eller trykke på **Windows home + A** på tastaturet.
+Hvis din Windows 10 nyere end version 1903, har den **skyderen** Lysstyrke i handlingscenter. Hvis du vil åbne  handlingscenter, skal du klikke på knappen Meddelelse yderst til højre på proceslinjen eller trykke på **Windows hjem + A** på tastaturet.
 
 ![Skyderen Lysstyrke](media/brightness-slider.png)
 
-Hvis din Windows 10 er en tidligere version, kan du finde lysstyrkeskyderen ved at gå til **[Indstillinger > System > Skærm.](ms-settings:display?activationSource=GetHelp)**
+Hvis din Windows 10 version, kan du finde lysstyrkeskyderen ved at **[gå til Indstillinger > System > Skærm.](ms-settings:display?activationSource=GetHelp)**
 
 **Bemærkninger:**
 

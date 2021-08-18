@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908344"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324845"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Brugertilladelser i SharePoint og OneDrive
 
@@ -34,8 +34,7 @@ Hvis en bruger i organisationen ikke kan få adgang til SharePoint eller OneDriv
     
     Hvis du vil have et klassisk teamwebsted, **skal du** klikke på Del øverst til højre. Skriv navnet på den person, du vil invitere, eller skriv Alle for at dele med alle i organisationen. Klik **på Del.**
     
-> [!NOTE]
-> Hvis du er medlem af et websted, men ikke ejer, kan du invitere personer til webstedet, men din invitation genererer en anmodning om adgang, som kan godkendes eller afslås af en ejer af webstedet. 
+**Bemærk!** Hvis du er medlem af et websted, men ikke ejer, kan du invitere personer til webstedet, men din invitation genererer en anmodning om adgang, som kan godkendes eller afslås af en ejer af webstedet. 
   
 [Få mere at vide om, hvordan du deler en fil eller mappe med en bruger](https://go.microsoft.com/fwlink/?linkid=533408)
   
