@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890428"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321747"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Aktivér SMTP-godkendelse og -fejlfinding
 
@@ -33,13 +33,13 @@ Hvis du vil aktivere SMTP-godkendelse for en postkasse, eller hvis du får fejle
 
 2. [Aktivér klient-SMTP-indsendelse](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) på den licenserede postkasse.
 
-    a. Fra Microsoft 365 Administration skal du gå **til Aktive** brugere og vælge brugeren.<BR/>
+    a. Fra Microsoft 365 Administration skal du **gå til Aktive** brugere og vælge brugeren.<BR/>
     b. Gå til fanen Mail, og vælg **Administrer mailapps** **under Mailapps**.<BR/>
     d. Kontrollér, **at Godkendt SMTP er** markeret (aktiveret).<BR/>
     e. Vælg **Gem ændringer**.<BR/>
 
 3. [Deaktiver Multi-Factor Authentication (MFA)](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) på den licenserede postkasse.
 
-    a. Gå til fanen Microsoft 365 Administration, og vælg Aktive brugere i **venstre navigationsmenu.**  >  <BR/>
+    a. Gå til fanen Microsoft 365 Administration, og vælg Aktive brugere i **venstre**  >  **navigationsmenu.**<BR/>
     b. Vælg **Multifaktorgodkendelse.**<BR/>
     c. Vælg brugeren, og **deaktiver Multi-Factor Auth**.<BR/>

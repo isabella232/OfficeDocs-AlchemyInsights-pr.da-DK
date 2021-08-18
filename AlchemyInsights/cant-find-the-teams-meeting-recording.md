@@ -1,5 +1,5 @@
 ---
-title: Kan ikke finde den Teams mødeoptagelse
+title: Kan ikke finde Teams mødeoptagelsen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: f5b524fa0731d499bdea831b7f5363996b2f165f58e40717c3ca8a22dc264397
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5dcc66617eff38aa340019ac01fc8ccde933324a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890700"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321467"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Kan ikke finde den Teams mødeoptagelse
+# <a name="cant-find-the-teams-meeting-recording"></a>Kan ikke finde Teams mødeoptagelsen
 
-Hvis du ikke kan finde eller finde en Teams-mødeoptagelse, skal du først køre køre Diagnosticering af manglende mødeoptagelse ved at skrive **Diag:** Manglende optagelse i feltet ovenfor. 
+Hvis du ikke kan finde eller finde en Teams-mødeoptagelse, skal du først køre Køre Missing Meeting Recording Diagnostic ved at skrive **Diag:** Manglende optagelse i feltet ovenfor. 
 
 Optagelser findes i Stream, OneDrive eller SharePoint afhængigt af, hvordan din lejer er konfigureret, og om optagelsen var til et kanalmøde. Du kan finde en vejledning til manuelt at finde mødeoptagelsen i: 
 

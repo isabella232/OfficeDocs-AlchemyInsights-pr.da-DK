@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068878"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320983"
 ---
 # <a name="retail-prepaid-card"></a>Forudbetalt detailkort
 
-Hvis du har Microsoft 365 Business Standard fra en forhandler, skal du bruge følgende trin til at forlænge udløbsdatoen eller føje en licens til et eksisterende abonnement.
+Hvis du har Microsoft 365 Business Standard fra en forhandler, skal du følge disse trin for at forlænge udløbsdatoen eller føje en licens til et eksisterende abonnement.
 
-> [!NOTE]
-> Hvis du vil bruge en produktnøgle til at forlænge udløbsdatoen eller føje en licens til dit eksisterende Microsoft 365 Business Standard-abonnement, skal du bruge en ny og ubrugt nøgle til den samme Microsoft 365 abonnement. Angivelse af din Microsoft 365 produktnøgle fungerer ikke, fordi en nøgle, der allerede er blevet indløst, ikke kan bruges igen.
+**Bemærk!** Hvis du vil bruge en produktnøgle til at forlænge udløbsdatoen eller føje en licens til dit eksisterende Microsoft 365 Business Standard-abonnement, skal du bruge en ny og ubrugt nøgle til den samme Microsoft 365 abonnement. Angivelse af din Microsoft 365-produktnøgle fungerer ikke, fordi en nøgle, der allerede er blevet indløst, ikke kan bruges igen.
 
 1. I Administration skal du gå til **siden Fakturering**  >  **[dine](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
 2. Find det abonnement, du vil udvide eller føje en licens til. Vælg [forlæng slutdato,](https://go.microsoft.com/fwlink/p/?linkid=842054) [eller tilføj flere licenser.](https://go.microsoft.com/fwlink/p/?linkid=842054)

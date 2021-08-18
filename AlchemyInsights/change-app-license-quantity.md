@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 31b2069e02aff949adcbe703675cd85ed2c87256fda2e73e96742542d1971b1f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502494"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321411"
 ---
 # <a name="change-app-license-quantity"></a>Skift antal applicenss
 
@@ -40,4 +40,4 @@ Du kan få vist eller ændre det antal licenser, du har, og tildele dem til brug
 
 1. Gå til siden **Fakturering**  >  **[dine](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
 2. Find **den** app, du **vil administrere,** i sektionen Apps under fanen Produkter.
-3. Under **Indstillinger & handlinger** skal du vælge linket til Administrer i **udgiverens portal**.
+3. Under **Indstillinger & skal** du vælge linket til Administrer på **udgiverens portal**.
