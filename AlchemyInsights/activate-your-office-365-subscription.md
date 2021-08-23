@@ -3,6 +3,7 @@ title: Aktivér dit Microsoft 365-abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2020
+ms.openlocfilehash: 3af46c4eabe70cb70f92310c9d192f5cb91670d0
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314270"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450908"
 ---
 # <a name="activate-your-subscription"></a>Aktivér dit abonnement
 
@@ -40,5 +43,5 @@ Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.mi
 
 **Aktivér et nyt abonnement med en produktnøgle**
 
-- Hvis du vil aktivere et Microsoft 365-abonnement med din produktnøgle, skal du se [Hvor skal Office indtaste din produktnøgle?](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Hvis du vil aktivere et Microsoft 365-abonnement med din produktnøgle, skal du se [Hvor skal du Office produktnøglen?](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 - Angiv din produktnøgle til Microsoft 365, og følg vejledningen for at aktivere dit abonnement. Hvis du har problemer med aktiveringen, skal du se denne liste over [almindelige produktnøglefejl og -løsninger](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

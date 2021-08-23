@@ -3,8 +3,7 @@ title: Forudbetalt detailkort
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.reviewer: commerce_purchase
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,16 +14,16 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320983"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451916"
 ---
 # <a name="retail-prepaid-card"></a>Forudbetalt detailkort
 
-Hvis du har Microsoft 365 Business Standard fra en forhandler, skal du følge disse trin for at forlænge udløbsdatoen eller føje en licens til et eksisterende abonnement.
+Hvis du har Microsoft 365 Business Standard en forhandler, skal du følge disse trin for at forlænge udløbsdatoen eller føje en licens til et eksisterende abonnement.
 
 **Bemærk!** Hvis du vil bruge en produktnøgle til at forlænge udløbsdatoen eller føje en licens til dit eksisterende Microsoft 365 Business Standard-abonnement, skal du bruge en ny og ubrugt nøgle til den samme Microsoft 365 abonnement. Angivelse af din Microsoft 365-produktnøgle fungerer ikke, fordi en nøgle, der allerede er blevet indløst, ikke kan bruges igen.
 
