@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056484"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522348"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Får du en postkasse, der ikke blev fundet en fejl Outlook på internettet?
 
-Hvis du bruger Outlook på internettet, og du får en postkasse, der ikke blev fundet **efter** fejlen, har den konto, du brugte til at oprette forbindelse til Outlook på internettet, ikke en Exchange Online-licens, og derfor er der ikke knyttet en postkasse til kontoen. Din administrator kan tildele en licens til din konto ved at følge disse trin:
+Hvis du får en Outlook Web App (OWA)-fejl: "En postkasse kunne ikke findes *for* brugeren .", betyder det, at brugeren, der er logget på, ikke har en Exchange Onlince-licens og sp, ingen Exchange Online-postkasse er knyttet til denne brugerkonto. 
 
-1. Åbn [Microsoft 365 Administration,](https://portal.office.com/adminportal/home#/homepage) og gå **til Aktive brugere** under **sektionen** Brugere, og vælg den bruger, der får vist fejlen.
+En organisationsadministrator kan tildele en Exchange licens til brugeren via Microsoft 365 Administration ved at følge disse trin:
 
-2. På brugersiden, der åbnes, skal du gå til  sektionen Licenser og **apps,** vælge den relevante placeringsværdi og tildele en licens, der indeholder Exchange Online (udvid licensen for at få vist dens detaljer). Klik på Gem ændringer, når du **er færdig.**
-
-I nogle tilfælde, hvis licensen allerede er tildelt en brugerkonto, hjælper fjernelse og ny tildeling af licensen med at løse problemet og få den korrekt klargjort i systemet: 
-
-- Kontrollér, om din M365-Exchange Online (og andre, hvis du har nogen) abonnementer er aktuelle og ikke er udløbet for nylig.
-
-Når du har kontrolleret, at dit abonnement ikke er udløbet, og en gyldig licens er blevet tildelt brugerkontoen, kan der gå op til 24 timer, før licensen er klargjort, så det kan være en god ide at vente på, at problemet bliver løst. Du kan få mere at vide [under Tildel og administrer licenser.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Gå til [Aktive brugere](https://portal.office.com/adminportal/home#/users), vælg brugeren, og vælg **Produktlicenser**  >  **Rediger**. 
+1. Angiv den ønskede placering.
+1. Tildel en licens, der Exchange Online en serviceaftale.
