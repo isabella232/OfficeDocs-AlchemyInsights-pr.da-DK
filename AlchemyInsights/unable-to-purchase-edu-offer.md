@@ -1,26 +1,29 @@
 ---
-title: Edu-tilbuddet kan ikke købes
-ms.author: pebaum
-author: pebaum
+title: Kunne ikke købe EDU-tilbud
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "5989"
 - "1500009"
-ms.openlocfilehash: e3a8db9273fb3146bd798c36c0fa7c0b1a6e7187
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.date: 07/8/2020
+ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088314"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451844"
 ---
-# <a name="unable-to-purchase-edu-offer"></a>Edu-tilbuddet kan ikke købes
+# <a name="unable-to-purchase-edu-offer"></a>Kunne ikke købe EDU-tilbud
 
-For at afgøre, om din organisation er berettiget til akademiske priser, skal du [fuldføre vores bekræftelsesproces og indtaste dit domæne.](https://portal.office.com/Adminportal/Home#/Domains/SOWizard) Prøveversionen af Office 365 A1 til fakultetet og prøveversionen af Office 365 A1 til studerende er tilgængelige, så du kan bruge den, mens du venter på din gennemgang af din organisationsberettigelse.
+Hvis du vil afgøre, om din organisation er kvalificeret til akademiske priser, skal du [fuldføre vores bekræftelsesproces og angive dit domæne](https://admin.microsoft.com/Adminportal#/Domains/SOWizard). Office 365 A1 til fakultetsmedarbejdere og Office 365 A1 til studerende er tilgængelige for dig at bruge, mens du venter på vurderingen af din organisations berettigelse.
 
-Hvis du vil købe Microsoft 365 kommercielt, skal du se [tilgængelige tilbud](https://go.microsoft.com/fwlink/p/?linkid=868433).
+Vil du købe en kommerciel udgave af Microsoft 365, henvises du til de [tilgængelige tilbud](https://go.microsoft.com/fwlink/p/?linkid=868433).
