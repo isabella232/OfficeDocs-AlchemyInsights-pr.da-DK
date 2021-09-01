@@ -3,7 +3,6 @@ title: Faktura- og betalingsoplysninger
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: b28778c821b4440636a3edea450920306ee9f6a0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321957"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845316"
 ---
 # <a name="invoice-and-payment-information"></a>Faktura- og betalingsoplysninger
 
@@ -31,7 +31,7 @@ Når du køber et Microsoft 365 for business-abonnement direkte fra Microsoft, k
 
 **Faktura/faktura**
 
-Du kan finde og downloade dine fakturaer på siden **Faktureringsfakturering**  >  [& betalingskonto.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
+Du kan finde og downloade dine fakturaer på siden **Faktureringsfaktura**  >  [&](https://go.microsoft.com/fwlink/p/?linkid=848039) betalingssiden.  
 
 **Bemærk!** Hvis der ikke vises nogen fakturaer, kan det være nødvendigt at justere filteret for datointerval.  Som standard vises de sidste 3 måneders fakturaer.
 
