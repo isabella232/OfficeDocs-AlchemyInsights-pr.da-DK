@@ -3,7 +3,6 @@ title: Fakturering og betaling
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314910"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844956"
 ---
 # <a name="billing-and-payment"></a>Fakturering og betaling
 
-Dine regninger kan findes under fanen  >  [Faktureringsfakturering & betalinger.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard vises de sidste 3 måneders fakturaer.  Juster filteret for at få vist ældre fakturaer.  Klik på **linket Download fakturaens PDF-fil** for at få vist fakturaen.
+Dine regninger kan findes under **fanen**  >  [Faktureringsfakturering & betalinger.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Som standard vises de sidste 3 måneders fakturaer.  Juster filteret for at få vist ældre fakturaer.  Klik på **linket Download fakturaens PDF-fil** for at få vist fakturaen.
 
 **Modtag fakturaer via mail**
 
