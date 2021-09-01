@@ -3,7 +3,6 @@ title: Skift betalingsmetode
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 924c3afce5ceda57175de1f638a2a4012b2ba96b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324030"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836819"
 ---
 # <a name="change-payment-method"></a>Skift betalingsmetode
 
-Du kan ændre betalingsmetoden fra **Microsoft 365 Administration.**
+Du kan ændre betalingsmetoden **fra** Microsoft 365 Administration.
   
 1. I Administration skal du gå til siden  >  **Faktureringsfakturering &**  >  [betalingsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 2. Markér rækken for den betalingsmetode, der skal erstattes. I højre rude vises alle faktureringsprofiler og individuelle abonnementer, der bruger den valgte betalingsmetode.

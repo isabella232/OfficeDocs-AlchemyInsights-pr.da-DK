@@ -3,7 +3,6 @@ title: Ofte stillede spørgsmål om betaling
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +13,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895701"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841895"
 ---
 # <a name="payment-faq"></a>Ofte stillede spørgsmål om betaling
 
 Administrer betalinger i **Microsoft 365 Administration**.
 
-- Gå til **Fakturering > Dine produkter [for](https://go.microsoft.com/fwlink/p/?linkid=842054)** at tildele eller ændre betalingsmetoder for abonnementet.
+- Gå til **Fakturering > dine produkter [for](https://go.microsoft.com/fwlink/p/?linkid=842054)** at tildele eller ændre betalingsmetoder for abonnementet.
 - Gå til **Fakturering > [Betalingsmetoder](https://go.microsoft.com/fwlink/p/?linkid=2018806)** for at tilføje, opdatere, erstatte eller slette betalingsmetoder.
 
 - **Betalingsmetoder** – Hvis der betales med kreditkort eller bankkonto, opkræves betalingsmetoden, der er knyttet til abonnement(er) inden for et par dage, efter fakturaen er oprettet. Hvis betalingen mislykkes, skal du opdatere din betalingsmetode. Du kan få mere at vide [under Administrer betalingsmetoder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
