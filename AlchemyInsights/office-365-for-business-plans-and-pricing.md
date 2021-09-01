@@ -3,7 +3,6 @@ title: Sammenlign Microsoft 365 til virksomheder
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,14 +14,15 @@ ms.custom:
 - commerce_purchase
 - "475"
 - "1500026"
+ms.date: 04/21/2020
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 0ab2a4575f360abd4757d25626a1ab3d5888b887
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 87fb3a0bc876d03265d545ee07e4e123d9119d4e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318190"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843732"
 ---
 # <a name="compare-microsoft-365-for-business"></a>Sammenlign Microsoft 365 til virksomheder
 
-Der findes forskellige planer med Microsoft 365 til virksomheder. Du kan finde oplysninger om funktioner og priser [under Microsoft 365 for business-planer.](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)  
+Der findes forskellige planer med Microsoft 365 til virksomheder. Du kan finde oplysninger om funktioner og priser [i Sammenlign Microsoft 365 for business-planer](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products).  

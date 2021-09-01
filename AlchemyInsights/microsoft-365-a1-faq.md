@@ -14,18 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "4981"
 - "9002568"
-ms.openlocfilehash: 76f09fd64c23912bcaa9db86859d276d7d817815
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 726306a739d074c1333b02e0e7755dd00624f3d1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452096"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843588"
 ---
 # <a name="microsoft-365-a1-faq"></a>Ofte stillede spørgsmål om Microsoft 365 A1
 
 Ofte stillede spørgsmål om abonnements- og licensadministration af A1:
 
-- Hvis din institution endnu ikke har konfigureret dit Microsoft 365 Education, men du vil tilføje **Microsoft 365 gratis**, kan du komme i gang ved at angive din mail. For at angive din mail, skal du se [Kom i gang med Office 365 gratis](https://www.microsoft.com/education/products/office).  
+- Hvis din institution endnu ikke har konfigureret Microsoft 365 Education, men du vil tilføje **Microsoft 365 gratis**, kan du komme i gang ved at angive din mail. For at angive din mail, se [Kom i gang med Office 365 gratis](https://www.microsoft.com/education/products/office).  
 - Hvis din institution allerede er kvalificeret til Microsoft 365 Education, skal du gå til **Fakturering > [Køb-tjenester](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Brug søgefeltet til at søge efter "A1", og vælg en plan samt antallet af brugere. Du kan få mere at vide under [Prøv et gratis prøveabonnement](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#try-a-free-trial-subscription) eller [Køb et andet abonnement](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Hvis du vil **ændre abonnementer**, skal du se [Opgrader til et andet abonnement](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Hvis du vil **tildele** A1-licenser til brugere, skal du gå til **Fakturering > [Licenser](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Du kan finde flere oplysninger under [Tildel licenser til brugere](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: 7c25c2b782bdffadd5239aeeb7e0aba5386aeef42a7b5236c7d282ac3ba26a55
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 7c3d346826f6ab0385fde20b97e36f1ef6febdc6
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029330"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843660"
 ---
 # <a name="how-to-cancel-a-subscription"></a>Sådan annullerer du et abonnement
 
@@ -31,7 +32,7 @@ Du kan kun annullere et Azure-abonnement i Azure-portalen, hvis du er kontoadmin
 
 **Hvad sker der, efter jeg har annulleret mit abonnement?**
 
-Når du opsiger dit abonnement, stoppes fakturering øjeblikkeligt. Det kan dog tage op til 10 minutter, før annulleringen vises i portalen. Hvis du annullerer dit abonnement midt i en faktureringsperiode, sender vi den endelige faktura på den typiske fakturadato, efter perioden udløber.
+Når du opsiger dit abonnement, stoppes fakturering øjeblikkeligt. Det kan dog tage op til 10 minutter, før annulleringen vises i portalen. Hvis du annullerer dit abonnement midt i en faktureringsperiode, sender vi den endelige faktura på din typiske fakturadato, når perioden udløber.
 
 Dine tjenester deaktiveres efter din annullering. Det betyder, at dine virtuelle maskiners allokering fjernes, midlertidige IP-adresser frigøres, og lageret er skrivebeskyttet.
 

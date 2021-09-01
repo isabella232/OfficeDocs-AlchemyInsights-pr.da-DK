@@ -3,7 +3,6 @@ title: Skift din faktureringsadresse
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -17,12 +16,13 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: f5320762aa8327dc7aa94cf46226b70462c9d9ec
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330402"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843300"
 ---
 # <a name="change-your-billing-address"></a>Skift din faktureringsadresse
 
@@ -33,9 +33,9 @@ Din regning eller faktura indeholder tre adresser.
 1. I Administration skal du gå til **Fakturering > [Betalingsmetoder.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Vælg det kreditkort eller den bankkonto, du vil ændre.
 3. På siden **Med oplysninger om betalingsmetode** skal du klikke på **Rediger**.
-4. Opdater din faktureringsadresse, og klik derefter **på Gem > udført**.
+4. Opdater din faktureringsadresse, og klik **derefter på Gem > udført**.
 
-Du kan finde flere oplysninger om adresse- og meddelelsesændringer [i Ændre dine faktureringsadresser for Microsoft 365 til virksomheder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Hvis du vil have mere at vide om adresse- og meddelelsesændringer, [skal du se Ændre dine faktureringsadresser for Microsoft 365 til virksomheder.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **Ændre faktureringskontooplysningerne**
 

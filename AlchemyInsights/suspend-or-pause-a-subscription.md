@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 8f15c401ffd6142ca5910c23760b169d7b1657c711ec19094ac7a2940e40a629
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: bd1ad533fbde1847d5f1ba3686b699d0c65b228b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900794"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843624"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Afbryd eller afbryd et abonnement midlertidigt
 
-Hvis du vil suspendere eller afbryde dit abonnement midlertidigt, kan du annullere abonnementet i Microsoft 365 Administration.
+Hvis du vil suspendere eller midlertidigt afbryde dit abonnement, kan du annullere abonnementet i Microsoft 365 Administration.
 
 1. I Administration skal du gå til **siden Fakturering**  >  **[dine](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkter.
 2. Find det **abonnement,** du vil opsige, under fanen Produkter. Vælg de tre d'er (flere handlinger), og vælg derefter **Annuller abonnement**.

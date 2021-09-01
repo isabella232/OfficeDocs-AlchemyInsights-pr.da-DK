@@ -3,6 +3,7 @@ title: Aktivere eller genaktivere et abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 82e351382d66e5a1aa6d86be509fc9bb08bdc411
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314306"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842868"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivere eller genaktivere et abonnement
 
@@ -27,7 +29,7 @@ ms.locfileid: "58314306"
 
 - Hvis du vil give brugerne adgang til en tjeneste, skal du tildele dem en licens. Se Tildel licenser til brugere [for at lære hvordan.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Hvis du allerede har fået tildelt en licens, kan du finde programmer, du kan hente, fra [siden Min konto.](https://portal.office.com/account/#installs) Denne side indeholder en liste over programmer, der er tilgængelige til download, baseret på de tildelte licenser.
-- Hvis du allerede har downloadet Office-programmerne, skal du muligvis logge på programmerne med din arbejds- eller skolekonto. Det kan du gøre i Office program (Word, Excel osv.) ved at klikke på  >  **Filer Office Konto** (næsten nederst). Under **Brugeroplysninger** skal du **vælge Skift konto**. Du kan finde flere oplysninger [under Installere Office programmer](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Hvis du allerede har downloadet Office-programmerne, skal du muligvis logge på programmerne med din arbejds- eller skolekonto. Det kan du gøre i Office program (Word, Excel osv.) ved at klikke på  >  **Filer Office Konto** (nær bunden). Under **Brugeroplysninger** skal du **vælge Skift konto**. Du kan finde flere oplysninger [under Installere Office programmer](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Genaktiver et abonnement**
 
@@ -46,5 +48,5 @@ Du kan finde flere oplysninger under [Genaktiver dit abonnement](https://docs.mi
 
 **Aktivér et nyt abonnement med en produktnøgle**
 
-1. Hvis du vil aktivere et Microsoft 365-abonnement med din produktnøgle, skal du se [Hvor skal Office indtaste din produktnøgle?](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+1. Hvis du vil aktivere et Microsoft 365-abonnement med din produktnøgle, skal du se [Hvor skal jeg Office produktnøglen?](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 2. Angiv din produktnøgle til Microsoft 365, og følg vejledningen for at aktivere dit abonnement. Hvis du har problemer med aktiveringen, kan du se denne [liste over almindelige fejl i forbindelse med produktnøgler og løsninger.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
