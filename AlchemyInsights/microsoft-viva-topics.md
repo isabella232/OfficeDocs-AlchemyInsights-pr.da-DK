@@ -1,5 +1,5 @@
 ---
-title: Få mere at vide om Microsoft Viva Topics
+title: Få mere at vide Microsoft Viva Topics
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8341"
-ms.openlocfilehash: 1f8492dfc3238f72f70528d920d2f9d68c6fc528ea2cb7f551b178c163255916
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5a02df731417fb1782fbdcb9ea9130f505ba60b9
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53992766"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923656"
 ---
-# <a name="learn-more-about-microsoft-viva-topics"></a>Få mere at vide om Microsoft Viva Topics
+# <a name="learn-more-about-microsoft-viva-topics"></a>Få mere at vide Microsoft Viva Topics
 
-Hvis du er klar til at prøve Viva-emner, [er prøveversioner og køb tilgængelige i dag.](https://aka.ms/BuyVivaTopics)
+Hvis du er klar til at prøve Viva-emner, [er prøveversioner og køb tilgængelige i dag.](https://aka.ms/BuyVivaTopics) 
 
-Du kan få mere at vide under [Ressourcecenter for Viva-emner](https://aka.ms/viva/topics/resources).
+Du kan finde flere oplysninger [Microsoft Viva Topics oversigten](https://docs.microsoft.com/microsoft-365/knowledge/topic-experiences-overview). 

@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978155"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923548"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – Grundlæggende sikkerhedsindstillinger
 
@@ -37,6 +37,8 @@ Hver grundindstilling opdateres med jævne mellemrum og udgives i trinvise versi
 Du kan få vejledning til, hvordan du mest effektivt ændrer, hvilken version af grundindstilling, der installeres, i [Administrer profiler for grundlæggende sikkerhedsindstillinger i Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Når du har udrullet en grundlæggende sikkerhedsindstilling, kan du overvåge dens aktiverede tilstand og gennemse indstillingerne fra enhed til enhed.
+
+Da de oprindelige planer for sikkerheden indeholder mange indstillinger, er det vigtigt at gennemgå konfigurationsændringerne og udføre test for at sikre, at alle indstillingerne er relevante for dine enheder og forretningsmæssige behov.
 
 **Bemærk:** Det kan tage op til 24 timer, før rapporteringsdataene for grundlæggende sikkerhedsindstillinger vises efter den første installation på en enhed og op til 6 timer for yderligere opdateringer. 
 
