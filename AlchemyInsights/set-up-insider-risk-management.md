@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060850"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446649"
 ---
 # <a name="set-up-insider-risk-management"></a>Konfigurer styring af insiderrisiko
 
-Hvis du vil have adgang til og bruge insiderrisikostyring, **skal** din organisation have et af følgende abonnementer:
+Hvis du vil have adgang til og bruge insiderrisikostyring, skal din organisation have et af følgende abonnementer:
 
-- **Microsoft 365 E5**-abonnement.
+- Microsoft 365 G5-abonnement (betalt version eller prøveversion)
+- Microsoft 365 G3+tilføjelsesprogrammet Microsoft 365 G5 Compliance
+- Microsoft 365 G3-abonnement + Microsoft 365 G5 Insider Risk Management-tilføjelsesprogrammet
+- Office 365 E3-abonnement + Enterprise Mobility and Security E3 + Microsoft 365 E5 Overholdelse-tilføjelsesprogrammet
 
-- **Microsoft 365 E3**-abonnement med tilføjelsen Microsoft E5-overholdelse.
+Hvis du ikke har en eksisterende Microsoft 365 E5-plan og gerne vil prøve Insider-risikostyring, kan du føje Microsoft 365 til dit eksisterende abonnement eller tilmelde dig en prøveversion af Microsoft 365 Enterprise E5.
 
-Hvis du ikke har et eksisterende **Microsoft 365 E5**-abonnement og gerne prøve insiderrisikostyring, kan du føje Microsoft 365 til dit eksisterende Oabonnement eller tilmelde dig en prøveversion af Microsoft 365 Enterprise E5.
+**Tips:**
 
-> [!TIP]
-- > Brug af skabelonen "Datalækage": Sørg for, at du til enhver tid har konfigureret mindst én DLP-politik.
-- > Administrator får ikke vist beskeder: Sørg for, at brugeren er tildelt en af følgende grupper:
-    - >**Analytikere af styring af insider-risiko**
-    - >**Undersøgere af styring af insider-risiko**
+- Brug skabelonen Datalækager til at sikre, at du har konfigureret mindst én politik til forebyggelse af datatab (DLP). Der er dog en ny udløserindstilling, der ikke kræver, at der konfigureres en DLP-politik.
 
-Hvis du vil have mere at vide om, hvordan politikker for insiderrisiko kan hjælpe dig med at administrere risikoen i din organisation, skal du se [Styring af insiderrisiko i Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Globale administratorer har som standard ikke adgang til Insider Risk Management-portalen. De skal være tildelt en af rollerne i Insider Risk Management.
+
+- Hvis en administrator ikke får vist beskeder, skal du kontrollere, at brugeren er tildelt en af følgende grupper:
+
+    Analytikere af styring af insider-risiko
+
+    Undersøgere af styring af insider-risiko
+
+Du kan finde flere oplysninger om, hvordan insider-risikokontrol kan hjælpe dig med at administrere risici i din organisation under Få mere at vide om [insider-risikostyring i Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management).
