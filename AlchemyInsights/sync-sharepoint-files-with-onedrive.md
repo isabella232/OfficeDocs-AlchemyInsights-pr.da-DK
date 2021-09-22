@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7c9b50abf89edca6cfded4e8f47bd3f4db9ec538
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 538cc24c091d42a8f7a8998ce1d18b61ac0b689c
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329366"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475463"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Foretag fejlfinding af "Åbn med Stifinder" i SharePoint Online
 
@@ -32,7 +32,7 @@ Følg trinnene og de bedste fremgangsmåder i følgende artikler:
 **Bemærk!**
 - Vi anbefaler [at synkronisere SharePoint-filer](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us) med den nye [OneDrive-synkronisering-klient,](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us) som leverer Filer efter behov, fordi synkroniseringen giver lokal adgang til dine filer og giver den bedste ydeevne.
 
-- **Åbn med Stifinder** understøttes kun i Internet Explorer 11. Du kan finde flere oplysninger [under Ophør af understøttelse af IE11 med Microsoft 365 Apps](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)). **Åbn med Stifinder** fungerer ikke i Windows med Microsoft Edge, Google Chrome, Mozilla Firefox eller på Mac-platformen. Af denne grund kan indstillingen **i Stifindervisning** være nedtonet. 
+- **Åbn med Stifinder** understøttes kun i Microsoft Edge browser. Få mere at vide under Få SharePoint vist filer med [Stifinder i Microsoft Edge](https://docs.microsoft.com/SharePoint/sharepoint-view-in-edge) og Ophør af support til den ældre [version af Microsoft Edge](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy). **Åbn med Stifinder** fungerer ikke i Windows Google Chrome, Mozilla Firefox eller  på Mac-platformen, så indstillingen Stifindervisning kan være nedtonet.
 
 - Knappen **Åbn med Stifinder** vises ikke i den nye biblioteksoplevelse. Vælg rullemenuen **Vis** øverst til højre (navnet på rullemenuen afhænger af, hvilken visning du i øjeblikket bruger), og vælg derefter **Vis i Stifinder**.
 
