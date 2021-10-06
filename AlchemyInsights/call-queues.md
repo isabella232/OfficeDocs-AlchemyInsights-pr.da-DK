@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
 ms.translationtype: MT
 ms.contentlocale: da-DK
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103906"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131888"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Opkaldskøer i Microsoft Teams og Skype for Business 
 
-Se følgende links for at komme i gang med at bruge opkaldskøer.
+Opkaldskøer kræver specifikke licenser og ressourcekonti. Du kan finde flere oplysninger i [Plan for Teams automatiske omstillinger og opkaldskøer: Forudsætninger]( https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
 
-- [Opret en skybaseret opkaldskø](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Besvar automatisk omstilling og opkaldskøopkald direkte fra Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+Du kan få mere at vide om at oprette og konfigurere Microsoft Teams i [Opret en opkaldskø.](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) 
+
+Du kan få mere at vide [under Besvar automatisk omstilling og opkaldskøopkald direkte fra Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
